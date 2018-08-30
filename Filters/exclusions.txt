@@ -1,0 +1,176 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/19113
+online-metrix.net
+! https://github.com/AdguardTeam/AdguardDNS/issues/300
+tag.aticdn.net
+! Fixing Nvidia Shield Tv issue
+pingdom.net
+! Fixing Spotify redirect
+adj.st
+! https://github.com/AdguardTeam/AdguardDNS/issues/278
+ezoic.net
+! https://github.com/AdguardTeam/AdguardDNS/issues/269#issuecomment-381627885
+apptimize.com
+brahe.apptimize.com
+! blocked by DNS
+olymptrade.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/13834
+onthe.io
+! https://github.com/AdguardTeam/AdguardDNS/issues/247
+confirmit.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/11931
+comagic.ru
+! Fixing video player on estream.to
+estream.to
+! https://github.com/AdguardTeam/AdguardFilters/issues/10136
+adtechus.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/9241
+statuscake.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/9748
+impact-ad.jp
+! https://github.com/AdguardTeam/AdguardFilters/issues/9668
+cxense.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/9130
+popin.cc
+! https://forum.adguard.com/index.php?threads/tubepornkiss-com-nsfw.27807/
+webclicks24.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/9154
+loader.adrelayer.com
+! ads replacement on lenta.ru
+ssp.rambler.ru
+! https://github.com/AdguardTeam/AdguardFilters/issues/8872
+rtoaster.jp
+! https://github.com/AdguardTeam/AdguardFilters/issues/8698
+seosprint.net
+! https://github.com/AdguardTeam/AdguardFilters/issues/8469
+eroterest.net
+! See customer ID: 1693928
+||wipe.de
+! some sites are broken with DNS filtering
+piguiqproxy.com
+amgload.net
+! https://github.com/AdguardTeam/AdguardDNS/issues/196
+neobux.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/7161
+hellywood.ru
+! https://forum.adguard.com/index.php?threads/25831/
+heroeswm.ru
+! https://github.com/AdguardTeam/AdguardFilters/issues/7061
+mixpanel.com
+! https://github.com/AdguardTeam/AdguardDNS/issues/191
+app.adjust.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/6999
+onvix.tv
+! https://github.com/AdguardTeam/AdguardDNS/issues/186
+smartredirect.de
+! https://github.com/AdguardTeam/AdguardFilters/issues/6700
+xg4ken.com
+! https://github.com/AdguardTeam/AdguardForAndroid/issues/1439
+zdbb.net
+! https://forum.adguard.com/index.php?threads/https-userstyles-org.23844/
+freegeoip.net
+! Fixing Twitter app
+analytics.twitter.com
+! https://forum.adguard.com/index.php?threads/mydealz-blocked-by-adguard-dns.23107/
+digidip.net
+! westernunion.com is broken https://forum.adguard.com/index.php?threads/22700/ https://forum.adguard.com/index.php?threads/westernunion-com.22897/
+csi.gstatic.com
+iesnare.com
+! https://forum.adguard.com/index.php?threads/22964/
+bat.bing.com
+! https://github.com/AdguardTeam/AdguardDNS/issues/125
+qualtrics.com
+! Fixing redirects https://forum.adguard.com/index.php?threads/fiverr-com.22612/
+atdmt.com
+! Fixing ad block detection on a lot of the sites
+easylist.club
+! https://forum.adguard.com/index.php?threads/parking-websites-redirect-false-positive.22374/
+hxtrack.com
+! http://tv.naver.com/v/1691094 - video won't play
+smartmediarep.com
+! Fixing advertising links in google search results
+googleadservices.com
+! Blocking of these domains can break some sites
+p.d.0emn.com
+p.d.0fmm.com
+p.d.0mme.com
+p.d.1enm.com
+p.d.rpts.org
+! Too wide rule
+adfox.ru
+! https://github.com/AdguardTeam/AdguardFilters/issues/4713
+visualwebsiteoptimizer.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/4609
+eboundservices.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/4623
+imrworldwide.com
+! https://github.com/AdguardTeam/AdguardDNS/issues/91
+ip-api.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/4525 [ozon.ru app for iOS]
+t.appsflyer.com
+stats.appsflyer.com
+! https://www.wilderssecurity.com/threads/adguard-ad-blocker.342850/page-85#post-2656320
+videoplaza.tv
+! https://github.com/AdguardTeam/AdguardDNS/issues/124
+cedexis.net
+! https://github.com/AdguardTeam/AdguardFilters/issues/4208
+epn.bz
+! https://github.com/AdguardTeam/AdguardDNS/issues/106
+ethn.io
+! https://github.com/AdguardTeam/AdguardDNS/issues/109
+admitad.com
+! https://github.com/AdguardTeam/AdguardDNS/issues/104
+digits.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/3898
+fls-na.amazon.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/3717
+ups.ksmobile.net
+! https://github.com/AdguardTeam/AdguardFilters/issues/3780
+georiot.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/3725
+vectorstock.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/2604
+sascdn.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/3601
+! Fixing Samsung Service Server
+ospserver.net
+! https://github.com/AdguardTeam/AdguardForiOS/issues/278
+podtrac.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/3492
+marfeel.com
+! Start: BBC Sport app https://github.com/AdguardTeam/AdguardDNS/issues/92
+edigitalsurvey.com
+gate.hockeyapp.net
+sa.bbc.com
+sa.bbc.co.uk
+! End: BBC Sport app
+! https://github.com/AdguardTeam/AdguardForiOS/issues/228
+jumia.com.ng
+! https://github.com/AdguardTeam/AdguardForiOS/issues/197
+v3cdn.net
+! https://github.com/AdguardTeam/AdguardDNS/issues/70
+bnc.lt
+! https://github.com/AdguardTeam/AdguardDNS/issues/63
+imasdk.googleapis.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/3180
+2mdn.net
+! https://github.com/AdguardTeam/AdguardDNS/issues/61
+g17media.com
+! https://github.com/AdguardTeam/AdguardDNS/issues/43
+alipromo.com
+! https://github.com/AdguardTeam/AdguardDNS/issues/41
+! Adverigo captcha
+adverigo.com
+! VarageSale app (iOS)
+optimizely.com
+! https://github.com/AdguardTeam/AdguardDNS/issues/59
+dw.cbsi.com
+! Fixing few generic issues
+viglink.com
+googletagservices.com
+googletagmanager.com
+omtrdc.net
+scorecardresearch.com
+! https://github.com/AdguardTeam/AdguardDNS/issues/89
+fwmrm.net
+.club
+.bid
