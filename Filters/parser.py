@@ -18,7 +18,7 @@ def is_domain_rule(rule):
         return True
     replace_idx =  slash_idx if slash_idx != -1 else question_idx
     tail = rule[replace_idx:]
-    return len(tail) <= 2
+    return len(tail) <= 2 and len(rule) > 5
 
 def date_now():
     return datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") 
