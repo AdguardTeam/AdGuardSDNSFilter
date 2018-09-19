@@ -14,7 +14,7 @@ def is_domain_rule(rule):
         return False
     question_idx = rule.find('?', point_idx);    
     slash_idx = rule.find('/', point_idx)
-    if slash_idx == -1 and question_idx == -1:
+    if slash_idx == -1 and question_idx == -1 and len(rule) > 5:
         return True
     replace_idx =  slash_idx if slash_idx != -1 else question_idx
     tail = rule[replace_idx:]
