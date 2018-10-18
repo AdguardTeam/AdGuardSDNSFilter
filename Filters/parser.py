@@ -39,6 +39,9 @@ def is_rule_not_exclusion(rule):
             return False        
     return True
 
+def is_specific_rule_options(options):
+    return options.find("domain=") != -1 or options.find("script") != -1 or options.find("replace") != -1 or options.find("xmlhttprequest") != -1 or options.find("image") != -1 or options.find("stylesheet") != -1
+
 def is_not_duplication(rule):
     return rule not in processed_rules
   
@@ -56,8 +59,9 @@ def save_url_rule(line, f):
         if is_rule_not_exclusion(rule):
             if rule.find('$') != -1:
                 idx = rule.find('$')
-                write_rule(rule[:idx], f)
-                rules_count += 1
+                if not is_specific_rule_options(rule[idx:]):
+                    write_rule(rule[:idx], f)
+                    rules_count += 1
             elif rule.find('##') != -1:
                 continue
             else: 
