@@ -7,4 +7,4 @@ The direct link to the filter: (https://adguardteam.github.io/AdGuardSDNSFilter/
 
 Please note, that to use this filter it is necessary to support [basic ad blocking rules syntax](https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters). It does not make much sense to extract just the hosts file.
 
-This is a default filter for [AdGuard DNS](https://github.com/AdguardTeam/AdGuardDNS).
+This is a default filter for [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) and for the public [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) servers.
