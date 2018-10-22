@@ -40,7 +40,7 @@ def is_rule_not_exclusion(rule):
     return True
 
 def is_specific_rule_options(options):
-    return options.find("domain=") != -1 or options.find("script") != -1 or options.find("replace") != -1 or options.find("xmlhttprequest") != -1 or options.find("image") != -1 or options.find("stylesheet") != -1
+    return options.find("domain=") != -1 or options.find("script") != -1 or options.find("replace") != -1 or options.find("xmlhttprequest") != -1 or options.find("image") != -1 or options.find("stylesheet") != -1 or options.find("websocket") != -1 or options.find("webrtc") != -1
 
 def is_not_duplication(rule):
     return rule not in processed_rules
