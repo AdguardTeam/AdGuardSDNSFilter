@@ -8,6 +8,8 @@
 ||epl.paypal-communication.com^
 ! https://github.com/easylist/easylist/issues/2811
 ||stripe.network^$third-party
+! https://github.com/AdguardTeam/AdguardFilters/issues/29357
+||analytics.twitter.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/28681
 ||anrdoezrs.net^$third-party
 ! Fixing proofpoint.com
