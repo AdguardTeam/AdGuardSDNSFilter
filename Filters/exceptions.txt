@@ -2,6 +2,8 @@
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like 
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/32303
+@@||e.reddit.com^|
 ! Unblock logrocket.com blog
 @@||blog.logrocket.com^|
 ! AdGuard DNS blocks this domain but for some reason, it messes with Android's network validation process.
