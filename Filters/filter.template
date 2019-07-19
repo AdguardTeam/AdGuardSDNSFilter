@@ -89,6 +89,10 @@ url https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishF
 !
 url https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/abpindo_adservers.txt
 !
+! [Inclusion: https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt]
+!
+url https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
+!
 ! Adguard DNS rules
 !
 file rules.txt
