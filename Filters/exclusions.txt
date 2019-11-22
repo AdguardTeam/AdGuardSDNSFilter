@@ -1,6 +1,10 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/170
+! Blocking these IP address were also breaking legitimate websites:
+! Spotify, Pokemon Go
 ||35.
 ||104.
+||130.211.
+||216.21.
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/166
 ||simply.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/159
