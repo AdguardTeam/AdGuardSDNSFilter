@@ -1,4 +1,7 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/170
+! Excluding Google IPs, blocked in Easylist
+||130.211.
+||216.21.
 ||35.
 ||104.
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/166
