@@ -1,3 +1,87 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/192
+||tw.cx^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/180
+||ntv.io^
+||episerver.net^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/23
+||sas.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/174
+||buyeasy.by^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/170
+! Blocking these IP address were also breaking legitimate websites:
+! Spotify, Pokemon Go
+||35.
+||104.
+||130.211.
+||216.21.
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/166
+||simply.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/159
+||perfops.net^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/157
+||adshell.net^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/151
+||macromill.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/149
+||n8s.jp^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/147
+||geni.us^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/144
+||affirm.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/138
+||anexia-it.com^
+! https://forum.adguard.com/index.php?threads/35325/
+||tracking.epicgames.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/41615
+||snap.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/41294
+||lasagneandands.com^
+||hotdogsandads.com^
+||thisisacoolthing.com^
+||meatballsandads.com^
+||pizzaandads.com^
+! https://github.com/AdguardTeam/AdGuardDNS/issues/52
+||cifraclub.com.br^
+! https://github.com/AdguardTeam/AdGuardDNS/issues/51
+||tms-st.cdn.ngenix.net^
+||ngenix.net^
+! https://github.com/AdguardTeam/AdguardFilters/issues/39306
+||ipify.org^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/129
+||mediametrics.ru^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/126
+||uralweb.ru^
+! https://github.com/AdguardTeam/AdguardFilters/issues/39674
+||stats.lt^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/139
+||mybluemix.net^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/119
+||grabo.bg^
+! Unblocking report-uri.com web site
+||report-uri.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/116
+||gvt1.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/113
+||mql5.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/111
+||enter-system.com^
+! https://forum.adguard.com/index.php?threads/34094/
+||simplyhired.com^
+! https://github.com/AdguardTeam/AdGuardDNS/issues/44
+||carrotquest.io^
+! https://github.com/AdguardTeam/AdguardFilters/issues/35795
+||cint.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/34600
+||tags.news.com.au^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/97
+||flipp.com^
+||wishabi.net^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/93
+||loadercdn.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/91
+||advcash.com^
+! https://forum.adguard.com/index.php?threads/shutterstock-7eer-net.32985/
+||7eer.net^
 ! Fixing smallseotools.com
 ||smallseotools.com^
 ! stroeerdigitalpublishing.de - broken website
