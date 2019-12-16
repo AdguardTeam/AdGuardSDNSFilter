@@ -1,3 +1,9 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/195
+||forexprostools.com^
+! instana.io - not a tracking service
+||instana.io^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/192
+||tw.cx^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/180
 ||ntv.io^
 ||episerver.net^
@@ -80,6 +86,8 @@
 ||advcash.com^
 ! https://forum.adguard.com/index.php?threads/shutterstock-7eer-net.32985/
 ||7eer.net^
+! Fixing smallseotools.com
+||smallseotools.com^
 ! stroeerdigitalpublishing.de - broken website
 ||stroeerdigitalpublishing.de^
 ! https://forum.adguard.com/index.php?threads/play-tv2-dk.32729/
