@@ -28,8 +28,9 @@
 ||buyeasy.by^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/170
 ! Blocking these IP address were also breaking legitimate websites:
-! Spotify, Pokemon Go
+! Spotify, Pokemon Go, ZEDGE
 ||35.
+||35.195.
 ||104.
 ||130.211.
 ||216.21.
