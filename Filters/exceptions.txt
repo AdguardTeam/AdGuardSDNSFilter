@@ -1,7 +1,19 @@
 ! Fixing the issue with "Wi-Fi" connection mark when you configure private DNS on Android 9
-! Once you enable private DNS, Android 9 starts resolving random domains looking like 
+! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/199
+@@||radiofrance.targetspot.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/187
+@@||pathe.emsecure.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/190
+@@||awin1.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/185
+@@||app.adjust.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/183
+@@||feed.adrelayer.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/168
+@@||redirect.appmetrica.yandex.com^|
 ! Fixing redirects through guce.advertising.com (www.engadget.com, www.huffpost.com)
 @@||guce.advertising.com^
 ! Unblock logrocket.com blog
@@ -12,8 +24,6 @@
 @@||a.adwolf.ru^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/26607
 @@||imasdk.googleapis.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/23
-@@||sas.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/23929
 @@||cm-beacon.nakanohito.jp^|
 @@||cm-widget.nakanohito.jp^|
