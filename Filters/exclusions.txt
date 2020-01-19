@@ -1,3 +1,5 @@
+! Do not break clicks through the MS redirect service 
+||click.engage.xbox.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/219
 ||dpbolvw.net^
 ! https://github.com/AdguardTeam/AdGuardDNS/issues/37
