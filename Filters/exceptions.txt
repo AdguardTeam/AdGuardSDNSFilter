@@ -43,10 +43,13 @@
 @@||str.hit.gemius.pl^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/6486
 @@||track.rutarget.ru^|
-! https://github.com/AdguardTeam/AdguardDNS/issues/151
-! Fixing searching ads on Google Search
+!
+! Originally reported here: https://forum.adguard.com/index.php?threads/google-ads.22304/
+! The problem is that we cannot hide Google ads on the DNS-level, so we should at least not break clicks on the adverts.
+!
 @@||pagead.l.doubleclick.net^|
 @@||www.googleadservices.com^|
+!
 ! Watson News App for iOS https://github.com/AdguardTeam/AdguardFilters/issues/4524
 @@||5471782.fls.doubleclick.net^|
 ! bild.de - ad block detection
