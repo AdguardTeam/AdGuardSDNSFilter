@@ -1,3 +1,5 @@
+! Unblock ipgeolocation.io (not analytics)
+||ipgeolocation.io^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/233
 ||res-x.com^
 ! Breaks Yahoo shopping app
