@@ -1,7 +1,3 @@
-! Unblock ipgeolocation.io (not analytics)
-||ipgeolocation.io^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/233
-||res-x.com^
 ! Breaks Yahoo shopping app
 ||shopping.yahooapis.jp^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/49614
@@ -44,8 +40,10 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/174
 ||buyeasy.by^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/170
+! https://github.com/AdguardTeam/AdGuardDNS/issues/79
 ! Blocking these IP address were also breaking legitimate websites:
 ! Spotify, Pokemon Go
+||51.158.
 ||35.
 ||104.
 ||130.211.
