@@ -1,8 +1,14 @@
-language: python
+language: node_js
 
-python:
-     - "2.7"
-     
+node_js:
+  - node
+
+install:
+  - yarn install
+
+script:
+  - yarn run build
+
 notifications:
   email:
     recipients:
@@ -10,12 +16,9 @@ notifications:
     on_success: never
     on_failure: always
 
-script:
-    - python Filters/parser.py
-    
 deploy:
-    provider: pages
-    skip_cleanup: true
-    github_token: $GITHUB_TOKEN
-    on:
-      branch: master
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: master
