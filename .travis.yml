@@ -9,6 +9,10 @@ install:
 script:
   - yarn run build
 
+  # prepare deployment
+  - mkdir build
+  - cp -rf Filters build/
+
 notifications:
   email:
     recipients:
@@ -20,6 +24,6 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
-  local_dir: Filters
+  local_dir: build
   on:
     branch: master
