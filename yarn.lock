@@ -3,9 +3,9 @@
 
 
 "@adguard/hostlist-compiler@1.0.x":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@adguard/hostlist-compiler/-/hostlist-compiler-1.0.5.tgz#d5d7c74b8280610d7ff4dc4d1e3aa7c48bb8e5dd"
-  integrity sha512-r5/XLYg+efnx+Z2rdY9Rom8MWEtetWu2gOEI8ADRCmekRLsei/32jneRxpMhfGfc76ZhXeguJ9IJSl2azbDGgg==
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@adguard/hostlist-compiler/-/hostlist-compiler-1.0.6.tgz#b314c7946ea525e6f2851c8665c4c19288a451d9"
+  integrity sha512-sZDaTmeaYcRL53bIPGMwVU76vaoc9y0XvYT5VuWd59hp1BPGCdcxp04MIB5teh3tz+68tkwm5xZvn6jqkGOLxw==
   dependencies:
     ajv "^6.12.0"
     ajv-errors "^1.0.1"
