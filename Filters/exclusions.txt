@@ -315,8 +315,6 @@ easylist.club
 hxtrack.com
 ! http://tv.naver.com/v/1691094 - video won't play
 smartmediarep.com
-! Fixing advertising links in google search results
-googleadservices.com
 ! Blocking of these domains can break some sites
 p.d.0emn.com
 p.d.0fmm.com
@@ -408,3 +406,5 @@ fwmrm.net
 ||r.mail.ru^
 ! unbreak YT search history
 ||s.youtube.com^
+! https://github.com/AdguardTeam/AdguardDNS/issues/63
+||googleadapis.l.google.com^

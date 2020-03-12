@@ -47,13 +47,6 @@
 @@||str.hit.gemius.pl^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/6486
 @@||track.rutarget.ru^|
-!
-! Originally reported here: https://forum.adguard.com/index.php?threads/google-ads.22304/
-! The problem is that we cannot hide Google ads on the DNS-level, so we should at least not break clicks on the adverts.
-!
-@@||pagead.l.doubleclick.net^|
-@@||www.googleadservices.com^|
-!
 ! Watson News App for iOS https://github.com/AdguardTeam/AdguardFilters/issues/4524
 @@||5471782.fls.doubleclick.net^|
 ! bild.de - ad block detection
@@ -61,7 +54,5 @@
 @@||acdn.adnxs.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/4405
 @@||h-sdk.online-metrix.net^|
-! https://github.com/AdguardTeam/AdguardDNS/issues/63
-@@||googleadapis.l.google.com^|
 ! Fixing Walmart
 @@||omniture.walmart.com^|
