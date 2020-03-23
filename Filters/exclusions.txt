@@ -182,41 +182,41 @@
 ! https://github.com/AdguardTeam/FiltersRegistry/issues/186
 ||adswizz.com^
 ! https://forum.adguard.com/index.php?threads/31150/
-||clickdimensions.com^$third-party
+||clickdimensions.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/30514
-||evyy.net^$third-party
+||evyy.net^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/51
-||sumologic.com^$third-party
+||sumologic.com^
 ! https://github.com/AdguardTeam/AdGuardDNS/issues/17
-||bugsnag.com^$third-party
+||bugsnag.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/47
-||2ip.ua^$third-party
+||2ip.ua^
 ! https://github.com/AdguardTeam/AdGuardDNS/issues/14
 ||epl.paypal-communication.com^
 ! https://github.com/easylist/easylist/issues/2811
-||stripe.network^$third-party
+||stripe.network^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/29357
 ||analytics.twitter.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/28681
-||anrdoezrs.net^$third-party
+||anrdoezrs.net^
 ! Fixing proofpoint.com
-||proofpoint.com^$third-party
+||proofpoint.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/26914
 ||zmctrack.net^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/33
-||localbitcoins.com^$third-party
+||localbitcoins.com^
 ! https://forum.adguard.com/index.php?threads/30479/
-||bigmir.net^$third-party
+||bigmir.net^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27858
-||linksynergy.com^$third-party
+||linksynergy.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27863
-||markitondemand.com^$third-party
+||markitondemand.com^
 ! https://forum.adguard.com/index.php?threads/go-tinder-com.30013/
-||bnc.lt^$third-party
+||bnc.lt^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/28
-||jango.com^$third-party
+||jango.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/26
-||app.link^$third-party
+||app.link^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/20
 webtrends.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/24204
@@ -402,9 +402,9 @@ scorecardresearch.com
 ! https://github.com/AdguardTeam/AdguardDNS/issues/89
 fwmrm.net
 ! too wide
-||ru.net^$third-party
+||ru.net^
 ! replaced with *.bpmonline.com^
-||bpmonline.com^$third-party
+||bpmonline.com^
 ! too wide
 ||r.mail.ru^
 ! unbreak YT search history
