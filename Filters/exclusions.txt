@@ -70,21 +70,21 @@
 ! Blocking these IP address were also breaking legitimate websites:
 ! Spotify, Pokemon Go
 ||142.91.
-/^142
+/(https?:\/\/)142
 ||51.89.
-/^51\.89
+/(https?:\/\/)51\.89
 ||51.77.
-/^51\.77
+/(https?:\/\/)51\.77
 ||51.158.
-/^51\.158
+/(https?:\/\/)51\.158
 ||35.
-/^35\.
+/(https?:\/\/)35\.
 ||104.
-/^104\.
+/(https?:\/\/)104\.
 ||130.211.
-/^130\.211
+/(https?:\/\/)130\.211
 ||216.21.
-/^216\.21
+/(https?:\/\/)216\.21
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/166
 ||simply.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/159
