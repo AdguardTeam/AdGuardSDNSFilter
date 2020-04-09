@@ -96,6 +96,13 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "EasyList Italy ad servers",
+      "source": "https://hg.adblockplus.org/easylistitaly/raw-file/tip/easylistitaly/easylistitaly_adservers.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
       "name": "AdGuard Tracking Protection filter third-party trackers",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt",
       "type": "adblock",
