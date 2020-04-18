@@ -1,4 +1,10 @@
 !
+! Temporary to fix Keenetic health check - resolve dnscheck.adguard.com to 0.0.0.0
+! Date: 18.04.2020
+! TODO: Remove in a week
+!
+||dnscheck.adguard.com^
+!
 ! Tracking
 !
 ! This domain does not exist and is used for health checks
