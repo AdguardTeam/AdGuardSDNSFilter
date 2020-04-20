@@ -173,6 +173,13 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "EasyList China ad servers",
+      "source": "https://easylist-downloads.adblockplus.org/easylistchina.txt",
+      "type": "adblock",
+      "exclusions": ["/(?!^(\\|\\||@@\\|\\|))^.+/", "$third-party"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
       "name": "Additional rules",
       "source": "Filters/rules.txt",
       "transformations": ["Validate"],
