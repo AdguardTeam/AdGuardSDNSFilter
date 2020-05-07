@@ -3,6 +3,8 @@
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 ! Blocked by exacttarget.com alias
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/324
+@@||click.promotion.flyscoot.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/316
 @@||click.bookdepoemail.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/306
