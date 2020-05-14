@@ -4,15 +4,7 @@
 !
 ! Blocked by exacttarget.com alias
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/333
-@@||click.messages.webmd.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/324
-@@||click.promotion.flyscoot.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/316
-@@||click.bookdepoemail.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/306
-@@||click.dream.snhu.edu^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/296
-@@||click.mailsf.coinpayments.net^|
+@@||click.virt.s*.exacttarget.com^|
 !
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/312
 @@||grp07.ias.rakuten.co.jp^|
