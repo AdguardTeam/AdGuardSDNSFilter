@@ -2,6 +2,8 @@
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/358
+@@||log.mmstat.com^|
 ! Blocked by exacttarget.com alias
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/324
 @@||click.promotion.flyscoot.com^|
@@ -11,7 +13,6 @@
 @@||click.dream.snhu.edu^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/296
 @@||click.mailsf.coinpayments.net^|
-!
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/312
 @@||grp07.ias.rakuten.co.jp^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/304
