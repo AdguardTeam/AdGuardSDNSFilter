@@ -1,4 +1,6 @@
-# AdGuard Simplified domain names filter
+# AdGuard DNS filter
+
+Formerly *AdGuard Simplified Domain names filter*.
 
 [![](https://travis-ci.com/AdguardTeam/AdGuardSDNSFilter.svg?branch=master)](https://travis-ci.com/AdguardTeam/AdGuardSDNSFilter)
 
@@ -10,7 +12,7 @@ Please note, that to use this filter it is necessary to support [basic ad blocki
 
 This is a default filter for [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) and for the public [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) servers.
 
-### How to build AdGuard SDN filter manually
+### How to build AdGuard DNS filter manually
 
 ```
 yarn install

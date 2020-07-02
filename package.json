@@ -1,7 +1,7 @@
 {
   "name": "adguard-sdn-filter",
   "version": "1.0.0",
-  "description": "AdGuard Simplified domain names filter. A filter composed of several other filters (English filter, Social media filter, Spyware filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.",
+  "description": "AdGuard DNS filter. A filter composed of several other filters (AdGuard Base filter, Social media filter, Spyware filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.",
   "repository": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
   "author": "AdGuard",
   "license": "GPL-3.0",
