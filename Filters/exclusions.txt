@@ -1,5 +1,9 @@
 ! Exclude pre-compiler directives
 /^!#/
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/389
+||sojern.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/387
+||prf.hn^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/376
 ||fitanalytics.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58009
