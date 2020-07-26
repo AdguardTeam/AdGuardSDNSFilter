@@ -2,36 +2,8 @@
   "name": "AdGuard DNS filter",
   "description": "Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.",
   "homepage": "https://github.com/AdguardTeam/AdguardSDNSFilter",
-  "license": "https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE",
+  "license": "https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE"
   "sources": [
-    {
-      "name": "AdGuard Spanish/Portuguese filter ad servers",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-    {
-      "name": "AdGuard Russian filter ad servers",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-    {
-      "name": "AdGuard Russian filter ad servers first-party",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers_firstparty.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-    {
-      "name": "AdGuard Russian filter news exchange servers",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
     {
       "name": "AdGuard Base filter ad servers",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt",
@@ -47,36 +19,8 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
-      "name": "AdGuard Turkish filter ad servers",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-    {
-      "name": "AdGuard Turkish filter ad servers first-party",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers_firstparty.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-    {
-      "name": "AdGuard French filter ad servers",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-    {
-      "name": "AdGuard Mobile Ads filter ad servers",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-    {
-      "name": "AdGuard Japanese filter ad servers",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt",
+      "name": "AdGuard Base filter cryptominers",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/cryptominers.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
@@ -89,15 +33,8 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
-      "name": "EasyList Germany ad servers",
-      "source": "https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-    {
-      "name": "EasyList Italy ad servers",
-      "source": "https://hg.adblockplus.org/easylistitaly/raw-file/tip/easylistitaly/easylistitaly_adservers.txt",
+      "name": "AdGuard Mobile Ads filter ad servers",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
@@ -152,8 +89,71 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
-      "name": "AdGuard Base filter cryptominers",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/cryptominers.txt",
+      "name": "AdGuard Spanish/Portuguese filter ad servers",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
+      "name": "AdGuard Russian filter ad servers",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
+      "name": "AdGuard Russian filter ad servers first-party",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers_firstparty.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
+      "name": "AdGuard Russian filter news exchange servers",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
+      "name": "AdGuard Turkish filter ad servers",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
+      "name": "AdGuard Turkish filter ad servers first-party",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers_firstparty.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
+      "name": "AdGuard French filter ad servers",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
+      "name": "AdGuard Japanese filter ad servers",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
+      "name": "EasyList Germany ad servers",
+      "source": "https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
+      "name": "EasyList Italy ad servers",
+      "source": "https://hg.adblockplus.org/easylistitaly/raw-file/tip/easylistitaly/easylistitaly_adservers.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
