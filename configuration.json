@@ -2,7 +2,7 @@
   "name": "AdGuard DNS filter",
   "description": "Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.",
   "homepage": "https://github.com/AdguardTeam/AdguardSDNSFilter",
-  "license": "https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE"
+  "license": "https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE",
   "sources": [
     {
       "name": "AdGuard Base filter ad servers",
