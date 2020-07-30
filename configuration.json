@@ -61,6 +61,13 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "AdGuard German filter ad servers",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
       "name": "AdGuard French filter ad servers",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers.txt",
       "type": "adblock",
