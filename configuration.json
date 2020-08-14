@@ -19,6 +19,13 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "AdGuard Base filter ad servers foreign",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/foreign.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
       "name": "AdGuard Base filter cryptominers",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/cryptominers.txt",
       "type": "adblock",
