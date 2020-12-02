@@ -1,0 +1,110 @@
+! Fixing the issue with "Wi-Fi" connection mark when you configure private DNS on Android 9
+! Once you enable private DNS, Android 9 starts resolving random domains looking like
+! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/65326
+@@||go.scorptec.com.au^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/468
+@@||links.getblueshift.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/453
+@@||click.trafficguard.ai^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/441
+@@||hb.afl.rakuten.co.jp^|
+@@||pt.afl.rakuten.co.jp^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/62583
+@@||proto2ad.durasite.net^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/62780
+@@||tags.crwdcntrl.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/428
+! CNAME: paymaya.customlinks.appsflyer.com
+@@||official.paymaya.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/381
+@@||gs.statcounter.com^|
+! Fixing NordVPN mobile app launching
+@@||launches.appsflyer.com^|
+! Blocked by exacttarget.com alias
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/333
+@@||click.virt.s*.exacttarget.com^|
+@@||click.virt.exacttarget.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/61592
+@@||login.sendpulse.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/451
+@@||a.sellpoint.net^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/59840
+@@||tlaol.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/378
+@@||admin.dable.io^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/358
+@@||log.mmstat.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/345
+! Blocked by alimama.com alias
+@@||click.simba.taobao.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/340
+@@||cs.silverpop.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/312
+@@||grp07.ias.rakuten.co.jp^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/304
+@@||cindyholbrook.lpages.co^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/289
+! Fixing Google Shop and Google Ads in search results.
+! These ads cannot be hidden on the DNS-level, so we should not break clicks on the adverts
+@@||pagead.l.doubleclick.net^|
+@@||www.googleadservices.com^|
+@@||googleadapis.l.google.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/287
+@@||my.tealiumiq.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/267
+@@||artifactory.appodeal.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/258
+@@||www.jdoqocy.com^|
+@@||cj.dotomi.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/50415
+@@||intersport.peerius.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/231
+@@||cutcaptcha.com^|
+! https://forum.adguard.com/index.php?threads/36967/
+@@||forum.notebookreview.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/199
+@@||radiofrance.targetspot.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/187
+@@||pathe.emsecure.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/190
+@@||awin1.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/185
+@@||app.adjust.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/183
+@@||feed.adrelayer.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/168
+@@||redirect.appmetrica.yandex.com^|
+! Fixing redirects through guce.advertising.com (www.engadget.com, www.huffpost.com)
+@@||guce.advertising.com^
+! Unblock logrocket.com blog
+@@||blog.logrocket.com^|
+! AdGuard DNS blocks this domain but for some reason, it messes with Android's network validation process.
+@@dnsotls-ds.metric.gstatic.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/27196
+@@||a.adwolf.ru^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/26607
+@@||imasdk.googleapis.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/23929
+@@||cm-beacon.nakanohito.jp^|
+@@||cm-widget.nakanohito.jp^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/19113
+@@||ads.tdbank.com^
+! https://forum.adguard.com/index.php?threads/23410/page-7#post-165504
+@@||nineto5mac-d.openx.net^|
+! https://github.com/AdguardTeam/AdguardDNS/issues/192
+@@||redir.tradedoubler.com^|
+@@||clk*.tradedoubler.com^|
+! https://forum.adguard.com/index.php?threads/27021/
+@@||href.li^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/6749
+@@||str.hit.gemius.pl^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/6486
+@@||track.rutarget.ru^|
+! Watson News App for iOS https://github.com/AdguardTeam/AdguardFilters/issues/4524
+@@||5471782.fls.doubleclick.net^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/4405
+@@||h-sdk.online-metrix.net^|
+! Fixing Walmart
+@@||omniture.walmart.com^|
