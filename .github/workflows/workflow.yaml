@@ -1,0 +1,40 @@
+name: Node.js CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+#    strategy:
+#      node-version: 12.x
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+        run: |
+          yarn install
+          yarn run build
+
+      - name: prepare deploy
+        run: |
+          mkdir build
+          cp -rf Filters build/
+        env:
+          CI: true
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./build
+
+notifications:
+  email:
+    recipients:
+      - i.tikhonov@adguard.com
+    on_success: never
+    on_failure: always
