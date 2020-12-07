@@ -2,8 +2,9 @@ name: Node.js CI
 
 on:
   push
-  sсhedule:
-      - cron: '0 * * * *'
+  schedule:
+      - cron: '0 * * * *' # Every hour
+
 jobs:
   build:
 
