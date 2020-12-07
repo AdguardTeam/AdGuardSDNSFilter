@@ -1,8 +1,8 @@
 name: Node.js CI
 
 on:
-  - push
-  - shedule:
+  push
+  shedule:
       - cron '0 * * * *'
 jobs:
   build:
