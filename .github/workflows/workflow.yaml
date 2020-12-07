@@ -1,14 +1,13 @@
 name: Node.js CI
 
-on: [push]
-
+on:
+  - push
+  - shedule:
+      - cron 0 * * * *
 jobs:
   build:
 
     runs-on: ubuntu-latest
-
-#    strategy:
-#      node-version: 12.x
 
     steps:
       - uses: actions/checkout@v2
@@ -32,10 +31,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
-
-#notifications:
-#  email:
-#    recipients:
-#      - i.tikhonov@adguard.com
-#    on_success: never
-#    on_failure: always
