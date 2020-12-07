@@ -3,7 +3,7 @@ name: Node.js CI
 on:
   push
   sсhedule:
-    - cron '0 * * * *'
+      - cron: '0 * * * *'
 jobs:
   build:
 
