@@ -2,8 +2,6 @@
 
 Formerly *AdGuard Simplified Domain names filter*.
 
-[![](https://travis-ci.com/AdguardTeam/AdGuardSDNSFilter.svg?branch=master)](https://travis-ci.com/AdguardTeam/AdGuardSDNSFilter)
-
 A filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 
 The direct link to the filter: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt.
