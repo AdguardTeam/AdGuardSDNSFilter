@@ -3,7 +3,7 @@ name: Build AdGuard DNS filter
 on:
   push:
   schedule:
-    - cron: '0 * * * *' # Every hour
+    - cron: '0 */6 * * *' # Every hour
 
 jobs:
   build:
@@ -16,6 +16,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
+
       - name: yarn
         run: |
           yarn install
@@ -27,6 +28,7 @@ jobs:
           cp -rf Filters build/
         env:
           CI: true
+
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
