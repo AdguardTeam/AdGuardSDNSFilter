@@ -33,9 +33,9 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
 
-notifications:
-  email:
-    recipients:
-      - i.tikhonov@adguard.com
-    on_success: never
-    on_failure: always
+#notifications:
+#  email:
+#    recipients:
+#      - i.tikhonov@adguard.com
+#    on_success: never
+#    on_failure: always
