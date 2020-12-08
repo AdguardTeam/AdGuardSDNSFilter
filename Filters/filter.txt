@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-08T12:13:30.872Z
+! Last modified: 2020-12-08T18:12:35.555Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||7kjfbgkjbfgb.club^
+||moncoerbb.com^
 ||tearpilotzoo.com^
 ||vividlobster.com^
 ||ijsprocode.com^
@@ -32732,7 +32734,6 @@ adbetnet.com
 ||crmpilot.it^
 ||delosnetwork.it^
 ||digitalbees.it^
-||divascam.com^
 ||eadv.it^
 ||easymarketcrs.it^
 ||ebuzzing.it^
@@ -32774,7 +32775,6 @@ adbetnet.com
 ||prontocampaign.com^
 ||publy.net^
 ||radxcomm.com^
-||ragazzeinvendita.com^
 ||rcsadv.it^
 ||reachadv.it^
 ||rizzonelli.it^
@@ -33646,6 +33646,8 @@ adbetnet.com
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
 ||smart-start.com.cn^
+||pic12x20.com^
+||9kanw.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -36737,6 +36739,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||bio-lifehealth.com^
 ||tatjhh.cn^
 ||bmp.ovh^
 ||duwowvo.cn^
