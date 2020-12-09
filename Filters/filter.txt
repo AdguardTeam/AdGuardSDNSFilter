@@ -3,10 +3,36 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-09T12:13:32.987Z
+! Last modified: 2020-12-09T18:12:31.513Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
+!
+! Source name: AdGuard Base filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
+!
+!
+! Section contains list of advertising networks
+!
+! The rules with hints are at the end of file
+!
+!! https://a.bestcontentitem.top/warp/*?r=
+!
+||producingsavourestablish.com^
+||underdividedhowever.com^
+||femininefurrow.com^
+||donkeyrecentfaith.com^
+||despisenoughtshit.com^
+||toperw.com^
+||partymidge.com^
+||prosperitypartying.com^
+||flashingactshrs.com^
+||impulsepicky.com^
+||morguecountryportray.com^
+||panicshaggy.com^
+||overboardinclose.com^
+||hotideiasnetwork.ml^
+||s.bigbolz.com^
 ||7kjfbgkjbfgb.club^
 ||moncoerbb.com^
 ||tearpilotzoo.com^
@@ -18691,6 +18717,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/slardar/sdk.js
 !
 ||track.customer.io^
+||lcs.loginfra.com^
 ||adblock-analytics.io^
 ||aukana.jp^
 ||stat.tiara.
@@ -19028,7 +19055,6 @@ vkcdnservice.appspot.com^
 ||admdspc.com^
 ||admeo.ru^
 ||adtraction.com^
-||adzoe.de^
 ||affiliates-pro.com^
 ||affiliatetrackingsetup.com^
 ||agencytradingdesk.net^
@@ -19038,29 +19064,10 @@ vkcdnservice.appspot.com^
 ||amctp.net^
 ||analytics-engine.net^
 ||anatid3.com^
-||anonymousdmp.com^
-||arch-nicto.com^
-||arpuonline.com^
-||arturtrack.com^
-||awmcounter.de^
 ||az7t8.com^
-||backlinkprofi.info^
 ||backlinks.li^
-||backlinktausch.biz^
-||barlive.link^
-||beanscattering.jp^
-||belstat.at^
-||belstat.ch^
-||bestweb2013stat.lk^
-||betarget.net^
 ||bhs4.com^
 ||bigsauron.ru^
-||blizzardcheck.com^
-||blogtraffic.sg^
-||blogverzeichnis.eu^
-||bookforest.biz^
-||bstk.co^
-||c-webstats.de^
 ||c4tw.net^
 ||callingjustified.com^
 ||castelein.nu^
@@ -19305,7 +19312,6 @@ vkcdnservice.appspot.com^
 ||researchnow.co.uk^
 ||retags.us^
 ||revsw.net^
-||rtbauction.com^
 ||rtfn.net^
 ||rucounter.ru^
 ||s.conyak.com^
@@ -19320,11 +19326,9 @@ vkcdnservice.appspot.com^
 ||segment-analytics.com^
 ||seogift.ru^
 ||servedbyopenx.com^
-||servinator.pw^
 ||servingtrkid.com^
 ||sharp.ondu.ru^
 ||shrinktheweb.com^
-||singleice.link^
 ||sitechart.dk^
 ||slingshot.io^
 ||smfsvc.com^
@@ -19365,8 +19369,6 @@ vkcdnservice.appspot.com^
 ||target.ukr.net^
 ||targeting.wpdigital.net^
 ||tds348bf.us^
-||telemetrytaxonomy.net^
-||teriotracker.de^
 ||thetrafficstat.net^
 ||tm.zedo.com^
 ||tnsinternet.be^
@@ -19376,21 +19378,18 @@ vkcdnservice.appspot.com^
 ||toplog.az^
 ||tracetracking.net^
 ||trackbar.info^
-||trackfreundlich.de^
 ||trackjs.com^
 ||trackuity.com^
 ||trafinfo.info^
 ||trafiz.net^
 ||traktr.news.com.au^
 ||treehousei.com^
-||tscapeplay.com^
 ||tstlabs.co.uk^
 ||tubetrafficcash.com^
 ||tylere.net^
 ||ukrre-tea.info^
 ||ultrastats.it^
 ||uptime.monitorus.ru^
-||uptimeviewer.com^
 ||userchecker.info^
 ||users.51.la^
 ||valaffiliates.com^
@@ -19503,13 +19502,11 @@ vkcdnservice.appspot.com^
 ||showsteel.com^
 ||hardtofindmilk.com^
 ||teethfan.com^
-||similarsabine.com^
 ||faultyfowl.com^
 ||ultraoranges.com^
 ||feebleshock.com^
 ||sailsuit.com^
 ||spirebaboon.com^
-||knifeoctopus.com^
 ||dancemistake.com^
 ||whiskyqueue.com^
 ||readingguilt.com^
@@ -19517,7 +19514,6 @@ vkcdnservice.appspot.com^
 ||swordgoose.com^
 ||aromamirror.com^
 ||archswimming.com^
-||errortablet.com^
 ||farethief.com^
 ||readingopera.com^
 ||elderlytown.com^
@@ -20074,8 +20070,6 @@ vkcdnservice.appspot.com^
 ||2znp09oa.com^
 ||4jnzhl0d0.com^
 ||82o9v830.com^
-||abandonedclover.com^
-||abashedangle.com^
 ||abruptroad.com^
 ||actuallysheep.com^
 ||actuallysnake.com^
@@ -20083,21 +20077,15 @@ vkcdnservice.appspot.com^
 ||ambitiousagreement.com^
 ||argyresthia.com^
 ||ariseboundary.com^
-||balancebreath.com^
 ||balloontexture.com^
 ||bawdybeast.com^
 ||beamincrease.com^
-||beamkite.com^
 ||boredcrown.com^
-||brassrule.com^
 ||broadboundary.com^
 ||bulbbait.com^
 ||calculatorcamera.com^
 ||calmfoot.com^
-||cherrythread.com^
 ||chickensstation.com^
-||chiefcurrent.com^
-||chinchickens.com^
 ||comfortablecheese.com^
 ||commandwalk.com^
 ||concernrain.com^
@@ -20291,6 +20279,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||gak.webtoons.com^
 ||jtrackern.joins.com^
 ||analytics.cinematoday.jp^
 ||log.cinematoday.jp^
@@ -27185,6 +27174,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||minsk-news.info^
+||jvgjrb.com^
 ||mbhjaeg.info^
 ||qiklsv.com^
 ||hwmonitor-ru.ru^
@@ -31344,6 +31335,7 @@ adbetnet.com
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||bs.orsk.ru^
 ||vast4.kinogo.la^
 ||dsn-kuban.krasnodar.su^
 ||nativ.podruzke.ru^
@@ -36742,6 +36734,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||xnzkqew.cn^
+||zhuzaogangqiu.com^
 ||bntxt.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
