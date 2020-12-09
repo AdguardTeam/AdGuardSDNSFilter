@@ -3,22 +3,10 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-09T09:34:35.679Z
+! Last modified: 2020-12-09T12:13:32.987Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
-!
-! Source name: AdGuard Base filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
-!
-!
-! Section contains list of advertising networks
-!
-! The rules with hints are at the end of file
-!
-!! https://a.bestcontentitem.top/warp/*?r=
-!
-||hmonstabb.fun^
 ||7kjfbgkjbfgb.club^
 ||moncoerbb.com^
 ||tearpilotzoo.com^
@@ -32,7 +20,6 @@
 ||sfl-engin.surge.systems^
 ||look.flowln.com^
 ||joinads.me^
-||sailcovertend.com^
 ||mughaymil.site^
 ||robspabah.com^
 ||sellerbackstagejolly.com^
@@ -2289,6 +2276,7 @@ vkcdnservice.appspot.com^
 ||395e27cfc83ea88f.com^
 ||39d1d397c97730.com^
 ||3a8c9b0ca405b5.com^
+||3ab171502b3.com^
 ||3ac901bf5793b0fccff.com^
 ||3b0b68c876376f7311.com^
 ||3c0012ab95c132f.com^
@@ -2465,6 +2453,7 @@ vkcdnservice.appspot.com^
 ||757a51ce62f.com^
 ||758c824671f4fc0.com^
 ||7651d44da06c.com^
+||76aede7d9af.com^
 ||771b92b0ca0963e.com^
 ||77437ee0a17f19c6085.com^
 ||775e11b6033.com^
@@ -3266,6 +3255,7 @@ vkcdnservice.appspot.com^
 ||barytonneras.site^
 ||barytonneras.website^
 ||baselined.club^
+||basinmodelingcolumns.com^
 ||basisendingabattoir.com^
 ||bathibsa.com^
 ||batnhiyilyvvdo.com^
@@ -4621,6 +4611,7 @@ vkcdnservice.appspot.com^
 ||e376ef28103177cc.com^
 ||e521d17fa185a2.com^
 ||e5d944a25e468d.com^
+||e6047cde66.com^
 ||e6916adeb7e46a883.com^
 ||e7e776c1a8bf677.com^
 ||e85440ec98f04725.com^
@@ -5745,6 +5736,7 @@ vkcdnservice.appspot.com^
 ||gnamwmixa.com^
 ||gnatgrocery.com^
 ||gnativestreesaga.site^
+||gneyjsdv.com^
 ||gnorityari.club^
 ||gnpecuwegllca.com^
 ||gntzacjc.com^
@@ -5938,6 +5930,7 @@ vkcdnservice.appspot.com^
 ||hadspmz.com^
 ||haftobso.net^
 ||hagainstan.space^
+||hailsserien.top^
 ||hailstoneclayfairy.com^
 ||haithoaz.net^
 ||halfcharitable.com^
@@ -6105,6 +6098,7 @@ vkcdnservice.appspot.com^
 ||hmikw.com^
 ||hmjtutipevtmg.com^
 ||hmmmcjgho.com^
+||hmonstabb.fun^
 ||hmpumxcsex.com^
 ||hmqzcnngnajps.com^
 ||hmyjpt.com^
@@ -7985,6 +7979,7 @@ vkcdnservice.appspot.com^
 ||muwjxxvovtb.com^
 ||muyoozrkkyr.com^
 ||muzjpkel.com^
+||muzzlelacking.com^
 ||mv3kosrrlxa7.com^
 ||mvbemeggnodty.com^
 ||mvdizbgdpfgl.com^
@@ -9281,6 +9276,7 @@ vkcdnservice.appspot.com^
 ||pryrhoohs.site^
 ||ps7894.com^
 ||psedfenedc.fun^
+||psensuds.net^
 ||psfmlcgzdtwfwf.com^
 ||psijdbcwwnqqw.com^
 ||psisalte.com^
@@ -10128,6 +10124,7 @@ vkcdnservice.appspot.com^
 ||safedomkk.com^
 ||safelyawake.com^
 ||safestsniffingconfessed.com^
+||sailcovertend.com^
 ||sailznsgbygz.com^
 ||sainstandset.site^
 ||saiveewe.net^
@@ -11503,6 +11500,7 @@ vkcdnservice.appspot.com^
 ||vacshqmpvkbzjh.com^
 ||vacwrite.com^
 ||vaebard.com^
+||vafbmmsda.com^
 ||vaftkcyzqg.com^
 ||vaia06o630os.com^
 ||vaipsona.com^
@@ -13401,6 +13399,7 @@ vkcdnservice.appspot.com^
 ||adult-adv.com^
 ||adultimate.net^
 ||adulttds.com^
+||adup-tech.com^
 ||adurr.com^
 ||adv-adserver.com^
 ||adv9.net^
@@ -13591,6 +13590,7 @@ vkcdnservice.appspot.com^
 ||alphagodaddy.com^
 ||alternads.info^
 ||alternativeadverts.com^
+||altrk.net^
 ||am-display.com^
 ||am10.ru^
 ||am11.ru^
@@ -13635,6 +13635,7 @@ vkcdnservice.appspot.com^
 ||appnext.com^
 ||apportium.com^
 ||approp.pro^
+||apprupt.com^
 ||apptap.com^
 ||appwebview.com^
 ||apsmediaagency.com^
@@ -14510,6 +14511,7 @@ vkcdnservice.appspot.com^
 ||erberos.xyz^
 ||eredexpendin.com^
 ||erendri.com^
+||erovation.com^
 ||erovinmo.com^
 ||ersremarypiec.info^
 ||erssamplet.pro^
@@ -16320,6 +16322,7 @@ vkcdnservice.appspot.com^
 ||s.adroll.com^
 ||s20dh7e9dh.com^
 ||s24hc8xzag.com^
+||s2block.com^
 ||s2blosh.com^
 ||s2d6.com^
 ||sa.entireweb.com^
@@ -17155,6 +17158,7 @@ vkcdnservice.appspot.com^
 ||yieldmanager.com^
 ||yieldoptimizer.com^
 ||yieldpass.com^
+||yieldscale.com^
 ||yieldselect.com^
 ||yieldtraffic.com^
 ||yieldx.com^
@@ -32440,7 +32444,6 @@ adbetnet.com
 ||adspirit.net^
 ||adsplash.de^
 ||adsushi.de^
-||adup-tech.com^
 ||advendi.de^
 ||advert-layer.de^
 ||adverticus.de^
@@ -32461,12 +32464,10 @@ adbetnet.com
 ||affimax.de^
 ||agaso.de^
 ||allads4you.de^
-||altrk.net^
 ||amunx.de^
 ||andite.tk^
 ||anzeigen-vor-ort.de^
 ||anzeigenlieferant.de^
-||apprupt.com^
 ||arcor-partner.de^
 ||as997.de^
 ||asnetworks.de^
@@ -32508,7 +32509,6 @@ adbetnet.com
 ||ebesucher.de^
 ||echtebesucher.de^
 ||eeewax.de^
-||erovation.com^
 ||eset-affiliate.de^
 ||et.twyn.com^
 ||ethnarc.de^
@@ -32620,7 +32620,6 @@ adbetnet.com
 ||rgadvert.com^
 ||rockvertise.net^
 ||rubrikator.de^
-||s2block.com^
 ||scash.de^
 ||schlauli.de^
 ||selfpuc.com^
@@ -32679,7 +32678,6 @@ adbetnet.com
 ||wz-werbewelt.de^
 ||xaded.de^
 ||xiji.de^
-||yieldscale.com^
 ||yoomedia.de^
 ||youads.de^
 ||z0a.de^
