@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-10T06:12:35.882Z
+! Last modified: 2020-12-10T12:13:36.254Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18714,9 +18714,6 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
-!||i.snssdk.com/log/*
-!||i.snssdk.com/slardar/sdk.js
-!
 ||track.customer.io^
 ||lcs.loginfra.com^
 ||adblock-analytics.io^
@@ -20281,6 +20278,7 @@ t.yesware.com
 ! Disabled in DNS filter
 !
 ||gak.webtoons.com^
+||s.news.naver.com^
 ||jtrackern.joins.com^
 ||analytics.cinematoday.jp^
 ||log.cinematoday.jp^
@@ -21096,7 +21094,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||v-collector.dp.aws.charter.com^
 ||smetrics.cnn.com^
 ||metrics.claspws.tv^
-||geolocation.onetrust.com^
 ||logs.gaaana.com^
 ||sdk-log-inter.youdao.com^
 ||sensors.snappea.com^
@@ -22504,6 +22501,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||influid.co^
 ||infopro-insight.com^
 ||infoprodata.com^
+||ingage.tech^
 ||inimbus.com.au^
 ||inmoment.com^
 ||innomdc.com^
@@ -23144,6 +23142,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||questradeaffiliates.com^
 ||quillion.com^
 ||quintelligence.com^
+||quintesse.io^
 ||quitsnap-blue.com^
 ||qzlog.com^
 ||r7ls.net^
@@ -26595,6 +26594,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d.nativendo.de^
 ||d.omsnative.de^
 ||data.econa.com^
+||datalayer.p7s1.io^
 ||events.kaloo.ga^
 ||fc.webmasterpro.de^
 ||geo.mtvnn.com^
@@ -27175,6 +27175,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||u7kgr54jr7.ru^
+||ymjfhg.com^
 ||minsk-news.info^
 ||jvgjrb.com^
 ||mbhjaeg.info^
@@ -36735,6 +36737,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||toujing9.top^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
