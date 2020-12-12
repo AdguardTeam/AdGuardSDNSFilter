@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-12T00:16:33.317Z
+! Last modified: 2020-12-12T06:06:13.267Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -33616,7 +33616,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||depnegj.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34131,6 +34130,7 @@ adbetnet.com
 ||ddhtek.com^
 ||ddomm.com^
 ||deeplacer.com^
+||depnegj.cn^
 ||detuns.com^
 ||df3n43m.com^
 ||df77.com^
@@ -35965,7 +35965,6 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
-||bd1-china.xsfaya.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -36168,6 +36167,7 @@ adbetnet.com
 ||bd.czxuexi.com^
 ||bd.ershenghuo.com^
 ||bd1-china.6789.com^
+||bd1-china.xsfaya.com^
 ||bd1.365qilu.com^
 ||bd1.99danji.com^
 ||bd1.click.com.cn^
@@ -36712,12 +36712,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||abi.run^
-||jisufeifei.com^
-||mxhbkj.cn^
-||ububyiw6655.xyz^
-||ohthub.com.cn^
-||jtwlj.cn^
+||qianggou8.top^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -36908,6 +36903,7 @@ adbetnet.com
 ||abckzo.cn^
 ||abeij.com^
 ||abfirst.cn^
+||abi.run^
 ||abie10.top^
 ||abie11.top^
 ||abie12.top^
@@ -37091,6 +37087,7 @@ adbetnet.com
 ||bqhnj.cn^
 ||bqqsdv73724.cn^
 ||brysj.vip^
+||bsjgqhe.cn^
 ||bslmw.com^
 ||btbalex.cn^
 ||btnvlvt.cn^
@@ -37714,6 +37711,7 @@ adbetnet.com
 ||jinxinyuan.cn^
 ||jioder3e.cn^
 ||jioeg.com^
+||jisufeifei.com^
 ||jiudiandyw.com^
 ||jiujhzp.com^
 ||jiumishow.com^
@@ -37748,6 +37746,7 @@ adbetnet.com
 ||jsvv587.com^
 ||jswnuq.cn^
 ||jsyjwj.com^
+||jtwlj.cn^
 ||julitenj.com^
 ||jullycn.com^
 ||jundazulin.com^
@@ -37962,6 +37961,7 @@ adbetnet.com
 ||muusn.cn^
 ||mwjpk.com^
 ||mx.biquge.info^
+||mxhbkj.cn^
 ||mxtailor.com^
 ||myams.cn^
 ||mydownba.com^
@@ -38033,6 +38033,7 @@ adbetnet.com
 ||octopuszyw.cn^
 ||oende.cn^
 ||oesnw.com^
+||ohthub.com.cn^
 ||oikqfwv.cn^
 ||oir85.cn^
 ||oiwjcsh001.top^
@@ -38245,6 +38246,7 @@ adbetnet.com
 ||sfanf.com^
 ||sffxcwc.cn^
 ||sguac.com^
+||sgyebd.com^
 ||shangyingwm.com^
 ||shanyuebrowser.com^
 ||shaque.vip^
@@ -38432,6 +38434,7 @@ adbetnet.com
 ||u0r9.cn^
 ||u2c8.cn^
 ||uauwkfk.cn^
+||ububyiw6655.xyz^
 ||uc4a.cn^
 ||ucaii.com^
 ||ucvqmvg.cn^
