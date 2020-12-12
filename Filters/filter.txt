@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-12T12:12:33.181Z
+! Last modified: 2020-12-12T16:16:13.877Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -16504,7 +16504,6 @@ vkcdnservice.appspot.com^
 ||smartad.ee^
 ||smartadtags.com^
 ||smartadv.ru^
-||smartasset.com^
 ||smartdevicemedia.com^
 ||smarttargetting.co.uk^
 ||smarttargetting.com^
@@ -33649,7 +33648,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||handanxinkai.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34378,6 +34376,7 @@ adbetnet.com
 ||haiyunimg.com^
 ||haiyunpush.com^
 ||haizirv.cn^
+||handanxinkai.com^
 ||hanqidq.com^
 ||hao61.net^
 ||haolew.com^
@@ -36746,11 +36745,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||yinvmh.com^
-||youngalsobeautiful.com^
-||qdhhdsw.cn^
-||ah808.com^
-||qianggou8.top^
+||pbtxt.win^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -36966,6 +36961,7 @@ adbetnet.com
 ||afefw.com^
 ||affiliate6.com^
 ||aganj.com^
+||ah808.com^
 ||ahanve.cn^
 ||ahidna.cn^
 ||ahinang.cn^
@@ -37756,6 +37752,7 @@ adbetnet.com
 ||jiuwanzi.com^
 ||jixiby.cn^
 ||jiyuanzixun.com^
+||jj0453.com^
 ||jkert.com^
 ||jkleosnfjutme.top^
 ||jkxtd77.com^
@@ -38165,6 +38162,7 @@ adbetnet.com
 ||qbczpo.cn^
 ||qcsfxv.cn^
 ||qd836.cn^
+||qdhhdsw.cn^
 ||qdiut.com^
 ||qdmeifeng.cn^
 ||qdyazc.com^
@@ -38175,6 +38173,7 @@ adbetnet.com
 ||qhdop.com^
 ||qhxcdmfj.cn^
 ||qi-shi.top^
+||qianggou8.top^
 ||qianqianxsw.com^*xhtml
 ||qianyuntengyue.com^
 ||qiaopiguniang.com^
@@ -38740,6 +38739,7 @@ adbetnet.com
 ||yimeize.cn^
 ||yingjiawm.com^
 ||yinlt.com^
+||yinvmh.com^
 ||yinzantouzi.com^
 ||yiqima.xyz^
 ||yitiaoyu.top^
@@ -38766,6 +38766,7 @@ adbetnet.com
 ||yokebao.com^
 ||yoobest.cn^
 ||youkete.cn^
+||youngalsobeautiful.com^
 ||youshouge513.cn^
 ||youtui456.com^
 ||youweiprint.com^
