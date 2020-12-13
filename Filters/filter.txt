@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-13T00:16:30.684Z
+! Last modified: 2020-12-13T06:12:32.480Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -3947,6 +3947,7 @@ vkcdnservice.appspot.com^
 ||cnossxqkdoupxw.com^
 ||cnrvmcderv.com^
 ||cntvxymwesggem.com^
+||coastsoak.com^
 ||coatobpljh.com^
 ||cobdieink.com^
 ||coccusadmanlob.com^
@@ -4294,6 +4295,7 @@ vkcdnservice.appspot.com^
 ||decordingaudied.site^
 ||ded733b374cc1c3f.com^
 ||dedictimgd.club^
+||defeatedsunset.com^
 ||defeatureother.site^
 ||defeaturesher.club^
 ||definitedikdra.site^
@@ -5347,6 +5349,7 @@ vkcdnservice.appspot.com^
 ||finsbfaizzx.com^
 ||fiozxmznaba.com^
 ||fire-push.net^
+||firescorrelationprodigy.com^
 ||firewoodnativewoodlands.com^
 ||fireworkssetstill.com^
 ||fishkekcamp.info^
@@ -10939,6 +10942,7 @@ vkcdnservice.appspot.com^
 ||thoutiquede.club^
 ||thqwivyhdpoem.com^
 ||throughhonouredhighest.com^
+||thrustdeadconsiderably.com^
 ||thterras.com^
 ||thughighjackcheesy.com^
 ||thugtowardhindsight.com^
@@ -33649,6 +33653,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||xyadtlyyc.vip^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -36746,6 +36751,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||hdvwm3.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
