@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-13T18:11:50.678Z
+! Last modified: 2020-12-14T00:14:23.297Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -33665,7 +33665,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||xyadtlyyc.vip^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35419,6 +35418,7 @@ adbetnet.com
 ||xyadtlyya.cn^
 ||xyadtlyya.com^
 ||xyadtlyya.vip^
+||xyadtlyyc.vip^
 ||xyadyzpsb.com^
 ||xycnz.com^
 ||xycnzz.com^
@@ -36763,7 +36763,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||hdvwm3.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37585,6 +37584,7 @@ adbetnet.com
 ||hcprzx.cn^
 ||hdfdm.com^
 ||hdminfeng.com^
+||hdvwm3.cn^
 ||hdweds.cn^
 ||hdzkjv.cn^
 ||headwell.cn^
