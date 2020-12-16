@@ -3,10 +3,23 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-16T06:16:19.840Z
+! Last modified: 2020-12-16T12:13:28.279Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
+!
+! Source name: AdGuard Base filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
+!
+!
+! Section contains list of advertising networks
+!
+! The rules with hints are at the end of file
+!
+!! https://a.bestcontentitem.top/warp/*?r=
+!
+||vyhezucha.pro^
+||juxupsasu.pro^
 ||click.hooligapps.com^
 ||hyperoi.com^
 ||adstudio.cloud^
@@ -3036,6 +3049,7 @@ vkcdnservice.appspot.com^
 ||artantash.club^
 ||artapeare.site^
 ||arthwhilearthu.info^
+||articismstre.fun^
 ||artisticdisgraceevidently.com^
 ||artneesrparkete.info^
 ||artpever.com^
@@ -3767,6 +3781,7 @@ vkcdnservice.appspot.com^
 ||ceoillwdcc.com^
 ||ceparateauab.info^
 ||cepossilenty.club^
+||cepractliq.top^
 ||cerizoug.net^
 ||cerseleme.club^
 ||certainedds.club^
@@ -4987,6 +5002,7 @@ vkcdnservice.appspot.com^
 ||erbjahuyn.com^
 ||ercredici.info^
 ||erdecisesgeorg.info^
+||erdsqclzjwcylb.com^
 ||erecommerchh.info^
 ||eredincreaso.club^
 ||eredmights.club^
@@ -6628,6 +6644,7 @@ vkcdnservice.appspot.com^
 ||ivfihumeajjmbc.com^
 ||ivhqsuhrqvhlke.com^
 ||ivjkdyrjjgxhch.com^
+||ivjtgtjcizwh.com^
 ||ivkfuasf.com^
 ||ivowhzku.com^
 ||ivqxarewpk.com^
@@ -8980,7 +8997,6 @@ vkcdnservice.appspot.com^
 ||pasaigul.com^
 ||paservices.tech^
 ||passeseuro.com^
-||passgen.icu^
 ||passioncrunchfingernail.com^
 ||passivemarcoanyhow.com^
 ||pasturecompelscreen.com^
@@ -36889,6 +36905,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||hyuanprint.com^
 ||fjylcy.com^
 ||nmlhkj.com^
 ||01w47q.cn^
