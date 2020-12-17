@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-17T06:03:06.653Z
+! Last modified: 2020-12-17T12:03:39.370Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -1140,7 +1140,6 @@ www.llllllllllll.net^
 ||pgcode.org^
 ||cashpartners.eu^
 ||clickaine.com^
-||tubecorporate.com^
 ||nmpmgmldzvrmra.com^
 ||ojiffvsutzrx.com^
 ||yoredi.com^
@@ -1801,14 +1800,12 @@ www.llllllllllll.net^
 ||adilk.ilikecomix.com^
 ||a.letsjerk.to^
 ||d2j042cj1421wi.cloudfront.net^
-||d13k7prax1yi04.cloudfront.net^
 ||dq3yxnlzwhcys.cloudfront.net^
 ||rek.www.wp.pl^
 ||d3mr7y154d2qg5.cloudfront.net^
 ||centent.streamp1ay.cc^
 ||dz5bomaog2c5t.cloudfront.net^
 ||s.remonti.org^
-||d36zfztxfflmqo.cloudfront.net^
 ||dl5ft52dtazxd.cloudfront.net^
 ||d3v3bqdndm4erx.cloudfront.net^
 ||d11enq2rymy0yl.cloudfront.net^
@@ -1875,7 +1872,6 @@ www.llllllllllll.net^
 ||da3uf5ucdz00u.cloudfront.net^
 ||d3pvcolmug0tz6.cloudfront.net^
 ||secure.iqmining.com^
-||tm-offers.gamingadult.com^
 ||tm-banners.gamingadult.com^
 ||blyxb.27667.club^
 ||delivery.porn.com^
@@ -3134,6 +3130,7 @@ vkcdnservice.appspot.com^
 ||augaufta.com^
 ||aughedbannel.site^
 ||augnuxun.net^
+||augustjudgementsuddenly.com^
 ||auhqnsjbvizeey.com^
 ||aujaujoa.net^
 ||aujooxoo.com^
@@ -3457,6 +3454,7 @@ vkcdnservice.appspot.com^
 ||blecuttasha.club^
 ||bledevellinga.site^
 ||blessingpudding.com^
+||blissfuldes.com^
 ||blockadsnot.com^
 ||blockchaintop.nl^
 ||blockscoolest.com^
@@ -3698,6 +3696,7 @@ vkcdnservice.appspot.com^
 ||capsfogpeck.com^
 ||caradstag.casa^
 ||carbourse.club^
+||cardinalimprovementscartrige.com^
 ||cardmrket.com^
 ||careersincorrectquickie.com^
 ||carefuseds.club^
@@ -7735,6 +7734,7 @@ vkcdnservice.appspot.com^
 ||mdlsite.com^
 ||mdmupsmel.com^
 ||mdpmgoitzaotk.com^
+||mdpqambxvmzai.com^
 ||mdqpfqvienzr.com^
 ||mdsauswjligigj.com^
 ||mduinqxgi.com^
@@ -10706,6 +10706,7 @@ vkcdnservice.appspot.com^
 ||steakyesembarrass.com^
 ||stedintelo.club^
 ||stenosent.xyz^
+||stepfatherparamedicthem.com^
 ||steroidtypesconviction.com^
 ||steverariso.fun^
 ||stewerdu.net^
@@ -11525,6 +11526,7 @@ vkcdnservice.appspot.com^
 ||urnkawsxxh.com^
 ||urnuvssumlrb.com^
 ||uroidgcc.com^
+||urokcwwzno.com^
 ||uropersag.club^
 ||urt7bpvfz4am.com^
 ||urthvisitoric.space^
@@ -22351,6 +22353,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fprnt.com^
 ||fqsecure.com^
 ||fqtag.com^
+||fraudjs.io^
 ||free-counter.co.uk^
 ||free-counter.com^
 ||free-counters.co.uk^
@@ -22894,6 +22897,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||monitus.net^
 ||monstat.com^
 ||monu.delivery^
+||mooo.com^
 ||mooseway.com^
 ||mopinion.com^
 ||motrixi.com^
@@ -36082,6 +36086,7 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||a2put.chinaz.com^
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -36108,6 +36113,7 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
+||a1.zhanzhang.net^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -36855,6 +36861,9 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||syrstrq.cn^
+||wtgongsi.com^
+||pppxia.com^
 ||91funcy.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
