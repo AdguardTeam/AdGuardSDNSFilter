@@ -3,10 +3,23 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-18T12:03:46.925Z
+! Last modified: 2020-12-18T18:11:11.744Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
+!
+! Source name: AdGuard Base filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
+!
+!
+! Section contains list of advertising networks
+!
+! The rules with hints are at the end of file
+!
+!! https://a.bestcontentitem.top/warp/*?r=
+!
+||assets.newsmaxwidget.com^
+||waspaortascene.com^
 ||9997494f4d4b694d4f6702.online^
 ||wheelwheel.space^
 ||vyhezucha.pro^
@@ -18374,7 +18387,6 @@ vkcdnservice.appspot.com^
 ||brealtime.com^
 ||bridgetrack.com^
 ||brokerbabe.com^
-||bttn.io^
 ||bubblesmedia.ru^
 ||burstnet.com^
 ||buzzcity.net^
@@ -27277,6 +27289,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||alwsaz.com^
 ||yqg0rv8p35.ru^
 ||pion.loveserials.net^
 ||jrs2igoimq.ru^
@@ -36860,6 +36873,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||hvie6u.cn^
+||1214bdk.xyz^
 ||zhangshiyuan.com^
 ||vkpsmzj.cn^
 ||czlongle.cn^
