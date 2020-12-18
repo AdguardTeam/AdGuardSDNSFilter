@@ -3,23 +3,10 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-18T06:03:21.254Z
+! Last modified: 2020-12-18T12:03:46.925Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
-!
-! Source name: AdGuard Base filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
-!
-!
-! Section contains list of advertising networks
-!
-! The rules with hints are at the end of file
-!
-!! https://a.bestcontentitem.top/warp/*?r=
-!
-||ukfpgaeihxamg.com^
-||fzehxxsdxyfg.com^
 ||9997494f4d4b694d4f6702.online^
 ||wheelwheel.space^
 ||vyhezucha.pro^
@@ -5587,6 +5574,7 @@ vkcdnservice.appspot.com^
 ||fyrvxydxsrww.com^
 ||fz5akngy5o6r.com^
 ||fzeahussyd.com^
+||fzehxxsdxyfg.com^
 ||fzgitqrqrsyyiv.com^
 ||fzhvebnia.com^
 ||fzlkdwivfnreg.com^
@@ -9205,6 +9193,7 @@ vkcdnservice.appspot.com^
 ||podsolnu9hi10.com^
 ||poemsdeucewee.com^
 ||poemsproduced.com^
+||poifinsegg.com^
 ||poignantcover.com^
 ||point-of-entry.com^
 ||pointexcusestretching.com^
@@ -11398,6 +11387,7 @@ vkcdnservice.appspot.com^
 ||ujylaibwmgtaow.com^
 ||ukcomparends.pro^
 ||ukdzmuvtelq.com^
+||ukfpgaeihxamg.com^
 ||uklvebsp.com^
 ||uklyolpqnt.com^
 ||ukngpcuyc.com^
@@ -18797,6 +18787,10 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+!||i.snssdk.com/log/*
+!||i.snssdk.com/slardar/sdk.js
+!
+||analy1.dtnnetwork.be^
 ||track.customer.io^
 ||lcs.loginfra.com^
 ||adblock-analytics.io^
@@ -20358,6 +20352,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||analytics2.tvreport.co.kr^
 ||counter.adguard.com^
 ||l.www.naver.com^
 ||metrics.makemytrip.com^
@@ -33758,6 +33753,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||qdwght.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -36865,6 +36861,8 @@ adbetnet.com
 ||stunninglover.com^
 ||watakaw133.xyz^
 ||zhangshiyuan.com^
+||vkpsmzj.cn^
+||czlongle.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
