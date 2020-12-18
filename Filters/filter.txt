@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-18T00:07:58.400Z
+! Last modified: 2020-12-18T06:03:21.254Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -33758,7 +33758,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||ylflwbj.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35567,6 +35566,7 @@ adbetnet.com
 ||yixui.com^
 ||yk0712.com^
 ||ykjmy.com^
+||ylflwbj.cn^
 ||ymcqb.com^
 ||ymima360.com^
 ||ynbojie.com^
@@ -35770,6 +35770,7 @@ adbetnet.com
 ||a.xywy.com^
 ||a2.b310.com^
 ||a2.xinhuanet.com^
+||a2put.chinaz.com^
 ||abbao.cn^*adblock
 ||abc.hkepc.com^
 ||abc.hkepc.net^
@@ -36089,7 +36090,6 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||a2put.chinaz.com^
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -36116,7 +36116,6 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
-||a1.zhanzhang.net^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -36269,6 +36268,7 @@ adbetnet.com
 ||a1.shusanqi.com^
 ||a1.sumiaowang.com^
 ||a1.twtym.com^
+||a1.zhanzhang.net^
 ||a15d55423.5tps.xyz^
 ||a3.jandan.net^
 ||aa.0755rc.com^
@@ -36864,10 +36864,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||syrstrq.cn^
-||wtgongsi.com^
-||pppxia.com^
-||91funcy.com^
+||zhangshiyuan.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37036,6 +37033,7 @@ adbetnet.com
 ||8v61j.cn^
 ||8yrn.cn^
 ||91cy.top^
+||91funcy.com^
 ||91jiedai.cn^
 ||922x7c.cn^
 ||958so.cn^
@@ -38268,6 +38266,7 @@ adbetnet.com
 ||pos68.cn^
 ||pougg.com^
 ||ppee.xyz^
+||pppxia.com^
 ||pqezdo.cn^
 ||pqnlorg.cn^
 ||pqwtrq.xyz^
@@ -38514,6 +38513,7 @@ adbetnet.com
 ||symag.cn^
 ||symah.cn^
 ||syooys.com^
+||syrstrq.cn^
 ||sysadult.cn^
 ||sysal.cn^
 ||sysycloud.com^
@@ -38725,6 +38725,7 @@ adbetnet.com
 ||wsvike.cn^
 ||wsxxu.com^
 ||wszzb.top^
+||wtgongsi.com^
 ||wtnjupl.cn^
 ||wuwuhh.top^
 ||wuyanauto.com^
