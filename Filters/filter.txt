@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-19T06:05:17.893Z
+! Last modified: 2020-12-19T12:03:35.064Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -33195,9 +33195,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Dec 2020 10:42 UTC+7
-! Version: 2012091042
-! Blocked: 564 rules
+! Last modified: 19 Dec 2020 17:22 UTC+7
+! Version: 2012191722
+! Blocked: 574 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33232,6 +33232,7 @@ adbetnet.com
 ||adtima.vn^
 ||adtimaserver.vn^
 ||ambient-platform.com^
+||ambientdsp.com^
 ||ambientplatform.vn^
 ||amcdn.vn^
 ||anthill.vn^
@@ -33243,6 +33244,7 @@ adbetnet.com
 ||bidgear-syndication.com^
 ||bidgear.com^
 ||brand.zing.vn^
+||cdn-qc.coccoc.com^
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
 ||centralized.zaloapp.com^
@@ -33372,6 +33374,7 @@ adbetnet.com
 ||admin.sothuchi.vn^
 ||adpostback.headlines.pw^
 ||ads-cdn.fptplay.net^
+||ads.1thegioi.vn^
 ||ads.baodatviet.vn^
 ||ads.baotainguyenmoitruong.vn^
 ||ads.bkitsoftware.com^
@@ -33380,15 +33383,20 @@ adbetnet.com
 ||ads.home.vn^
 ||ads.ictnews.vn^
 ||ads.khoahocdoisong.vn^
+||ads.kiemsat.vn^
+||ads.lamchame.vn^
+||ads.laodongnghean.vn^
 ||ads.nghenhinvietnam.vn^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
 ||ads.thegioitiepthi.vn^
 ||ads.thesaigontimes.vn^
+||ads.thitruongtaichinhtiente.vn^
 ||ads.tiki.vn^
 ||ads.vietbao.vn^
 ||ads.vkool.info^
+||ads.vovlive.vn^
 ||ads.xemphimso.com^
 ||ads1.careerbuilder.vn^
 ||adserver.lag.vn^
@@ -33427,6 +33435,7 @@ adbetnet.com
 ||bgadx.com^
 ||boxpr.aiservice.vn^
 ||cdn-ads.thesaigontimes.vn^
+||cdn2.cache.vn^
 ||cdnasset.dantri.com.vn^
 ||chiasephim.xyz^
 ||click-ads.saoteen.net^
@@ -33750,6 +33759,7 @@ adbetnet.com
 ||x8.club^
 ||x8.vin^
 ||x8vn.com^
+||xemdabanh.club^
 ||yo88.win^
 ||yo88vn.vip^
 ||yule12888.com^
@@ -36877,6 +36887,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||ffyyfy.top^
+||apmnqut.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
