@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-20T12:03:34.042Z
+! Last modified: 2020-12-20T16:31:54.816Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -6872,6 +6872,7 @@ vkcdnservice.appspot.com^
 ||jpllzuuvku.com^
 ||jpmpvhelfeg.com^
 ||jpmyudcnpgl.com^
+||jppbyrkkgpgo.com^
 ||jprddctf.com^
 ||jpvmwnnwuzo.com^
 ||jpyoikrzrjcap.com^
@@ -22731,13 +22732,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||keywordmax.com^
 ||keywordstrategy.org^
 ||kieden.com^
-||kiwihk.net^
 ||killerwebstats.com^
 ||kilometrix.de^
 ||kissmetrics.com^
 ||kisstesting.com^
 ||kitbit.net^
 ||kitcode.net^
+||kiwihk.net^
 ||klert.com^
 ||klldabck.com^
 ||km-sea.net^
@@ -22932,7 +22933,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||monitus.net^
 ||monstat.com^
 ||monu.delivery^
-||mooo.com^
 ||mooseway.com^
 ||mopinion.com^
 ||motrixi.com^
@@ -24965,6 +24965,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||c3metrics.medifast1.com^
 ||cache2.delvenetworks.com^
 ||cadreon.s3.amazonaws.com^
+||cahf4eed.mooo.com^
 ||canvas-ping.conduit-data.com^
 ||canvas-usage-v2.conduit-data.com^
 ||capture.condenastdigital.com^
@@ -25244,6 +25245,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||heals.msgfocus.com^
 ||hello.staticstuff.net^
 ||hi.hellobar.com^
+||hit.mybestpro.com^
 ||hits-*.iubenda.com^
 ||hits.dealer.com^
 ||hits.informer.com^
@@ -32875,6 +32877,7 @@ adbetnet.com
 ||casino-sicuro.it^
 ||clacson24.com^
 ||clickadv.it^
+||clickcount.pw^
 ||clickpoint.it^
 ||consigli.it^
 ||coreg-feed.com^
@@ -39735,6 +39738,8 @@ adbetnet.com
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
+! cdn.rozetka.com.ua is blocked by CNAME 'rozetka-cdn.exponea.com'
+@@||cdn.rozetka.com.ua^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/510
 @@||c.digikey.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/506
