@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-20T00:09:47.340Z
+! Last modified: 2020-12-20T06:03:33.437Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -36143,6 +36143,7 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
+||mm.jbzj.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -36891,9 +36892,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||liuzishen.com^
-||ffyyfy.top^
-||apmnqut.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37167,6 +37165,7 @@ adbetnet.com
 ||aoyou3.top^
 ||apjiangte.com^
 ||apmengxin.com^
+||apmnqut.cn^
 ||applequan.com^
 ||apxyz.com^
 ||aquarius8.cn^
@@ -37555,6 +37554,7 @@ adbetnet.com
 ||ffpp.xyz^
 ||ffupiiv.cn^
 ||ffychb.com^
+||ffyyfy.top^
 ||fhbv.cn^
 ||fhixhde.cn^
 ||fidwkkt.cn^
@@ -38051,6 +38051,7 @@ adbetnet.com
 ||listenother.com^
 ||liufang1994.top^
 ||liujiaqi.top^
+||liuzishen.com^
 ||lixianze.top^
 ||lixudong.top^
 ||liyelaowu.cn^
