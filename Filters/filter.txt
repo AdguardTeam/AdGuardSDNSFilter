@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-20T18:08:00.312Z
+! Last modified: 2020-12-21T00:09:40.968Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,13 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||luqafzbdscd.com^
+||ecgopezooczg.com^
+||douhooke.net^
+||zunsoach.com^
+||kaurouby.net^
+||trtjigpsscmv9epe10.com^
+||neechube.net^
 ||assets.newsmaxwidget.com^
 ||waspaortascene.com^
 ||wheelwheel.space^
@@ -33807,7 +33814,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||parisianmacao.bet^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35021,6 +35027,7 @@ adbetnet.com
 ||p74.cc^
 ||panel-cn.com^
 ||papa999.xyz^
+||parisianmacao.bet^
 ||pay838.com^
 ||pcmzn.com^
 ||pdsjycm.com^
@@ -36167,7 +36174,6 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
-||mm.jbzj.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -36662,6 +36668,7 @@ adbetnet.com
 ||mg.32r.com^
 ||mg.glwxw.net^
 ||milk.yesky.com.cn^
+||mm.jbzj.com^
 ||mo-tuo.com^
 ||mountain.zhidao.baidu.com^
 ||mpb1.iteye.com^
