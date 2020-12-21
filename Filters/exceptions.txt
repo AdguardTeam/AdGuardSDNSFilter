@@ -7,7 +7,7 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/510
 @@||c.digikey.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/506
-@@||email.[a-zA-Z0-9_].skyeng.ru^|
+@@||email.*.skyeng.ru^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/65326
 @@||go.scorptec.com.au^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/468
