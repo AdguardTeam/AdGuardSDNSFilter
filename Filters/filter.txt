@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-22T12:06:18.136Z
+! Last modified: 2020-12-22T18:17:14.217Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -1822,7 +1822,6 @@ www.llllllllllll.net^
 ||dl5ft52dtazxd.cloudfront.net^
 ||d3v3bqdndm4erx.cloudfront.net^
 ||d11enq2rymy0yl.cloudfront.net^
-||d3kblkhdtjv0tf.cloudfront.net^
 ||ads.farakav.com^
 ||rst.pornyhd.com^
 ||d3c3uihon9kmp.cloudfront.net^
@@ -18838,6 +18837,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||herald.loginside.co.kr^
 ||log002.commutil.kr^
 ||analy1.dtnnetwork.be^
 ||track.customer.io^
@@ -20401,6 +20401,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||events.emogi.com^
 ||log.ohmynews.com^
 ||analytics2.tvreport.co.kr^
 ||counter.adguard.com^
@@ -36962,6 +36963,9 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||wlaoc.cn^
+||xlgtblj.cn^
+||weidehuagong.com^
 ||sakuraquant.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
