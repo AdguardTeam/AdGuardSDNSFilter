@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-24T12:06:37.192Z
+! Last modified: 2020-12-24T18:22:56.186Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -27367,6 +27367,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||lidplay.net^
+||bcvideod.com^
+||allowandgo.link^
+||jlpbyt.com^
 ||porno365go.com^
 ||2fk0iss45c.ru^
 ||voqonea.ru^
@@ -31800,6 +31804,7 @@ adbetnet.com
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 !
 !
+||adhouse.pro^
 ||dmcdn.yieldbird.com^
 ||aj1907.online^
 ||stopblyat.tk^
@@ -33860,6 +33865,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||govhunan.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -36972,6 +36978,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||hyzhongchuang.com^
 ||mg17i.cn^
 ||zgdfvih.cn^
 ||sogov587.top^
