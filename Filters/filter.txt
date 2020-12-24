@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-24T00:16:24.645Z
+! Last modified: 2020-12-24T06:07:45.897Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18916,7 +18916,6 @@ vkcdnservice.appspot.com^
 ||beak.bd.313.nl^
 ||collector.appconsent.io^
 ||tracker.durasite.net^
-||growthrx.in^
 ||logs.juspay.in
 ||logs.datadoghq.eu^
 ||logs.datadoghq.com^
@@ -22531,6 +22530,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||grepdata.com^
 ||grmtech.net^
 ||group-ib.ru^
+||growthrx.in^
 ||grumrt.com^
 ||gsecondscreen.com^
 ||gsimedia.net^
@@ -36984,12 +36984,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||scswuliu.com^
-||fyzyf.com^
-||chinaxingyin.com^
-||topvcbank.com^
-||5glyqw.com^
-||hntiantai.cn^
+||zgdfvih.cn^
+||sogov587.top^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37106,6 +37102,7 @@ adbetnet.com
 ||56space.com^
 ||597txtt.com^*.php
 ||5dydk.com^
+||5glyqw.com^
 ||5hytr.xyz^
 ||5mbd2.com^
 ||5mgurg.cn^
@@ -37437,6 +37434,7 @@ adbetnet.com
 ||chinaqirun.cn^
 ||chinaweian.com^
 ||chinawms.cn^
+||chinaxingyin.com^
 ||chinayutai.cn^
 ||chrommotor.com^
 ||chuzrra.cn^
@@ -37693,6 +37691,7 @@ adbetnet.com
 ||fy4zb.cn^
 ||fyehare.com^
 ||fyjyhm.com^
+||fyzyf.com^
 ||fzdfwy.com^
 ||fzxrjx.com^
 ||g3ao2q.cn^
@@ -37862,6 +37861,7 @@ adbetnet.com
 ||hnfxty.cn^
 ||hnhgw.cn^
 ||hnkuangshan.cn^
+||hntiantai.cn^
 ||hnwjlhg.cn^
 ||hnxahz.com^
 ||hnzyzhy.cn^
@@ -38524,6 +38524,7 @@ adbetnet.com
 ||sbmode.cn^
 ||scnaes.cn^
 ||scqajt.cn^
+||scswuliu.com^
 ||scvxgm.cn^
 ||sdaaxz.xyz^
 ||sdabfw.cn^
@@ -38706,6 +38707,7 @@ adbetnet.com
 ||toissue.cn^
 ||tongbuchi.com^
 ||tongjiwo.com^
+||topvcbank.com^
 ||toujing4.top^
 ||toujing5.top^
 ||toujing7.top^
