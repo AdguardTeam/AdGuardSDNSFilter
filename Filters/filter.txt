@@ -3,23 +3,10 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-24T06:07:45.897Z
+! Last modified: 2020-12-24T12:06:37.192Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
-!
-! Source name: AdGuard Base filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
-!
-!
-! Section contains list of advertising networks
-!
-! The rules with hints are at the end of file
-!
-!! https://a.bestcontentitem.top/warp/*?r=
-!
-||zhkquyvfndeker.com^
-||uixsuffkzkhbj.com^
 ||trawahdh2hd8nbvy09.com^
 ||gramscien.xyz^
 ||bidio.pl^
@@ -32,7 +19,6 @@
 ||douhooke.net^
 ||zunsoach.com^
 ||kaurouby.net^
-||neechube.net^
 ||assets.newsmaxwidget.com^
 ||waspaortascene.com^
 ||wheelwheel.space^
@@ -354,6 +340,7 @@
 ||lodder5.biz^
 ||go1news.biz^
 ||armaimapt.club^
+||aspaskaim.club^
 ||t0p0ff3rs.com^
 ||rubird.ru^
 ||evadavdsp.pro^
@@ -371,6 +358,7 @@
 ||marfeelcache.com^
 ||bitcoinsad.com^
 ||viewm.moonicorn.network^
+||areapebeg.club^
 ||punosy.top^
 ||horried.pro^
 ||counevan.pro^
@@ -1813,6 +1801,7 @@ www.llllllllllll.net^
 ||a.letsjerk.to^
 ||d2j042cj1421wi.cloudfront.net^
 ||dq3yxnlzwhcys.cloudfront.net^
+||d3ithbwcmjcxl7.cloudfront.net^
 ||rek.www.wp.pl^
 ||d3mr7y154d2qg5.cloudfront.net^
 ||centent.streamp1ay.cc^
@@ -2157,7 +2146,6 @@ vkcdnservice.appspot.com^
 ||0c8a10b46fc6.com^
 ||0cf40a2064ce2.com^
 ||0d20bff8143.com^
-||0d2c9f1f83e0.com^
 ||0dbcf515975d.com^
 ||0dc3c6535c5.com^
 ||0e6fc55ed3d4c2c2ba0.com^
@@ -2184,7 +2172,6 @@ vkcdnservice.appspot.com^
 ||13190546cd1dec9bbdc.com^
 ||14nuzznszbdp.com^
 ||153105c2f9564.com^
-||15976a3e57.com^
 ||15fa37b45d.com^
 ||16482f75cb.com^
 ||165a7c15380874ef3.com^
@@ -2336,7 +2323,6 @@ vkcdnservice.appspot.com^
 ||4c13cac4bb.com^
 ||4c935d6a244f.com^
 ||4cr447ewncl4.com^
-||4dc9170788e.com^
 ||4dtrk.com^
 ||4e34b4865905c4.com^
 ||4eacccd99990beed317.com^
@@ -2375,7 +2361,6 @@ vkcdnservice.appspot.com^
 ||58b291f917728a2.com^
 ||58f7c1ff30eb.com^
 ||59a8e0d6fa2.com^
-||59ce3f2bf1b3.com^
 ||59e6ea7248001c.com^
 ||5a60bfdc522.com^
 ||5aa8f31e2f5d.com^
@@ -2847,7 +2832,6 @@ vkcdnservice.appspot.com^
 ||aighthatev.club^
 ||aigneloa.com^
 ||aiidbowoj.com^
-||ailaskarc.club^
 ||ailingtonwh.club^
 ||ailwayssteverin.info^
 ||aimamparc.club^
@@ -3007,7 +2991,6 @@ vkcdnservice.appspot.com^
 ||appropolyfunt.site^
 ||approvalglamourduly.com^
 ||appstoore.online^
-||aptaleant.club^
 ||apus.tech^
 ||aqfhhfqarukys.com^
 ||aqftikmr.com^
@@ -3028,7 +3011,6 @@ vkcdnservice.appspot.com^
 ||ardesolived.club^
 ||ardingage.club^
 ||areantaid.site^
-||areapebeg.club^
 ||areasons.club^
 ||areasonsimon.club^
 ||arefusedfollo.club^
@@ -3105,7 +3087,6 @@ vkcdnservice.appspot.com^
 ||aspanyarc.club^
 ||asparagusmeaninglessyearly.com^
 ||aspartbib.site^
-||aspaskaim.club^
 ||aspirinstaircase.com^
 ||assemblyass.club^
 ||assionwreckl.top^
@@ -4239,7 +4220,6 @@ vkcdnservice.appspot.com^
 ||d31ea41705818c9.com^
 ||d3b75cfc88a9.com^
 ||d3e44a82c2df88.com^
-||d3ithbwcmjcxl7.cloudfront.net^
 ||d4a77d8bc81ae17.com^
 ||d4d48974197052ea.com^
 ||d50285bff60edbb406.com^
@@ -4719,6 +4699,7 @@ vkcdnservice.appspot.com^
 ||eaintrolled.info^
 ||eajmyphr.com^
 ||eaknxurdsogwr.com^
+||ealeo.com^
 ||earchcreastil.top^
 ||eardepth-prisists.com^
 ||eardewova.com^
@@ -5222,7 +5203,6 @@ vkcdnservice.appspot.com^
 ||f3551539d6565853.com^
 ||f35c5dba3b0b5b017.com^
 ||f35ec1cf813.com^
-||f378d3c6a1d.com^
 ||f3a2dc11dfb33.com^
 ||f40f89d54b8.com^
 ||f45ff72fec5426ae.com^
@@ -5975,6 +5955,7 @@ vkcdnservice.appspot.com^
 ||gugemfslzh.com^
 ||guhpyglt.com^
 ||guknpywmxk.com^
+||gulpduereason.com^
 ||gumbolersgthb.com^
 ||gurktexxtpofyz.com^
 ||gusxyrtlnyv.com^
@@ -7046,7 +7027,6 @@ vkcdnservice.appspot.com^
 ||kgghxooarlnz.com^
 ||kgnagbymcdmlr.com^
 ||kgqhtakjphgdwg.com^
-||kgqlrcjlrx.com^
 ||kgvzesfexmenm.com^
 ||kgxnaenrozyuh.com^
 ||kgzcentyfo.com^
@@ -7849,7 +7829,6 @@ vkcdnservice.appspot.com^
 ||mftmyrzoxtfx.com^
 ||mftxszpy.com^
 ||mfwjyreguafi.com^
-||mfxjgymma.com^
 ||mfxzxrveb.com^
 ||mgdfebwxonyfe.com^
 ||mgfkncmjue.com^
@@ -7897,6 +7876,7 @@ vkcdnservice.appspot.com^
 ||minently.com^
 ||mineraldoubte.club^
 ||miniatureabhor.com^
+||minimumkilledupdated.com^
 ||ministsentr.club^
 ||minologyhesia.site^
 ||minorexportshopping.com^
@@ -8246,6 +8226,7 @@ vkcdnservice.appspot.com^
 ||neathsmik.top^
 ||neddifficec.club^
 ||nedinchestw.site^
+||neechube.net^
 ||neenaist.net^
 ||neerlandiserai.xyz^
 ||neevateb.com^
@@ -9014,6 +8995,7 @@ vkcdnservice.appspot.com^
 ||paservices.tech^
 ||passeseuro.com^
 ||passioncrunchfingernail.com^
+||passiveinitialclass.com^
 ||passivemarcoanyhow.com^
 ||pasturecompelscreen.com^
 ||patchovercome.com^
@@ -10639,6 +10621,7 @@ vkcdnservice.appspot.com^
 ||solicients.club^
 ||solitudepeeves.com^
 ||soloistforcefulvarious.com^
+||sololockscoin.com^
 ||soltitate.site^
 ||solutelynewt.site^
 ||somethingprecursorfairfax.com^
@@ -11152,6 +11135,7 @@ vkcdnservice.appspot.com^
 ||toeschistache.com^
 ||tofufiresquid.com^
 ||tok-dan-host.com^
+||tollholdmeg.cam^
 ||tolyafbnjt9dedjj10.com^
 ||tommyperseverance.com^
 ||tonewithough.info^
@@ -11433,6 +11417,7 @@ vkcdnservice.appspot.com^
 ||uistspregna.club^
 ||uitabletublis.info^
 ||uiwaqbvvhz.com^
+||uixsuffkzkhbj.com^
 ||uixvbjknkqxfvj.com^
 ||uizhcjow.com^
 ||ujesnwjqowcru.com^
@@ -12185,6 +12170,7 @@ vkcdnservice.appspot.com^
 ||workedlew.top^
 ||workshirty.club^
 ||worldmapd.online^
+||worsterring.com^
 ||worthersefim.club^
 ||wounderfullife.xyz^
 ||wowjogsot.com^
@@ -12798,6 +12784,7 @@ vkcdnservice.appspot.com^
 ||zdutcdhvwlpkge.com^
 ||zdydvjzexmp.com^
 ||zdyfbhfmdtpm.com^
+||zeejuthu.com^
 ||zeewepie.net^
 ||zekcgykv.com^
 ||zel-zel-fie.com^
@@ -12827,6 +12814,7 @@ vkcdnservice.appspot.com^
 ||zgzczklewpt.com^
 ||zhifinwgpwakue.com^
 ||zhkbjqtstd.com^
+||zhkquyvfndeker.com^
 ||zhlfogiy.com^
 ||zhlrcaahpuqh.com^
 ||zhovjymmkg.com^
@@ -36984,6 +36972,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||mg17i.cn^
 ||zgdfvih.cn^
 ||sogov587.top^
 ||01w47q.cn^
