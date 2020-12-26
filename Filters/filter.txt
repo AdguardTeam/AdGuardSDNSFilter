@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-26T06:03:24.626Z
+! Last modified: 2020-12-26T12:04:40.543Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -33,6 +33,7 @@
 ||kaurouby.net^
 ||assets.newsmaxwidget.com^
 ||waspaortascene.com^
+||9997494f4d4b694d4f6702.online^
 ||wheelwheel.space^
 ||vyhezucha.pro^
 ||juxupsasu.pro^
@@ -2438,6 +2439,7 @@ vkcdnservice.appspot.com^
 ||6yag4bmwyhs4.com^
 ||6yfory7f0njw.com^
 ||6zw2rcfd.com^
+||7-7-7-partner.com^
 ||7017042b83a65ea.com^
 ||7089e5b41f87.com^
 ||70ee6484605f.com^
@@ -2553,32 +2555,12 @@ vkcdnservice.appspot.com^
 ||967rett6fzaf.com^
 ||96y9sqlihv3d.com^
 ||970ztqtss4.com^
-||9798494f4d4b694d4f6710.online^
 ||98uhl1aiyw.xyz^
 ||994ot5rkpch2.com^
 ||99818fb574.com^
 ||9989be8064c80b.com^
-||9997494f4d4b694d4f6702.online^
-||9999494f4d4b694d4f6722.online^
-||999a494f4d4b694d4f6732.online^
-||999b494f4d4b694d4f6742.online^
-||999c494f4d4b694d4f6752.online^
-||999d494f4d4b694d4f6762.online^
-||999e494f4d4b694d4f6772.online^
-||999f494f4d4b694d4f6782.online^
-||999g494f4d4b694d4f6792.online^
 ||99e5da34520d.com^
 ||9a24a1b3dcd5f4.com^
-||9a97494f4d4b694d4f6703.online^
-||9a98494f4d4b694d4f6713.online^
-||9a99494f4d4b694d4f6723.online^
-||9a9a494f4d4b694d4f6733.online^
-||9a9b494f4d4b694d4f6743.online^
-||9a9c494f4d4b694d4f6753.online^
-||9a9d494f4d4b694d4f6763.online^
-||9a9e494f4d4b694d4f6773.online^
-||9a9f494f4d4b694d4f6783.online^
-||9a9g494f4d4b694d4f6793.online^
 ||9ae7c9ffe8509b0.com^
 ||9b13c1c151f9664a73.com^
 ||9bb6fa4987e.com^
@@ -3213,6 +3195,7 @@ vkcdnservice.appspot.com^
 ||ayswrotesre.club^
 ||aysydyqpkg.com^
 ||ayyslqwrmoygf.com^
+||azasdf.be^
 ||azcvjaninfa.com^
 ||azdqwztcp.com^
 ||azebikcvhtysn.com^
@@ -3495,6 +3478,7 @@ vkcdnservice.appspot.com^
 ||bmvjnewxkyi.com^
 ||bmwzdfrra.com^
 ||bn5x.net^
+||bngwlt.com^
 ||bnielrtzc.com^
 ||bnjuhrbpdjtjul.com^
 ||bnjxyqdvoegi.com^
@@ -6302,6 +6286,7 @@ vkcdnservice.appspot.com^
 ||hskczbmm.com^
 ||hsqbeznk.com^
 ||hsqujerwg.com^
+||hsrvt.com^
 ||hsxftwpltcmil.com^
 ||htckiummbyxfha.com^
 ||htexamplerri.top^
@@ -6636,6 +6621,7 @@ vkcdnservice.appspot.com^
 ||isiblenorm.club^
 ||iskkrmwivxfmdjwxme.bid^
 ||islofthmci.com^
+||ismlks.com^
 ||ismtampsshad.icu^
 ||isolationowen.com^
 ||ispaagigjygd.com^
@@ -8342,6 +8328,7 @@ vkcdnservice.appspot.com^
 ||nightmareadministerwatch.com^
 ||nignrecentry.club^
 ||nigypfppbo.com^
+||nikkiexxxads.com^
 ||niledestratherg.club^
 ||nimelytranst.club^
 ||nimjdyknjzcp.com^
@@ -10335,6 +10322,7 @@ vkcdnservice.appspot.com^
 ||scalewalkrequests.com^
 ||scarceagitationwry.com^
 ||scarcelysorrow.com^
+||scarecrowdelight.com^
 ||sceieibhpdday.com^
 ||scenbe.com^
 ||schjmp.com^
@@ -12685,6 +12673,7 @@ vkcdnservice.appspot.com^
 ||yqccpziiuak.com^
 ||yqcmuxkd.com^
 ||yqecjuoxiquvr.com^
+||yqeuu.com^
 ||yqkxutfjzbdbml.com^
 ||yqmhrvvlbm.com^
 ||yqmzhilyjzw.com^
@@ -18876,6 +18865,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||analytics.mbga.jp^
 ||herald.loginside.co.kr^
 ||log002.commutil.kr^
 ||analy1.dtnnetwork.be^
@@ -21595,6 +21585,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||105app.com^
 ||11nux.com^
 ||123count.com^
+||123stat.com^
 ||15gifts.com^
 ||168logger.com^
 ||1freecounter.com^
@@ -25544,6 +25535,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ramp.purch.com^
 ||rc.rlcdn.com^
 ||recs.atgsvcs.com^
+||refer.ccbill.com^
 ||referrer.disqus.com^
 ||reporting.handll.net^
 ||reporting.singlefeed.com^
@@ -37022,6 +37014,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||wvfgiio.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
