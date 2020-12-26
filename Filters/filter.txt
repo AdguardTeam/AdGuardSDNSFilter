@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-26T12:04:40.543Z
+! Last modified: 2020-12-26T18:17:53.893Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -20539,7 +20539,6 @@ t.yesware.com
 ||tagger.ope.scmp.com^
 ||e2e.mashable.com^
 ||stats-dev.brid.tv^
-||stat.tiara.daum.net^
 ||webid.ad.daum.net^
 ||wt.soundestlink.com^
 ||pixelzirkus.gameforge.com^
@@ -21202,7 +21201,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats2.arstechnica.com^
 ||timeslog.indiatimes.com^
 ||tr.datanyze.com^
-||track.tiara.daum.net^
 ||track.tooplay.com^
 ||tracking.adactioninteractive.com^
 ||tracking.tchibo.de^
@@ -36359,7 +36357,6 @@ adbetnet.com
 ||7car.com.cn^
 ||80juqing.com^
 ||8131.qizhihaotian.cn^
-||8dp.net^
 ||a*.chajiaotong.com^
 ||a.4aqq.com^
 ||a.52wubi.com^
