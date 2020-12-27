@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-27T12:03:47.273Z
+! Last modified: 2020-12-27T18:19:13.951Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -27,7 +27,6 @@
 ||safeattributeexcept.com^
 ||son-in-lawmorbid.com^
 ||kihoadoa.com^
-||douhooke.net^
 ||zunsoach.com^
 ||kaurouby.net^
 ||assets.newsmaxwidget.com^
@@ -4560,6 +4559,7 @@ vkcdnservice.appspot.com^
 ||doubledeepclick.com^
 ||doublepimpssl.com^
 ||doufoacu.net^
+||douhooke.net^
 ||douoblelimpup.com^
 ||doushoom.net^
 ||downloadgot.com^
@@ -10735,6 +10735,7 @@ vkcdnservice.appspot.com^
 ||ssaffortyya.club^
 ||ssalarmcrit.club^
 ||ssdiwjkarblih.com^
+||sskmnews.pro^
 ||ssl2anyone2.com^
 ||ssorsophicla.info^
 ||ssqpsrlknohdao.com^
