@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-28T12:04:06.964Z
+! Last modified: 2020-12-28T18:23:20.826Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -728,7 +728,6 @@
 ||burdaffi.burdadigital.pl^
 ||etrabandidlo.club^
 ||asasfasdf.xyz^
-||libertystmedia.com^
 ||kaukoafa.net^
 ||deathereclother.info^
 ||yeahmobi.com^
@@ -1811,7 +1810,6 @@ www.llllllllllll.net^
 ||s.remonti.org^
 ||dl5ft52dtazxd.cloudfront.net^
 ||d3v3bqdndm4erx.cloudfront.net^
-||d11enq2rymy0yl.cloudfront.net^
 ||ads.farakav.com^
 ||rst.pornyhd.com^
 ||d3c3uihon9kmp.cloudfront.net^
@@ -15941,6 +15939,7 @@ vkcdnservice.appspot.com^
 ||omg2.com^
 ||ommunalspound.info^
 ||omni-ads.com^
+||omnitagjs.com^
 ||omparentcarage.info^
 ||omymicrossmuc.info^
 ||onad.eu^
@@ -19461,7 +19460,6 @@ vkcdnservice.appspot.com^
 ||oixssp.net^
 ||omeda.com^
 ||omgpm.com^
-||omnitagjs.com^
 ||online-media-stats.com^
 ||online-right-now.net^
 ||onlinewebstats.com^
@@ -32881,7 +32879,9 @@ adbetnet.com
 ||mupads.de^
 ||murcs.org^
 ||myad24.de^
+||native-commerce.com^
 ||nativendo.de^
+||neqty.net^
 ||netbizzer.net^
 ||netwayer.de^
 ||network-marketing24.com^
@@ -33371,9 +33371,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 19 Dec 2020 19:49 UTC+7
-! Version: 2012191949
-! Blocked: 574 rules
+! Last modified: 28 Dec 2020 22:44 UTC+7
+! Version: 2012282244
+! Blocked: 584 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33440,12 +33440,14 @@ adbetnet.com
 ||eva*-ad.24hstatic.com^
 ||ezimar.com^
 ||fff.com.vn^
+||flygame.io^
 ||fuseplatform.net^
 ||gammaplatform.com^
 ||gammassp.com^
 ||hbplatform.com^
 ||hotngay.vn^
 ||itim.vn^
+||kabbmedia.com^
 ||klick.vn^
 ||ladi.me^
 ||ladicdn.com^
@@ -33551,6 +33553,7 @@ adbetnet.com
 ||adpostback.headlines.pw^
 ||ads-cdn.fptplay.net^
 ||ads.1thegioi.vn^
+||ads.baobinhduong.vn^
 ||ads.baodatviet.vn^
 ||ads.baotainguyenmoitruong.vn^
 ||ads.bkitsoftware.com^
@@ -33644,6 +33647,7 @@ adbetnet.com
 ||mobileads.dieuviet.com^
 ||myad.vn^
 ||ng-vn-notice.gameitop.com^
+||nspapi.aiservice.vn^
 ||offerwall.headlines.pw^
 ||phimmedia03.com^
 ||polyad.galaxypub.vn^
@@ -33682,6 +33686,7 @@ adbetnet.com
 ||addlog.thuvienphapluat.vn^
 ||admin.phunusuckhoe.vn^
 ||alexajstrack.com^
+||analytic.baodantoc.vn^
 ||analytics.bkav.com^
 ||analytics.easyvideo.vn^
 ||analytics.explus.vn^
@@ -33693,6 +33698,7 @@ adbetnet.com
 ||analytics.vietnamfinance.vn^
 ||analytics.vnreview.vn^
 ||apl.headlines.pw^
+||clientinfo.phimmoizz.net^
 ||counter.ntdvn.com^
 ||deqik.com^
 ||elogs.vnexpress.net^
@@ -33721,8 +33727,10 @@ adbetnet.com
 ||log.ngaynay.vn^
 ||log.nhipcaudautu.vn^
 ||log.sggp.org.vn^
+||log.tapchimattran.vn^
 ||log.tapchitaichinh.vn^
 ||log.thanhnien.vn^
+||log.theleader.vn^
 ||log.tienphong.vn^
 ||log.tinnhanhchungkhoan.vn^
 ||log.vietnamdaily.net.vn^
@@ -33749,6 +33757,7 @@ adbetnet.com
 ||s.tuoitre.vn^
 ||sharefb.cnnd.vn^
 ||stat.headlines.pw^
+||static.subiz.com^
 ||staticad.thethao247.vn^
 ||statistics.vov.vn^
 ||stats.123c.vn^
@@ -33945,6 +33954,7 @@ adbetnet.com
 ||zo.club^
 ||zo.game^
 ||zowinvn.vip^
+||bloodleian.club^
 ||celerantatters.com^
 ||hashearog.com^
 ||rituationscardb.info^
@@ -33956,6 +33966,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||meethanshi.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -37072,6 +37083,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||1pzskg.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
