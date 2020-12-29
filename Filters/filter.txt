@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-28T18:23:20.826Z
+! Last modified: 2020-12-29T00:14:33.535Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -33966,7 +33966,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||meethanshi.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35054,6 +35053,7 @@ adbetnet.com
 ||maskbaby.com.cn^
 ||maxfull.info^
 ||mcdhshlsboom.com^
+||meethanshi.com^
 ||meicubao.cn^
 ||meihaoxiangwang.com^
 ||meilides.com^
@@ -37083,7 +37083,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||1pzskg.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37137,6 +37136,7 @@ adbetnet.com
 ||17ys.top^
 ||183pu.cn^
 ||1fv3b.cn^
+||1pzskg.cn^
 ||1x26q3.cn^
 ||215to.cn^
 ||216pu.cn^
