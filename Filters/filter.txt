@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-29T06:06:34.685Z
+! Last modified: 2020-12-29T12:04:56.666Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -1783,6 +1783,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||sak.userreport.com^
 ||api.flygame.io^
 ||d2sbzwmcg5amr3.cloudfront.net^
 ||tontent.powv1deo.cc^
@@ -2152,6 +2153,7 @@ vkcdnservice.appspot.com^
 ||0h6djpk8fn.com^
 ||0klxjejyxak3.com^
 ||0oaqgsk54hm5.com^
+||0redirb.com^
 ||0s9dxlr07huu.com^
 ||0sywjs4r1x.com^
 ||1-m.xyz^
@@ -10265,6 +10267,7 @@ vkcdnservice.appspot.com^
 ||rtogkeafeedde.com^
 ||rtpdn10.com^
 ||rtpdn11.com^
+||rtpdn12.com^
 ||rtpetworki.fun^
 ||rtrlseqbudrzfd.com^
 ||rtserversp.fun^
@@ -11299,6 +11302,7 @@ vkcdnservice.appspot.com^
 ||trackad2.com^
 ||tracker-tds.info^
 ||trackerislive.com^
+||trackingsltns.click^
 ||trackingzen.com^
 ||trackspeeder.com^
 ||tracktraf.com^
@@ -37127,6 +37131,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||komi168.com^
 ||0ij3tm.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
