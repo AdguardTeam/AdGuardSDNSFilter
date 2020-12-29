@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-29T00:14:33.535Z
+! Last modified: 2020-12-29T06:06:34.685Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -972,7 +972,6 @@ www.llllllllllll.net^
 ||xrgrymutlq.com^
 ||s7c66wkh8k.com^
 ||europerty.pro^
-||adtng.com^
 ||optmnstr.com^
 ||yeo1tfjz5f.com^
 ||makemyvids.com^
@@ -1486,11 +1485,9 @@ www.llllllllllll.net^
 ||adtraffic.pl^
 ||adultadspy.com^
 ||adv.mediaharbor.co.kr^
-||adversolutions.com^
 ||advertclickme.com^
 ||adviator.com^
 ||adworkmedia.com
-||adxpansion.com^
 ||adzos.com^
 ||aff.camplace.com^
 ||affsnetwork.com^
@@ -2759,20 +2756,41 @@ vkcdnservice.appspot.com^
 ||adstarget.net^
 ||adstellar.icu^
 ||adstonesik.club^
+||adswam.com^
+||adsyst.biz^
+||adtng.com^
+||adtonement.com^
 ||adtrackingflow.pro^
+||adultadvertising.net^
+||adultcamchatfree.com^
+||adultcamfree.com^
+||adultcamliveweb.com^
+||adultlinkexchange.com^
+||adultmoviegroup.com^
 ||adultsense.net^
+||adultsense.org^
 ||adultterritory.net^
 ||adv-links.com^
+||adv-plus.com^
+||adv777.com^
 ||advancellsclo.site^
 ||advantscivile.club^
+||adventory.com^
+||adversolutions.com^
+||advertisingsex.com^
+||advertom.com^
+||advertrtb.com^
 ||advinci.life^
 ||advinci.uno^
 ||advisorded.club^
 ||advmaiotg.com^
+||advsense.info^
 ||advserver.xyz^
 ||adwalte.info^
 ||adxadserv.com^
+||adxite.com^
 ||adxnexus.com^
+||adxpansion.com^
 ||adziondin.club^
 ||ae1a1e258b8b016.com^
 ||ae21a0ad95016488.com^
@@ -2780,6 +2798,7 @@ vkcdnservice.appspot.com^
 ||aebadu.com^
 ||aec40f9e073ba6.com^
 ||aeeefzfuk.com^
+||aeesy.com^
 ||aegzjowko.com^
 ||aehdgzigy.com^
 ||afa9bdfa63bf7.com^
@@ -2790,6 +2809,7 @@ vkcdnservice.appspot.com^
 ||affairswaved.com^
 ||affectiondifferentlysway.com^
 ||affiliates.systems^
+||affiliatewindow.com^
 ||affiliclk.org^
 ||affodilyrecruis.fun^
 ||afftracks.online^
@@ -2877,6 +2897,7 @@ vkcdnservice.appspot.com^
 ||aktgw4u9z27l.com^
 ||akuettddwkwtdx.com^
 ||alaccinalcom.top^
+||alahnavideos.pro^
 ||alappropolylibe.site^
 ||alapsblu.com^
 ||albalbant.com^
@@ -2889,6 +2910,7 @@ vkcdnservice.appspot.com^
 ||aleaidass.site^
 ||alealebag.site^
 ||alespeonor.com^
+||alfatraffic.com^
 ||alhistoriousg.info^
 ||aliencesuffe.top^
 ||alignclamstram.com^
@@ -2914,6 +2936,7 @@ vkcdnservice.appspot.com^
 ||alvfzqwkb.com^
 ||alwayspainfully.com^
 ||alwkvwdxqojyce.com^
+||alwqfajh.com^
 ||alwsbnvialll.com^
 ||alxsite.com^
 ||alxzes.com^
@@ -2923,6 +2946,7 @@ vkcdnservice.appspot.com^
 ||amadagasca.com^
 ||amakwktrnb.com^
 ||amaqvmfd.com^
+||amateurcouplewebcam.com^
 ||amaumomt.com^
 ||amavirgin.pro^
 ||amcpusvcit.com^
@@ -2943,8 +2967,10 @@ vkcdnservice.appspot.com^
 ||amsthr.com^
 ||amsvts.com^
 ||amswtlxkvzc.com^
+||amtracking01.com^
 ||amuletlatemanagement.com^
 ||amxodxmsuwdhn.com^
+||anastasia-international.com^
 ||anatomicele.site^
 ||anbalxkcpwa.com^
 ||anbiarfehxyz.com^
@@ -3009,6 +3035,7 @@ vkcdnservice.appspot.com^
 ||appropolyfunt.site^
 ||approvalglamourduly.com^
 ||appstoore.online^
+||apromoweb.com^
 ||apus.tech^
 ||aqfhhfqarukys.com^
 ||aqftikmr.com^
@@ -3043,6 +3070,7 @@ vkcdnservice.appspot.com^
 ||arisonoping.club^
 ||arketdiamon.space^
 ||arketscolourse.site^
+||arlitasite.pro^
 ||arlottencert.club^
 ||armashair.site^
 ||armatchints.info^
@@ -3092,6 +3120,7 @@ vkcdnservice.appspot.com^
 ||ashcdn.com^
 ||ashchiasp.club^
 ||ashingcontro.top^
+||asiangfsex.com^
 ||asiinbyu.com^
 ||asingsprxxebsx.com^
 ||asjdhajsdnweqwasdascxzccsdcsdcsdfewfwefqweqweqw.network^
@@ -3193,7 +3222,12 @@ vkcdnservice.appspot.com^
 ||awehobrasp.live^
 ||aweinkbum.com^
 ||awelessawelesscedar.com^
+||awemwh.com^
+||awentw.com^
+||aweprotostatic.com^
+||aweprt.com^
 ||awepsi.com^
+||awept.com^
 ||awesomenewspush.com^
 ||awesomepeculiar.com^
 ||awestc.com^
@@ -3202,6 +3236,7 @@ vkcdnservice.appspot.com^
 ||awjkddtq.com^
 ||awjyickdugj.com^
 ||awkmzvii39ei4.xyz^
+||awmserve.com^
 ||awnyohgtmb.com^
 ||awptjmp.com^
 ||awrnrkmwtia.com^
@@ -3232,6 +3267,7 @@ vkcdnservice.appspot.com^
 ||azpresearch.club^
 ||azrjdlvlsxihbd.com^
 ||azsikvmhlzuhje.com^
+||aztecash.com^
 ||azwsolqpewo.com^
 ||b014381c95cb.com^
 ||b02byun5xc3s.com^
@@ -5881,6 +5917,7 @@ vkcdnservice.appspot.com^
 ||gongeeta.net^
 ||googlesierai.xyz^
 ||goozbkcchscvb.com^
+||gopejk.com^
 ||gopfltvoiflf.com^
 ||goredi.com^
 ||gorettent.xyz^
@@ -14020,6 +14057,7 @@ vkcdnservice.appspot.com^
 ||beead.net^
 ||befade.com^
 ||beggarthodcomp.info^
+||behave.com^
 ||belmonhezamil.pro^
 ||belointeractive.com^
 ||belvertising.be^
@@ -16365,6 +16403,7 @@ vkcdnservice.appspot.com^
 ||qertewrt.com^
 ||qerusedpastrong.info^
 ||qfdn3gyfbs.com^
+||qingjiedi.com^
 ||qksrv.net^
 ||qksz.net^
 ||qmkr7isp3o.com^
@@ -22114,6 +22153,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||clickreport.com^
 ||clicksagent.com^
 ||clicksen.se^
+||clicksgate.com^
 ||clickshift.com^
 ||clickstream.co.za^
 ||clicktale.net^
@@ -23132,6 +23172,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ngmco.net^
 ||niftymaps.com^
 ||nik.io^
+||ninjacat.io^
 ||nitropay.com^
 ||noibu.com^
 ||noowho.com^
@@ -23243,6 +23284,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pendo.io^
 ||pepperjam.com^
 ||percentmobile.com^
+||perf-serving.com^
 ||perfdrive.com^
 ||perfectaudience.com^
 ||perfiliate.com^
@@ -25239,6 +25281,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d2san7t27xb2pn.cloudfront.net^
 ||d2tcg4i9q4js4a.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
+||d2wy8f7a9ursnm.cloudfront.net^
 ||d2xgf76oeu9pbh.cloudfront.net^
 ||d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com^
 ||d34ko97cxuv4p7.cloudfront.net^
@@ -27237,6 +27280,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||telemetry.jivosite.com^
 ||top.elec.ru^
 ||track.recreativ.ru^
+||tracking.gpm-rtv.ru^
 ||tracking.retailrocket.net^
 ||upstats.yadro.ru^
 ||webtrack.biz^
@@ -37083,6 +37127,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||0ij3tm.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
