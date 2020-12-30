@@ -3,10 +3,22 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-30T12:04:47.918Z
+! Last modified: 2020-12-30T18:28:09.028Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
+!
+! Source name: AdGuard Base filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
+!
+!
+! Section contains list of advertising networks
+!
+! The rules with hints are at the end of file
+!
+!! https://a.bestcontentitem.top/warp/*?r=
+!
+||jeerszitstoke.com^
 ||xclofrfa.com^
 ||adieusyaktop.com^
 ||pc20160301.com^
@@ -33409,9 +33421,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Dec 2020 16:33 UTC+7
-! Version: 2012301633
-! Blocked: 586 rules
+! Last modified: 30 Dec 2020 20:43 UTC+7
+! Version: 2012302043
+! Blocked: 587 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33709,6 +33721,7 @@ adbetnet.com
 ||sv-api-lottery.headlines.pw^
 ||sv-static-lottery.headlines.pw^
 ||sv-static1-lottery.headlines.pw^
+||syncwowsails.com^
 ||toppage.vn^
 ||trenddigital.vn^
 ||truoctran.com^
@@ -34006,6 +34019,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||19shows.net^
 ||zhongbolm.com^
 ||00-gov.cn^
 ||0024aaaa.com^
@@ -36375,6 +36389,7 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
+||js.mscto.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -37125,6 +37140,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||yixiangzhan.cn^
+||xl4z7.cn^
 ||ljmei.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
