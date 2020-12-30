@@ -3,21 +3,11 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-30T06:06:24.292Z
+! Last modified: 2020-12-30T12:04:47.918Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
-!
-! Source name: AdGuard Base filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
-!
-!
-! Section contains list of advertising networks
-!
-! The rules with hints are at the end of file
-!
-!! https://a.bestcontentitem.top/warp/*?r=
-!
+||xclofrfa.com^
 ||adieusyaktop.com^
 ||pc20160301.com^
 ||pc180101.com^
@@ -19021,6 +19011,7 @@ vkcdnservice.appspot.com^
 ||global.px.quantserve.com^
 ||log.propermessage.io^
 ||hit.acstat.com^
+||code.acstat.com^
 ||fhits.xyz^
 ||intelligenceretarget.com^
 ||stpmgo.com^
@@ -25077,7 +25068,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analyticsengine.s3.amazonaws.com^
 ||analyze.full-marke.com^
 ||ape-tagit.timeinc.net^
-||api-location-prd.pelcro.com^
 ||api.wipmania.com^
 ||argos.citruserve.com^
 ||ariane.abtasty.com^
@@ -33419,9 +33409,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 29 Dec 2020 20:28 UTC+7
-! Version: 2012292028
-! Blocked: 585 rules
+! Last modified: 30 Dec 2020 16:33 UTC+7
+! Version: 2012301633
+! Blocked: 586 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33722,6 +33712,7 @@ adbetnet.com
 ||toppage.vn^
 ||trenddigital.vn^
 ||truoctran.com^
+||tulipluv.xyz^
 ||tvnotice.kg.garena.vn^
 ||upfile16.mediaphim.com^
 ||user.headlines.pw^
@@ -34015,6 +34006,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||zhongbolm.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
