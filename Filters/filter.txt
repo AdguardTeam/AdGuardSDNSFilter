@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-29T18:28:28.961Z
+! Last modified: 2020-12-30T00:15:38.336Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -34015,7 +34015,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||yvktmda.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35864,6 +35863,7 @@ adbetnet.com
 ||yunsoka.com^
 ||yuyanbaojie.cn^
 ||yuyue008.cn^
+||yvktmda.cn^
 ||ywadf.cn^
 ||ywjxsp168.cn^
 ||ywxi.net^
@@ -37133,10 +37133,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||zhekoudajie.com^
-||lejuyoujia2019.com^
-||komi168.com^
-||0ij3tm.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37172,6 +37168,7 @@ adbetnet.com
 ||0923csfsteibv12.xyz^
 ||0928vld.xyz^
 ||0fwg.cn^
+||0ij3tm.com^
 ||1005fdh.xyz^
 ||104610.com^
 ||1115potmgabfvixqwi.top^
@@ -38251,6 +38248,7 @@ adbetnet.com
 ||kltent.cn^
 ||kmfnkj.com^
 ||kofcq5.cn^
+||komi168.com^
 ||kongssew.com^
 ||kpfufdh.cn^
 ||kpirog.com^
@@ -38279,6 +38277,7 @@ adbetnet.com
 ||lchar.com^
 ||lcrmm.top^
 ||legozu.com^
+||lejuyoujia2019.com^
 ||lemaite.cn^
 ||lerenzx.cn^
 ||lesanmo.top^
@@ -39278,6 +39277,7 @@ adbetnet.com
 ||zhangshiyuan.com^
 ||zhanjiangletian.com^
 ||zhanlan5.cn^
+||zhekoudajie.com^
 ||zhengjsmd.cn^
 ||zhengzhoupengbo.com^
 ||zhfyws.com^
