@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-31T18:30:18.235Z
+! Last modified: 2021-01-01T00:16:04.831Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -33994,7 +33994,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||pinwu123.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35225,6 +35224,7 @@ adbetnet.com
 ||phvmax.com^
 ||pic12x20.com^
 ||pingping888.com^
+||pinwu123.com^
 ||pinyoux.com^
 ||pjshw.cn^
 ||pjtymy.cn^
@@ -36365,7 +36365,6 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
-||dm1.ddwk8.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -36701,6 +36700,7 @@ adbetnet.com
 ||dm.taobaojuhuasuan.cn^
 ||dm.wenshenxiu.com^
 ||dm.zuowenku.net^
+||dm1.ddwk8.cn^
 ||dm1.dnpz123.com^
 ||dm1.guanwawa.com^
 ||dm1.zjydt.com^
@@ -37117,10 +37117,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||gxfc2021.top^
-||hzhfhkj.cn^
-||xpxvok.cn^
-||zhipinbook.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37911,6 +37907,7 @@ adbetnet.com
 ||guvdfs.cn^
 ||guxiaom.cn^
 ||gwdqp.com^
+||gxfc2021.top^
 ||gxklsftz.cn^
 ||gxkyl.com^
 ||gybdtg.com^
@@ -38042,6 +38039,7 @@ adbetnet.com
 ||hyxca.top^
 ||hyyazhaji.com^
 ||hyzhongchuang.com^
+||hzhfhkj.cn^
 ||hzht666.com^
 ||hzqzxf.com^
 ||hzsrjs.com^
@@ -39108,6 +39106,7 @@ adbetnet.com
 ||xnghmc.com^
 ||xnjzsn.com^
 ||xnzkqew.cn^
+||xpxvok.cn^
 ||xrain.net^
 ||xsc.x81zw.com^
 ||xswfkco.cn^
@@ -39273,6 +39272,7 @@ adbetnet.com
 ||zhengzhoupengbo.com^
 ||zhfyws.com^
 ||zhide-edu.cn^
+||zhipinbook.cn^
 ||zhivalley.cn^
 ||zhixd.cn^
 ||zhiyaowan.cn^
