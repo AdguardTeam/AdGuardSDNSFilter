@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-01T18:25:57.309Z
+! Last modified: 2021-01-02T00:15:32.995Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -407,7 +407,6 @@
 ||nakedreel.com^
 ||caligula.pro^
 ||doublepimpads.com^
-||boffinsoft.com^
 ||9purdfe9xg.com^
 ||risausso.com^
 ||tohopes.ru^
@@ -3368,6 +3367,7 @@ vkcdnservice.appspot.com^
 ||bcvutcks.com^
 ||bcvxpffzmkqf.com^
 ||bd1617dbbc28f.com^
+||bd202457b.com^
 ||bdbdqkdkfb.xyz^
 ||bdbdqqkbxb.xyz^
 ||bdhbtrizb.com^
@@ -3378,6 +3378,7 @@ vkcdnservice.appspot.com^
 ||beacyoryjkbhqb.com^
 ||beakedpissod.com^
 ||beatpreservelost.com^
+||beavertron.com^
 ||bebreloomr.com^
 ||becauseared.site^
 ||becaused.club^
@@ -3424,7 +3425,10 @@ vkcdnservice.appspot.com^
 ||bestcond1tions.com^
 ||bestcontentfee.top^
 ||bestcontenthost.com^
+||bestcontentjob.top^
 ||bestcontentoperation.top^
+||bestcontentservice.top^
+||bestcontentuse.top^
 ||bestcpmnetwork.com^
 ||bestdisplaycontent.com^
 ||bestdisplayformats.com^
@@ -3432,6 +3436,7 @@ vkcdnservice.appspot.com^
 ||bestialearnbuds.com^
 ||bestmoneysites.com^
 ||bestrevenuenetwork.com^
+||bestssn.com^
 ||bestvideo2019.xyz^
 ||betahit.click^
 ||betrayedregretdeadline.com^
@@ -3454,6 +3459,7 @@ vkcdnservice.appspot.com^
 ||bggznyujioad.com^
 ||bgkxbknajdn.com^
 ||bglnzzsgigbto.com^
+||bgmtracker.com^
 ||bgn2zqlce1eiya.icu^
 ||bgqddlvq.com^
 ||bgvexbybxxbcao.com^
@@ -3486,6 +3492,7 @@ vkcdnservice.appspot.com^
 ||bingooverdosegroom.com^
 ||bingtonwr.top^
 ||binsatbee.club^
+||biosda.com^
 ||bipwrite.com^
 ||biroads.com^
 ||birung.club^
@@ -3562,9 +3569,11 @@ vkcdnservice.appspot.com^
 ||bobwjhcuavqklk.com^
 ||bocpqkpmez.com^
 ||bodyfairesra.club^
+||boffinsoft.com^
 ||boffoadsfeeds.com^
 ||bogrodius.com^
 ||bogytoeelf.com^
+||boinkcash.com^
 ||bokrelri.com^
 ||bolahepelm.com^
 ||bolrookr.com^
@@ -3574,6 +3583,7 @@ vkcdnservice.appspot.com^
 ||boodlewrite.com^
 ||bookingfreeze.com^
 ||boom-boom-vroom.com^
+||bootstrap-framework.org^
 ||boplhfqz.com^
 ||bopohsage.com^
 ||bopvetgel.com^
@@ -3628,6 +3638,7 @@ vkcdnservice.appspot.com^
 ||brotherhoodminims.com^
 ||broughlystra.club^
 ||browsobsolete.com^
+||brqvld0p.com^
 ||brrqeprqsrvrt.com^
 ||brtsumthree.com^
 ||bruvwmrxudd.com^
@@ -3660,6 +3671,7 @@ vkcdnservice.appspot.com^
 ||bulletprofitads.com^
 ||bullionyield.com^
 ||bulovuni.pro^
+||bumblecash.com^
 ||bungalowfollowbestowed.com^
 ||bunlxlhmsoizsa.com^
 ||bunnymediaserver.com^
@@ -3697,6 +3709,7 @@ vkcdnservice.appspot.com^
 ||bwuqqnxubseq.com^
 ||bxaddbia.com^
 ||bxczchdxynw.com^
+||bxgjpocfz1g1jiwb.pro^
 ||bxgnnzwagkxur.com^
 ||bxhevqnz.com^
 ||bxkpkskdox.com^
@@ -25474,6 +25487,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.outbrain.com^
 ||log.outbrainimg.com^
 ||log.pinterest.com^
+||log.plinga.de^
 ||log.seekda.com^
 ||logger.snackly.co^
 ||logging.carambo.la^
@@ -37124,8 +37138,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||fxfvttu.cn^
-||zykxjt.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37832,6 +37844,7 @@ adbetnet.com
 ||fwjoi.com^
 ||fwyang.com^
 ||fxfhjs.com^
+||fxfvttu.cn^
 ||fy4zb.cn^
 ||fyehare.com^
 ||fyjyhm.com^
@@ -39342,6 +39355,7 @@ adbetnet.com
 ||zxpyzc.cn^
 ||zxsmxt.com^
 ||zxzhengxin.com^
+||zykxjt.com^
 ||zywhjd.com^
 ||zyxwpj.com^
 ||zzalkk.com^
