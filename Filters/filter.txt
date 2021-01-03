@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-03T12:04:39.612Z
+! Last modified: 2021-01-03T18:25:00.233Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -32942,6 +32942,7 @@ adbetnet.com
 ||nonstoppartner.net^
 ||notenpartner.de^
 ||nwave.de^
+||onlymega.com^
 ||paidlinkz.net^
 ||paidsolution.de^
 ||performance-netzwerk.de^
@@ -32977,6 +32978,7 @@ adbetnet.com
 ||siyl.net^
 ||smartaffiliate.de^
 ||software-archiv.com^
+||solads.media^
 ||sparkads.ws^
 ||sparkassen-partner.de^
 ||special-sponsor.de^
@@ -33423,9 +33425,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Dec 2020 20:43 UTC+7
-! Version: 2012302043
-! Blocked: 587 rules
+! Last modified: 03 Jan 2021 19:22 UTC+7
+! Version: 2101031922
+! Blocked: 601 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33482,7 +33484,6 @@ adbetnet.com
 ||cleverads.vn^
 ||clevernet.vn^
 ||clickbuy.bz^
-||cokhach.com^
 ||contineljs.com^
 ||d2ox6x0y9xhicd.cloudfront.net^
 ||dable.io^
@@ -33491,7 +33492,6 @@ adbetnet.com
 ||eclick.vn^
 ||eva*-ad.24hstatic.com^
 ||ezimar.com^
-||fff.com.vn^
 ||flygame.io^
 ||fuseplatform.net^
 ||gammaplatform.com^
@@ -33506,8 +33506,8 @@ adbetnet.com
 ||ladipage.com^
 ||ladipage.net^
 ||ladipage.vn^
+||ladisales.com^
 ||lavanetwork.net^
-||laydata.com^
 ||log*.zing.vn^
 ||log.api.zaloapp.com^
 ||log.o2o.service.zaloapp.com^
@@ -33583,6 +33583,7 @@ adbetnet.com
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
 ||ztevents.zaloapp.com^
+||5734a40f2d.vws.vegacdn.vn^
 ||703531862.vws.vegacdn.vn^
 ||ad-admin.vnay.vn^
 ||ad.24h.com.vn^
@@ -33628,10 +33629,12 @@ adbetnet.com
 ||ads.vietbao.vn^
 ||ads.vkool.info^
 ||ads.vovlive.vn^
+||ads.xedoisong.vn^
 ||ads.xemphimso.com^
 ||ads1.careerbuilder.vn^
 ||adserver.lag.vn^
 ||adserver.luzu.vn^
+||adserver.trangphim.net^
 ||adsgo.nhipcaudautu.vn^
 ||adsplus.vn^
 ||adsv2.autodaily.vn^
@@ -33644,6 +33647,7 @@ adbetnet.com
 ||advserver.cgv.vn^
 ||adx.baolongan.vn^
 ||adx.edutimes.com.vn^
+||adx.hongtinnhanh.com^
 ||adx.kul.vn^
 ||adx.xemvtv.net^
 ||affiliate.k4.tinhte.vn^
@@ -33664,6 +33668,7 @@ adbetnet.com
 ||banner.5giay.vn^
 ||banner.vietnamfinance.vn^
 ||bgadx.com^
+||bluemaulpuffs.com^
 ||boxpr.aiservice.vn^
 ||cdn-ads.thesaigontimes.vn^
 ||cdn2.cache.vn^
@@ -33681,7 +33686,9 @@ adbetnet.com
 ||delivery.vtcnew.com.vn^
 ||deltago.com^
 ||demopage.me^
+||deqik.com^
 ||dt.vnecdn.com^
+||duamilsyr.com^
 ||ff.imacdn.com^
 ||financial-agent.headlines.pw^
 ||fptad.com^
@@ -33707,6 +33714,7 @@ adbetnet.com
 ||qcv5.blogtruyen.vn^
 ||quangcao.24h.com.vn^
 ||quangcao.baovannghe.com.vn^
+||quangcao.fff.com.vn^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
 ||quangcao247.com.vn^
@@ -33746,6 +33754,7 @@ adbetnet.com
 ||analytics.easyvideo.vn^
 ||analytics.explus.vn^
 ||analytics.hub-js.com^
+||analytics.nhattao.com^
 ||analytics.sohatv.vn^
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
@@ -33755,7 +33764,8 @@ adbetnet.com
 ||apl.headlines.pw^
 ||clientinfo.phimmoizz.net^
 ||counter.ntdvn.com^
-||deqik.com^
+||crm.bizfly.vn^
+||crmbizfly.todo.vn^
 ||elogs.vnexpress.net^
 ||event.headlines.pw^
 ||event.vntoday.news^
@@ -33795,6 +33805,7 @@ adbetnet.com
 ||log.vnay.vn^
 ||log.vntoday.news^
 ||log.vov.vn^
+||log.zamba.vn^
 ||log4x.nixcdn.com^
 ||logg4u.cnnd.vn^
 ||logging.galaxypub.vn^
@@ -33812,6 +33823,7 @@ adbetnet.com
 ||s.tuoitre.vn^
 ||sharefb.cnnd.vn^
 ||stat.headlines.pw^
+||static.accesstrade.vn^
 ||static.subiz.com^
 ||staticad.thethao247.vn^
 ||statistics.vov.vn^
@@ -33839,6 +33851,8 @@ adbetnet.com
 ||tracking.appwifi.com^
 ||tracking.dantri.com.vn^
 ||tracking.fado.vn^
+||tracking.fff.com.vn^
+||tracking.hongtinnhanh.com^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
 ||tracking.vtc.vn^
@@ -33851,6 +33865,8 @@ adbetnet.com
 ||userstats.shopee.vn^
 ||vn.alexajstrack.com^
 ||vtrack.vht.com.vn^
+||webpush.bizfly.vn^
+||webpush.todo.vn^
 ||widget.sbz.vn^
 ||widget.subiz.xyz^
 ||11bet.com^
