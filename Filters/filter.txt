@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-04T00:17:51.963Z
+! Last modified: 2021-01-04T06:09:35.275Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -24737,6 +24737,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cubchannel.com^
 ||culturedcrayon.com^
 ||curvycry.com^
+||cushionpig.com^
 ||damdoor.com^
 ||dampdock.com^
 ||dapperdiscussion.com^
@@ -25449,6 +25450,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ingest.sentry.io^
 ||insight.mintel.com^
 ||insight.rapid7.com^
+||insights.algolia.io^
 ||insights.plista.com^
 ||insights.sitesearch360.com^
 ||insitez.blob.core.windows.net^
@@ -25998,6 +26000,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||uhytajrtpo-a.akamaihd.net^
 ||zvsuhljiha-a.akamaihd.net^
 ! fastly
+||7q1z79gxsi.global.ssl.fastly.net^
 ||clarium.global.ssl.fastly.net^
 ||dfapvmql-q.global.ssl.fastly.net^
 ! Unnecessary third-party scripts
@@ -36747,7 +36750,6 @@ adbetnet.com
 ||dm.wenshenxiu.com^
 ||dm.zuowenku.net^
 ||dm1.ddwk8.cn^
-||dm1.dnpz123.com^
 ||dm1.guanwawa.com^
 ||dm1.zjydt.com^
 ||dmm.aizhan.com^
