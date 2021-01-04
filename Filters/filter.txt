@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-04T06:09:35.275Z
+! Last modified: 2021-01-04T12:05:53.937Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -1784,11 +1784,9 @@ www.llllllllllll.net^
 !
 ||sak.userreport.com^
 ||api.flygame.io^
-||d2sbzwmcg5amr3.cloudfront.net^
 ||tontent.powv1deo.cc^
 ||cintent.streanplay.cc^
 ||my.shymilftube.com^
-||d1f05vr3sjsuy7.cloudfront.net^
 ||s2.everydaygayporn.com^
 ||apiads.gg.pl^
 ||feedads.feedblitz.com^
@@ -1798,7 +1796,6 @@ www.llllllllllll.net^
 ||adilk.ilikecomix.com^
 ||a.letsjerk.to^
 ||d2j042cj1421wi.cloudfront.net^
-||dq3yxnlzwhcys.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
 ||rek.www.wp.pl^
 ||d3mr7y154d2qg5.cloudfront.net^
@@ -9940,7 +9937,6 @@ vkcdnservice.appspot.com^
 ||rechampouinerai.website^
 ||rechaptalisent.xyz^
 ||recheriend.top^
-||recipetocook.recipes^
 ||reckedmane.club^
 ||recomine.club^
 ||recommendedscenery.com^
@@ -20524,6 +20520,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||lcs.modoo.at^
 ||check.tadapi.info^
 ||count.munhwa.com^
 ||geo.mattel163.com^
