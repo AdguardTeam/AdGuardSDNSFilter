@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-04T18:26:15.806Z
+! Last modified: 2021-01-05T00:18:19.905Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -11795,6 +11795,7 @@ vkcdnservice.appspot.com^
 ||varylioness.com^
 ||vasgenerete.site^
 ||vashoaft.net^
+||vasstycom.com^
 ||vatname.info^
 ||vatskaylittl.club^
 ||vaultwrite.com^
@@ -20751,7 +20752,6 @@ t.yesware.com
 ||tr.junaroad.com^
 ||tracker.shopclues.com^
 ||beacon.itmedia.jp^
-||d3j1weegxvu8ns.cloudfront.net^
 ||trk.performanceplay.co.kr^
 ||atlas1.krone.at^
 ||spr.bild.de^
@@ -22131,6 +22131,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||christiantop1000.com^
 ||christmalicious.com^
 ||chrumedia.com^
+||chtbl.com^
 ||cintnetworks.com^
 ||circular-counters.com^
 ||ck-cdn.com^
@@ -25306,6 +25307,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d3cgm8py10hi0z.cloudfront.net^
 ||d3cxv97fi8q177.cloudfront.net^
 ||d3iouejux1os58.cloudfront.net^
+||d3j1weegxvu8ns.cloudfront.net^
 ||d3kyk5bao1crtw.cloudfront.net^
 ||d3l3lkinz3f56t.cloudfront.net^
 ||d3m6sept6cnil5.cloudfront.net^
@@ -25374,6 +25376,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||event.api.drift.com^
 ||event.getblue.io^
 ||event.syndigo.cloud^
+||event.webcollage.net^
 ||eventapi.libring.com^
 ||eventgateway.soundcloud.com^
 ||eventlog.inspsearchapi.com^
