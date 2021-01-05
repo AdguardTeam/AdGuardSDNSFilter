@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-05T00:18:19.905Z
+! Last modified: 2021-01-05T06:09:30.339Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -23300,6 +23300,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||perfdrive.com^
 ||perfectaudience.com^
 ||perfiliate.com^
+||perfops.io^
 ||performancerevenues.com^
 ||performtracking.com^
 ||perimeterx.net^
@@ -25282,6 +25283,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d25ezbwokoefx6.cloudfront.net^
 ||d28g9g3vb08y70.cloudfront.net^
 ||d2as12kgjg8gw5.cloudfront.net^
+||d2axgrpnciinw7.cloudfront.net^
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2gbtcuv3w9qyv.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
@@ -25368,6 +25370,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
 ||edge.sqweb.com^
+||entitlement.auth.adobe.com^
 ||errors.snackly.co^
 ||event-api.contactatonce.co.uk^
 ||event-api.contactatonce.com.au^
@@ -25810,6 +25813,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tc.airfrance.com^
 ||tcheck.outbrainimg.com^
 ||te.supportfreecontent.com^
+||telemetrics.klaviyo.com^
 ||telemetry.api.wmcdp.io^
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
@@ -37180,6 +37184,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||1221dhb.xyz^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
