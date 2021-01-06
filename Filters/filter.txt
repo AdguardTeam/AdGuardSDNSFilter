@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-06T06:10:14.672Z
+! Last modified: 2021-01-06T12:06:34.517Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -21150,7 +21150,6 @@ t.yesware.com
 ||pixel.4players.de
 ||subpixel.4players.de
 ||top.hsdn.org^
-||mtrcs.samba.tv^
 ||stat*.1internet.tv^
 ||stats.persgroep.be^
 ||l.m.naver.com^
@@ -25564,6 +25563,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mmi.bemobile.ua^
 ||mormont.gamer-network.net^
 ||mqs.ioam.de^
+||mtrcs.samba.tv^
 ||mts.mansion.com^
 ||mv.treehousei.com^
 ||mx.technolutions.net^
@@ -37199,6 +37199,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||gcctqal.cn^
+||saastt.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
