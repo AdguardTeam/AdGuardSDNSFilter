@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-06T00:18:25.934Z
+! Last modified: 2021-01-06T06:10:14.672Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -7948,6 +7948,7 @@ vkcdnservice.appspot.com^
 ||midpopedge.com^
 ||miegpokitjxm.com^
 ||mierdydkqvpgno.com^
+||miesobserv.fun^
 ||mifxolavi.com^
 ||migatesbala.fun^
 ||migayush2lam1pa1.com^
@@ -11478,6 +11479,7 @@ vkcdnservice.appspot.com^
 ||udmdtdjna.com^
 ||udtekwuh.com^
 ||udvysuucqgadg.com^
+||ueaggress.top^
 ||uebadu.com^
 ||uedombokwcy.com^
 ||ueenfeiu.com^
@@ -25377,7 +25379,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
 ||edge.sqweb.com^
-||entitlement.auth.adobe.com^
 ||errors.snackly.co^
 ||event-api.contactatonce.co.uk^
 ||event-api.contactatonce.com.au^
@@ -37198,11 +37199,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||xiangyuym.cn^
-||qgdvyvd.cn^
-||wxebgpj.cn^
-||2shol4.cn^
-||1221dhb.xyz^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37245,6 +37241,7 @@ adbetnet.com
 ||114com.cc^
 ||118ex.cn^
 ||1214bdk.xyz^
+||1221dhb.xyz^
 ||125331.top^
 ||12gf.gold^
 ||12jf3.cn^
@@ -37279,6 +37276,7 @@ adbetnet.com
 ||2l1f.cn^
 ||2q5p.cn^
 ||2scjbg.com^
+||2shol4.cn^
 ||2shoushi.com^
 ||2zm4.cn^
 ||333bj.cloud^
@@ -38662,6 +38660,7 @@ adbetnet.com
 ||qflwh.cn^
 ||qfzcxs.cn^
 ||qgaot.com^
+||qgdvyvd.cn^
 ||qhdmqzc.cn^
 ||qhdop.com^
 ||qhxcdmfj.cn^
@@ -39107,6 +39106,7 @@ adbetnet.com
 ||wvcdn.cn^
 ||wvfgiio.cn^
 ||wvver.com^
+||wxebgpj.cn^
 ||wxhdwy.com^
 ||wxmg2016.com^
 ||wxvsj.com.cn^
@@ -39142,6 +39142,7 @@ adbetnet.com
 ||xiandafood.cn^
 ||xiangchim0.com^
 ||xiangwangdesh.com^
+||xiangyuym.cn^
 ||xiansenmeng.cn^
 ||xiaobingmai.cn^
 ||xiaogouzhuanqian.cn^
