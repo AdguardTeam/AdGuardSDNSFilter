@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-07T06:12:12.051Z
+! Last modified: 2021-01-07T12:07:18.234Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||pailridarm.com^
+||didpuprat.com^
 ||app-department.report^
 ||saguvacu.xyz^
 ||adcryp.to^
@@ -32884,6 +32886,7 @@ adbetnet.com
 ||biallo1.de^
 ||biallo2.de^
 ||biallo3.de^
+||big7.com^
 ||bitcoinpara.de^
 ||blogads.de^
 ||blogpay.eu^
@@ -34099,6 +34102,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||yapusheji.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -37225,6 +37229,9 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||sxxfmc.com^
+||shidaikejivip.cn^
+||9uh94c.cn^
 ||ygnoqu.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
