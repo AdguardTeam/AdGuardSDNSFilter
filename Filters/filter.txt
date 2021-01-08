@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-08T12:09:24.786Z
+! Last modified: 2021-01-08T18:28:10.553Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||blastcahs.com^
 ||deligrassdull.com^
 ||sitefeytout.com^
 ||hubzozo.com^
@@ -1795,6 +1796,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||d18t35yyry2k49.cloudfront.net^
 ||sak.userreport.com^
 ||api.flygame.io^
 ||tontent.powv1deo.cc^
@@ -32867,6 +32869,7 @@ adbetnet.com
 ||advolution.de^
 ||adwelt.com^
 ||adworx.at^
+||aff-handler.com^
 ||affiliando.com^
 ||affiliate-premium-club.com^
 ||affiliates.de^
@@ -34117,6 +34120,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||7cbwus.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -37244,6 +37248,15 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||yjxqy.com^
+||m06nev.com^
+||zhmyq.cn^
+||ql01t4.com^
+||tzh019.cn^
+||aoyou4.top^
+||xiangyuym.cn^
+||wangjulm.com^
+||ahwczn.cn^
 ||dacedsfa.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
@@ -39193,7 +39206,6 @@ adbetnet.com
 ||xiandafood.cn^
 ||xiangchim0.com^
 ||xiangwangdesh.com^
-||xiangyuym.cn^
 ||xiansenmeng.cn^
 ||xiaobingmai.cn^
 ||xiaogouzhuanqian.cn^
