@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-11T12:12:32.886Z
+! Last modified: 2021-01-11T18:32:42.079Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||hosupshunk.com^
 ||download-file.ml^
 !+ NOT_OPTIMIZED
 ||resumersvo.fun^
@@ -1159,7 +1160,6 @@ www.llllllllllll.net^
 ||jiwvbck.com^
 ||pgcode.org^
 ||cashpartners.eu^
-||clickaine.com^
 ||nmpmgmldzvrmra.com^
 ||ojiffvsutzrx.com^
 ||yoredi.com^
@@ -1818,7 +1818,6 @@ www.llllllllllll.net^
 ||d2j042cj1421wi.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
 ||rek.www.wp.pl^
-||d3mr7y154d2qg5.cloudfront.net^
 ||centent.streamp1ay.cc^
 ||dz5bomaog2c5t.cloudfront.net^
 ||s.remonti.org^
@@ -1891,7 +1890,6 @@ www.llllllllllll.net^
 ||tm-banners.gamingadult.com^
 ||blyxb.27667.club^
 ||delivery.porn.com^
-||d10lumateci472.cloudfront.net^
 ||d1qc76gneygidm.cloudfront.net^
 ||d9tnvwv7i2n85.cloudfront.net^
 ||d35r45qhjmgs3g.cloudfront.net^
@@ -1901,7 +1899,6 @@ www.llllllllllll.net^
 ||d985a9d2clzq5.cloudfront.net^
 ||d2kz60b0gq4lg.cloudfront.net^
 ||d3ud741uvs727m.cloudfront.net^
-||d1nmxiiewlx627.cloudfront.net^
 ||dc5ig2fc8lg83.cloudfront.net^
 ||d3q33rbmdkxzj.cloudfront.net^
 ||ads2.contentabc.com^
@@ -19001,6 +18998,8 @@ vkcdnservice.appspot.com^
 ! relateddigital.com domains
 ||visilabs.com^
 !
+||counter.daara.kr^
+||tr.line.me^
 ||log22.makeshop.co.kr^
 ||piclick.kr^
 ||log.perfecttitspics.com^
@@ -21401,6 +21400,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.appsflyer.com^
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||monitoring-sdk.experimentation.intuit.com^
+||logging.api.intuit.com^
 ||analytics.prod.mybuddy.ai^
 ||logs.amap.com^
 ||edmanalytics.pandahall.com^
@@ -32434,6 +32435,8 @@ adbetnet.com
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||adtechjp.com^
+||bannerfarm.aolp.jp^
 ||koukoku.red^
 ||afi-b.com^
 ||p.storage-ad.com^
