@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-13T12:22:02.169Z
+! Last modified: 2021-01-13T17:17:47.304Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||livezombymil.com^
+||ilohfbiph.com^
 ||nichedlinks.com^
 ||departmentunsuccessful.com^
 ||xcsypkknp.com^
@@ -27642,6 +27644,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||xsa2zq7q2l.ru^
 ||tiz.jsite.top^
 ||news-network.ru^
 ||alboist7crphfrg.ru^
@@ -27679,6 +27682,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||farantitid.racing^
 ||zgxrht.com^
 ||gswtol.com^
+||yxhstwzjbu.info
 ||sayhinews.com^
 ||traffer.biz^
 ||tophitbit.com^
@@ -33091,6 +33095,7 @@ adbetnet.com
 ||onlymega.com^
 ||paidlinkz.net^
 ||paidsolution.de^
+||partner-versicherung.de^
 ||performance-netzwerk.de^
 ||performanceanalyser.net^
 ||planetactive.com^
@@ -33572,9 +33577,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Jan 2021 15:01 UTC+7
-! Version: 2101121501
-! Blocked: 631 rules
+! Last modified: 13 Jan 2021 20:49 UTC+7
+! Version: 2101132049
+! Blocked: 636 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33679,6 +33684,7 @@ adbetnet.com
 ||nv-ad*.24hstatic.com^
 ||ohchat.net^
 ||oncustomer.asia^
+||onfluencer.net^
 ||phanquang.vn^
 ||philacct.com^
 ||photo-ads.zaloapp.com^
@@ -33935,6 +33941,7 @@ adbetnet.com
 ||event.vntoday.news^
 ||fa.fpt.shop^
 ||follow.vnay.vn^
+||google-shopping.sapoapps.vn^
 ||hit.123c.vn^
 ||invite.baomoi.com^
 ||la.vietid.net^
@@ -33965,6 +33972,8 @@ adbetnet.com
 ||log.tienphong.vn^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
+||log.trithuctructuyen.com.vn^
+||log.trithuctructuyen.vn^
 ||log.vietnamdaily.net.vn^
 ||log.vietnamfinance.vn^
 ||log.vietnamplus.vn^
@@ -34074,6 +34083,7 @@ adbetnet.com
 ||bong88net.com^
 ||bong99.com^
 ||bong99.fun^
+||bong99.vip^
 ||cacuoc247.com^
 ||cacuoc79.com^
 ||casino888vn.com^
