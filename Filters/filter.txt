@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-13T00:31:55.130Z
+! Last modified: 2021-01-13T06:25:06.104Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -141,7 +141,6 @@
 ||srtrak.com^
 ||horacomerciar.com^
 ||yogar2ti8nf09.com^
-||bulletprofitpop.com^
 ||bulletprofitadclick.com^
 ||tombspyelates.com^
 ||nwa88nx9uxzh.com^
@@ -3692,6 +3691,7 @@ vkcdnservice.appspot.com^
 ||bulletfeedspy.com^
 ||bulletindualpartial.com^
 ||bulletprofitads.com^
+||bulletprofitpop.com^
 ||bullionyield.com^
 ||bulovuni.pro^
 ||bumblecash.com^
@@ -17281,7 +17281,6 @@ vkcdnservice.appspot.com^
 ||vibrant.co^
 ||vibrantmedia.com^
 ||vidcoin.com^
-||vidcpm.com^
 ||video-loader.com^
 ||videoadex.com^
 ||videoclick.ru^
@@ -25615,6 +25614,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metrics.brightcove.com^
 ||metrics.ctvdigital.net^
 ||metrics.el-mundo.net^
+||metrics.getvitals.io^
 ||metrics.readme.io^
 ||metrics.scribblelive.com^
 ||metrics.sonymusicd2c.com^
@@ -33538,7 +33538,7 @@ adbetnet.com
 ||uoarbhxfyygn.com^
 ||uofmnbkm.com^
 ||useads.com^
-||vidcpm.com^third-party
+||vidcpm.com^
 ||vrewpywootyu.com^
 ||wbaogaqvrukprx.com^
 ||webiklan.com^
@@ -34203,8 +34203,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||govjiangsu.cn^
-||govbeijing.cn^
+||iwwacgx.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34895,8 +34894,10 @@ adbetnet.com
 ||gouhei.top^
 ||gouweida.cn^
 ||gouzhibao.cn^
+||govbeijing.cn^
 ||govgift.com^
 ||govhunan.cn^
+||govjiangsu.cn^
 ||gowin01.com^
 ||gqswg.com^
 ||greenbetterkids.com^
@@ -37337,8 +37338,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||gongxifacai21.top^
-||wenjianzhongxin.com^*.gif
+||daylskg.cn^
+||weinin99.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38109,6 +38110,7 @@ adbetnet.com
 ||gnncc.cc^
 ||gobali.cn^
 ||gongfanglong.cn^
+||gongxifacai21.top^
 ||goodkee.cn^
 ||goodwold.top^
 ||googlespider1.cn^
@@ -39221,6 +39223,7 @@ adbetnet.com
 ||weiziqiang.top^
 ||welted.cn^
 ||wenbangsh.com.cn^
+||wenjianzhongxin.com^*.gif
 ||wenzhougy.cn^
 ||wervp.com^
 ||wfaffwshop.xyz^
