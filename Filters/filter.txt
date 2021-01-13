@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-13T06:25:06.104Z
+! Last modified: 2021-01-13T12:22:02.169Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||nichedlinks.com^
+||departmentunsuccessful.com^
+||xcsypkknp.com^
 ||selfswayjay.com^
 ||0x01n2ptpuz3.com^
 ||spyglass.reklamko.pro^
@@ -2237,6 +2240,7 @@ vkcdnservice.appspot.com^
 ||23205523023daea6.com^
 ||2334ea708ab6d79.com^
 ||233fb5b59351.com^
+||24-sportnews.com^
 ||2444efc8cd8e.com^
 ||24ad89fc2690ed9369.com^
 ||24smile.org^
@@ -6661,6 +6665,7 @@ vkcdnservice.appspot.com^
 ||interdfp.com^
 ||interferingchauffeurorbit.com^
 ||intermediaryinvoluntaryflippant.com^
+||internewsweb.com^
 ||interst12.com^
 ||intimidatingclinchwily.com^
 ||intimidatinggodlessketchup.com^
@@ -7886,6 +7891,7 @@ vkcdnservice.appspot.com^
 ||mediaappletree.com^
 ||mediadisclose.com^
 ||mediaserf.net^
+||mediatechbuzz.com^
 ||medyagundem.com^
 ||meehaina.net^
 ||meepwrite.com^
@@ -8254,6 +8260,7 @@ vkcdnservice.appspot.com^
 ||myrtlerepresentationathwart.com^
 ||mytrackf73.com^
 ||myuffcmf.com^
+||mywondertrip.com^
 ||mzjotkigwu.com^
 ||mzmnrczlsqtlya.com^
 ||mzmtpdcouoa.com^
@@ -10402,6 +10409,7 @@ vkcdnservice.appspot.com^
 ||salarmers.club^
 ||saliencege.top^
 ||sallyminority.com^
+||samage-bility.icu^
 ||samtrg.com^
 ||sanddevelto.fun^
 ||sankaudacityrefine.com^
@@ -11294,6 +11302,7 @@ vkcdnservice.appspot.com^
 ||topdisplaycontent.com^
 ||topdisplaynetwork.com^
 ||toplesstacticsdepend.com^
+||topmaincash.com^
 ||topperformance.xyz^
 ||topperyregard.fun^
 ||topprofitablecpm.com^
@@ -13363,6 +13372,7 @@ vkcdnservice.appspot.com^
 ||addoor.net^
 ||addroid.com^
 ||addroplet.com^
+||addvantagetechnology.com^
 ||addynamix.com^
 ||addynamo.net^
 ||adecn.com^
@@ -25871,6 +25881,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tag-manager.playbuzz.com^
 ||tag.aumago.com^
 ||tag.brandcdn.com^
+||tag.elevaate.io^
 ||tag.myplay.com^
 ||tag.rightmessage.com^
 ||tag.rmp.rakuten.com^
@@ -37338,6 +37349,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||9weg7b.com^
+||iibahmd.cn^
 ||daylskg.cn^
 ||weinin99.cn^
 ||01w47q.cn^
