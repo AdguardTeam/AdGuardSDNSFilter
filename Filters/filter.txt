@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-14T15:59:29.912Z
+! Last modified: 2021-01-14T18:45:17.645Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||mxuiso.com^
 ||runnersgunpowder.com^
 ||livezombymil.com^
 ||ilohfbiph.com^
@@ -18115,6 +18116,7 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||cl-ad.x-flow.app^
 ||soundcloud-pax.pandora.com^
 ||promoted.sndcdn.com^
 ||adservice.tohsoft.com^
@@ -19021,6 +19023,7 @@ vkcdnservice.appspot.com^
 ! relateddigital.com domains
 ||visilabs.com^
 !
+||kiynew.com^
 ||tracker.metricool.com^
 ||stats.myangular.life^
 ||counter.daara.kr^
@@ -21428,6 +21431,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.appsflyer.com^
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||metrics.happycolor.app^
 ||digianalytics.airtel.in^
 ||ad-creative.projectcarmen.com^
 ||analytics.projectcarmen.com^
@@ -27646,6 +27650,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||7nkbwdf1uq.ru^
+||33a89nw03k.ru^
 ||biocdn.net^
 ||xsa2zq7q2l.ru^
 ||tiz.jsite.top^
