@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-14T00:38:58.858Z
+! Last modified: 2021-01-14T06:27:10.355Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -34225,7 +34225,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||iwwacgx.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35094,6 +35093,7 @@ adbetnet.com
 ||itchenjian.com^
 ||itemccmod.com^
 ||iwansf.com^
+||iwwacgx.cn^
 ||iyoowi.com^
 ||iyptc.cn^
 ||iyygzs.com^
@@ -37360,10 +37360,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||9weg7b.com^
-||iibahmd.cn^
-||daylskg.cn^
-||weinin99.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37550,6 +37546,7 @@ adbetnet.com
 ||9pb0h.cn^
 ||9ucm.com^
 ||9uh94c.cn^
+||9weg7b.com^
 ||9y88.com^
 ||a3pz36.cn^
 ||a7t89g4a.cn^
@@ -37912,6 +37909,7 @@ adbetnet.com
 ||datazhan.com^
 ||dawanjiahn.com^
 ||daxijia.cn^
+||daylskg.cn^
 ||dbaij.com^
 ||dbaof.com^
 ||dbeii.com^
@@ -38321,6 +38319,7 @@ adbetnet.com
 ||ihais.com^
 ||ihear123.com^
 ||ihhii.xyz^
+||iibahmd.cn^
 ||iigushi.com^
 ||ilifecook.com^
 ||imanchu.cn^
@@ -39242,6 +39241,7 @@ adbetnet.com
 ||weiiii.com^
 ||weikefanli.com^
 ||weimeicar.cn^
+||weinin99.cn^
 ||weixinhuoyuan.com^
 ||weiyajz.cn^
 ||weiziqiang.top^
