@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-14T10:22:10.121Z
+! Last modified: 2021-01-14T11:37:19.096Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -19032,6 +19032,7 @@ vkcdnservice.appspot.com^
 ||herald.loginside.co.kr^
 ||log002.commutil.kr^
 ||analy1.dtnnetwork.be^
+||cerdmann.com^
 ||track.customer.io^
 ||lcs.loginfra.com^
 ||adblock-analytics.io^
@@ -21640,7 +21641,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||andmlb.kshwtj.com^
 ||api-analytics-bootstrap.metaps.com^
 ||api-analytics.metaps.com^
-||api.amplitude.com^
 ||api.analytics.omgpop.com^
 ||api.appsee.com^
 ||api.apptentive.com^
@@ -23691,6 +23691,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||semanticverses.com^
 ||semasio.net^
 ||sendtraffic.com^
+||sentry.io^
 ||seomonitor.ro^
 ||seomoz.org^
 ||seoradar.ro^
@@ -25545,7 +25546,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||impress.vcita.com^
 ||infinityid.condenastdigital.com^
 ||informer.yandex.ru^
-||ingest.sentry.io^
 ||insight.mintel.com^
 ||insight.rapid7.com^
 ||insights.algolia.io^
