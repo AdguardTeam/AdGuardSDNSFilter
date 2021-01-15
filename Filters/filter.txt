@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-15T13:12:54.913Z
+! Last modified: 2021-01-15T18:44:32.247Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -20611,7 +20611,6 @@ t.yesware.com
 ||geo.mattel163.com^
 ||tc-log.mattel163.com^
 ||events-api*.outfit7.com^
-||bilanx.dcard.tw^
 ||events.emogi.com^
 ||log.ohmynews.com^
 ||analytics2.tvreport.co.kr^
@@ -27670,6 +27669,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||alboist7crphfrg.ru^
 ||boostingads.com^
 ||prod.html5-ads.vk-apps.com^
+||bhghfsa.info^
 ||3kbktygzr5.ru^
 ||betemolgar.com^
 ||mp3dance.today^
@@ -33597,8 +33597,8 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Jan 2021 13:41 UTC+7
-! Version: 2101151341
+! Last modified: 15 Jan 2021 22:04 UTC+7
+! Version: 2101152204
 ! Blocked: 642 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -34250,6 +34250,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||fangniaowang.net^
 ||ue2bm3.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
@@ -40298,8 +40299,6 @@ adbetnet.com
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
-! https://github.com/AdguardTeam/AdguardFilters/issues/71289
-@@||app.appsflyer.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/71434
 @@||email.procook.co.uk^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/498
