@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-15T12:19:46.604Z
+! Last modified: 2021-01-15T13:12:54.913Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -40298,6 +40298,8 @@ adbetnet.com
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/71289
+@@||app.appsflyer.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/71434
 @@||email.procook.co.uk^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/498
