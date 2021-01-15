@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-15T06:23:46.477Z
+! Last modified: 2021-01-15T11:14:27.881Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -10619,6 +10619,7 @@ vkcdnservice.appspot.com^
 ||shikroux.net^
 ||shinasi.info^
 ||shinebliss.com^
+||shingleintelligenceurge.com^
 ||shinyspiesyou.com^
 ||shionmanc.club^
 ||shiptoud.com^
@@ -33595,9 +33596,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Jan 2021 20:49 UTC+7
-! Version: 2101132049
-! Blocked: 636 rules
+! Last modified: 15 Jan 2021 13:41 UTC+7
+! Version: 2101151341
+! Blocked: 642 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33666,6 +33667,7 @@ adbetnet.com
 ||fuseplatform.net^
 ||gammaplatform.com^
 ||gammassp.com^
+||haravan.com^
 ||hbplatform.com^
 ||hotngay.vn^
 ||itim.vn^
@@ -33729,6 +33731,7 @@ adbetnet.com
 ||smartconvert.co^
 ||sourcetobin.com^
 ||sporttv.today^
+||starseed.fr^
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
 ||subiz-cdn.com^
@@ -33944,6 +33947,7 @@ adbetnet.com
 ||analytics.sohatv.vn^
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
+||analytics.tintuc.vn^
 ||analytics.viblo.asia^
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
@@ -34011,6 +34015,7 @@ adbetnet.com
 ||logscafef.channelvn.net^
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
+||partner.accesstrade.vn^
 ||report.vnay.vn^
 ||s.baomoi.xdn.vn^
 ||s.kenh14.vn^
@@ -34069,6 +34074,7 @@ adbetnet.com
 ||widget.sbz.vn^
 ||widget.subiz.net^
 ||widget.subiz.xyz^
+||widgetv4.subiz.com^
 ||11bet.com^
 ||11bet.net^
 ||11bet.win^
@@ -34237,6 +34243,7 @@ adbetnet.com
 ||ucesreferre.club^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
+||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 
 !
 ! Source name: EasyList China ad servers
@@ -37383,6 +37390,8 @@ adbetnet.com
 ||buyuninfo.com^
 ||hnyoufan.com^
 ||g1mm3d.cn^
+||liulu888.com^
+||dnfkong.com^
 ||yanyanbiji.com^
 ||zln44.cn^
 ||01w47q.cn^
@@ -40288,6 +40297,8 @@ adbetnet.com
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/71434
+@@||email.procook.co.uk^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/498
 @@||omsc.kpn.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/514
