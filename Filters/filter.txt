@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-16T00:37:02.893Z
+! Last modified: 2021-01-16T06:24:30.712Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -23202,6 +23202,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mpstat.us^
 ||msecure108.com^
 ||msgapp.com^
+||msgfocus.com^
 ||msgtag.com^
 ||msparktrk.com^
 ||mstat.ga^
@@ -34249,8 +34250,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||fangniaowang.net^
-||ue2bm3.cn^
+||xuanmin.wang^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34860,6 +34860,7 @@ adbetnet.com
 ||f70123.com^
 ||facebookma.cn^
 ||family-joy.com^
+||fangniaowang.net^
 ||fanli.in^
 ||farm-cn.plista.com^
 ||fastable.com^
@@ -35802,6 +35803,7 @@ adbetnet.com
 ||uchaoqiang.top^
 ||ucstatic.cn^
 ||ucxgg.com^
+||ue2bm3.cn^
 ||ugg66.com^
 ||uhijmv.cn^
 ||ukeiae.com^
@@ -37388,13 +37390,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||buyuninfo.com^
-||hnyoufan.com^
-||g1mm3d.cn^
-||liulu888.com^
-||dnfkong.com^
-||yanyanbiji.com^
-||zln44.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37794,6 +37789,7 @@ adbetnet.com
 ||bugcreator.cn^
 ||bulankk.com^
 ||bulkeach.com^
+||buyuninfo.com^
 ||bvoer.com^
 ||bvosv.com^
 ||bx9000.top^
@@ -37986,6 +37982,7 @@ adbetnet.com
 ||dmpsj.cn^
 ||dmswhw.cn^
 ||dn189.com^
+||dnfkong.com^
 ||dodomo.info^
 ||doryhome.com^
 ||downcdn.top^
@@ -38118,6 +38115,7 @@ adbetnet.com
 ||fyzyf.com^
 ||fzdfwy.com^
 ||fzxrjx.com^
+||g1mm3d.cn^
 ||g3ao2q.cn^
 ||g4rre.xyz^
 ||g8waw1.cn^
@@ -38291,6 +38289,7 @@ adbetnet.com
 ||hntiantai.cn^
 ||hnwjlhg.cn^
 ||hnxahz.com^
+||hnyoufan.com^
 ||hnzyzhy.cn^
 ||hogyp.com^
 ||hondajd.cn^
@@ -38584,6 +38583,7 @@ adbetnet.com
 ||listenother.com^
 ||liufang1994.top^
 ||liujiaqi.top^
+||liulu888.com^
 ||liuzishen.com^
 ||lixianze.top^
 ||lixudong.top^
@@ -39445,6 +39445,7 @@ adbetnet.com
 ||yangzhenpeng.top^
 ||yanjunbo.com^
 ||yantairuide.com^
+||yanyanbiji.com^
 ||yaodianzhineng.cn^
 ||yaoquanshumeiyu.com^
 ||yauwsd.cn^
@@ -39616,6 +39617,7 @@ adbetnet.com
 ||zkwsdf.com^
 ||zlauk.cn^
 ||zlfhe8.cn^
+||zln44.cn^
 ||zmlfk.com^
 ||zmyuer.com^
 ||zoepb.cn^
