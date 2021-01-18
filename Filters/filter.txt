@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-17T18:41:37.339Z
+! Last modified: 2021-01-18T00:32:56.297Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -34256,9 +34256,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||3337781.com^
-||jehudf.com^
-||cnnywz.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34347,6 +34344,7 @@ adbetnet.com
 ||2polj.top^
 ||2zfzly.com^
 ||31365y.com^
+||3337781.com^
 ||333dm.com^
 ||338336.com^
 ||3400.org^
@@ -34709,6 +34707,7 @@ adbetnet.com
 ||cnfanglei.com^
 ||cnhbxx.com^
 ||cnkok.com^
+||cnnywz.cn^
 ||cnpinzhuo.com^
 ||cnsayo.com^
 ||cnscdj.com^
@@ -35140,6 +35139,7 @@ adbetnet.com
 ||jcelyj.com^
 ||jczzjx.com^
 ||jdlhg.com^
+||jehudf.com^
 ||jfjsp.com^
 ||jfqkj.com^
 ||jgchq.com^
@@ -37399,7 +37399,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||ouhwjdv.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38801,6 +38800,7 @@ adbetnet.com
 ||osidf.xyz^
 ||osndy.com^
 ||osvp2.cn^
+||ouhwjdv.cn^
 ||oulvtrip.com^
 ||ow*.biqugego.com^
 ||ox11.com^
