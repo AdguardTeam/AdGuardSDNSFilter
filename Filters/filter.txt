@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-18T18:43:33.629Z
+! Last modified: 2021-01-19T00:36:37.047Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||ximupea.ru^
 ||nicksstevmark.com^
 ||wcwcads.net^
 ||crisistuesdayartillery.com^
@@ -37412,11 +37413,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||199zw.com^
-||yangtzeev.com^
-||lq0s3c.cn^
-||huitiankuaiji.com^
-||peiliao-china.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37471,6 +37467,7 @@ adbetnet.com
 ||17bqg.top^
 ||17ys.top^
 ||183pu.cn^
+||199zw.com^
 ||1fv3b.cn^
 ||1pzskg.cn^
 ||1x26q3.cn^
@@ -38340,6 +38337,7 @@ adbetnet.com
 ||huhuhiiuio.com^
 ||huician.cn^
 ||huigoushop.com^
+||huitiankuaiji.com^
 ||huixingcheng.cn^
 ||hunpp.com^
 ||huodiyun.cn^
@@ -38630,6 +38628,7 @@ adbetnet.com
 ||lousivency.com.cn^
 ||lownguw.top^
 ||lq.booktxt.net^
+||lq0s3c.cn^
 ||lq1.abcxs.com^
 ||lr96.top^
 ||lsiwd.cn^
@@ -38837,6 +38836,7 @@ adbetnet.com
 ||pdfmxsh.cn^
 ||pdkuai.com^
 ||peatoc.cn^
+||peiliao-china.com^
 ||pentaxaws.cn^
 ||petsfairy.com^
 ||petsheying.com^
@@ -39470,6 +39470,7 @@ adbetnet.com
 ||yaba.org.cn^
 ||yajiuwz.xyz^
 ||yanbenji.cn^
+||yangtzeev.com^
 ||yangzhenpeng.top^
 ||yanjunbo.com^
 ||yantairuide.com^
