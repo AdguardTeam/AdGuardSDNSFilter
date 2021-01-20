@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-19T18:43:32.499Z
+! Last modified: 2021-01-20T00:38:12.800Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -37423,13 +37423,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||bdxnc.com^
-||cnoufangfeng.cn^
-||xjsytoy.com^
-||hmyzsgf.com^
-||msccabin.com^
-||xiangyudj.cn^
-||lezengxin.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37765,6 +37758,7 @@ adbetnet.com
 ||bdcapweb.xyz^
 ||bdcouc.xyz^
 ||bdiae.com^
+||bdxnc.com^
 ||bei7.clewx.com^
 ||beifmu.com^
 ||bentengcn.com^
@@ -37913,6 +37907,7 @@ adbetnet.com
 ||cniuv.com^
 ||cnlhg.cn^
 ||cnliken.com^
+||cnoufangfeng.cn^
 ||cnshef.com^
 ||cnxmyb.cn^
 ||cnyibs.com^
@@ -38324,6 +38319,7 @@ adbetnet.com
 ||hljhufengling.cn^
 ||hmttoly.com^
 ||hmyangshengji.com^
+||hmyzsgf.com^
 ||hnfxty.cn^
 ||hnhgw.cn^
 ||hnkuangshan.cn^
@@ -38602,6 +38598,7 @@ adbetnet.com
 ||lerenzx.cn^
 ||lesanmo.top^
 ||let83.cn^
+||lezengxin.com^
 ||lfcepgb.cn^
 ||lfdydk.com^
 ||lfzxcp.com^
@@ -38725,6 +38722,7 @@ adbetnet.com
 ||mozqca.cn^
 ||mqgpo.com^
 ||mrycwz.com^
+||msccabin.com^
 ||msdfd.cn^
 ||msuik.cn^
 ||mtcat.cn^
@@ -39406,6 +39404,7 @@ adbetnet.com
 ||xiandafood.cn^
 ||xiangchim0.com^
 ||xiangwangdesh.com^
+||xiangyudj.cn^
 ||xiangyuym.cn^
 ||xiansenmeng.cn^
 ||xiaobingmai.cn^
@@ -39424,6 +39423,7 @@ adbetnet.com
 ||xiuqixuan.cn^
 ||xixizaix.cn^
 ||xjhjtz.cn^
+||xjsytoy.com^
 ||xjtxcj.com^
 ||xk0x.cn^
 ||xkanf.com^
