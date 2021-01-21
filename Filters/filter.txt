@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-21T12:47:38.756Z
+! Last modified: 2021-01-21T18:42:49.075Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||flippantreprehensiblecharming.com^
+||anniversarytoothbrush.com^
+||povapeba.xyz^
 ||freychang.fun^
 ||lismcanalys.fun^
 ||parkurl.com^
@@ -20603,14 +20606,6 @@ t.yesware.com
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
-! end:
-!
-! This rule breaks Australian sites
-!+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
-!
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
-! Disabled in DNS filter
-!
 ||prx.wayfair.com^
 ||e-stat.huya.com^
 ||statwup.huya.com^
@@ -27687,6 +27682,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||multibux.org^
 ||wevjjiolpse.mobi^
 ||bpkbqp.com^
 ||advmusic.com^
