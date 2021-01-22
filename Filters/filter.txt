@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-22T06:27:51.681Z
+! Last modified: 2021-01-22T12:20:56.266Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||lostincunt.space^
+||kihuxyda.xyz^
+||meerihoh.net^
+||vv8h9vyjgnst.com^
 ||flippantreprehensiblecharming.com^
 ||anniversarytoothbrush.com^
 ||povapeba.xyz^
@@ -3128,6 +3132,7 @@ vkcdnservice.appspot.com^
 ||artandand.online^
 ||artantash.club^
 ||artapeare.site^
+||artgullyhep.com^
 ||arthwhilearthu.info^
 ||articismstre.fun^
 ||artisticdisgraceevidently.com^
@@ -27690,6 +27695,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||sthjoq.com^
 ||multibux.org^
 ||wevjjiolpse.mobi^
 ||bpkbqp.com^
@@ -33120,7 +33126,6 @@ adbetnet.com
 ||layerpark.com^
 ||letvertise.com^
 ||liferd.de^
-||ligatus.de^
 ||lilaelefant.de^
 ||linkads.de^
 ||linkedads.de^
