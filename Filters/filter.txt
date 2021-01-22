@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-21T18:42:49.075Z
+! Last modified: 2021-01-22T00:35:17.801Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -2739,6 +2739,7 @@ vkcdnservice.appspot.com^
 ||actsvane.com^
 ||ad1data.com^
 ||ad1rtb.com^
+||adaranth.com^
 ||addressen.club^
 ||addression.club^
 ||adearsened.info^
@@ -3335,11 +3336,13 @@ vkcdnservice.appspot.com^
 ||ba6af3a0099c6cb9eb5.com^
 ||baa2e174884c9c0460e.com^
 ||backlogtop.xyz^
+||backwardkneesencroach.com^
 ||badgearsregra.site^
 ||badleasump.cam^
 ||badsbads.com^
 ||badsecs.com^
 ||badsims.com^
+||badskies.com^
 ||badskis.com^
 ||badspads.com^
 ||badtopwitch.work^
@@ -4855,6 +4858,7 @@ vkcdnservice.appspot.com^
 ||ecezkkrm.com^
 ||ecgopezooczg.com^
 ||echoazou.com^
+||eclkmpbn.com^
 ||ecominalber.club^
 ||econdardseeg.site^
 ||econverge.top^
@@ -5201,6 +5205,7 @@ vkcdnservice.appspot.com^
 ||estersparat.club^
 ||estferdita.top^
 ||estionexperime.info^
+||estoopsi.com^
 ||estranched.top^
 ||estrangefoolish.com^
 ||esumptive.club^
@@ -8833,6 +8838,7 @@ vkcdnservice.appspot.com^
 ||oipcqenejq.com^
 ||oiycak.com^
 ||ojbhoukw.com^
+||ojeergoy.com^
 ||ojktwzisvpb.com^
 ||ojstdedb.com^
 ||ojwd63thskiz.com^
@@ -9255,6 +9261,7 @@ vkcdnservice.appspot.com^
 ||phaignoo.com^
 ||phaikroo.net^
 ||pharougn.com^
+||phastoag.com^
 ||phauwooz.net^
 ||phdtryxlepjayf.com^
 ||pheekrie.com^
@@ -17313,6 +17320,7 @@ vkcdnservice.appspot.com^
 ||vibrant.co^
 ||vibrantmedia.com^
 ||vidcoin.com^
+||vidcpm.com^
 ||video-loader.com^
 ||videoadex.com^
 ||videoclick.ru^
@@ -33381,10 +33389,13 @@ adbetnet.com
 !
 ||05ee3a24ed11df058c8.com^
 ||188affiliates.com^
+||1b969cef84d93b43.com^
 ||2go7v1nes8.com^
 ||34667c8ece5.com^
 ||3r1kwxcd.top^
 ||64p3am9x95ct.com^
+||6631f33cf2a1032b.com^
+||995db2642d3d852b.com^
 ||9eb10b7a3d04a.com^
 ||9icmzvn6.website^
 ||a.brand.ad^
@@ -33396,8 +33407,6 @@ adbetnet.com
 ||a63t9o1azf.com^
 ||abrts.pro^
 ||accesstrade.co.id^
-||ad-loupe.com^
-||adaranth.com^
 ||adbsys.icu^
 ||addesigner.com^
 ||adflazz.com^
@@ -33428,11 +33437,11 @@ adbetnet.com
 ||auredzeon.com^
 ||axzsd.pro^
 ||azxsd.pro^
-||backwardkneesencroach.com^
-||badskies.com^
 ||baliadv.com^
 ||bcajjtbzmdrl.com^
 ||bellaads.com^
+||browsertelemetry.tk^
+||cea9d3d4f74fb831.com^
 ||cfs.u-ad.info^
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
@@ -33451,6 +33460,7 @@ adbetnet.com
 ||d2jn12r3o7an7z.cloudfront.net^
 ||d3t5ngjixpjdho.cloudfront.net^
 ||d72gb9oukw3j.com^
+||d824d7f5cbcb0e00.com^
 ||daero.pw^
 ||dafa.io^
 ||dairouzy.net^
@@ -33463,12 +33473,10 @@ adbetnet.com
 ||drda5yf9kgz5p.cloudfront.net^
 ||dzbx8qv1at614.cloudfront.net^
 ||e7393e33565ce805.com^
-||eclkmpbn.com^
 ||eclkmpsa.com^
 ||edomz.com^
 ||edspectsm.fun^
 ||epfcfhtjxqd.com^
-||estoopsi.com^
 ||etoads.net^
 ||flexterkita.com^
 ||fnkyyrgraizy.com^
@@ -33542,7 +33550,6 @@ adbetnet.com
 ||octafx.com^
 ||offerjuice.me^
 ||ofphanpytor.com^
-||ojeergoy.com^
 ||olenation.org^
 ||olkrzytv.com^
 ||olmsoneenh.info^
@@ -33561,7 +33568,6 @@ adbetnet.com
 ||paypopup.com^
 ||pc3ads.com^
 ||peevopoy.com^
-||phastoag.com^
 ||phca85g3n400.com^
 ||pheersie.com^
 ||phudrour.net^
@@ -33615,7 +33621,6 @@ adbetnet.com
 ||uoarbhxfyygn.com^
 ||uofmnbkm.com^
 ||useads.com^
-||vidcpm.com^
 ||vrewpywootyu.com^
 ||wbaogaqvrukprx.com^
 ||webiklan.com^
@@ -36421,6 +36426,7 @@ adbetnet.com
 ||cp2.eastmoney.com^
 ||cpm.cm.kankan.com^
 ||d-test.39.net^
+||d.bodu365.co^*.js
 ||d0.xcar.com.cn^
 ||d1.3158.cn^
 ||d13jhr4vol1304.cloudfront.net^
@@ -36656,7 +36662,6 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||d.bodu365.co^*.js
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -37435,8 +37440,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||nuanyanghb.com^
-||uuu88.top^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38807,6 +38810,7 @@ adbetnet.com
 ||nsjpu.com^
 ||nthfds.xyz^
 ||ntpddq.com^
+||nuanyanghb.com^
 ||nuoqingck.cn^
 ||nv43.com^
 ||nwwap.com^
@@ -39274,6 +39278,7 @@ adbetnet.com
 ||ut0ej.cn^
 ||uunewcar.com^
 ||uuopp.com^
+||uuu88.top^
 ||uuwhg.com^
 ||uvmqpum.cn^
 ||uwmoghx.cn^
