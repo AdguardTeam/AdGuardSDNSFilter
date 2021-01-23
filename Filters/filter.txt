@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-23T00:36:00.559Z
+! Last modified: 2021-01-23T06:25:33.109Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -22232,6 +22232,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||casalemedia.com^
 ||cashburners.com^
 ||cashcount.com^
+||cbdatatracker.com^
 ||cbtrk.net^
 ||cccpmo.com^
 ||ccgateway.net^
@@ -23757,6 +23758,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shippinginsights.com^
 ||shoelace.com^
 ||shoptimally.com^
+||showheroes.com^
 ||showroomlogic.com^
 ||sift.com^
 ||siftscience.com^
@@ -34301,7 +34303,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||hpyx365.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35102,6 +35103,7 @@ adbetnet.com
 ||hongtefm.com^
 ||hot-eam.com^
 ||houtanyun.com^
+||hpyx365.cn^
 ||hqygz.com^
 ||hr44.com^
 ||hrbpay.com^
@@ -37446,10 +37448,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||on1q0.cn^
-||zixiansun.com^
-||ytbctyy.com^
-||zzxhx.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38852,6 +38850,7 @@ adbetnet.com
 ||okuis.com^
 ||okwan.cn^
 ||olc0.cn^
+||on1q0.cn^
 ||once88.cn^
 ||onlyshow.top^
 ||onsiterope.com^
@@ -39597,6 +39596,7 @@ adbetnet.com
 ||yscci.com^
 ||ysjweb.com^
 ||ysyhljt.vip^
+||ytbctyy.com^
 ||ytbnm.cn^
 ||ytcard.cn^
 ||ytdksb.com^
@@ -39683,6 +39683,7 @@ adbetnet.com
 ||zhywyl.cn^
 ||zimingdh.com^
 ||zitaoh.cn^
+||zixiansun.com^
 ||zixun8.com^
 ||ziyeaiying.com^
 ||zizcy.com^
@@ -39744,6 +39745,7 @@ adbetnet.com
 ||zzqqhb.com^
 ||zzsdjq.com^
 ||zzsno1.com^
+||zzxhx.com^
 ||jbflil.cn^
 ||yljiaoluo.com^
 ||yqjxzw.com^
