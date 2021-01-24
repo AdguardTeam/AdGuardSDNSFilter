@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-24T06:27:21.763Z
+! Last modified: 2021-01-24T12:19:55.288Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -34308,7 +34308,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||metro114.com^
+||braincf.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35422,6 +35422,7 @@ adbetnet.com
 ||menghuanzs.com^
 ||mengyuanwei.com^
 ||metmt.com^
+||metro114.com^
 ||mfcvxw.cn^
 ||mgtv-bbqn.oss-cn-beijing.aliyuncs.com^
 ||mgwcn.com^
@@ -37454,11 +37455,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||meishi0554.com^
-||quxiandu.com^
-||nancyface.com^
-||8yauhcv.cn^
-||yfygs.cn^
+||cnrok169.com^
+||jiedaibao120.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37632,6 +37630,7 @@ adbetnet.com
 ||8j24h.cn^
 ||8mlb.cn^
 ||8v61j.cn^
+||8yauhcv.cn^
 ||8yrn.cn^
 ||91cy.top^
 ||91funcy.com^
@@ -38723,6 +38722,7 @@ adbetnet.com
 ||me0715.top^
 ||medprofile.cn^
 ||mei181.com^
+||meishi0554.com^
 ||meizhuli365.cn^
 ||mendoc.cn^
 ||mengpr.com^
@@ -38785,6 +38785,7 @@ adbetnet.com
 ||nabeghlavi.com.cn^
 ||nainaimi.top^
 ||najingyi.cn^
+||nancyface.com^
 ||nanjinglongyu.com^
 ||nanyangqiaoxiang.cn^
 ||naolifanghealth.com^
@@ -38991,6 +38992,7 @@ adbetnet.com
 ||quanjiapp.cn^
 ||qucco.cn^
 ||quipin.cn^
+||quxiandu.com^
 ||quyejianzhan.tech^
 ||qwesgwg.cn^
 ||qxyu.top^
@@ -39549,6 +39551,7 @@ adbetnet.com
 ||ydziox.cn^
 ||yfubi.com^
 ||yfxixi.com^
+||yfygs.cn^
 ||yfyoyo.com^
 ||yg10x.cn^
 ||ygblogtag.cn^
