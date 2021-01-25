@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-24T18:41:24.087Z
+! Last modified: 2021-01-25T00:34:30.774Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -8243,6 +8243,7 @@ vkcdnservice.appspot.com^
 ||murdened.club^
 ||murdenedo.club^
 ||mushroomresolved.com^
+||mutenessdollyheadlong.com^
 ||muttonvalet.com^
 ||muwjxxvovtb.com^
 ||muyoozrkkyr.com^
@@ -16062,6 +16063,7 @@ vkcdnservice.appspot.com^
 ||okanjo.com^
 ||oldership.com^
 ||ologyarriedpr.info^
+||olveddel.xyz^
 ||omareeper.com^
 ||omclick.com^
 ||omg2.com^
@@ -23469,6 +23471,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||placemypixel.com^
 ||platformpanda.com^
 ||plausible.io^
+||plavxml.com^
 ||plecki.com^
 ||pleisty.com^
 ||plexop.com^
@@ -34308,7 +34311,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||braincf.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34682,6 +34684,7 @@ adbetnet.com
 ||bosatria.cn^
 ||bosiwangzi.cn^
 ||bozhixiang.top^
+||braincf.com^
 ||bskeye.com^
 ||bsriedu.cn^
 ||btmp4.net^
@@ -37455,8 +37458,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||cnrok169.com^
-||jiedaibao120.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37944,6 +37945,7 @@ adbetnet.com
 ||cnlhg.cn^
 ||cnliken.com^
 ||cnoufangfeng.cn^
+||cnrok169.com^
 ||cnshef.com^
 ||cnxmyb.cn^
 ||cnyibs.com^
@@ -38487,6 +38489,7 @@ adbetnet.com
 ||jiayi2019.top^
 ||jiayiss.com^
 ||jiazihao.cn^
+||jiedaibao120.cn^
 ||jiejiemimu.cn^
 ||jieyixiu.com^
 ||jiguangyi.com.cn^
