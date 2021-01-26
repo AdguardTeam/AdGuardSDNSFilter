@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-26T12:03:41.159Z
+! Last modified: 2021-01-26T18:14:55.809Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -19309,6 +19309,7 @@ vkcdnservice.appspot.com^
 ||app.shoptarget.com.br^
 ||netdeal.com.br^
 ||ibclick.stream^
+||v*.denakop.com^
 ||trv.upperbooking.com^
 ||trl.upperbooking.com^
 ||meapk.com^
@@ -20482,6 +20483,9 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||estat.zum.com^
+||statweb.egloos.com^
+||analytics.tio.ch^
 ||d335luupugsy2.cloudfront.net^
 ||d1gwclp1pmzk26.cloudfront.net^
 ||tracking.bonnier.news^
@@ -34214,6 +34218,7 @@ adbetnet.com
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
 ||hnxbls.cn^
+||biohailijie.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -37362,6 +37367,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||dhdgkj.com^
+||jinkelai66.com^
 ||xingnu.site^
 ||gzqswl.cn^
 ||01w47q.cn^
