@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-26T06:03:15.914Z
+! Last modified: 2021-01-26T12:03:41.159Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||charitablemilletplumber.com^
 ||bitzad.com^
 ||baxusanu.pro^
 ||lgpumcja.com^
@@ -30,7 +31,6 @@
 ||flippantreprehensiblecharming.com^
 ||anniversarytoothbrush.com^
 ||povapeba.xyz^
-||freychang.fun^
 ||lismcanalys.fun^
 ||parkurl.com^
 ||phirgese.com^
@@ -4907,6 +4907,7 @@ vkcdnservice.appspot.com^
 ||edspoiletkni.club^
 ||edsufferen.club^
 ||edsurrowin.club^
+||edthoutfre.fun^
 ||educatednicer.com^
 ||educationdemotediabete.com^
 ||eduyzcjsnoeokj.com^
@@ -5670,6 +5671,7 @@ vkcdnservice.appspot.com^
 ||frenchayan.club^
 ||frequestabure.site^
 ||freshborne.com^
+||freychang.fun^
 ||frfnlvnpzeju.com^
 ||frgbgwnbjkgco.com^
 ||frhbrkjgerikm2f8mjek09.com^
@@ -9352,6 +9354,7 @@ vkcdnservice.appspot.com^
 ||pkytbidauolavq.com^
 ||plainlycradlescalp.com^
 ||plaintiffalphabetslacken.com^
+||plannerladyreality.com^
 ||plantationthrillednoncommittal.com^
 ||plasminori.club^
 ||plathwardsve.site^
@@ -11981,6 +11984,7 @@ vkcdnservice.appspot.com^
 ||virashux.net^
 ||virgbmkmear.com^
 ||visariomedia.com^
+||visitsfunk.com^
 ||visitstrack.com^
 ||vitoryjober.club^
 ||viunypnvhcw.com^
@@ -19065,6 +19069,8 @@ vkcdnservice.appspot.com^
 ! relateddigital.com domains
 ||visilabs.com^
 !
+||tag.goadopt.io^
+||tag.hariken.co^
 ||tracker.cauly.co.kr^
 ||tk.mediacategory.com^
 ||jscdn.appier.net^
@@ -19215,7 +19221,6 @@ vkcdnservice.appspot.com^
 ||cicero-mit.com^
 ||sys.refocus.ru^
 ||apn.c.appier.net^
-||d1gwclp1pmzk26.cloudfront.net^
 ||stats2.agilecrm.com^
 ||doorbrazil.com^
 ||dmzls.safe-installation.com^
@@ -19327,6 +19332,7 @@ vkcdnservice.appspot.com^
 ||shifoagn.uk^
 ||stats.coronalabs.com^
 ||track.special-offers.online^
+||crm.agency^
 ||i.clean.gg^
 ||xl-trk.com^
 ||nxcount.com^
@@ -19403,6 +19409,7 @@ vkcdnservice.appspot.com^
 ||admdspc.com^
 ||admeo.ru^
 ||adtraction.com^
+||adagency.digital^
 ||affiliates-pro.com^
 ||akavita.com^
 ||amazy.ru^
@@ -20475,6 +20482,8 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||d335luupugsy2.cloudfront.net^
+||d1gwclp1pmzk26.cloudfront.net^
 ||tracking.bonnier.news^
 ||jtp.expressen.se^
 ||prx.wayfair.com^
@@ -33517,9 +33526,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Jan 2021 20:48 UTC+7
-! Version: 2101252048
-! Blocked: 669 rules
+! Last modified: 26 Jan 2021 16:34 UTC+7
+! Version: 2101261634
+! Blocked: 676 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33709,6 +33718,7 @@ adbetnet.com
 ||admedia.com.vn^
 ||admin.sothuchi.vn^
 ||adpostback.headlines.pw^
+||ads-backend.nhadatmoi.net^
 ||ads-cdn.fptplay.net^
 ||ads.1thegioi.vn^
 ||ads.baoangiang.com.vn^
@@ -33730,6 +33740,7 @@ adbetnet.com
 ||ads.lamchame.vn^
 ||ads.laodongnghean.vn^
 ||ads.nghenhinvietnam.vn^
+||ads.nhadatmoi.net^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
@@ -33960,6 +33971,7 @@ adbetnet.com
 ||partner.accesstrade.vn^
 ||report.vnay.vn^
 ||s.baomoi.xdn.vn^
+||s.homedy.com^
 ||s.kenh14.vn^
 ||s.soha.vn^
 ||s.tuoitre.vn^
@@ -34071,17 +34083,21 @@ adbetnet.com
 ||fb88go.com^
 ||fb88live.com^
 ||fb88sports.com^
+||fcb8.com^
+||fcb88d.com^
 ||five88.biz^
 ||five88.com^
 ||five88.net^
 ||gdwbetvn888.com^
 ||gdwviet.com^
+||gi888.cc^
 ||go88.club^
 ||go88.com^
 ||goal123.com^
 ||goal68.top^
 ||ibet889.com^
 ||income88.com^
+||interwinvn.com^
 ||jbovn.com^
 ||k8vn03.com^
 ||keotot.net^
@@ -34197,6 +34213,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||hnxbls.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -37345,6 +37362,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||xingnu.site^
 ||gzqswl.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
