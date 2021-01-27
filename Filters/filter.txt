@@ -3,20 +3,9 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-27T12:03:54.994Z
+! Last modified: 2021-01-27T18:15:59.741Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
-!
-!
-! Source name: AdGuard Base filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
-!
-!
-! Section contains list of advertising networks
-!
-! The rules with hints are at the end of file
-!
-!! https://a.bestcontentitem.top/warp/*?r=
 !
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||charitablemilletplumber.com^
@@ -18066,6 +18055,10 @@ vkcdnservice.appspot.com^
 ! ||mobileapptracking.com^ - don't block this domain with all subdomains. https://forum.adguard.com/index.php?threads/23917/
 !
 !
+! Apps by Ketchapp
+||ketchapp.org^
+||cdn-ketchapp.akamaized.net^
+!
 ! Samsung mobile ads
 ||sspapi-prd.samsungrs.com^
 !
@@ -19066,7 +19059,6 @@ vkcdnservice.appspot.com^
 !
 ! relateddigital.com domains
 ||visilabs.com^
-!
 ||tag.goadopt.io^
 ||tag.hariken.co^
 ||tracker.cauly.co.kr^
@@ -28435,7 +28427,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wp-tk.ru^
 ||brilliantbc9.club^
 ||ezcore.pro^
-||clickiocdn.com^
+||s.clickiocdn.com^
 ||xoor.ru^
 ||5visions.com^
 ||mypictures-onlinemaxpark.info^
@@ -32298,6 +32290,7 @@ adbetnet.com
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||reklam1.akhisar.bel.tr^
 ||partnerx.bethub.io^
 ||ttauri.livescience.com^
 ||adn.bursadabugun.com^
@@ -37369,6 +37362,11 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||cqshaseng.com^
+||yuandongoffice.com^
+||lshmjz.com^
+||jindowins.com^
+||fengmishop.cn^
 ||topazedu.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
