@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-26T18:14:55.809Z
+! Last modified: 2021-01-27T00:09:54.609Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||charitablemilletplumber.com^
 ||bitzad.com^
 ||baxusanu.pro^
@@ -644,7 +645,6 @@
 ||vestlitt.online^
 ||420147981.world^
 ||cepailru.com^
-||nanoadexchange.com^
 ||presatisfy.com^
 ||frtyo.com^
 ||westatess.info^
@@ -1617,7 +1617,6 @@ www.llllllllllll.net^
 ||ext.movixhub.com^
 ||f.asdfzxcv1312.com^
 ||f.iaftjs.info^
-||fabolele.com^
 ||fdgeen.com^
 ||filadmir.site^
 ||firstfirst.net^
@@ -1693,7 +1692,6 @@ www.llllllllllll.net^
 ||nefroto.net^
 ||newsforbest.net^
 ||newviralmobistore.com^
-||njmaq.com^
 ||nrged.com^
 ||nsdfsfi1q8asdasdzz.com^
 ||nuclersoncanthinger.info^
@@ -1845,7 +1843,6 @@ www.llllllllllll.net^
 ||d7dza8s7j2am6.cloudfront.net^
 ||adilk.ilikecomix.com^
 ||a.letsjerk.to^
-||d3ithbwcmjcxl7.cloudfront.net^
 ||rek.www.wp.pl^
 ||centent.streamp1ay.cc^
 ||dz5bomaog2c5t.cloudfront.net^
@@ -20483,6 +20480,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||l.typesquare.com^
 ||estat.zum.com^
 ||statweb.egloos.com^
 ||analytics.tio.ch^
@@ -26958,6 +26956,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyPrivacy third-party international tracking servers
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt
 !
+||ablida.net^
 ||analytics.audionow.de^
 ||analytics.cnd-motionmedia.de^
 ||analytics.gameforge.de^
@@ -27575,6 +27574,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||mountrs.com^
 ||sthjoq.com^
 ||multibux.org^
 ||wevjjiolpse.mobi^
@@ -34217,8 +34217,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||hnxbls.cn^
-||biohailijie.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34577,6 +34575,7 @@ adbetnet.com
 ||billionfocus.com^
 ||bingyinq.com^
 ||biochempop.com^
+||biohailijie.cn^
 ||bivitr.com^
 ||bj-bytsk.com^
 ||bjedpt.com^
@@ -35013,6 +35012,7 @@ adbetnet.com
 ||hnhycp.com^
 ||hnnuange.com^
 ||hntymg.com^
+||hnxbls.cn^
 ||hnyiche3.com^
 ||hnyny.com^
 ||hongchenzhilu.com^
@@ -37367,10 +37367,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||dhdgkj.com^
-||jinkelai66.com^
-||xingnu.site^
-||gzqswl.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37956,6 +37952,7 @@ adbetnet.com
 ||dglscm.cn^
 ||dgxzwj.com^
 ||dh54wf.xyz^
+||dhdgkj.com^
 ||dhuhui.cn^
 ||diangezan.me^
 ||dianshihuanping.cn^
@@ -38200,6 +38197,7 @@ adbetnet.com
 ||gzmzts.com^
 ||gznsyh.com^
 ||gznwn.com^
+||gzqswl.cn^
 ||gzrljx.cn^
 ||gzzena.com^
 ||h2pzh.cn^
@@ -38414,6 +38412,7 @@ adbetnet.com
 ||jingoulong.cn^
 ||jingxiangyalvji.cn^
 ||jingyuzuo.top^
+||jinkelai66.com^
 ||jinliaoyang.com^
 ||jinlubaojie.cn^
 ||jinrianshan.com^
@@ -39377,6 +39376,7 @@ adbetnet.com
 ||xieyanmin.com.cn^
 ||xindelin.cn^
 ||xinghao89.com^
+||xingnu.site^
 ||xingpingmaoyi.cn^
 ||xingsky.cn^
 ||xingtai0.com^
