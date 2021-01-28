@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-28T12:03:43.117Z
+! Last modified: 2021-01-28T18:17:25.433Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||idswinpole.casa^
+||irkerecue.com^
+||paychat.fuse-cloud.com^
+||rqhere2.com^
 ||stewlinedull.com^
 ||gobicyice.com^
 ||riverpush.com^
@@ -402,7 +406,6 @@
 ||cdn.digitalpush.org^
 ||sauwoaptain.com^
 ||aj2041.online^
-||stab.thench.net^
 ||euwtn.5081.site^
 ||cdn.advsmedia.net^
 ||cdn.sports-streams-online.club^
@@ -19651,6 +19654,8 @@ vkcdnservice.appspot.com^
 ||xa-counter.com^
 ||xl-counti.com^
 ||xpanama.net^
+||x.clearbit.com^
+||x.clearbitjs.com^
 ||ycctrk.co.uk^
 ||youcanoptin.com^
 ||youcanoptin.org^
@@ -32435,6 +32440,7 @@ adbetnet.com
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||thench.net^
 ||adtechjp.com^
 ||bannerfarm.aolp.jp^
 ||koukoku.red^
@@ -34232,6 +34238,8 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||1888pro.com^
+||pianjjiicdn.com^
 ||hqwlm.com^
 ||00-gov.cn^
 ||0024aaaa.com^
