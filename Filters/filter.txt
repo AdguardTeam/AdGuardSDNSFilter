@@ -3,10 +3,23 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-28T07:52:32.275Z
+! Last modified: 2021-01-28T10:33:12.503Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
+!
+! Source name: AdGuard Base filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
+!
+!
+! Section contains list of advertising networks
+!
+! The rules with hints are at the end of file
+!
+!! https://a.bestcontentitem.top/warp/*?r=
+!
+||riverpush.com^
+||e-v-e-n.me^
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||charitablemilletplumber.com^
 ||bitzad.com^
@@ -1826,7 +1839,6 @@ www.llllllllllll.net^
 ||feedads.feedblitz.com^
 ||leroj.elitegol.tv^
 ||algat.intergoles.me^
-||d7dza8s7j2am6.cloudfront.net^
 ||adilk.ilikecomix.com^
 ||a.letsjerk.to^
 ||rek.www.wp.pl^
@@ -20555,7 +20567,6 @@ t.yesware.com
 ||tracker.jawcloud.co^
 ||analytics.callbell.eu^
 ||analytics.zeekit.co^
-||analitik.edevlet.gov.tr^
 ||track.lexico.com^
 ||stat.ustore.bz^
 ||c0.adalyser.com^
@@ -34216,6 +34227,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||hqwlm.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -37366,6 +37378,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||hk50606.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
