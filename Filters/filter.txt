@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-29T06:03:02.660Z
+! Last modified: 2021-01-29T12:04:04.227Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -19,6 +19,7 @@
 !! https://a.bestcontentitem.top/warp/*?r=
 !
 ||wvekalpmn.com^
+||icoawhou.com^
 ||idswinpole.casa^
 ||irkerecue.com^
 ||paychat.fuse-cloud.com^
@@ -19079,6 +19080,8 @@ vkcdnservice.appspot.com^
 ! relateddigital.com domains
 ||visilabs.com^
 !
+||a-i-ad.com^
+||4sqt6jq.de^
 ||sprocket-ping.s3.amazonaws.com^
 ||eclog*.cafe24.com^
 ||tag.goadopt.io^
@@ -19490,7 +19493,6 @@ vkcdnservice.appspot.com^
 ||junbi-tracker.com^
 ||jwpltx.com^
 ||kerebro.com^
-||lciapi.ninthdecimal.com^
 ||lead-or-call.ru^
 ||lightboxcdn.com^
 ||loger.ru^
@@ -25512,6 +25514,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||l.sharethis.com^
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
+||lciapi.ninthdecimal.com^
 ||leadtracking.plumvoice.com^
 ||leadvision.dotmailer.co.uk^
 ||licensing.bitmovin.com^
@@ -32444,6 +32447,7 @@ adbetnet.com
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||managedweb.net^
 ||thench.net^
 ||adtechjp.com^
 ||bannerfarm.aolp.jp^
@@ -37396,6 +37400,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||ic86doc.com^
 ||wuyuande.com^
 ||xmstpay.com^
 ||ebuysolar.com^
