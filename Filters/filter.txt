@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-30T06:03:12.694Z
+! Last modified: 2021-01-30T12:03:44.234Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||baresi.xyz^
 ||roduster.com^
 ||xtraff1cx.space^
 ||ptongouh.net^
@@ -3408,6 +3409,7 @@ vkcdnservice.appspot.com^
 ||batwaxwok.site^
 ||baudgassedtarot.com^
 ||bauthair.net^
+||bavftcgoapga.com^
 ||bayonetbikes.com^
 ||baysexthy.com^
 ||bb1acb0ea5ddb1fed8.com^
@@ -3902,6 +3904,7 @@ vkcdnservice.appspot.com^
 ||cddjdjwatndgja.com^
 ||cdn4ads.com^
 ||cdnads.com^
+||cdncontentdelivery.com^
 ||cdnmr.net^
 ||cdnvideo.mobi^
 ||cdooewrzvec.com^
@@ -19089,7 +19092,6 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 !
 ||breathebuds.com^
-||a-i-ad.com^
 ||4sqt6jq.de^
 ||sprocket-ping.s3.amazonaws.com^
 ||eclog*.cafe24.com^
@@ -19223,6 +19225,7 @@ vkcdnservice.appspot.com^
 ||track.thevtk.com^
 ||track.mp3vizor.com^
 ||track.mp3bars.com^
+||hs-scripts.com^
 ||parkdomainreal*.site^
 ||telemetry.swe.quicinc.com^
 ||i-*.ci360.sas.com^
@@ -22750,7 +22753,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hotjar.io^
 ||hotlog.ru^
 ||hs-analytics.net^
-||hs-scripts.com^
 ||hsadspixel.net^
 ||hscta.net^
 ||htlbid.com^
@@ -32463,6 +32465,7 @@ adbetnet.com
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||a-i-ad.com^
 ||managedweb.net^
 ||thench.net^
 ||adtechjp.com^
@@ -36663,6 +36666,7 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
+||shili.wanyx.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
