@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-30T18:15:31.470Z
+! Last modified: 2021-01-31T00:09:44.030Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -36667,7 +36667,6 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
-||shili.wanyx.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -37230,6 +37229,7 @@ adbetnet.com
 ||sdd.hi1718.com^
 ||sh996.dftoutiao.com^
 ||shili.downxia.com^
+||shili.wanyx.com^
 ||shiyaokejishanghai.com^
 ||shzzzz.dftoutiao.com^
 ||sjbaiduadv1.redou.com^
@@ -37421,8 +37421,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||taikangshenyuan.com^
-||szhgmd.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -39171,6 +39169,7 @@ adbetnet.com
 ||sytsr.com^
 ||syxchj.cn^
 ||syxsa.cn^
+||szhgmd.com^
 ||szmxwjm.com^
 ||szqifu.com^
 ||szshouzhai.com^
@@ -39179,6 +39178,7 @@ adbetnet.com
 ||t3s9j.xyz^
 ||tabwl.com^
 ||tabyee.cn^
+||taikangshenyuan.com^
 ||tajxgs.com^
 ||taobaocoupon.cn^
 ||taolicloud.com^
