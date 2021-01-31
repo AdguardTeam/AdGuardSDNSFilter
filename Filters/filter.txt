@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-31T00:09:44.030Z
+! Last modified: 2021-01-31T06:03:08.571Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -34266,6 +34266,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||reendian.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -37421,6 +37422,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||lantuyj.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38529,7 +38531,7 @@ adbetnet.com
 ||juyour8.org^
 ||juyzr.com^
 ||jvyigg.biquge.lu^
-||jvyigg.biqumo.com^
+||jvyigg.biqugeq.com^
 ||jvyigg.zbzw.la^
 ||jwhfn.cn^
 ||jxbtl.com^
@@ -38656,7 +38658,7 @@ adbetnet.com
 ||louisan.cn^
 ||lousivency.com.cn^
 ||lownguw.top^
-||lq.booktxt.net^
+||lq.xsbooktxt.com^
 ||lq0s3c.cn^
 ||lq1.abcxs.com^
 ||lr96.top^
@@ -39634,6 +39636,7 @@ adbetnet.com
 ||yzdcb.xyz^
 ||yzfbank.com^
 ||yzftqx.cn^
+||yzt001.com^
 ||yzylm.com^
 ||yzyszy.com^
 ||z65j.cn^
