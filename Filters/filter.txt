@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-01T00:09:14.522Z
+! Last modified: 2021-02-01T06:03:13.836Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -34269,7 +34269,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||reendian.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35608,6 +35607,7 @@ adbetnet.com
 ||rdiqt.cn^
 ||re.taotaosou.com^
 ||rebdy.com^
+||reendian.cn^
 ||reliancevalve.com^
 ||remotedu.cn^
 ||rencai56.com^
@@ -36671,7 +36671,6 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
-||rc.ie13.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -37213,6 +37212,7 @@ adbetnet.com
 ||r.99waiyu.com^
 ||rabc1.iteye.com^
 ||rbmry.com^
+||rc.ie13.com^
 ||rdbd.xsread.com^
 ||rmcxw.cn^
 ||rmcxw.net^
@@ -37426,7 +37426,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||lantuyj.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38609,6 +38608,7 @@ adbetnet.com
 ||lalaaal.cn^
 ||lalaxit.cn^
 ||lanshiwan.cn^
+||lantuyj.com^
 ||laojiayoufang.com^
 ||lawumi.cn^
 ||lchar.com^
