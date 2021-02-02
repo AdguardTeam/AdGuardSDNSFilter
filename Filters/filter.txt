@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-02T12:03:52.943Z
+! Last modified: 2021-02-02T18:18:12.272Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -2055,6 +2055,7 @@ www.llllllllllll.net^
 ||rsz.sk^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/41373
 ||bannery.navratdoreality.cz^
+||report.seznamzpravy.cz^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58569
 ||a.b.napiszar.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/19323
@@ -2819,6 +2820,7 @@ vkcdnservice.appspot.com^
 ||adultcamchatfree.com^
 ||adultcamfree.com^
 ||adultcamliveweb.com^
+||adultiq.club^
 ||adultlinkexchange.com^
 ||adultmoviegroup.com^
 ||adultsense.net^
@@ -2845,6 +2847,7 @@ vkcdnservice.appspot.com^
 ||adxite.com^
 ||adxnexus.com^
 ||adxpansion.com^
+||adxpartner.com^
 ||adziondin.club^
 ||ae1a1e258b8b016.com^
 ||ae21a0ad95016488.com^
@@ -9641,6 +9644,7 @@ vkcdnservice.appspot.com^
 ||ptpefoctzmmvd.com^
 ||ptrqrnadg.com^
 ||ptuarytannual.club^
+||ptuxinewhi.pro^
 ||ptvcfltikpdi.com^
 ||pucemara.com^
 ||puddingreluctantly.com^
@@ -12559,6 +12563,7 @@ vkcdnservice.appspot.com^
 ||xelllwrite.com^
 ||xenddwrxygjcbq.com^
 ||xeqbdmuvjqt.com^
+||xesigyno.pro^
 ||xeverirpunyv.com^
 ||xevhszzauj.com^
 ||xfasadle.com^
@@ -27625,6 +27630,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||acmetex.ru^
+||prdlam.com^
 ||kkmacsqsbf.info^
 ||xxyolk.com^
 ||zswzri7ju3.ru^
@@ -31833,6 +31840,7 @@ adbetnet.com
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||adbn.masterinvest.info^
 ||bs.orsk.ru^
 ||vast4.kinogo.la^
 ||dsn-kuban.krasnodar.su^
@@ -34289,6 +34297,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||vtfwgfo.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -37447,6 +37456,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||jindingguopin.com^
+||anyihuan.com^
 ||zbqmsc.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
