@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-01T18:17:56.873Z
+! Last modified: 2021-02-02T00:09:53.407Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -34277,7 +34277,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||sundady.online^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35736,6 +35735,7 @@ adbetnet.com
 ||stsywl.com^
 ||suangtianw.com^
 ||sufficient.cn^
+||sundady.online^
 ||suning.beer^
 ||suning.design^
 ||suning.fit^
@@ -37435,8 +37435,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||hzhongjianfund.com^
-||ol6nhf.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38395,6 +38393,7 @@ adbetnet.com
 ||hyyazhaji.com^
 ||hyzhongchuang.com^
 ||hzhfhkj.cn^
+||hzhongjianfund.com^
 ||hzht666.com^
 ||hzqzxf.com^
 ||hzsrjs.com^
@@ -38858,6 +38857,7 @@ adbetnet.com
 ||okshishi.com^
 ||okuis.com^
 ||okwan.cn^
+||ol6nhf.cn^
 ||olc0.cn^
 ||on1q0.cn^
 ||once88.cn^
