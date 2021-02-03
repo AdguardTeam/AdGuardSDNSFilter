@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-03T06:03:09.483Z
+! Last modified: 2021-02-03T11:33:27.634Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -20,6 +20,8 @@
 !
 ||drawnperink.com^
 ||unrulyrotate.com^
+||exchange-traffic.com^
+||crazybits.biz^
 ||submissionspurtgleamed.com^
 ||tracot.com^
 ||baresi.xyz^
@@ -47,6 +49,7 @@
 ||kihuxyda.xyz^
 ||meerihoh.net^
 ||vv8h9vyjgnst.com^
+||shacsda.name^
 ||anniversarytoothbrush.com^
 ||povapeba.xyz^
 ||lismcanalys.fun^
@@ -93,7 +96,6 @@
 ||son-in-lawmorbid.com^
 ||kihoadoa.com^
 ||zunsoach.com^
-||kaurouby.net^
 ||assets.newsmaxwidget.com^
 ||waspaortascene.com^
 ||9997494f4d4b694d4f6702.online^
@@ -1808,8 +1810,6 @@ www.llllllllllll.net^
 ||zeti.com^
 !+ NOT_OPTIMIZED
 ||resumersvo.fun^
-!+ NOT_OPTIMIZED
-||yiatelychur.top^
 !
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/142
 ||stripe.rs-1028-a.com^
@@ -3986,6 +3986,7 @@ vkcdnservice.appspot.com^
 ||charactice.club^
 ||charalli.pro^
 ||chardsreme.space^
+||chargeboundaryearlap.com^
 ||chargingsensationmetropolitan.com^
 ||charmour.club^
 ||chasteminihaunting.com^
@@ -5010,6 +5011,7 @@ vkcdnservice.appspot.com^
 ||eikegolehem.com^
 ||eilsrichaels.club^
 ||eiteratebef.top^
+||eithereda.fun^
 ||eitherewindoor.club^
 ||eiuuiormjc.com^
 ||eiygqumgrobos.com^
@@ -5670,6 +5672,7 @@ vkcdnservice.appspot.com^
 ||forgivencardiac.com^
 ||forgivingcynical.com^
 ||forkchristian.com^
+||forkdefendant.com^
 ||formany.club^
 ||formationconservation.com^
 ||fortsexpres.club^
@@ -5796,7 +5799,6 @@ vkcdnservice.appspot.com^
 ||fzehxxsdxyfg.com^
 ||fzgitqrqrsyyiv.com^
 ||fzhvebnia.com^
-||fzj3v7sch2xg5gosh60vpkrth5c6cngvj5ivd9kg5ajcdl2vlp2ocj5fjbto.me^
 ||fzlkdwivfnreg.com^
 ||fzmogmfqh.com^
 ||fzorwhus.com^
@@ -7183,6 +7185,7 @@ vkcdnservice.appspot.com^
 ||kateriviejos.pro^
 ||katxkxcncwool.com^
 ||kaukoany.net^
+||kaurouby.net^
 ||kawmxbphaj.com^
 ||kayakm.com^
 ||kbaomelffq.com^
@@ -8118,6 +8121,7 @@ vkcdnservice.appspot.com^
 ||mjbuuxt7l18r.com^
 ||mjcvdxnmp.com^
 ||mjkvwpabdce.com^
+||mjlsiopjesbn.com^
 ||mjmbfjbgtqpu.com^
 ||mjpjjbbvct.com^
 ||mjquyspsrgybs.com^
@@ -10117,6 +10121,7 @@ vkcdnservice.appspot.com^
 ||redfunlob.casa^
 ||rediffractes.site^
 ||rediffractes.website^
+||redirect-ads.com^
 ||redirect2719.ws^
 ||redolymerse.top^
 ||redresseducatedage.com^
@@ -11657,6 +11662,7 @@ vkcdnservice.appspot.com^
 ||ueopjincquazoo.com^
 ||uesdpbrej.com^
 ||uessentent.fun^
+||ueudahqfig.com^
 ||ufeuyyfoguo.com^
 ||ufferenchme.club^
 ||uffpsmfefu.com^
@@ -12876,6 +12882,7 @@ vkcdnservice.appspot.com^
 ||yhljenkljge.com^
 ||yhmbwgolijyac.com^
 ||yhwrgbcjwup.com^
+||yiatelychur.top^
 ||yim3eyv5.top^
 ||yincreate.top^
 ||yinsterkneeline.info^
@@ -23444,7 +23451,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pjtra.com^
 ||placemypixel.com^
 ||platformpanda.com^
-||plausible.io^
 ||plavxml.com^
 ||plecki.com^
 ||pleisty.com^
@@ -27722,6 +27728,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bhghfsa.info^
 ||3kbktygzr5.ru^
 ||betemolgar.com^
+||reashr.com^
 ||mp3dance.today^
 ||lidplay.net^
 ||bcvideod.com^
