@@ -1,3 +1,5 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/564
+||goatcounter.com^
 ! plausible - don't break the whole website, blocked plausible.js already
 ||plausible.io^
 ! sentry.io bug tracker
