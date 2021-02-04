@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-04T07:23:37.931Z
+! Last modified: 2021-02-04T12:07:11.719Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||mediapalmtree.com^
+||thultoll.com^
+||endoilip.com^
+||gecontentasap.com^
 ||bwvnmbhuuhalr.com^
 ||nnolljzcxzud.com^
 ||hackelevensol.com^
@@ -5576,7 +5580,6 @@ vkcdnservice.appspot.com^
 ||fifteenprefixselfemployed.com^
 ||filamentrectificationsetback.com^
 ||fimpromote.club^
-||finchtechs.com^
 ||findicaterperty.site^
 ||fingahvf.top^
 ||fingerous.club^
@@ -15085,6 +15088,7 @@ vkcdnservice.appspot.com^
 ||filetarget.net^
 ||filterycreasona.info^
 ||fimserve.com^
+||finchtechs.com^
 ||find-my-great-life.com^
 ||findbetterresults.com^
 ||findepended.com^
@@ -32011,7 +32015,6 @@ adbetnet.com
 ://*.screenpix.ru^
 ://*.sexpornophoto.com^
 ://*.simpsonsvideos.ru^
-://*.uniondht.org^
 ://*.videopron.ru^
 ||action.evrikak.ru^
 ||ad.4ertik.porn^
@@ -35629,7 +35632,6 @@ adbetnet.com
 ||pg88cdn.com^
 ||phvmax.com^
 ||pianjjiicdn.com^
-||pic12x20.com^
 ||pingping888.com^
 ||pinwu123.com^
 ||pinyoux.com^
