@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-04T00:06:08.427Z
+! Last modified: 2021-02-04T06:02:47.988Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -2307,6 +2307,7 @@ vkcdnservice.appspot.com^
 ||2tpwcqot22mb.com^
 ||302a67cac6.com^
 ||304c40d20085e.com^
+||30b83dd302.com^
 ||30b9e3a7d7e2b.com^
 ||30yo.xyz^
 ||3133a.xyz^
@@ -3414,6 +3415,7 @@ vkcdnservice.appspot.com^
 ||basicapp.online^
 ||basinmodelingcolumns.com^
 ||basisendingabattoir.com^
+||batebalmy.com^
 ||bathibsa.com^
 ||batnhiyilyvvdo.com^
 ||batsdivannab.com^
@@ -4735,6 +4737,7 @@ vkcdnservice.appspot.com^
 ||douhooke.net^
 ||douoblelimpup.com^
 ||doushoom.net^
+||doveprovidingyear.com^
 ||downloadgot.com^
 ||doyugqaizcecne.com^
 ||dpallyihgtgu.com^
@@ -7140,6 +7143,7 @@ vkcdnservice.appspot.com^
 ||jvmrvkhle.com^
 ||jvykohlq.com^
 ||jwcavytgs.com^
+||jwlbfrmz.com^
 ||jwmnryeoc.com^
 ||jwmwtcmexc.com^
 ||jwofadcwpocm.com^
@@ -9158,6 +9162,7 @@ vkcdnservice.appspot.com^
 ||oyndqimgof.com^
 ||oypgywhfcrk.com^
 ||oysterscarton.com^
+||oyywtwcx.com^
 ||ozafaszolf.com^
 ||ozbwaijtzfwel.com^
 ||ozcdkiphvsnrht.com^
@@ -10124,7 +10129,6 @@ vkcdnservice.appspot.com^
 ||redfunlob.casa^
 ||rediffractes.site^
 ||rediffractes.website^
-||redirect-ads.com^
 ||redirect2719.ws^
 ||redolymerse.top^
 ||redresseducatedage.com^
@@ -19434,6 +19438,7 @@ vkcdnservice.appspot.com^
 ||noy90o.com^
 ||logsss.com^
 ||cinarra.com^
+||marketo.com^
 ||bd4travel.com^
 ||bm.adentifi.com^
 ||prvsz4pe.micpn.com^
@@ -19593,6 +19598,7 @@ vkcdnservice.appspot.com^
 ||lightboxcdn.com^
 ||loger.ru^
 ||lptracker.ru^
+||marketo.net^
 ||mcount.ru^
 ||megatopsites.com^
 ||metakeyproducer.com^
@@ -23124,8 +23130,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||marinsm.com^
 ||market2lead.com^
 ||marketizator.com^
-||marketo.com^
-||marketo.net^
 ||marketperf.com^
 ||marketshot.com^
 ||marketshot.fr^
@@ -25685,6 +25689,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mqs.ioam.de^
 ||mtrcs.samba.tv^
 ||mts.mansion.com^
+||munchkin.marketo.net^
 ||mv.treehousei.com^
 ||mx.technolutions.net^
 ||myscoop-tracking.googlecode.com^
@@ -34371,7 +34376,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||28wangmeng.com^
+||ckkc.cc^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34453,6 +34458,7 @@ adbetnet.com
 ||272xb.com^
 ||280dp.com^
 ||28acglz.com^
+||28wangmeng.com^
 ||293870.com^
 ||29wjns.com^
 ||2d-c.cn^
@@ -37531,8 +37537,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||szpengliye.com^
-||flbmfc.com^
+||ngmaul.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38238,6 +38243,7 @@ adbetnet.com
 ||fjtzjy.com^
 ||fjylcy.com^
 ||fkkse.com^
+||flbmfc.com^
 ||fll007.com^
 ||fnpet.cn^
 ||fnwll.cn^
@@ -39288,6 +39294,7 @@ adbetnet.com
 ||syxsa.cn^
 ||szhgmd.com^
 ||szmxwjm.com^
+||szpengliye.com^
 ||szqifu.com^
 ||szshouzhai.com^
 ||szwzjk.cn^
