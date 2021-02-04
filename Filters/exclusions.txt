@@ -1,3 +1,7 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/72744
+||analitik.edevlet.gov.tr^
+! plausible - don't break the whole website, blocked plausible.js already
+||plausible.io^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/72064
 ||tracemyip.org^
 ! sentry.io bug tracker
@@ -6,6 +10,8 @@
 ||api.amplitude.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/542
 ||adc.api.nine.com.au^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/556
+||datafront.co^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/540
 ||ahd.ruten.com.tw^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/538
