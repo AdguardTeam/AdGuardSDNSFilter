@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-04T12:27:10.370Z
+! Last modified: 2021-02-04T18:02:50.689Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,12 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||discovernative.com^
+||vamprumbasfear.com^
+||fromjoytohappiness.com^
+||finkyepbows.com^
+||aaaaaco.com^
+||vrhorus.com^
 ||mediapalmtree.com^
 ||thultoll.com^
 ||endoilip.com^
@@ -20610,6 +20616,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||stat.adguard.com^
 ||pvtag.yahoo.co.jp^
 ||stat.adultium.com^
 ||c1.wfinterface.com^
@@ -27117,7 +27124,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d.nativendo.de^
 ||d.omsnative.de^
 ||data.econa.com^
-||datalayer.p7s1.io^
 ||events.kaloo.ga^
 ||fc.webmasterpro.de^
 ||geo.mtvnn.com^
@@ -27714,6 +27720,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||adl-hunter.com^
 ||69qa.club^
 ||acmetex.ru^
 ||prdlam.com^
@@ -37542,6 +37549,9 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||juhuandian.com^
+||ubt573.org^
+||huijiamei.cn^
 ||ngmaul.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
