@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-05T12:03:12.033Z
+! Last modified: 2021-02-05T18:02:44.512Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||adsturn.com^
 ||onesaimdew.com^
 ||coccyxwickimp.com^
 ||a.binpartner.com^
@@ -27753,6 +27754,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||8245.digital^
 ||nrqqjb.com^
 ||adl-hunter.com^
 ||69qa.club^
@@ -33311,7 +33313,6 @@ adbetnet.com
 ||vip-websc.org^
 ||vipbanner.de^
 ||viralmails.de^
-||visionads.de^
 ||visit2visit.de^
 ||vodafone-direkt.de^
 ||w-m-w.net^
@@ -33320,7 +33321,6 @@ adbetnet.com
 ||websc.org^
 ||webspiration.de^
 ||werbeflut.net^
-||werbenetzwerk.tk^
 ||wwm24.de^
 ||www.p.de^
 ||wz-adserver.de^
@@ -33329,7 +33329,6 @@ adbetnet.com
 ||xiji.de^
 ||xtreff69.com^
 ||yoomedia.de^
-||youads.de^
 ||z0a.de^
 ||za-ads.de^
 ||zieltracker.de^
@@ -36847,6 +36846,7 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
+||p.junshi881.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
