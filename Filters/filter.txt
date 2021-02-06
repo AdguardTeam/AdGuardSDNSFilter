@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-06T12:03:30.782Z
+! Last modified: 2021-02-06T18:02:45.285Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,51 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||3sk7d418al8u.com^
+||absorbingconstitution.com^
+||acknowledgenightsabstain.com^
+||antecedentponderoverweight.com^
+||basicpossibility.com^
+||caneswindfallquiver.com^
+||catastropheillusive.com^
+||comalonger.com^
+||contagionrugby.com^
+||dcfnihzg81pa.com^
+||dissipatecombinedcolon.com^
+||distraughtbudge.com^
+||easygoingtouchybribe.com^
+||ektmvpwa.top^
+||frontierdough.com^
+||frugalrushcap.com^
+||goofsyoudell.com^
+||goosecontradiction.com^
+||hadsans.com^
+||hazardguiltconsulting.com^
+||itineraryupper.com^
+||jennyunfit.com^
+||jigdigtry.com^
+||juvenilebind.com^
+||magicianboundary.com^
+||murderassuredness.com^
+||oldeststrickenambulance.com^
+||p64gk2yhba0p.com^
+||pennilesscomingall.com^
+||piecefireworks.com^
+||popsmoatsilt.com^
+||pumpbead.com^
+||quenchskirmishcohere.com^
+||releasedverge.com^
+||revengemeantjackpot.com^
+||ruthcraveastray.com^
+||sevenedgesteve.com^
+||shockingstrategynovelty.com^
+||shriekdestitute.com^
+||silklanguish.com^
+||themoneytizer.net^
+||trainspersuasiveknitting.com^
+||wdt9iaspfv3o.com^
+||whippedfreezerbegun.com^
+||wokm8isd4zit.com^
 ||passwordslayoutvest.com^
 ||peskyexecutionyouthful.com^
 ||thoughtthricecompress.com^
@@ -19254,6 +19299,8 @@ vkcdnservice.appspot.com^
 !
 ! relateddigital.com domains
 ||visilabs.com^
+!
+||stats.vk-portal.net^
 ||dataunion.com.br^
 ||breathebuds.com^
 ||4sqt6jq.de^
@@ -36836,6 +36883,7 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||i.wuhaolin.cn^
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -37618,6 +37666,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||ddyingyan.com^
 ||sv7oqa.cn^
 ||mxc87.org^
 ||01w47q.cn^
