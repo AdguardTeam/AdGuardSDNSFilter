@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-05T18:02:44.512Z
+! Last modified: 2021-02-06T00:08:25.439Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -27741,19 +27741,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 ||zebestof.com^
-!
-
-!
-! Source name: AdGuard Russian filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt
-!
-!
-! Содержит доменные имена, использующиеся рекламными сетями.
-!
-! AdsWell.ru
-! `window.adswellBaseDomain`
-! https://damskiy.xyz/vendor/lib/oY.js
-!
+||bhiesfffga.com^
+||ogtz5yn2u1.ru^
 ||8245.digital^
 ||nrqqjb.com^
 ||adl-hunter.com^
