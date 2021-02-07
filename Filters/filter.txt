@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-07T00:06:49.899Z
+! Last modified: 2021-02-07T06:02:51.676Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -19301,6 +19301,7 @@ vkcdnservice.appspot.com^
 ! relateddigital.com domains
 ||visilabs.com^
 !
+||phar.gu-web.net^
 ||stats.vk-portal.net^
 ||dataunion.com.br^
 ||breathebuds.com^
@@ -36728,6 +36729,7 @@ adbetnet.com
 ||houyi.baofeng.net^*.html
 ||hz.shouyoutv.com^
 ||hzhyhm.com^
+||i.wuhaolin.cn^
 ||iads.xinmin.cn^
 ||iask.cn^*.data.
 ||iask.cn^*.param.
@@ -36884,7 +36886,6 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||i.wuhaolin.cn^
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -37667,9 +37668,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||ddyingyan.com^
-||sv7oqa.cn^
-||mxc87.org^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38248,6 +38246,7 @@ adbetnet.com
 ||ddhuangchao.com^
 ||ddpxhq.cn^
 ||ddskyuu.com^
+||ddyingyan.com^
 ||ddzeg.com^
 ||de093o.cn^
 ||dehuaguanyin.com^
@@ -39013,6 +39012,7 @@ adbetnet.com
 ||muusn.cn^
 ||mwjpk.com^
 ||mx.biquge.info^
+||mxc87.org^
 ||mxhbkj.cn^
 ||mxtailor.com^
 ||myams.cn^
@@ -39402,6 +39402,7 @@ adbetnet.com
 ||suitmatters.cn^
 ||suolaka.23txt.com^
 ||suoooi.cn^
+||sv7oqa.cn^
 ||svfwer.top^
 ||swhgd.com^
 ||swq48b.cn^
