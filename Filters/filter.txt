@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-09T12:03:23.960Z
+! Last modified: 2021-02-09T18:02:53.354Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||jcqwzssqks.com^
+||vobquhydgvyqf.com^
+||y0urf1rstd0wnl0ad.com^
 ||yourdestinationlink.com^
 ||localsnaughty.com^
 ||alawachi.net^
@@ -8931,6 +8934,7 @@ vkcdnservice.appspot.com^
 ||oaitcmlscwe.com^
 ||oajujirg.net^
 ||oakrkptc.com^
+||oanimsen.net^
 ||oapseele.net^
 ||oardilin.com^
 ||oarvfvntktnoto.com^
@@ -10708,6 +10712,7 @@ vkcdnservice.appspot.com^
 ||scenbe.com^
 ||schjmp.com^
 ||scholardevilcrayon.com^
+||scholarshipidol.com^
 ||schubbyve.club^
 ||scientialy.club^
 ||sckuhytswbs.com^
@@ -10812,6 +10817,7 @@ vkcdnservice.appspot.com^
 ||setemoump.com^
 ||setpadchat.com^
 ||setrtcjfhreqg.com^
+||setupbarton.com^
 ||sevenialfeminde.fun^
 ||sevening.club^
 ||sevenrumblepunishment.com^
@@ -19920,6 +19926,11 @@ vkcdnservice.appspot.com^
 !
 ! https://github.com/easylist/easylist/commit/a4d380ad1a3b33a0fab679a1a8c5a791321622b3
 ||functionalclam.com^
+!
+! Admiral domains
+! These domains are used for tracking purposes according to the data that is being sent there.
+! More info: https://getadmiral.com/products/measure
+||wearbasin.com^
 ||blushingbeast.com^
 ||observantice.com^
 ||balloonbit.com^
@@ -33214,6 +33225,7 @@ adbetnet.com
 ||as997.de^
 ||asnetworks.de^
 ||auxmoney-partnerprogramm.de^
+||ay.delivery^
 ||ba-content.de^
 ||bacontent.de^
 ||bannerchange.net^
@@ -33349,7 +33361,6 @@ adbetnet.com
 ||onlymega.com^
 ||paidlinkz.net^
 ||paidsolution.de^
-||partner-versicherung.de^
 ||performance-netzwerk.de^
 ||performanceanalyser.net^
 ||planetactive.com^
@@ -34539,11 +34550,6 @@ adbetnet.com
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
-
-!
-! Source name: EasyList China ad servers
-! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
-!
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -36953,6 +36959,7 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
+||bd.watu.cn^
 ||a.78yx.net^
 ||003store.com^
 ||1.01fy.cn^
@@ -37710,6 +37717,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||wjaa23.com^
+||nggwhyk.cn^
 ||beizhoujt.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
