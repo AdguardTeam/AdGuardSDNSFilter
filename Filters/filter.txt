@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-10T15:59:10.908Z
+! Last modified: 2021-02-10T18:02:49.377Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -26365,6 +26365,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adc-serv.net^
 ||adclear.net^
 ||adcrowd.com^
+||admeira.ch^
 ||adnz.co^
 ||adrank24.de^
 ||adtraxx.de^
@@ -33161,14 +33162,11 @@ adbetnet.com
 ||a3h.de^
 ||ablida-rotation.com^
 ||active-tracking.de^
-||ad-generator.info^
-||ad-hits.de^
 ||ad-pay.de^
 ||ad-serving.de^
 ||ad-sun.de^
-||ad-traffic.de^
+||ad.de.doubleclick.net^
 ||ad.netzquadrat.de^
-||ad2net.de^
 ||ad4cash.de^
 ||ad4mat.de^
 ||adalizer.com^
@@ -33177,8 +33175,6 @@ adbetnet.com
 ||adcina.de^
 ||adcocktail.com^
 ||addefend.com^
-||addie.verticalnetwork.de^
-||adhaus.de^
 ||adhost.in^
 ||adical.de^
 ||adiceltic.de^
@@ -33188,48 +33184,36 @@ adbetnet.com
 ||adklick.de^
 ||adklick.net^
 ||admanagement.ch^
-||admonkey.cc^
 ||adnited.net^
-||adpark.de^
 ||adperform.de^
 ||adreport.de^
 ||adrolays.de^
 ||ads-im-netz.de^
-||ads-mall.com^
 ||adscads.de^
 ||adsister.com^
-||adsone.de^
 ||adspectacle.net^
 ||adspirit.net^
 ||adsplash.de^
 ||adsushi.de^
 ||advendi.de^
 ||advert-layer.de^
-||adverticus.de^
 ||advolution.biz^
 ||advolution.de^
-||adwelt.com^
 ||adworx.at^
 ||aff-handler.com^
 ||affiliando.com^
-||affiliate-premium-club.com^
 ||affiliates.de^
-||affiliblatt.de^
-||affilicrawler.de^
 ||affilimatch.de^
 ||affiliscout.com^
 ||affilitec.com^
 ||affiliwelt.net^
 ||affilixxl.de^
-||affimax.de^
 ||agaso.de^
 ||allads4you.de^
 ||amunx.de^
-||andite.tk^
 ||anzeigen-vor-ort.de^
 ||anzeigenlieferant.de^
 ||arcor-partner.de^
-||as997.de^
 ||asnetworks.de^
 ||auxmoney-partnerprogramm.de^
 ||ay.delivery^
@@ -33245,7 +33229,6 @@ adbetnet.com
 ||big7.com^
 ||bitcoinpara.de^
 ||blogads.de^
-||blogpay.eu^
 ||bsheute.de^
 ||buywords.de^
 ||bwads24.com^
@@ -33255,7 +33238,6 @@ adbetnet.com
 ||chatntr.com^
 ||ci-marketing.de^
 ||codes.wai.it^
-||comads.de^
 ||conative.de^
 ||connects.ch^
 ||contentfeed.net^
@@ -33263,19 +33245,15 @@ adbetnet.com
 ||cuiron.de^
 ||cussixia.de^
 ||data-analyst.biz^
-||data-slimspots.com^
 ||de-ads.de^
 ||def-platform.com^
 ||def-platform.de^
 ||def-platform.net^
 ||dhads.net^
 ||digentu.de^
-||digitalresponse.de^
-||drs24.com^
 ||dynamic-advertising.de^
 ||e-traffix.de^
 ||ebesucher.de^
-||echtebesucher.de^
 ||eeewax.de^
 ||eset-affiliate.de^
 ||et.twyn.com^
@@ -33287,18 +33265,15 @@ adbetnet.com
 ||falkag.de^
 ||fexzuf.com^
 ||finative.eu^
-||firstads.de^
 ||firstsponsor.de^
 ||flatad.de^
 ||forced-layer.de^
 ||frvfrv.com^
-||funtastic-ads.de^
 ||gamesaffiliate.de^
 ||gamigoads.com^
 ||geldcounter.de^
 ||gigapromo.de^
 ||goldbach.com^
-!
 ||gonamic.de^
 ||goodads.de^
 ||green-ads.net^
