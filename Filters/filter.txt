@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-11T06:03:04.964Z
+! Last modified: 2021-02-11T11:25:04.553Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -19,6 +19,7 @@
 !! https://a.bestcontentitem.top/warp/*?r=
 !
 ||psaughun.com^
+||ptechait.com^
 ||loopoohy.com^
 ||continuedhostilityequipped.com^
 ||jcqwzssqks.com^
@@ -21477,7 +21478,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d396ihyrqc81w.cloudfront.net^
 ||d3avqv6zaxegeu.cloudfront.net^
 ||d3c3cq33003psk.cloudfront.net^
-||d3ezl4ajpp2zy8.cloudfront.net^
 ||d3h1v5cflrhzi4.cloudfront.net^
 ||d3hr5gm0wlxm5h.cloudfront.net^
 ||d3ojzyhbolvoi5.cloudfront.net^
@@ -22722,7 +22722,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||etahub.com^
 ||ethnio.com^
 ||etp-prod.com^
-||etracker.com^
 ||etrigue.com^
 ||etyper.com^
 ||eu-survey.com^
@@ -26452,7 +26451,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||edtp.de^
 ||emetriq.de^
 ||erotikcounter.org^
-||etracker.de^
 ||etracking24.de^
 ||etrust.eu^
 ||euro-pr.eu^
@@ -26962,7 +26960,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iogous.com^
 ||kaizenplatform.net^
 ||keyword-match.com^
-||kir.jp^
 ||letro.jp^
 ||mobylog.jp^
 ||moshimo.com^
@@ -32736,6 +32733,7 @@ adbetnet.com
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||dn.msmstatic.com^
 ||aff.jskyservices.com^
 ||smac-ad.com^
 ||a-i-ad.com^
