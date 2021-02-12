@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-12T14:32:01.848Z
+! Last modified: 2021-02-12T14:33:44.928Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -22231,7 +22231,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||etahub.com^
 ||ethnio.com^
 ||etp-prod.com^
-||etracker.com^
 ||etrigue.com^
 ||etyper.com^
 ||eu-survey.com^
@@ -25729,6 +25728,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.lengow.com^
 ||tracking.listhub.net^
 ||tracking.livingsocial.com^
+||tracking.magnetmail.net^
 ||tracking.maxcdn.com^
 ||tracking.menamarketplace.com^
 ||tracking.monsido.com^
@@ -25960,7 +25960,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||edtp.de^
 ||emetriq.de^
 ||erotikcounter.org^
-||etracker.de^
 ||etracking24.de^
 ||etrust.eu^
 ||euro-pr.eu^
