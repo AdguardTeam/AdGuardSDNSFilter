@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-12T06:02:46.137Z
+! Last modified: 2021-02-12T12:03:31.561Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -1998,7 +1998,6 @@ www.llllllllllll.net^
 ||d2kz60b0gq4lg.cloudfront.net^
 ||d3ud741uvs727m.cloudfront.net^
 ||dc5ig2fc8lg83.cloudfront.net^
-||d3q33rbmdkxzj.cloudfront.net^
 ||ads2.contentabc.com^
 ||d162nnmwf9bggr.cloudfront.net^
 ||ssp.zryydi.com^
@@ -27381,6 +27380,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||pkndawf.pro^
 ||tta3w6e98cka.ru^
 ||mydomainab5.space^
 ||randiul.com^
@@ -36438,6 +36438,13 @@ adbetnet.com
 @@||youku.com^*^adshow
 @@||youku.com^*^showAd
 @@||yzzkb.com.cn^*ad.
+||3338808.com^
+||5551895.com^
+||3336672.com^
+||3337729.com^
+||3337751.com^
+||3337783.com^
+||wofjhs.com^
 ||immedlinkum.info^
 ||xayah.date^
 ||003store.com^
