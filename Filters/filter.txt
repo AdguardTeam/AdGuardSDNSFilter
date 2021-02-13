@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-12T22:36:04.890Z
+! Last modified: 2021-02-13T00:05:38.944Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18991,6 +18991,7 @@ vkcdnservice.appspot.com^
 ||imp.dmm.com^
 ||track.edu-info.jp^
 ||a.wishabi.com^
+||pepperjam.com^
 ||pj.l.a8723.com^
 ||pj.l.admedo.com^
 ||tr.infopanel.jp^
@@ -23085,7 +23086,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||peep1alea.com^
 ||peerius.com^
 ||pendo.io^
-||pepperjam.com^
 ||percentmobile.com^
 ||perf-serving.com^
 ||perfdrive.com^
@@ -24999,6 +24999,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||collector.roistat.com^
 ||collector.sspinc.io^
 ||confiant-integrations.global.ssl.fastly.net^
+||container.pepperjam.com^
 ||contents-tracking.beop.io^
 ||control.cityofcairns.com^
 ||conversions.genieventures.co.uk^
@@ -25372,6 +25373,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||newsanalytics.com.au^
 ||ninja.onap.io^
 ||noflake-aggregator-http.narvar.com^
+||nojscontainer.pepperjam.com^
 ||nol.yahoo.com^
 ||nova.dice.net^
 ||ns.rvmkitt.com^
@@ -25706,6 +25708,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.*.miui.com^
 ||tracking.adalyser.com^
 ||tracking.aegpresents.com^
+||tracking.americaneagle.com^
 ||tracking.badgeville.com^
 ||tracking.brandmentions.com^
 ||tracking.customerly.io^
@@ -36438,12 +36441,12 @@ adbetnet.com
 @@||youku.com^*^adshow
 @@||youku.com^*^showAd
 @@||yzzkb.com.cn^*ad.
-||3338808.com^
-||5551895.com^
 ||3336672.com^
 ||3337729.com^
 ||3337751.com^
 ||3337783.com^
+||3338808.com^
+||5551895.com^
 ||wofjhs.com^
 ||immedlinkum.info^
 ||xayah.date^
