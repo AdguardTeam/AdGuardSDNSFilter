@@ -2,12 +2,6 @@
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
-! Related to '||mkto-*.com^$third-party'
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/582
-@@||email.awscloud.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/510
-@@||c.digikey.com^|
-!
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/580
 @@||cloud.notification-naviextras.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/568
@@ -26,6 +20,8 @@
 @@||email.*.skyeng.ru^|
 ! cdn.rozetka.com.ua is blocked by CNAME 'rozetka-cdn.exponea.com'
 @@||cdn.rozetka.com.ua^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/510
+@@||c.digikey.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/65326
 @@||go.scorptec.com.au^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/468
