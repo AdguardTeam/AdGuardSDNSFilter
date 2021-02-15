@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-15T12:03:24.340Z
+! Last modified: 2021-02-15T14:59:11.582Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -26671,6 +26671,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||aqjlgsv7cvkzocg.ru^
 ||twtmle.com^
 ||kcycpp.com^
 ||pkndawf.pro^
@@ -31819,6 +31820,15 @@ adbetnet.com
 ||chickensaladandads.com^
 ||adshot.de^
 ||content.acc-hd.de^
+!
+! Source name: AdGuard Chinese filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt
+!
+!
+! Section contains list of advertising networks
+!
+||cdn.upthinking.cn^
+||quxiangkeji.cn^
 ||sogo.uc.continuefaf.top^
 ||local.hniux.cn^
 ||ce.wlaoc.cn^
@@ -39497,6 +39507,12 @@ adbetnet.com
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
+! Related to '||mkto-*.com^$third-party'
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/582
+@@||email.awscloud.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/510
+@@||c.digikey.com^|
+!
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/580
 @@||cloud.notification-naviextras.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/568
@@ -39515,8 +39531,6 @@ adbetnet.com
 @@||email.*.skyeng.ru^|
 ! cdn.rozetka.com.ua is blocked by CNAME 'rozetka-cdn.exponea.com'
 @@||cdn.rozetka.com.ua^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/510
-@@||c.digikey.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/65326
 @@||go.scorptec.com.au^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/468
