@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-15T14:59:11.582Z
+! Last modified: 2021-02-15T18:02:50.633Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -31797,6 +31797,7 @@ adbetnet.com
 ! Source name: AdGuard German filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
 !
+||hybrid-prd.ad-prd.s.joyn.de^
 ||kunner.wiesentbote.de^
 ||yieldlove-ad-serving.net^
 ||partner.shop.vorwerk.de^
