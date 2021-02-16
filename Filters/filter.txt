@@ -3,10 +3,22 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-16T00:05:46.393Z
+! Last modified: 2021-02-16T06:03:45.270Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
+!
+! Source name: AdGuard Base filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
+!
+!
+! Section contains list of advertising networks
+!
+! The rules with hints are at the end of file
+!
+!! https://a.bestcontentitem.top/warp/*?r=
+!
+||directhourshoulders-1.life^
 ||motivesbreastchopped.com^
 ||konradsheriff.com^
 ||with0utdr0p.com^
@@ -3223,6 +3235,7 @@ vkcdnservice.appspot.com^
 ||averaladmi.info^
 ||averalist.club^
 ||averallasew.club^
+||avfgoatbyyerys.com^
 ||avmftuama.com^
 ||avuvldbc.com^
 ||avwincall.info^
@@ -4233,6 +4246,7 @@ vkcdnservice.appspot.com^
 ||dasimporary.club^
 ||data-data-vac.com^
 ||datedissyuk.icu^
+||dateregionsmadman.com^
 ||dating2cloud.org^
 ||daugloon.net^
 ||dauntlessomelette.com^
@@ -5120,6 +5134,7 @@ vkcdnservice.appspot.com^
 ||fbfd396918c60838.com^
 ||fblbdytlhsc.com^
 ||fc2b9b7ce3165.com^
+||fc4eeee1c5.com^
 ||fcfd5de4b3be3.com^
 ||fcfhjuyanmlvgb.com^
 ||fcvwuevewdzpm.com^
@@ -5407,6 +5422,7 @@ vkcdnservice.appspot.com^
 ||gadsoks.com^
 ||gadsokz.com^
 ||gadspms.com^
+||gadspmz.com^
 ||gagnibcan.com^
 ||gagpetwet.com^
 ||gaietyejection.com^
@@ -6314,6 +6330,7 @@ vkcdnservice.appspot.com^
 ||jockeryfgtu.club^
 ||jodellbrought.pro^
 ||joeputa.xyz^
+||joeyzzvkpjha.com^
 ||joiningpreferencemobile.com^
 ||jokehow.com^
 ||jomtingi.net^
@@ -8721,6 +8738,7 @@ vkcdnservice.appspot.com^
 ||psoaksoo.com^
 ||psoanouy.net^
 ||psonstrentie.info^
+||psougrie.com^
 ||psoumtou.net^
 ||psurdoak.com^
 ||psvgnczo.com^
@@ -8747,6 +8765,7 @@ vkcdnservice.appspot.com^
 ||ptoahaistais.com^
 ||ptogheeb.net^
 ||ptongouh.net^
+||ptookaih.net^
 ||ptoulsey.com^
 ||ptoumsid.net^
 ||ptoushoa.com^
@@ -10081,6 +10100,7 @@ vkcdnservice.appspot.com^
 ||successcompassion.com^
 ||suctorado-wrivate.icu^
 ||sudvykphfph.com^
+||suecubrearrange.com^
 ||suedespadecomparatively.com^
 ||sufferench.club^
 ||suggestvideos.xyz^
@@ -13594,6 +13614,7 @@ vkcdnservice.appspot.com^
 ||commissionlounge.com^
 ||commissionmonster.com^
 ||commodationship.info^
+||communicationads.net^
 ||conderedtoget.info^
 ||conduit-banners.com^
 ||conduit-services.com^
@@ -31829,7 +31850,6 @@ adbetnet.com
 ! Section contains list of advertising networks
 !
 ||cdn.upthinking.cn^
-||quxiangkeji.cn^
 ||sogo.uc.continuefaf.top^
 ||local.hniux.cn^
 ||ce.wlaoc.cn^
@@ -36507,6 +36527,11 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||rzlib.net^
+||nosensor.cn^
+||yingyeping.com^
+||5j73de.cn^
+||quxiangkeji.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
