@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-16T12:03:07.371Z
+! Last modified: 2021-02-16T18:02:44.668Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,11 +18,17 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||rofwvvyp.com^
+||expendituredefeated.com^
+||seektravelingdiffident.com^
+||kumteerg.com^
 ||directhourshoulders-1.life^
 ||motivesbreastchopped.com^
 ||konradsheriff.com^
 ||with0utdr0p.com^
 ||adlane.info^
+||vowifeba.xyz^
+||zebuaridromps.com^
 ||ppae8oe4eku9.com^
 ||psaughun.com^
 ||loopoohy.com^
@@ -76,8 +82,6 @@
 ||wdt9iaspfv3o.com^
 ||whippedfreezerbegun.com^
 ||wokm8isd4zit.com^
-||vowifeba.xyz^
-||zebuaridromps.com^
 ||passwordslayoutvest.com^
 ||thoughtthricecompress.com^
 ||onesaimdew.com^
@@ -3149,6 +3153,7 @@ vkcdnservice.appspot.com^
 ||ashchiasp.club^
 ||ashingcontro.top^
 ||asiangfsex.com^
+||asilslmkcanfm.com^
 ||asingsprxxebsx.com^
 ||asjdhajsdnweqwasdascxzccsdcsdcsdfewfwefqweqweqw.network^
 ||askallalb.club^
@@ -8563,6 +8568,7 @@ vkcdnservice.appspot.com^
 ||polishshinyspectacles.com^
 ||polituremil.club^
 ||pollscoopiffy.com^
+||pompeyperspire.com^
 ||ponchowafesargb.com^
 ||ponderaura.com^
 ||pooboafi.net^
@@ -9473,6 +9479,7 @@ vkcdnservice.appspot.com^
 ||run-syndicate.com^
 ||runative-syndicate.com^
 ||runbornto.com^
+||rungginlout.com^
 ||runghollow.com^
 ||rusenov.com^
 ||rushcostscomparison.com^
@@ -11715,6 +11722,7 @@ vkcdnservice.appspot.com^
 ||xoyoijhp.com^
 ||xpgfsxoyijt.com^
 ||xpigohyzfdcgp.com^
+||xpsurtfhsllozy.com^
 ||xptslcoedn.com^
 ||xpwppacpda.com^
 ||xpwwqbkezdr.com^
@@ -18234,7 +18242,6 @@ vkcdnservice.appspot.com^
 ||msg.qy.net^
 ||hit.uptrendsdata.com^
 ||sitest.jp^
-||husfly.com^
 ||collect.lngtd.com^
 ||cdn.resonate.com^
 ||events.mapbox.com^
@@ -31183,6 +31190,7 @@ adbetnet.com
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 !
 !
+||tarpitbar.com^
 ||caliskankoylu.com^
 ||n69adserv.com^
 ||adhouse.pro^
@@ -32316,6 +32324,7 @@ adbetnet.com
 ||gbucket.ch^
 ||hbagency.it^
 ||hubaffiliations.net^
+||husfly.com^
 ||inaffiliago.it^
 ||ioladv.it^
 ||iperbanner.com^
@@ -33358,6 +33367,8 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||3336657.com^
+||3337739.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
