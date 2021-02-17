@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-16T18:02:44.668Z
+! Last modified: 2021-02-17T00:05:54.469Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -23163,6 +23163,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ventivmedia.com^
 ||vepxl1.net^
 ||vercel-analytics.com^
+||vercel-insights.com^
 ||vertical-leap.co.uk^
 ||vertical-leap.net^
 ||verticalscope.com^
@@ -33367,8 +33368,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||3336657.com^
-||3337739.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -33459,6 +33458,8 @@ adbetnet.com
 ||2polj.top^
 ||2zfzly.com^
 ||31365y.com^
+||3336657.com^
+||3337739.com^
 ||3337781.com^
 ||333dm.com^
 ||338336.com^
@@ -36544,11 +36545,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||rzlib.net^
-||nosensor.cn^
-||yingyeping.com^
-||5j73de.cn^
-||quxiangkeji.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -36672,6 +36668,7 @@ adbetnet.com
 ||5dydk.com^
 ||5glyqw.com^
 ||5hytr.xyz^
+||5j73de.cn^
 ||5mbd2.com^
 ||5mgurg.cn^
 ||5p68n.cn^
@@ -37957,6 +37954,7 @@ adbetnet.com
 ||nmqdnykj.com^
 ||nmtouzi.com^
 ||nongzhifu.cn^
+||nosensor.cn^
 ||notoboo.net^
 ||nouzhu.cn^
 ||nqfwx.cn^
@@ -38129,6 +38127,7 @@ adbetnet.com
 ||qucco.cn^
 ||quipin.cn^
 ||quxiandu.com^
+||quxiangkeji.cn^
 ||quyejianzhan.tech^
 ||qwesgwg.cn^
 ||qxyu.top^
@@ -38176,6 +38175,7 @@ adbetnet.com
 ||ruyiqufu.com^
 ||rxconkz.cn^
 ||rxxdq.cn^
+||rzlib.net^
 ||rzxlszy.vip^
 ||s7ww2.cn^
 ||s9wp1.cn^
@@ -38719,6 +38719,7 @@ adbetnet.com
 ||yimai51.cn^
 ||yimeize.cn^
 ||yingjiawm.com^
+||yingyeping.com^
 ||yinlt.com^
 ||yinvmh.com^
 ||yinzantouzi.com^
