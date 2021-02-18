@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-18T06:02:44.231Z
+! Last modified: 2021-02-18T12:03:25.937Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,10 +18,14 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||adsmodern.com^
+||glogoowo.net^
+||giwefepy.xyz^
 ||glassmilheart.com^
 ||feyl4mh5to.com^
 ||betjeyxf.com^
 ||bbocajxn.com^
+||tunviralbionic.com^
 ||expendituredefeated.com^
 ||seektravelingdiffident.com^
 ||kumteerg.com^
@@ -20463,6 +20467,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.appsflyer.com^
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||p.statp.com^
+||api.imqtyik.com^
 ||events.claspws.tv^
 ||tracking-receiver.prod-general.stocard-backend.com^
 ||metrics.happycolor.app^
@@ -33391,6 +33397,7 @@ adbetnet.com
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
 ||szxhybj.com^
+||abcdlm.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
