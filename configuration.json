@@ -44,6 +44,7 @@
       "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
