@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-19T06:02:51.128Z
+! Last modified: 2021-02-19T12:03:27.082Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,11 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||ypofozux.xyz^
+||crevicedepressingpumpkin.com^
+||peuzubuqo.com^
+||viqirue.ru^
+||matchaix.net^
 ||adcentrum.net^
 ||s.viites.com^
 ||adsmodern.com^
@@ -1919,6 +1924,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||12.beautifulero.com^
 ||d18t35yyry2k49.cloudfront.net^
 ||sak.userreport.com^
 ||api.flygame.io^
@@ -23484,6 +23490,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shroughtened.com^
 ||sm-epsilon.com^
 ||snd.tc^
+||subscribers.com^
 ||truepush.com^
 ||viapush.com^
 ||webpu.sh^
@@ -31544,6 +31551,8 @@ adbetnet.com
 !
 ! Section contains list of advertising networks
 !
+||jokingst.xyz^
+||habrox.xyz^
 ||mystighty.info^
 ||i4tvy8vk9f74.com^
 ||sohjah-thahka.info^
@@ -31612,6 +31621,7 @@ adbetnet.com
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||widget.cybershop-affiliate.jp^
 ||6ms.biz^
 ||ad-arrow.com^
 ||img-c.net^
@@ -35827,6 +35837,7 @@ adbetnet.com
 ||wofjhs.com^
 ||immedlinkum.info^
 ||xayah.date^
+||lynr.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
