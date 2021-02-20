@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-20T10:11:16.596Z
+! Last modified: 2021-02-20T12:03:11.054Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||redirecionador.fun^
+||nucleo.online^
 ||errcarsvex.casa^
 ||adopalstroy.com^
 ||antpeelpiston.com^
@@ -744,7 +746,6 @@
 ||evemasoil.com^
 ||cowbumply.com^
 ||alcroconawa.com^
-||asoulrox.com^
 ||inabsolor.com^
 ||itpatratr.com^
 ||seayipsex.com^
@@ -3149,6 +3150,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||j83ad.speedrun.com^
 ||12.beautifulero.com^
 ||d18t35yyry2k49.cloudfront.net^
 ||sak.userreport.com^
@@ -4483,6 +4485,7 @@ vkcdnservice.appspot.com^
 ||askbegrag.com^
 ||askinsoner.club^
 ||asonaloccu.info^
+||asoulrox.com^
 ||asparagusmeaninglessyearly.com^
 ||aspartbib.site^
 ||aspirinstaircase.com^
@@ -7886,7 +7889,6 @@ vkcdnservice.appspot.com^
 ||listeraislatory.site^
 ||lithingbre.top^
 ||litleeemo.com^
-||littlecdn.com^
 ||littlementok.site^
 ||lityamountryb.club^
 ||livezombymil.com^
@@ -8622,6 +8624,7 @@ vkcdnservice.appspot.com^
 ||njawafwpmv.com^
 ||njkgqdxavz.com^
 ||njmeadll.com^
+||njmkilpqzibv.com^
 ||njmztqqtigys.com^
 ||njxtoflrhhyy.com^
 ||nk26uvjrz0tt.com^
@@ -8698,6 +8701,7 @@ vkcdnservice.appspot.com^
 ||notifysrv.com^
 ||notionnalisent.xyz^
 ||notorietyharvest.com^
+||nounstrenuous.com^
 ||noutstancerewe.info^
 ||novatrck.icu^
 ||novembershopsconvene.com^
@@ -11744,6 +11748,7 @@ vkcdnservice.appspot.com^
 ||ustriptomorbie.site^
 ||uswgkadyika.com^
 ||usxobxnmmaix.com^
+||uszaodwya.com^
 ||utarget.pro^
 ||utfusckgnj.com^
 ||uthorner.info^
@@ -27664,7 +27669,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gyh1lh20owj.ru^
 ||25haich4342.ru^
 ||byfoongusor.com^
-||v2b.nucleo.online^
 ||bserver.gp-guia.net^
 ||widgets.informars.com^
 ||potu.xyz^
@@ -27787,6 +27791,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||escatedint.work^
 ||hranakel.xyz^
 ||glygrebedu.pro^
 ||autoizers.info^
