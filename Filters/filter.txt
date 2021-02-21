@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-20T18:02:51.968Z
+! Last modified: 2021-02-21T00:07:38.654Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -4695,6 +4695,7 @@ vkcdnservice.appspot.com^
 ||bbom2b434493.com^
 ||bbtwdpczir.com^
 ||bbyhjamzpkenvm.com^
+||bcaf3ecf33ea.com^
 ||bce97f29c40fc40.com^
 ||bckfnohmg.com^
 ||bcloudhost.com^
@@ -6277,6 +6278,7 @@ vkcdnservice.appspot.com^
 ||f40f89d54b8.com^
 ||f45ff72fec5426ae.com^
 ||f4906b7c15ba.com^
+||f4948e5e370.com^
 ||f4f32de8e64d.com^
 ||f5080f5cee5a00.com^
 ||f56e3ea35a4.com^
@@ -8144,6 +8146,7 @@ vkcdnservice.appspot.com^
 ||mdwvwbyvqh.com^
 ||mdxzmatcc.com^
 ||meajnbdavp.com^
+||meawuerhvjmty.com^
 ||mechanicsearnestobjections.com^
 ||mecontentassent.website^
 ||medcourthe.fun^
@@ -9359,6 +9362,7 @@ vkcdnservice.appspot.com^
 ||pfvgazngauezhk.com^
 ||pfyalardueu.com^
 ||pgdhapctt.com^
+||pgebqmezguxz.com^
 ||pgeejqisao.com^
 ||pgepkagfndl.com^
 ||pgmrko89prom.com^
@@ -34054,9 +34058,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||v9wuyulou.com^
-||meituangov.cn^
-||k9dzax.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35007,6 +35008,7 @@ adbetnet.com
 ||jystea.com^
 ||k12shequ.com^
 ||k1815.com^
+||k9dzax.cn^
 ||ka12138.top^
 ||kan5.xyz^
 ||kan8.xyz^
@@ -35147,6 +35149,7 @@ adbetnet.com
 ||meiti1.net^
 ||meituan.xn--io0a7i^
 ||meituan.yoga^
+||meituangov.cn^
 ||mengbingyuan.com^
 ||mengbli.com^
 ||mengheyu.com^
@@ -35588,6 +35591,7 @@ adbetnet.com
 ||uvsea.cn^
 ||uw9377.com^
 ||uzpmrbek.com^
+||v9wuyulou.com^
 ||vaedan.top^
 ||vdazz.net^
 ||ve001nz.com^
@@ -36250,6 +36254,7 @@ adbetnet.com
 ||leagueofmovie.com^*Ads
 ||libfre.obs.cn-east-3.myhuaweicloud.com^
 ||ll.gxsky.com^
+||longdidi.top^*.js
 ||luolidashu.xyz^*.gif
 ||lxting.com^
 ||lyd.com.cn^*950-90.
@@ -36363,7 +36368,6 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||longdidi.top^*.js
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -36396,7 +36400,6 @@ adbetnet.com
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||fpb1.tabuzhe.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -36767,6 +36770,7 @@ adbetnet.com
 ||fpb.sohu.com^
 ||fpb1.apple886.com^
 ||fpb1.chinacar.
+||fpb1.tabuzhe.com^
 ||fwccw.com^
 ||fxjs.2541.com^
 ||g.3lian.com^
@@ -37137,7 +37141,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||6s7v78.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37287,6 +37290,7 @@ adbetnet.com
 ||6945k6.cn^
 ||69yll.cn^
 ||6l1967.cn^
+||6s7v78.cn^
 ||6shuge.com^
 ||6yush.cn^
 ||70bhsd.cn^
