@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-21T06:02:56.333Z
+! Last modified: 2021-02-21T12:03:16.509Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||followmalnutritionjeanne.com^
+||lifeseatbird.com^
 ||faxqaaawyb.com^
 ||click.hooligapps.com^
 ||zyhifata.pro^
@@ -33233,9 +33235,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 19 Feb 2021 21:25 UTC+7
-! Version: 2102192125
-! Blocked: 774 rules
+! Last modified: 21 Feb 2021 15:36 UTC+7
+! Version: 2102211536
+! Blocked: 776 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33340,6 +33342,7 @@ adbetnet.com
 ||photo-ads.zaloapp.com^
 ||piads.vn^
 ||pinetech.vn^
+||piwik.*.vn^
 ||pushdi.com^
 ||pushdy.com^
 ||pushdy.vn^
@@ -33607,6 +33610,7 @@ adbetnet.com
 ||analytics.admon.com.vn^
 ||analytics.bkav.com^
 ||analytics.bkav.com.vn^
+||analytics.diamondstarfinancial.com.vn^
 ||analytics.easyvideo.vn^
 ||analytics.explus.vn^
 ||analytics.hub-js.com^
@@ -37059,6 +37063,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||shantelope.com^
+||cjyjqw.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
