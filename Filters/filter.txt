@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-22T06:03:06.692Z
+! Last modified: 2021-02-22T12:02:53.179Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -4577,6 +4577,7 @@ vkcdnservice.appspot.com^
 ||avfgoatbyyerys.com^
 ||avmftuama.com^
 ||avuvldbc.com^
+||avwcupyzbccer.com^
 ||avwincall.info^
 ||awakeexterior.com^
 ||away-stay.com^
@@ -6922,6 +6923,7 @@ vkcdnservice.appspot.com^
 ||gxymlqcnu.com^
 ||gynvqipvmcv.com^
 ||gyoajmeq.com^
+||gyvxojjeamipc.com^
 ||gyyzsgri.com^
 ||gzivryjzal.com^
 ||gzmlvrvkven.com^
@@ -33078,9 +33080,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Feb 2021 10:30 UTC+7
-! Version: 2102221030
-! Blocked: 776 rules
+! Last modified: 22 Feb 2021 15:17 UTC+7
+! Version: 2102221517
+! Blocked: 778 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33485,6 +33487,7 @@ adbetnet.com
 ||cdn.tekoapis.com^
 ||clicker.chiaki.vn^
 ||clientinfo.phimmoizz.net^
+||collect.ovp.vn^
 ||counter.24h.com.vn^
 ||counter.ntdvn.com^
 ||crm.bizfly.vn^
@@ -33493,6 +33496,7 @@ adbetnet.com
 ||event.headlines.pw^
 ||event.vntoday.news^
 ||fa.fpt.shop^
+||fbuser.ovp.vn^
 ||file-subiz.com^
 ||follow.vnay.vn^
 ||google-shopping.sapoapps.vn^
@@ -36166,6 +36170,7 @@ adbetnet.com
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||abc.rwpt.top^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -36907,6 +36912,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||zjlfqf.com^
+||zhuanquxian.com^
 ||dadedaxue.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
