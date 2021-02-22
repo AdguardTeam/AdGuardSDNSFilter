@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-22T12:02:53.179Z
+! Last modified: 2021-02-22T18:02:59.428Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||jypugepha.pro^
+||bounceme.net^
 ||aspirinelitistunderstood.com^
 ||gahapule.pro^
 ||followmalnutritionjeanne.com^
@@ -9643,6 +9645,7 @@ vkcdnservice.appspot.com^
 ||qnemxzckwx.com^
 ||qneowzuyfzyfs.com^
 ||qnfpskgtzkw.com^
+||qngqlrxscxlvh.com^
 ||qnjdtefk.com^
 ||qnkiueuflzdold.com^
 ||qnnawbvdyuql.com^
@@ -12376,6 +12379,7 @@ vkcdnservice.appspot.com^
 ||yassociallya.club^
 ||yatgrotthyzpm.com^
 ||yauatoyuhdb.com^
+||yauhbgfc.com^
 ||yawsupvie.site^
 ||yaxbqjjemnvben.com^
 ||yb7a1bb6k1.com^
@@ -32144,6 +32148,7 @@ adbetnet.com
 !
 ! Eimg.jp
 !
+||cdn.relaido.jp^
 ||widget.cybershop-affiliate.jp^
 ||6ms.biz^
 ||ad-arrow.com^
@@ -33828,6 +33833,8 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||ytop8.com^
+||jungbey.xyz^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -36912,6 +36919,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||lvsechufang.com^
 ||zjlfqf.com^
 ||zhuanquxian.com^
 ||dadedaxue.com^
