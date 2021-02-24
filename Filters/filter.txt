@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-24T09:40:44.781Z
+! Last modified: 2021-02-24T11:18:25.109Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -4389,6 +4389,7 @@ vkcdnservice.appspot.com^
 ||antfindicater.site^
 ||antiadblocksystems.com^
 ||anticalser.club^
+||antiterroristqueenjolly.com^
 ||antrademic.club^
 ||anxdwq.com^
 ||anymad.com^
@@ -5661,6 +5662,7 @@ vkcdnservice.appspot.com^
 ||dinneredaq.club^
 ||dintrateim.top^
 ||dioneperson.pro^
+||diplomadosagedream.com^
 ||diplomaticlastingpert.com^
 ||dirritorexa.club^
 ||disagreeablesmilingmagnet.com^
@@ -6398,6 +6400,7 @@ vkcdnservice.appspot.com^
 ||fesrsxtmkjgms.com^
 ||fessmegilscha.info^
 ||festivaleradicate.com^
+||festivalwalletmuggy.com^
 ||fesurvivial.club^
 ||fetchinstalmenttraffic.com^
 ||feverhappyjack.com^
@@ -6822,6 +6825,7 @@ vkcdnservice.appspot.com^
 ||gr8y7z1xaq30.com^
 ||graduateavenue.com^
 ||graduationtapingicicle.com^
+||grafthivecrocus.cam^
 ||grafzen.com^
 ||gragliapastri.info^
 ||grairgos.net^
@@ -10535,6 +10539,7 @@ vkcdnservice.appspot.com^
 ||stiffenpersevere.com^
 ||stilfb.com^
 ||stingjagged.com^
+||stingygirlieaccompany.com^
 ||stinkcomedian.com^
 ||stjsurdfitff.com^
 ||stkqkfhlscmcuh.com^
@@ -11001,6 +11006,7 @@ vkcdnservice.appspot.com^
 ||transientdeteriorate.com^
 ||trapothere.club^
 ||trappist-1d.com^
+||trapsaminohut.com^
 ||tratefirearly.top^
 ||traumaticnoiseless.com^
 ||travangeind.club^
@@ -11447,6 +11453,7 @@ vkcdnservice.appspot.com^
 ||vanderebony.pro^
 ||vanderlisten.pro^
 ||vanenow.com^
+||vanillaincidentfeed.com^
 ||vanssueshyer.casa^
 ||vapourgrievously.com^
 ||variabilitycomprehension.com^
@@ -11848,6 +11855,7 @@ vkcdnservice.appspot.com^
 ||windoorsew.club^
 ||windows-remora-system.com^
 ||winfreeprize.online^
+||wingsenormous.com^
 ||winsistakesme.site^
 ||wipeneighbour.com^
 ||wipowaxe.com^
@@ -18203,7 +18211,6 @@ vkcdnservice.appspot.com^
 ||appgiftwall.oss-us-west-1.aliyuncs.com^
 ||appgift.sinaapp.com^
 ||ad.mail.ru^|
-||video.intl.xiaomi.com^
 ||servedby.o2.co.uk^
 ||amillionads.com^
 ||api.mobshark.net^
@@ -22774,6 +22781,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||stats.muasamcong.gov.vn^
 ||beacon.watch.impress.co.jp^
 ||metrics-broker.prod.p.tf1.fr^
 ||pappagallu.onefootball.com^
@@ -32030,7 +32038,6 @@ adbetnet.com
 !
 ||cdn.relaido.jp^
 ||widget.cybershop-affiliate.jp^
-||6ms.biz^
 ||ad-arrow.com^
 ||img-c.net^
 ||z-profit.com^
