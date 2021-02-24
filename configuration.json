@@ -40,6 +40,14 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "EasyList ad servers third-party",
+      "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
       "name": "AdGuard Mobile Ads filter ad servers",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt",
       "type": "adblock",
@@ -213,5 +221,5 @@
       "type": "adblock"
     }
   ],
-  "transformations": ["Deduplicate"]
+  "transformations": ["Compress"]
 }
