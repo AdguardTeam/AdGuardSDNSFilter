@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-23T18:03:11.030Z
+! Last modified: 2021-02-24T00:06:12.406Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -25123,6 +25123,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||leadchampion.com^
 ||leaddyno.com^
 ||leadelephant.com^
+||leadinfo.net^
 ||leadintel.io^
 ||leadpages.net^
 ||leadsrx.com^
@@ -26649,6 +26650,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ref.dealerinspire.com^
 ||risk.clearbit.com^
 ||targeting.voxus.tv^
+! uBO-CNAME (Specific allowlists)
+||a03674778d27211eabe260a5fac8573f-298900439.eu-central-1.elb.amazonaws.com^
+||a177429ff0a2d11eab4120a5a92844d8-605541764.eu-central-1.elb.amazonaws.com^
+||a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com^
+||a51404801860511eabe260a5fac8573f-308402611.eu-central-1.elb.amazonaws.com^
+||a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com^
+||aea50b96a4dca11ea83360ac4ee80f26-253968598.eu-central-1.elb.amazonaws.com^
+||afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com^
 ||aksb-a.akamaihd.net^
 ||e77lmzbqou0n-a.akamaihd.net^
 ||ninja.akamaized.net^
