@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-24T12:03:17.722Z
+! Last modified: 2021-02-24T18:02:45.739Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -10996,6 +10996,7 @@ vkcdnservice.appspot.com^
 ||traff6.com^
 ||traffic.adexprtz.com^
 ||trafficdok.com^
+||trafficmoose.com^
 ||trafficoverus.com^
 ||trafficshop.com^
 ||trafiq.loan^
@@ -18069,6 +18070,7 @@ vkcdnservice.appspot.com^
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/74651
 ! com.opera.app.newslite
+||s-adx.op-mobile.opera.com^
 ||s.adx.opera.com^
 ! Apps by Ketchapp
 ||ketchapp.org^
@@ -31917,6 +31919,7 @@ adbetnet.com
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||r20.club^
 ||reklam1.akhisar.bel.tr^
 ||partnerx.bethub.io^
 ||ttauri.livescience.com^
@@ -32057,7 +32060,6 @@ adbetnet.com
 ||mhub.work^
 ||adpicker.net^
 ||google-analyticals.com^
-||deliver.ads2.iid.jp^
 ||adapf.com^
 ||infotop.jp^
 ||tcs-asp.net^
@@ -32232,7 +32234,6 @@ adbetnet.com
 ||trustclick.ne.jp^
 ||tumabeni.com^
 ||uad-api.nicovideo.jp^
-||web-jp.ad-v.jp^
 ||webantenna.info^
 ||widget-view.dmm.co.jp^
 ||widget-view.dmm.com^
@@ -38822,7 +38823,7 @@ adbetnet.com
 ||xbzpppr.cn^
 ||xccpro.vip^
 ||xcdzsw.com^
-||xcmxsw.com^
+||hmfcyy.com^
 ||xdkje.com^
 ||xdrzdh.cn^
 ||xdyszx.com^
