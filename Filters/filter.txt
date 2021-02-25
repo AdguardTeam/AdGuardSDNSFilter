@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-25T12:03:07.810Z
+! Last modified: 2021-02-25T18:02:42.464Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||rutpunishsnitch.com^
+||resalag.com^
 ||solitudeelection.com^
 ||ruytvzdcavjsjh.com^
 ||papoptidu.pro^
@@ -68,7 +70,6 @@
 ||expendituredefeated.com^
 ||seektravelingdiffident.com^
 ||kumteerg.com^
-||directhourshoulders-1.life^
 ||continuedhostilityequipped.com^
 ||deductdoorwayfig.com^
 ||motivesbreastchopped.com^
@@ -3168,6 +3169,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||ad.holmesmind.com^
 ||j83ad.speedrun.com^
 ||12.beautifulero.com^
 ||d18t35yyry2k49.cloudfront.net^
@@ -4717,6 +4719,7 @@ vkcdnservice.appspot.com^
 ||bbom2b434493.com^
 ||bbtwdpczir.com^
 ||bbyhjamzpkenvm.com^
+||bce97f29c40fc40.com^
 ||bckfnohmg.com^
 ||bcloudhost.com^
 ||bcnewltd.club^
@@ -7511,6 +7514,7 @@ vkcdnservice.appspot.com^
 ||jlemhcmft.com^
 ||jlhniewc.com^
 ||jltklmnmj.com^
+||jmrnews.pro^
 ||jmtitdorwfxe.com^
 ||jmvdzlkf.com^
 ||jmxecxpqq.com^
@@ -8953,6 +8957,7 @@ vkcdnservice.appspot.com^
 ||orisapple.top^
 ||orminecommi.fun^
 ||ornamedev.club^
+||orozrpyxdigvwe.com^
 ||orrecede.top^
 ||ortymarvin.top^
 ||orvzvaqig.com^
@@ -11041,6 +11046,7 @@ vkcdnservice.appspot.com^
 ||ufwpwt.com^
 ||ugbadcqsqep.com^
 ||ughdqpwtfabsqg.com^
+||ugmovxfikvhct.com^
 ||ugoupams.com^
 ||ugqdykbxe.com^
 ||uh9qulew9rjj.com^
@@ -18609,6 +18615,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||uncn.jp^
+||ad-spire.net^
 ||f-counter.net^
 ||moshimo.com^
 ||counter.monkeybanana3.com^
@@ -31389,6 +31397,7 @@ adbetnet.com
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||yad.pandafilms.best^
 ||adbn.masterinvest.info^
 ||bs.orsk.ru^
 ||vast4.kinogo.la^
@@ -36761,6 +36770,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||jkdd.cc^*-
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
