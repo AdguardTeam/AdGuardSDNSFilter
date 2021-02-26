@@ -3,6 +3,9 @@
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://github.com/AdguardTeam/AdGuardDNS/issues/574
+! Blocked by ||relevant-digital.com^
+@@||oneline.nextday.media^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/75663
 ! Blocked by ||rdstation.com.br^
 @@||digital.fcamara.com.br^|
