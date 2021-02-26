@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-26T13:04:43.506Z
+! Last modified: 2021-02-26T14:55:19.401Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -1237,7 +1237,6 @@
 ||cryaptall.club^
 ||artantash.club^
 ||onewastansepa.pro^
-||bestcontentfood.top^
 ||oukruque.com^
 ||foazasis.com^
 ||grooksom.com^
@@ -13524,6 +13523,7 @@ vkcdnservice.appspot.com^
 ||best5ex.com^
 ||bestcasinopartner.com^
 ||bestcontentcompany.top^
+||bestcontentfood.top^
 ||bestcontentsoftware.top^
 ||bestdeals.ws^
 ||bestforexpartners.com^
@@ -24146,6 +24146,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||analytics.jodelapis.com^
 ||analytics.mobilegamestats.com^
 ||p.statp.com^
 ||api.imqtyik.com^
@@ -24995,7 +24996,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||leadsrx.com^
 ||leafmedia.io^
 ||leokross.com^
-||linkifier.com^
 ||livesegmentservice.com^
 ||livesession.io^
 ||livetrafficfeed.com^
@@ -26959,6 +26959,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.cnd-motionmedia.de^
 ||analytics.gameforge.de^
 ||analytics.loop-cloud.de^
+||analytics.media-proweb.de^
 ||analytics.praetor.im^
 ||beagle.prod.tda.link^
 ||blacktri-a.akamaihd.net^
@@ -36808,6 +36809,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||hnjcdjx.com^
 ||ez2kyh.cn^
 ||kypzu.cn^
 ||01w47q.cn^
