@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-26T15:16:00.942Z
+! Last modified: 2021-02-26T15:39:08.076Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18641,6 +18641,13 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||adsmetadata.mobileadexchange.net^
+||adsmetadata.startappk8s.com^
+||counter.yandro.ru^
+||track-aws.notsy.io^
+||cdn.notsy.io^
+||cdn-b.notsy.io^
+||track.notsy.io^
 ||log.ca.gov.vn^
 ||tracking.gpm-rtv.ru^
 ||pvk.jp^
@@ -22606,6 +22613,19 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||track.libii.cn^
+||track.oasis.magictavern.com^
+||kooappslogs.com^
+||log.zepeto.io^
+||apptracker.gamedock.io^
+||applog.zaycev.net^
+||events.cardsmobile.ru^
+||eventstream.dodopizza.com^
+||analytics.74.ru^
+||intake-logging.wikimedia.org^
+||event.chitai-gorod.ru^
+||counter.nv.ua^
+||metrika.myseldon.com^
 ||t.lidyana.com^
 ||stats.muasamcong.gov.vn^
 ||beacon.watch.impress.co.jp^
@@ -24996,6 +25016,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||leadsrx.com^
 ||leafmedia.io^
 ||leokross.com^
+||linkifier.com^
 ||livesegmentservice.com^
 ||livesession.io^
 ||livetrafficfeed.com^
@@ -27445,6 +27466,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||advertiseru.net^
 ||kijkxx.com^
 ||escatedint.work^
 ||hranakel.xyz^
@@ -31428,6 +31450,8 @@ adbetnet.com
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||ads.interfax.ru^
+||banner.profile.ru^
 ||yad.pandafilms.best^
 ||adbn.masterinvest.info^
 ||bs.orsk.ru^
@@ -36810,6 +36834,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||nongfumg.com^
+||njcyt.com^
 ||hnjcdjx.com^
 ||ez2kyh.cn^
 ||kypzu.cn^
@@ -39275,6 +39301,9 @@ adbetnet.com
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/574
+! Blocked by ||relevant-digital.com^
+@@||oneline.nextday.media^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/75663
 ! Blocked by ||rdstation.com.br^
 @@||digital.fcamara.com.br^|
