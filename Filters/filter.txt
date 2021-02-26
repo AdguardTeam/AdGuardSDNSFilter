@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-26T06:03:02.583Z
+! Last modified: 2021-02-26T12:03:33.769Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -19,6 +19,9 @@
 !! https://a.bestcontentitem.top/warp/*?r=
 !
 ||rutpunishsnitch.com^
+||pheeghie.net^
+||chinyeatoy.com^
+||firsstudtog.cam^
 ||resalag.com^
 ||solitudeelection.com^
 ||ruytvzdcavjsjh.com^
@@ -7250,6 +7253,7 @@ vkcdnservice.appspot.com^
 ||iglaique.net^
 ||igllgmtrioka.com^
 ||ignoranttools.com^
+||igvxnenqgu.com^
 ||ihgehlpfzoefmd.com^
 ||ihjtrncfoha.com^
 ||ihzwuzeslfh.com^
@@ -8640,6 +8644,7 @@ vkcdnservice.appspot.com^
 ||nklrfqgz.com^
 ||nklwltrpzhy.com^
 ||nknxugrndmf.com^
+||nktorpmpbhvb.com^
 ||nlbnegea.com^
 ||nlkspjjcxyvr.com^
 ||nlz0ini5uz9t.com^
@@ -9590,6 +9595,7 @@ vkcdnservice.appspot.com^
 ||qkxmnpxtr.com^
 ||qlblpyslxciorl.com^
 ||qlhhbgkgggsp.com^
+||qlpwqpvuw.com^
 ||qmhigtmwikvzin.com^
 ||qmnyjs7jd1jp.com^
 ||qmokxgfz.com^
@@ -12477,6 +12483,7 @@ vkcdnservice.appspot.com^
 ||zwigjtgnzfn.com^
 ||zwmauyerfotyh.com^
 ||zwmunz.com^
+||zwnxzckwihg.com^
 ||zwprxzbnzxc.com^
 ||zwwbvpwd.com^
 ||zwzfujusmwsbun.com^
@@ -18635,6 +18642,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||tracking.gpm-rtv.ru^
+||pvk.jp^
 ||uncn.jp^
 ||ad-spire.net^
 ||f-counter.net^
@@ -25719,6 +25728,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Admiral
 ||alleyarm.com^
 ||amlg.io^
+||annoyedairport.com^
 ||ayc0zsm69431gfebd.info^
 ||borderbrush.com^
 ||confesschairs.com^
@@ -27264,7 +27274,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tbe.tom.ru^
 ||top.elec.ru^
 ||track.spacepush.ru^
-||tracking.gpm-rtv.ru^
 ! Slovak
 ||stat.ringier.sk^
 ! Spanish
@@ -32014,6 +32023,11 @@ adbetnet.com
 !
 ! Eimg.jp
 !
+||app.monetrack.com^
+||bn.dxlive.com^
+||mobee2.jp^
+||mttag.com^
+||preaf.jp^
 ||cdn.relaido.jp^
 ||widget.cybershop-affiliate.jp^
 ||ad-arrow.com^
@@ -36794,6 +36808,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||ez2kyh.cn^
+||kypzu.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
