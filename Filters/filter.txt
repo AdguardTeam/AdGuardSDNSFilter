@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-26T00:06:04.405Z
+! Last modified: 2021-02-26T06:03:02.583Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -4363,6 +4363,7 @@ vkcdnservice.appspot.com^
 ||amavirgin.pro^
 ||amerallyluke.club^
 ||amesgraduatel.site^
+||amgtomdcxvm.com^
 ||amhpbhyxfgvd.com^
 ||ammankeyan.com^
 ||amountant.club^
@@ -9249,6 +9250,7 @@ vkcdnservice.appspot.com^
 ||pjnjskdvmbnup.com^
 ||pjx1ky4xhwip.com^
 ||pkgebysm.com^
+||pkldrgupis.com^
 ||pkmkkjwknvf.com^
 ||pktqcr.com^
 ||pkytbidauolavq.com^
@@ -33695,7 +33697,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||quehq.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -33785,7 +33786,11 @@ adbetnet.com
 ||2polj.top^
 ||2zfzly.com^
 ||31365y.com^
+||3336653.com^
 ||3336657.com^
+||3336670.com^
+||3336691.com^
+||3337706.com^
 ||3337739.com^
 ||3337781.com^
 ||333dm.com^
@@ -34988,6 +34993,7 @@ adbetnet.com
 ||qucaigg.com^
 ||qudaoweiwang.com^
 ||queene.cn^
+||quehq.com^
 ||quw18.com^
 ||qvpublish.com^
 ||qwfknhc.cn^
@@ -35769,6 +35775,7 @@ adbetnet.com
 ||c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com^
 ||cacafly.net^
 ||cachead.com^*.js
+||cbjs.ciwei.in^
 ||cdgfa.ifeng.com^
 ||cdn.imvkan.com^
 ||cdn.wuyou.ca^
@@ -36013,7 +36020,6 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||cbjs.ciwei.in^
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -36788,7 +36794,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||jkdd.cc^*-
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37866,6 +37871,7 @@ adbetnet.com
 ||jixiby.cn^
 ||jiyuanzixun.com^
 ||jj0453.com^
+||jkdd.cc^*-
 ||jkert.com^
 ||jkleosnfjutme.top^
 ||jkxtd77.com^
