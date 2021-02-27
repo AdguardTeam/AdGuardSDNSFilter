@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-27T00:06:03.374Z
+! Last modified: 2021-02-27T06:02:55.847Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -3688,7 +3688,6 @@ vkcdnservice.appspot.com^
 ||1ced38bdc42b883.com^
 ||1e310acae6aee.com^
 ||1ex4oemg99mv.com^
-||1f2f1472af32.com^
 ||1f58098dd54.com^
 ||1f7de8569ea97f0614.com^
 ||1f7wwaex9rbh.com^
@@ -3722,7 +3721,6 @@ vkcdnservice.appspot.com^
 ||25348f89a3.com^
 ||2559a303164ddde96.com^
 ||273920d845b.com^
-||27fa0ce65e.com^
 ||27vckaccbto7p761.pro^
 ||2894c9d5b32.com^
 ||29ae58661b9c7178.com^
@@ -3771,6 +3769,7 @@ vkcdnservice.appspot.com^
 ||39d1d397c97730.com^
 ||3a8c9b0ca405b5.com^
 ||3ab171502b3.com^
+||3abd17850c2.com^
 ||3ac901bf5793b0fccff.com^
 ||3c0012ab95c132f.com^
 ||3c513c1d3255c.com^
@@ -5103,6 +5102,7 @@ vkcdnservice.appspot.com^
 ||cbmawvknxwgxqd.com^
 ||cbpsdvozwsbf.com^
 ||cbyzgxhbovgwju.com^
+||cc2e81e8f9.com^
 ||cc380535d9ca0.com^
 ||ccc1063d848b.com^
 ||ccd8450321.com^
@@ -5572,6 +5572,7 @@ vkcdnservice.appspot.com^
 ||dc63bfb069ea522f.com^
 ||dccqzsmabz.com^
 ||dcdilhaybpzkvj.com^
+||dcfkalvbcs.com^
 ||dcontonalscho.info^
 ||dcop4khjxsmg.com^
 ||dcqthcwm.com^
@@ -9966,6 +9967,7 @@ vkcdnservice.appspot.com^
 ||rogew.com^
 ||roikingdom.com^
 ||rollersadnessstranded.com^
+||rolmscvzkp.com^
 ||romashk9arfk10.com^
 ||rompuwit.net^
 ||ronbriticated.site^
@@ -10217,6 +10219,7 @@ vkcdnservice.appspot.com^
 ||seriencern.club^
 ||seriendly.club^
 ||seriodilov.club^
+||seriouslylargestnewsletter.com^
 ||seriy2sviter11o9.com^
 ||sersproposal.club^
 ||servantpantomimematch.com^
@@ -11487,6 +11490,7 @@ vkcdnservice.appspot.com^
 ||vvczvfrbtwrvs.com^
 ||vvjlrhuzmhzlws.com^
 ||vvnmwfnpkat.com^
+||vvyhhrjigq.com^
 ||vwvnounnfteusv.com^
 ||vwvvaeor.com^
 ||vwxgxculdbybw.com^
@@ -11675,6 +11679,7 @@ vkcdnservice.appspot.com^
 ||winfreeprize.online^
 ||wingsenormous.com^
 ||winsistakesme.site^
+||wipedstuffed.com^
 ||wipeneighbour.com^
 ||wipowaxe.com^
 ||wirelessbabysitterphonebooth.com^
@@ -12307,6 +12312,7 @@ vkcdnservice.appspot.com^
 ||zcwjasfrog.com^
 ||zcyclbncgubccl.com^
 ||zdajdudqfq.com^
+||zdcuivnen.com^
 ||zdgmhsahttsj.com^
 ||zdhnepeadrwetg.com^
 ||zdjkzqwpqvwcmc.com^
@@ -25708,11 +25714,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cushionpig.com^
 ||distributiontomatoes.com^
 ||disturbedquiet.com^
+||dogcollarfavourbluff.com^
 ||enormousearth.com^
 ||glisteningguide.com^
 ||impulsejewel.com^
 ||lameletters.com^
 ||oafishobservation.com^
+||panickycurtain.com^
 ||pleasantpump.com^
 ||q20jqurls0y7gk8.info^
 ||railwayreason.com^
@@ -25720,6 +25728,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sablesong.com^
 ||screechingslip.com^
 ||seatsmoke.com^
+||selfishsnake.com^
 ||stepplane.com^
 ||teenytinycellar.com^
 
@@ -26421,6 +26430,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.searchmarketing.com^
 ||tracking.sembox.it^
 ||tracking.sezzle.com^
+||tracking.sharplink.us^
 ||tracking.waterfrontmedia.com^
 ||tracking.worldmedia.net^
 ||tracking1.brandmentions.com^
