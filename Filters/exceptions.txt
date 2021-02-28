@@ -3,6 +3,9 @@
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/602
+! Don't block clicks in AWS emails
+@@||email.awscloud.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/574
 ! Blocked by ||relevant-digital.com^
 @@||oneline.nextday.media^|
