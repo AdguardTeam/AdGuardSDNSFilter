@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-28T06:32:17.335Z
+! Last modified: 2021-02-28T12:03:13.195Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -4531,6 +4531,7 @@ vkcdnservice.appspot.com^
 ||astrouble.club^
 ||asuydisi.com^
 ||asvatskaymj.club^
+||asxemfnwbrmpdp.com^
 ||atacjnqbkok.com^
 ||ataijeeg.net^
 ||atcanjhcv.com^
@@ -9661,6 +9662,7 @@ vkcdnservice.appspot.com^
 ||quaetabib.com^
 ||quakedamnalight.com^
 ||quatrefeuillepolonaise.xyz^
+||qudcsysviowa.com^
 ||questaurah.club^
 ||questionsunpleasantaborigines.com^
 ||qugdtlps.com^
@@ -24958,6 +24960,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hitsteps.com^
 ||hivps.xyz^
 ||hmstats.com^
+||hockeystack.com^
 ||horzrb.com^
 ||hospitality-optimizer.com^
 ||hotjar.io^
@@ -35935,7 +35938,6 @@ adbetnet.com
 ||mm.nwell.net^
 ||mmys.net^*.php
 ||money.qz828.com^
-||myad.toocle.com^
 ||nirentang.com^
 ||ok.432kkk.com^
 ||p.7060.la^
