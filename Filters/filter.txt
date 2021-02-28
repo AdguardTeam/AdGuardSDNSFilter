@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-28T12:03:13.195Z
+! Last modified: 2021-02-28T18:02:43.284Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -53,7 +53,6 @@
 ||3r1kwxcd.top^
 ||voawhooh.net^
 ||suptaibo.com^
-||ypofozux.xyz^
 ||chfpgcbe.com^
 ||crevicedepressingpumpkin.com^
 ||peuzubuqo.com^
@@ -61,7 +60,6 @@
 ||matchaix.net^
 ||adcentrum.net^
 ||zazerygu.pro^
-||giwefepy.xyz^
 ||adsmodern.com^
 ||glogoowo.net^
 ||glassmilheart.com^
@@ -1201,7 +1199,6 @@
 ||togenron.com^
 ||suntcontent.se^
 ||thaihary.link^
-||popnc.com^
 ||reevaipi.com^
 ||esdesignewebnet.info^
 ||lorahana.xyz^
@@ -2374,7 +2371,6 @@ www.llllllllllll.net^
 ||ssraju3n.com^
 ||top-games.me^
 ||m73lae5cpmgrv38.com^
-||smartclick.net^
 ||3l4r8d61yz.com^
 ||pilottere.info^
 ||uharded.com^
@@ -6773,6 +6769,7 @@ vkcdnservice.appspot.com^
 ||givenfrontierruth.com^
 ||givestment.club^
 ||givingsol.com^
+||giwefepy.xyz^
 ||gjproyrwjv.com^
 ||gjqbidroh.com^
 ||gjqrpgdr.com^
@@ -8689,6 +8686,7 @@ vkcdnservice.appspot.com^
 ||nonerr.com^
 ||nonpareilwagetide.com^
 ||noonraptnite.com^
+||nopapmyzyjiqnc.com^
 ||noproblfr.com^
 ||noqj1iz4u28t.com^
 ||norakseemlyntr.info^
@@ -8802,6 +8800,7 @@ vkcdnservice.appspot.com^
 ||nvitdeservala.site^
 ||nvrblk.xyz^
 ||nvtbspcwhb.com^
+||nvwqqlroj.com^
 ||nwliko.com^
 ||nxcxithvcoeh.com^
 ||nxtuaeko.com^
@@ -12206,6 +12205,7 @@ vkcdnservice.appspot.com^
 ||ypkbybzpd.com^
 ||ypksjcnrsett.com^
 ||ypmwkketrdbwn.com^
+||ypofozux.xyz^
 ||ypolukuxt.com^
 ||yppxexinajadu.com^
 ||yprnopqzs.com^
@@ -15726,6 +15726,7 @@ vkcdnservice.appspot.com^
 ||popmonetizer.com^
 ||popmyad.com^
 ||popmyads.com^
+||popnc.com^
 ||poponclick.com^
 ||poppysol.com^
 ||popsads.com^
@@ -32962,9 +32963,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Feb 2021 15:17 UTC+7
-! Version: 2102221517
-! Blocked: 778 rules
+! Last modified: 28 Feb 2021 21:45 UTC+7
+! Version: 2102282145
+! Blocked: 780 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33388,6 +33389,7 @@ adbetnet.com
 ||kv-analytics.kiotviet.vn^
 ||la.vietid.net^
 ||lg.lotus.vn^
+||live.vnpgroup.net^
 ||log-collector.shopee.vn^
 ||log.anninhthudo.vn^
 ||log.baodatviet.vn^
@@ -33666,6 +33668,7 @@ adbetnet.com
 ||vn88.com^
 ||vua1004.club^
 ||vua1005.club^
+||vw220.com^
 ||vwinnow.com^
 ||vwinthethao.com^
 ||vx88.com^
