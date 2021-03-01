@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-01T06:02:50.497Z
+! Last modified: 2021-03-01T12:03:22.486Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -6840,6 +6840,7 @@ vkcdnservice.appspot.com^
 ||gobmodfoe.com^
 ||gobovoul.net^
 ||goddessrig.com^
+||godvwcft.com^
 ||goingtocontent.com^
 ||gokjicokl.com^
 ||goldenbettingefforlessefforless.com^
@@ -9813,6 +9814,7 @@ vkcdnservice.appspot.com^
 ||redreven.fun^
 ||reducatedc.top^
 ||reductingds.club^
+||redvxjlmaehy.com^
 ||reembrasserait.website^
 ||reenrageasse.xyz^
 ||refaucherais.site^
@@ -18564,7 +18566,6 @@ vkcdnservice.appspot.com^
 ||servebom.com^
 ||serving-sys.com^
 ||sessionm.com^
-||shareasale.com^
 ||show.niqiu99.org^
 ||silvermob.com^
 ||singular.net^
@@ -18728,7 +18729,6 @@ vkcdnservice.appspot.com^
 ||rum*.a.trbcdn.net^
 ||stats.myangular.life^
 ||counter.daara.kr^
-||tr.line.me^
 ||log22.makeshop.co.kr^
 ||piclick.kr^
 ||log.perfecttitspics.com^
@@ -33724,6 +33724,8 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||chayayeon.com^
+||bmbaike.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -36821,6 +36823,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||mavuz.com^
+||fkm2wv.cn^
 ||erhfnv.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
