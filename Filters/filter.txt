@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-01T12:03:22.486Z
+! Last modified: 2021-03-01T18:02:49.641Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,23 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||pertistbri.fun^
+||catlliw.xyz^
+||dmmzkfd82wayn.cloudfront.net^
+||offclaydolon.com^
+||tiesmises.fun^
+||cehuiy.com^
+||eergithi.com^
+||awebotchunto.work^
+||dogiedimepupae.com^
+||loftsbaacad.com^
+||emanpro.fun^
+||engagedhits.com^
+||choconart.com^
+||coinad.xyz^
+||andibringto.biz^
+||oranegfodnd.com^
+||nutrities.top^
 ||rutpunishsnitch.com^
 ||pheeghie.net^
 ||chinyeatoy.com^
@@ -202,13 +219,11 @@
 ||baxusanu.pro^
 ||lgpumcja.com^
 ||sadesriffsmap.com^
-||odiumdrawlip.com^
 ||lostincunt.space^
 ||kihuxyda.xyz^
 ||meerihoh.net^
 ||vv8h9vyjgnst.com^
 ||shacsda.name^
-||flippantreprehensiblecharming.com^
 ||anniversarytoothbrush.com^
 ||povapeba.xyz^
 ||freychang.fun^
@@ -2120,7 +2135,6 @@ www.llllllllllll.net^
 ||xqkzsifxgv.com^
 ||stalluva.pro^
 ||vi-serve.com^
-||wtg-ads.com^
 ||kurkizraka.com^
 ||mobpushup.com^
 ||zddxlih.com^
@@ -3167,6 +3181,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||tontent.povwideo.me^
 ||ad.holmesmind.com^
 ||j83ad.speedrun.com^
 ||12.beautifulero.com^
@@ -6071,7 +6086,6 @@ vkcdnservice.appspot.com^
 ||elsupposit.club^
 ||elyconsisterj.club^
 ||emagazing.fun^
-||emanpro.fun^
 ||emarhowedp.club^
 ||ematumes.club^
 ||embargainew.site^
@@ -6507,6 +6521,7 @@ vkcdnservice.appspot.com^
 ||fleckspoken.com^
 ||flexknfp.com^
 ||fliedridgin.com^
+||flippantreprehensiblecharming.com^
 ||flixcontentshop.com^
 ||flloczhqdkn.com^
 ||flmuqa.com^
@@ -8863,6 +8878,7 @@ vkcdnservice.appspot.com^
 ||ocphuulbithyyd.com^
 ||od0gddq27wkk.com^
 ||odhuvqrlntidxf.com^
+||odiumdrawlip.com^
 ||odukhsymyua.com^
 ||odwofgksbcyoh.com^
 ||oebadu.com^
@@ -9048,6 +9064,7 @@ vkcdnservice.appspot.com^
 ||outhumporc.work^
 ||outotheret.club^
 ||outsimfat.site^
+||outsmoke-niyaxabura.com^
 ||outwarent.club^
 ||ouzoadru.net^
 ||ovcxvpvdk.com^
@@ -9324,7 +9341,6 @@ vkcdnservice.appspot.com^
 ||poifinsegg.com^
 ||poignantcover.com^
 ||poignantsat.com^
-||point-of-entry.com^
 ||pointexcusestretching.com^
 ||pointpopu.top^
 ||policemanciderpeeks.com^
@@ -16890,6 +16906,7 @@ vkcdnservice.appspot.com^
 ||wpadsx.com^
 ||wpnjs.com^
 ||wranjeon.xyz^
+||wtg-ads.com^
 ||wultaikr.net^
 ||wwbn.com^
 ||www-protection.com^
@@ -21595,6 +21612,7 @@ vkcdnservice.appspot.com^
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
 ||unwieldyhealth.com^
+||boilingcredit.com^
 ||wearbasin.com^
 ||puffypaste.com^
 ||stiffgame.com^
@@ -22656,6 +22674,10 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||track.clkfly.com^
+||pf.intuit.com^
+||sci.intuit.com^
+||bilanx.dcard.tw^
 ||track.libii.cn^
 ||track.oasis.magictavern.com^
 ||kooappslogs.com^
