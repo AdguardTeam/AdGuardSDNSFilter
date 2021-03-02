@@ -9,9 +9,6 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/574
 ! Blocked by ||relevant-digital.com^
 @@||oneline.nextday.media^|
-! https://github.com/AdguardTeam/AdguardFilters/issues/75663
-! Blocked by ||rdstation.com.br^
-@@||digital.fcamara.com.br^|
 ! Reported via Telegram: https://t.me/AdGuard_chinese/13741
 @@|ftp.bmp.ovh^|
 ! Related to '||mkto-*.com^$third-party'
