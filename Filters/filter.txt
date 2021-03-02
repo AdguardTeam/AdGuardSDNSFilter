@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-02T06:02:50.279Z
+! Last modified: 2021-03-02T12:02:56.979Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||tkxiavegstgq.com^
 ||pertistbri.fun^
 ||catlliw.xyz^
 ||dmmzkfd82wayn.cloudfront.net^
@@ -3185,7 +3186,6 @@ www.llllllllllll.net^
 ||ad.holmesmind.com^
 ||j83ad.speedrun.com^
 ||12.beautifulero.com^
-||sak.userreport.com^
 ||tontent.powv1deo.cc^
 ||cintent.streanplay.cc^
 ||my.shymilftube.com^
@@ -8005,6 +8005,7 @@ vkcdnservice.appspot.com^
 ||llajhfzpoxhr.com^
 ||lledcorfinni.club^
 ||llerscover.top^
+||llhrardbu.com^
 ||llhshirhrbkn.com^
 ||llisthonolialate.club^
 ||lllgavbgnmcbf.com^
@@ -9669,6 +9670,7 @@ vkcdnservice.appspot.com^
 ||qrcvlmxqu.com^
 ||qreoifgajnoor.com^
 ||qreparaguaq.club^
+||qrezvwhtppiv.com^
 ||qrindfqrd.com^
 ||qrksjrjppkam.com^
 ||qrlgcrzmbuy.com^
@@ -10900,7 +10902,6 @@ vkcdnservice.appspot.com^
 ||tkbo.com^
 ||tkickhhylnvm.com^
 ||tkjdwcigpyazr.com^
-||tkxiavegstgq.com^
 ||tl2go.com^
 ||tlgvoeeuhxsd.com^
 ||tljivh.com^
@@ -18705,6 +18706,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||d-collector.jennifersoft.com^
 ||adsmetadata.mobileadexchange.net^
 ||adsmetadata.startappk8s.com^
 ||counter.yandro.ru^
@@ -22676,6 +22678,9 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||eventapi.afreecatv.com^
+||stat.nate.com^
+||hitweb2.chosun.com^
 ||track.clkfly.com^
 ||pf.intuit.com^
 ||sci.intuit.com^
@@ -24110,7 +24115,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||geobeacon.ign.com^
 ||hi.hellobar.com^
 ||hit.mynet.com^
-||hitweb2.chosun.com^
 ||hrumpoc.hotels.com^
 ||ibeat.indiatimes.com^
 ||iptracker-lb-*.amazonaws.com^
@@ -33000,9 +33004,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 Feb 2021 21:45 UTC+7
-! Version: 2102282145
-! Blocked: 780 rules
+! Last modified: 02 Mar 2021 15:08 UTC+7
+! Version: 2103021508
+! Blocked: 786 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33078,6 +33082,7 @@ adbetnet.com
 ||log.mp3.zing.vn^
 ||log.o2o.service.zaloapp.com^
 ||log.tv.zing.vn^
+||logger.vsmarty.vn^
 ||logv2.mp3.zing.vn^
 ||mangoads.vn^
 ||masoffer.net^
@@ -33594,6 +33599,7 @@ adbetnet.com
 ||bong99.com^
 ||bong99.fun^
 ||bong99.vip^
+||boom66.com^
 ||cacuoc247.com^
 ||cacuoc79.com^
 ||casino888vn.com^
@@ -33622,6 +33628,7 @@ adbetnet.com
 ||go88.com^
 ||goal123.com^
 ||goal68.top^
+||goal86.top^
 ||ibet889.com^
 ||income88.com^
 ||interwinvn.com^
@@ -33632,6 +33639,7 @@ adbetnet.com
 ||letou8868.com^
 ||lixi88.info^
 ||lixi888.online^
+||loc88.fun^
 ||lode88.vip^
 ||lucky88.com^
 ||lucky88.live^
@@ -33643,6 +33651,7 @@ adbetnet.com
 ||m88my.com^
 ||m88vina.com^
 ||macau.club^
+||macauclub.fun^
 ||mansion66.com^
 ||mayclub.net^
 ||mibet.com^
@@ -33703,6 +33712,7 @@ adbetnet.com
 ||vn88.casino^
 ||vn88.club^
 ||vn88.com^
+||vnloto.com^
 ||vua1004.club^
 ||vua1005.club^
 ||vw220.com^
@@ -36848,6 +36858,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||xcmz999.com^
 ||mlre.com.cn^
 ||ap72el.com^
 ||94dayu.com^
