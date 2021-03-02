@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-02T12:02:56.979Z
+! Last modified: 2021-03-02T17:03:51.825Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,13 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||teenyreligious.com^
+||start3dd0wnload.com^
+||farteniuson.com^
+||checkifyouarealive.me^
+||revenuenetworkcpm.com^
+||cryptoadvertising.net^
+||oostotsu.com^
 ||tkxiavegstgq.com^
 ||pertistbri.fun^
 ||catlliw.xyz^
@@ -86,7 +93,6 @@
 ||bbocajxn.com^
 ||tunviralbionic.com^
 ||rofwvvyp.com^
-||expendituredefeated.com^
 ||seektravelingdiffident.com^
 ||kumteerg.com^
 ||continuedhostilityequipped.com^
@@ -241,7 +247,6 @@
 ||wcwcads.net^
 ||crisistuesdayartillery.com^
 ||avkyu1tesnwy.com^
-||mxuiso.com^
 ||runnersgunpowder.com^
 ||nichedlinks.com^
 ||departmentunsuccessful.com^
@@ -6307,6 +6312,7 @@ vkcdnservice.appspot.com^
 ||expansity.club^
 ||expedientlonesome.com^
 ||expenditurebaneopenly.com^
+||expendituredefeated.com^
 ||explanettu.club^
 ||expmediadirect.com^
 ||expresentc.top^
@@ -8495,6 +8501,7 @@ vkcdnservice.appspot.com^
 ||mwvznnssqv.com^
 ||mxjptfrxqaavdc.com^
 ||mxsuikhqaggf.com^
+||mxuiso.com^
 ||mxvncslrduda.com^
 ||mxysalqnbj.com^
 ||my-hanson.com^
@@ -8651,6 +8658,7 @@ vkcdnservice.appspot.com^
 ||ni6cdwf6w5xr.com^
 ||niaagentl.top^
 ||niazlhvok.com^
+||nibagsukpgndj.com^
 ||nicevideos.xyz^
 ||nichools.com^
 ||nicmitosasm.top^
@@ -9921,7 +9929,6 @@ vkcdnservice.appspot.com^
 ||revenuecpmnetwork.com^
 ||revenueenslave.com^
 ||revenuenetwork.com^
-||revenuenetworkcpm.com^
 ||reviourffg.club^
 ||revolutelyplan.info^
 ||revrtb.net^
@@ -10558,7 +10565,6 @@ vkcdnservice.appspot.com^
 ||stardedbio.club^
 ||stargoug.com^
 ||starkunfinisheddestroyed.com^
-||start3dd0wnload.com^
 ||startsmajesty.com^
 ||starveornamentgeneralization.com^
 ||statutecompatibility.com^
@@ -10879,6 +10885,7 @@ vkcdnservice.appspot.com^
 ||tificanaccou.top^
 ||tifybecausingp.info^
 ||tightsaturdayi.com^
+||tiglesoshi.pro^
 ||tilltucked.com^
 ||timbercooling.com^
 ||time4news.net^
@@ -12495,6 +12502,7 @@ vkcdnservice.appspot.com^
 ||zpwqnicvzi.com^
 ||zpxgdlqoofx.com^
 ||zqeqclcfdc.com^
+||zqibmiotpxfk.com^
 ||zqiknimzmcoedq.com^
 ||zqmnjxpavnpe.com^
 ||zqmxzjrhchg.com^
@@ -18706,6 +18714,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||tracking.adweb.co.kr^
+||tracking02.adweb.co.kr^
 ||d-collector.jennifersoft.com^
 ||adsmetadata.mobileadexchange.net^
 ||adsmetadata.startappk8s.com^
@@ -19149,8 +19159,6 @@ vkcdnservice.appspot.com^
 ||healte.de^
 ||track.ddmanager.ru^
 ||metrika-informer.com^
-||rdstation.com^
-||rdstation.com.br^
 ||analytic.rocks^
 ||counter.log24.ru^
 ||dcmn.com^
@@ -23739,7 +23747,6 @@ t.yesware.com
 ||trck.spoteffects.net^
 ||trackingapi.cloudapp.net^
 ||tracking2.channeladvisor.com^
-||tracking.adweb.co.kr^
 ||tracking.bdi-services.de^
 ||tracking.musixmatch.com^
 ||tracking.olx-st.com^
@@ -34663,6 +34670,7 @@ adbetnet.com
 ||jiasdart.cn^
 ||jiehantai.com^
 ||jiekc.com^
+||jijunlongchengxinxi.cn^
 ||jimeilm.com^
 ||jindu179.com^
 ||jinfengit.com^
@@ -36858,10 +36866,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||xcmz999.com^
-||mlre.com.cn^
-||ap72el.com^
-||94dayu.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37042,6 +37046,7 @@ adbetnet.com
 ||91funcy.com^
 ||91jiedai.cn^
 ||922x7c.cn^
+||94dayu.com^
 ||958so.cn^
 ||979067.com^
 ||97paa.com^
@@ -37147,6 +37152,7 @@ adbetnet.com
 ||aoyou2.top^
 ||aoyou3.top^
 ||aoyou4.top^
+||ap72el.com^
 ||apdingqian.com^
 ||apjiangte.com^
 ||apmengxin.com^
@@ -38181,6 +38187,7 @@ adbetnet.com
 ||mjtowot.cn^
 ||ml44.cn^
 ||mlion.cn^
+||mlre.com.cn^
 ||mmfusheng.com^
 ||mmhhjt.com^
 ||mmkvi.com^
@@ -38887,6 +38894,7 @@ adbetnet.com
 ||xbzpppr.cn^
 ||xccpro.vip^
 ||xcdzsw.com^
+||xcmz999.com^
 ||xdkje.com^
 ||xdrzdh.cn^
 ||xdyszx.com^
@@ -39343,9 +39351,6 @@ adbetnet.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/574
 ! Blocked by ||relevant-digital.com^
 @@||oneline.nextday.media^|
-! https://github.com/AdguardTeam/AdguardFilters/issues/75663
-! Blocked by ||rdstation.com.br^
-@@||digital.fcamara.com.br^|
 ! Reported via Telegram: https://t.me/AdGuard_chinese/13741
 @@|ftp.bmp.ovh^|
 ! Related to '||mkto-*.com^$third-party'
