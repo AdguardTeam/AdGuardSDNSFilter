@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-04T00:06:00.160Z
+! Last modified: 2021-03-04T06:02:54.459Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -33029,15 +33029,16 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 Mar 2021 16:33 UTC+7
-! Version: 2103031633
-! Blocked: 798 rules
+! Last modified: 04 Mar 2021 10:08 UTC+7
+! Version: 2103041008
+! Blocked: 796 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
 ||24h-ad.24hstatic.com^
 ||24h-ipad-ad.24hstatic.com^
 ||ad-us.24hstatic.com^
+||ad.accesstrade.vn^
 ||ad.org.vn^
 ||ad.zing.vn^
 ||ad360.vn^
@@ -33099,9 +33100,6 @@ adbetnet.com
 ||itim.vn^
 ||kabbmedia.com^
 ||klick.vn^
-||ladi.me^
-||ladicdn.com^
-||ladipage.com^
 ||ladipage.net^
 ||ladipage.vn^
 ||ladisales.com^
@@ -33134,6 +33132,7 @@ adbetnet.com
 ||ohchat.net^
 ||oncustomer.asia^
 ||onfluencer.net^
+||partner.accesstrade.vn^
 ||phanquang.vn^
 ||philacct.com^
 ||photo-ads.zaloapp.com^
@@ -33153,6 +33152,7 @@ adbetnet.com
 ||rungrinh.vn^
 ||sbz.vn^
 ||sdk.zadn.vn^
+||service-api.accesstrade.vn^
 ||sharks.vn^
 ||shop-cdn.coccoc.com^
 ||shopping.coccoc.com^
@@ -33161,6 +33161,7 @@ adbetnet.com
 ||sourcetobin.com^
 ||sporttv.today^
 ||starseed.fr^
+||static.accesstrade.vn^
 ||subiz-cdn.com^
 ||subiz.com^
 ||subiz.com.vn^
@@ -33170,6 +33171,7 @@ adbetnet.com
 ||t.sieu-viet.com^
 ||takataka.coccoc.com^
 ||testcentre.vn^
+||track.accesstrade.vn^
 ||tracking.api.media.zapps.vn^
 ||tracking.playzing.g6.zing.vn^
 ||tracking.tv.zing.vn^
@@ -33200,7 +33202,6 @@ adbetnet.com
 ||703531862.vws.vegacdn.vn^
 ||ad-admin.vnay.vn^
 ||ad.24h.com.vn^
-||ad.accesstrade.vn^
 ||ad.chieuhoa.com^
 ||ad.eva.vn^
 ||ad.happynest.vn^
@@ -33524,7 +33525,6 @@ adbetnet.com
 ||mysapo.net^
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
-||partner.accesstrade.vn^
 ||report.vnay.vn^
 ||s.baomoi.xdn.vn^
 ||s.homedy.com^
@@ -33536,7 +33536,6 @@ adbetnet.com
 ||smetrics.kone.vn^
 ||st-a.vtvdigital.vn^
 ||stat.headlines.pw^
-||static.accesstrade.vn^
 ||staticad.thethao247.vn^
 ||statistic.batdongsan.com.vn^
 ||statistics.tapchimypham.com.vn^
@@ -33558,7 +33557,6 @@ adbetnet.com
 ||thongke99.baogiaothong.vn^
 ||tka.tiki.vn^
 ||track-srv.vietnamnet.vn^
-||track.accesstrade.vn^
 ||track.icheck.com.vn^
 ||track.kyna.vn^
 ||track.lapa.pub^
@@ -33795,7 +33793,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||ax21pics.org^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34120,6 +34117,7 @@ adbetnet.com
 ||auspiciousvp.com^
 ||avtiaozhuan.com^
 ||awkjs.com^
+||ax21pics.org^
 ||axhxa.com^
 ||axiba66.com^
 ||b588866.com^
@@ -36896,12 +36894,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||jingyazhuangshi.com^
-||cxzudwk.com^
-||sctwny.com^
-||wangdaguanli.com^
-||chang555.cn^
-||tnl808z.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37352,6 +37344,7 @@ adbetnet.com
 ||cghc87.cn^
 ||cgtueid.cn^
 ||cgxxmy.com^
+||chang555.cn^
 ||changhehengqi.com^
 ||chayibu.com^
 ||chekeshi.com^
@@ -37433,6 +37426,7 @@ adbetnet.com
 ||cxcxt.com^
 ||cxmob.net^
 ||cxslchkb.cn^
+||cxzudwk.com^
 ||cyboke.cn^
 ||cyto-biotherapy.com^
 ||cz345.cn^
@@ -37967,6 +37961,7 @@ adbetnet.com
 ||jingdayiyuan.com^
 ||jingoulong.cn^
 ||jingxiangyalvji.cn^
+||jingyazhuangshi.com^
 ||jingyuzuo.top^
 ||jinkelai66.com^
 ||jinliaoyang.com^
@@ -38546,6 +38541,7 @@ adbetnet.com
 ||scnaes.cn^
 ||scqajt.cn^
 ||scswuliu.com^
+||sctwny.com^
 ||scvxgm.cn^
 ||sdaaxz.xyz^
 ||sdabfw.cn^
@@ -38732,6 +38728,7 @@ adbetnet.com
 ||tlwl2.cn^
 ||tmmjgcp.cn^
 ||tmrmixer.cn^
+||tnl808z.cn^
 ||tochgw.com^
 ||toissue.cn^
 ||tongbuchi.com^
@@ -38835,6 +38832,7 @@ adbetnet.com
 ||w5wm7.cn^
 ||wabizc.cn^
 ||wagenlux.cn^
+||wangdaguanli.com^
 ||wangjulm.com^
 ||wangkeduo.cn^
 ||wangliqin.top^
