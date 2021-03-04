@@ -3,6 +3,9 @@
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/pull/76413
+! whitelist as click-through
+@@||ac.ebis.ne.jp^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/602
 ! Don't block clicks in AWS emails
 @@||email.awscloud.com^
