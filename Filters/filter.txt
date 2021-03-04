@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-04T12:03:13.507Z
+! Last modified: 2021-03-04T18:02:42.966Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||stampseizeidly.com^
 ||itchimpish.com^
 ||cdnaqw.com^
 ||assignedlikecrawford.com^
@@ -279,9 +280,6 @@
 ||adcryp.to^
 ||bitcointraffic.ltd^
 ||laidauni.com^
-||top-performance.best^
-||anomaloustradingmerciful.com^
-||jeerszitstoke.com^
 ||adsco.re^
 ||xclofrfa.com^
 ||adieusyaktop.com^
@@ -4428,6 +4426,7 @@ vkcdnservice.appspot.com^
 ||anncmq.com^
 ||announcils.club^
 ||announcilsd.info^
+||anomaloustradingmerciful.com^
 ||anotherconsult.com^
 ||anotherederi.site^
 ||anothingahy.club^
@@ -7520,6 +7519,7 @@ vkcdnservice.appspot.com^
 ||jebadu.com^
 ||jechesmacaltont.info^
 ||jeejujou.net^
+||jeerszitstoke.com^
 ||jeinvegpool.com^
 ||jeksffryglas.com^
 ||jelllizard.com^
@@ -10947,6 +10947,7 @@ vkcdnservice.appspot.com^
 ||tonexcitiessa.club^
 ||tonvkjxfovo.com^
 ||toodlepork.com^
+||top-performance.best^
 ||topbetfast.com^
 ||topcpmnetwork.com^
 ||topdisplaycontent.com^
@@ -18728,6 +18729,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||depart.trinitymedia.ai^
+||atrack.avplayer.com^
 ||log.gs3.goo.ne.jp^
 ||static.karte.io^
 ||wonder-ma.com^
@@ -32088,6 +32091,7 @@ adbetnet.com
 !
 ! Eimg.jp
 !
+||seedapp-creative.s3.amazonaws.com^
 ||cro.fi-tsunagu.com^
 ||admane.jp^
 ||smaad.net^
@@ -36899,16 +36903,13 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||0234408.cn^
-||024chaoren.cn^
 ||027whht.com^
 ||0302woeuxcbrnxcvsdfghu.xyz^
 ||0309fuweopermncvbnazdf.xyz^
 ||0316dieroxiemzfjwmapk.xyz^
-||03196688.com^
 ||0323wqpioutyuencsamxsd.xyz^
 ||0330vsdgdwer.xyz^
 ||0413fsiuhwem.xyz^
@@ -36919,7 +36920,7 @@ adbetnet.com
 ||0525pweoruxnj.xyz^
 ||0530hz.cn^
 ||0551zgz.com^
-||0577renliu.
+||0577renliu.net.cn^
 ||0601chruopjsm.xyz^
 ||0615nxbsho.xyz^
 ||0629ohfsx.xyz^
@@ -36931,48 +36932,29 @@ adbetnet.com
 ||0824xfh.xyz^
 ||0851ok.com^
 ||0921vch.xyz^
-||0923csfsteibv12.xyz^
 ||0928vld.xyz^
-||0fwg.cn^
 ||0ij3tm.com^
 ||1005fdh.xyz^
 ||104610.com^
-||1115potmgabfvixqwi.top^
 ||114com.cc^
-||118ex.cn^
 ||1214bdk.xyz^
 ||1221dhb.xyz^
-||125331.top^
-||12gf.gold^
-||12jf3.cn^
-||12rge.xyz^
 ||1314sss.top^
 ||1494.top^
 ||168xiazai.com^
-||16guu.com^
-||17bqg.top^
 ||17ys.top^
-||183pu.cn^
 ||199zw.com^
-||1fv3b.cn^
 ||1pzskg.cn^
 ||1x26q3.cn^
 ||215to.cn^
-||216pu.cn^
-||21xsk.com^
 ||2227q.com^
 ||228pu.cn^
 ||23uuw3.com^
 ||24haitao.net^
 ||256k.xyz^
 ||258580w.cn^
-||27f35.cn^
 ||282l1.cn^
-||2byuf.cn^
-||2fnrc.cn^
-||2fx32.cn^
 ||2gvuukm1lm.com^
-||2hqd0b.cn^
 ||2ktd0.cn^
 ||2l1f.cn^
 ||2q5p.cn^
@@ -36982,10 +36964,8 @@ adbetnet.com
 ||2zm4.cn^
 ||333bj.cloud^
 ||35kds.com^
-||360zuowen.net^
 ||365syt.cn^
 ||365yigou.cn^
-||36ia2.cn^
 ||381s.net^
 ||3hbox.com^
 ||3y0h.cn^
@@ -36993,7 +36973,6 @@ adbetnet.com
 ||40ic.cn^
 ||45le.cn^
 ||45xa.cn^
-||47n209.com^
 ||497761.top^
 ||4ekx.cn^
 ||4excel.cn^
@@ -37008,7 +36987,6 @@ adbetnet.com
 ||51fishplace.com^
 ||51foodsafe.cn^
 ||51gpt.com^
-||51posj.cn^
 ||51showmy.com^
 ||51wxyx.cn^
 ||52homie.cn^
@@ -37020,7 +36998,6 @@ adbetnet.com
 ||597txtt.com^*.php
 ||5dydk.com^
 ||5glyqw.com^
-||5hytr.xyz^
 ||5j73de.cn^
 ||5mbd2.com^
 ||5mgurg.cn^
