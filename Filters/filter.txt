@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-05T00:06:06.496Z
+! Last modified: 2021-03-05T06:02:53.775Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -5591,6 +5591,7 @@ vkcdnservice.appspot.com^
 ||data-data-vac.com^
 ||datedissyuk.icu^
 ||dateregionsmadman.com^
+||dateszone.net^
 ||dating2cloud.org^
 ||daugloon.net^
 ||dauntlessomelette.com^
@@ -34149,7 +34150,6 @@ adbetnet.com
 ||beatriceeatr.com^
 ||bebelait.com^
 ||bedhdig.cn^
-||beizhoujt.cn^
 ||bejzz.top^
 ||bensezhiye.com^
 ||bfgg365.com^
@@ -34516,7 +34516,6 @@ adbetnet.com
 ||gwbangshou.com^
 ||gwylm.com^
 ||gxejgs.com^
-||gxfc2021.top^
 ||gxgzyny.com^
 ||gydag.com^
 ||gzdhzb.com^
@@ -36153,9 +36152,9 @@ adbetnet.com
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||1.07swz.com^
 ||003store.com^
 ||1.01fy.cn^
+||1.07swz.com^
 ||1.1010pic.com^
 ||1.11467.com^
 ||1.15lu.com^
@@ -37212,6 +37211,7 @@ adbetnet.com
 ||bdxnc.com^
 ||bei7.clewx.com^
 ||beifmu.com^
+||beizhoujt.cn^
 ||bentengcn.com^
 ||berfd.xyz^
 ||bfbb.xyz^
@@ -37700,6 +37700,7 @@ adbetnet.com
 ||guvdfs.cn^
 ||guxiaom.cn^
 ||gwdqp.com^
+||gxfc2021.top^
 ||gxklsftz.cn^
 ||gxkyl.com^
 ||gybdtg.com^
