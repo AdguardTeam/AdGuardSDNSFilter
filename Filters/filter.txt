@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-05T18:03:55.154Z
+! Last modified: 2021-03-06T00:05:57.385Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -36165,7 +36165,6 @@ adbetnet.com
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||w.anmeihe.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36773,6 +36772,7 @@ adbetnet.com
 ||vv1.pyhfxdm.cn^
 ||vvv.ieduw.com^
 ||vyule.com^
+||w.anmeihe.cn^
 ||w.xiaopiaoyou.com^
 ||w11.zhongkaohelp.com^
 ||w18.9939.com^
@@ -36909,9 +36909,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||g1psz5.cn^
-||adfangxiang.com^
-||2bssjsq.com^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||0234408.cn^
@@ -36963,6 +36960,7 @@ adbetnet.com
 ||256k.xyz^
 ||258580w.cn^
 ||282l1.cn^
+||2bssjsq.com^
 ||2gvuukm1lm.com^
 ||2ktd0.cn^
 ||2l1f.cn^
@@ -37108,6 +37106,7 @@ adbetnet.com
 ||actingidekex.cn^
 ||adaog.com^
 ||adddyy.com^
+||adfangxiang.com^
 ||adhdsb.cn^
 ||admddc.com^
 ||aduic.com^
@@ -37636,6 +37635,7 @@ adbetnet.com
 ||fyzyf.com^
 ||fzdfwy.com^
 ||g1mm3d.cn^
+||g1psz5.cn^
 ||g3ao2q.cn^
 ||g4rre.xyz^
 ||g8waw1.cn^
