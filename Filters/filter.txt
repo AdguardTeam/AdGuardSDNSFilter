@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-07T00:06:34.558Z
+! Last modified: 2021-03-07T06:02:45.808Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -3670,6 +3670,7 @@ vkcdnservice.appspot.com^
 ||0898hhh.com^
 ||0926a687679d337e9d.com^
 ||0956228a2df97a.com^
+||09cb25a307.com^
 ||0b19222804.com^
 ||0b9d84d93f1b.com^
 ||0ca0c1f060.com^
@@ -3721,6 +3722,7 @@ vkcdnservice.appspot.com^
 ||1bcde.com^
 ||1ccbt.com^
 ||1ced38bdc42b883.com^
+||1d0d0d7a2ee.com^
 ||1e310acae6aee.com^
 ||1ex4oemg99mv.com^
 ||1f10898ba83eab.com^
@@ -7018,6 +7020,7 @@ vkcdnservice.appspot.com^
 ||gxordgtvjr.com^
 ||gxqrjjcsyh.com^
 ||gxymlqcnu.com^
+||gyhtpgzvo.com^
 ||gynvqipvmcv.com^
 ||gyoajmeq.com^
 ||gyvxojjeamipc.com^
@@ -10638,6 +10641,7 @@ vkcdnservice.appspot.com^
 ||sthourselft.top^
 ||stiffenpersevere.com^
 ||stilfb.com^
+||stimtavy.net^
 ||stingjagged.com^
 ||stingygirlieaccompany.com^
 ||stinkcomedian.com^
@@ -12345,6 +12349,7 @@ vkcdnservice.appspot.com^
 ||ytdoajoj.com^
 ||ytqnsqvajzv.com^
 ||yttvnnvklf.com^
+||ytuxrqbxf.com^
 ||ytwisqvoiugzb.com^
 ||ytxuslppbj.com^
 ||yuimtqtp.com^
@@ -12448,6 +12453,7 @@ vkcdnservice.appspot.com^
 ||zdyfbhfmdtpm.com^
 ||zedlowsip.cam^
 ||zeejuthu.com^
+||zeeshith.net^
 ||zeewepie.net^
 ||zekcgykv.com^
 ||zel-zel-fie.com^
@@ -33684,7 +33690,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||gg.miued.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34364,6 +34369,7 @@ adbetnet.com
 ||geiyujieda.com^
 ||geryi.com^
 ||gfd80.com^
+||gg.miued.com^
 ||gg0376.com^
 ||gg570.com^
 ||ggdydz.com^
@@ -36786,11 +36792,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||linkjingkeji.com^
-||anhaochem.com^
-||wzjs1.oss-accelerate.aliyuncs.com^
-||feizailin.com^
-||uu7ey6.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||0234408.cn^
@@ -37041,6 +37042,7 @@ adbetnet.com
 ||amghais.cn^
 ||amghmej.cn^
 ||amghvzn.cn^
+||anhaochem.com^
 ||anmeilai.net^
 ||anweigongsi.com^
 ||anyihuan.com^
@@ -37461,6 +37463,7 @@ adbetnet.com
 ||feifish66.com^
 ||feimotailan.cn^
 ||feipaihehuoren.cn^
+||feizailin.com^
 ||fenbengpan.cn^
 ||fengmishop.cn^
 ||ff01s.cn^
@@ -38002,6 +38005,7 @@ adbetnet.com
 ||lilithgame.info^
 ||lindanmiaoxiang.cn^
 ||linghangshouji.com^
+||linkjingkeji.com^
 ||linwukui.cn^
 ||listenother.com^
 ||liufang1994.top^
@@ -38665,6 +38669,7 @@ adbetnet.com
 ||uqpfh.cn^
 ||urlet.cn^
 ||ut0ej.cn^
+||uu7ey6.cn^
 ||uunewcar.com^
 ||uuopp.com^
 ||uuu88.top^
@@ -38789,6 +38794,7 @@ adbetnet.com
 ||wxvsj.com.cn^
 ||wywna.cn^
 ||wyxcb6.top^
+||wzjs1.oss-accelerate.aliyuncs.com^
 ||wzxw7.com^
 ||x81zw.com^*.gif
 ||xabtx.com^
