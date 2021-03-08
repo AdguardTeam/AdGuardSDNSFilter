@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-08T12:03:23.338Z
+! Last modified: 2021-03-08T18:05:02.218Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||shrillbighearted.com^
+||cpm.media^
+||displayformatcontent.com^
 ||ad.chandrabindu.net^
 ||oupaumul.net^
 ||wolaufie.com^
@@ -5154,6 +5157,7 @@ vkcdnservice.appspot.com^
 ||cattishfirearm.com^
 ||cattleredduh.com^
 ||catwrite.com^
+||caustouy.net^
 ||cauthuny.net^
 ||cawbarthe.com^
 ||cb3fzwkkt6yxt.xyz^
@@ -5408,6 +5412,7 @@ vkcdnservice.appspot.com^
 ||composedwatchman.com^
 ||comwgi.com^
 ||concentleconse.site^
+||concentrationminefield.com^
 ||concentual.club^
 ||concertainwqa.club^
 ||concesspon.top^
@@ -6967,6 +6972,7 @@ vkcdnservice.appspot.com^
 ||greedrum.net^
 ||greedysafely.com^
 ||greemeek.net^
+||greeptax.com^
 ||greetingscompassbough.com^
 ||greetpanda.org^
 ||grementessenti.info^
@@ -7926,6 +7932,7 @@ vkcdnservice.appspot.com^
 ||lauhoosh.net^
 ||lauk.icu^
 ||lauwhada.com^
+||lawiersenadrey.webcam^
 ||laygunwow.com^
 ||layoutovuleads.casa^
 ||layouttransparent.com^
@@ -10990,6 +10997,7 @@ vkcdnservice.appspot.com^
 ||tnbyhwawsh.com^
 ||tncexvzu.com^
 ||tncred.com^
+||tnzjsphdird.com^
 ||toapsira.net^
 ||tockhsfluqjniu.com^
 ||toeschistache.com^
@@ -11512,6 +11520,7 @@ vkcdnservice.appspot.com^
 ||visitimportantly.com^
 ||visitsfunk.com^
 ||visitstrack.com^
+||vistoolr.net^
 ||vitaminhen.com^
 ||vitoryjober.club^
 ||viunypnvhcw.com^
@@ -11835,6 +11844,7 @@ vkcdnservice.appspot.com^
 ||wjpaspdktadog.com^
 ||wjuowevxibmg.com^
 ||wjwontqlqchq.com^
+||wkcuhilbg.com^
 ||wkll7glfazgp.com^
 ||wkloqctyiyow.com^
 ||wkosrsfybeq.com^
@@ -13452,6 +13462,7 @@ vkcdnservice.appspot.com^
 ||allyes.com^
 ||alphabird.com^
 ||alphagodaddy.com^
+||alphonso.tv^
 ||alternads.info^
 ||alternativeadverts.com^
 ||altitude-arena.com^
@@ -18790,6 +18801,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||smart-bdash.com^
 ||analytics.contents.by-fw.jp^
 ||appier.net^
 ||depart.trinitymedia.ai^
@@ -26413,6 +26425,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.fccinteractive.com^
 ||tracking.fits.me^
 ||tracking.godatafeed.com^
+||tracking.hivecloud.net^
 ||tracking.html5games.com^
 ||tracking.interweave.com^
 ||tracking.jotform.com^
@@ -33712,6 +33725,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||huataisangao.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35454,8 +35468,6 @@ adbetnet.com
 ||btn.onlylady.com^
 ||btn.pchome.net^
 ||business.92wy.com^
-||by8974.com^
-||bzfl-1.cc^*.gif
 ||c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com^
 ||cacafly.net^
 ||cachead.com^*.js
@@ -36476,6 +36488,11 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||fuchuqu.cn^
+||xiaokeaiapp.com^
+||p0pm5z.cn^
+||dedayuntong.com^
+||cw49z0.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
