@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-08T06:02:55.835Z
+! Last modified: 2021-03-08T12:03:23.338Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||ad.chandrabindu.net^
+||oupaumul.net^
+||wolaufie.com^
 ||adxxx.com^
 ||soysapslad.com^
 ||shareste.top^
@@ -25341,7 +25344,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||uuxnwoevyb.com^
 ||v12group.com^
 ||va-endpoint.com^
-||vee24.com^
 ||veille-referencement.com^
 ||vercel-analytics.com^
 ||vercel-insights.com^
@@ -35367,7 +35369,6 @@ adbetnet.com
 ||31vcd.com^*.js
 ||3337723.com^
 ||3337738.com^
-||360safego.com^
 ||5y9nfpes.52pk.com^
 ||6080yy.net^*0x
 ||61.164.108.184^*.gif
@@ -35393,7 +35394,6 @@ adbetnet.com
 ||abc.hkepc.net^
 ||abminbuy.com^*.gif
 ||acodes.b2b.cn^
-||acv5e.cn^
 ||ad-api.cnblogs.com^
 ||ad-img.diyidan.net^
 ||ad.52av.one^
@@ -35591,7 +35591,6 @@ adbetnet.com
 ||libfre.obs.cn-east-3.myhuaweicloud.com^
 ||ll.gxsky.com^
 ||longdidi.top^*.js
-||luolidashu.xyz^*.gif
 ||lxting.com^
 ||lyd.com.cn^*950-90.
 ||m.aty.sohu.com^
@@ -35684,7 +35683,6 @@ adbetnet.com
 ||wew.dushiwenxue.net^
 ||wowad.wow-classic.com^
 ||wuyulou.com^*.php
-||www1.wi.to^*.gif
 ||xc.macd.cn^
 ||xc.mydrivers.com^
 ||xdyjt.com^
@@ -35692,7 +35690,6 @@ adbetnet.com
 ||xntk.net^*.html
 ||xs.houyi.baofeng.net^
 ||ya*.dwstatic.com^
-||yktang8.com^*.gif
 ||yktj.yzz.cn^
 ||yt-adp.nosdn.127.net^
 ||yt-adp.ws.126.net^
