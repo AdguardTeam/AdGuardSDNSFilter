@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-10T06:02:46.215Z
+! Last modified: 2021-03-10T10:32:52.395Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||hufwitew.com^
+||pdxgfnnoan.com^
 ||duamilsyr.com^
 ||elathalobolo.com^
 ||bayirksrap.com^
@@ -10002,6 +10004,7 @@ vkcdnservice.appspot.com^
 ||retirementlash.com^
 ||returnessety.site^
 ||reurbanisant.xyz^
+||revampcdn.com^
 ||revbigo.com^
 ||revenuecpmnetwork.com^
 ||revenueenslave.com^
@@ -17811,7 +17814,6 @@ vkcdnservice.appspot.com^
 ||indieclick.3janecdn.com^
 ||inline.playbryte.com^
 ||intermrkts.vo.llnwd.net^
-||justanswer.com^
 ||karma.mdpcdn.com^
 ||kbnetworkz.s3.amazonaws.com^
 ||leaddyno-client-images.s3.amazonaws.com^
@@ -21728,6 +21730,7 @@ vkcdnservice.appspot.com^
 ! Admiral domains
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
+||bawdybalance.com^
 ||unwieldyhealth.com^
 ||boilingcredit.com^
 ||wearbasin.com^
@@ -27430,6 +27433,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||hjjevg.com^
 ||gvfror.com^
 ||badumtsium.com^
 ||gamerickius.com^
