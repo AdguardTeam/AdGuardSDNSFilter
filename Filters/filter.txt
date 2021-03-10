@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-10T12:03:28.234Z
+! Last modified: 2021-03-10T18:04:51.227Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,14 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||lubowitz.biz^
+||pedestrianneighbourly.com^
+||thugitori.pro^
+||grainstucked.com^
+||blogads*.blogspot.com^
+||keydawnawe.com^
+||demurcobsoho.com^
+||fuqypaqu.xyz^
 ||hufwitew.com^
 ||pdxgfnnoan.com^
 ||duamilsyr.com^
@@ -297,7 +305,6 @@
 ||hosupshunk.com^
 ||download-file.ml^
 ||blastcahs.com^
-||deligrassdull.com^
 ||hubzozo.com^
 ||volthamfondue.com^
 ||pailridarm.com^
@@ -1455,7 +1462,6 @@
 ||wexevoom.net^
 ||gleechie.net^
 ||ad.1serve-sys.com^
-||qwerty24.net^
 ||adtrue24.com^
 ||paddsup.com^
 ||b-m.xyz^
@@ -3226,6 +3232,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||yotta.scrolller.com^
 ||tontent.povwideo.me^
 ||ad.holmesmind.com^
 ||j83ad.speedrun.com^
@@ -5692,6 +5699,7 @@ vkcdnservice.appspot.com^
 ||delayedtemporarilybakery.com^
 ||deliberateporridge.com^
 ||delightfulold.com^
+||deligrassdull.com^
 ||deline-sunction.com^
 ||deliverymodo.com^
 ||deloplen.com^
@@ -6379,6 +6387,7 @@ vkcdnservice.appspot.com^
 ||expresentc.top^
 ||expsevdkqyr.com^
 ||exrtbsrv.com^
+||extraordinarygeorgianaanomalous.com^
 ||extrementtgfa.site^
 ||extyoasigus.com^
 ||exualpaignp.info^
@@ -11093,6 +11102,7 @@ vkcdnservice.appspot.com^
 ||trclfonj.com^
 ||treammicr.club^
 ||treaturesfg.club^
+||trejar.com^
 ||trellian.com^
 ||tremblingkeyboardassistant.com^
 ||tremembersy.site^
@@ -18812,6 +18822,9 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||aff.trackinglibrary.prodperfect.com^
+||stat.ustore.bz^
+||logbor.com^
 ||click-plus.net^
 ||smart-bdash.com^
 ||analytics.contents.by-fw.jp^
@@ -22794,6 +22807,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||uep.gaijin.net^
 ||event.impression-neo.naver.com^
 ||er.search.naver.com^
 ||s.search.naver.com^
@@ -22919,7 +22933,6 @@ t.yesware.com
 ||analytics.callbell.eu^
 ||analytics.zeekit.co^
 ||track.lexico.com^
-||stat.ustore.bz^
 ||d3eyd961wi10bl.cloudfront.net^
 ||d1daeonbqcq0oh.cloudfront.net^
 ||analytics.plex.tv^
@@ -25043,7 +25056,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||livesession.io^
 ||livetrafficfeed.com^
 ||locotrack.net^
-||logbor.com^
 ||loginhood.io^
 ||logmatic.io^
 ||logrocket.com^
@@ -27436,6 +27448,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||bvl5bziz9d.ru^
+||tcamav.com^
+||ohgskf.com^
+||dbcwetd5akfpstw.ru^
+||sdfbfaa.pro^
 ||eldos.xyz^
 ||hjjevg.com^
 ||gvfror.com^
@@ -27626,7 +27643,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rkft2sdl8b.ru^
 ||bimsld.com^
 ||piddwwf.pro^
-||lubowitz.biz^
 ||cnfgggj.info^
 ||qfhmhhj.info^
 ||tarnifotum.com^
@@ -33749,6 +33765,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||lhy1.xyz^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -36449,13 +36466,10 @@ adbetnet.com
 ||dsgy521.com^
 ||enyayinxiang.com^
 ||etg98.com^
-||fenvm.com^
-||fm6w.com^
 ||front99.com^
 ||fuyigo.top^
 ||gogolm.xyz^
 ||gotourls.bid^
-||gzmsm.cn^
 ||h01ce.cn^
 ||hdjxmf.com^
 ||henanfs.com^
@@ -36505,7 +36519,6 @@ adbetnet.com
 ||yuxiangrc.com^
 ||yzjlsb.com^
 ||zgdmsj.cn^
-||zrwhartongroup.com^
 ||ggtg8.com^
 ||liyueao.top^
 ||lpsgc.cn^
@@ -36514,6 +36527,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||yhdtns.com^
 ||fashionabacus.com^
 ||leixigroup.com^
 ||kddlearn.cn^
