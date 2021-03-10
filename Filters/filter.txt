@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-10T10:34:47.776Z
+! Last modified: 2021-03-10T12:03:28.234Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -3409,7 +3409,6 @@ www.llllllllllll.net^
 ||gjc.gjirafa.com^
 ! https://forum.adguard.com/index.php?threads/elkooora-live.39063
 ||caiteesh.net^
-||embed.dugout.com^
 ||code.ainsyndication.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/54572
 ||ads1-adselo.com^
@@ -22795,6 +22794,9 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||event.impression-neo.naver.com^
+||er.search.naver.com^
+||s.search.naver.com^
 ||log.tf.co.kr^
 ||log.zdnet.co.kr^
 ||weblog.zdnet.co.kr^
@@ -26273,6 +26275,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rum.conde.io^
 ||rum.minutemediaservices.com^
 ||rum.nccgroup-webperf.com^
+||rum.perfops.net^
 ||rum.uptime.com^
 ||s.clickability.com^
 ||s.clickiocdn.com^
@@ -27433,6 +27436,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||eldos.xyz^
 ||hjjevg.com^
 ||gvfror.com^
 ||badumtsium.com^
@@ -36510,6 +36514,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||fashionabacus.com^
+||leixigroup.com^
 ||kddlearn.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
