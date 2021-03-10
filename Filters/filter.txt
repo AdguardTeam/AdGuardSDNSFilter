@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-09T18:16:56.512Z
+! Last modified: 2021-03-10T00:06:15.666Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||duamilsyr.com^
 ||elathalobolo.com^
 ||bayirksrap.com^
 ||web-redirecting.com^
@@ -22791,6 +22792,10 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||log.tf.co.kr^
+||log.zdnet.co.kr^
+||weblog.zdnet.co.kr^
+||logger.tvchosun.com^
 ||log.ttbc-hcm.gov.vn^
 ||eventapi.afreecatv.com^
 ||stat.nate.com^
@@ -27425,6 +27430,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||gvfror.com^
 ||badumtsium.com^
 ||gamerickius.com^
 ||advertiseru.net^
@@ -33273,7 +33279,6 @@ adbetnet.com
 ||demopage.me^
 ||deqik.com^
 ||dt.vnecdn.com^
-||duamilsyr.com^
 ||ff.imacdn.com^
 ||financial-agent.headlines.pw^
 ||fptad.com^
@@ -33735,8 +33740,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||miaolejieshui.cn^
-||huataisangao.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34422,6 +34425,7 @@ adbetnet.com
 ||huaerduo.com^
 ||huapuzs.com^
 ||huashengtai.net^
+||huataisangao.cn^
 ||huichenbz.com^
 ||huigun.top^
 ||huimee.net^
@@ -34666,6 +34670,7 @@ adbetnet.com
 ||metmt.com^
 ||metro114.com^
 ||mgtv-bbqn.oss-cn-beijing.aliyuncs.com^
+||miaolejieshui.cn^
 ||mieyisi.com^
 ||mindopu.com^
 ||mingboxieye.com^
@@ -35422,6 +35427,7 @@ adbetnet.com
 ||ad-img.diyidan.net^
 ||ad.52av.one^
 ||ad.bobi.tw^
+||ad.byfuh.com^
 ||ad.ccement.com^
 ||ad.cdnjm.cn^
 ||ad.walkgame.com^
@@ -35722,7 +35728,6 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||ad.byfuh.com^
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -36499,11 +36504,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||fuchuqu.cn^
-||xiaokeaiapp.com^
-||p0pm5z.cn^
-||dedayuntong.com^
-||cw49z0.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
@@ -36913,6 +36913,7 @@ adbetnet.com
 ||cshwhy.cn^
 ||cssjs.info^
 ||cuoss.com^
+||cw49z0.cn^
 ||cxb4.cn^
 ||cxcxt.com^
 ||cxmob.net^
@@ -36948,6 +36949,7 @@ adbetnet.com
 ||ddskyuu.com^
 ||ddyingyan.com^
 ||ddzeg.com^
+||dedayuntong.com^
 ||dehuaguanyin.com^
 ||deskt.cn^
 ||deyidesign.com^
@@ -37065,6 +37067,7 @@ adbetnet.com
 ||fstaw.com^
 ||fszhxd.com^
 ||ftslkw.cn^
+||fuchuqu.cn^
 ||fuhaimuye.cn^
 ||fuligrs.cn^
 ||futengbao.com.cn^
@@ -37626,6 +37629,7 @@ adbetnet.com
 ||oycslia.xyz^
 ||oycslib.xyz^
 ||oycslic.xyz^
+||p0pm5z.cn^
 ||panwenjun.top^
 ||pbtxt.win^
 ||pbvxtgn.cn^
@@ -38055,6 +38059,7 @@ adbetnet.com
 ||xiangyuym.cn^
 ||xiaobingmai.cn^
 ||xiaogouzhuanqian.cn^
+||xiaokeaiapp.com^
 ||xieyanmin.com.cn^
 ||xindelin.cn^
 ||xinghao89.com^
