@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-11T06:02:58.466Z
+! Last modified: 2021-03-11T12:03:25.193Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||boostcpm.su^
+||ograuwih.com^
+||servboost.tech^
+||traistecbole.com^
 ||lubowitz.biz^
 ||pedestrianneighbourly.com^
 ||thugitori.pro^
@@ -9024,7 +9028,6 @@ vkcdnservice.appspot.com^
 ||ogicatius.com^
 ||ogleslimeexecs.casa^
 ||ognybevu.com^
-||ograuwih.com^
 ||ogskle.com^
 ||ogweswpvzuz.com^
 ||ogysevery.site^
@@ -18855,6 +18858,9 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||c.dpgmedia.net^
+||brandmetrics.com^
+||adgainersolutions.com^
 ||aff.trackinglibrary.prodperfect.com^
 ||stat.ustore.bz^
 ||logbor.com^
@@ -24720,6 +24726,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||g6734867390.co^
 ||g6932951725.co^
 ||g7131036060.co^
+||g7329120395.co^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
 ||sbgsodufuosmmvsdf.info^
@@ -26074,7 +26081,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||data.queryly.com^
 ||data.studybreakmedia.com^
 ||data.woosmap.com^
-||datacollect*.abtasty.com^
 ||datadog-service.mvfglobal.com^
 ||dc8na2hxrj29i.cloudfront.net^
 ||deepknow.egoid.me^
@@ -26321,6 +26327,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rum.nccgroup-webperf.com^
 ||rum.perfops.net^
 ||rum.uptime.com^
+||rum.vhwrz.net^
 ||s.clickability.com^
 ||s.clickiocdn.com^
 ||s3-tracking.synthasite.net.s3.amazonaws.com^
@@ -26969,7 +26976,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Swedish
 ||adten.eu^
 ||adtr.io^
-||brandmetrics.com^
 ||citypaketet.se^
 ||cssrvsync.com^
 ||lwadm.com^
@@ -27321,8 +27327,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||datanoticias.prisasd.com^
 ||g-stats.openhost.es^
 ||hits.eluniversal.com.mx^
+||mtm.qdqmedia.com^
 ||pixel.zumby.io^
 ||stats.bitban.com^
+||stats.qdq.com^
 ||stats.sec.telefonica.com^
 ||tag.shopping-feed.com^
 ||tracking.smartmeapp.com^
@@ -32071,6 +32079,7 @@ adbetnet.com
 !
 ! Eimg.jp
 !
+||ads.pipaffiliates.com^
 ||lamp-shade.net^
 ||neofield.click^
 ||r-ad.ne.jp^
@@ -33026,9 +33035,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Mar 2021 21:47 UTC+7
-! Version: 2103072147
-! Blocked: 806 rules
+! Last modified: 11 Mar 2021 14:10 UTC+7
+! Version: 2103111410
+! Blocked: 809 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33140,7 +33149,6 @@ adbetnet.com
 ||pushdy.com^
 ||pushdy.vn^
 ||pushtimize.com^
-||px.za.zalo.me^
 ||px.za.zaloapp.com^
 ||qc-static.coccoc.com^
 ||qc.coccoc.com^
@@ -33185,6 +33193,7 @@ adbetnet.com
 ||yeah1media.vn^
 ||yeah1publishing.com^
 ||younetmedia.com^
+||za.zalo.me^
 ||zalo-ads-240-td.zadn.vn^
 ||zalo-ads-240.zadn.vn^
 ||zalo-ads-480-td.zadn.vn^
@@ -33445,6 +33454,7 @@ adbetnet.com
 ||counter.ntdvn.com^
 ||crm.bizfly.vn^
 ||crmbizfly.todo.vn^
+||elink.nhanlucnganhluat.vn^
 ||elogs.vnexpress.net^
 ||event.headlines.pw^
 ||event.vntoday.news^
@@ -33548,11 +33558,13 @@ adbetnet.com
 ||stats.vietnammoi.vn^
 ||stracking.zalopay.vn^
 ||sv-api-event.headlines.pw^
+||ta.toprework.vn^
 ||thongke.24h.com.vn^
 ||thongke.baotintuc.vn^
 ||thongke.opencps.vn^
 ||thongke99.baogiaothong.vn^
 ||tka.tiki.vn^
+||tr.topdevvn.com^
 ||track-srv.vietnamnet.vn^
 ||track.icheck.com.vn^
 ||track.kyna.vn^
@@ -33797,6 +33809,8 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||3336673.com^
+||3338877.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
