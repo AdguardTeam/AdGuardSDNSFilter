@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-10T18:04:51.227Z
+! Last modified: 2021-03-11T00:06:17.758Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -3682,6 +3682,7 @@ vkcdnservice.appspot.com^
 ||01dbf3a452b6.com^
 ||02aa19117f396e9.com^
 ||02b5da94a2bd4aea.com^
+||0318766b49c3.com^
 ||039ad0897e6da.com^
 ||048d36793b8.com^
 ||050y9lhe8p.com^
@@ -3816,6 +3817,7 @@ vkcdnservice.appspot.com^
 ||32a79e2833309ebe.com^
 ||3381e74f70adfb59.com^
 ||33ae985c0ea917.com^
+||33d249c809e.com^
 ||340ca72733c9e46fb1.com^
 ||341073be6e9db7d2.com^
 ||34baedd2d0b9.com^
@@ -3895,6 +3897,7 @@ vkcdnservice.appspot.com^
 ||50trk.com^
 ||51189fb815.com^
 ||517pn6he9p5r.com^
+||52ddc254575a.com^
 ||538b5d8f303be.com^
 ||54ca10abaa788.com^
 ||550b3ikb9j.com^
@@ -3964,6 +3967,7 @@ vkcdnservice.appspot.com^
 ||6b4bcc240ad94.com^
 ||6b5c418918ebb008cc6.com^
 ||6bgaput9ullc.com^
+||6e2d970a9d2.com^
 ||6e2f1d2ae033.com^
 ||6ea56485aed0c.com^
 ||6ed0a6630b.com^
@@ -4087,6 +4091,7 @@ vkcdnservice.appspot.com^
 ||931b4fb4be61b.com^
 ||9376ec23d50b1.com^
 ||93aihbjs7bv4.com^
+||9417d9ec15.com^
 ||944e66f8683ac43c.com^
 ||956b2fb847d.com^
 ||967rett6fzaf.com^
@@ -4773,6 +4778,8 @@ vkcdnservice.appspot.com^
 ||banstockseldest.com^
 ||baptismwitnesseddisobedience.com^
 ||baqcpdctexlwgp.com^
+||barefootedenvy.com^
+||barefoottearworthy.com^
 ||bargainingpeacock.com^
 ||bargainingrip.com^
 ||bargaret.club^
@@ -5871,6 +5878,7 @@ vkcdnservice.appspot.com^
 ||dolsoste.com^
 ||dombnrs.com^
 ||domicileperil.com^
+||dominantscriptdefinitely.com^
 ||domisesvivin.info^
 ||domnlk.com^
 ||domparce.pro^
@@ -6916,6 +6924,7 @@ vkcdnservice.appspot.com^
 ||gludraus.com^
 ||glumpaul.net^
 ||gluokdhafryxtw.com^
+||gluwhoas.com^
 ||glygrebedu.pro^
 ||gmdsyfvwmqitz.com^
 ||gnamwmixa.com^
@@ -7786,6 +7795,7 @@ vkcdnservice.appspot.com^
 ||kigarettywurz.club^
 ||kikoucuy.net^
 ||killerjuke.xyz^
+||killerparadehay.com^
 ||kindsworthmp.club^
 ||kindznnd998.xyz^
 ||kingicking.club^
@@ -8121,6 +8131,7 @@ vkcdnservice.appspot.com^
 ||loddawqst.com^
 ||lodder6.biz^
 ||loftygreater.com^
+||logsobtainedprediction.com^
 ||loktrk.com^
 ||lologhfd.com^
 ||lolsefti.com^
@@ -8191,6 +8202,7 @@ vkcdnservice.appspot.com^
 ||lvoojxblukb.com^
 ||lvqnychauf.com^
 ||lvrvufurxhgp.com^
+||lvyabgbohlv.com^
 ||lwhitectionphy.club^
 ||lwprdsbqpej.com^
 ||lxhkqjqpswhg.com^
@@ -8868,6 +8880,7 @@ vkcdnservice.appspot.com^
 ||nsofasstroy.info^
 ||nsoncandred.site^
 ||nsonoursewit.fun^
+||nsparket.top^
 ||nsserviewssti.club^
 ||nstructhow.top^
 ||ntadnddfgogpse.com^
@@ -10042,6 +10055,7 @@ vkcdnservice.appspot.com^
 ||rhxdsplm.com^
 ||riahungardedig.info^
 ||rialmainedb.space^
+||ribbonhappenedmountain.com^
 ||ribbumuse.com^
 ||ribstygzuiz.com^
 ||ribtopmop.com^
@@ -10687,6 +10701,7 @@ vkcdnservice.appspot.com^
 ||stonseeb.net^
 ||stooptobacco.com^
 ||stopheritp.club^
+||stoppageacceptedgross.com^
 ||stoppery.club^
 ||stopstopone.today^
 ||storeacdn.com^
@@ -12223,6 +12238,7 @@ vkcdnservice.appspot.com^
 ||yanderthundr.fun^
 ||yankszapfop.com^
 ||yanskweqyuma.com^
+||yapgrubupper.com^
 ||yapparenalu.info^
 ||yasmwesikz.com^
 ||yassociallya.club^
@@ -33765,7 +33781,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||lhy1.xyz^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34637,6 +34652,7 @@ adbetnet.com
 ||lhafy.com^
 ||lhengilin.com^
 ||lhusy.com^
+||lhy1.xyz^
 ||liangziweixg.com^
 ||liaoren85.com^
 ||lico-ys.com^
@@ -35786,7 +35802,6 @@ adbetnet.com
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||p.junshifuxin.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36308,6 +36323,7 @@ adbetnet.com
 ||okkkk.com^
 ||owusxlr.cn^
 ||p.junshi881.com^
+||p.junshifuxin.com^
 ||p1.chinakaoyan.com^
 ||p1.zhongyoo.com^
 ||p1.zhumengwl.com^
@@ -36527,10 +36543,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||yhdtns.com^
-||fashionabacus.com^
-||leixigroup.com^
-||kddlearn.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
@@ -37051,6 +37063,7 @@ adbetnet.com
 ||fangjslc.com^
 ||fanglinwang.cn^
 ||fangzhixinxi.cn^
+||fashionabacus.com^
 ||fbguxd.cn^
 ||fcgcjw.cn^
 ||fchio.com^
@@ -37426,6 +37439,7 @@ adbetnet.com
 ||kanjiaqun.cn^
 ||kantv.pub^
 ||kbstyn.com^
+||kddlearn.cn^
 ||keilb.xyz^
 ||keran.hl.cn^
 ||ketaoke.com^
@@ -37462,6 +37476,7 @@ adbetnet.com
 ||lchar.com^
 ||lcrmm.top^
 ||legozu.com^
+||leixigroup.com^
 ||lejuyoujia2019.com^
 ||lemaite.cn^
 ||lepaidaren.com^
@@ -38164,6 +38179,7 @@ adbetnet.com
 ||ygblogtag.cn^
 ||ygiqfnn.cn^
 ||ygnoqu.cn^
+||yhdtns.com^
 ||yicuntian.cn^
 ||yidiansurong.com^
 ||yierheng.top^
