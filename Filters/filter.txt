@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-12T06:03:06.281Z
+! Last modified: 2021-03-12T12:03:24.880Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -22919,7 +22919,6 @@ t.yesware.com
 ||estat.zum.com^
 ||statweb.egloos.com^
 ||analytics.tio.ch^
-||d335luupugsy2.cloudfront.net^
 ||d1gwclp1pmzk26.cloudfront.net^
 ||tracking.bonnier.news^
 ||jtp.expressen.se^
@@ -26182,6 +26181,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||glbdns.microsoft.com^
 ||go.optifuze.com^
 ||go.pardot.com^
+||go.techtarget.com^
 ||go.toutapp.com^
 ||green-griffin-860.appspot.com^
 ||gsp1.baidu.com^
@@ -27276,6 +27276,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top.dkd.lt^
 ! Norwegian
 ||engage-cdn.schibsted.media^
+||log.medietall.no^
 ||webhit.snd.no^
 ! Persian
 ||analytics.aasaam.com^
@@ -33049,9 +33050,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Mar 2021 09:24 UTC+7
-! Version: 2103120924
-! Blocked: 809 rules
+! Last modified: 12 Mar 2021 14:02 UTC+7
+! Version: 2103121402
+! Blocked: 810 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33810,6 +33811,7 @@ adbetnet.com
 ||bloodleian.club^
 ||celerantatters.com^
 ||hashearog.com^
+||i-vietcombank.com^
 ||larpollicwilli.club^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
@@ -36553,6 +36555,10 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||3yai2u.cn^
+||chuangjulm.cn^
+||coroplastsheet.cn^
+||kuzexinxi.com^
 ||2gz9nc.cn^
 ||youpukeji.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
