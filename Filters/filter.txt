@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-12T12:03:24.880Z
+! Last modified: 2021-03-12T18:05:09.331Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -6222,6 +6222,7 @@ vkcdnservice.appspot.com^
 ||enerableoffi.club^
 ||enfvikirzwt.com^
 ||engaedo8.com^
+||enginedriverflexible.com^
 ||engingalon.top^
 ||englingedrxa.club^
 ||engppdoqrtivjd.com^
@@ -7487,6 +7488,7 @@ vkcdnservice.appspot.com^
 ||insomn.pro^
 ||instahookupclub2.com^
 ||instahookupclub3.com^
+||installationtray.com^
 ||installsbarefootedringer.com^
 ||installssmashedbab.com^
 ||instantresp.com^
@@ -8268,6 +8270,7 @@ vkcdnservice.appspot.com^
 ||maintawrte.club^
 ||maipoted.com^
 ||makeupworddisparage.com^
+||makzidhq.com^
 ||malharpossible.pro^
 ||malharvoice.pro^
 ||mallowsmother.com^
@@ -8348,6 +8351,7 @@ vkcdnservice.appspot.com^
 ||mduinqxgi.com^
 ||mdwvwbyvqh.com^
 ||meajnbdavp.com^
+||mealparameter.com^
 ||meantlick.com^
 ||meawuerhvjmty.com^
 ||mechanicsearnestobjections.com^
@@ -8546,6 +8550,7 @@ vkcdnservice.appspot.com^
 ||mortionalgo.site^
 ||mosdqxsgjhes.com^
 ||mosslagoonbookcase.com^
+||mossyitalian.com^
 ||motheregarded.info^
 ||motherehoom.pro^
 ||motherhoodenhanced.com^
@@ -17710,6 +17715,7 @@ vkcdnservice.appspot.com^
 ||bc.coupons.com^
 ||beta.down2crazy.com^
 ||betting.betfair.com^
+||bids.concert.io^
 ||bl.wavecdn.de^
 ||blamads-assets.s3.amazonaws.com^
 ||bliss-systems-api.co.uk^
@@ -18887,6 +18893,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||tracdelight.io^
 ||goatcounter.com^
 ||gc.zgo.at^
 ||fryvzw.com^
@@ -25994,6 +26001,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||carl.pubsvs.com^
 ||caspionlog.appspot.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
+||cdn-channels-pixel.ex.co^
 ||cdn.trafficexchangelist.com^
 ||cf.overblog.com^
 ||cgicounter.oneandone.co.uk^
@@ -26666,7 +26674,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stetic.com^
 ||toplist100.org^
 ||tracdelight.com^
-||tracdelight.io^
 ||trackboxx.info^
 ||trbo.com^
 ||txt.eu^
@@ -27503,6 +27510,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||amads.xyz^
+||leadgidads.ru^
 ||vioturallis.com^
 ||bvl5bziz9d.ru^
 ||tcamav.com^
@@ -32338,6 +32347,8 @@ adbetnet.com
 !
 ! Section contains list of advertising networks
 !
+||wap.hfoyjg.cn^
+||adserve.work^
 ||acgshenshicha.cn^
 ||cdn.upthinking.cn^
 ||quxiangkeji.cn^
@@ -33050,9 +33061,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Mar 2021 14:02 UTC+7
-! Version: 2103121402
-! Blocked: 810 rules
+! Last modified: 12 Mar 2021 20:30 UTC+7
+! Version: 2103122030
+! Blocked: 811 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33089,6 +33100,7 @@ adbetnet.com
 ||adx.vn^
 ||ambient-platform.com^
 ||ambientdsp.com^
+||analytics.zapps.vn^
 ||anthill.vn^
 ||ants.vn^
 ||atdnetwork.com^
@@ -36556,7 +36568,9 @@ adbetnet.com
 ||stunninglover.com^
 ||watakaw133.xyz^
 ||3yai2u.cn^
+||gycy2.com^
 ||chuangjulm.cn^
+||dt02kc9.cn^
 ||coroplastsheet.cn^
 ||kuzexinxi.com^
 ||2gz9nc.cn^
