@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-13T12:03:20.849Z
+! Last modified: 2021-03-13T18:04:30.064Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||shindyadmittancemeal.com^
 ||awecre.com^
 ||bhwcfwjz.com^
 ||asuppsttp.com^
@@ -6186,6 +6187,7 @@ vkcdnservice.appspot.com^
 ||eloquencer.com^
 ||elprogresse.top^
 ||elqsjecdav.com^
+||elsetormentshower.com^
 ||elsupposit.club^
 ||elyconsisterj.club^
 ||emagazing.fun^
@@ -32577,7 +32579,6 @@ adbetnet.com
 ||biallo1.de^
 ||biallo2.de^
 ||biallo3.de^
-||big7.com^
 ||bitcoinpara.de^
 ||blogads.de^
 ||bsheute.de^
@@ -33060,9 +33061,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Mar 2021 20:30 UTC+7
-! Version: 2103122030
-! Blocked: 811 rules
+! Last modified: 13 Mar 2021 20:59 UTC+7
+! Version: 2103132059
+! Blocked: 816 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33204,6 +33205,7 @@ adbetnet.com
 ||testcentre.vn^
 ||track.accesstrade.vn^
 ||tracking.api.media.zapps.vn^
+||tracking.banner.g6.zing.vn^
 ||tracking.playzing.g6.zing.vn^
 ||tracking.tv.zing.vn^
 ||trk-pcweb.api.zaloapp.com^
@@ -33288,6 +33290,7 @@ adbetnet.com
 ||ads.netlinkad.vn^
 ||ads.nghenhinvietnam.vn^
 ||ads.nhadatmoi.net^
+||ads.pcccdongduong.vn^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
@@ -33351,6 +33354,7 @@ adbetnet.com
 ||avoadsservices.com^
 ||banhtv.org^
 ||banner.5giay.vn^
+||banner.etargeting.mobifone.vn^
 ||banner.thadaco.vn^
 ||banner.trangvangvietnam.com^
 ||banner.vietnamfinance.vn^
@@ -33597,6 +33601,7 @@ adbetnet.com
 ||track.lapa.pub^
 ||track.pregmomvietnam.com^
 ||track.sendo.vn^
+||track.vio.edu.vn^
 ||tracker.anime47.com^
 ||tracker.bongngo.store^
 ||tracker.fado.vn^
@@ -33702,6 +33707,7 @@ adbetnet.com
 ||ibet889.com^
 ||income88.com^
 ||interwinvn.com^
+||jbo064.com^
 ||jbovn.com^
 ||k8vina17.com^
 ||k8vn03.com^
@@ -36567,6 +36573,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||haomaiweb.com^
 ||xunzhuo123.com^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
