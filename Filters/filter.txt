@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-12T18:05:09.331Z
+! Last modified: 2021-03-13T00:06:11.447Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -33837,9 +33837,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||3336673.com^
-||3338877.com^
-||simaoer.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -33922,10 +33919,12 @@ adbetnet.com
 ||3336653.com^
 ||3336657.com^
 ||3336670.com^
+||3336673.com^
 ||3336691.com^
 ||3337706.com^
 ||3337739.com^
 ||3337781.com^
+||3338877.com^
 ||333dm.com^
 ||338336.com^
 ||3400.org^
@@ -34989,6 +34988,7 @@ adbetnet.com
 ||si9377.com^
 ||sicentlife.com^
 ||sigo99.com^
+||simaoer.com^
 ||sina-img.club^
 ||sinaalicdn.com^
 ||sinawbimg.com^
@@ -35446,7 +35446,6 @@ adbetnet.com
 ||zzwflxs.com^
 ||zzwpsm.cn^
 ||zzyonghao.com^
-||mm786.com^
 ||1024mzs.pw^
 ||1024wanzhai.
 ||133gp.com^
@@ -35466,6 +35465,7 @@ adbetnet.com
 ||ieeod0.com^
 ||jav321.com^
 ||kuheju.com^
+||mm786.com^
 ||p.ynb2dca.com^
 ||qx568.com^
 ||todayapp.tv^
@@ -36567,14 +36567,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||3yai2u.cn^
-||gycy2.com^
-||chuangjulm.cn^
-||dt02kc9.cn^
-||coroplastsheet.cn^
-||kuzexinxi.com^
-||2gz9nc.cn^
-||youpukeji.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
@@ -36626,6 +36618,7 @@ adbetnet.com
 ||282l1.cn^
 ||2bssjsq.com^
 ||2gvuukm1lm.com^
+||2gz9nc.cn^
 ||2ktd0.cn^
 ||2l1f.cn^
 ||2q5p.cn^
@@ -36637,6 +36630,7 @@ adbetnet.com
 ||381s.net^
 ||3hbox.com^
 ||3y0h.cn^
+||3yai2u.cn^
 ||3ye924.cn^
 ||40ic.cn^
 ||45le.cn^
@@ -36936,6 +36930,7 @@ adbetnet.com
 ||chinawms.cn^
 ||chinaxingyin.com^
 ||chinayutai.cn^
+||chuangjulm.cn^
 ||chuzrra.cn^
 ||cifree.xyz^
 ||cike666.com^
@@ -36971,6 +36966,7 @@ adbetnet.com
 ||continuefaf.top^
 ||cooltool.cc^
 ||cornplus.cn^
+||coroplastsheet.cn^
 ||couas.com^
 ||coyvzui.cn^
 ||cpcc.xyz^
@@ -37046,6 +37042,7 @@ adbetnet.com
 ||dsdsds8848.xyz^
 ||dsjre.com^
 ||dssdr.top^
+||dt02kc9.cn^
 ||dtxdwl.cn^
 ||dtzysm.com^
 ||du9zgx.cn^
@@ -37215,6 +37212,7 @@ adbetnet.com
 ||gxklsftz.cn^
 ||gxkyl.com^
 ||gybdtg.com^
+||gycy2.com^
 ||gyeet.com^
 ||gyrtg.com^
 ||gyt168.com.cn^
@@ -37489,6 +37487,7 @@ adbetnet.com
 ||kuaidibox.cn^
 ||kuaipaobiaoju.com^
 ||kunloveyu.cn^
+||kuzexinxi.com^
 ||kxvuv.com^
 ||kypzu.cn^
 ||kyxnz.cn^
@@ -38238,6 +38237,7 @@ adbetnet.com
 ||yoobest.cn^
 ||youkete.cn^
 ||youngalsobeautiful.com^
+||youpukeji.cn^
 ||youshouge513.cn^
 ||youweiprint.com^
 ||yqqlm.vip^
