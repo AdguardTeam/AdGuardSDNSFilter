@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-13T00:06:11.447Z
+! Last modified: 2021-03-13T06:02:53.409Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -32347,7 +32347,6 @@ adbetnet.com
 !
 ! Section contains list of advertising networks
 !
-||wap.hfoyjg.cn^
 ||adserve.work^
 ||acgshenshicha.cn^
 ||cdn.upthinking.cn^
@@ -33837,6 +33836,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||hfoyjg.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
