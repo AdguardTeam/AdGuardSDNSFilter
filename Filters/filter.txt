@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-14T12:03:20.956Z
+! Last modified: 2021-03-14T18:03:21.971Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -4892,6 +4892,7 @@ vkcdnservice.appspot.com^
 ||betahit.click^
 ||betemolgar.com^
 ||betrayedregretdeadline.com^
+||betshucklean.com^
 ||betteradsystem.com^
 ||bettercontentservice.top^
 ||betternoon.club^
@@ -5907,6 +5908,7 @@ vkcdnservice.appspot.com^
 ||dooptoug.net^
 ||doqapnez.com^
 ||dorbanise.pw^
+||dorimnews.com^
 ||dormitysature.info^
 ||dortoolr.com^
 ||dosveggietotem.casa^
@@ -8170,6 +8172,7 @@ vkcdnservice.appspot.com^
 ||lomkgojdoeffl.com^
 ||loobusir.com^
 ||loohiwez.net^
+||lootynews.com^
 ||lopetgohou.cf^
 ||lophaszip.com^
 ||lorassocialgr.club^
@@ -10203,6 +10206,7 @@ vkcdnservice.appspot.com^
 ||rpuuwsjcu.com^
 ||rqbxfbls.com^
 ||rqhere.com^
+||rqusuqakwyejjn.com^
 ||rriedskillear.club^
 ||rrjgenyklff.com^
 ||rrriyoomil.com^
@@ -10256,6 +10260,7 @@ vkcdnservice.appspot.com^
 ||ruwithough.club^
 ||rvbibmaixelnq.com^
 ||rvdiwgntri.com^
+||rvedfxeljxo.com^
 ||rviceschoolr.club^
 ||rvkfiomrjn.com^
 ||rvlzsbmshtt.com^
@@ -10642,6 +10647,7 @@ vkcdnservice.appspot.com^
 ||soza6rsz3ezi.com^
 ||spanhamweb.com^
 ||spankswindlewatchman.com^
+||spareddepressing.com^
 ||sparedshabbylaugh.com^
 ||sparktrailerabonnement.com^
 ||spasbatwit.icu^
@@ -12409,6 +12415,7 @@ vkcdnservice.appspot.com^
 ||yonmzzszhf.com^
 ||yoomanies.com^
 ||yoqpnkhl.com^
+||yourcommonfeed.com^
 ||yourfreshposts.com^
 ||yourwebbars.com^
 ||yowlcapkegs.com^
@@ -33061,8 +33068,8 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Mar 2021 20:59 UTC+7
-! Version: 2103132059
+! Last modified: 14 Mar 2021 20:01 UTC+7
+! Version: 2103142001
 ! Blocked: 816 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -36573,6 +36580,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||h4kdxs.com^
+||xiaoshuoyun.cn^
 ||ir2aok.com^
 ||j5sq8.com^
 ||appstreets.com^
