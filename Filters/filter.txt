@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-15T12:03:14.104Z
+! Last modified: 2021-03-15T18:02:46.450Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||neterou.com^
+||jotpoolwarren.com^
+||fikri-ayo.com^
+||adsyou.pro^
 ||mopemodelingfrown.com^
 ||shindyadmittancemeal.com^
 ||bhwcfwjz.com^
@@ -18904,6 +18908,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||c-rings.net^
 ||t.felmat.net^
 ||k-analytix.com^
 ||i.btg360.com.br^
@@ -24897,7 +24902,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||btloader.com^
 ||buildkiteanalytics.com^
 ||bunchbox.co^
-||c-rings.net^
 ||c212.net^
 ||cactusglobal.io^
 ||callreports.com^
@@ -26169,6 +26173,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||events.realgravity.com^
 ||events.shareably.net^
 ||events.splash-screen.net^
+||events.split.io^
 ||events.tubecup.org^
 ||events.yourcx.io^
 ||eventtracker.videostrip.com^
@@ -26337,6 +26342,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||powersearch.us.com^
 ||pr.blogflux.com^
 ||prd-collector-auth.playbuzz.com^
+||prd-collector-platform.ex.co^
 ||processor.asccommunications.com^
 ||production.mcs.delve.cust.lldns.net^
 ||projop.dnsalias.com^
@@ -32117,6 +32123,8 @@ adbetnet.com
 !
 ! Eimg.jp
 !
+||r-ad.linkshare.jp^
+||townlife-aff.com^
 ||ads.pipaffiliates.com^
 ||lamp-shade.net^
 ||neofield.click^
@@ -36594,6 +36602,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||sw9t.ml^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
