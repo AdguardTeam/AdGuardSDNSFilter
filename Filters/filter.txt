@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-14T18:03:21.971Z
+! Last modified: 2021-03-15T00:08:00.181Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18903,6 +18903,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||k-analytix.com^
+||i.btg360.com.br^
 ||tracdelight.io^
 ||goatcounter.com^
 ||gc.zgo.at^
@@ -25110,7 +25112,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jumplead.com^
 ||jumplead.io^
 ||junta.net^
-||k-analytix.com^
 ||k3node.com^
 ||kameleoon.eu^
 ||kantartns.lt^
@@ -36580,12 +36581,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||h4kdxs.com^
-||xiaoshuoyun.cn^
-||ir2aok.com^
-||j5sq8.com^
-||appstreets.com^
-||houfang8.com^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
@@ -36815,6 +36810,7 @@ adbetnet.com
 ||apjiangte.com^
 ||apmnqut.cn^
 ||applequan.com^
+||appstreets.com^
 ||apxyz.com^
 ||aqvnurq.cn^
 ||archrug.com^
@@ -37244,6 +37240,7 @@ adbetnet.com
 ||gzqswl.cn^
 ||gzrljx.cn^
 ||gzzena.com^
+||h4kdxs.com^
 ||haichengdzsp.com^
 ||haiyinsiwang.com^
 ||hanmiyong.com^
@@ -37316,6 +37313,7 @@ adbetnet.com
 ||hongwenge.com^
 ||hongyangbg.com^
 ||houanjijuxie.cn^
+||houfang8.com^
 ||hp0hnj.cn^
 ||hpsszw.cn^
 ||hsbkr.com^
@@ -37374,6 +37372,7 @@ adbetnet.com
 ||ipchinatelecom.com^
 ||ipdxwtn.cn^
 ||ipqxibd.cn^
+||ir2aok.com^
 ||iruad.com^
 ||isgow.com^
 ||ishowms.com^
@@ -37382,6 +37381,7 @@ adbetnet.com
 ||iyouhu.cn^
 ||izuis.com^
 ||j1ybkf.cn^
+||j5sq8.com^
 ||j9wp6.cn^
 ||jacklm1.com^
 ||jacklm2.com^
@@ -38146,6 +38146,7 @@ adbetnet.com
 ||xiaobingmai.cn^
 ||xiaogouzhuanqian.cn^
 ||xiaokeaiapp.com^
+||xiaoshuoyun.cn^
 ||xieyanmin.com.cn^
 ||xindelin.cn^
 ||xinghao89.com^
