@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-16T12:03:17.784Z
+! Last modified: 2021-03-16T18:04:54.615Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -92,7 +92,6 @@
 ||start3dd0wnload.com^
 ||farteniuson.com^
 ||checkifyouarealive.me^
-||revenuenetworkcpm.com^
 ||cryptoadvertising.net^
 ||oostotsu.com^
 ||tkxiavegstgq.com^
@@ -10089,6 +10088,7 @@ vkcdnservice.appspot.com^
 ||revenuecpmnetwork.com^
 ||revenueenslave.com^
 ||revenuenetwork.com^
+||revenuenetworkcpm.com^
 ||reviourffg.club^
 ||revolutelyplan.info^
 ||revrtb.net^
@@ -35906,7 +35906,6 @@ adbetnet.com
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||dm.sg92.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36237,6 +36236,7 @@ adbetnet.com
 ||dm.pw0.cn^
 ||dm.riji.cn^
 ||dm.sanwen.net^
+||dm.sg92.com^
 ||dm.taobaojuhuasuan.cn^
 ||dm.wenshenxiu.com^
 ||dm.zuowenku.net^
@@ -38275,6 +38275,7 @@ adbetnet.com
 ||yinzantouzi.com^
 ||yiqima.xyz^
 ||yitiaoyu.top^
+||yituo-patibao.cn^
 ||yixiangzhan.cn^
 ||yiyu-fz.cn^
 ||yiyuantian.com^
