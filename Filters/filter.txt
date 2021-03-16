@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-16T06:02:50.483Z
+! Last modified: 2021-03-16T12:03:17.784Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,11 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||icdecidents.biz^
+||hionedaugsbu.info^
+||ompanythats.biz^
+||despicablereporthusband.com^
+||4everfeel.xyz^
 ||aj2178.online^
 ||neterou.com^
 ||jotpoolwarren.com^
@@ -7605,6 +7610,7 @@ vkcdnservice.appspot.com^
 ||jahediretictho.info^
 ||jamcdn.pro^
 ||jamestop.xyz^
+||jamsoulsfriday.com^
 ||jarailso.com^
 ||jarhcvnlj.com^
 ||jarproducercane.com^
@@ -8394,6 +8400,7 @@ vkcdnservice.appspot.com^
 ||mentalbackie.site^
 ||mentalsweatextent.com^
 ||mentcompa.club^
+||mentionedabjection.com^
 ||mentpyjam.fun^
 ||mentredu.top^
 ||mentsundert.club^
@@ -18910,6 +18917,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||tapjoy.com^
+||tapjoy.net^
 ||logger.eigene.io^
 ||receiver.eigene.io^
 ||c-rings.net^
@@ -24741,8 +24750,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||statistics.videofarm.daum.net^
 ||stats.popcap.com^
 ||stats.unity3d.com^
-||tapjoy.com^
-||tapjoy.net^
 ||tknet.rayjump.com^
 ||track.pingstart.com^
 ||tracking.lenzmx.com^
@@ -33085,8 +33092,8 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 16 Mar 2021 10:19 UTC+7
-! Version: 2103161019
+! Last modified: 16 Mar 2021 15:03 UTC+7
+! Version: 2103161503
 ! Blocked: 815 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -35899,6 +35906,7 @@ adbetnet.com
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||dm.sg92.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
