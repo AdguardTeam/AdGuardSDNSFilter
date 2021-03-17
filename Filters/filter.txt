@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-17T00:06:20.911Z
+! Last modified: 2021-03-17T06:03:01.268Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -24995,6 +24995,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||donreach.com^
 ||dotaki.com^
 ||dotjs.com^
+||driv-analytics.com^
 ||dtxngr.com^
 ||durationmedia.net^
 ||dynamicyield.com^
@@ -25386,6 +25387,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||soflopxl.com^
 ||soft-com.biz^
 ||soko.ai^
+||sol-data.com^
 ||solosegment.com^
 ||solutionshindsight.net^
 ||sophi.io^
@@ -33873,6 +33875,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||ysyjg.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35908,6 +35911,7 @@ adbetnet.com
 ||wofjhs.com^
 ||xayah.date^
 ||003store.com^
+||88.yunqishi.net^
 ||1.01fy.cn^
 ||1.07swz.com^
 ||1.1010pic.com^
