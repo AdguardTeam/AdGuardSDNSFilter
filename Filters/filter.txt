@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-17T06:03:01.268Z
+! Last modified: 2021-03-17T12:03:19.494Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||geruksom.net^
+||touphipt.com^
+||kyfunahi.pro^
 ||icdecidents.biz^
 ||hionedaugsbu.info^
 ||ompanythats.biz^
@@ -28,8 +31,13 @@
 ||jotpoolwarren.com^
 ||fikri-ayo.com^
 ||adsyou.pro^
+||seoclerkpro.com^
+||tecnikalsense.com^
+||adhoow.com^
 ||mopemodelingfrown.com^
 ||shindyadmittancemeal.com^
+||chichayen.com^
+||awecre.com^
 ||bhwcfwjz.com^
 ||asuppsttp.com^
 ||searsbushelbus.com^
@@ -3252,6 +3260,8 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||a.dphunters.com^
+||a.streamoupload.com^
 ||tontent.povwideo.me^
 ||ad.holmesmind.com^
 ||j83ad.speedrun.com^
@@ -5629,6 +5639,7 @@ vkcdnservice.appspot.com^
 ||d0efb7d9aeb478d.com^
 ||d194f913ee63.com^
 ||d1c4d437f10.com^
+||d24ak3f2b.top^
 ||d2850fafeb7.com^
 ||d2ab631af57.com^
 ||d2vybwwevieya6j.monster^
@@ -9342,6 +9353,7 @@ vkcdnservice.appspot.com^
 ||pawheatyous.com^
 ||pawnorderpampas.work^
 ||pay2clik.cf^
+||payingnoodlescam.com^
 ||paymentdeceasedcommence.com^
 ||pb5oqguywycj.com^
 ||pbkhlczs.com^
@@ -11884,6 +11896,7 @@ vkcdnservice.appspot.com^
 ||whaudsur.net^
 ||whaustou.net^
 ||whdzxabhqsdnlc.com^
+||wheeptit.net^
 ||wheessoo.com^
 ||whendiscovery.com^
 ||whenedkom.club^
@@ -17667,6 +17680,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
 ||a.livesportmedia.eu^
+||a.speedostream.com^
 ||a.ucoz.net^
 ||a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com^
 ||ad.about.co.kr^
@@ -18917,6 +18931,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||px.za.zaloapp.com^
 ||jg.wensixuetang.com^
 ||tapjoy.com^
 ||tapjoy.net^
@@ -22919,6 +22934,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||log.zingnews.vn^
 ||logcol.kyobobook.co.kr^
 ||uep.gaijin.net^
 ||event.impression-neo.naver.com^
@@ -33095,9 +33111,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 16 Mar 2021 15:03 UTC+7
-! Version: 2103161503
-! Blocked: 815 rules
+! Last modified: 17 Mar 2021 14:22 UTC+7
+! Version: 2103171422
+! Blocked: 816 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33145,6 +33161,7 @@ adbetnet.com
 ||cdn-qc.coccoc.com^
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
+||cdp.asia^
 ||centralized.zaloapp.com^
 ||cheap-ads.net^
 ||cityadstrack.com^
@@ -33210,7 +33227,6 @@ adbetnet.com
 ||pushdy.com^
 ||pushdy.vn^
 ||pushtimize.com^
-||px.za.zaloapp.com^
 ||qc-static.coccoc.com^
 ||qc.coccoc.com^
 ||qc.coccoc.vn^
@@ -33579,7 +33595,6 @@ adbetnet.com
 ||log.vovplus.vn^
 ||log.zamba.vn^
 ||log.zingmp3.vn^
-||log.zingnews.vn^
 ||log.zingtv.vn^
 ||log4x.nixcdn.com^
 ||logapi.misa.com.vn^
@@ -33875,6 +33890,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||maidagu.com^
 ||ysyjg.com^
 ||00-gov.cn^
 ||0024aaaa.com^
@@ -35865,7 +35881,7 @@ adbetnet.com
 ||xc.mydrivers.com^
 ||xdyjt.com^
 ||xinjscn.oss-cn-hangzhou.aliyuncs.com^
-||xntk.net^*.html
+||xntk.org^*.html
 ||xs.houyi.baofeng.net^
 ||ya*.dwstatic.com^
 ||yktj.yzz.cn^
@@ -36620,6 +36636,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||5fst22.cn^
 ||xinyuanstudio.com^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37603,7 +37620,6 @@ adbetnet.com
 ||lousivency.com.cn^
 ||lovepets70.com^
 ||lownguw.top^
-||lq.xsbooktxt.com^
 ||lq0s3c.cn^
 ||lq1.abcxs.com^
 ||lr96.top^
