@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-18T12:03:23.920Z
+! Last modified: 2021-03-18T18:05:02.102Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,8 +18,17 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
-||handtub.com^
+||jutyledu.pro^
+||viitan.com^
+||leapretrieval.com^
+||writtenorbithalfbaked.com^
+||chivalrouspeacockgreatly.com^
+||sioncenture.fun^
+||sofhoursdoin.biz^
+||gabblerpawners.com^
 ||krouekal.com^
+||sunnycategoryopening.com^
+||handtub.com^
 ||jggqgavrqkudu.com^
 ||jcwuzktevijp.com^
 ||creepybuzzing.com^
@@ -323,7 +332,6 @@
 ||shacsda.name^
 ||anniversarytoothbrush.com^
 ||povapeba.xyz^
-||freychang.fun^
 ||lismcanalys.fun^
 ||parkurl.com^
 ||phirgese.com^
@@ -333,7 +341,6 @@
 ||1xredir89908.top^
 ||aulteeby.net^
 ||ximupea.ru^
-||nicksstevmark.com^
 ||wcwcads.net^
 ||crisistuesdayartillery.com^
 ||avkyu1tesnwy.com^
@@ -5426,6 +5433,7 @@ vkcdnservice.appspot.com^
 ||clnyonxgsvov.com^
 ||cloakroomobsceneredress.com^
 ||closiner.com^
+||closkeyrespond.com^
 ||cloudimagesa.com^
 ||cloudimagesb.com^
 ||cluethydash.com^
@@ -5606,6 +5614,7 @@ vkcdnservice.appspot.com^
 ||cryartarm.online^
 ||crylukzsthjz.com^
 ||cryptianainv.club^
+||crypto-news-world.club^
 ||csfkhqzegycmux.com^
 ||cshkgktv.com^
 ||csiasvapqrccq.com^
@@ -6769,6 +6778,7 @@ vkcdnservice.appspot.com^
 ||frenchayan.club^
 ||frequestabure.site^
 ||freshborne.com^
+||freychang.fun^
 ||frgbgwnbjkgco.com^
 ||frhbrkjgerikm2f8mjek09.com^
 ||frhoobwj.com^
@@ -7788,7 +7798,6 @@ vkcdnservice.appspot.com^
 ||justickedukil.club^
 ||justinpressed.com^
 ||jutmdieqbww.com^
-||jutyledu.pro^
 ||juwtdcraiiihb.com^
 ||juzdqtmyo.com^
 ||jvcwtqqkackdn.com^
@@ -8847,6 +8856,7 @@ vkcdnservice.appspot.com^
 ||nibagsukpgndj.com^
 ||nicevideos.xyz^
 ||nichools.com^
+||nicksstevmark.com^
 ||nicmitosasm.top^
 ||nicveteroge.club^
 ||niebrundveepursuede.info^
@@ -10872,6 +10882,7 @@ vkcdnservice.appspot.com^
 ||superintendsuckshaggy.com^
 ||superiorclueless.com^
 ||superjuryger.site^
+||superstriker.net^
 ||supertrackingz.com^
 ||supperopeningturnstile.com^
 ||supplegrassgrapes.com^
@@ -11674,6 +11685,7 @@ vkcdnservice.appspot.com^
 ||viunypnvhcw.com^
 ||viurihkwo.com^
 ||vivdq.com^
+||vjkjjhbi.com^
 ||vjnpoelbrhd.com^
 ||vjsticdegj.com^
 ||vjsxvihazrwypb.com^
@@ -22976,7 +22988,6 @@ t.yesware.com
 ||uep.gaijin.net^
 ||event.impression-neo.naver.com^
 ||er.search.naver.com^
-||s.search.naver.com^
 ||log.tf.co.kr^
 ||log.zdnet.co.kr^
 ||weblog.zdnet.co.kr^
@@ -25547,6 +25558,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vercel-analytics.com^
 ||vercel-insights.com^
 ||vilynx.com^
+||viraltrackings.com^
 ||virgul.com^
 ||visionsage.com^
 ||visitstats.com^
@@ -27597,6 +27609,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||zesdmn.com^
+||ihfxao.com^
 ||essokosi.com^
 ||bspdyp.com^
 ||amads.xyz^
@@ -33930,6 +33944,8 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||szpgzn.com^
+||zhongjiayuan.xyz^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -36677,7 +36693,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||szpgzn.com^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
