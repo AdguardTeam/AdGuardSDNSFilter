@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-17T18:04:09.242Z
+! Last modified: 2021-03-18T00:06:07.999Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||chewsrompedhemp.com^
+||gompoozu.net^
+||lauhefoo.com^
 ||bestcontentfund.top^
 ||boasstylijoked.com^
 ||emotersjervina.com^
@@ -12031,6 +12034,7 @@ vkcdnservice.appspot.com^
 ||wqypgiakfbxb.com^
 ||wrdbknbczcf.com^
 ||wredmtmvkjbg.com^
+||wretchedchapterdozen.com^
 ||wrfrxgft.com^
 ||wrierville.com^
 ||writerredolasy.club^
@@ -33898,8 +33902,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||maidagu.com^
-||ysyjg.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34820,6 +34822,7 @@ adbetnet.com
 ||lzmm8.com^
 ||magictreehouse.cn^
 ||magiphone.cn^
+||maidagu.com^
 ||mainbx.com^
 ||mall043.com^
 ||manhuachi.com^
@@ -35424,6 +35427,7 @@ adbetnet.com
 ||ys2000.cdn.bcebos.com^
 ||ysgsq.cn^
 ||ysjwj.com^
+||ysyjg.com^
 ||ytop8.com^
 ||yuanmengbi.com^
 ||yuanyanglw.com^
@@ -35935,7 +35939,6 @@ adbetnet.com
 ||wofjhs.com^
 ||xayah.date^
 ||003store.com^
-||88.yunqishi.net^
 ||1.01fy.cn^
 ||1.07swz.com^
 ||1.1010pic.com^
@@ -36027,6 +36030,7 @@ adbetnet.com
 ||7car.com.cn^
 ||80juqing.com^
 ||8131.qizhihaotian.cn^
+||88.yunqishi.net^
 ||a*.chajiaotong.com^
 ||a.4aqq.com^
 ||a.52wubi.com^
@@ -36644,10 +36648,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||r890x3.com^
-||stm65i8.com^
-||5fst22.cn^
-||xinyuanstudio.com^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
@@ -36739,6 +36739,7 @@ adbetnet.com
 ||56space.com^
 ||597txtt.com^*.php
 ||5dydk.com^
+||5fst22.cn^
 ||5glyqw.com^
 ||5j73de.cn^
 ||5mgurg.cn^
@@ -37875,6 +37876,7 @@ adbetnet.com
 ||qzyiming.cn^
 ||qzylyp.com^
 ||r3wd6.cn^
+||r890x3.com^
 ||raeqqe.cn^
 ||ranqibio.com^
 ||rbywg.com^
@@ -37977,6 +37979,7 @@ adbetnet.com
 ||starlizard.com.cn^
 ||stdst.cn^
 ||stevenblue.cn^
+||stm65i8.com^
 ||subshall.cn^
 ||sugarpuff.net^
 ||suitmatters.cn^
@@ -38223,6 +38226,7 @@ adbetnet.com
 ||xinheshengmce.com^
 ||xinqiannv.com^
 ||xintaizhaoming.com^
+||xinyuanstudio.com^
 ||xiuqixuan.cn^
 ||xixizaix.cn^
 ||xjhjtz.cn^
