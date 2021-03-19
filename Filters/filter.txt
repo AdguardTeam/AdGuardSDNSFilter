@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-18T18:05:02.102Z
+! Last modified: 2021-03-19T00:06:16.827Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -22982,6 +22982,7 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||clicks.wawlabs.com^
 ||stat.5-tv.ru^
 ||log.zingnews.vn^
 ||logcol.kyobobook.co.kr^
@@ -33944,8 +33945,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||szpgzn.com^
-||zhongjiayuan.xyz^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35164,6 +35163,7 @@ adbetnet.com
 ||szfaq.com^
 ||szggdw.com^
 ||szjianxin.net^
+||szpgzn.com^
 ||szpl0.com^
 ||szrk3.com^
 ||sztbjs.com^
@@ -35530,6 +35530,7 @@ adbetnet.com
 ||zhongbolm.com^
 ||zhongdoulicai.com^
 ||zhongjiangguoji.org^
+||zhongjiayuan.xyz^
 ||zhongzk.com^
 ||zhuangzhaibancai.cn^
 ||zhuanzhuzibu.com^
@@ -35982,7 +35983,6 @@ adbetnet.com
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||c.28rv.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36240,6 +36240,7 @@ adbetnet.com
 ||bjs.faxingzhan.com^
 ||bt1.patexplorer.com^
 ||bu1.vvvdj.com^
+||c.28rv.com^
 ||c.caijing123.com^
 ||c.jjkk.org^
 ||c.mnjkw.cn^
