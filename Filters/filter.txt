@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-21T14:49:44.621Z
+! Last modified: 2021-03-21T18:06:40.101Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -4515,6 +4515,7 @@ vkcdnservice.appspot.com^
 ||amhpbhyxfgvd.com^
 ||ammankeyan.com^
 ||amountant.club^
+||ampdaisbras.com^
 ||ampleteexis.info^
 ||amplexheter.club^
 ||ampugi334f.com^
@@ -6547,6 +6548,7 @@ vkcdnservice.appspot.com^
 ||f4f32de8e64d.com^
 ||f5080f5cee5a00.com^
 ||f56e3ea35a4.com^
+||f5a7708fb1e03cc0dc51.com^
 ||f6bd46bbc8a.com^
 ||f71bxwn500lj.com^
 ||f8260adbf8558d6.com^
@@ -10404,6 +10406,7 @@ vkcdnservice.appspot.com^
 ||rvwtpwmtnfj.com^
 ||rwindomdec.fun^
 ||rwlfznyvivh.com^
+||rwn1sdb4xqa2.com^
 ||rwrqmqyhfn.com^
 ||rwyprejibmvcfh.com^
 ||rxsptuki.com^
@@ -19064,6 +19067,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||ac.ecai-report.com^
 ||track.span-smt.jp^
 ||trk.fensi.plus^
 ||a.o2u.jp^
@@ -32294,6 +32298,10 @@ adbetnet.com
 !
 ! Eimg.jp
 !
+||torimochi-ad.net^
+||ad-fam.com^
+||affiliates.expaus.in^
+||dep.tc^
 ||r-ad.linkshare.jp^
 ||townlife-aff.com^
 ||ads.pipaffiliates.com^
@@ -36045,6 +36053,7 @@ adbetnet.com
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||51ertong.com^
 ||xiaopinwo.com^
 ||003store.com^
 ||1.01fy.cn^
