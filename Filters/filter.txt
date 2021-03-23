@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-23T12:03:46.571Z
+! Last modified: 2021-03-23T16:14:34.928Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||asdfix.com^
 ||adoto.net^
 ||setbackrelishdivine.com^
 ||dggaenaawxe8z.cloudfront.net^
@@ -4118,6 +4119,7 @@ vkcdnservice.appspot.com^
 ||889fb4992d4e8.com^
 ||88d7b6aa44fb8eb.com^
 ||8b0b17dc1f9f8010.com^
+||8b18a31eb3.com^
 ||8baf7ae42000024.com^
 ||8bef5bb6b351ca5e.com^
 ||8bf8170108e3304.com^
@@ -5463,6 +5465,7 @@ vkcdnservice.appspot.com^
 ||cominghamer.info^
 ||comm-news.com^
 ||commencerons.xyz^
+||commentaryharm.com^
 ||commercialvalue.org^
 ||commissai.space^
 ||commissed.club^
@@ -8770,6 +8773,7 @@ vkcdnservice.appspot.com^
 ||nistdeathersd.club^
 ||niteratebefo.top^
 ||nityannoun.top^
+||nixyoungjay.com^
 ||njmkilpqzibv.com^
 ||nk26uvjrz0tt.com^
 ||nkjomdiztdy.com^
@@ -9355,6 +9359,7 @@ vkcdnservice.appspot.com^
 ||phooreew.net^
 ||phovihopy.pro^
 ||phsism.com^
+||phudreez.com^
 ||phultems.net^
 ||phvmjnkysnj.com^
 ||physicianhung.com^
@@ -10642,6 +10647,7 @@ vkcdnservice.appspot.com^
 ||stakenallisin.club^
 ||stakenpolise.site^
 ||standnizati.fun^
+||standpointpreparation.com^
 ||stardatis.com^
 ||stardedbio.club^
 ||stargoug.com^
@@ -12125,6 +12131,7 @@ vkcdnservice.appspot.com^
 ||zoeysqyx.com^
 ||zooahm2fx2v1.com^
 ||zorango.com^
+||zouhewee.com^
 ||zouloafi.net^
 ||zouphail.com^
 ||zpaanftgs.com^
@@ -17235,7 +17242,6 @@ vkcdnservice.appspot.com^
 ||oas.luxweb.com^
 ||on.maxspeedcdn.com^
 ||ox-i.cordillera.tv^
-||p.asdfix.com^
 ||p.d.1emn.com^
 ||p.smartertravel.com^
 ||padsdel.com^
@@ -18666,7 +18672,7 @@ vkcdnservice.appspot.com^
 ||personaclick.com^
 ||counter*.freecounter.ovh^
 ||noy90o.com^
-||logsss.com^
+||analytics.logsss.com^
 ||tnative.ru^
 ||redatastore.ru^
 ||marketo.com^
@@ -31696,7 +31702,7 @@ adbetnet.com
 ||i3535.com^
 ||1990tu.com^
 ||web-ad.xyz^
-||dlads.cn^
+||a.dlads.cn^
 ||chushoushijian.cn^
 ||u.xogu.cn^
 ||lk.4jzl.cn^
@@ -37750,9 +37756,13 @@ adbetnet.com
 @@||oneline.nextday.media^|
 ! Reported via Telegram: https://t.me/AdGuard_chinese/13741
 @@|ftp.bmp.ovh^|
+!
 ! Related to '||mkto-*.com^$third-party'
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/627
+@@||email.questrade.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/582
 @@||email.awscloud.com^|
+!
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/510
 @@||c.digikey.com^|
 !
