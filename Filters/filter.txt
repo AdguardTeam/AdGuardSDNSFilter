@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-23T19:18:27.476Z
+! Last modified: 2021-03-24T00:06:25.608Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -5051,6 +5051,7 @@ vkcdnservice.appspot.com^
 ||bouillerines.site^
 ||bowcompetitionbesides.com^
 ||bowmoolog.com^
+||bowsedsquiffy.com^
 ||boxofficecounselling.com^
 ||boyaidare.club^
 ||boycottons.club^
@@ -6679,6 +6680,7 @@ vkcdnservice.appspot.com^
 ||fodlkf9d1p.com^
 ||fogayeown.com^
 ||fogspubsoapy.com^
+||folksattunewig.com^
 ||followfact.com^
 ||fontainsuny.club^
 ||fontawfully.com^
@@ -8422,6 +8424,7 @@ vkcdnservice.appspot.com^
 ||missingarchery.com^
 ||missiondues.com^
 ||missiontestamentinterfering.com^
+||mistletoecaliberdecency.com^
 ||mistressavouchdeity.com^
 ||misxgkvnlf.com^
 ||mitsczechoesy.site^
@@ -37750,8 +37753,6 @@ adbetnet.com
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/629
-@@||envato.market^|
 ! https://github.com/AdguardTeam/AdguardFilters/pull/76413
 ! whitelist as click-through
 @@||ac.ebis.ne.jp^|
