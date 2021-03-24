@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-24T06:09:05.461Z
+! Last modified: 2021-03-24T12:10:08.670Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||cubanetestoon.com^
 ||asdfix.com^
 ||adoto.net^
 ||setbackrelishdivine.com^
@@ -4958,6 +4959,7 @@ vkcdnservice.appspot.com^
 ||bidiology.com^
 ||bidverdrd.com^
 ||bigbootymania.com^
+||bihamcurchef.cam^
 ||bihyteqy.xyz^
 ||bikesseafoodchewing.com^
 ||bilitycarrone.club^
@@ -5109,6 +5111,7 @@ vkcdnservice.appspot.com^
 ||btttmgxtziztqq.com^
 ||bttvrqazwnjfl.com^
 ||bubblyalibiappear.com^
+||budslyban.online^
 ||buglethemfouls.casa^
 ||buildhoodpip.club^
 ||buipovexhav.com^
@@ -5129,6 +5132,7 @@ vkcdnservice.appspot.com^
 ||bursagarc.com^
 ||busfarmum.com^
 ||busguyspec.com^
+||bushesearlobe.com^
 ||busilyrecordingto.com^
 ||busingleni.club^
 ||bussaidbag.casa^
@@ -5700,6 +5704,7 @@ vkcdnservice.appspot.com^
 ||danyhazo.online^
 ||daprocessary.club^
 ||daringprobablywithin.com^
+||darkenedshrine.com^
 ||dartsirhose.icu^
 ||dasfelynsaterr.webcam^
 ||dashcreakyock.com^
@@ -6237,6 +6242,7 @@ vkcdnservice.appspot.com^
 ||enceevenue.club^
 ||encogcfklrcpqw.com^
 ||encountryf.pro^
+||encouragementsubwayfather.com^
 ||encoursejaso.site^
 ||encroachradarenginedriver.com^
 ||encyclopaediaapplaudawfully.com^
@@ -6768,6 +6774,7 @@ vkcdnservice.appspot.com^
 ||fulfilledcompensatedelightful.com^
 ||fundardsesaz.club^
 ||funloadskin.club^
+||furrowmaidphantom.com^
 ||furwayfareracerbity.com^
 ||fuseplatform.net^
 ||fuszkweba.com^
@@ -7731,6 +7738,7 @@ vkcdnservice.appspot.com^
 ||justickedukil.club^
 ||justinpressed.com^
 ||jutmdieqbww.com^
+||jutwrench.com^
 ||juzdqtmyo.com^
 ||jvcwtqqkackdn.com^
 ||jvimsppwzizr.com^
@@ -8477,6 +8485,7 @@ vkcdnservice.appspot.com^
 ||modifymaintenance.com^
 ||modpotcue.com^
 ||modraytor.com^
+||moffreelance.biz^
 ||mohammequhe.site^
 ||moimjvrbzb.com^
 ||mol18.biz^
@@ -9087,6 +9096,7 @@ vkcdnservice.appspot.com^
 ||opekoobs.net^
 ||openmindedisabella.com^
 ||operateprojectioninvest.com^
+||operatingdemolitionmore.com^
 ||ophoahik.net^
 ||oplwseln.com^
 ||opoapibs.net^
@@ -9107,6 +9117,7 @@ vkcdnservice.appspot.com^
 ||orcjagpox.com^
 ||ordealgraveyard.com^
 ||ordinggrandt.fun^
+||oredebpig.com^
 ||orgttpvpglshap.com^
 ||originalcharactercausing.com^
 ||orisapple.top^
@@ -10431,6 +10442,7 @@ vkcdnservice.appspot.com^
 ||shiverconventwilful.com^
 ||shoagnie.com^
 ||shoawhom.com^
+||shockersheva.com^
 ||shoizifjwosvk.com^
 ||shojovuptu.pro^
 ||shoorts.info^
@@ -10551,6 +10563,7 @@ vkcdnservice.appspot.com^
 ||soejklzlwnj.com^
 ||soholfit.com^
 ||soilenthusiasmshindig.com^
+||solderplumboverreact.com^
 ||soldinggrily.site^
 ||solicensusuntf.site^
 ||solicients.club^
@@ -10567,6 +10580,7 @@ vkcdnservice.appspot.com^
 ||soofeest.net^
 ||sooiipveodjxb.com^
 ||sophomoremostlyplain.com^
+||soshoord.com^
 ||sosohmmen.club^
 ||soundingexpulsioninspector.com^
 ||soundshrillarduous.com^
@@ -10725,6 +10739,7 @@ vkcdnservice.appspot.com^
 ||sturgeonlibel.com^
 ||styeoursmack.casa^
 ||suapicvhgpwjp.com^
+||subconsciousill.com^
 ||submarinebarbecueemigrant.com^
 ||substandferex.site^
 ||suburbglaze.com^
@@ -10948,6 +10963,7 @@ vkcdnservice.appspot.com^
 ||thismetric.com^
 ||thkexopsciqums.com^
 ||thoaltie.net^
+||thoartuw.com^
 ||thoathie.net^
 ||thodsserentlya.info^
 ||thofandew.com^
@@ -11024,6 +11040,7 @@ vkcdnservice.appspot.com^
 ||tockhsfluqjniu.com^
 ||toeschistache.com^
 ||tofufiresquid.com^
+||toglooman.com^
 ||tok-dan-host.com^
 ||tollholdmeg.cam^
 ||tolyafbnjt9dedjj10.com^
@@ -33062,6 +33079,9 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||lixiaodie.com^
+||cdhhbyy.cn^
+||55kk.tv^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35828,6 +35848,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||u98ql6o.top^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
