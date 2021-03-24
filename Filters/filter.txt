@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-24T12:10:08.670Z
+! Last modified: 2021-03-24T18:18:16.546Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||st-n.pc5ads.com^
+||b0f1d2.com^
+||arguerepetition.com^
+||getadfinity.com^
 ||cubanetestoon.com^
 ||asdfix.com^
 ||adoto.net^
@@ -18235,6 +18239,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||vercel-insights.com^
 ||nave.foone.com.br^
 ||cdn-ra.rockcontent.com^
 ||ra.rockcontent.com^
@@ -24710,7 +24715,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||va-endpoint.com^
 ||veille-referencement.com^
 ||vercel-analytics.com^
-||vercel-insights.com^
 ||vilynx.com^
 ||viraltrackings.com^
 ||virgul.com^
@@ -31577,6 +31581,7 @@ adbetnet.com
 !
 ! Section contains list of advertising networks
 !
+||d2kadvyeq051an.cloudfront.net^
 ||oyvyxj.cn^
 ||ayqxx.com^
 ||etxjbxs.top^
@@ -35848,6 +35853,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||dalianruosen.com^
 ||u98ql6o.top^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
