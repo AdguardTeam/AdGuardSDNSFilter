@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-25T00:26:48.650Z
+! Last modified: 2021-03-25T06:09:00.348Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -4693,6 +4693,7 @@ vkcdnservice.appspot.com^
 ||ationcomp.top^
 ||ationdignifica.fun^
 ||atmetagrossan.com^
+||atoescruffy.fun^
 ||atomisons.xyz^
 ||atoultou.com^
 ||atpqczsqjsxvln.com^
@@ -9136,6 +9137,7 @@ vkcdnservice.appspot.com^
 ||orgttpvpglshap.com^
 ||originalcharactercausing.com^
 ||orisapple.top^
+||orkonavariet.biz^
 ||orminecommi.fun^
 ||ornamedev.club^
 ||orozrpyxdigvwe.com^
@@ -13914,7 +13916,6 @@ vkcdnservice.appspot.com^
 ||filetarget.net^
 ||filterycreasona.info^
 ||fimserve.com^
-||finchtechs.com^
 ||find-my-great-life.com^
 ||findbetterresults.com^
 ||findswiftresults.com^
@@ -32322,9 +32323,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 18 Mar 2021 09:46 UTC+7
-! Version: 2103180946
-! Blocked: 816 rules
+! Last modified: 25 Mar 2021 11:41 UTC+7
+! Version: 2103251141
+! Blocked: 818 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32416,6 +32417,7 @@ adbetnet.com
 ||mepuzz.com^
 ||metrics.coccoc.com^
 ||mobilead.vn^
+||mobio.vn^
 ||nanda.vn^
 ||novanet.vn^
 ||novaon.asia^
@@ -32658,6 +32660,7 @@ adbetnet.com
 ||ox1.vietstock.vn^
 ||phimmedia03.com^
 ||promotionpopup.sapoapps.vn^
+||qc.5giay.vn^
 ||qc.designervn.net^
 ||qc.itsgroup.vn^
 ||qc.japo.vn^
@@ -32791,6 +32794,7 @@ adbetnet.com
 ||log.theleader.vn^
 ||log.tienphong.vn^
 ||log.tieudungthoinay.vn^
+||log.tinnhac.com^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
 ||log.trithuctructuyen.com.vn^
@@ -32846,7 +32850,6 @@ adbetnet.com
 ||stats.petrotimes.vn^
 ||stats.tamdiem247.com^
 ||stats.vietnammoi.vn^
-||stracking.zalopay.vn^
 ||sv-api-event.headlines.pw^
 ||ta.toprework.vn^
 ||thongke.24h.com.vn^
@@ -32882,6 +32885,7 @@ adbetnet.com
 ||tracking.vtcnew.com.vn^
 ||tracking.yes24.vn^
 ||trackingapi.foody.vn^
+||trackingvn.zingplay.com^
 ||trackity.tiki.vn^
 ||trending.vn^
 ||trk.123c.vn^
@@ -33087,7 +33091,6 @@ adbetnet.com
 ||bloodleian.club^
 ||celerantatters.com^
 ||hashearog.com^
-||i-vietcombank.com^
 ||larpollicwilli.club^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
@@ -33101,9 +33104,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||lixiaodie.com^
-||cdhhbyy.cn^
-||55kk.tv^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -33239,6 +33239,7 @@ adbetnet.com
 ||5551660.com^
 ||5551825.com^
 ||5551933.com^
+||55kk.tv^
 ||5783.org^
 ||57union.com^
 ||58taopinhui.com^
@@ -33467,6 +33468,7 @@ adbetnet.com
 ||cctole.com^
 ||cctyly.com^
 ||cczuxie.com^
+||cdhhbyy.cn^
 ||cdlinli.com^
 ||cdn-t.xyz^
 ||cdnjsp.wang^
@@ -34001,6 +34003,7 @@ adbetnet.com
 ||lisaiservice.top^
 ||lishuanghao.com^
 ||livehapp.com^
+||lixiaodie.com^
 ||lixuanbaojie.com^
 ||llguandongyan.com^
 ||llqss.top^
@@ -34330,7 +34333,6 @@ adbetnet.com
 ||szfaq.com^
 ||szggdw.com^
 ||szjianxin.net^
-||szpgzn.com^
 ||szpl0.com^
 ||szrk3.com^
 ||sztbjs.com^
@@ -35870,8 +35872,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||dalianruosen.com^
-||u98ql6o.top^
+||s28xvp.com^
+||yundingmap.com^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
@@ -36306,6 +36308,7 @@ adbetnet.com
 ||daima.dsxdn.com^
 ||dajean.com^
 ||dake.net.cn^
+||dalianruosen.com^
 ||damiren.com^
 ||danlidanli.net^
 ||daokejs.com^
@@ -37241,6 +37244,7 @@ adbetnet.com
 ||szhgmd.com^
 ||szmxwjm.com^
 ||szpengliye.com^
+||szpgzn.com^
 ||szqifu.com^
 ||szqipin.cn^
 ||szshouzhai.com^
@@ -37313,6 +37317,7 @@ adbetnet.com
 ||u05m.cn^
 ||u0r9.cn^
 ||u2c8.cn^
+||u98ql6o.top^
 ||ubt573.org^
 ||ububyiw6655.xyz^
 ||uc4a.cn^
