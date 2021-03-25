@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-24T18:18:16.546Z
+! Last modified: 2021-03-25T00:26:48.650Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||d1cykymlllue3h.cloudfront.net^
 ||st-n.pc5ads.com^
 ||b0f1d2.com^
 ||arguerepetition.com^
@@ -3859,6 +3860,7 @@ vkcdnservice.appspot.com^
 ||27vckaccbto7p761.pro^
 ||2894c9d5b32.com^
 ||29ae58661b9c7178.com^
+||2b3500784cd.com^
 ||2b43cb6a34a.com^
 ||2b815136jjjv.com^
 ||2bbb379103988619ef.com^
@@ -3894,6 +3896,7 @@ vkcdnservice.appspot.com^
 ||34baedd2d0b9.com^
 ||34c2f22e9503ace.com^
 ||35d59588f15966.com^
+||35d68b392b.com^
 ||35jd5gql9m.monster^
 ||366b662cf9.com^
 ||367e8bed2a847.com^
@@ -3921,9 +3924,11 @@ vkcdnservice.appspot.com^
 ||3ue2j83u33.monster^
 ||3wr110.xyz^
 ||3ye7lbhnlk.xyz^
+||406a2cf98e7.com^
 ||407433bfc441.com^
 ||40a1eca447d.com^
 ||40ceexln7929.com^
+||42297df5c090.com^
 ||4232f0badcf.com^
 ||427tbezplqv5.com^
 ||42a5d530ec972d8994.com^
@@ -5490,6 +5495,7 @@ vkcdnservice.appspot.com^
 ||complicatedtelegraph.com^
 ||complified.club^
 ||composedwatchman.com^
+||composurepectoral.com^
 ||comprehensiveunconsciousblast.com^
 ||comwgi.com^
 ||concentleconse.site^
@@ -6038,6 +6044,7 @@ vkcdnservice.appspot.com^
 ||e18a97eee94d0f2519.com^
 ||e1bl1t39c4.com^
 ||e1ed050f62.com^
+||e1ff587aa50c.com^
 ||e2706c6e2b426f74.com^
 ||e2ertt.com^
 ||e2wysbacctt1.com^
@@ -7232,6 +7239,7 @@ vkcdnservice.appspot.com^
 ||hinatorhypoc.top^
 ||hincludingse.site^
 ||hinesdenien.club^
+||hingefestivitysmelt.com^
 ||hingenerall.club^
 ||hinksdeba.top^
 ||hinkslovel.top^
@@ -7706,6 +7714,7 @@ vkcdnservice.appspot.com^
 ||jonalnftdlnje.com^
 ||joophesh.com^
 ||josephcalculatedsewer.com^
+||joubozie.com^
 ||jougrevu.com^
 ||joxhvjnlpb.com^
 ||joyekepus.online^
@@ -8157,6 +8166,7 @@ vkcdnservice.appspot.com^
 ||lornardchr.club^
 ||louchees.net^
 ||loudhoveracute.com^
+||loulouly.net^
 ||loungepatientlyprogramme.com^
 ||lourdoueisienne.website^
 ||lovedearringschoolmaster.com^
@@ -8359,6 +8369,7 @@ vkcdnservice.appspot.com^
 ||menlochsuk.club^
 ||mentalbackie.site^
 ||mentalsweatextent.com^
+||mentcomm.fun^
 ||mentcompa.club^
 ||mentionedabjection.com^
 ||mentpyjam.fun^
@@ -11802,6 +11813,7 @@ vkcdnservice.appspot.com^
 ||wretchedchapterdozen.com^
 ||wrierville.com^
 ||writerredolasy.club^
+||writerswhow.biz^
 ||writtenlistened.com^
 ||wrkl.xyz^
 ||wrongerababan.info^
@@ -18239,6 +18251,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||mci1.co.kr^
 ||vercel-insights.com^
 ||nave.foone.com.br^
 ||cdn-ra.rockcontent.com^
@@ -25394,6 +25407,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ecomm.events^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
+||eel.transistor.fm^
 ||errors.snackly.co^
 ||event-api.contactatonce.co.uk^
 ||event-api.contactatonce.com.au^
@@ -26768,6 +26782,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||cbibhbghgdjbbageabd.ru^
+||yenlqi.com^
+||affpros.net^
 ||rluuva.com^
 ||zesdmn.com^
 ||ihfxao.com^
