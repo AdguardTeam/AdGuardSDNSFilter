@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-25T06:09:00.348Z
+! Last modified: 2021-03-25T11:48:53.057Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -22,6 +22,8 @@
 ||st-n.pc5ads.com^
 ||b0f1d2.com^
 ||arguerepetition.com^
+||zaphakesleigh.com^
+||lotsnippier.cam^
 ||getadfinity.com^
 ||cubanetestoon.com^
 ||asdfix.com^
@@ -43,6 +45,7 @@
 ||forlumineontor.com^
 ||harmlesstacticalhonorable.com^
 ||air2s.com^
+||ioadserve.com^
 ||samplerpouch.com^
 ||sketchinferiorunits.com^
 ||interceptstephen.com^
@@ -7578,6 +7581,7 @@ vkcdnservice.appspot.com^
 ||issuesconsultationsocially.com^
 ||istcommun.info^
 ||iszqveznr.com^
+||it7645-blockchain-news.club^
 ||itblisseyer.com^
 ||itchingadore.com^
 ||itdise.info^
@@ -10806,6 +10810,7 @@ vkcdnservice.appspot.com^
 ||svuyfmzsxmjwa.com^
 ||swagtraffcom.com^
 ||swan-swan-goose.com^
+||swarthycorrespond.com^
 ||swayexploitaccustom.com^
 ||swayshosshun.icu^
 ||sweatheru.club^
@@ -24469,7 +24474,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||northstartravelmedia.com^
 ||ns8ds.com^
 ||nuloox.com^
-||nvidia.partners^
 ||nyltx.com^
 ||o-s.io^
 ||octomarket.com^
@@ -25461,7 +25465,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||glbdns.microsoft.com^
 ||go.optifuze.com^
 ||go.pardot.com^
-||go.techtarget.com^
 ||go.toutapp.com^
 ||green-griffin-860.appspot.com^
 ||gsp1.baidu.com^
@@ -26783,6 +26786,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||oaovcb.com^
 ||cbibhbghgdjbbageabd.ru^
 ||yenlqi.com^
 ||affpros.net^
