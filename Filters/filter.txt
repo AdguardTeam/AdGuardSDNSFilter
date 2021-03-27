@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-27T06:10:08.963Z
+! Last modified: 2021-03-27T12:11:21.716Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||ashtraysophomore.com^
 ||remusclerait.xyz^
 ||haradeiu.rocks^
 ||ledslevier.com^
@@ -3767,6 +3768,7 @@ vkcdnservice.appspot.com^
 ||012469af389a1d1246d.com^
 ||0127538a552.com^
 ||01dbf3a452b6.com^
+||0265331.com^
 ||02aa19117f396e9.com^
 ||02b5da94a2bd4aea.com^
 ||039ad0897e6da.com^
@@ -4658,6 +4660,7 @@ vkcdnservice.appspot.com^
 ||artisticdisgraceevidently.com^
 ||artpever.com^
 ||artqpnah.com^
+||artreconnect.com^
 ||artsmalle.pro^
 ||arxistenthe.top^
 ||arzcwgdzsed.com^
@@ -5542,6 +5545,7 @@ vkcdnservice.appspot.com^
 ||congregorysun.site^
 ||conjeller-chikemon.com^
 ||connexity.net^
+||conquestdrawers.com^
 ||consciencebarrowcash.com^
 ||consciencevenomous.com^
 ||consentedimpunity.com^
@@ -6440,6 +6444,7 @@ vkcdnservice.appspot.com^
 ||evaporatedisturbedbarrier.com^
 ||evatelyenu.club^
 ||evcknbym.com^
+||eveaggravationloosen.com^
 ||eventurypol.site^
 ||evergreensame.com^
 ||evergreensignificance.com^
@@ -6671,6 +6676,7 @@ vkcdnservice.appspot.com^
 ||filthslowlycoolly.com^
 ||fimpromote.club^
 ||findicaterperty.site^
+||findlnk.com^
 ||findnewline.com^
 ||fingahvf.top^
 ||fingerous.club^
@@ -6819,6 +6825,7 @@ vkcdnservice.appspot.com^
 ||fukkzdxfyrchhc.com^
 ||fulfilledcompensatedelightful.com^
 ||fundardsesaz.club^
+||funkscar.com^
 ||funloadskin.club^
 ||furrowmaidphantom.com^
 ||furwayfareracerbity.com^
@@ -6926,6 +6933,7 @@ vkcdnservice.appspot.com^
 ||gendenlend.club^
 ||generablep.top^
 ||generalizationentertain.com^
+||generatedough.com^
 ||genergyothe.top^
 ||genuinealiaspuzzled.com^
 ||geodestricy.site^
@@ -10638,6 +10646,7 @@ vkcdnservice.appspot.com^
 ||sololockscoin.com^
 ||soltitate.site^
 ||solutelynewt.site^
+||somehowluxuriousreader.com^
 ||somethingprecursorfairfax.com^
 ||sometream.club^
 ||somewhate.club^
@@ -25372,6 +25381,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||px.excitedigitalmedia.com^
 ||px.marchex.io^
 ||px.spiceworks.com^
+||pxt.daz3d.com^
 ||qubitanalytics.appspot.com^
 ||r.msn.com^
 ||realm.hearst3pcc.com^
@@ -25628,6 +25638,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wstat.wibiya.com^
 ||x.disq.us^
 ||x.weather.com^
+||xt.persosa.com^
 ! Appcues
 /^https?:\/\/fast\.appcues\.com\/[0-9]{4,6}\.js/
 ! taboola
@@ -32088,9 +32099,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 26 Mar 2021 14:16 UTC+7
-! Version: 2103261416
-! Blocked: 819 rules
+! Last modified: 27 Mar 2021 15:42 UTC+7
+! Version: 2103271542
+! Blocked: 821 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32506,6 +32517,7 @@ adbetnet.com
 ||blogstatistics.sapoapps.vn^
 ||btrack.homedy.com^
 ||bwstatistics.bizwebapps.vn^
+||bwstatistics.sapoapps.vn^
 ||cdn.doke.app^
 ||cdn.tekoapis.com^
 ||clicker.chiaki.vn^
@@ -32605,6 +32617,7 @@ adbetnet.com
 ||st-a.vtvdigital.vn^
 ||stat.headlines.pw^
 ||staticad.thethao247.vn^
+||statis.dsp.vn^
 ||statistic.batdongsan.com.vn^
 ||statistics.tapchimypham.com.vn^
 ||statistics.vov.vn^
