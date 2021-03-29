@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-29T12:11:55.546Z
+! Last modified: 2021-03-29T18:19:01.728Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,15 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||zerg.pro^
+||leaguenod.com^
+||drasticdifferentfoetus.com^
+||reginasfreyr.com^
+||gemfaxaha.com^
+||zauglomo.net^
+||jakseque.com^
+||rgverkqcpahaqcqtmpksxicmtno.com^
+||praterswhally.com^
 ||merdpspl.com^
 ||734137.xyz^
 ||khdfmb.vip^
@@ -2824,6 +2833,7 @@ www.llllllllllll.net^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/41373
 ||bannery.navratdoreality.cz^
 ||report.seznamzpravy.cz^
+||crystal-ad.ge^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58569
 ||a.b.napiszar.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/19323
@@ -4950,6 +4960,7 @@ vkcdnservice.appspot.com^
 ||circumferencefurfavour.com^
 ||circumscribevetofurther.com^
 ||circumstantialobtrusive.com^
+||circusbreadth.com^
 ||citinnoiddidn.pro^
 ||citizenshadowrequires.com^
 ||citizenshis.com^
@@ -10989,6 +11000,7 @@ vkcdnservice.appspot.com^
 ||seayipsex.com^
 ||sebadu.com^
 ||sebeagnjowtg.com^
+||sebpmnltgd.com^
 ||seclctpsih.com^
 ||seconomic.club^
 ||seconomica.info^
@@ -11501,6 +11513,7 @@ vkcdnservice.appspot.com^
 ||sweatrepercussionpatio.com^
 ||sweatywakelack.com^
 ||sweepawejasper.com^
+||sweetheartpartial.com^
 ||sweetnesswarnscreech.com^
 ||swesomepop.com^
 ||swimminghardworkingowners.com^
@@ -18016,6 +18029,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||im.cbsileads.com^
 ||heymatic.com^
 ||pensebig.com.br^
 ||suite*.linximpulse.net^
@@ -18054,6 +18068,7 @@ vkcdnservice.appspot.com^
 ||tracdelight.io^
 ||goatcounter.com^
 ||gc.zgo.at^
+||tracker.idocdn.com^
 ||fryvzw.com^
 ||ttrace.ru^
 ||c.dpgmedia.net^
@@ -18224,6 +18239,7 @@ vkcdnservice.appspot.com^
 ||zprk.io^
 ||getstat.net^
 ||untidyrice.com^
+||c.imedia.cz^
 ||leadfeeder.com^
 ||trk.connatix.com^
 ||tr.connatix.com^
@@ -20909,6 +20925,7 @@ vkcdnservice.appspot.com^
 ! Admiral domains
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
+||aloofvest.com^
 ||bawdybalance.com^
 ||unwieldyhealth.com^
 ||boilingcredit.com^
@@ -21925,6 +21942,15 @@ t.yesware.com
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+! end:
+!
+! This rule breaks Australian sites
+!+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
+!
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
+! Disabled in DNS filter
+!
+||a-reporting.nytimes.com^
 ||metrika.lookmovie.io^
 ||s.deepl.com^
 ||clicks.wawlabs.com^
@@ -25028,7 +25054,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||btn.clickability.com^
 ||btrace.video.qq.com^
 ||business.sharedcount.com^
-||c.imedia.cz^
 ||c.live.com^
 ||c.wen.ru^
 ||c3metrics.medifast1.com^
@@ -34934,6 +34959,7 @@ adbetnet.com
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||wdfhl.weidianyuedu.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -35652,6 +35678,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||gts991.com^
 ||zgchaye123.com^
 ||nkzjc.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
