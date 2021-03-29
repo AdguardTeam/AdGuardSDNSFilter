@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-29T00:29:22.044Z
+! Last modified: 2021-03-29T06:10:35.858Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -5122,6 +5122,7 @@ vkcdnservice.appspot.com^
 ||comegarage.com^
 ||comfortclick.co.uk^
 ||comfortlesswastefulcinnamon.com^
+||comfortlessweave.com^
 ||comgnnyx.com^
 ||comilar-efferiff.icu^
 ||cominghamer.info^
@@ -35650,6 +35651,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||nkzjc.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
