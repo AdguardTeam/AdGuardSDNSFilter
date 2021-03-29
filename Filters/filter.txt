@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-28T18:21:50.832Z
+! Last modified: 2021-03-29T00:29:22.044Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -3065,10 +3065,8 @@ vkcdnservice.appspot.com^
 ||0898hhh.com^
 ||0926a687679d337e9d.com^
 ||0956228a2df97a.com^
-||0a6efd24b565c.com^
 ||0b19222804.com^
 ||0b9d84d93f1b.com^
-||0c12b89c3738.com^
 ||0cf40a2064ce2.com^
 ||0d20bff8143.com^
 ||0dbcf515975d.com^
@@ -3112,7 +3110,6 @@ vkcdnservice.appspot.com^
 ||19b45a16170729.com^
 ||19beda38dc2ce42.com^
 ||19d12dd9de1.com^
-||1a7783db6c.com^
 ||1ab5bb25e29d576.com^
 ||1affmedia.com^
 ||1aogoh1j81g3.com^
@@ -3162,7 +3159,6 @@ vkcdnservice.appspot.com^
 ||29ae58661b9c7178.com^
 ||29d65cebb82ef9f.com^
 ||2a12be6140880286.com^
-||2b3500784cd.com^
 ||2b43cb6a34a.com^
 ||2b815136jjjv.com^
 ||2bbb379103988619ef.com^
@@ -3176,7 +3172,6 @@ vkcdnservice.appspot.com^
 ||2cnjuh34jbpoint.com^
 ||2cnjuh34jbstar.com^
 ||2d7bd9e6eb370143.com^
-||2d86920f51.com^
 ||2dbd87c7a091b.com^
 ||2f5a1f1fab21a56.com^
 ||2g6gj3aojcrj.com^
@@ -3197,7 +3192,6 @@ vkcdnservice.appspot.com^
 ||32a79e2833309ebe.com^
 ||3381e74f70adfb59.com^
 ||33ae985c0ea917.com^
-||3406527936.com^
 ||340ca72733c9e46fb1.com^
 ||341073be6e9db7d2.com^
 ||34baedd2d0b9.com^
@@ -3205,7 +3199,6 @@ vkcdnservice.appspot.com^
 ||34ed5da2977d1ace.com^
 ||3585656d9351553f.com^
 ||35d59588f15966.com^
-||35d68b392b.com^
 ||35jd5gql9m.monster^
 ||362b643a66026e.com^
 ||366b662cf9.com^
@@ -3228,6 +3221,7 @@ vkcdnservice.appspot.com^
 ||3d1a1e7f6db3.com^
 ||3d643f542787c62a7.com^
 ||3djd3.xyz^
+||3e787c93af8de.com^
 ||3f32172d509aeb0.com^
 ||3f9f440ecad916.com^
 ||3gporn.biz^
@@ -3239,7 +3233,7 @@ vkcdnservice.appspot.com^
 ||3wdf4.xyz^
 ||3wr110.xyz^
 ||3ye7lbhnlk.xyz^
-||406a2cf98e7.com^
+||40253b3e67b8.com^
 ||407433bfc441.com^
 ||40a1eca447d.com^
 ||40ceexln7929.com^
@@ -3257,6 +3251,7 @@ vkcdnservice.appspot.com^
 ||448ff4fcfcd199a.com^
 ||45f2373b26b8e2.com^
 ||46186911.vtt^
+||46c404ccde27.com^
 ||4702fb341ddf276d.com^
 ||473863a8ef28.com^
 ||47b63cbfb34a0.com^
@@ -3293,6 +3288,7 @@ vkcdnservice.appspot.com^
 ||51189fb815.com^
 ||517pn6he9p5r.com^
 ||523c579923fd35aa.com^
+||529e573b99.com^
 ||52ddc254575a.com^
 ||538b5d8f303be.com^
 ||544bd1e82a9c8c39.com^
@@ -3311,12 +3307,12 @@ vkcdnservice.appspot.com^
 ||584e8fce1b418.com^
 ||58b14921719ec.com^
 ||58b291f917728a2.com^
+||58c30e7b29e.com^
 ||58f7c1ff30eb.com^
 ||59a8e0d6fa2.com^
 ||59e6ea7248001c.com^
 ||5a60bfdc522.com^
 ||5aa8f31e2f5d.com^
-||5accb38d350.com^
 ||5b5a93686577c13.com^
 ||5c43cbc0f41.com^
 ||5c577fc74618431b.com^
@@ -3479,7 +3475,6 @@ vkcdnservice.appspot.com^
 ||889fb4992d4e8.com^
 ||88d7b6aa44fb8eb.com^
 ||8b0b17dc1f9f8010.com^
-||8b18a31eb3.com^
 ||8baf7ae42000024.com^
 ||8bef5bb6b351ca5e.com^
 ||8bf8170108e3304.com^
@@ -3498,7 +3493,6 @@ vkcdnservice.appspot.com^
 ||8xkr.xyz^
 ||8yxupue8.com^
 ||8ze98lcl8389.com^
-||90454d05252.com^
 ||9053fe03868ab.com^
 ||91jsnzw.xyz^
 ||920sbo17zn88.com^
@@ -3566,7 +3560,6 @@ vkcdnservice.appspot.com^
 ||a6be07586bc4a7.com^
 ||a6f845e6c37b2833148.com^
 ||a6x4effomlxe.com^
-||a94bcec8bb.com^
 ||a9d7c19f0282.com^
 ||aa53df329975c325.com^
 ||aaaaaco.com^
@@ -3825,6 +3818,7 @@ vkcdnservice.appspot.com^
 ||aidomination.xyz^
 ||aighthatev.club^
 ||aigneloa.com^
+||ailingglorify.com^
 ||ailingtonwh.club^
 ||ailpielei.com^
 ||ailwayssteverin.info^
@@ -5315,6 +5309,7 @@ vkcdnservice.appspot.com^
 ||creathere.club^
 ||creative-serving.com^
 ||creativecdn.com^
+||creativedisplayformat.com^
 ||creativetv.pro^
 ||creaturesburglarfancied.com^
 ||creditiesv.club^
@@ -5417,6 +5412,7 @@ vkcdnservice.appspot.com^
 ||d4a77d8bc81ae17.com^
 ||d4d48974197052ea.com^
 ||d4fed03105c9f65b.com^
+||d533eecf3a7.com^
 ||d58bf31082fa97.com^
 ||d59fa492f75f520.com^
 ||d602196786e42d.com^
@@ -5928,7 +5924,6 @@ vkcdnservice.appspot.com^
 ||e18a97eee94d0f2519.com^
 ||e1bl1t39c4.com^
 ||e1ed050f62.com^
-||e1ff587aa50c.com^
 ||e21b1642db801b2a.com^
 ||e2706c6e2b426f74.com^
 ||e2ertt.com^
@@ -6402,7 +6397,7 @@ vkcdnservice.appspot.com^
 ||f71bxwn500lj.com^
 ||f8260adbf8558d6.com^
 ||f8316b45436f.com^
-||f87b88d3649456.com^
+||f97f1e91da5e2.com^
 ||fabrkrup.com^
 ||fabrouter.com^
 ||facebruek.online^
@@ -7020,6 +7015,7 @@ vkcdnservice.appspot.com^
 ||gluwhoas.com^
 ||glxmnews.pro^
 ||gmdsyfvwmqitz.com^
+||gmnzaneslia.com^
 ||gnamwmixa.com^
 ||gnatgrocery.com^
 ||gnativestreesaga.site^
@@ -7303,6 +7299,7 @@ vkcdnservice.appspot.com^
 ||highlightextrahydrogen.com^
 ||highnessbackwardsyuri.com^
 ||highnesssexuallyferment.com^
+||highperformancecpmnetwork.com^
 ||highprofitnetwork.com^
 ||highrevenuecpm.com^
 ||highwayprinting.com^
@@ -8569,7 +8566,6 @@ vkcdnservice.appspot.com^
 ||meantlick.com^
 ||meawuerhvjmty.com^
 ||mechanicsearnestobjections.com^
-||mecontentassent.website^
 ||medcourthe.fun^
 ||medcovern.club^
 ||media-general.com^
@@ -11236,6 +11232,7 @@ vkcdnservice.appspot.com^
 ||sntjim.com^
 ||snwpqybkb.com^
 ||soagrist.net^
+||soalonie.com^
 ||soap-wash.com^
 ||soapproceeding.com^
 ||sobakapi2sa8la09.com^
@@ -11787,6 +11784,7 @@ vkcdnservice.appspot.com^
 ||topdisplaycontent.com^
 ||toplesstacticsdepend.com^
 ||topmaincash.com^
+||topmosthospitable.com^
 ||topperformance.xyz^
 ||topperyregard.fun^
 ||topprofitablecpm.com^
@@ -12308,7 +12306,6 @@ vkcdnservice.appspot.com^
 ||vistoolr.net^
 ||vitaminhen.com^
 ||vitoryjober.club^
-||viunypnvhcw.com^
 ||vivdq.com^
 ||vividdefinedspiral.com^
 ||vjkjjhbi.com^
@@ -12482,7 +12479,6 @@ vkcdnservice.appspot.com^
 ||whaidruk.com^
 ||whaiweel.com^
 ||whamukoji.pro^
-||whatseet.net^
 ||whaudsur.net^
 ||whaustou.net^
 ||whautsel.net^
@@ -14043,7 +14039,6 @@ vkcdnservice.appspot.com^
 ||babsedrinhi.info^
 ||backbeatmedia.com^
 ||backlinks.com^
-||baldiro.de^
 ||bam-bam-slam.com^
 ||ban-host.ru^
 ||bananaflippy.com^
@@ -14055,7 +14050,6 @@ vkcdnservice.appspot.com^
 ||bannerconnect.com^
 ||bannerconnect.net^
 ||bannerdealer.com^
-||bannerexchange.com.au^
 ||bannerflow.com^
 ||bannerflux.com^
 ||bannerignition.co.za^
@@ -16359,7 +16353,6 @@ vkcdnservice.appspot.com^
 ||viralmediatech.com^
 ||visiads.com^
 ||visiblegains.com^
-||visionclearz.com^
 ||visitweb.com^
 ||visualsteel.net^
 ||vitalads.net^
@@ -16402,7 +16395,6 @@ vkcdnservice.appspot.com^
 ||watchfree.flv.in^
 ||watchingthat.com^
 ||watchingthat.net^
-||watchnowlive.eu^
 ||wauthaum.com^
 ||waycash.net^
 ||waytogrow.eu^
