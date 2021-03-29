@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-29T06:10:35.858Z
+! Last modified: 2021-03-29T12:11:55.546Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||merdpspl.com^
 ||734137.xyz^
 ||khdfmb.vip^
 ||mg0b68.vip^
@@ -4941,7 +4942,6 @@ vkcdnservice.appspot.com^
 ||cietypostcoa.top^
 ||cigarethalreads.fun^
 ||cigarettywu.club^
-||ciiima.com^
 ||ciksolre.net^
 ||cilcountee.top^
 ||cinsurmours.club^
@@ -7926,6 +7926,7 @@ vkcdnservice.appspot.com^
 ||kemdckufiw.com^
 ||kemperare.club^
 ||kennetting.club^
+||kepkirrlcozb.com^
 ||kerumal.com^
 ||kesevitamus.com^
 ||kesmdg.com^
@@ -12060,7 +12061,6 @@ vkcdnservice.appspot.com^
 ||umwyfqgsg.com^
 ||umyijmhalvbk.com^
 ||unacceptableclevercapable.com^
-||unblockia.com^
 ||uncessoryel.info^
 ||uncilsdegr.club^
 ||unclemaidenprecise.com^
@@ -18025,6 +18025,8 @@ vkcdnservice.appspot.com^
 ||shopconvert.com.br^
 ||neemu.com^
 ||mci1.co.kr^
+||analytics.sitewit.com^
+||ecomm.events^
 ||vercel-insights.com^
 ||nave.foone.com.br^
 ||cdn-ra.rockcontent.com^
@@ -24481,6 +24483,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ub-analytics.com^
 ||uciservice.com^
 ||uhygtf1.com^
+||unblockia.com^
 ||united-infos.net^
 ||upapi.net^
 ||uptain.de^
@@ -24958,7 +24961,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.reyrey.net^
 ||analytics.rogersmedia.com^
 ||analytics.salesanalytics.io^
-||analytics.sitewit.com^
 ||analytics.sleeknote.com^
 ||analytics.snidigital.com^
 ||analytics.sonymusic.com^
@@ -25173,7 +25175,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dy2xcjk8s1dbz.cloudfront.net^
 ||dymlo6ffhj97l.cloudfront.net^
 ||dyv1bugovvq1g.cloudfront.net^
-||ecomm.events^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
 ||eel.transistor.fm^
@@ -35651,6 +35652,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||zgchaye123.com^
 ||nkzjc.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
