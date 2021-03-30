@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-30T12:11:59.035Z
+! Last modified: 2021-03-30T18:24:10.733Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||chitypyve.pro^
+||faglollstwo.com^
+||dayanygold.com^
 ||pqtiqpfyeeayjk.com^
 ||overyfamiliar.biz^
 ||snagbaudhulas.com^
@@ -43,6 +46,7 @@
 ||119910.xyz^
 ||145650.xyz^
 ||ashtraysophomore.com^
+||bypathaivr.com^
 ||remusclerait.xyz^
 ||haradeiu.rocks^
 ||ledslevier.com^
@@ -12991,6 +12995,7 @@ vkcdnservice.appspot.com^
 ||ys1pve.site^
 ||ysensionlatio.space^
 ||yslvynerwkdls.com^
+||ysmhcwwvgtcx.com^
 ||yspicb.site^
 ||ystammedre.info^
 ||ystructingac.club^
@@ -26624,6 +26629,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||duper8flash.com^
 ||oaovcb.com^
 ||cbibhbghgdjbbageabd.ru^
 ||yenlqi.com^
@@ -35002,7 +35008,6 @@ adbetnet.com
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||wdfhl.weidianyuedu.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -35613,6 +35618,7 @@ adbetnet.com
 ||w18.9939.com^
 ||wap001.bytravel.cn^
 ||wap1.laogu.wang^
+||wdfhl.weidianyuedu.com^
 ||wenhua.jiaoshou.com^
 ||whfpbc.99.com.cn^
 ||wj.jiancai365.cn^
@@ -35721,14 +35727,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||forwardhard.cn^
-||xmysinter.com^
-||wantezy.cn^
-||951896.com^
-||yu520o.top^
-||gts991.com^
-||zgchaye123.com^
-||nkzjc.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
@@ -35865,6 +35863,7 @@ adbetnet.com
 ||91funcy.com^
 ||91jiedai.cn^
 ||94dayu.com^
+||951896.com^
 ||958so.cn^
 ||979067.com^
 ||996f3d.cn^
@@ -36293,6 +36292,7 @@ adbetnet.com
 ||fnbocll.cn^
 ||fnwll.cn^
 ||focuscat.com^
+||forwardhard.cn^
 ||fouas.com^
 ||foumm.com^
 ||fqsgj.com^
@@ -36371,6 +36371,7 @@ adbetnet.com
 ||gtchong.com^
 ||gtifund.cn^
 ||gtnde.com^
+||gts991.com^
 ||guaas.com^
 ||guangsss1999.com^
 ||guannin.com^
@@ -36821,6 +36822,7 @@ adbetnet.com
 ||njohvxs.cn^
 ||njxczy.com^
 ||nkyyls.cn^
+||nkzjc.cn^
 ||nkzker.cn^
 ||nlqnmkn.cn^
 ||nlyjs2015.com^
@@ -37225,6 +37227,7 @@ adbetnet.com
 ||wangliqin.top^
 ||wangqing7.top^
 ||wannuochongkong.com^
+||wantezy.cn^
 ||warron.cn^
 ||wbiev.com^
 ||wcail.com^
@@ -37332,6 +37335,7 @@ adbetnet.com
 ||xmseaside.com^
 ||xmstcw.cn^
 ||xmstpay.com^
+||xmysinter.com^
 ||xn--2qu92fhtx4ff.club^
 ||xn--2qu92fhtx4ff.ink^
 ||xn--2qu92fhtx4ff.ren^
@@ -37438,6 +37442,7 @@ adbetnet.com
 ||ytcard.cn^
 ||ytmaitian.com^
 ||ytmaksim.cn^
+||yu520o.top^
 ||yuandongoffice.com^
 ||yuanqitu.com^
 ||yueduyy.com^
@@ -37478,6 +37483,7 @@ adbetnet.com
 ||zenwq.com^
 ||zfanc.com^
 ||zfood029.com^
+||zgchaye123.com^
 ||zgdfvih.cn^
 ||zgdtro.com^
 ||zgfszs.com^
