@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-30T06:10:17.925Z
+! Last modified: 2021-03-30T12:11:59.035Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,8 +18,17 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||pqtiqpfyeeayjk.com^
+||overyfamiliar.biz^
+||snagbaudhulas.com^
+||whagrolt.com^
+||worersie.com^
+||wapsisod.net^
+||baomay01.com^
+||ptonauls.net^
+||capyestern.com^
+||herdcowhas.icu^
 ||adcheap.network^
-||zerg.pro^
 ||leaguenod.com^
 ||drasticdifferentfoetus.com^
 ||reginasfreyr.com^
@@ -28,7 +37,6 @@
 ||jakseque.com^
 ||rgverkqcpahaqcqtmpksxicmtno.com^
 ||praterswhally.com^
-||merdpspl.com^
 ||734137.xyz^
 ||khdfmb.vip^
 ||mg0b68.vip^
@@ -78,7 +86,6 @@
 ||creepybuzzing.com^
 ||chewsrompedhemp.com^
 ||gompoozu.net^
-||bestcontentfund.top^
 ||taigrooh.net^
 ||inspectorstrongerpill.com^
 ||boasstylijoked.com^
@@ -4388,6 +4395,7 @@ vkcdnservice.appspot.com^
 ||best5ex.com^
 ||bestaryua.com^
 ||bestcontentfee.top^
+||bestcontentfund.top^
 ||bestcontenthost.com^
 ||bestcontentjob.top^
 ||bestcontentoperation.top^
@@ -8671,6 +8679,7 @@ vkcdnservice.appspot.com^
 ||merciselyancies.site^
 ||mercuras.com^
 ||mercyusuallylikewise.com^
+||merdpspl.com^
 ||meredthou.fun^
 ||meriesbefor.fun^
 ||merryemotionally.com^
@@ -13068,6 +13077,7 @@ vkcdnservice.appspot.com^
 ||zeqqvubxtrh.com^
 ||zeqtblok.com^
 ||zerezas.com^
+||zerg.pro^
 ||zeroidtech.com^
 ||zerolullaby.com^
 ||zestzqhrwsvwcq.com^
@@ -35711,6 +35721,11 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||forwardhard.cn^
+||xmysinter.com^
+||wantezy.cn^
+||951896.com^
+||yu520o.top^
 ||gts991.com^
 ||zgchaye123.com^
 ||nkzjc.cn^
