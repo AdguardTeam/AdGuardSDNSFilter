@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-31T06:10:18.536Z
+! Last modified: 2021-03-31T12:12:03.586Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||ppcnt.pro^
 ||chitypyve.pro^
 ||faglollstwo.com^
 ||dayanygold.com^
@@ -40,11 +41,6 @@
 ||jakseque.com^
 ||rgverkqcpahaqcqtmpksxicmtno.com^
 ||praterswhally.com^
-||734137.xyz^
-||khdfmb.vip^
-||mg0b68.vip^
-||119910.xyz^
-||145650.xyz^
 ||ashtraysophomore.com^
 ||bypathaivr.com^
 ||remusclerait.xyz^
@@ -3419,6 +3415,7 @@ vkcdnservice.appspot.com^
 ||71a30cae934e.com^
 ||71bcab8994dbe2.com^
 ||71d7511a4861068.com^
+||72645c77397.com^
 ||72b8869dfc34690.com^
 ||739c49a8c68917.com^
 ||73c6c063b238097.com^
@@ -3682,6 +3679,7 @@ vkcdnservice.appspot.com^
 ||adactioner.com^
 ||adaranth.com^
 ||adbmi.com^
+||addictedapartlazy.com^
 ||addressen.club^
 ||addression.club^
 ||adearsened.info^
@@ -5130,6 +5128,7 @@ vkcdnservice.appspot.com^
 ||coderformylife.info^
 ||codezap.com^
 ||coedmediagroup.com^
+||coffeedesigningkindle.com^
 ||cogsdigital.com^
 ||coinad.com^
 ||coinad.media^
@@ -5146,6 +5145,7 @@ vkcdnservice.appspot.com^
 ||collectrum.com^
 ||colliersads.com^
 ||coloniansheraz.site^
+||colouredcavity.com^
 ||coltagainst.pro^
 ||colupoqy.xyz^
 ||com-wkejf32ljd23409system.net^
@@ -5507,6 +5507,7 @@ vkcdnservice.appspot.com^
 ||dashboardad.net^
 ||dashcreakyock.com^
 ||dashgreen.online^
+||dashingperfect.com^
 ||dasimporary.club^
 ||data-data-vac.com^
 ||datedissyuk.icu^
@@ -5517,6 +5518,7 @@ vkcdnservice.appspot.com^
 ||daugloon.net^
 ||dauntlessomelette.com^
 ||dauphinelles.xyz^
+||daysaristocracy.com^
 ||dazhantai.com^
 ||db03f3c62eb.com^
 ||db52cc91beabf7e8.com^
@@ -6229,6 +6231,7 @@ vkcdnservice.appspot.com^
 ||enumerateenvironment.com^
 ||enumeraterunnerscommence.com^
 ||enumerfavo.club^
+||enviousfundraiserbelonged.com^
 ||environymsc.info^
 ||envyemerged.com^
 ||eondunpea.com^
@@ -6581,6 +6584,7 @@ vkcdnservice.appspot.com^
 ||ffhwzaenzoue.com^
 ||ffickiedisticre.site^
 ||ffkdxymyji.com^
+||ffonavzh.com^
 ||ffortyimagist.info^
 ||ffqpdpezdmnpb.com^
 ||fftpzrscirdagr.com^
@@ -7939,6 +7943,7 @@ vkcdnservice.appspot.com^
 ||k4bg1u10omks.com^
 ||kaelpossible.pro^
 ||kagrooxa.net^
+||kaifiluk.com^
 ||kaiphapt.net^
 ||kakyomloctqiu.com^
 ||kalespurhoes.com^
@@ -8507,6 +8512,7 @@ vkcdnservice.appspot.com^
 ||mammalrussia.com^
 ||mamphxagal.com^
 ||mamydirect.com^
+||managemeasuredcypress.com^
 ||managesdancing.com^
 ||managining.club^
 ||manatomicbru.site^
@@ -18090,6 +18096,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||hubble.netease.com^
 ||im.cbsileads.com^
 ||heymatic.com^
 ||pensebig.com.br^
@@ -18111,6 +18118,7 @@ vkcdnservice.appspot.com^
 ||burpee.xyz^
 ||spnx.jp^
 ||ac.ecai-report.com^
+||breaktime.com.tw^
 ||track.span-smt.jp^
 ||trk.fensi.plus^
 ||a.o2u.jp^
@@ -22081,6 +22089,8 @@ t.yesware.com
 ||count.munhwa.com^
 ||geo.mattel163.com^
 ||tc-log.mattel163.com^
+||metrics.api.yle.fi^
+||analytics-sdk.yle.fi^
 ||events-api*.outfit7.com^
 ||events.emogi.com^
 ||log.ohmynews.com^
@@ -24738,7 +24748,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wwclicktm.club^
 ||xtremepush.com^
 ! Fingerprinting
-||breaktime.com.tw^
 ||citrusad.net^
 ||clickguardian.app^
 ||clickyab.com^
@@ -32185,9 +32194,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Mar 2021 15:42 UTC+7
-! Version: 2103271542
-! Blocked: 821 rules
+! Last modified: 31 Mar 2021 14:29 UTC+7
+! Version: 2103311429
+! Blocked: 836 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32256,6 +32265,7 @@ adbetnet.com
 ||haravan.com^
 ||hotngay.vn^
 ||itim.vn^
+||jslog.zapps.vn^
 ||kabbmedia.com^
 ||klick.vn^
 ||ladipage.net^
@@ -32487,6 +32497,7 @@ adbetnet.com
 ||banner.vietnamfinance.vn^
 ||bluemaulpuffs.com^
 ||cdn-ads.thesaigontimes.vn^
+||cdn-bongdadem-net.cdn.ampproject.org^
 ||cdn.bongdadem.net^
 ||cdn2.cache.vn^
 ||cdnasset.dantri.com.vn^
@@ -32597,6 +32608,7 @@ adbetnet.com
 ||analytics.vnpt.vn^
 ||analytics.vnreview.vn^
 ||api.ozui.vn^
+||apiv2.tiin.vn^
 ||apl.headlines.pw^
 ||app.hstatic.net^
 ||app.sbz.workers.dev^
@@ -32638,6 +32650,7 @@ adbetnet.com
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
 ||log.batdongsan.com.vn^
+||log.beecost.com^
 ||log.beecost.vn^
 ||log.daidoanket.vn^
 ||log.dantocmiennui.vn^
@@ -32692,6 +32705,7 @@ adbetnet.com
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
 ||report.vnay.vn^
+||rsyslog.24h.com.vn^
 ||s.baomoi.xdn.vn^
 ||s.homedy.com^
 ||s.kenh14.vn^
@@ -32736,6 +32750,7 @@ adbetnet.com
 ||tracker.phunuvagiadinh.vn^
 ||tracker.tintucvietnam.vn^
 ||tracker.vanlong.stream^
+||tracking-amp.vnexpress.net^
 ||tracking.appwifi.com^
 ||tracking.dantri.com.vn^
 ||tracking.fado.vn^
@@ -32791,6 +32806,7 @@ adbetnet.com
 ||8livevn.com^
 ||aa88.in^
 ||ae888.com^
+||aw8vn2.com^
 ||b29qc.win^
 ||betvietnam.info^
 ||betvisa.com^
@@ -32800,6 +32816,7 @@ adbetnet.com
 ||bong99.fun^
 ||bong99.vip^
 ||boom66.com^
+||bwingmkt8.com^
 ||cacuoc247.com^
 ||cacuoc79.com^
 ||casino888vn.com^
@@ -32817,6 +32834,7 @@ adbetnet.com
 ||fb88sports.com^
 ||fb88viet.com^
 ||fcb8.com^
+||fcb88.com^
 ||fcb88d.com^
 ||five88.biz^
 ||five88.com^
@@ -32832,11 +32850,13 @@ adbetnet.com
 ||goal68.net^
 ||goal68.top^
 ||goal86.top^
+||h3bet.com^
 ||hotlive8.vip^
 ||ibet889.com^
 ||income88.com^
 ||interwinvn.com^
 ||jbo064.com^
+||jboviet.com^
 ||jbovn.com^
 ||k8vina17.com^
 ||k8vn03.com^
@@ -32861,6 +32881,7 @@ adbetnet.com
 ||mansion66.com^
 ||may88.com^
 ||mayclub.net^
+||mc876.com^
 ||mibet.com^
 ||mibet.mobi^
 ||mibet.win^
@@ -32870,9 +32891,11 @@ adbetnet.com
 ||ms3388.com^
 ||ms88asia.com^
 ||ms88ca.com^
+||nbet.com^
 ||nhanthuong88.com^
 ||nhat.game^
 ||nhatvip.net^
+||ole777vietnam.com^
 ||one88.com^
 ||one88.fun^
 ||one88.me^
@@ -32918,6 +32941,7 @@ adbetnet.com
 ||vietbet.eu^
 ||viva88.com^
 ||vlott88.com^
+||vn34.com^
 ||vn88.bet^
 ||vn88.biz^
 ||vn88.casino^
@@ -35742,6 +35766,9 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||wmk0099.xyz^
+||chongnikeji.com^
+||agpligj.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
