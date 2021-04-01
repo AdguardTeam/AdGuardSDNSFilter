@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-03-31T18:22:55.710Z
+! Last modified: 2021-04-01T00:29:18.152Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -3169,6 +3169,7 @@ vkcdnservice.appspot.com^
 ||23205523023daea6.com^
 ||2334ea708ab6d79.com^
 ||233fb5b59351.com^
+||23b00ca2da.com^
 ||24-sportnews.com^
 ||2444efc8cd8e.com^
 ||24ad89fc2690ed9369.com^
@@ -6667,6 +6668,7 @@ vkcdnservice.appspot.com^
 ||flexknfp.com^
 ||flexlinks.com^
 ||fliedridgin.com^
+||fliplotincreasingly.com^
 ||flippantreprehensiblecharming.com^
 ||flite.com^
 ||flixcontentshop.com^
@@ -8067,6 +8069,7 @@ vkcdnservice.appspot.com^
 ||kpxbctywsa.com^
 ||kpyxcbdaftlxt.com^
 ||kqbigsdyqtdh.com^
+||kqpkigli.com^
 ||krdmqluvudizq.com^
 ||krkursist.com^
 ||krouekal.com^
@@ -8661,6 +8664,7 @@ vkcdnservice.appspot.com^
 ||meerihoh.net^
 ||meetic-partners.com^
 ||meetingking.club^
+||meetsourhig.biz^
 ||mega-fla.com^
 ||megaad.nz^
 ||megacpm.com^
@@ -11203,6 +11207,7 @@ vkcdnservice.appspot.com^
 ||shyama-jay.com^
 ||shyhuetub.site^
 ||si1ef.com^
+||siamtheo.online^
 ||siamzone.com^
 ||sibilantcliffrecommendation.com^
 ||sicaurtu.net^
@@ -11341,6 +11346,7 @@ vkcdnservice.appspot.com^
 ||sonsitself.com^
 ||soofeest.net^
 ||sooiipveodjxb.com^
+||sootuglyconfer.com^
 ||sophang8.com^
 ||sophomoremostlyplain.com^
 ||soshoord.com^
@@ -11394,6 +11400,7 @@ vkcdnservice.appspot.com^
 ||splittingpick.com^
 ||spo7h3ktdvy5.com^
 ||spontaneousguarded.com^
+||spontaneousshady.com^
 ||spoonslaxoil.com^
 ||sport205.club^
 ||sportivki2v1cvetocher1fh.com^
@@ -12010,6 +12017,7 @@ vkcdnservice.appspot.com^
 ||tur-tur-key.com^
 ||tureabstra.fun^
 ||turmoilexcessivetranslating.com^
+||turtlesootheongoing.com^
 ||tutorinforget.site^
 ||tuwuyppwdj.com^
 ||tuxbpnne.com^
@@ -12690,6 +12698,7 @@ vkcdnservice.appspot.com^
 ||writtenorbithalfbaked.com^
 ||wrkl.xyz^
 ||wrongerababan.info^
+||wroteadministercurve.com^
 ||wsgmxgtmxymwt.com^
 ||wsjlbbqemr23.com^
 ||wskiglimpso.info^
@@ -23937,7 +23946,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||abtshield.com^
 ||acceptableserver.com^
 ||acsbap.com^
-||acsbapp.com^
 ||acuityplatform.com^
 ||acxiomapac.com^
 ||adabra.com^
@@ -33002,9 +33010,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||aklm.cc^
-||gdcytv.cn^
-||xn--xhq9mt12cf5v.xn--io0a7i^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -33269,6 +33274,7 @@ adbetnet.com
 ||aishangcan.com^
 ||ajaxcdn.org^
 ||ak0429.com^
+||aklm.cc^
 ||alifixed.cn^
 ||alightin.com^
 ||alimama.alicdn.com^
@@ -33584,6 +33590,7 @@ adbetnet.com
 ||gasxf.com^
 ||gaycloud.cn^
 ||gdbly.com^
+||gdcytv.cn^
 ||gdgy56.com^
 ||gdskywings.com^
 ||ge95.com^
@@ -34463,6 +34470,7 @@ adbetnet.com
 ||xn--xhq9mt12cf5v.ren^
 ||xn--xhq9mt12cf5v.site^
 ||xn--xhq9mt12cf5v.website^
+||xn--xhq9mt12cf5v.xn--io0a7i^
 ||xnjpg.com^
 ||xnmcmnt.cn^
 ||xsdlq.cn^
@@ -35776,9 +35784,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||wmk0099.xyz^
-||chongnikeji.com^
-||agpligj.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
@@ -35956,6 +35961,7 @@ adbetnet.com
 ||aduic.com^
 ||affiliate6.com^
 ||aganj.com^
+||agpligj.cn^
 ||ah808.com^
 ||ahidna.cn^
 ||ahuac.com^
@@ -36147,6 +36153,7 @@ adbetnet.com
 ||chinawms.cn^
 ||chinaxingyin.com^
 ||chinayutai.cn^
+||chongnikeji.com^
 ||chuangjulm.cn^
 ||chuzrra.cn^
 ||cifree.xyz^
@@ -37318,6 +37325,7 @@ adbetnet.com
 ||wlaoc.cn^
 ||wlbqczk.vip^
 ||wlshotel.cn^
+||wmk0099.xyz^
 ||wnsoth.cn^
 ||wokekk.com^
 ||workbizs.com^
