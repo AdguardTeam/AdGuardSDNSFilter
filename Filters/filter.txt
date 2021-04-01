@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-01T06:10:07.099Z
+! Last modified: 2021-04-01T12:12:03.090Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -9317,6 +9317,7 @@ vkcdnservice.appspot.com^
 ||noagloot.net^
 ||noaloheb.com^
 ||noamiagainst.pro^
+||noawhupt.net^
 ||noblefun.net^
 ||noblemagnition.com^
 ||noclef.com^
@@ -10267,6 +10268,7 @@ vkcdnservice.appspot.com^
 ||ptauphiw.net^
 ||ptaussee.net^
 ||ptauvuph.com^
+||ptauxofi.net^
 ||ptavizap.net^
 ||ptawehex.net^
 ||ptechait.com^
@@ -10764,6 +10766,7 @@ vkcdnservice.appspot.com^
 ||rightnativecontent.com^
 ||rightstaredstun.com^
 ||rigourcrispblaspheme.com^
+||rigourflickmarketing.com^
 ||rilelogicbuy.com^
 ||rimezvsto.com^
 ||rincegath.fun^
@@ -12142,6 +12145,7 @@ vkcdnservice.appspot.com^
 ||ulzcieyihw.com^
 ||umannwig.com^
 ||umcbbt.com^
+||umdycgbklen.com^
 ||umehoars.club^
 ||umekana.ru^
 ||umfxefqtqd.com^
@@ -12753,6 +12757,7 @@ vkcdnservice.appspot.com^
 ||xaxoro.com^
 ||xbaulknerte.club^
 ||xbcnvj2mdk1dn1.com^
+||xbnvucutpcq.com^
 ||xbrfevoe.com^
 ||xcelltech.com^
 ||xcelsiusadserver.com^
@@ -18111,6 +18116,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||tag-based.s3.*.amazonaws.com^
 ||oeqirr.com^
 ||hubble.netease.com^
 ||im.cbsileads.com^
@@ -18164,6 +18170,7 @@ vkcdnservice.appspot.com^
 ||stat.ustore.bz^
 ||logbor.com^
 ||click-plus.net^
+||stats.vliplatform.com^
 ||smart-bdash.com^
 ||analytics.contents.by-fw.jp^
 ||appier.net^
@@ -22036,6 +22043,8 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||cwt.citywire.info^
+||ua.indianexpress.com^
 ||a-reporting.nytimes.com^
 ||metrika.lookmovie.io^
 ||s.deepl.com^
@@ -25570,7 +25579,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.twistage.com^
 ||stats.varrando.com^
 ||stats.viddler.com^
-||stats.vliplatform.com^
 ||stats.webs.com^
 ||stats.webstarts.com^
 ||stats.zotabox.com^
@@ -31485,6 +31493,7 @@ adbetnet.com
 !
 ! Section contains list of advertising networks
 !
+||ef9i0f3oev47.com^
 ||oyvyxj.cn^
 ||ayqxx.com^
 ||etxjbxs.top^
@@ -32210,8 +32219,8 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 Apr 2021 10:58 UTC+7
-! Version: 2104011058
+! Last modified: 01 Apr 2021 16:09 UTC+7
+! Version: 2104011609
 ! Blocked: 836 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -35784,6 +35793,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||gssdsj.com^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
