@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-02T12:11:56.368Z
+! Last modified: 2021-04-02T18:23:14.700Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||vashebiwa.pro^
+||zosuptosta.pro^
 ||vowcertainly.com^
 ||forcelessgreetingbust.com^
 ||defyraspypuke.com^
@@ -2622,6 +2624,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||d1ac2du043ydir.cloudfront.net^
 ||tontent.pouvideo.cc^
 ||a.dphunters.com^
 ||a.streamoupload.com^
@@ -3975,6 +3978,7 @@ vkcdnservice.appspot.com^
 ||anklandas.club^
 ||anlcld.com^
 ||anncmq.com^
+||annelinterv.fun^
 ||anniversarytoothbrush.com^
 ||announcedvillainvaluable.com^
 ||announcils.club^
@@ -5657,6 +5661,7 @@ vkcdnservice.appspot.com^
 ||deterindependentblocked.com^
 ||detour.click^
 ||detourlearned.com^
+||deturbcordies.com^
 ||devilspanmute.com^
 ||deviouscoupbrutally.com^
 ||dewgnvonohak.com^
@@ -5774,6 +5779,7 @@ vkcdnservice.appspot.com^
 ||distrikerkvazar.site^
 ||dit-dit-dot.com^
 ||ditdotsol.com^
+||dithesetha.pro^
 ||ditiesacco.club^
 ||ditincoriligh.pro^
 ||ditionstrou.club^
@@ -6926,6 +6932,7 @@ vkcdnservice.appspot.com^
 ||galacticmenueasier.com^
 ||galaks.io^
 ||galampgab.com^
+||galatests.site^
 ||galbrechen.club^
 ||galemeltdown.com^
 ||galkama.info^
@@ -8196,6 +8203,7 @@ vkcdnservice.appspot.com^
 ||lauhefoo.com^
 ||lauhoosh.net^
 ||lauk.icu^
+||launchingsulk.com^
 ||lauriegrowingdrops.com^
 ||lauwhada.com^
 ||lavando2scas1hh1.com^
@@ -8295,6 +8303,7 @@ vkcdnservice.appspot.com^
 ||lifeseatbird.com^
 ||lifzpefv.com^
 ||ligatus.com^
+||lighterplumberlimits.com^
 ||lightiesenco.space^
 ||lihkidwhlf.com^
 ||lijzkjtk.com^
@@ -10541,6 +10550,7 @@ vkcdnservice.appspot.com^
 ||railroadtomato.com^
 ||railwaysupper.com^
 ||raisingglisten.com^
+||raisingnegligencemanages.com^
 ||raivikod.net^
 ||rakamu.com^
 ||ramatering.club^
@@ -11212,6 +11222,7 @@ vkcdnservice.appspot.com^
 ||shoagnie.com^
 ||shoawhom.com^
 ||shockersheva.com^
+||shodcryoft.com^
 ||shodroph.net^
 ||shofteph.com^
 ||shoizifjwosvk.com^
@@ -11461,6 +11472,7 @@ vkcdnservice.appspot.com^
 ||ssucvdbxxlibn.com^
 ||ssumeras.top^
 ||stabiloseront.xyz^
+||staffrural.com^
 ||staglance.club^
 ||staimpor.net^
 ||staitchu.com^
@@ -12371,6 +12383,7 @@ vkcdnservice.appspot.com^
 ||vendigamus.com^
 ||vendnibtemp.com^
 ||venetrigni.com^
+||venotrouble.biz^
 ||ventrequmus.com^
 ||venuegirtjive.com^
 ||veopvpgxcrt.com^
@@ -12628,6 +12641,7 @@ vkcdnservice.appspot.com^
 ||whixekica.pro^
 ||whixochyxy.pro^
 ||whoavaud.net^
+||wholefreshposts.com^
 ||wholesomeindians.com^
 ||whoostoo.net^
 ||whoshood.com^
@@ -26726,6 +26740,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||amads.xyz^
 ||leadgidads.ru^
 ||vioturallis.com^
+||flowpubdom.info^
 ||bvl5bziz9d.ru^
 ||tcamav.com^
 ||ohgskf.com^
@@ -31315,6 +31330,8 @@ adbetnet.com
 !
 ! Eimg.jp
 !
+||affiliate.konibet.com^
+||eisys-bcs.jp^
 ||congrab.com^
 ||ad-hatena.com^
 ||torimochi-ad.net^
@@ -31532,6 +31549,9 @@ adbetnet.com
 !
 ! Section contains list of advertising networks
 !
+||xn--xhq9mt12cf5v.xn--io0a7i^
+||zxptw.cn^
+||qichetuoyun.com.cn^
 ||ef9i0f3oev47.com^
 ||oyvyxj.cn^
 ||ayqxx.com^
@@ -34519,7 +34539,6 @@ adbetnet.com
 ||xn--xhq9mt12cf5v.ren^
 ||xn--xhq9mt12cf5v.site^
 ||xn--xhq9mt12cf5v.website^
-||xn--xhq9mt12cf5v.xn--io0a7i^
 ||xnjpg.com^
 ||xnmcmnt.cn^
 ||xsdlq.cn^
@@ -34686,7 +34705,6 @@ adbetnet.com
 ||ztvx8.com^
 ||zwenhan.com^
 ||zxhrq.cn^
-||zxptw.cn^
 ||zybpj.com^
 ||zydyjzw.cn^
 ||zyqp9.com^
