@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-02T00:37:40.566Z
+! Last modified: 2021-04-02T06:14:27.945Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -3394,6 +3394,7 @@ vkcdnservice.appspot.com^
 ||6b5c418918ebb008cc6.com^
 ||6bgaput9ullc.com^
 ||6c6a4ec4e8b80d4.com^
+||6e1c33faf740.com^
 ||6e2f1d2ae033.com^
 ||6ea56485aed0c.com^
 ||6ed0a6630b.com^
@@ -3417,9 +3418,11 @@ vkcdnservice.appspot.com^
 ||7-7-7-partner.com^
 ||7017042b83a65ea.com^
 ||70ee6484605f.com^
+||70f2102bcdb4.com^
 ||71a30cae934e.com^
 ||71bcab8994dbe2.com^
 ||71d7511a4861068.com^
+||7227018403.com^
 ||72645c77397.com^
 ||72b8869dfc34690.com^
 ||739c49a8c68917.com^
@@ -3548,6 +3551,7 @@ vkcdnservice.appspot.com^
 ||9cd76b4462bb.com^
 ||9content.com^
 ||9d766be9a3.com^
+||9d906d0a8bb.com^
 ||9dc93a7c1dd.com^
 ||9dmnv9z0gtoh.com^
 ||9e1486fffbec3.com^
@@ -5809,6 +5813,7 @@ vkcdnservice.appspot.com^
 ||dmvbdfblevxvx.com^
 ||dnbizcdn.com^
 ||dnemkhkbsdbl.com^
+||doboacki.net^
 ||dodgekeelpops.com^
 ||dogconcurrencesauce.com^
 ||dogwrite.com^
@@ -5990,6 +5995,7 @@ vkcdnservice.appspot.com^
 ||e94a941778d.com^
 ||e9976b21f1b2775b.com^
 ||e9c1khhwn4uf.com^
+||e9e21762138.com^
 ||ea1abaf867.com^
 ||ea6353e47e0ab3f78.com^
 ||ea978ca12bb65.com^
@@ -6126,6 +6132,7 @@ vkcdnservice.appspot.com^
 ||eiteratebef.top^
 ||eithereda.fun^
 ||eitherewindoor.club^
+||eitherunkindvapour.com^
 ||ejectfeudburly.com^
 ||ejgpuaguf.com^
 ||ejirytuw.xyz^
@@ -6496,6 +6503,7 @@ vkcdnservice.appspot.com^
 ||famountsuref.site^
 ||fancialeldak.site^
 ||fancialsilveun.club^
+||fancyfourthvolcano.com^
 ||fandmo.com^
 ||faqrdrkwdhqgug.com^
 ||faracoon.com^
@@ -10158,6 +10166,7 @@ vkcdnservice.appspot.com^
 ||preparesecretary.com^
 ||prepenseprepensedefiance.com^
 ||presearchity.site^
+||presentationsportsman.com^
 ||presentlyarch.com^
 ||presentsh.club^
 ||pressingfastenedphantom.com^
@@ -10380,6 +10389,7 @@ vkcdnservice.appspot.com^
 ||qbbnixdd.com^
 ||qbcpicrtdje.com^
 ||qbddhjrwe.com^
+||qbgrlltue.com^
 ||qbkzvophvva.com^
 ||qdanzopuyrbf.com^
 ||qdatasales.com^
@@ -11623,6 +11633,7 @@ vkcdnservice.appspot.com^
 ||szahidalkath.fun^
 ||szausichl.com^
 ||szprhglyodqj.com^
+||szpsngbow.com^
 ||t.uc.cn^
 ||t0gkj99krb24.com^
 ||t5lxz7dtq4iz.com^
@@ -11752,6 +11763,7 @@ vkcdnservice.appspot.com^
 ||thankfuladdress.com^
 ||thanksinhabitedregretful.com^
 ||thansendmaterial-14.live^
+||thaudray.com^
 ||thaveksi.net^
 ||theationopo.club^
 ||theatredveres.site^
@@ -12254,6 +12266,7 @@ vkcdnservice.appspot.com^
 ||ushoofop.com^
 ||ushooque.net^
 ||usjguyybhhtjos.com^
+||usounoul.com^
 ||ustbitsoct.top^
 ||ustedpicklyba.space^
 ||ustralpublicate.site^
@@ -12586,6 +12599,7 @@ vkcdnservice.appspot.com^
 ||whaudsur.net^
 ||whaustou.net^
 ||whautsel.net^
+||whazugho.com^
 ||whdzxabhqsdnlc.com^
 ||wheeptit.net^
 ||wheessoo.com^
@@ -12679,6 +12693,7 @@ vkcdnservice.appspot.com^
 ||wonderfuladults.com^
 ||woodynoddinghalfbrother.com^
 ||woogoust.com^
+||woolindigenousdaft.com^
 ||wootmedia.net^
 ||woovooza.net^
 ||wordshipopa.club^
@@ -24662,6 +24677,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wootric.com^
 ||worldflagcounter.com^
 ||wpfc.ml^
+||wtastats.com^
+||wtastats.ro^
 ||wts.one^
 ||xdisctracking.pw^
 ||xtraffstat.com^
@@ -32229,8 +32246,8 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 Apr 2021 16:09 UTC+7
-! Version: 2104011609
+! Last modified: 02 Apr 2021 11:27 UTC+7
+! Version: 2104021127
 ! Blocked: 836 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
