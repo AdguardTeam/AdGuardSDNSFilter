@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-05T18:23:17.578Z
+! Last modified: 2021-04-06T00:30:04.170Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||d2v02itv0y9u9t.cloudfront.net^
 ||termadodad.com^
 ||meproductive.com^
 ||rainingvital.com^
@@ -3795,7 +3796,6 @@ vkcdnservice.appspot.com^
 ||admiriam.club^
 ||admitteepom.club^
 ||admob.com^
-||adnico.jp^
 ||adofqudjesh.com^
 ||adoperatorx.com^
 ||adopexchange.com^
@@ -4115,6 +4115,7 @@ vkcdnservice.appspot.com^
 ||apesstration.top^
 ||apestsagai.club^
 ||aphicbouncil.club^
+||aphidsclee.com^
 ||apiafubb.com^
 ||apiecelee.com^
 ||apologisehistoriancrackle.com^
@@ -5467,6 +5468,7 @@ vkcdnservice.appspot.com^
 ||counciladvertising.net^
 ||councingcan.space^
 ||counsellorcolours.com^
+||counterfeitafloatcondolences.com^
 ||counterry.club^
 ||countertrck.com^
 ||countilde.online^
@@ -6853,6 +6855,7 @@ vkcdnservice.appspot.com^
 ||fearsomeclients.com^
 ||featurally.club^
 ||feb12740de5be9b3.com^
+||febjroxjgzx.com^
 ||federalderok.club^
 ||fedsit.com^
 ||feed-xml.com^
@@ -10370,6 +10373,7 @@ vkcdnservice.appspot.com^
 ||phirgese.com^
 ||phmcgeqjticzbd.com^
 ||phoakrun.net^
+||phoapsoo.com^
 ||phokukse.com^
 ||phonefilamentembarrassment.com^
 ||phoobsoo.net^
@@ -12302,6 +12306,7 @@ vkcdnservice.appspot.com^
 ||tidyboressire.com^
 ||tidydownright.com^
 ||tieecstasythrong.com^
+||tielengthenelaborate.com^
 ||tifbhyfrik.com^
 ||tificanaccou.top^
 ||tifybecausingp.info^
@@ -13414,6 +13419,7 @@ vkcdnservice.appspot.com^
 ||xjngxaij.com^
 ||xjrvkpoqurqnlz.com^
 ||xjuzpixunwzckm.com^
+||xknnubcqaa.com^
 ||xkpbcd.com^
 ||xkpoynygjpvc.com^
 ||xkxddhpx.com^
@@ -13525,6 +13531,7 @@ vkcdnservice.appspot.com^
 ||yceml.net^
 ||ychijnziuhvu.com^
 ||ycorsementh.top^
+||ycurrentjobis.biz^
 ||ycxtpbfcsl.com^
 ||ydbmligdloqmqi.com^
 ||ydlwrwbjosjycn.com^
@@ -14185,6 +14192,7 @@ vkcdnservice.appspot.com^
 ||adneutralads.com^
 ||adnext.fr^
 ||adngin.com^
+||adnico.jp^
 ||adnigma.com^
 ||adnimation.com^
 ||adnimo.com^
@@ -18267,6 +18275,9 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||sp.dpgmedia.net^
+||beak.bigdata.dpgmmservices.nl^
+||sat.public.bd.313.nl^
 ||distillery.wistia.com^
 ||pipedream.wistia.com^
 ||mutinycdn.com^
@@ -22206,6 +22217,8 @@ t.yesware.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||temptation.ad.nl^
+||events.reclamefolder.nl^
 ||analytics-api.smzdm.com^
 ||cwt.citywire.info^
 ||ua.indianexpress.com^
@@ -34891,6 +34904,7 @@ adbetnet.com
 ||ad.byfuh.com^
 ||ad.ccement.com^
 ||ad.cdnjm.cn^
+||ad.fx168api.com^
 ||ad.walkgame.com^
 ||ad.wurangxian.top^
 ||adadmin.house365.com^
@@ -35189,7 +35203,6 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||ad.fx168api.com^
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -35942,10 +35955,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||bairentou.com.cn^
-||200ps.com^
-||puqer.cn^
-||echuanglm1.com^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
@@ -35988,6 +35997,7 @@ adbetnet.com
 ||199zw.com^
 ||1pzskg.cn^
 ||1x26q3.cn^
+||200ps.com^
 ||215to.cn^
 ||2227q.com^
 ||23uuw3.com^
@@ -36201,6 +36211,7 @@ adbetnet.com
 ||bahu.xyz^
 ||baidu.bxwx3.org^
 ||bailequan.net.cn^
+||bairentou.com.cn^
 ||baitaoidc.com^
 ||baiyangzs.com^
 ||banma51.cn^
@@ -36446,6 +36457,7 @@ adbetnet.com
 ||e9emh.cn^
 ||ebuysolar.com^
 ||echomilly.com^
+||echuanglm1.com^
 ||ecuwa.cn^
 ||edajin.com^
 ||ediun.com^
@@ -37133,6 +37145,7 @@ adbetnet.com
 ||prpcoin.com^*.gif
 ||ptgezc.com^
 ||pu0glv.cn^
+||puqer.cn^
 ||pwjmzqx.cn^
 ||pyerc.com^
 ||pyhuiyu.com^
