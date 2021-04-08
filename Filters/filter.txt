@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-08T12:11:58.878Z
+! Last modified: 2021-04-08T18:23:01.436Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,14 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||dqjazjbqrmrnhb.com^
+||giwzywnxnk.com^
+||greenplasticdua.com^
+||qppdqcid.com^
+||dmxftmoqz.com^
+||thispositionw.biz^
+||vetdeberg.com^
+||zviybblezmc.com^
 ||thorsado.net^
 ||kewuruve.xyz^
 ||lamforsung.com^
@@ -367,7 +375,6 @@
 ||togranbulla.com^
 ||prltmz.com^
 ||getcontent.net^
-||look.flowln.com^
 ||joinads.me^
 ||mughaymil.site^
 ||sellerbackstagejolly.com^
@@ -2643,6 +2650,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||a.teenspirithentai.com^
 ||d1ac2du043ydir.cloudfront.net^
 ||tontent.pouvideo.cc^
 ||a.dphunters.com^
@@ -2821,6 +2829,7 @@ www.llllllllllll.net^
 ||dr3k6qonw2kee.cloudfront.net^
 ||js.bulkhentai.com^
 ||script.hqpass.com^
+
 !
 ! Source name: AdGuard Base filter ad servers foreign
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/foreign.txt
@@ -6376,6 +6385,7 @@ vkcdnservice.appspot.com^
 ||eetyed.com^
 ||eeveniccoll.club^
 ||eevidespre.top^
+||eexaitie.net^
 ||eezavops.net^
 ||eezegrip.net^
 ||ef37e8027b.com^
@@ -7047,6 +7057,7 @@ vkcdnservice.appspot.com^
 ||flomigo.com^
 ||flopinclose.com^
 ||flowerythug.com^
+||flowln.com^
 ||flowwiththetide.xyz^
 ||flrdra.com^
 ||fltfwrhpv.com^
@@ -10942,7 +10953,6 @@ vkcdnservice.appspot.com^
 ||qpgjmdlq.com^
 ||qphxgwnqgbkzwh.com^
 ||qpljfpwdpk.com^
-||qppdqcid.com^
 ||qptqoylpxmqbz.com^
 ||qqatxipoki.com^
 ||qqdalrqzvukzto.com^
@@ -13944,7 +13954,6 @@ vkcdnservice.appspot.com^
 ||zuphaims.com^
 ||zurilito.online^
 ||zuyejecgb.com^
-||zviybblezmc.com^
 ||zvkytbjimbhk.com^
 ||zvmldjxh.com^
 ||zvtbdwziyxh.com^
@@ -15106,6 +15115,7 @@ vkcdnservice.appspot.com^
 ||dgmaxinteractive.com^
 ||digipathmedia.com^
 ||digitaladvertisingalliance.org^
+||digitalkites.com^
 ||digitalpush.org^
 ||digitalthrottle.com^
 ||disqusads.com^
@@ -18370,6 +18380,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||pointmediatracker.com^
 ||c-api-bit.shopeemobile.com^
 ||sp.dpgmedia.net^
 ||beak.bigdata.dpgmmservices.nl^
@@ -20890,6 +20901,7 @@ vkcdnservice.appspot.com^
 ||sysomos.com^
 ||t-analytics.com^
 ||t4ft.de^
+||taboola.com.cn^
 ||taboola.com^
 ||tag4arm.com^
 ||tagsrvcs.com^
@@ -24290,6 +24302,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||attributionapp.com^
 ||audience.systems^
 ||audiencepixel.com^
+||audienceplay.com^
 ||audio.sex^
 ||autoline-top.com^
 ||azointel.com^
@@ -24684,7 +24697,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pnstat.com^
 ||podfdch.com^
 ||pointillist.com^
-||pointmediatracker.com^
 ||polarcdn-pentos.com^
 ||popupmaker.com^
 ||pro6e.com^
@@ -26102,6 +26114,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trackboxx.info^
 ||trbo.com^
 ||txt.eu^
+||undom.net^
 ||uniconsent.com^
 ||usage.seibert-media.io^
 ||usemaxserver.de^
@@ -31535,6 +31548,8 @@ adbetnet.com
 !
 ! Eimg.jp
 !
+||rss-loader.com^^
+||reajyu.net^
 ||ads-lite.net^
 ||blogparts.gcolle.net^
 ||affiliate.konibet.com^
@@ -32264,6 +32279,7 @@ adbetnet.com
 ||pirchio.com^
 ||plavid.com^
 ||preludeadv.it^
+||pronostici.app^
 ||prontocampaign.com^
 ||publy.net^
 ||radxcomm.com^
