@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-07T18:24:02.399Z
+! Last modified: 2021-04-08T00:32:13.011Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||kewuruve.xyz^
 ||lamforsung.com^
 ||haremwhipshook.com^
 ||moshahda.online^
@@ -27,7 +28,6 @@
 ||betuuvhozpylo.com^
 ||dbecreativea.biz^
 ||due5a6x777z0x.cloudfront.net^
-||kewuruve.xyz^
 ||sidebyz.com^
 ||dosliggooor.com^
 ||loadsfalladz.casa^
@@ -36044,8 +36044,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||cqerbihou.com^
-||yrqwyn.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
@@ -36460,6 +36458,7 @@ adbetnet.com
 ||coyvzui.cn^
 ||cpcc.xyz^
 ||cqbaitong.cn^
+||cqerbihou.com^
 ||cqgya.com^
 ||cqshaseng.com^
 ||cs12d.com^
@@ -37767,6 +37766,7 @@ adbetnet.com
 ||youshouge513.cn^
 ||youweiprint.com^
 ||yqqlm.vip^
+||yrqwyn.cn^
 ||yrrsckr.cn^
 ||yscci.com^
 ||ysjweb.com^
