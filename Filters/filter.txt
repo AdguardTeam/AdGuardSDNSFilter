@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-09T12:11:58.636Z
+! Last modified: 2021-04-09T18:12:51.642Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||bitads.io^
 ||riotousgrit.com^
 ||dqjazjbqrmrnhb.com^
 ||giwzywnxnk.com^
@@ -6343,6 +6344,7 @@ vkcdnservice.appspot.com^
 ||edencourtbrita.info^
 ||edestrathergo.club^
 ||edfsqfaeenij.com^
+||edfuyyweyz.com^
 ||edgeads.org^
 ||edgevertise.com^
 ||edgreateria.info^
@@ -6721,6 +6723,7 @@ vkcdnservice.appspot.com^
 ||evgywgur.com^
 ||eviclick.pro^
 ||evidentlycaricatureinside.com^
+||evngfyljnes.com^
 ||evnoxawvqhda.com^
 ||evokeelbowsoil.com^
 ||evokeframingimpossible.com^
@@ -17226,6 +17229,7 @@ vkcdnservice.appspot.com^
 ||choices.truste.com^
 ||clarity.abacast.com^
 ||click.eyk.net^
+||commercial.daznservices.com^
 ||connect.summit.co.uk^
 ||content.livesportmedia.eu^
 ||couponcp-a.akamaihd.net^
@@ -31565,6 +31569,7 @@ adbetnet.com
 !
 ! Eimg.jp
 !
+||geniee.jp^
 ||ad.angel-live.com^
 ||rss-loader.com^^
 ||reajyu.net^
@@ -31789,6 +31794,7 @@ adbetnet.com
 !
 ! Section contains list of advertising networks
 !
+||fo.iphonevip.cn^
 ||xn--xhq9mt12cf5v.xn--io0a7i^
 ||zxptw.cn^
 ||qichetuoyun.com.cn^
@@ -36098,6 +36104,9 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||shrtswkj.com^
+||yunnanpulasi.com^
+||ly2si17.cn^
 ||tn34lkn.com^
 ||v5levm1.com^
 ||0217qpineuxbcdhopswkvf.xyz^
