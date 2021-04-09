@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-08T18:23:01.436Z
+! Last modified: 2021-04-09T00:28:06.505Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -9723,6 +9723,7 @@ vkcdnservice.appspot.com^
 ||nfqglptm47uc.com^
 ||nfquhpzjh.com^
 ||ngallerydese.club^
+||ngbmrybpdtt.com^
 ||ngehochsi.fun^
 ||ngessupposi.club^
 ||ngholishingsm.info^
@@ -9777,6 +9778,7 @@ vkcdnservice.appspot.com^
 ||nitytolearnan.biz^
 ||nixyoungjay.com^
 ||njmkilpqzibv.com^
+||njzheqkcyr.com^
 ||nk26uvjrz0tt.com^
 ||nkjomdiztdy.com^
 ||nklrfqgz.com^
@@ -17541,6 +17543,7 @@ vkcdnservice.appspot.com^
 ||d2kadvyeq051an.cloudfront.net^
 ||d2lp70uu6oz7vk.cloudfront.net^
 ||d2na2p72vtqyok.cloudfront.net^
+||d2ojfulajn60p5.cloudfront.net^
 ||d2q52i8yx3j68p.cloudfront.net^
 ||d2r3rw91i5z1w9.cloudfront.net^
 ||d2sbzwmcg5amr3.cloudfront.net^
@@ -33302,8 +33305,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||govshenzhen.cn^
-||lvt1980.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -33906,6 +33907,7 @@ adbetnet.com
 ||govgift.com^
 ||govhunan.cn^
 ||govjiangsu.cn^
+||govshenzhen.cn^
 ||gowin01.com^
 ||gqswg.com^
 ||greenbetterkids.com^
@@ -34225,6 +34227,7 @@ adbetnet.com
 ||luoyuanedu.cn^
 ||lv55p.cn^
 ||lvehaisen.com^
+||lvt1980.cn^
 ||lyadu.com^
 ||lyaeccn.com^
 ||lyjiuban.com^
@@ -36080,10 +36083,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||u5wzi0h.cn^
-||51elandt.com^
-||gslyxny.com^
-||fengousm.com^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
@@ -36163,6 +36162,7 @@ adbetnet.com
 ||517kp.com^
 ||519397.com^
 ||51dianji.cn^
+||51elandt.com^
 ||51fishplace.com^
 ||51foodsafe.cn^
 ||51gpt.com^
@@ -36635,6 +36635,7 @@ adbetnet.com
 ||feipaihehuoren.cn^
 ||feizailin.com^
 ||fengmishop.cn^
+||fengousm.com^
 ||ff01s.cn^
 ||ffg34fg.877zw.com^
 ||ffhre.com^
@@ -36733,6 +36734,7 @@ adbetnet.com
 ||grjs08.com^
 ||grtnahd.cn^
 ||grubfast.com^
+||gslyxny.com^
 ||gssdsj.com^
 ||gtchong.com^
 ||gtifund.cn^
@@ -37549,6 +37551,7 @@ adbetnet.com
 ||u05m.cn^
 ||u0r9.cn^
 ||u2c8.cn^
+||u5wzi0h.cn^
 ||u98ql6o.top^
 ||uaevivi.top^
 ||ubt573.org^
