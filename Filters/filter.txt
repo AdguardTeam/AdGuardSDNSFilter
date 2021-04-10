@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-09T18:12:51.642Z
+! Last modified: 2021-04-10T00:29:47.923Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -18400,6 +18400,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||durationmedia.net^
 ||stats.myangular.life^
 ||pointmediatracker.com^
 ||c-api-bit.shopeemobile.com^
@@ -24440,7 +24441,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dotjs.com^
 ||driv-analytics.com^
 ||dtxngr.com^
-||durationmedia.net^
 ||dynamicyield.com^
 ||dynatracesaas.com^
 ||eacla.com^
@@ -36104,11 +36104,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||shrtswkj.com^
-||yunnanpulasi.com^
-||ly2si17.cn^
-||tn34lkn.com^
-||v5levm1.com^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
@@ -37126,6 +37121,7 @@ adbetnet.com
 ||lvkuaizi.com^
 ||lvsechufang.com^
 ||lwlscy.com^
+||ly2si17.cn^
 ||ly5200.cn^
 ||lyczhb.com^
 ||lyjz001.com^
@@ -37435,6 +37431,7 @@ adbetnet.com
 ||shjrwh.cn^
 ||shjsxx.com^
 ||shorug.cn^
+||shrtswkj.com^
 ||shsnjj.top^
 ||shunxinyuancaiwu.cn^
 ||signstu.top^
@@ -37544,6 +37541,7 @@ adbetnet.com
 ||tlwl1.cn^
 ||tlwl2.cn^
 ||tmrmixer.cn^
+||tn34lkn.com^
 ||tnl808z.cn^
 ||tochgw.com^
 ||tongbuchi.com^
@@ -37606,6 +37604,7 @@ adbetnet.com
 ||uxnycjr.cn^
 ||uyueread.com^
 ||uzyid.cn^
+||v5levm1.com^
 ||vasb.cn^
 ||vbanm.com^
 ||vbnm888.com^
@@ -37856,6 +37855,7 @@ adbetnet.com
 ||yun-pdm5000.cn^
 ||yundingmap.com^
 ||yunl1.com^
+||yunnanpulasi.com^
 ||yushengyuancaishui.com^
 ||yuxiny.com^
 ||ywbwsm.com^
