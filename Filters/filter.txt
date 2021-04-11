@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-11T06:09:58.478Z
+! Last modified: 2021-04-11T12:11:19.161Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -1599,7 +1599,9 @@
 ||gggo.xmbhj.com^
 ||5568.gjghy.com^
 ||9990.spqsd.com^
+||nnd.xyssp.com^
 ||download.350.com^
+||gog9.qzdfc.com^
 ||tt.biquge.la^
 ||ss.biquge.la^
 ||diaobanstudio.com^
@@ -4954,6 +4956,7 @@ vkcdnservice.appspot.com^
 ||canyboysho.info^
 ||cap-cap-pop.com^
 ||capacygre.top
+||caphaiks.com^
 ||cappens-dreperor.com^
 ||capsfogpeck.com^
 ||capsheirspages.com^
@@ -5848,6 +5851,7 @@ vkcdnservice.appspot.com^
 ||deductdoorwayfig.com^
 ||deemsteppemental.com^
 ||deepmetrix.com^
+||defaceproudlybarnacle.com^
 ||defeatedsunset.com^
 ||defeatureother.site^
 ||defeaturesher.club^
@@ -6955,6 +6959,7 @@ vkcdnservice.appspot.com^
 ||feeohmchi.com^
 ||feewoajy.net^
 ||feidhartaime.pro^
+||feintstrainhog.com^
 ||feitiesogates.fun^
 ||fejla.com^
 ||fejwbcvvzclz.com^
@@ -7378,6 +7383,7 @@ vkcdnservice.appspot.com^
 ||generalizationentertain.com^
 ||generatedough.com^
 ||genergyothe.top^
+||genishury.pro^
 ||genuinealiaspuzzled.com^
 ||genuschaseslowly.com^
 ||geodestricy.site^
@@ -7680,6 +7686,7 @@ vkcdnservice.appspot.com^
 ||hailsserien.top^
 ||hailstoneclayfairy.com^
 ||hairdressercommentarydown.com^
+||hairsthoughtfulgovernor.com^
 ||haithoaz.net^
 ||halfcharitable.com^
 ||halleyperson.pro^
@@ -10002,6 +10009,7 @@ vkcdnservice.appspot.com^
 ||oackoubs.com^
 ||oadaheba.net^
 ||oageeedhvyyojj.com^
+||oagnatch.com^
 ||oaitcmlscwe.com^
 ||oakrkptc.com^
 ||oampitsa.com^
@@ -10342,6 +10350,7 @@ vkcdnservice.appspot.com^
 ||pakistant.club^
 ||palibs.tech^
 ||pallxylophone.xyz^
+||palpableequanimityshiver.com^
 ||panection.co^
 ||panicshaggy.com^
 ||panieswol.club^
@@ -12743,11 +12752,13 @@ vkcdnservice.appspot.com^
 ||ugmovxfikvhct.com^
 ||ugoupams.com^
 ||ugqdykbxe.com^
+||ugroocuw.net^
 ||uh9qulew9rjj.com^
 ||uhbixtfhwdtmd.com^
 ||uhedsplo.com^
 ||uhfdsplo.com^
 ||uhjedvnlaq.com^
+||uhkdsplo.com^
 ||uhodsplo.com^
 ||uhpdsplo.com^
 ||uhsmmaq4l2n5.com^
@@ -33360,7 +33371,6 @@ adbetnet.com
 !
 ||00-gov.cn^
 ||0024aaaa.com^
-||00880808.com^
 ||008844.cc^
 ||01fen.com^
 ||022aifang.com^
@@ -33377,7 +33387,6 @@ adbetnet.com
 ||080644.com^
 ||0937jyg.com^
 ||0b2qv7.cn^
-||0bc.top^
 ||0mr.cc^
 ||0xxd.com^
 ||1000dy.com^
@@ -33411,11 +33420,9 @@ adbetnet.com
 ||1i580.com^
 ||1jsskipuf8sd.com^
 ||1kmb.cn^
-||1kzh.com^
 ||1l1.cc^
 ||1lib.cn^
 ||1q8h.cn^
-||1uandun.com^
 ||201071.com^
 ||2018haoyunlai.com^
 ||201n.com^
@@ -33449,7 +33456,6 @@ adbetnet.com
 ||3337781.com^
 ||3338863.com^
 ||3338877.com^
-||333dm.com^
 ||338336.com^
 ||3400.org^
 ||35clouds.com.cn^
@@ -33464,12 +33470,10 @@ adbetnet.com
 ||3lga3.cn^
 ||3qmh.com^
 ||3qsys.com^
-||3y6c.cn^
 ||3ygww.com^
 ||4006825178.com^
 ||4480dy.net^
 ||47api.cn^
-||4ggww.com^
 ||4kyu.cn^
 ||50zera.com^
 ||5125129.com^
@@ -33505,8 +33509,6 @@ adbetnet.com
 ||5jcom.com.cn^
 ||643226.com^
 ||65tgh.com^
-||6612151.cn^
-||6612152.cn^
 ||6666lm.com^
 ||66996.top^
 ||66997.top^
@@ -33524,7 +33526,6 @@ adbetnet.com
 ||77417.cn^
 ||7791.com.cn^
 ||77power.com^
-||7891655.cn^
 ||7a096v.cn^
 ||7cbwus.cn^
 ||7dah8.com^
@@ -33565,7 +33566,6 @@ adbetnet.com
 ||96mob.com^
 ||97wanle.com^
 ||9898c.com^
-||991pao.com^
 ||99dqw.com^
 ||99lolo.com^
 ||99pps.com^
@@ -33608,14 +33608,11 @@ adbetnet.com
 ||agtsjb.com^
 ||ahjzys.com^
 ||ahlxxx.com^
-||ahqlx.top^
 ||ahrefa.com^
 ||ahszgog.com^
 ||ahyau.com^
 ||ahyuns.com^
-||aigou023.com^
 ||aijielang.cn^
-||ailefen.com^
 ||aishangcan.com^
 ||ajaxcdn.org^
 ||ak0429.com^
@@ -33629,7 +33626,6 @@ adbetnet.com
 ||alitianxia168.com^
 ||aliyuncss.com^
 ||aliyunxin.com^
-||allxin.com^
 ||amensh.cn^
 ||anquanzhuomian.cn^
 ||anquanzhuomian.com^
@@ -33637,7 +33633,6 @@ adbetnet.com
 ||aoyinn.com^
 ||apkdo.com^
 ||aqgyju.cn^
-||aqugame.com^
 ||arealx.com^
 ||arrows-hitech.com^
 ||assigned.cn^
@@ -33646,7 +33641,6 @@ adbetnet.com
 ||audit8.com^
 ||auspiciousvp.com^
 ||avtiaozhuan.com^
-||awkjs.com^
 ||ax21pics.org^
 ||b588866.com^
 ||b96bcea4.cc^
@@ -33677,12 +33671,9 @@ adbetnet.com
 ||bihaipack.com^
 ||billionfocus.com^
 ||bingyinq.com^
-||biochempop.com^
 ||biohailijie.cn^
-||bivitr.com^
 ||bj-bytsk.com^
 ||bjgtsh.com^
-||bkyhq.cn^
 ||bla01.com^
 ||blogdaka.cc^
 ||bmbaike.cn^
@@ -33737,7 +33728,6 @@ adbetnet.com
 ||chiuhua.com.cn^
 ||chromc.com^
 ||chucity.com^
-||chuhanweb.com^
 ||chuzushijian.cn^
 ||ci-web.cn^
 ||cj-cy.com^
@@ -33755,7 +33745,6 @@ adbetnet.com
 ||cnkok.com^
 ||cnnywz.cn^
 ||cnpinzhuo.com^
-||cnsayo.com^
 ||cnscdj.com^
 ||cnxad.net^
 ||cnzz.com.so^
@@ -33808,8 +33797,6 @@ adbetnet.com
 ||ddhtek.com^
 ||ddomm.com^
 ||deeplacer.com^
-||depnegj.cn^
-||detuns.com^
 ||df3n43m.com^
 ||df77.com^
 ||dgtauto.com^
@@ -33838,7 +33825,6 @@ adbetnet.com
 ||dqsft.com^
 ||dragoncent.com^
 ||dreamfull.cn^
-||drlsf.com^
 ||drmcmm.baidu.com^
 ||drmfslx.cn^
 ||dszan.com^
@@ -33906,7 +33892,6 @@ adbetnet.com
 ||fqtra.com^
 ||fst360.com^
 ||fsyzcs.com^
-||fthcz.com^
 ||fu68.com^
 ||fuguilm.com^
 ||fuxunb.com^
@@ -33942,7 +33927,6 @@ adbetnet.com
 ||ggweb.net^
 ||ghnmg.top^
 ||glrcy.cn^
-||gm682.com^
 ||goodgz.cn^
 ||gouweida.cn^
 ||govbeijing.cn^
@@ -34009,18 +33993,15 @@ adbetnet.com
 ||hfsteel.net^
 ||hg-labs.com^
 ||hhhhbf.com^
-||hhppyt.com^
 ||hi760.com^
 ||hiad.myweb.hinet.net^
 ||hivecn.cn^
 ||hizbpdu.cn^
-||hk662.com^
 ||hkfuy.com^
 ||hktv10.com^
 ||hlcnzz.com^
 ||hljyjm.cn^
 ||hmnjf.com^
-||hmp33.com^
 ||hnasd.com^
 ||hnctsm.com^
 ||hngezj.com^
@@ -34059,7 +34040,6 @@ adbetnet.com
 ||hxadt.com^
 ||hxlif.com^
 ||hxnzyy.com^
-||hxscba.com^
 ||hxssj.cn^
 ||hxtwl.cn^
 ||hxyifu.com^
@@ -34149,11 +34129,9 @@ adbetnet.com
 ||jschuangnuo.com^
 ||jscsd.cn^
 ||jsmwd.com^
-||jsyxfdj.com^
 ||jsyzw132.com^
 ||jtdxz.top^
 ||jtkshop.net^
-||jujumuqu123.com^
 ||junfull.com^
 ||jungbey.xyz^
 ||junkucm.com^
@@ -34163,12 +34141,10 @@ adbetnet.com
 ||juuhe.com^
 ||juyiqiche.com.cn^
 ||jx118114.net^
-||jxbjt.com^
 ||jxjzny.com^
 ||jxlqgs.com^
 ||jxsgxzx.com^
 ||jystea.com^
-||k12shequ.com^
 ||k1815.com^
 ||k9dzax.cn^
 ||ka12138.top^
@@ -34176,7 +34152,6 @@ adbetnet.com
 ||kan8.xyz^
 ||kanfaxing.com^
 ||kanwby.com^
-||kawinhome.com^
 ||kdy365.vip^
 ||kele4.com^
 ||keyyou.net^
@@ -34218,7 +34193,6 @@ adbetnet.com
 ||kyqcfj.com^
 ||l0l.top^
 ||laifu365.com^
-||lamwatch.com^
 ||langchars.com^
 ||lanshi021.com^
 ||lantata.com^
@@ -34258,13 +34232,9 @@ adbetnet.com
 ||lsaeb.com^
 ||lsxmg.com^
 ||ltcprtc.com^
-||ltdnc.com^
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
-||lucting.cn^
 ||luoyuanedu.cn^
-||lv55p.cn^
-||lvehaisen.com^
 ||lvt1980.cn^
 ||lyadu.com^
 ||lyaeccn.com^
@@ -34286,7 +34256,6 @@ adbetnet.com
 ||maxfull.info^
 ||mcdhshlsboom.com^
 ||meethanshi.com^
-||meicubao.cn^
 ||meihaoxiangwang.com^
 ||meilides.com^
 ||meituan.xn--io0a7i^
@@ -34301,7 +34270,6 @@ adbetnet.com
 ||miaolejieshui.cn^
 ||mieyisi.com^
 ||mindopu.com^
-||mingboxieye.com^
 ||minwear.com.cn^
 ||minyaartcrafts.cn^
 ||mitao17.com^
@@ -34318,10 +34286,7 @@ adbetnet.com
 ||ms758.com^
 ||mscimg.com^
 ||mskjf.com^
-||msspgw.cn^
 ||msujd.cn^
-||mtav1.com^
-||mtqys.com^
 ||mu722.com^
 ||mxmrt.com^
 ||myselfjanitor.com^
@@ -34332,13 +34297,11 @@ adbetnet.com
 ||nbzq.net^
 ||nchte.com^
 ||ndtzx.com^
-||ne9377.com^
 ||newyiba.top^
 ||ni87.com^
 ||niubiba.com^
 ||niuguwang.net.cn^
 ||niuxgame77.com^
-||njcn888.com^
 ||njcyfpv.cn^
 ||njdijiani.com^
 ||njfsk.com^
@@ -34354,7 +34317,6 @@ adbetnet.com
 ||nmqbg.com^
 ||nongsalei.com^
 ||notice.uchome.manyou.com^
-||npvxkna.cn^
 ||nr1234.com^
 ||nterbx.com^
 ||ntxiangtai.com^
@@ -34382,13 +34344,11 @@ adbetnet.com
 ||panel-cn.com^
 ||papa999.xyz^
 ||parisianmacao.bet^
-||pay838.com^
 ||pcmzn.com^
 ||pdsjycm.com^
 ||pedailyu.com^
 ||penxiangge.com^
 ||pg88cdn.com^
-||phvmax.com^
 ||pianjjiicdn.com^
 ||pingping888.com^
 ||pinwu123.com^
@@ -34396,7 +34356,6 @@ adbetnet.com
 ||pjtymy.cn^
 ||pk965.com^
 ||pmvlwjy.cn^
-||pnhfc.com^
 ||pnxs.com^
 ||pofang.com^
 ||poke88.com^
@@ -34405,7 +34364,6 @@ adbetnet.com
 ||ppcdweb.cc^
 ||pr00001.com^
 ||prohibited.cn^
-||ptdrw.com^
 ||ptkhy.com^
 ||pubbirdf.com^
 ||pyzkk.com^
@@ -34437,7 +34395,6 @@ adbetnet.com
 ||qs01.cn^
 ||qsart.cn^
 ||qshxc.com^
-||qsj65.com^
 ||qtch888.com^
 ||qtmojo.cn^
 ||quan7.cc^
@@ -34451,14 +34408,11 @@ adbetnet.com
 ||qvpublish.com^
 ||qwfknhc.cn^
 ||qxfly.com^
-||qxjdlf.com^
 ||qxxys.com^
 ||qycjrkfzx.com^
 ||qyctj.com^
 ||qytyf.com^
-||qzdfc.com^
 ||qzkxt.com^
-||qzmhnk.com^
 ||qzzljx.com^
 ||rdance.cn^
 ||re.taotaosou.com^
@@ -34468,7 +34422,6 @@ adbetnet.com
 ||rencai56.com^
 ||rgdhct.cn^
 ||riqu2015.com^
-||rjk1.com^
 ||roay.cn^
 ||rongdingwl.cn^
 ||rqgsf.com^
@@ -34567,7 +34520,6 @@ adbetnet.com
 ||sxympy.com^
 ||sxz67.com^
 ||sxzmj.cn^
-||syfbyg.com^
 ||sykty.com^
 ||sytcyf.com^
 ||syzzhd.cn^
@@ -34582,7 +34534,6 @@ adbetnet.com
 ||t415n.cn^
 ||t58b.com^
 ||t70123.com^
-||ta69999.com^
 ||tad.suning.com^
 ||taobaojx.com^
 ||taobayun.cn^
@@ -34608,7 +34559,6 @@ adbetnet.com
 ||tjgxzs.com^
 ||tjhhr.com^
 ||tjqonline.cn^
-||tjwmtrw.cn^
 ||tjys88.com^
 ||tkd777.cn^
 ||tlmybj.cn^
@@ -34670,7 +34620,6 @@ adbetnet.com
 ||vxsnk.com^
 ||w3989.com^
 ||w65p.com^
-||wanfem.com^
 ||wanfukang.cc^
 ||wangdaizao.com^
 ||wangdddy.com^
@@ -34710,7 +34659,6 @@ adbetnet.com
 ||wojiabaoye.com^
 ||wowips.com^
 ||wowostar.cn^
-||wqsph.net^
 ||ws341.com^
 ||ws7j.com^
 ||wsgblw.com^
@@ -34729,7 +34677,6 @@ adbetnet.com
 ||wyhzzy.com^
 ||wyttech.cn^
 ||wywsdx.com^
-||wzaigo.com^
 ||wzjijia.com^
 ||wzsygdl.com^
 ||x6z6.com^
@@ -34737,7 +34684,6 @@ adbetnet.com
 ||xabaitai.com^
 ||xabmjr.com^
 ||xcads.cn^
-||xcclzs.com^
 ||xchgx.com^
 ||xcjy876.com^
 ||xcsaz.com^
@@ -34745,7 +34691,6 @@ adbetnet.com
 ||xcxzxc.cn^
 ||xcy8.com^
 ||xdcqcyp.com^
-||xdywlw.cn^
 ||xhbqczl.com^
 ||xhmrv.com^
 ||xhrxb.com^
@@ -34765,7 +34710,6 @@ adbetnet.com
 ||xinyijiasc.cn^
 ||xiongdong.com^
 ||xiongzhangad.com^
-||xjidian.com^
 ||xk2012.com^
 ||xlgqy.com^
 ||xm9178.com^
@@ -34775,12 +34719,9 @@ adbetnet.com
 ||xmtsyg.com^
 ||xmxxwl.com^
 ||xn--2qu92fhtx4ff.icu^
-||xn--2qu92fhtx4ff.site^
-||xn--2qu92fhtx4ff.top^
 ||xn--2qu96gouvko1a.com^
 ||xn--2qux23c9ziyrq.video^
 ||xn--2quz8f01ak10c.shop^
-||xn--2ssq0ktxigkq.com^
 ||xn--3bs795g.chat^
 ||xn--3bs795g.pub^
 ||xn--3bs795g.zone^
@@ -34790,8 +34731,6 @@ adbetnet.com
 ||xn--czrshy5v7kb.cc^
 ||xn--fjqz50cv5q3so.ltd^
 ||xn--fjqz50cv5q3so.online^
-||xn--i7qt52bvsr0u0a.com^
-||xn--wcsy74a6d835f5lf.com^
 ||xn--wxt79hbyb675a.online^
 ||xn--wxtr9fwyxk9c.site^
 ||xn--wxtr9fwyxk9c.top^
@@ -34805,7 +34744,6 @@ adbetnet.com
 ||xn--xhq9mt12cf5v.website^
 ||xnjpg.com^
 ||xnmcmnt.cn^
-||xsdlq.cn^
 ||xt2d.cn^
 ||xtianqi.com.cn^
 ||xtxa.net^
@@ -34830,9 +34768,7 @@ adbetnet.com
 ||xyadtlyya.vip^
 ||xyadtlyyc.vip^
 ||xyadyzpsb.com^
-||xycnz.com^
 ||xylmdm.top^
-||xyssp.com^
 ||xytom.com^
 ||xz6d.com^
 ||xzyituo.com^
@@ -34844,7 +34780,6 @@ adbetnet.com
 ||yaoxiaoli.com^
 ||yapusheji.com^
 ||yatemy.cn^
-||ycfgnau.cn^
 ||ychml.com^
 ||ydqzkj.com^
 ||ye2017.com^
@@ -34853,7 +34788,6 @@ adbetnet.com
 ||yese161.com^
 ||yese236.com^
 ||yeyajipp.com^
-||yezijizhang.com^
 ||yf898.com^
 ||yfycy.com^
 ||yhhls.com^
@@ -34866,13 +34800,10 @@ adbetnet.com
 ||yiran686.cn^
 ||yisd.press^
 ||yishuifa.org^
-||yiwuds.com^
 ||yixui.com^
-||yk0712.com^
 ||ylflwbj.cn^
 ||ymcqb.com^
 ||ynbojie.com^
-||ynmbz.com^
 ||ynwqls.com^
 ||youfumei.com^
 ||yousee.com^
@@ -34961,7 +34892,6 @@ adbetnet.com
 ||zl588.com^
 ||zmgod.com^
 ||zmlled.cn^
-||zpwansf.cn^
 ||zpxw.vip^
 ||zqsbnfh.top^
 ||zqscript.com^
@@ -34975,7 +34905,6 @@ adbetnet.com
 ||zybpj.com^
 ||zydyjzw.cn^
 ||zyqp9.com^
-||zyrfanli.com^
 ||zyzjpx.cn^
 ||zzbaowen.com^
 ||zzkoubei.com^
@@ -35472,7 +35401,6 @@ adbetnet.com
 ||21.zhaozongjie.com^
 ||283.laobanfa.com^
 ||3.5646.cn^
-||3.chuanyi5.com^
 ||3.guidaye.com^
 ||3.ssqzj.com^
 ||301848.com^
@@ -35677,7 +35605,6 @@ adbetnet.com
 ||cc.xwscg.com^
 ||cdn1.tvzhe.com^
 ||cee1.iteye.com^
-||chuangyixi.com^
 ||cj1.256.cc^
 ||ckg.vipyl.com^
 ||classic.39health.com^
@@ -35718,7 +35645,6 @@ adbetnet.com
 ||daiwofei2019.top^
 ||data.waptime.cn^
 ||datas.tianqistatic.com^
-||daxueshengqiandai.com^
 ||dd1.diymianmo.com^
 ||df666.pzhttaax.cn^
 ||df888.eastday.com^
@@ -35922,18 +35848,15 @@ adbetnet.com
 ||o.phb123.com^
 ||o1.jyjyj.cn^
 ||okkkk.com^
-||owusxlr.cn^
 ||p.junshi881.com^
 ||p.junshifuxin.com^
 ||p1.chinakaoyan.com^
 ||p1.zhongyoo.com^
 ||p1.zhumengwl.com^
 ||panyh123456.cn^
-||pb.okk123.com^
 ||pb.shuxigua.com^
 ||pic50.pingguolv.com^
 ||pkk1.zuimeiniwo.com^
-||ps868.xyz^
 ||q1.yyxwzx.com^
 ||qifake.com^
 ||qiji1.jdwx.info^
@@ -35955,7 +35878,6 @@ adbetnet.com
 ||s1.qiqutt.cn^
 ||s1.qiqutt.com^
 ||s1.tuzhaozhao.com^
-||s1.wan1979.com^
 ||s1.wesiedu.com^
 ||salary.xiao84.com^
 ||sbbd1.qulishi.com^
@@ -35997,7 +35919,6 @@ adbetnet.com
 ||union*.365inews.com^
 ||usejj.wangkl.com^
 ||uu1.3gu.com^
-||uuu.pctowap.com^
 ||v1.kwpewga.cn^
 ||v1.phb123.com^
 ||v1.taksh.cn^
@@ -36032,7 +35953,6 @@ adbetnet.com
 ||xc.gouchezj.com^
 ||xcf-bd-js.chuimg.com^
 ||xiaoling.ixiunv.com^
-||xiaopangtao.com^
 ||xiaopinwo.com^
 ||xinju.cc^
 ||xitongku.cc^
@@ -36074,12 +35994,10 @@ adbetnet.com
 ||dfcwg.com^
 ||enyayinxiang.com^
 ||etg98.com^
-||front99.com^
 ||gotourls.bid^
 ||h01ce.cn^
 ||hdjxmf.com^
 ||henanfs.com^
-||jjqyk.com^
 ||jlhygy.com^
 ||juren0.com^
 ||kuuad.com^
@@ -36101,14 +36019,11 @@ adbetnet.com
 ||wangketuan.com^
 ||weduoke.com^
 ||weekslw.com^
-||wjdjcjcm444.cn^
 ||xiaohui2.cn^
 ||xueyanshan.com^
 ||xvyljkr.com^
-||ydeprint.com^
 ||ynjkkj.com^
 ||yootui19999.com^
-||youhm.cn^
 ||youhuomeishi.com^
 ||yttz113.com^
 ||yuxiangrc.com^
@@ -36121,11 +36036,7 @@ adbetnet.com
 ||stunninglover.com^
 ||watakaw133.xyz^
 ||nhrlzy.com^
-||0217qpineuxbcdhopswkvf.xyz^
-||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
-||0302woeuxcbrnxcvsdfghu.xyz^
-||0309fuweopermncvbnazdf.xyz^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
 ||0330vsdgdwer.xyz^
@@ -36136,7 +36047,6 @@ adbetnet.com
 ||0518dfgwert.xyz^
 ||0525pweoruxnj.xyz^
 ||0530hz.cn^
-||0551zgz.com^
 ||0577renliu.net.cn^
 ||0601chruopjsm.xyz^
 ||0615nxbsho.xyz^
@@ -36175,8 +36085,6 @@ adbetnet.com
 ||2gvuukm1lm.com^
 ||2gz9nc.cn^
 ||2ktd0.cn^
-||2l1f.cn^
-||2q5p.cn^
 ||2shol4.cn^
 ||2zm4.cn^
 ||333bj.cloud^
@@ -36184,18 +36092,13 @@ adbetnet.com
 ||365syt.cn^
 ||381s.net^
 ||3hbox.com^
-||3y0h.cn^
 ||3yai2u.cn^
 ||3ye924.cn^
-||40ic.cn^
-||45le.cn^
-||45xa.cn^
 ||4ekx.cn^
 ||4excel.cn^
 ||4ggame8.com^
 ||4kfv18.cn^
 ||4nzrqw.cn^
-||4s5n.cn^
 ||4z5o27.cn^
 ||517kp.com^
 ||519397.com^
@@ -36209,7 +36112,6 @@ adbetnet.com
 ||52homie.cn^
 ||52tushuo.com^
 ||53gem.com^
-||53txs.com^
 ||56space.com^
 ||597txtt.com^*.php
 ||5dydk.com^
@@ -36221,7 +36123,6 @@ adbetnet.com
 ||5p68n.cn^
 ||5q63n.cn^
 ||5q68n.cn^
-||5t4o.cn^
 ||5x0f.cn^
 ||5zi2.top^
 ||5zi3.top^
@@ -36229,7 +36130,6 @@ adbetnet.com
 ||605296.com^
 ||606w.cn^
 ||62wm.com^
-||64ri.cn^
 ||64si.com^
 ||66993.top^
 ||66cn.com^
@@ -36238,16 +36138,12 @@ adbetnet.com
 ||6shuge.com^
 ||70bhsd.cn^
 ||73cm.com^
-||74vc.cn^
 ||76xs.com^
 ||7b6l2j.cn^
 ||7ez4.cn^
 ||7j7jv5.cn^
-||7kkqq.com^
-||7m0hj.cn^
 ||7m307.cn^
 ||85wa.cn^
-||88android.com^
 ||88eg.cn^
 ||8byu.cn^
 ||8hpay.cn^
@@ -36299,7 +36195,6 @@ adbetnet.com
 ||adhdsb.cn^
 ||aduic.com^
 ||affiliate6.com^
-||aganj.com^
 ||agpligj.cn^
 ||ah808.com^
 ||ahidna.cn^
@@ -36312,15 +36207,9 @@ adbetnet.com
 ||aimiyz.com^
 ||aimto.cn^
 ||aishake.cn^
-||aixiutui.com^
 ||aiyyu.com^
 ||ajiez.com^
 ||ajkdg3.xyz^
-||ali2a.xyz^
-||ali2b.xyz^
-||ali2c.xyz^
-||ali2d.xyz^
-||ali2f.xyz^
 ||alibdl.xyz^
 ||alibdm.xyz^
 ||alibdn.xyz^
@@ -36340,7 +36229,6 @@ adbetnet.com
 ||amghmej.cn^
 ||amghvzn.cn^
 ||anhaochem.com^
-||anmeilai.net^
 ||anweigongsi.com^
 ||anyihuan.com^
 ||anyysz.com^
@@ -36354,7 +36242,6 @@ adbetnet.com
 ||ap72el.com^
 ||apdingqian.com^
 ||apjiangte.com^
-||apmnqut.cn^
 ||applequan.com^
 ||appstreets.com^
 ||apxyz.com^
@@ -36368,7 +36255,6 @@ adbetnet.com
 ||awyys.com^
 ||axizb.cn^
 ||axuns.com^
-||b0lc.cn^
 ||b2b5.net^
 ||b83pmp.cn^
 ||babalink.net^
@@ -36382,8 +36268,6 @@ adbetnet.com
 ||banma51.cn^
 ||baolutongwuye.cn^
 ||baomeidiaosu.cn^
-||bbba8.com^
-||bbbr8.com^
 ||bbbx.xyz^
 ||bbtys.net^
 ||bbvdd.com^
@@ -36398,7 +36282,6 @@ adbetnet.com
 ||bfbb.xyz^
 ||bgcse.cn^
 ||bgtrtv.top^
-||bhuak.com^
 ||bhyddc.com^
 ||bianxianwu.com^
 ||bigcooa.xyz^
@@ -36424,7 +36307,6 @@ adbetnet.com
 ||bjygfd.com^
 ||bjzcbx.com^
 ||bjzywuxian.com^
-||bkzisok.cn^
 ||bl2030.com^
 ||bljpk3.cn^
 ||bmgan.com^
@@ -36438,16 +36320,13 @@ adbetnet.com
 ||bqhnj.cn^
 ||brysj.vip^
 ||bsjgqhe.cn^
-||bslmw.com^
 ||btbalex.cn^
 ||bugcreator.cn^
 ||bulankk.com^
 ||bulkeach.com^
 ||buyuninfo.com^
 ||buzx53.cn^
-||bvoer.com^
 ||bx9000.top^
-||bytb996.top^
 ||c2fsd.xyz^
 ||cahdfzg.cn^
 ||caichenguang.cn^
@@ -36456,13 +36335,11 @@ adbetnet.com
 ||calculated.cn^
 ||caofta.cn^
 ||cathaycentury.com^
-||cavcz.com^
 ||cbvjddh.23txt.com^
 ||cchfjz.com^
 ||ccjxybj.cn^
 ||ccmdgg.com^
 ||cdgxq.com^
-||cdhenfan.com^
 ||cdiah.com^
 ||cdjkngs.cn^
 ||cdlkzb.com^
@@ -36474,7 +36351,6 @@ adbetnet.com
 ||cf89.gold^
 ||cfdanet.com^
 ||cfhijdsb.cn^
-||cgtueid.cn^
 ||chang555.cn^
 ||changhehengqi.com^
 ||chayibu.com^
@@ -36523,7 +36399,6 @@ adbetnet.com
 ||codejumps.com^
 ||coenr.com^
 ||cojia.net^
-||colorofgod.cn^
 ||comberry.cn^
 ||continuedsys.cn^
 ||continuefaf.top^
@@ -36553,7 +36428,6 @@ adbetnet.com
 ||czlongle.cn^
 ||czxjx.cn^
 ||d36gyu.cn^
-||d663q.cn^
 ||dacedsfa.cn^
 ||dachadu.cn^
 ||dadawm.cc^
@@ -36572,7 +36446,6 @@ adbetnet.com
 ||datazhan.com^
 ||daylskg.cn^
 ||dceni.com^
-||dcnqcql.cn^
 ||ddanq.com^
 ||dddyun.com^
 ||ddg1277.com^
@@ -36583,7 +36456,6 @@ adbetnet.com
 ||dehuaguanyin.com^
 ||deskt.cn^
 ||deyidesign.com^
-||dezfu.com^
 ||dfseafood.com^
 ||dgaoz.com^
 ||dglscm.cn^
@@ -36593,12 +36465,10 @@ adbetnet.com
 ||dianshihuanping.cn^
 ||dilqdiw.cn^
 ||dirbfm.cn^
-||djhhy.com^
 ||dkjdnq.cn^
 ||dldsrs.com^
 ||dlsdkw.cn^
 ||dmpsj.cn^
-||dmswhw.cn^
 ||dnfkong.com^
 ||dodomo.info^
 ||dofkfhv.cn^
@@ -36623,7 +36493,6 @@ adbetnet.com
 ||dzrenju2.cn^
 ||e9emh.cn^
 ||ebuysolar.com^
-||echomilly.com^
 ||echuanglm1.com^
 ||ecuwa.cn^
 ||edajin.com^
@@ -36634,7 +36503,6 @@ adbetnet.com
 ||egozne.cn^
 ||ejee.xyz^
 ||ejeenews.com^
-||ejiur.com^
 ||eloer.cn^
 ||elvx.top^
 ||emgwq.com^
@@ -36664,7 +36532,6 @@ adbetnet.com
 ||fcunq.com^
 ||fdoun.com^
 ||fedsdq.com^
-||feifish66.com^
 ||feimotailan.cn^
 ||feipaihehuoren.cn^
 ||feizailin.com^
@@ -36677,7 +36544,6 @@ adbetnet.com
 ||ffupiiv.cn^
 ||ffyyfy.top^
 ||fhixhde.cn^
-||fidwkkt.cn^
 ||findx2.info^
 ||fj95560.com^
 ||fjhanmei.com^
@@ -36690,7 +36556,6 @@ adbetnet.com
 ||fll007.com^
 ||fnbocll.cn^
 ||fnwll.cn^
-||focuscat.com^
 ||forwardhard.cn^
 ||fouas.com^
 ||foumm.com^
@@ -36700,7 +36565,6 @@ adbetnet.com
 ||frjxdv.cn^
 ||fstaw.com^
 ||fszhxd.com^
-||ftslkw.cn^
 ||fuchuqu.cn^
 ||fuhaimuye.cn^
 ||fuligrs.cn^
@@ -36738,10 +36602,8 @@ adbetnet.com
 ||gerunsenbo.cn^
 ||gflcsiot.com^
 ||ggsgww.cn^
-||ggskt.com^
 ||giroud.top^
 ||gitma.info^
-||gktwhpd.cn^
 ||glgelevator.com^
 ||globbiz.cn^
 ||glpen08.com^
@@ -36761,11 +36623,9 @@ adbetnet.com
 ||gralfusnzpo006.top^
 ||gralfusnzpo007.top^
 ||gralfusnzpo008.top^
-||greget3.com^
 ||grjs02.com^
 ||grjs06.com^
 ||grjs08.com^
-||grtnahd.cn^
 ||grubfast.com^
 ||gslyxny.com^
 ||gssdsj.com^
@@ -36784,7 +36644,6 @@ adbetnet.com
 ||gybdtg.com^
 ||gycy2.com^
 ||gyeet.com^
-||gyrtg.com^
 ||gyt168.com.cn^
 ||gz-bz.cn^
 ||gzleilin.com^
@@ -36825,7 +36684,6 @@ adbetnet.com
 ||helpinfo.cn^
 ||henanlinyu.cn^
 ||henduoqian.com^
-||heshunjituan.com^
 ||heylookhere.top^
 ||hflvhua.com^
 ||hfyxdl.com^
@@ -36834,7 +36692,6 @@ adbetnet.com
 ||hhjkl.cc^
 ||hhrhl.vip^
 ||hhslbz.cn^
-||hiffyl.com^
 ||highter.top^
 ||hihifenxiang.com^
 ||hissq.com^
@@ -36870,7 +36727,6 @@ adbetnet.com
 ||houfang8.com^
 ||hougonw.com^
 ||hp0hnj.cn^
-||hpsszw.cn^
 ||hsbkr.com^
 ||htfmbt.com^
 ||htjsk.com^
@@ -36888,12 +36744,10 @@ adbetnet.com
 ||huosuniao.com^
 ||hvie6u.cn^
 ||hxiak.com^
-||hxsjxw.cn^
 ||hycfxdc.com^
 ||hytcsh.cn^
 ||hyuanprint.com^
 ||hyxca.top^
-||hyyazhaji.com^
 ||hyzhongchuang.com^
 ||hzhfhkj.cn^
 ||hzhongjianfund.com^
@@ -36902,7 +36756,6 @@ adbetnet.com
 ||hzuok.com^
 ||hzxfmc.com^
 ||hzzfan.com^
-||i05h.cn^
 ||i87b3.cn^
 ||ia22.com^
 ||ic86doc.com^
@@ -36929,7 +36782,6 @@ adbetnet.com
 ||isgow.com^
 ||ishowms.com^
 ||itcoder.top^
-||ixshklh.cn^
 ||iyouhu.cn^
 ||izuis.com^
 ||j1ybkf.cn^
@@ -36951,7 +36803,6 @@ adbetnet.com
 ||jiangboshidai.com^
 ||jiangchunli.cn^
 ||jiaofulin.cn^
-||jiaqingli.cn^
 ||jiayi2019.top^
 ||jiayiss.com^
 ||jiedaibao120.cn^
@@ -36970,7 +36821,6 @@ adbetnet.com
 ||jinrichaoyang.com^
 ||jinrungroup.cn^
 ||jinshzx.com^
-||jinxinyuan.cn^
 ||jioder3e.cn^
 ||jioeg.com^
 ||jisufeifei.com^
@@ -36985,7 +36835,6 @@ adbetnet.com
 ||jkleosnfjutme.top^
 ||jkxtd77.com^
 ||jlxzt.com^
-||jmsisqc.cn^
 ||jndczg.com^
 ||jndfrqz.com^
 ||jnmqym4.cn^
@@ -36996,7 +36845,6 @@ adbetnet.com
 ||jpg1.oss-cn-beijing.aliyuncs.com^
 ||jpqgxy.com^
 ||jqhevyf.cn^
-||jqpvv.cn^
 ||jskang.cn^
 ||jsku.cc^
 ||jsku.info^
@@ -37017,7 +36865,6 @@ adbetnet.com
 ||juyour8.org^
 ||jvyigg.biqugeq.com^
 ||jvyigg.zbzw.la^
-||jwhfn.cn^
 ||jxbtl.com^
 ||jxdzoy.cn^
 ||jxhcyc.com^
@@ -37061,10 +36908,8 @@ adbetnet.com
 ||kuaipaobiaoju.com^
 ||kunloveyu.cn^
 ||kuzexinxi.com^
-||kxvuv.com^
 ||kypzu.cn^
 ||kyxnz.cn^
-||kyyqhpi.cn^
 ||l29qi.xyz^
 ||l4elb.cn^
 ||laiye315.top^
@@ -37074,7 +36919,6 @@ adbetnet.com
 ||lanshiwan.cn^
 ||lantuyj.com^
 ||lawumi.cn^
-||lchar.com^
 ||lcrmm.top^
 ||legozu.com^
 ||leixigroup.com^
@@ -37112,7 +36956,6 @@ adbetnet.com
 ||lnalttc.com^
 ||lobmuc.cn^
 ||lolvsdota.cn^
-||longfenfa.com^
 ||longkoupeanut.cn^
 ||louisan.cn^
 ||lousivency.com.cn^
@@ -37122,7 +36965,6 @@ adbetnet.com
 ||lq1.abcxs.com^
 ||lr96.top^
 ||lshmjz.com^
-||lssqxbj.cn^
 ||lusrg.cn^
 ||luxoshopde.com^
 ||luyouxi.cn^
@@ -37135,8 +36977,6 @@ adbetnet.com
 ||lyczhb.com^
 ||lyjz001.com^
 ||lylifa.com^
-||lzida.com^
-||lzytt.com^
 ||m06nev.com^
 ||mababa.info^
 ||maicaoren.cn^
@@ -37146,7 +36986,6 @@ adbetnet.com
 ||maoyumao.net^
 ||maro30.com^
 ||mavuz.com^
-||mcjjibr.cn^
 ||mcteu.cn^
 ||mdous.com^
 ||medprofile.cn^
@@ -37156,7 +36995,6 @@ adbetnet.com
 ||mengpr.com^
 ||meooe.com^
 ||meoqbhw.cn^
-||meuevcj.cn^
 ||mg17i.cn^
 ||mgsue.cn^
 ||mgzs.cdn.bcebos.com^
@@ -37164,7 +37002,6 @@ adbetnet.com
 ||mhi9da.cn^
 ||miaos11.com^
 ||micreative-china.cn^
-||minglongtea.cn^
 ||mitjg.xyz^
 ||mjita.cn^
 ||mjtowot.cn^
@@ -37191,7 +37028,6 @@ adbetnet.com
 ||myams.cn^
 ||mydownba.com^
 ||mysty.com.cn^
-||mytehui.cn^
 ||n18uji.xyz^
 ||nabeghlavi.com.cn^
 ||nainaimi.top^
@@ -37204,7 +37040,6 @@ adbetnet.com
 ||nbhotpo.com^
 ||nbwmsod.cn^
 ||ncoyqc.com^
-||nduop.com^
 ||ndusa.cn^
 ||nernv.com^
 ||netfix8.info^
@@ -37213,7 +37048,6 @@ adbetnet.com
 ||nggwhyk.cn^
 ||ngmaul.cn^
 ||ngsaang.top^
-||nickarini.com^
 ||niegg.com^
 ||nihao987654.top^
 ||ningbojipiao.com^
@@ -37244,7 +37078,6 @@ adbetnet.com
 ||nxwly.com^
 ||nxyycsyy.com^
 ||nydjsm.cn^
-||nyhnx.com^
 ||nykps.com^
 ||nyyxyx.com.cn^
 ||o5ikm6.cn^
@@ -37259,8 +37092,6 @@ adbetnet.com
 ||oiwjcsh012.top^
 ||oiwjcsh013.top^
 ||oiwjcsh015.top^
-||okshishi.com^
-||okuis.com^
 ||okwan.cn^
 ||ol6nhf.cn^
 ||on1q0.cn^
@@ -37279,7 +37110,6 @@ adbetnet.com
 ||p0pm5z.cn^
 ||panwenjun.top^
 ||pbtxt.win^
-||pbvxtgn.cn^
 ||pd3a.cn^
 ||pdfmxsh.cn^
 ||pdkuai.com^
@@ -37290,14 +37120,12 @@ adbetnet.com
 ||phoenixnk.cn^
 ||phpape.com^
 ||pi920.com^
-||picbr.com^
 ||pieaa.com^
 ||pincidao.cn^
 ||pingeds.cn^
 ||pingseli.com^
 ||pinkmore.cn^
 ||pjbjzf.com^
-||pjyxlwa.cn^
 ||pkbook.com.cn^
 ||pkyxdwj.cn^
 ||plerv.com^
@@ -37322,7 +37150,6 @@ adbetnet.com
 ||qdhhdsw.cn^
 ||qdmeifeng.cn^
 ||qdyazc.com^
-||qgaot.com^
 ||qgdvyvd.cn^
 ||qhdmqzc.cn^
 ||qhdop.com^
@@ -37344,10 +37171,8 @@ adbetnet.com
 ||qkptx.com^
 ||qkykxrm.cn^
 ||ql01t4.com^
-||qlaot.com^
 ||qloved.cn^
 ||qlssbq.cn^
-||qmlcdlo.cn^
 ||qnpov.cn^
 ||qpmue.xyz^
 ||qpmztk.cn^
@@ -37372,7 +37197,6 @@ adbetnet.com
 ||rbywg.com^
 ||rcynoe.cn^
 ||rdtylx.cn^
-||rdxhrd.com^
 ||renfas.com^
 ||renshengyiyi.com^
 ||represented.cn^
@@ -37386,17 +37210,14 @@ adbetnet.com
 ||rongdingkeji.cn^
 ||rongnews.com^
 ||root85.com^
-||rqvfewi.cn^
 ||ruyidk.com^
 ||ruyiqufu.com^
 ||rvsosm.cn^
 ||rxconkz.cn^
-||rxxdq.cn^
 ||rzlib.net^
 ||rzxlszy.vip^
 ||s28xvp.com^
 ||saastt.com^
-||sachbs.club^
 ||sakuraquant.com^
 ||sanitwealth.com^
 ||sanxueshufa.cn^
@@ -37425,11 +37246,9 @@ adbetnet.com
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||shengchaopiao.cn^
 ||shengdaoyiliao.com^
-||shengzhuanbb.cn^
 ||shenhao258.top^
 ||shenyunkeji.com^
 ||shffcy.cn^
-||shforu.com^
 ||shidaikejivip.cn^
 ||shidailw.com^
 ||shiguangyx.cn^
@@ -37440,7 +37259,6 @@ adbetnet.com
 ||shsnjj.top^
 ||shunxinyuancaiwu.cn^
 ||signstu.top^
-||simarl.com^
 ||simon184.cn^
 ||sinabuy.cn^
 ||sincetrade.com^
@@ -37449,23 +37267,18 @@ adbetnet.com
 ||sjaidu.com^
 ||sjljz.cn^
 ||sjmltjmgw.com^
-||sjzxiqu.cn^
 ||slivercommander.cn^
 ||slshiye.cn^
 ||smvip8.cn^
 ||smxay.com^
 ||snuoen.com^
-||sobolong.com^
 ||sogov587.top^
 ||sokoyo-fq.com^
 ||sonsang.cn^
 ||sosjyx.com^
 ||soso.ws^
 ||soueki.com^
-||spahelani.com^
 ||spaung.cn^
-||sqtr1v.com^
-||sqwscy.com^
 ||srwiiu.cn^
 ||ssdoi.com^
 ||ssznrs.com^
@@ -37509,7 +37322,6 @@ adbetnet.com
 ||szpgzn.com^
 ||szqifu.com^
 ||szqipin.cn^
-||szshouzhai.com^
 ||szwzjk.cn^
 ||szyuke.cn^
 ||t3s9j.xyz^
@@ -37518,12 +37330,10 @@ adbetnet.com
 ||tajxgs.com^
 ||taobaocoupon.cn^
 ||taomochou.cn^
-||taotianran.cn^
 ||tatjhh.cn^
 ||tbaia.com^
 ||tchep.com^
 ||tcnmf.com^
-||tctakoh.com^
 ||tdain.com^
 ||tfg8.com^
 ||tgbrfv.cn^
@@ -37531,7 +37341,6 @@ adbetnet.com
 ||themaxmall.com^
 ||themee.cn^
 ||thindsoo.cn^
-||thxsqei.cn^
 ||tiandihui9450.top^
 ||tianhuafund.cn^
 ||tiaoweiyou.cn^
@@ -37541,7 +37350,6 @@ adbetnet.com
 ||tiwom.com^
 ||tjiaa.com^
 ||tjlms.cn^
-||tjtiebz.cn^
 ||tkshyp.com^
 ||tlwl1.cn^
 ||tlwl2.cn^
@@ -37558,7 +37366,6 @@ adbetnet.com
 ||toujing7.top^
 ||toujing8.top^
 ||toujing9.top^
-||tozvhcq.cn^
 ||travel-together.cn^
 ||trhccn.cn^
 ||trpsm.xyz^
@@ -37571,7 +37378,6 @@ adbetnet.com
 ||tuoxintrade.cn^
 ||twodogegg.cn^
 ||txn5n0.cn^
-||txsadql.cn^
 ||txtxr.com^
 ||txwhds.com.cn^
 ||tyrghj.cn^
@@ -37589,7 +37395,6 @@ adbetnet.com
 ||ucaii.com^
 ||ucvqmvg.cn^
 ||uhbjvwn.cn^
-||uislkdxx.com^
 ||uissm.com^
 ||ujiasm.com^
 ||umbbs.cn^
@@ -37602,13 +37407,10 @@ adbetnet.com
 ||urlet.cn^
 ||ut0ej.cn^
 ||uu7ey6.cn^
-||uunewcar.com^
 ||uuu88.top^
 ||uuwhg.com^
-||uwmoghx.cn^
 ||uxnycjr.cn^
 ||uyueread.com^
-||uzyid.cn^
 ||v5levm1.com^
 ||vasb.cn^
 ||vbanm.com^
@@ -37631,11 +37433,8 @@ adbetnet.com
 ||wangqing7.top^
 ||wannuochongkong.com^
 ||wantezy.cn^
-||warron.cn^
 ||wbiev.com^
-||webkooo.com^
 ||wechatpu.com^
-||wehoysp.cn^
 ||weidehuagong.com^
 ||weiguanwang888.com^
 ||weiiii.com^
@@ -37652,7 +37451,6 @@ adbetnet.com
 ||wfaffwshop.xyz^
 ||wfslj.cn^
 ||wfyqc.com^
-||whkwpzz.cn^
 ||whrles.com^
 ||whxhhjx.com^
 ||whxjnwzhs.com^
@@ -37679,7 +37477,6 @@ adbetnet.com
 ||wvfgiio.cn^
 ||wxebgpj.cn^
 ||wxhdwy.com^
-||wxmg2016.com^
 ||wywna.cn^
 ||wyxcb6.top^
 ||wzjs1.oss-accelerate.aliyuncs.com^
@@ -37703,12 +37500,10 @@ adbetnet.com
 ||xhct66.com^
 ||xhera.cn^
 ||xiachouchou.com^
-||xiakelea.com^
 ||xiandafood.cn^
 ||xiangwangdesh.com^
 ||xiangyudj.cn^
 ||xiangyuym.cn^
-||xiaobingmai.cn^
 ||xiaogouzhuanqian.cn^
 ||xiaokeaiapp.com^
 ||xiaoshuoyun.cn^
@@ -37728,14 +37523,11 @@ adbetnet.com
 ||xjsytoy.com^
 ||xkqpco.com^
 ||xl4z7.cn^
-||xlgtblj.cn^
 ||xmcxz.com^
 ||xmljx.cn^
 ||xmseaside.com^
-||xmstcw.cn^
 ||xmstpay.com^
 ||xmysinter.com^
-||xn--2qu92fhtx4ff.club^
 ||xn--2qu92fhtx4ff.ink^
 ||xn--2qu92fhtx4ff.ren^
 ||xn--2qux23c9ziyrq.icu^
@@ -37743,11 +37535,9 @@ adbetnet.com
 ||xn--2ssq0ktxigkq.cc^
 ||xn--cjr60y21klpd.com^
 ||xn--ddua45lfy1c.ink^
-||xn--i6qs37am6iwyqffc.com^
 ||xn--i7qt52bvsr0u0a.cc^
 ||xn--wxtr9fwyxk9c.art^
 ||xncgroup.cn^
-||xnghmc.com^
 ||xnjzsn.com^
 ||xnzkqew.cn^
 ||xpxvok.cn^
@@ -37782,13 +37572,9 @@ adbetnet.com
 ||ybrex.cn^
 ||ybtianxi.com^
 ||ydfz.org^
-||yfubi.com^
-||yfxixi.com^
 ||yfygs.cn^
-||yfyoyo.com^
 ||yg10x.cn^
 ||ygblogtag.cn^
-||ygiqfnn.cn^
 ||ygnoqu.cn^
 ||yhdtns.com^
 ||yicuntian.cn^
@@ -37815,16 +37601,13 @@ adbetnet.com
 ||yjiaj.com^
 ||yjxqy.com^
 ||ykanx.com^
-||yknhcl.com^
 ||ykpbgqc.top^
-||ylkqw.com^
 ||ymxlm.cc^
 ||ynbzxh.com^
 ||ynhuya.cn^
 ||ynjyhm.com^
 ||ynzby.cn^
 ||yoobest.cn^
-||youkete.cn^
 ||youngalsobeautiful.com^
 ||youpukeji.cn^
 ||youshouge513.cn^
@@ -37832,8 +37615,6 @@ adbetnet.com
 ||yqqlm.vip^
 ||yrqwyn.cn^
 ||yrrsckr.cn^
-||yscci.com^
-||ysjweb.com^
 ||ysyhljt.vip^
 ||ytbctyy.com^
 ||ytbnm.cn^
@@ -37844,7 +37625,6 @@ adbetnet.com
 ||yuandongoffice.com^
 ||yuanqitu.com^
 ||yueduyy.com^
-||yueyelive.com^
 ||yueyuelao.cn^
 ||yuhuanjiuye.com^
 ||yun-pdm2000.cn^
@@ -37871,8 +37651,6 @@ adbetnet.com
 ||yzt001.com^
 ||yzylm.com^
 ||yzyszy.com^
-||z65j.cn^
-||z97g.cn^
 ||zabxb.com^
 ||zanghaihua.org^
 ||zazkkk.com^
@@ -37883,7 +37661,6 @@ adbetnet.com
 ||zfood029.com^
 ||zgchaye123.com^
 ||zgdfvih.cn^
-||zgdtro.com^
 ||zgfszs.com^
 ||zgjjkk.com^
 ||zgjkv.com^
@@ -37913,7 +37690,6 @@ adbetnet.com
 ||zixun8.com^
 ||ziyeaiying.com^
 ||zizcy.com^
-||zizidi.com^
 ||zjksgl.com^
 ||zjlfqf.com^
 ||zkba9.cn^
