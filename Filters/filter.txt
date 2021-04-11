@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-10T18:18:53.054Z
+! Last modified: 2021-04-11T00:32:07.066Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -3994,6 +3994,7 @@ vkcdnservice.appspot.com^
 ||aidomination.xyz^
 ||aighthatev.club^
 ||aigneloa.com^
+||aiiirwciki.com^
 ||ailawlani.club^
 ||ailingglorify.com^
 ||ailingtonwh.club^
@@ -4112,6 +4113,7 @@ vkcdnservice.appspot.com^
 ||analyzeagg.com^
 ||anastasia-international.com^
 ||anatomicele.site^
+||anawkward.com^
 ||anbiarfehxyz.com^
 ||ancesethod.top^
 ||ancjmfycf.com^
@@ -5631,6 +5633,7 @@ vkcdnservice.appspot.com^
 ||cryartarm.online^
 ||cryptianainv.club^
 ||crypto-news-world.club^
+||crystalproducerhurried.com^
 ||csfkhqzegycmux.com^
 ||cshkgktv.com^
 ||csiasvapqrccq.com^
@@ -6333,6 +6336,7 @@ vkcdnservice.appspot.com^
 ||ebuzzing.com^
 ||ebz.io^
 ||eca1d7792ad5de43.com^
+||eccehkho.com^
 ||ecdglplsmzxcergaqx.com^
 ||ecgopezooczg.com^
 ||echoazou.com^
@@ -6351,6 +6355,7 @@ vkcdnservice.appspot.com^
 ||edchargina.pro^
 ||edcredition.club^
 ||edcritessuspi.info^
+||edd249a64b.com^
 ||edencourtbrita.info^
 ||edestrathergo.club^
 ||edfsqfaeenij.com^
@@ -6737,6 +6742,7 @@ vkcdnservice.appspot.com^
 ||evnoxawvqhda.com^
 ||evokeelbowsoil.com^
 ||evokeframingimpossible.com^
+||evokeseverextremity.com^
 ||evvjvrpldtnlqk.com^
 ||evvznnafduvs.com^
 ||ewedivotsfop.com^
@@ -7443,6 +7449,7 @@ vkcdnservice.appspot.com^
 ||glfrjgeco.com^
 ||glgcclcyz.com^
 ||glihargi.net^
+||glimmerswiftlyforgery.com^
 ||glimtors.net^
 ||glitteringcourageous.com^
 ||glo-glo-oom.com^
@@ -10286,6 +10293,7 @@ vkcdnservice.appspot.com^
 ||oysterscarton.com^
 ||oyywtwcx.com^
 ||ozmifi.info^
+||ozongees.com^
 ||ozrdgjalmch.com^
 ||ozrmnwplx.com^
 ||oztpeloyj.com^
@@ -10429,6 +10437,7 @@ vkcdnservice.appspot.com^
 ||pergavelshot.com^
 ||perhangeflets.site^
 ||perhapscommabudge.com^
+||periodsalter.com^
 ||peripherd.club^
 ||permanentnearly.com^
 ||perspoolothe.fun^
@@ -11211,6 +11220,7 @@ vkcdnservice.appspot.com^
 ||remarypolike.site^
 ||rementalava.club^
 ||remiumert.club^
+||remoteeloise.com^
 ||remultiesbee.fun^
 ||renceriskie.fun^
 ||rentsincrea.top^
@@ -13299,6 +13309,7 @@ vkcdnservice.appspot.com^
 ||whazugho.com^
 ||whdzxabhqsdnlc.com^
 ||wheeptit.net^
+||wheeshoo.net^
 ||wheessoo.com^
 ||whefungu.com^
 ||whegrads.com^
@@ -33346,8 +33357,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||xcsci.cn^
-||ysjkbk.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34748,6 +34757,7 @@ adbetnet.com
 ||xchgx.com^
 ||xcjy876.com^
 ||xcsaz.com^
+||xcsci.cn^
 ||xcxzxc.cn^
 ||xcy8.com^
 ||xdcqcyp.com^
@@ -34888,6 +34898,7 @@ adbetnet.com
 ||yqw88.com^
 ||ys2000.cdn.bcebos.com^
 ||ysgsq.cn^
+||ysjkbk.com^
 ||ysjwj.com^
 ||ysyjg.com^
 ||ytop8.com^
@@ -35185,6 +35196,7 @@ adbetnet.com
 ||g.ousns.net^
 ||g2.ousns.net^
 ||ganjituiguang.ganji.com^
+||gdcytv.cn^*.gif
 ||gdt.qq.com^
 ||gg.0598yu.com^
 ||gg.4kdy.net^
@@ -35373,7 +35385,6 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||gdcytv.cn^*.gif
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -36126,8 +36137,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||91yktong.com^
-||lxhjaq.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||027whht.com^
@@ -36265,6 +36274,7 @@ adbetnet.com
 ||91cy.top^
 ||91funcy.com^
 ||91jiedai.cn^
+||91yktong.com^
 ||94dayu.com^
 ||951896.com^
 ||958so.cn^
@@ -37145,6 +37155,7 @@ adbetnet.com
 ||lvkuaizi.com^
 ||lvsechufang.com^
 ||lwlscy.com^
+||lxhjaq.cn^
 ||ly2si17.cn^
 ||ly5200.cn^
 ||lyczhb.com^
