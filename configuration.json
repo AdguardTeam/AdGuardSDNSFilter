@@ -1,5 +1,5 @@
 {
-  "name": "AdGuard DNS filter",
+  "name": "Custom AdGuard DNS filter",
   "description": "Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.",
   "homepage": "https://github.com/AdguardTeam/AdguardSDNSFilter",
   "license": "https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE",
@@ -224,16 +224,24 @@
     },
     {
       "name": "Additional rules",
-      "source": "Filters/rules.txt",
+      "source": "https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/rules.txt",
       "transformations": ["Validate"],
       "type": "adblock"
     },
     {
-      "name": "Exception rules",
-      "source": "Filters/exceptions.txt",
+      "name": "Oisd Basic",
+      "source": "https://abp.oisd.nl/basic/",
       "transformations": ["Validate"],
       "type": "adblock"
+    },
+    {
+      "name": "Steven Black",
+      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+      "transformations": ["Validate"],
+      "type": "hosts"
     }
   ],
-  "transformations": ["Compress"]
+  "transformations": ["RemoveComments","Deduplicate","RemoveModifiers","Compress"]
 }
+
+
