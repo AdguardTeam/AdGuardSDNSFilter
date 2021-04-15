@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-15T06:10:25.129Z
+! Last modified: 2021-04-15T12:11:58.567Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||psoageeb.com^
+||gaijiglo.net^
+||chichosebook.com^
 ||wombsaimscary.com^
 ||icgrohbeory.com^
 ||ghostsinstance.com^
@@ -3811,6 +3814,7 @@ vkcdnservice.appspot.com^
 ||activealibi.com^
 ||actressact.com^
 ||actsvane.com^
+||acybrccvwoftb.com^
 ||ad120m.com^
 ||ad123m.com^
 ||ad127m.com^
@@ -3973,6 +3977,7 @@ vkcdnservice.appspot.com^
 ||ahbcagaazvtuh.com^
 ||ahbdsply.com^
 ||ahcdsply.com^
+||ahddsply.com^
 ||ahedsply.com^
 ||ahelessenge.club^
 ||ahgdsply.com^
@@ -5638,6 +5643,7 @@ vkcdnservice.appspot.com^
 ||cweiwoydalr.com^
 ||cwgads.com^
 ||cwkuki.com^
+||cwlehfntz.com^
 ||cwsgwqbcdhtk.com^
 ||cwwzubqasdqayf.com^
 ||cxuehuxz.com^
@@ -7365,6 +7371,7 @@ vkcdnservice.appspot.com^
 ||gnamwmixa.com^
 ||gnatgrocery.com^
 ||gnativestreesaga.site^
+||gnatneatlyembodiment.com^
 ||gnatpointed.com^
 ||gneyjsdv.com^
 ||gnorityari.club^
@@ -9241,6 +9248,7 @@ vkcdnservice.appspot.com^
 ||mothhatekick.com^
 ||motille.com^
 ||motionlesseasilypreserved.com^
+||motivatemallplead.com^
 ||moulieres.xyz^
 ||mousescrupulousrow.com^
 ||moutoofa.com^
@@ -9981,6 +9989,7 @@ vkcdnservice.appspot.com^
 ||outbalancecapitalist.com^
 ||outhulem.net^
 ||outhumporc.work^
+||outlaybuymidnight.com^
 ||outlookabsorb.com^
 ||outotheret.club^
 ||outsimfat.site^
@@ -11564,6 +11573,7 @@ vkcdnservice.appspot.com^
 ||smrtgs.com^
 ||smsimprisee.club^
 ||smucpfadqgtkld.com^
+||smvocdnxusp.com^
 ||snaglighter.com^
 ||snammar-jumntal.com^
 ||snapsed.club^
@@ -26557,6 +26567,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||rbdiqz.com^
 ||the4.fun^
 ||tgdmpf.com^
 ||ece8c2alhz.ru^
@@ -35498,6 +35509,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||bridline.cn^
 ||flctbg.com^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
