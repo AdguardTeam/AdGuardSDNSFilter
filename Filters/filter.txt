@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-15T12:11:58.567Z
+! Last modified: 2021-04-15T18:20:46.544Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||bikesopden.com^
+||vignerez.net^
+||thompaur.com^
 ||psoageeb.com^
 ||gaijiglo.net^
 ||chichosebook.com^
@@ -9732,6 +9735,7 @@ vkcdnservice.appspot.com^
 ||nvwqqlroj.com^
 ||nvysyzemuvac.com^
 ||nwliko.com^
+||nwqlxtlfi.com^
 ||nxcxithvcoeh.com^
 ||ny8yoo2ro5aa.com^
 ||nyacampwk.com^
@@ -13138,6 +13142,7 @@ vkcdnservice.appspot.com^
 ||xaxoro.com^
 ||xbaulknerte.club^
 ||xbcnvj2mdk1dn1.com^
+||xbmwyidqbeiv.com^
 ||xbnvucutpcq.com^
 ||xcelltech.com^
 ||xcelsiusadserver.com^
@@ -31859,6 +31864,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beead.it^
 ||break-even.it^
 ||brznetwork.com^
+||btsaffiliations.com^
 ||buyon.it^
 ||casino-sicuro.it^
 ||clacson24.com^
@@ -35509,6 +35515,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||renrentoutiao.cn^
+||opapxq.com^
 ||bridline.cn^
 ||flctbg.com^
 ||027whht.com^
