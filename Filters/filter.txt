@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-16T12:11:38.497Z
+! Last modified: 2021-04-16T18:20:19.283Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||d3beefy8kd1pr7.cloudfront.net^
+||venienceilo.fun^
+||dellswhinyrank.com^
 ||bikesopden.com^
 ||vignerez.net^
 ||thompaur.com^
@@ -3445,6 +3448,7 @@ vkcdnservice.appspot.com^
 ||58b14921719ec.com^
 ||58b291f917728a2.com^
 ||58f7c1ff30eb.com^
+||596317de3d.com^
 ||59a8e0d6fa2.com^
 ||59cn7.com^
 ||59e6ea7248001c.com^
@@ -3729,6 +3733,7 @@ vkcdnservice.appspot.com^
 ||a6be07586bc4a7.com^
 ||a6f845e6c37b2833148.com^
 ||a6x4effomlxe.com^
+||a79736f359f.com^
 ||a9d7c19f0282.com^
 ||a9nf3hg5c2.com^
 ||aa53df329975c325.com^
@@ -5205,6 +5210,7 @@ vkcdnservice.appspot.com^
 ||ckrf1.com^
 ||claimbit.tk^
 ||clairedikio.club^
+||clairiose.pro^
 ||clairvoyantvigourcelebrity.com^
 ||clarityray.com^
 ||clarizonsimp.top^
@@ -6557,6 +6563,7 @@ vkcdnservice.appspot.com^
 ||erihj.com^
 ||eringassumpt.club^
 ||eriniquep.club^
+||erkchpofubojfm.com^
 ||erkhxw.com^
 ||ernettesew.club^
 ||erniphiq.com^
@@ -6713,6 +6720,7 @@ vkcdnservice.appspot.com^
 ||extraordinarygeorgianaanomalous.com^
 ||extrementtgfa.site^
 ||extremereach.io^
+||extremiu.top^
 ||extyoasigus.com^
 ||exualpaignp.info^
 ||exwcadanpfc.com^
@@ -7240,6 +7248,7 @@ vkcdnservice.appspot.com^
 ||gatetotrustednetwork.com^
 ||gaudiessept.space^
 ||gaulauvi.net^
+||gauvaiho.net^
 ||gavnogeeygaika.com^
 ||gazettereasi.club^
 ||gb0rd.com^
@@ -8107,6 +8116,7 @@ vkcdnservice.appspot.com^
 ||jb7hvcksstar.com^
 ||jb7hvckszone.com^
 ||jbbqwmnrkpi.com^
+||jbcnlxmhqbio.com^
 ||jbqeyfrli.com^
 ||jchgcipyywszqt.com^
 ||jcqwzssqks.com^
@@ -8683,6 +8693,7 @@ vkcdnservice.appspot.com^
 ||losingoldfry.com^
 ||louchees.net^
 ||loudhoveracute.com^
+||loudlycorrect.com^
 ||loulouly.net^
 ||loungepatientlyprogramme.com^
 ||lourdoueisienne.website^
@@ -10182,6 +10193,7 @@ vkcdnservice.appspot.com^
 ||perceivecatastrophe.com^
 ||perfordpetre.club^
 ||performanceonclick.com^
+||performancetrustednetwork.com^
 ||perfunctorytalentcompute.com^
 ||pergavelshot.com^
 ||perhangeflets.site^
@@ -10526,6 +10538,7 @@ vkcdnservice.appspot.com^
 ||psclicks.com^
 ||psedfenedc.fun^
 ||pseepsie.com^
+||psekesheva.pro^
 ||psensuds.net^
 ||pseqcs05.com^
 ||psewhaur.net^
@@ -10885,6 +10898,7 @@ vkcdnservice.appspot.com^
 ||rechaptalisent.xyz^
 ||recheriend.top^
 ||reckedmane.club^
+||recollectionmallet.com^
 ||recomine.club^
 ||recommendedscenery.com^
 ||recommerdal.club^
@@ -11144,6 +11158,7 @@ vkcdnservice.appspot.com^
 ||rouvoute.net^
 ||rovalionsa.fun^
 ||rovenancyde.top^
+||rovuditho.pro^
 ||rowfeedire.casa^
 ||rowframemailer.com^
 ||rpjzlykhkdc.com^
@@ -12265,6 +12280,7 @@ vkcdnservice.appspot.com^
 ||traumaticnoiseless.com^
 ||travangeind.club^
 ||travelinskydream.ga^
+||traverseforecast.com^
 ||trawahdh2hd8nbvy09.com^
 ||trblocked.com^
 ||trc85.com^
@@ -12415,6 +12431,7 @@ vkcdnservice.appspot.com^
 ||uhodsplo.com^
 ||uhpdsplo.com^
 ||uhsmmaq4l2n5.com^
+||uhxdsplo.com^
 ||uieoogjarimcey.com^
 ||uigruwtql.com^
 ||uilsplentialde.top^
@@ -12582,6 +12599,7 @@ vkcdnservice.appspot.com^
 ||uvscqwzysqm.com^
 ||uwdtibwk.com^
 ||uwehcnmbnfr.com^
+||uwoaptee.com^
 ||uwtafumi.com^
 ||uwyxmjfqlvhqoy.com^
 ||uxfpdo3hx5fi.com^
@@ -18007,6 +18025,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||atom-log.3.cn^
+||ezodn.com^
 ||x-storage-a1.cir.io^
 ||didna.io^
 ||log.nordot.jp^
@@ -21965,6 +21985,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||behave.noen.at^
+||tracking.noen.at^
 ||track.wattpad.com^
 ||stat.download.xunlei.com^
 ||dmp.citiservi.es^
@@ -24078,7 +24100,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||excited.me^
 ||extole.io^
 ||extreme-ip-lookup.com^
-||ezodn.com^
 ||f92j5.com^
 ||faktor.io^
 ||fastly-insights.com^
@@ -31417,6 +31438,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
+||bdcanef.cn^
 ||sofseo.cn^
 ||fo.iphonevip.cn^
 ||xn--xhq9mt12cf5v.xn--io0a7i^
@@ -35532,6 +35554,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||qhruisen.cn^
 ||qhweisen.cn^
 ||hbhyc.cn^
 ||dbxnvh.cn^
