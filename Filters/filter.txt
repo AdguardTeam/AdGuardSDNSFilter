@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-16T06:10:06.742Z
+! Last modified: 2021-04-16T12:11:38.497Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7849,6 +7849,7 @@ vkcdnservice.appspot.com^
 ||i864ekhq.com^
 ||i99i.org^
 ||iafjzbzqdgxq.com^
+||iahkvlqmahoide.com^
 ||iajcvxcqktpm.com^
 ||ialgregarderol.fun^
 ||iammvucrpj.com^
@@ -9357,6 +9358,7 @@ vkcdnservice.appspot.com^
 ||mxtads.com^
 ||mxuiso.com^
 ||mxvncslrduda.com^
+||mxwezmtyd.com^
 ||my-hanson.com^
 ||myaarzoo.com^
 ||myadcash.com^
@@ -17228,7 +17230,16 @@ vkcdnservice.appspot.com^
 !
 ! ||mobileapptracking.com^ - don't block this domain with all subdomains. https://forum.adguard.com/index.php?threads/23917/
 !
-!
+! FluBot / Cabassous malware
+! https://github.com/prodaft/malware-ioc/tree/master/FluBot
+||xjnwqdospderqtk.ru^
+||nfiuerwtftasnuk.com^
+||qoisocrldvnesni.ru^
+||xawsnngjljanxof.su^
+||bdvwidxfiextwof.ru^
+||krvpsegjeukhoqk.su^
+||auqcmkubxjmeeyf.ru^
+||vloxaloyfmdqxti.ru^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/74651
 ! com.opera.app.newslite
 ||s-adx.op-mobile.opera.com^
@@ -17339,12 +17350,6 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
-||qoisocrldvnesni.ru^
-||xawsnngjljanxof.su^
-||bdvwidxfiextwof.ru^
-||krvpsegjeukhoqk.su^
-||auqcmkubxjmeeyf.ru^
-||vloxaloyfmdqxti.ru^
 ||iad-*.braze.com^
 ||adpopcorn.com^
 ||pangle.io^
@@ -18021,6 +18026,7 @@ vkcdnservice.appspot.com^
 ||pipedream.wistia.com^
 ||mutinycdn.com^
 ||estatcounter.co.uk^
+||statcollector.sidearmsports.com^
 ||hktracker.hankookilbo.com^
 ||ibeat-analytics.com^
 ||tag-based.s3.*.amazonaws.com^
@@ -26580,6 +26586,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||akolafovar.com^
 ||rbdiqz.com^
 ||the4.fun^
 ||tgdmpf.com^
@@ -31063,6 +31070,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||files.pbgiris.com^
 ||r20.club^
 ||reklam1.akhisar.bel.tr^
 ||partnerx.bethub.io^
@@ -32959,6 +32967,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||ptv1f5dh4s35df4h5fg.xyz^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35523,6 +35532,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||qhweisen.cn^
+||hbhyc.cn^
+||dbxnvh.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
