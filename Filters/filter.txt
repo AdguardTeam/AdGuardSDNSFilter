@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-16T18:20:19.283Z
+! Last modified: 2021-04-17T00:28:16.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7809,6 +7809,7 @@ vkcdnservice.appspot.com^
 ||htalizer.com^
 ||htamaster.com^
 ||htexamplerri.top^
+||htibgrbonwdjj.com^
 ||htintpa.tech^
 ||htmonster.com^
 ||htmuhftnu.com^
@@ -13272,6 +13273,7 @@ vkcdnservice.appspot.com^
 ||xubob.com^
 ||xvbelink.com^
 ||xvcmsfoeheu.com^
+||xvcrbzyiul.com^
 ||xvika.com^
 ||xvnfyutv.com^
 ||xvwebllndr.com^
@@ -32989,7 +32991,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||ptv1f5dh4s35df4h5fg.xyz^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33984,6 +33985,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pr00001.com^
 ||prohibited.cn^
 ||ptkhy.com^
+||ptv1f5dh4s35df4h5fg.xyz^
 ||pubbirdf.com^
 ||pyzkk.com^
 ||pzrj6.top^
@@ -35554,10 +35556,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||qhruisen.cn^
-||qhweisen.cn^
-||hbhyc.cn^
-||dbxnvh.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -35967,6 +35965,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||daskm.com^
 ||datazhan.com^
 ||daylskg.cn^
+||dbxnvh.cn^
 ||dceni.com^
 ||ddanq.com^
 ||dddyun.com^
@@ -36189,6 +36188,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||haoxianyangrouye.com^
 ||happyyong.com^
 ||hbbww.com^
+||hbhyc.cn^
 ||hbkhqc.com^
 ||hblanghun.cn^
 ||hbttcc.com^
@@ -36679,6 +36679,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qgdvyvd.cn^
 ||qhdmqzc.cn^
 ||qhdop.com^
+||qhruisen.cn^
+||qhweisen.cn^
 ||qhxcdmfj.cn^
 ||qi-shi.top^
 ||qianggou8.top^
