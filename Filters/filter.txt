@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-17T12:11:18.131Z
+! Last modified: 2021-04-17T18:16:58.936Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||riminghoggoofy.com^
 ||tightslowingpredictable.com^
 ||d3beefy8kd1pr7.cloudfront.net^
 ||venienceilo.fun^
@@ -3137,7 +3138,6 @@ vkcdnservice.appspot.com^
 ||05xz0h2xo799.com^
 ||06dd0894cce50c.com^
 ||06f09b1008ae993a5a.com^
-||075c83915a3a.com^
 ||07aa0353cc.com^
 ||07fe665dd33f.com^
 ||0898hhh.com^
@@ -3154,7 +3154,6 @@ vkcdnservice.appspot.com^
 ||0e6fc55ed3d4c2c2ba0.com^
 ||0emn.com^
 ||0f461325bf56c3e1b9.com^
-||0f99a73c79.com^
 ||0fmm.com^
 ||0gctp5ht.top^
 ||0gw7e6s3wrao9y3q.pro^
@@ -3174,7 +3173,6 @@ vkcdnservice.appspot.com^
 ||103092804.com^
 ||10b883b3d61d.com^
 ||10desires.com^
-||10f0c7b222.com^
 ||10fbb07a4b0.se^
 ||1100i.com^
 ||118aa629a7968e75e.com^
@@ -3222,7 +3220,6 @@ vkcdnservice.appspot.com^
 ||1ex4oemg99mv.com^
 ||1f58098dd54.com^
 ||1f7de8569ea97f0614.com^
-||1fe47480acd.com^
 ||1fwjpdwguvqs.com^
 ||1han-rit-ten.com^
 ||1hanritten.com^
@@ -3262,7 +3259,6 @@ vkcdnservice.appspot.com^
 ||2444efc8cd8e.com^
 ||247realmedia.com^
 ||24ad89fc2690ed9369.com^
-||24bd0ec60810.com^
 ||24smile.org^
 ||24vunvrv.com^
 ||24x7adservice.com^
@@ -3338,6 +3334,7 @@ vkcdnservice.appspot.com^
 ||3a8c9b0ca405b5.com^
 ||3ab171502b3.com^
 ||3ac901bf5793b0fccff.com^
+||3b202770a2.com^
 ||3b9eb5ed04721bef.com^
 ||3c0012ab95c132f.com^
 ||3c513c1d3255c.com^
@@ -3375,6 +3372,7 @@ vkcdnservice.appspot.com^
 ||427tbezplqv5.com^
 ||42837932b3d.com^
 ||42a5d530ec972d8994.com^
+||42ed29d67ed.com^
 ||42eed1a0d9c129.com^
 ||43031aaaecd84428.com^
 ||43137c93a82b0e81da.com^
@@ -3447,10 +3445,10 @@ vkcdnservice.appspot.com^
 ||58b14921719ec.com^
 ||58b291f917728a2.com^
 ||58f7c1ff30eb.com^
-||596317de3d.com^
 ||59a8e0d6fa2.com^
 ||59cn7.com^
 ||59e6ea7248001c.com^
+||59ef627aa2a.com^
 ||5a60bfdc522.com^
 ||5aa8f31e2f5d.com^
 ||5advertise.com^
@@ -3517,7 +3515,6 @@ vkcdnservice.appspot.com^
 ||6bgaput9ullc.com^
 ||6c6a4ec4e8b80d4.com^
 ||6e2f1d2ae033.com^
-||6e9420f6734.com^
 ||6ea56485aed0c.com^
 ||6ed0a6630b.com^
 ||6f1dba68f65.com^
@@ -3542,6 +3539,7 @@ vkcdnservice.appspot.com^
 ||7-7-7-partner.com^
 ||7017042b83a65ea.com^
 ||70ee6484605f.com^
+||712e2a170bb3.com^
 ||71a30cae934e.com^
 ||71bcab8994dbe2.com^
 ||71d7511a4861068.com^
@@ -3568,7 +3566,6 @@ vkcdnservice.appspot.com^
 ||778669.com^
 ||77d0f28ca582231.com^
 ||77f24529d8427410.com^
-||781ca8a804e.com^
 ||7839e0482307b9276b.com^
 ||78986ba32c.com^
 ||789a42c1a33aa5.com^
@@ -3832,6 +3829,7 @@ vkcdnservice.appspot.com^
 ||adaptingtova.biz^
 ||adaranth.com^
 ||adbmi.com^
+||addf5c754cc6.com^
 ||addictedapartlazy.com^
 ||addressen.club^
 ||addression.club^
@@ -3923,7 +3921,6 @@ vkcdnservice.appspot.com^
 ||adxpartner.com^
 ||adzfun.info^
 ||adzfun.me^
-||adziondin.club^
 ||adzmob.com^
 ||adzs.com^
 ||ae1a1e258b8b016.com^
@@ -4099,7 +4096,6 @@ vkcdnservice.appspot.com^
 ||amavirgin.pro^
 ||amenddroopingpharmacy.com^
 ||amerallyluke.club^
-||ameripermanento.website^
 ||amesgraduatel.site^
 ||amgtomdcxvm.com^
 ||amhpbhyxfgvd.com^
@@ -4747,6 +4743,7 @@ vkcdnservice.appspot.com^
 ||brandnewapp.pro^
 ||brapoiorc.com^
 ||brassstacker.com^
+||bravelywade.com^
 ||brdmin.com^
 ||breadstringscrashed.com^
 ||breakingdeductrates.com^
@@ -5689,7 +5686,6 @@ vkcdnservice.appspot.com^
 ||d71e6dd31a026d45.com^
 ||d72gb9oukw3j.com^
 ||d77685035ab.com^
-||d80ca4cff3.com^
 ||d869381a42af33b.com^
 ||d99sure.xyz^
 ||d9kvn70l4ogn.com^
@@ -5732,6 +5728,7 @@ vkcdnservice.appspot.com^
 ||danzhallfes.com^
 ||dapper.net^
 ||daprocessary.club^
+||darcyhi.com^
 ||darersan.co^
 ||daringprobablywithin.com^
 ||darkenedshrine.com^
@@ -5783,7 +5780,6 @@ vkcdnservice.appspot.com^
 ||deadlinemurderapril.com^
 ||deadlingsfg.club^
 ||dealcurrent.com^
-||dealsnbuy.com^
 ||dearbrotherinlaw.com^
 ||deatheriwevo.site^
 ||debadu.com^
@@ -7136,6 +7132,7 @@ vkcdnservice.appspot.com^
 ||fukkzdxfyrchhc.com^
 ||fulfilledcompensatedelightful.com^
 ||fulltraffic.net^
+||fundamentalenvironmental.com^
 ||fundardsesaz.club^
 ||fungus.online^
 ||funklicks.com^
@@ -8197,6 +8194,7 @@ vkcdnservice.appspot.com^
 ||jrtswekysc.com^
 ||js-kods.club^
 ||jstatic.org^
+||jswxwofumjg.com^
 ||jtbdzlpuojqln.com^
 ||jtinssutynyf.com^
 ||jtuvgczhvuptzn.com^
@@ -9596,6 +9594,7 @@ vkcdnservice.appspot.com^
 ||nomadpertexcess.com^
 ||nomicidenti.top^
 ||nonerr.com^
+||nonfictionrobustchastise.com^
 ||nonpareilwagetide.com^
 ||noonraptnite.com^
 ||nopapmyzyjiqnc.com^
@@ -10651,6 +10650,7 @@ vkcdnservice.appspot.com^
 ||qggcjrrjvlif.com^
 ||qggypucwewn.com^
 ||qgkmjpgwg.com^
+||qgnadfdluev.com^
 ||qgnlbjkxrzb.com^
 ||qgnqsebea.com^
 ||qgrazpvofra.com^
@@ -11046,6 +11046,7 @@ vkcdnservice.appspot.com^
 ||riykotovmy.com^
 ||rj2ro1x3j4ht.com^
 ||rjaepduiirw.com^
+||rjltpektsuqsu.com^
 ||rjzwheddxjuk.com^
 ||rkauzlyh.com^
 ||rkcqlsiu9fr6.top^
@@ -11639,6 +11640,7 @@ vkcdnservice.appspot.com^
 ||specimensspittleentrepreneur.com^
 ||specimenvampireserial.com^
 ||speckdiversitypiety.com^
+||spectaclescasual.com^
 ||specularpro.site^
 ||spedhowusing.com^
 ||speechmomentarily.com^
