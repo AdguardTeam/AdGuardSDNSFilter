@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-19T09:09:45.816Z
+! Last modified: 2021-04-19T12:12:07.519Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||cggeffgbbfgcefjhgbg.ru^
+||zwyymwy.com^
+||disturbedaccruesurfaces.com^
+||mothkennethaccomplish.com^
 ||riminghoggoofy.com^
 ||tightslowingpredictable.com^
 ||d3beefy8kd1pr7.cloudfront.net^
@@ -3130,6 +3134,7 @@ vkcdnservice.appspot.com^
 ||0265331.com^
 ||02aa19117f396e9.com^
 ||02b5da94a2bd4aea.com^
+||0376ddaf55.com^
 ||039ad0897e6da.com^
 ||048d36793b8.com^
 ||050y9lhe8p.com^
@@ -7115,6 +7120,7 @@ vkcdnservice.appspot.com^
 ||fsitel.com^
 ||fsrdrurl.com^
 ||fsvulvfqg.com^
+||fsznrodyocq.com^
 ||ftjcfx.com^
 ||ftkbsddgbqt.com^
 ||ftklr.com^
@@ -8297,6 +8303,7 @@ vkcdnservice.appspot.com^
 ||kikoucuy.net^
 ||killerjuke.xyz^
 ||killerparadehay.com^
+||kindlyfeebleremembered.com^
 ||kindsworthmp.club^
 ||kindznnd998.xyz^
 ||kingalkylbe.fun^
@@ -10151,6 +10158,7 @@ vkcdnservice.appspot.com^
 ||pepperstretching.com^
 ||peppy2lon1g1stalk.com^
 ||perceivecatastrophe.com^
+||perceivednameless.com^
 ||perfordpetre.club^
 ||performanceonclick.com^
 ||performancetrustednetwork.com^
@@ -10874,6 +10882,7 @@ vkcdnservice.appspot.com^
 ||redreven.fun^
 ||reducatedc.top^
 ||reductingds.club^
+||redundancyphilosophicalwest.com^
 ||redvxjlmaehy.com^
 ||reenrageasse.xyz^
 ||refaucherais.site^
@@ -12430,6 +12439,7 @@ vkcdnservice.appspot.com^
 ||umiyyusldc.com^
 ||umwyfqgsg.com^
 ||umyijmhalvbk.com^
+||unableincludingrow.com^
 ||unacceptableclevercapable.com^
 ||uncessoryel.info^
 ||uncilsdegr.club^
@@ -12663,6 +12673,7 @@ vkcdnservice.appspot.com^
 ||vimjarawl.com^
 ||vimmenced.club^
 ||vindicosuite.com^
+||vinegarweb.com^
 ||violentthinner.com^
 ||vip-vip-vup.com^
 ||vipcpms.com^
@@ -13551,6 +13562,7 @@ vkcdnservice.appspot.com^
 ||zvmldjxh.com^
 ||zwmunz.com^
 ||zwnxzckwihg.com^
+||zwqpqrtpjt.com^
 ||zwwbvpwd.com^
 ||zwzfujusmwsbun.com^
 ||zxa4kxw2nvox.com^
@@ -26546,6 +26558,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||goryachie-foto.net^
 ||akolafovar.com^
 ||rbdiqz.com^
 ||the4.fun^
@@ -37331,8 +37344,18 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||oneline.nextday.media^|
 ! Reported via Telegram: https://t.me/AdGuard_chinese/13741
 @@|ftp.bmp.ovh^|
+!
+! Related to '||mkto-*.com^$third-party'
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/641
+@@||click.acloud.guru^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/627
+@@||email.questrade.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/582
+@@||email.awscloud.com^|
+!
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/510
 @@||c.digikey.com^|
+!
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/580
 @@||cloud.notification-naviextras.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/568
