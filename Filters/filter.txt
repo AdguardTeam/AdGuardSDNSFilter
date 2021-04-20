@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-20T12:11:58.611Z
+! Last modified: 2021-04-20T13:53:38.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||rasuridin.online^
+||hotelfroma.fun^
+||d2sbzwmcg5amr3.cloudfront.net^
 ||speakswretch.com^
 ||cupidrecession.com^
 ||pefyglafy.pro^
@@ -7787,6 +7790,7 @@ vkcdnservice.appspot.com^
 ||hoosorie.com^
 ||hootcodcagy.casa^
 ||hoowooze.net^
+||hopefulserversnecklace.com^
 ||hopeorganconstructive.com^
 ||hopilos.com^
 ||hopinionin.club^
@@ -12553,6 +12557,7 @@ vkcdnservice.appspot.com^
 ||unskilledsqueakjunk.com^
 ||untabilityde.site^
 ||untaryes.online^
+||untiloutrage.com^
 ||untpresearch.club^
 ||untridrisa.cf^
 ||untruewring.com^
@@ -17214,7 +17219,6 @@ vkcdnservice.appspot.com^
 ||d2ojfulajn60p5.cloudfront.net^
 ||d2q52i8yx3j68p.cloudfront.net^
 ||d2r3rw91i5z1w9.cloudfront.net^
-||d2sbzwmcg5amr3.cloudfront.net^
 ||d2sucq8qh4zqzj.cloudfront.net^
 ||d2tkdzior84vck.cloudfront.net^
 ||d2uepos3ef6db0.cloudfront.net^
@@ -35594,7 +35598,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||miyaluorenliziuan.cn^
 ||l07m8gu.cn^
+||doulaihai.top^
+||hdsahfkja.top^
+||lhcqbim.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -37435,18 +37443,6 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||oneline.nextday.media^|
 ! Reported via Telegram: https://t.me/AdGuard_chinese/13741
 @@|ftp.bmp.ovh^|
-!
-! Related to '||mkto-*.com^$third-party'
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/641
-@@||click.acloud.guru^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/627
-@@||email.questrade.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/582
-@@||email.awscloud.com^|
-!
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/510
-@@||c.digikey.com^|
-!
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/580
 @@||cloud.notification-naviextras.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/568
