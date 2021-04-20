@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-20T06:11:44.492Z
+! Last modified: 2021-04-20T12:11:58.611Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||speakswretch.com^
+||cupidrecession.com^
+||pefyglafy.pro^
 ||injectlocum.com^
 ||thongaspredo.com^
 ||slakesshimtames.com^
@@ -704,7 +707,6 @@
 ||wilburshort.pro^
 ||ytimm.com^
 ||spreadcreative.club^
-||eonwayaha.com^
 ||oupe71eiun.com^
 ||prpops.com^
 ||xunkhuczqnuf.com^
@@ -1929,7 +1931,6 @@ www.llllllllllll.net^
 ||thump-night-stand.com^
 ||ek8k5dst5c.com^
 ||smopy.com^
-||alogationa.co^
 ||enlarget.com^
 ||casterist.info^
 ||enousouz.info^
@@ -2593,7 +2594,6 @@ www.llllllllllll.net^
 ||srvpub.com^
 ||ssdphmfduwcl.com^
 ||static.adtidy.net^
-||static.hoptopboy.com^
 ||strands.com^
 ||super-promo.cyme.info^
 ||syndication.jsadapi.com^
@@ -2689,6 +2689,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||cdn3.hentaihand.com^
 ||a.teenspirithentai.com^
 ||d1ac2du043ydir.cloudfront.net^
 ||tontent.pouvideo.cc^
@@ -2867,7 +2868,6 @@ www.llllllllllll.net^
 ||dk2mvwe4uw0z3.cloudfront.net^
 ||dr3k6qonw2kee.cloudfront.net^
 ||js.bulkhentai.com^
-||script.hqpass.com^
 
 !
 ! Source name: AdGuard Base filter ad servers foreign
@@ -4716,6 +4716,7 @@ vkcdnservice.appspot.com^
 ||bogrodius.com^
 ||bogscarcely.com^
 ||bogytoeelf.com^
+||boilstaircasehug.com^
 ||boinkcash.com^
 ||bokrelri.com^
 ||bolahepelm.com^
@@ -4738,6 +4739,7 @@ vkcdnservice.appspot.com^
 ||boubeeth.com^
 ||bouillerines.site^
 ||bowcompetitionbesides.com^
+||bowlpaternity.com^
 ||bowmoolog.com^
 ||bowsedsquiffy.com^
 ||boxofficecounselling.com^
@@ -4944,6 +4946,7 @@ vkcdnservice.appspot.com^
 ||caradstag.casa^
 ||carbourse.club^
 ||cardinalimprovementscartrige.com^
+||cardiwersg.com^
 ||cardmrket.com^
 ||careersincorrectquickie.com^
 ||carefuseds.club^
@@ -6524,6 +6527,7 @@ vkcdnservice.appspot.com^
 ||eo62cocntx.com^
 ||eondunpea.com^
 ||eonsmedia.com^
+||eonwayaha.com^
 ||eooslfyhziubo.com^
 ||eopbflgmxcr.com^
 ||eoredi.com^
@@ -7230,7 +7234,9 @@ vkcdnservice.appspot.com^
 ||galemeltdown.com^
 ||galkama.info^
 ||galumbor.com^
+||gamescarousel.com^
 ||gamesims.ru^
+||gamesrevenu24.com^
 ||gamesrevenue.com^
 ||gangidance.com^
 ||gangstsurv.club^
@@ -7245,6 +7251,7 @@ vkcdnservice.appspot.com^
 ||gaulauvi.net^
 ||gauvaiho.net^
 ||gavnogeeygaika.com^
+||gayadpros.com^
 ||gazettereasi.club^
 ||gb0rd.com^
 ||gbdzznirg.com^
@@ -7282,7 +7289,9 @@ vkcdnservice.appspot.com^
 ||genishury.pro^
 ||genuinealiaspuzzled.com^
 ||genuschaseslowly.com^
+||geoaddicted.net^
 ||geodestricy.site^
+||geoinventory.com^
 ||geras-con.com^
 ||gerskatimi.club^
 ||geruksom.net^
@@ -7297,6 +7306,7 @@ vkcdnservice.appspot.com^
 ||gfbrfqfwwis.com^
 ||gfcowlrmdt.com^
 ||gfftsqrc.com^
+||gfhdkse.com^
 ||gflnzl1vqntw.com^
 ||ggjcswb4rln4.com^
 ||gglx.me^
@@ -7325,6 +7335,7 @@ vkcdnservice.appspot.com^
 ||gkirfipavwra.com^
 ||gkpsrxgdbco.com^
 ||gkrvcunjoacvc.com^
+||gl-cash.com^
 ||gl1117wh13.com^
 ||gladiatorbugs.com^
 ||gladiol9us10.com^
@@ -7337,6 +7348,7 @@ vkcdnservice.appspot.com^
 ||glassmilheart.com^
 ||glauvoob.com^
 ||glazegha.com^
+||glbtrk.com^
 ||gleambeverleydominate.com^
 ||gleebsex.net^
 ||gleergie.net^
@@ -7377,6 +7389,7 @@ vkcdnservice.appspot.com^
 ||glxtest.site^
 ||gmdsyfvwmqitz.com^
 ||gmnzaneslia.com^
+||gmyze.com^
 ||gnamwmixa.com^
 ||gnatgrocery.com^
 ||gnativestreesaga.site^
@@ -7395,12 +7408,14 @@ vkcdnservice.appspot.com^
 ||gobhasyum.com^
 ||gobmodfoe.com^
 ||gobovoul.net^
+||goclick.info^
 ||goddessrig.com^
 ||godvwcft.com^
 ||gohillgo.com^
 ||goingtocontent.com^
 ||gokjicokl.com^
 ||goldenbettingefforlessefforless.com^
+||gomain.pro^
 ||gonextpage.ru^
 ||gongeeta.net^
 ||goo2anywhere.com^
@@ -7453,6 +7468,7 @@ vkcdnservice.appspot.com^
 ||grauroocm.com^
 ||gravellocus.com^
 ||graxarosi.pro^
+||greatcpm.com^
 ||greatdexchange.com^
 ||greatedclu.fun^
 ||greatimprudencecuriosity.com^
@@ -7490,6 +7506,7 @@ vkcdnservice.appspot.com^
 ||grudgeslylonging.com^
 ||grudreeb.com^
 ||grumpult.com^
+||gruponn.com^
 ||grupticaje.pro^
 ||grursusy.com^
 ||grutopsathu.pro^
@@ -7500,8 +7517,10 @@ vkcdnservice.appspot.com^
 ||gsjgkpnq.com^
 ||gstralpolita.info^
 ||gsvyjunccsw.com^
+||gtdkx91r.pro^
 ||gtenormous.club^
 ||gthhumili.top^
+||gtsads.com^
 ||guardcathedral.com^
 ||guemechan.top^
 ||gueqndbe.com^
@@ -7509,6 +7528,7 @@ vkcdnservice.appspot.com^
 ||guffawdecipher.com^
 ||gulpduereason.com^
 ||gumbolersgthb.com^
+||gunzblazingpromo.com^
 ||gusfinishedsue.com^
 ||gutfdaizu.com^
 ||gutsfidelity.com^
@@ -7564,6 +7584,7 @@ vkcdnservice.appspot.com^
 ||hairsthoughtfulgovernor.com^
 ||haithoaz.net^
 ||halfcharitable.com^
+||halileo.com^
 ||halleyperson.pro^
 ||hallhesyaw.com^
 ||hallowelt.cc^
@@ -7606,11 +7627,14 @@ vkcdnservice.appspot.com^
 ||hbtzzlcxfijk.com^
 ||hceykfajyioqkz.com^
 ||hcwaxejunyzvxt.com^
+||hd100546b.com^
 ||hd149026b.com^
 ||hdacode.com^
+||hdat.xyz^
 ||hdeslibzcv.com^
 ||hditers.com^
 ||hdosaoxfcogpl.com^
+||hdpreview.com^
 ||hdvcode.com^
 ||headedtamhemp.com^
 ||headmasterroyalgrope.com^
@@ -7629,12 +7653,15 @@ vkcdnservice.appspot.com^
 ||heeteefu.com^
 ||hehraybryciyls.com^
 ||heighttrumpetaccordingly.com^
+||heiressplane.com^
 ||heirloomouterminus.com^
 ||heirloomsupervisemanager.com^
 ||helessenge.club^
+||helltraffic.com^
 ||hematuresl.club^
 ||hempunevenfeminist.com^
 ||hemtatch.net^
+||hentaibiz.com^
 ||hequentsevent.club^
 ||heraldintimidatestipulate.com^
 ||herbaijansob.club^
@@ -7657,10 +7684,13 @@ vkcdnservice.appspot.com^
 ||hg-bn.com^
 ||hg8dc7bm.com^
 ||hgbasics.com^
+||hgbn.rocks^
 ||hgglguotkgfo.com^
+||hghit.com^
 ||hghm4u7b61.com^
 ||hgtdroan.com^
 ||hgyvbfmffvmho.com^
+||hhit.xyz^
 ||hhunvu.com^
 ||hhzejzwcqa.com^
 ||hiasor.com^
@@ -7668,12 +7698,14 @@ vkcdnservice.appspot.com^
 ||hicltgxzl.com^
 ||hicpm10.com^
 ||hictionstop.fun^
+||hiddenbucks.com^
 ||hiddenlocationpredicate.com^
 ||hiekeegi.com^
 ||highlianimo.club^
 ||highlightextrahydrogen.com^
 ||highnessbackwardsyuri.com^
 ||highnesssexuallyferment.com^
+||highnets.com^
 ||highperformancecpmnetwork.com^
 ||highprofitnetwork.com^
 ||highrevenuecpm.com^
@@ -7698,6 +7730,7 @@ vkcdnservice.appspot.com^
 ||hinksdeba.top^
 ||hinkslovel.top^
 ||hiouschron.club^
+||hipals.com^
 ||hiperdex.ml^
 ||hipfowlzeal.cam^
 ||hiredringjuices.com^
@@ -7709,6 +7742,7 @@ vkcdnservice.appspot.com^
 ||hitcpm.com^
 ||hithingperm.space^
 ||hiveassarilyco.fun^
+||hizlireklam.com^
 ||hizvevxvi.com^
 ||hjgtnhierc.com^
 ||hjhbhddren.com^
@@ -7754,7 +7788,9 @@ vkcdnservice.appspot.com^
 ||hootcodcagy.casa^
 ||hoowooze.net^
 ||hopeorganconstructive.com^
+||hopilos.com^
 ||hopinionin.club^
+||hoptopboy.com^
 ||horiticalagen.club^
 ||horiticaldist.fun^
 ||horizonattendant.com^
@@ -7766,7 +7802,11 @@ vkcdnservice.appspot.com^
 ||hospitecor.top^
 ||hospitecrew.club^
 ||host-host-ads.com^
+||hostave.net^
+||hostave4.net^
+||hot-3d-girls.com^
 ||hot4k.org^
+||hotgvibe.com^
 ||hothta.com^
 ||houdodoo.net^
 ||houghtdespe.fun^
@@ -7787,6 +7827,7 @@ vkcdnservice.appspot.com^
 ||hpeshwdwkzyz.com^
 ||hpuvkfbww.com^
 ||hpyjmp.com^
+||hqpass.com^
 ||hqr9q6f30371.com^
 ||hqtlvmcrpb.com^
 ||hrahdmon.com^
@@ -7802,6 +7843,7 @@ vkcdnservice.appspot.com^
 ||hsrvt.com^
 ||htalizer.com^
 ||htamaster.com^
+||htdvt.com^
 ||htexamplerri.top^
 ||htibgrbonwdjj.com^
 ||htintpa.tech^
@@ -8086,6 +8128,7 @@ vkcdnservice.appspot.com^
 ||iyozokiz.xyz^
 ||izooto.com^
 ||j7rzxe098g5m.com^
+||jackao.net^
 ||jackettrain.com^
 ||jacketzerobelieved.com^
 ||jaftouja.net^
@@ -8093,6 +8136,7 @@ vkcdnservice.appspot.com^
 ||jamdomn.pro^
 ||jamsoulsfriday.com^
 ||jannews.pro^
+||japanbros.com^
 ||jarailso.com^
 ||jarhcvnlj.com^
 ||jarproducercane.com^
@@ -8119,11 +8163,13 @@ vkcdnservice.appspot.com^
 ||jeejujou.net^
 ||jeerszitstoke.com^
 ||jeinvegpool.com^
+||jeisl.com^
 ||jelllizard.com^
 ||jellresistance.com^
 ||jellyclick.com^
 ||jeperdee.net^
 ||jeqixokniyny.com^
+||jerrcotch.com^
 ||jeshnpdqy.com^
 ||jessieflown.com^
 ||jetsowilk.com^
@@ -8135,6 +8181,7 @@ vkcdnservice.appspot.com^
 ||jfavhjmb.com^
 ||jfiqsfsh.com^
 ||jfmtvybvze.com^
+||jfresi.com^
 ||jfrwheneva.club^
 ||jfxkxoicr.com^
 ||jfypfmew.com^
@@ -8146,6 +8193,7 @@ vkcdnservice.appspot.com^
 ||jiclynchron.club^
 ||jicmutse.com^
 ||jientlysome.top^
+||jif5o70u.pro^
 ||jigdigtry.com^
 ||jighucme.com^
 ||jigsawpopcorn.com^
@@ -8170,6 +8218,7 @@ vkcdnservice.appspot.com^
 ||jkwtqsbmxfako.com^
 ||jlemhcmft.com^
 ||jltklmnmj.com^
+||jltzknvw.com^
 ||jmrnews.pro^
 ||jmtitdorwfxe.com^
 ||jmvdzlkf.com^
@@ -8189,6 +8238,7 @@ vkcdnservice.appspot.com^
 ||jofinchnettle.com^
 ||johays.co^
 ||joiningpreferencemobile.com^
+||joinnowinstantly.com^
 ||jokehow.com^
 ||jokelibellous.com^
 ||jolic2.com^
@@ -8210,6 +8260,7 @@ vkcdnservice.appspot.com^
 ||jqamhmztnukb.com^
 ||jqdkoslwjtn.com^
 ||jqk72ugyl2pz.com^
+||jqueryserve.org^
 ||jrtswekysc.com^
 ||js-kods.club^
 ||jstatic.org^
@@ -8222,6 +8273,7 @@ vkcdnservice.appspot.com^
 ||judaisydfs.club^
 ||judgementinvincible.com^
 ||juggrounds.com^
+||juicycash.net^
 ||jukfpojq.com^
 ||julrdr.com^
 ||jumbitr.com^
@@ -8234,11 +8286,13 @@ vkcdnservice.appspot.com^
 ||juroudaw.com^
 ||jurysatisfy.com^
 ||jusrlkubhjnr.com^
+||justgetitfaster.com^
 ||justicehelplesswarn.com^
 ||justiceintegral.com^
 ||justickedukil.club^
 ||justifyillogical.com^
 ||justinpressed.com^
+||justresa.com^
 ||jutwrench.com^
 ||juxtaposereelreferred.com^
 ||juzdqtmyo.com^
@@ -8258,6 +8312,7 @@ vkcdnservice.appspot.com^
 ||jypoagtophu.com^
 ||jypugepha.pro^
 ||jyqqpjpbvya.com^
+||jz9ugaqb.com^
 ||jzhzm30o49gv.com^
 ||jzjzuwllinruj.com^
 ||jzmjxblwnozjyt.com^
@@ -11026,6 +11081,7 @@ vkcdnservice.appspot.com^
 ||rgttoipdr.com^
 ||rgvqcsxqge.com^
 ||rh1hilm7j0ae.com^
+||rhklutlt.com^
 ||rhkwknlpkiqb.com^
 ||rhotonaid.com^
 ||rhubarbauntiepreoccupy.com^
@@ -12100,6 +12156,7 @@ vkcdnservice.appspot.com^
 ||thoodsoy.net^
 ||thoorest.com^
 ||thorizinge.club^
+||thoroughask.com^
 ||thoseads.com^
 ||thoudroa.net^
 ||thoughclassifiedjeff.com^
@@ -13357,6 +13414,7 @@ vkcdnservice.appspot.com^
 ||yjfhadfc.com^
 ||yjwtxskmswcjc.com^
 ||yjyjnolllezo.com^
+||ykrssqaufg.com^
 ||yksjurzq.com^
 ||yldbt.com^
 ||yldmgrimg.net^
@@ -14306,6 +14364,7 @@ vkcdnservice.appspot.com^
 ||allmyverygreatlife.com^
 ||alloydigital.com^
 ||allyes.com^
+||alogationa.co^
 ||alphabird.com^
 ||alphagodaddy.com^
 ||alphonso.tv^
@@ -20933,6 +20992,7 @@ vkcdnservice.appspot.com^
 ! Admiral domains
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
+||ancientact.com^
 ||ticketaunt.com^
 ||warmafterthought.com^
 ||fumblingform.com^
@@ -24906,7 +24966,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Admiral
 ||aheadmachine.com^
 ||amlg.io^
-||ancientact.com^
 ||annoyedairport.com^
 ||ayc0zsm69431gfebd.info^
 ||borderbrush.com^
@@ -27169,7 +27228,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||quantumpers.com^
 ||cloudfastads.ru^
 ||2sfygwfxvsxv.info^
-||hgbn.rocks^
 ||inti24.com^
 ||glt1fogiank3.ru^
 ||luckyads.tech^
@@ -28562,7 +28620,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||harolmo.ru^
 ||hay-borsa.ru^
 ||hd3pi8cv.com^
-||hdat.xyz^
 ||hdtracker.ru^
 ||healthynews03.ru^
 ||hedthertsu.pro^
@@ -28575,7 +28632,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hewoman.info^
 ||hgbn.space^
 ||hgfsdzfs.com^
-||hhit.xyz^
 ||hiaaheddgjdfgabiafc.ru^
 ||hid24.com^
 ||hindisupref.ru^
@@ -35538,6 +35594,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||l07m8gu.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -37338,7 +37395,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ads.yenimedya.com.tr^
 ||ads.bluelithium.com^
 ||s*.adduplex.com^
-||hghit.com^
 ||hgbnr.com^
 ||hgbn1.com^
 ||ad.adriver.ru^
