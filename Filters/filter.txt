@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-20T13:53:38.235Z
+! Last modified: 2021-04-20T18:19:42.554Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,12 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||kittenmilletfoggy.com^
+||kglmcsivtqcbj.com^
+||statementssupervisorthorough.com^
+||xgdhmwbgilx.com^
+||arbourrenewal.com^
+||compareproprietary.com^
 ||rasuridin.online^
 ||hotelfroma.fun^
 ||d2sbzwmcg5amr3.cloudfront.net^
@@ -3382,6 +3388,7 @@ vkcdnservice.appspot.com^
 ||407433bfc441.com^
 ||40a1eca447d.com^
 ||40ceexln7929.com^
+||40f386e243.com^
 ||41df76c67812005c.com^
 ||42297df5c090.com^
 ||4232f0badcf.com^
@@ -4161,6 +4168,7 @@ vkcdnservice.appspot.com^
 ||antfindicater.site^
 ||antiadblocksystems.com^
 ||anticalser.club^
+||anticipationbelieved.com^
 ||antidotefoepersecution.com^
 ||antiquitytissuepod.com^
 ||antiterroristqueenjolly.com^
@@ -4320,6 +4328,7 @@ vkcdnservice.appspot.com^
 ||atpqczsqjsxvln.com^
 ||attacketsun.space^
 ||attackscabbagevengeance.com^
+||attentionsauditoriummall.com^
 ||attenuatecripple.com^
 ||attresswhethe.fun^
 ||atvbrhljmsor.com^
@@ -6178,6 +6187,7 @@ vkcdnservice.appspot.com^
 ||dumbpop.com^
 ||dummywisdom.com^
 ||dunderaffiliates.com^
+||dunedisadvantagetentative.com^
 ||dungeonavenge.com^
 ||dupiwipo.xyz^
 ||durpygckli.com^
@@ -6936,6 +6946,7 @@ vkcdnservice.appspot.com^
 ||fiechaev.com^
 ||fiedinherite.top^
 ||fiendbenevolencemaker.com^
+||fierymanurepebble.com^
 ||fiestataseel.club^
 ||fiewqoyhdkdcm.com^
 ||fiferentsdr.club^
@@ -8950,6 +8961,7 @@ vkcdnservice.appspot.com^
 ||maxonclick.com^
 ||maxserving.com^
 ||mayhemabjure.com^
+||mayordiminution.com^
 ||mazzappa.fun^
 ||mb01.com^
 ||mb102.com^
@@ -9834,6 +9846,7 @@ vkcdnservice.appspot.com^
 ||oardilin.com^
 ||oarvfvntktnoto.com^
 ||oasazedy.com^
+||oathhillsidetile.com^
 ||oavaidan.com^
 ||oaxpcohp.com^
 ||obahet.com^
@@ -22025,6 +22038,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||lc.fresheye.com^
+||lcexp.fresheye.com^
 ||behave.noen.at^
 ||tracking.noen.at^
 ||track.wattpad.com^
@@ -31417,7 +31432,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||download.jword.jp^
 ||find-a.jp^
 ||fivecdm.com^
-||fresheye.com^
 ||fxprime-popular.com^
 ||garss.jp^
 ||hitweb.chosun.com^
@@ -33033,6 +33047,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||cuilongsp.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -37443,6 +37458,18 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||oneline.nextday.media^|
 ! Reported via Telegram: https://t.me/AdGuard_chinese/13741
 @@|ftp.bmp.ovh^|
+!
+! Related to '||mkto-*.com^$third-party'
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/641
+@@||click.acloud.guru^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/627
+@@||email.questrade.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/582
+@@||email.awscloud.com^|
+!
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/510
+@@||c.digikey.com^|
+!
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/580
 @@||cloud.notification-naviextras.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/568
