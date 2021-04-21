@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-21T14:30:30.421Z
+! Last modified: 2021-04-21T18:20:23.501Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||ailrouno.net^
+||creamssicsite.com^
 ||kittenmilletfoggy.com^
 ||kglmcsivtqcbj.com^
 ||statementssupervisorthorough.com^
@@ -5588,7 +5590,6 @@ vkcdnservice.appspot.com^
 ||craqueteriez.xyz^
 ||crazyhell.com^
 ||crazylead.com^
-||creamssicsite.com^
 ||creasureeffe.club^
 ||create2fear.com^
 ||createssque.club^
@@ -5750,6 +5751,7 @@ vkcdnservice.appspot.com^
 ||damsoloist.com^
 ||dana123.com^
 ||danachings.club^
+||dangerinsignificantinvent.com^
 ||dangerprickly.com^
 ||danmeneldur.com^
 ||dantbritingd.club^
@@ -18080,6 +18082,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||thrtle.com^
+||imhd.io^
 ||atom-log.3.cn^
 ||ezodn.com^
 ||x-storage-a1.cir.io^
@@ -24237,7 +24241,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||i401xox.com^
 ||iaudienc.com^
 ||ifvox.com^
-||imhd.io^
 ||impactradius-event.com^
 ||impression.link^
 ||imtwjwoasak.com^
@@ -24571,7 +24574,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||thingswontend.com^
 ||thinktot.com^
 ||threat-analytics.com^
-||thrtle.com^
 ||tnctrx.com^
 ||topstat.cn^
 ||tp88trk.com^
@@ -31273,6 +31275,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||ad.eloan.co.jp^
 ||divscripty.net^
 ||zxcvbnmasdfghjklqwertyuiop.work^
 ||smv.to^
