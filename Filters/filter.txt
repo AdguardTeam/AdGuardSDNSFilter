@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-21T00:28:56.156Z
+! Last modified: 2021-04-21T06:10:40.178Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33047,7 +33047,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||cuilongsp.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33449,6 +33448,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ct1985.com^
 ||ctrhfd.top^
 ||ctsywy.com^
+||cuilongsp.cn^
 ||cxfzw.cn^
 ||cxgh.net^
 ||cyacc.com^
@@ -35613,11 +35613,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||miyaluorenliziuan.cn^
-||l07m8gu.cn^
-||doulaihai.top^
-||hdsahfkja.top^
-||lhcqbim.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -36060,6 +36055,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dodolive.cn^
 ||dodomo.info^
 ||dofkfhv.cn^
+||doulaihai.top^
 ||downcdn.top^
 ||dreamrecord.cn^
 ||dsdsds8848.xyz^
@@ -36265,6 +36261,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hchik.com^
 ||hdfdm.com^
 ||hdminfeng.com^
+||hdsahfkja.top^
 ||hdvwm3.cn^
 ||he3kz8.com^
 ||headwell.cn^
@@ -36503,6 +36500,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kuzexinxi.com^
 ||kypzu.cn^
 ||kyxnz.cn^
+||l07m8gu.cn^
 ||l29qi.xyz^
 ||l4elb.cn^
 ||laiye315.top^
@@ -36525,6 +36523,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lfzxcp.com^
 ||lgjygg.com^
 ||lglady.cn^
+||lhcqbim.cn^
 ||lianfuhuang.cn^
 ||lianyicq.cn^
 ||liaotian4.com^
@@ -36597,6 +36596,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||miaos11.com^
 ||micreative-china.cn^
 ||mitjg.xyz^
+||miyaluorenliziuan.cn^
 ||mjita.cn^
 ||mjtowot.cn^
 ||ml44.cn^
