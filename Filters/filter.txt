@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-22T06:10:49.092Z
+! Last modified: 2021-04-22T12:12:09.423Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||eabids.com^
+||kdkgwhntslalwj.com^
 ||hostinger.com^
 ||outblowtewhit.com^
 ||ailrouno.net^
@@ -18044,6 +18046,9 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||df.pmweb.com.br^
+||usesfathom.com^
+||fathomdns.com^
 ||tracking.atreemo.com^
 ||collector-*.pxchk.net^
 ||collector-*.px-cdn.net^
@@ -23970,6 +23975,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analitycs.net^
 ||analyticschecker.com^
 ||analyticson.com^
+||analytik.xyz^
 ||andyetanotherthing.com^
 ||angorch-cdr7.com^
 ||answerscloud.com^
@@ -24593,7 +24599,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||user-red.com^
 ||users-api.com^
 ||userzoom.com^
-||usesfathom.com^
 ||uuxnwoevyb.com^
 ||v12group.com^
 ||v1sts.me^
@@ -25329,7 +25334,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hit.mybestpro.com^
 ||hits-*.iubenda.com^
 ||hits.informer.com^
-||hop.clickbank.net^
 ||hpr.outbrain.com^
 ||hspbotdetection.azurewebsites.net^
 ||iabusprivacy.pmc.com^
@@ -25505,7 +25509,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ssr.streamrail.net^
 ||st.cdnco.us^
 ||st.linkfire.com^
-||starman.fathomdns.com^
 ||stas.outbrain.com^
 ||stat.boredomtherapy.com^
 ||stat.glaze.ai^
@@ -31416,7 +31419,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jpg-server.com^
 ||link-trade.net^
 ||logping.exblog.jp^
-||m.shanbara.jp^
 ||magma-analytics.com^
 ||match.seesaa.jp^
 ||mcnt.jp^
@@ -32204,8 +32206,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Apr 2021 16:00 UTC+7
-! Version: 2104141600
+! Last modified: 22 Apr 2021 15:44 UTC+7
+! Version: 2104221544
 ! Blocked: 851 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -33019,12 +33021,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||juvbzle.cn^
-||laoliulaoliu.com^
-||xgxq518.com^
-||agilehw.online^
-||imim.me^
-||hikin.online^
+||youhehuixiangxinxi.top^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33261,6 +33258,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aeoprw.cn^
 ||afj0.com^
 ||afjlb.com^
+||agilehw.online^
 ||agtsjb.com^
 ||ahjzys.com^
 ||ahlxxx.com^
@@ -33652,6 +33650,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hhhhbf.com^
 ||hi760.com^
 ||hiad.myweb.hinet.net^
+||hikin.online^
 ||hivecn.cn^
 ||hizbpdu.cn^
 ||hkfuy.com^
@@ -33720,6 +33719,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ifufen.com^
 ||il8r.com^
 ||ilinxi.cc^
+||imim.me^
 ||imneinei.com^
 ||iomsew.com^
 ||iqiyi.kim^
@@ -33796,6 +33796,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||just-machinery.com^
 ||jutou5.com^
 ||juuhe.com^
+||juvbzle.cn^
 ||juyiqiche.com.cn^
 ||jx118114.net^
 ||jxjzny.com^
@@ -33855,6 +33856,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lantata.com^
 ||laobei.top^
 ||laolinow.com^
+||laoliulaoliu.com^
 ||lc442.com^
 ||le4le.com^
 ||leeleo.top^
@@ -34346,6 +34348,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xcxzxc.cn^
 ||xcy8.com^
 ||xdcqcyp.com^
+||xgxq518.com^
 ||xhbqczl.com^
 ||xhmrv.com^
 ||xhrxb.com^
@@ -35591,9 +35594,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||jiuqihb.cn^
-||kinlivme.cn^
-||627sf.cn^
+||sxmyyx.com^
+||wmbuilr.cn^
+||jiahewine.cn^
+||guangweixinxi345.cn^
+||srkfhl.cn^
+||dibyc.com^
+||377zt.cn^
+||cjhbkj.cn^
+||wenxuemi6.com^
+||bizhixiang.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -35686,6 +35696,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5zi5.top^
 ||605296.com^
 ||606w.cn^
+||627sf.cn^
 ||62wm.com^
 ||64si.com^
 ||66993.top^
@@ -36398,6 +36409,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jiudiandyw.com^
 ||jiujhzp.com^
 ||jiumishow.com^
+||jiuqihb.cn^
 ||jiuwanzi.com^
 ||jixiby.cn^
 ||jiyuanzixun.com^
@@ -36464,6 +36476,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kgfnhf.cn^
 ||khuoy.com^
 ||kid9.info^
+||kinlivme.cn^
 ||kjdw.com.cn^
 ||kjhfy.com^
 ||kl0ru78.xyz^
