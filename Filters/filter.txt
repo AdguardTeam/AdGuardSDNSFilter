@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-21T18:20:23.501Z
+! Last modified: 2021-04-22T00:30:14.624Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||hostinger.com^
+||outblowtewhit.com^
 ||ailrouno.net^
 ||creamssicsite.com^
 ||kittenmilletfoggy.com^
@@ -57,6 +59,7 @@
 ||gaijiglo.net^
 ||chichosebook.com^
 ||wombsaimscary.com^
+||adspeeker.com^
 ||icgrohbeory.com^
 ||ghostsinstance.com^
 ||rufflycouncil.com^
@@ -4091,6 +4094,7 @@ vkcdnservice.appspot.com^
 ||alliedsurfgrace.com^
 ||alliedthirteen.com^
 ||allottenuy.club^
+||allow-to-continue.com^
 ||allowfencelist.com^
 ||allowsscaffold.com^
 ||allpurposefrigilityfrigility.com^
@@ -4283,6 +4287,7 @@ vkcdnservice.appspot.com^
 ||asdpoi.com^
 ||asgclickkl.com^
 ||asgclickpop.com^
+||asgclickpp.com^
 ||ashingcontro.top^
 ||asiangfsex.com^
 ||asilslmkcanfm.com^
@@ -18082,6 +18087,9 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||tracking.atreemo.com^
+||collector-*.pxchk.net^
+||collector-*.px-cdn.net^
 ||thrtle.com^
 ||imhd.io^
 ||atom-log.3.cn^
@@ -22045,6 +22053,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||pla-tk.flipkart.net^
 ||stat.myshows.me^
 ||d2ieqaiwehnqqp.cloudfront.net^
 ||lc.fresheye.com^
