@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-22T16:52:16.215Z
+! Last modified: 2021-04-22T16:53:35.285Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 ||youngoutmatchthousand.com^
 ||eabids.com^
 ||kdkgwhntslalwj.com^
+||hostinger.com^
 ||outblowtewhit.com^
 ||ailrouno.net^
 ||creamssicsite.com^
@@ -24450,7 +24451,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rlets.com^
 ||rockincontent.net^
 ||roeye.com^
-||rollbar.com^
 ||rp-rep.net^
 ||rstg.io^
 ||rtb123.com^
