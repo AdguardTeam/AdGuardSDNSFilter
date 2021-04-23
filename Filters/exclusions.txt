@@ -1,3 +1,9 @@
+! octafx.com incorrect blocking
+||octafx.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/645
+||mkto-*.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/649
+||hostinger.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/639
 ||msgfocus.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/637
@@ -8,6 +14,8 @@
 ||logs.datadoghq.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/623
 ||questionpro.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/650
+||rollbar.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/618
 ||justanswer.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/611
