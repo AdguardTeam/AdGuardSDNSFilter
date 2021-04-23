@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-23T06:10:34.168Z
+! Last modified: 2021-04-23T12:11:56.390Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||a.dirtyasmr.com^
 ||papaneecorche.com^
 ||youngoutmatchthousand.com^
 ||eabids.com^
@@ -612,7 +613,6 @@
 ||p.tanx.com^
 ||ptaughar.com^
 ||yetseefad.com^
-||moneypunchstep.online^
 ||app.titsx.com^
 ||chouftak.net^
 ||edampeci.com^
@@ -727,7 +727,6 @@
 ||asterilivestream.com^
 ||mycloudbook.xyz^
 ||enrilov.info^
-||ikikik.xyz^
 ||uzk4umokyri3.com^
 ||sex1.party^
 ||curarmbin.club^
@@ -1456,7 +1455,6 @@
 ||dunellengez.info^
 ||resentaticexhaus.info^
 ||turngrind.com^
-||chouphoa.top^
 ||chauksoa.net^
 ||septembership.com^
 ||thterras.com^
@@ -23426,7 +23424,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d5i9o0tpq9sa1.cloudfront.net^
 ||d6jkenny8w8yo.cloudfront.net^
 ||d81mfvml8p5ml.cloudfront.net^
-||d8rk54i4mohrb.cloudfront.net^
 ||d9lq0o81skkdj.cloudfront.net^
 ||daq0d0aotgq0f.cloudfront.net^
 ||d3alqb8vzo7fun.cloudfront.net^
@@ -25246,6 +25243,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d3sbxpiag177w8.cloudfront.net^
 ||d3tglifpd8whs6.cloudfront.net^
 ||d3uvwl4wtkgzo1.cloudfront.net^
+||d8rk54i4mohrb.cloudfront.net^
 ||data.alexa.com^
 ||data.circulate.com^
 ||data.imakenews.com^
