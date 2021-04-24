@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-24T00:30:16.931Z
+! Last modified: 2021-04-24T06:10:08.773Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -25140,7 +25140,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bonsai.internetbrands.com^
 ||brain.foresee.com^
 ||bright.bncnt.com^
-||browser.sentry-cdn.com^
 ||bs.yandex.ru^
 ||btn.clickability.com^
 ||btrace.video.qq.com^
@@ -25341,7 +25340,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||geo.thehindu.com^
 ||geobar.ziffdavisinternational.com^
 ||geoip.nekudo.com^
-||go.pardot.com^
 ||go.toutapp.com^
 ||green-griffin-860.appspot.com^
 ||gsp1.baidu.com^
@@ -33040,7 +33038,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||lyxuexin.com^
+||yskanba.com^
+||iupnlpd.cn^
+||cy-wz.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33922,6 +33922,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lymstsc.com^
 ||lytubaobao.com^
 ||lyunsd.cn^
+||lyxuexin.com^
 ||lyztdz.com^
 ||lzmm8.com^
 ||magictreehouse.cn^
@@ -35617,8 +35618,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||ltaome.cn^
-||fskj100.cn^
+||waterincloud.cn^
+||yeyushe.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -36159,6 +36160,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fqzds.com^
 ||friend17.net^
 ||frjxdv.cn^
+||fskj100.cn^
 ||fstaw.com^
 ||fszhxd.com^
 ||fuchuqu.cn^
@@ -36573,6 +36575,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lq1.abcxs.com^
 ||lr96.top^
 ||lshmjz.com^
+||ltaome.cn^
 ||lusrg.cn^
 ||luxoshopde.com^
 ||luyouxi.cn^
