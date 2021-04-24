@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-24T12:11:41.175Z
+! Last modified: 2021-04-24T18:20:55.098Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4816,6 +4816,7 @@ vkcdnservice.appspot.com^
 ||browsers.support^
 ||browsobsolete.com^
 ||brqvld0p.com^
+||brrcaqvz.com^
 ||brtsumthree.com^
 ||brucelead.com^
 ||bruceleadx.com^
@@ -31261,6 +31262,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||150601.fc2rs.com^
 ||ad.eloan.co.jp^
 ||divscripty.net^
 ||zxcvbnmasdfghjklqwertyuiop.work^
@@ -35618,6 +35620,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||wenqixiefu.cn^
+||tuwo-audio.cn^
 ||waterincloud.cn^
 ||yeyushe.cn^
 ||027whht.com^
