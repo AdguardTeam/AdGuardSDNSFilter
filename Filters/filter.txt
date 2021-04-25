@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-25T12:11:37.243Z
+! Last modified: 2021-04-25T18:21:59.582Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||orbsclawand.com^
 ||clothingsphere.com^
 ||piuradelivery.com^
 ||stagepopkek.com^
@@ -2703,7 +2704,6 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
-||cdn3.hentaihand.com^
 ||a.teenspirithentai.com^
 ||d1ac2du043ydir.cloudfront.net^
 ||tontent.pouvideo.cc^
@@ -3211,6 +3211,7 @@ vkcdnservice.appspot.com^
 ||1298bab69bbc4.com^
 ||12cdee5830.com^
 ||12dc71b7cb820f2a.com^
+||12fb602fb307.com^
 ||12place.com^
 ||12xlwin6a.net^
 ||13190546cd1dec9bbdc.com^
@@ -3313,6 +3314,7 @@ vkcdnservice.appspot.com^
 ||2cnjuh34jbpoint.com^
 ||2cnjuh34jbstar.com^
 ||2d7bd9e6eb370143.com^
+||2d98e7587e.com^
 ||2dbd87c7a091b.com^
 ||2dpt.com^
 ||2f5a1f1fab21a56.com^
@@ -3471,6 +3473,7 @@ vkcdnservice.appspot.com^
 ||57473b6b571.com^
 ||57e3ascxh1.com^
 ||57fd2911f09b76.com^
+||580a41eea49e.com^
 ||584e8fce1b418.com^
 ||58b14921719ec.com^
 ||58b291f917728a2.com^
@@ -3484,6 +3487,7 @@ vkcdnservice.appspot.com^
 ||5b5a93686577c13.com^
 ||5c43cbc0f41.com^
 ||5c577fc74618431b.com^
+||5cf240aa2ef.com^
 ||5cwr93yyd4lf.com^
 ||5d02977f6511aa.com^
 ||5dabf928ad9ad4.com^
@@ -3862,6 +3866,7 @@ vkcdnservice.appspot.com^
 ||adaptingtova.biz^
 ||adaranth.com^
 ||adbmi.com^
+||adca051e97e.com^
 ||addictedapartlazy.com^
 ||addressen.club^
 ||addression.club^
@@ -4177,6 +4182,7 @@ vkcdnservice.appspot.com^
 ||anothingahy.club^
 ||anothingerg.club^
 ||anothingsev.top^
+||answeredfluency.com^
 ||antaraimedia.com^
 ||antfindicater.site^
 ||antiadblocksystems.com^
@@ -5385,6 +5391,7 @@ vkcdnservice.appspot.com^
 ||coinsicmp.com^
 ||cold-cold-freezing.com^
 ||coldhardcash.com^
+||coljledqo.com^
 ||collationssunkenentire.com^
 ||collection-day.com^
 ||collectpush.com^
@@ -7675,6 +7682,7 @@ vkcdnservice.appspot.com^
 ||healthoutabol.site^
 ||healthsmd.com^
 ||hearewe.com^
+||hearfromyou.biz^
 ||heartbrokendilapidation.com^
 ||hearthurstxz.club^
 ||heckagny.com^
@@ -8893,6 +8901,7 @@ vkcdnservice.appspot.com^
 ||mammalrussia.com^
 ||mamphxagal.com^
 ||mamydirect.com^
+||manageatea.biz^
 ||managemeasuredcypress.com^
 ||managesdancing.com^
 ||managining.club^
@@ -9475,6 +9484,7 @@ vkcdnservice.appspot.com^
 ||naccoun.top^
 ||nacfuns.com^
 ||nacticedsmall.club^
+||naemailom.fun^
 ||naganoadigei.com^
 ||naggingrugcolossal.com^
 ||naghocmu.com^
@@ -11867,6 +11877,7 @@ vkcdnservice.appspot.com^
 ||stospubede.xyz^
 ||stoutlionslick.com^
 ||stoutoffering.com^
+||stpd.cloud^
 ||strainemergency.com^
 ||straitreedanimated.com^
 ||strangersincentive.com^
@@ -12467,6 +12478,7 @@ vkcdnservice.appspot.com^
 ||ueudahqfig.com^
 ||ufferenchme.club^
 ||uffpsmfefu.com^
+||ufinkln.com^
 ||ufmmtncv.com^
 ||ufoukolt.com^
 ||ufow9xfashbm.com^
@@ -12542,6 +12554,7 @@ vkcdnservice.appspot.com^
 ||undedsunbese.site^
 ||undercoverbatch.com^
 ||underdividedhowever.com^
+||underneathfirsthand.com^
 ||underpantsadmiringcaress.com^
 ||underwards.site^
 ||underwearnavigable.com^
@@ -12779,6 +12792,7 @@ vkcdnservice.appspot.com^
 ||viralmediatech.com^
 ||viralvideos.pw^
 ||virashux.net^
+||virginoxygen.com^
 ||viriepak.com^
 ||visariomedia.com^
 ||visiads.com^
@@ -12930,6 +12944,7 @@ vkcdnservice.appspot.com^
 ||warten-sie-mal.xyz^
 ||warumbistdusoarm.space^
 ||wasp-182b.com
+||wasprenovate.com^
 ||wastedcooperate.com^
 ||wastesshimssat.world^
 ||watchesbrow.com^
@@ -13660,6 +13675,7 @@ vkcdnservice.appspot.com^
 ||zxcvxmtzs.com^
 ||zxdardwpsuf.com^
 ||zxevjtzvqlxy.com^
+||zxgroymagqu.com^
 ||zxryytzesvn.com^
 ||zxxds.net^
 ||zxxtkrkzfyy3.com^
@@ -23999,7 +24015,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analyticschecker.com^
 ||analyticson.com^
 ||analytik.xyz^
-||andyetanotherthing.com^
 ||angorch-cdr7.com^
 ||answerscloud.com^
 ||antiblock.info^
@@ -24802,7 +24817,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a-calc.com^
 ||a-calc.de^
 ||abc.pema.cl^
-||ad-miner.com^
 ||adminer.com^
 ||aleinvest.xyz^
 ||altpool.pro^
@@ -24839,7 +24853,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cloudcoins.co^
 ||cloudflareinsights.com^
 ||cnhv.co^
-||coin-cube.com^
 ||coinhiveproxy.com^
 ||coinimp.com
 ||coinimp.net
@@ -24866,7 +24879,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dontbeevils.de^
 ||easyhash.de^
 ||easyhash.io^
-||encoding.ovh^
 ||etacontent.com^
 ||eth-pocket.eu^
 ||ethereum-cashcard.com^
@@ -24887,14 +24899,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||g1thub.com^
 ||gay-hotvideo.net^
 ||googleanalytcs.com^
-||graftpool.ovh^
 ||greengaming.de^
 ||gus.host^
 ||hashcoin.co^
 ||hashnest.com^
 ||hashvault.pro^
 ||hashzone.io^
-||hide.ovh^
 ||hostcontent.live^
 ||hostingcloud.faith
 ||hostingcloud.party
@@ -24929,9 +24939,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nablabee.com^
 ||nathetsof.com^
 ||ner-de-mi-nis-6.info^
-||never.ovh^
 ||nexioniect.com^
-||nexttime.ovh^
 ||nfwebminer.com^
 ||niematego.tk^
 ||nimiq.watch^
@@ -24942,7 +24950,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||openguid.org^
 ||p2poolmining.com^
 ||play.mix.kinostuff.com^
-||poolmining.eu^
 ||pr0gram.org^
 ||rand.com.ru^
 ||reauthenticator.com^
@@ -24961,7 +24968,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||supportxmr.com^
 ||sushipool.com^
 ||swiftmining.win^
-||tidafors.xyz^
 ||tmmp.io^
 ||truemine.org^
 ||trustiseverything.de^
@@ -25263,7 +25269,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d3sbxpiag177w8.cloudfront.net^
 ||d3tglifpd8whs6.cloudfront.net^
 ||d3uvwl4wtkgzo1.cloudfront.net^
-||d8rk54i4mohrb.cloudfront.net^
 ||data.alexa.com^
 ||data.circulate.com^
 ||data.imakenews.com^
@@ -25654,7 +25659,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracker.data-vp.com^
 ||tracker.financialcontent.com^
 ||tracker.icerocket.com^
-||tracker.iqnomy.com^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
 ||tracker.timesgroup.com^
@@ -26201,7 +26205,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||idt.id-news.net^
 ||im.aol.de^
 ||info.elba.at^
-||insights.blogfoster.com^
 ||live.cxo.name^
 ||liveviewer.ez.no^
 ||log.worldsoft-cms.info^
@@ -33044,6 +33047,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||shcy3.com^
 ||crglpt.com^
 ||toospk.com^
 ||00-gov.cn^
