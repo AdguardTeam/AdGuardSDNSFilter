@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-25T06:10:21.442Z
+! Last modified: 2021-04-25T12:11:37.243Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -722,7 +722,6 @@
 ||apionloadmedia.com^
 ||nextclickadv.com^
 ||wilburshort.pro^
-||ytimm.com^
 ||spreadcreative.club^
 ||oupe71eiun.com^
 ||prpops.com^
@@ -7137,7 +7136,6 @@ vkcdnservice.appspot.com^
 ||frbyvuxzvmqpb.com^
 ||freakspybad.com^
 ||free-domain.net^
-||freeadultcomix.com^
 ||freebiesurveys.com^
 ||freecouponbiz.com^
 ||freedownloadsoft.net^
@@ -11046,6 +11044,7 @@ vkcdnservice.appspot.com^
 ||requivalfun.club^
 ||rereegny.net^
 ||reroplittrewheck.pro^
+||resbargarettybe.info^
 ||reschedulewizards.com^
 ||resencejuy.club^
 ||reservehearingmissing.com^
@@ -14433,6 +14432,7 @@ vkcdnservice.appspot.com^
 ||apxtarget.com^
 ||apycomm.com^
 ||apyoth.com^
+||aqua-adserver.com^
 ||ar1nvz5.com^
 ||aralego.com^
 ||arcadebannerexchange.org^
@@ -14883,6 +14883,7 @@ vkcdnservice.appspot.com^
 ||flymyads.com^
 ||forex-affiliate.com^
 ||forex-affiliate.net^
+||freeadultcomix.com^
 ||freegamespub.com^
 ||freerotator.com^
 ||friendlyduck.com^
@@ -16189,7 +16190,6 @@ vkcdnservice.appspot.com^
 ||seekads.net^
 ||seethisinaction.com^
 ||seiya.work^
-||sekindo.com^
 ||selectablemedia.com^
 ||selectad.com^
 ||selfpua.com^
@@ -16845,6 +16845,7 @@ vkcdnservice.appspot.com^
 ||ads-sg.tiktok.com^
 ||ads.sportradar.com^
 ||adserving.unibet.com^
+||adzmoney.linkyqueen.ga^
 ||affiliate.heureka.cz^
 ||affiliate.juno.co.uk^
 ||affiliate.mediatemple.net^
@@ -17407,6 +17408,7 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||vrizead.com^
 ||iad-*.braze.com^
 ||adpopcorn.com^
 ||pangle.io^
@@ -17938,6 +17940,7 @@ vkcdnservice.appspot.com^
 ||sas816.ujikdd041o.cn^
 ||sdk.native123.com^
 ||sdk.starbolt.io^
+||sekindo.com^
 ||servebom.com^
 ||serving-sys.com^
 ||sessionm.com^
@@ -25035,6 +25038,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-production.hapyak.com^
 ||analytics-rhwg.rhcloud.com^
+||analytics-script.ad-shield.io^
 ||analytics-scripts.cablelabs.com^
 ||analytics-sg.tiktok.com^
 ||analytics.30m.com^
@@ -33040,6 +33044,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||crglpt.com^
 ||toospk.com^
 ||00-gov.cn^
 ||0024aaaa.com^
