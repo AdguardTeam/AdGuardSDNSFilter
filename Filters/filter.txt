@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-24T18:20:55.098Z
+! Last modified: 2021-04-25T00:31:04.592Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33040,9 +33040,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||yskanba.com^
-||iupnlpd.cn^
-||cy-wz.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33448,6 +33445,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cuilongsp.cn^
 ||cxfzw.cn^
 ||cxgh.net^
+||cy-wz.com^
 ||cyacc.com^
 ||cytcm.com^
 ||cz9k8b.top^
@@ -33750,6 +33748,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||it028.net.cn^
 ||itchenjian.com^
 ||itemccmod.com^
+||iupnlpd.cn^
 ||iwansf.com^
 ||iwwacgx.cn^
 ||iyoowi.com^
@@ -34496,6 +34495,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ysgsq.cn^
 ||ysjkbk.com^
 ||ysjwj.com^
+||yskanba.com^
 ||ysyjg.com^
 ||ytop8.com^
 ||yuanmengbi.com^
@@ -35620,10 +35620,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||wenqixiefu.cn^
-||tuwo-audio.cn^
-||waterincloud.cn^
-||yeyushe.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -36999,6 +36995,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tukexiu.com^
 ||tunanchangban.com^
 ||tuoxintrade.cn^
+||tuwo-audio.cn^
 ||twodogegg.cn^
 ||txn5n0.cn^
 ||txtxr.com^
@@ -37057,6 +37054,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wangqing7.top^
 ||wannuochongkong.com^
 ||wantezy.cn^
+||waterincloud.cn^
 ||wbiev.com^
 ||wechatpu.com^
 ||weidehuagong.com^
@@ -37069,6 +37067,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||weiyajz.cn^
 ||weiziqiang.top^
 ||wenbangsh.com.cn^
+||wenqixiefu.cn^
 ||wenxuemi6.com^
 ||wenzhougy.cn^
 ||wervp.com^
@@ -37198,6 +37197,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ybrex.cn^
 ||ybtianxi.com^
 ||ydfz.org^
+||yeyushe.cn^
 ||yfygs.cn^
 ||yg10x.cn^
 ||ygblogtag.cn^
