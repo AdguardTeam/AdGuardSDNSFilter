@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-26T12:12:17.706Z
+! Last modified: 2021-04-26T18:21:50.070Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||lavageethion.com^
+||lebilui.ru^
+||momijoy.ru^
 ||orbsclawand.com^
 ||clothingsphere.com^
 ||piuradelivery.com^
@@ -7833,6 +7836,7 @@ vkcdnservice.appspot.com^
 ||hqpass.com^
 ||hqr9q6f30371.com^
 ||hqtlvmcrpb.com^
+||hqvwniado.com^
 ||hrahdmon.com^
 ||hrgbolmbxmovli.com^
 ||hriaaim06kts.com^
@@ -13228,6 +13232,7 @@ vkcdnservice.appspot.com^
 ||xogvagdtgehxm.com^
 ||xokikdassjjhrn.com^
 ||xorcibleboth.club^
+||xouzmvlt.com^
 ||xpigohyzfdcgp.com^
 ||xpsurtfhsllozy.com^
 ||xptslcoedn.com^
@@ -17257,7 +17262,6 @@ vkcdnservice.appspot.com^
 ||bu1.duba.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/11291
 ||behacdn.ksmobile.net^
-||cmdts.ksmobile.com^
 ||p-behacdn.ksmobile.net^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/8642
 ||crosspromotion.weplayer.cc^
@@ -17265,9 +17269,7 @@ vkcdnservice.appspot.com^
 ! https://forum.adguard.com/index.php?threads/24268/
 ||mobile-campaigns.avast.com^
 ! https://forum.adguard.com/index.php?threads/s-photo-editor-missed-ads-android.21096/
-||advs2sonline.goforandroid.com^
 ||adpush.goforandroid.com^
-||advonline.goforandroid.com^
 ! https://forum.adguard.com/index.php?threads/dodonpachi-unlimited-missed-ads-android.21000/
 ||dzpu6za66svjl.cloudfront.net^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/4757
@@ -17279,7 +17281,6 @@ vkcdnservice.appspot.com^
 ||api.ads.watchabc.go.com^
 ! https://play.google.com/store/apps/details?id=fr.playsoft.teleloisirs
 ||ad.prismamediadigital.com^
-! https://play.google.com/store/apps/details?id=fr.francetv.pluzz&hl=fr
 ! Supership.jp (also mobile ads)
 ||socdm.com^
 !
@@ -17289,8 +17290,6 @@ vkcdnservice.appspot.com^
 !
 ||appodeal.com^
 ||a.76674bdad304297eda3d325f449f6f49.com^
-||a.4ee395e5b8a076c7bd8592851ff8cad.com^
-||a.6d47c1118927cf53ba9654931df80e8d.com^
 !
 ||banner.hpmdnetwork.ru^
 ||hybrid.ai^
@@ -17306,12 +17305,8 @@ vkcdnservice.appspot.com^
 ||common.duapps.com^
 ||pasta.esfile.duapps.com^
 ||api.mobula.sdk.duapps.com^
-||mobula.ssl2.duapps.com^
 ||ad.duapps.com^
 ! Ads on some Chinese smartphones
-||sync.mobojoy.baidu.com^
-||api.mobojoy.baidu.com^
-||js.mobojoy.baidu.com^
 ||ufz.doesxyz.com^
 ||id1.cn^
 ||xdrig.com^
@@ -17357,8 +17352,6 @@ vkcdnservice.appspot.com^
 ||api.adnet.mob.com^
 ||sf3-ttcdn-tos.pstatp.com^
 ||iam.datasavannah.com^
-||a.f590906c3e6c07bb5f80801f2dfc4295.com^
-||a.eed1729eebe45b8cd49e10f2dd80e297.com^
 ||yovoads.com^
 ||restartad.com^
 ||appgiftwall.oss-us-west-1.aliyuncs.com^
@@ -17381,7 +17374,6 @@ vkcdnservice.appspot.com^
 ||adsmobila.com^
 ||tw-api.vpon.com^
 ||haorun.pw^
-||pochengweiyuan.com^
 ||ts166.net^
 ||tccbanner.com^
 ||banner.*.tccapis.com^
@@ -17396,11 +17388,7 @@ vkcdnservice.appspot.com^
 ||gameanalysis.appcpi.net^
 ||ads.bulldogcpi.com^
 ||other.appcpi.net^
-||92kyxiz5xg.execute-api.us-west-2.amazonaws.com^
-||0jkro0unul.execute-api.us-west-2.amazonaws.com^
 ||d19xf4taj229i8.cloudfront.net^
-||nsjpu.com^
-||nbvcb.xyz^
 ||ad999.biz^
 ||cafe-latte.myshoplus.com^
 ||luckyforworlds.com^
@@ -17408,15 +17396,12 @@ vkcdnservice.appspot.com^
 ||cdn-adn-*.rayjump.com^
 ||casino-ad-mediation.me2zengame.com^
 ||postut.cn^
-||eysmaa.pw^
 ||promoted.soundcloud.com^
 ||activity.browser.intl.miui.com^
 ||api.brs.intl.miui.com^
 ||api.newsfeed.intl.miui.com^
 ||huangye.miui.com^
-||eihjefbbbbddeiacedb.ru^
 ||adv.sec.intl.miui.com^
-||zhfosenghtr.com^
 ||adsrvr.io^
 ||t7z.cupid.iqiyi.com^
 ||data2.doodlemobile.com^
@@ -17424,7 +17409,6 @@ vkcdnservice.appspot.com^
 ||newfeatureview.perfectionholic.com^
 ||featured.perfectionholic.com^
 ||crosspromo.voodoo.io^
-||abtest.mistat.intl.xiaomi.com^
 ||abtest.mistat.xiaomi.com^
 ||liftoff.io^
 ||tapdaq-adverts.global.ssl.fastly.net^
@@ -17435,13 +17419,12 @@ vkcdnservice.appspot.com^
 ||look.kfiopkln.com^
 ||adplex.co.kr^
 ||tveta.naver.net^
-||opr.formulas.jp^
 ||deliveryengine.adswizz.com
 ||h5.wannaplay.cn^
 ||adsapi.manhuaren.com^
 ||euadsapi.manhuaren.com^
 ||msg.ettoday.net^
-||d1zkodo2u3p4pe.cloudfront.net^
+||d1zkodo2u3p4pe.cloudfront.net
 ||ad-ettoday.cdn.hinet.net^
 ||adv-ettoday.cdn.hinet.net^
 ||adv.ettoday.net^
@@ -17475,7 +17458,6 @@ vkcdnservice.appspot.com^
 ||chartboosts.com^
 ||mobpowertech.com^
 ||ap.smardroid.com^
-||aclickoooo.host^
 ||api.ampiri.com^
 ||rtb.kds.media^
 ||splicky.com^
@@ -17488,30 +17470,21 @@ vkcdnservice.appspot.com^
 ||sumatoad.com^
 ||upsight-api.com^
 ||gdn.bigfishgames.com^
-||ads.cricbuzz.com^
-||adops.cricbuzz.com^
 ||ad.daum.net^
 ||onedrive.su^
 ||nickhel.com^
 ||redtram.com^
 ||goyetteconnelly.bid^
 ||oconner.biz^
-||gocdn.ru^
-||nasdfg.com^
 ||avazunativeads.com^
 ||mobilebanner.ru^
 ||api.ad-locus.com^
-||m.nbhaosheng168.com^
-||m.jakc0.com^
-||xz15801.com^
 ||023hysj.com^
 ||lxqcgj.com^
 ||betsonsport.ru^
-||m.mrsasharingspace.com^
 ||holder.com.ua^
 ||crosspromotion-us.avosapps.us^
 ||ad.period-calendar.com^
-||dc.altamob.com^
 ||cpactions.com^
 ||native.cli.bz^
 ||adplatform.vrtcal.com^
@@ -17521,50 +17494,22 @@ vkcdnservice.appspot.com^
 ||cls.vrvm.com^
 ||nycp-hlb.dvgtm.akadns.net^
 ||abbott.vo.llnwd.net^
-||advantech.vo.llnwd.net^
 ||atkins.vo.llnwd.net^
-||bandai.hs.llnwd.net^
 ||behance.vo.llnwd.net^
 ||edwlifes.vo.llnwd.net^
-||embanet.vo.llnwd.net^
-||eyewond.hs.llnwd.net^
-||finedesign.vo.llnwd.net^
-||gulfstream.vo.llnwd.net^
-||gymboree.hs.llnwd.net^
-||harvardbp.vo.llnwd.net^
-||hbpub.vo.llnwd.net^
-||icvdm.vo.llnwd.net^
-||inskin.vo.llnwd.net^
 ||kjos.vo.llnwd.net^
-||msbmopod.vo.llnwd.net^
-||msbrandent.vo.llnwd.net^
-||navigon.vo.llnwd.net^
-||nytelecom.vo.llnwd.net^
-||rbb.ic.llnwd.net^
-||responsys.hs.llnwd.net^
-||surveyor.vo.llnwd.net^
 ||synthes.vo.llnwd.net^
 ||teachscape.vo.llnwd.net^
-||textron.vo.llnwd.net^
 ||tmz.vo.llnwd.net^
-||toyota.vo.llnwd.net^
-||usarmy.vo.llnwd.net^
 ||videoplus.vo.llnwd.net^
 ||wdig.vo.llnwd.net^
-||xmpie.vo.llnwd.net^
 ||appnext.hs.llnwd.net^
-||sdk.adincube.com^
-||ads.avocarrot.com^
 ||adsdk.vrvm.com^
 ||moatads.com.edgekey.net^
-||nexage.akadns.net^
 ||a.applvn.com^
-||listat.biz^
 ||buzzad.io^
 ||adslot.uc.cn^
-||mobsrv.in^
 ||jssdk.rayjump.com^
-||dc.altmob.com^
 ||adtheorent.com^
 ||qgss8.com^
 ||api.cloudmobi.net
@@ -17574,16 +17519,11 @@ vkcdnservice.appspot.com^
 ||i2ad.jp^
 ||mxvp-ad-config-prod-1.zenmxapps.com^
 ||mxvp-feature-toggle-prod-1.zenmxapps.com^
-||js4386.fujianryt.com^
-||m.12306media.com^
 ||zzhengre.com^
 ||wmhlch.com^
 ||fjrkn.com^
 ||tongqing2015.com^
-||m.jsqinvest.com^
-||sube.puwangkj.com^
 ||pw.lpsxssm.com^
-||clickkydsp.com^
 ||bidsopt.com^
 ||tpbid.com^
 ||exe.bid^
@@ -17593,7 +17533,6 @@ vkcdnservice.appspot.com^
 ||mopub-win-us-east.bksn.se^
 ||nativead.s3.amazonaws.com^
 ||adserver.*.yahoodns.net^
-||eu-ma.sam4m.com^
 ||eu-ad.sam4m.com^
 ||c2i.startappnetwork.com^
 ||c2s.startappnetwork.com^
@@ -17617,7 +17556,6 @@ vkcdnservice.appspot.com^
 ||ad.apps.fm^
 ||ad.apsalar.com^
 ||ad.jorte.com^
-||ad.kixer.com^
 ||ad.leadboltapps.net^
 ||ad.madvertise.de^
 ||ad.ohmyad.co^
@@ -17980,6 +17918,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||analytik.xyz^
 ||df.pmweb.com.br^
 ||usesfathom.com^
 ||fathomdns.com^
@@ -21951,6 +21890,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||pac.thetimes.co.uk^
+||a-stat.appmifile.com^
 ||log.g-enews.com^
 ||pla-tk.flipkart.net^
 ||stat.myshows.me^
@@ -23912,7 +23853,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analitycs.net^
 ||analyticschecker.com^
 ||analyticson.com^
-||analytik.xyz^
 ||angorch-cdr7.com^
 ||answerscloud.com^
 ||antiblock.info^
@@ -28472,6 +28412,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||goallurl.ru^
 ||gobf.ru^
 ||gobzonet.ru^
+||gocdn.ru^
 ||gogetlinks.net^
 ||gogo4girlz.com^
 ||gogousenet.com^
@@ -28904,6 +28845,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||linodo.ru^
 ||linono.ru^
 ||lioil.club^
+||listat.biz^
 ||litiumo.com^
 ||littel.biz
 ||littel.net^
@@ -29177,6 +29119,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||namogemi.ru^
 ||nanofantiki.edigest.ru^
 ||narod-vrach.ru^
+||nasdfg.com^
 ||nasimke.ru^
 ||native.ext.media^
 ||nbolame.ru^
@@ -31534,6 +31477,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||m.21haodianmt.com^
 ||lyfwpt.com.cn^
 ||cdntlz.cn^
+||rr.pochengweiyuan.com^
 ||m.zwsteel.cn^
 ||photo.bscy05.cn^
 ||ssl.zy3dku.cn^
