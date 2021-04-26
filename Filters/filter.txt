@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-25T18:21:59.582Z
+! Last modified: 2021-04-26T00:31:16.127Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10467,6 +10467,7 @@ vkcdnservice.appspot.com^
 ||postbacks.net^
 ||postupset.com^
 ||potatoescollections.com^
+||potawe.com^
 ||potentingaknt.club^
 ||potentingxyr.club^
 ||potentionsdarket.site^
@@ -33047,9 +33048,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||shcy3.com^
-||crglpt.com^
-||toospk.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33443,6 +33441,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cqyhd.com^
 ||crdrjs.info^
 ||cre99.com^
+||crglpt.com^
 ||crywl.com^
 ||csgtfruit.com^
 ||csqiulong.com^
@@ -34142,6 +34141,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shannon-porject.com^
 ||sharedaddomain.com^
 ||sharrysweb.com^
+||shcy3.com^
 ||shengyaxd.com^
 ||shentupk85.com^
 ||shibagongfang.com^
@@ -34256,6 +34256,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||togo666.com^
 ||tongdejiayuan.com^
 ||toolset.vip^
+||toospk.com^
 ||toourbb.com^
 ||top267.com^
 ||towers-shield.com^
