@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-27T12:12:30.234Z
+! Last modified: 2021-04-27T18:22:09.844Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,11 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||clerrrep.com^
+||wizardmarndl.com^
+||fhsmtrnsfnt.com^
+||softenedimmortalityprocedure.com^
+||mfk-cpm.com^
 ||jycdnjnz.com^
 ||xqzlgbbe.com^
 ||bftrlhesrlfjp.com^
@@ -34,7 +39,6 @@
 ||eabids.com^
 ||kdkgwhntslalwj.com^
 ||outblowtewhit.com^
-||ailrouno.net^
 ||creamssicsite.com^
 ||kittenmilletfoggy.com^
 ||statementssupervisorthorough.com^
@@ -2982,6 +2986,8 @@ www.llllllllllll.net^
 .1.1.1.l80.js^
 .3.n.2.1.l50.js
 .3.n.2.2.l30.js
+!
+||monerominer.rocks^
 ||cloud-miner.de^
 ||webminepool.com^
 ||lasimakiz.xyz^
@@ -4039,6 +4045,7 @@ vkcdnservice.appspot.com^
 ||ailingglorify.com^
 ||ailingtonwh.club^
 ||ailpielei.com^
+||ailrouno.net^
 ||aimamparc.club^
 ||aimseerg.com^
 ||ainedprospe.club^
@@ -5261,7 +5268,6 @@ vkcdnservice.appspot.com^
 ||clearonclick.com^
 ||clearsettlementelegance.com^
 ||cleriendsev.club^
-||clerrrep.com^
 ||clevernt.com^
 ||clevv.com^
 ||clfvfumqqok.com^
@@ -8044,6 +8050,7 @@ vkcdnservice.appspot.com^
 ||instrumentatlasjacket.com^
 ||inswebt.com^
 ||intelligenceadx.com^
+||intentanalysis.com^
 ||interceptstephen.com^
 ||interdfp.com^
 ||interfacewarrefrain.com^
@@ -12918,6 +12925,7 @@ vkcdnservice.appspot.com^
 ||webatam.com^
 ||webcontentassessor.com^
 ||webeatyouradblocker.com^
+||webgains.com^
 ||webmasterspub.com^
 ||webodu.com^
 ||webpinp.com^
@@ -20721,7 +20729,6 @@ vkcdnservice.appspot.com^
 ||webest.info^
 ||webflowmetrics.com^
 ||webforensics.co.uk^
-||webgains.com^
 ||webglstats.com^
 ||webgozar.com^
 ||webgozar.ir^
@@ -24770,7 +24777,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mmpool.org^
 ||mollnia.com^
 ||monerise.com^
-||monerominer.rocks^
 ||moneroocean.stream^
 ||munero.me^
 ||mutinyhq.com^
@@ -26526,6 +26532,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||22pornz.site^
 ||xuthid.com^
 ||sharilon.site^
 ||istori.site^
@@ -35502,7 +35509,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||dpbyc.com^
 ||hnxinkejg.com^
+||flmcju.cn^
+||suhusushi.com^
 ||mbxt.net^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
