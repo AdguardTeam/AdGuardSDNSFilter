@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-27T06:10:38.439Z
+! Last modified: 2021-04-27T12:12:30.234Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||jycdnjnz.com^
+||xqzlgbbe.com^
+||bftrlhesrlfjp.com^
 ||lavageethion.com^
 ||lebilui.ru^
 ||momijoy.ru^
@@ -25580,7 +25583,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||webstats.thaindian.com^
 ||webtracker.apicasystem.com^
 ||widget.quantcast.com^
-||widgets.pinterest.com^
 ||win.staticstuff.net^
 ||wren.condenastdigital.com^
 ||wstat.wibiya.com^
@@ -32913,8 +32915,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||jikelian.xyz^
-||bsjgc.com^
+||wsmky.com^
+||quanxiaozi.com^
+||cao444cao.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33232,6 +33235,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bosiwangzi.cn^
 ||bozhixiang.top^
 ||braincf.com^
+||bsjgc.com^
 ||bskeye.com^
 ||btmp4.net^
 ||bts05.site^
@@ -33654,6 +33658,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jiasdart.cn^
 ||jiekc.com^
 ||jijunlongchengxinxi.cn^
+||jikelian.xyz^
 ||jimeilm.com^
 ||jindu179.com^
 ||jinglongtang.cn^
@@ -35497,10 +35502,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||qwddcwmwqiqwd18.cn^
-||codelabbeijing.cn^
-||ylykd.cn^
-||k5p8f2.cn^
+||hnxinkejg.com^
+||mbxt.net^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -35871,6 +35874,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cnzhqs.com^
 ||coccccc.cc^
 ||codejumps.com^
+||codelabbeijing.cn^
 ||coenr.com^
 ||cojia.net^
 ||comberry.cn^
@@ -36365,6 +36369,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jzn360.cn^
 ||jzrzpump.com^
 ||k22x6.cn^
+||k5p8f2.cn^
 ||kaihutai.cn^
 ||kaiyiluye.com^
 ||kakam.info^
@@ -36677,6 +36682,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||quanjiapp.cn^
 ||quipin.cn^
 ||quxiandu.com^
+||qwddcwmwqiqwd18.cn^
 ||qxyu.top^
 ||qyhwqie.cn^
 ||qysyyg.com^
@@ -37109,6 +37115,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yjxqy.com^
 ||ykanx.com^
 ||ykpbgqc.top^
+||ylykd.cn^
 ||ymxlm.cc^
 ||ynbzxh.com^
 ||ynhuya.cn^
