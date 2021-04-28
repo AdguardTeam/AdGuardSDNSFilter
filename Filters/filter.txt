@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-27T18:22:09.844Z
+! Last modified: 2021-04-28T00:29:13.240Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -17933,6 +17933,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||backend.turtlemobile.com.tw^
+||batmobile.com.tw^
 ||analytik.xyz^
 ||df.pmweb.com.br^
 ||usesfathom.com^
@@ -32922,9 +32924,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||wsmky.com^
-||quanxiaozi.com^
-||cao444cao.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33257,6 +33256,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bydonline.com^
 ||bzbsecs.cn^
 ||cangnews.com^
+||cao444cao.com^
 ||caomindianying.com^
 ||caredaily.me^
 ||carnol.cn^
@@ -33968,6 +33968,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||quan7.cc^
 ||quandangdang.net^
 ||quansj.cn^
+||quanxiaozi.com^
 ||qubo94.com^
 ||qucaigg.com^
 ||qudaoweiwang.com^
@@ -34231,6 +34232,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ws341.com^
 ||ws7j.com^
 ||wsgblw.com^
+||wsmky.com^
 ||wstztt.com^
 ||wu65.com^
 ||wudejia.com^
@@ -35509,11 +35511,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||dpbyc.com^
-||hnxinkejg.com^
-||flmcju.cn^
-||suhusushi.com^
-||mbxt.net^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -35964,6 +35961,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dofkfhv.cn^
 ||doulaihai.top^
 ||downcdn.top^
+||dpbyc.com^
 ||dreamrecord.cn^
 ||dsdsds8848.xyz^
 ||dsjre.com^
@@ -36046,6 +36044,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||flbmfc.com^
 ||flctbg.com^
 ||fll007.com^
+||flmcju.cn^
 ||fnbocll.cn^
 ||fnwll.cn^
 ||forwardhard.cn^
@@ -36215,6 +36214,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hntiantai.cn^
 ||hnwjlhg.cn^
 ||hnxahz.com^
+||hnxinkejg.com^
 ||hnyoufan.com^
 ||hnzyzhy.cn^
 ||hogyp.com^
@@ -36493,6 +36493,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||maoyumao.net^
 ||maro30.com^
 ||mavuz.com^
+||mbxt.net^
 ||mcteu.cn^
 ||mdous.com^
 ||medprofile.cn^
@@ -36803,6 +36804,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stm65i8.com^
 ||subshall.cn^
 ||sugarpuff.net^
+||suhusushi.com^
 ||suitmatters.cn^
 ||suolaka.23txt.com^
 ||suoooi.cn^
