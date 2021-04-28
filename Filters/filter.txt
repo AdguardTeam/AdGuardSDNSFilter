@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-28T12:12:22.825Z
+! Last modified: 2021-04-28T18:22:09.345Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,15 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||fdrptpyxchzjk.com^
+||membershorny.com^
+||news-easy.org^
+||premiumbros.com^
+||f8205a529477e1.com^
+||mjlpqbklxgt.com^
+||filterexchangecage.com^
+||reluctanceleatheroptional.com^
+||lzdtetwgfyt.com^
 ||copyrightmournfulsalon.com^
 ||digitalpimpnetwork.com^
 ||clerrrep.com^
@@ -31,6 +40,7 @@
 ||lavageethion.com^
 ||lebilui.ru^
 ||momijoy.ru^
+||perigshfnon.com^
 ||orbsclawand.com^
 ||clothingsphere.com^
 ||piuradelivery.com^
@@ -175,7 +185,6 @@
 ||allegianceenableselfish.com^
 ||disparagethence.com^
 ||streakattempt.com^
-||stuffedprofessional.com^
 ||confidethirstyfrightful.com^
 ||aspirinsuicide.com^
 ||fangsjames.com^
@@ -199,7 +208,6 @@
 ||taigrooh.net^
 ||inspectorstrongerpill.com^
 ||boasstylijoked.com^
-||emotersjervina.com^
 ||kbyfbw6aaada.com^
 ||zxclan.com^
 ||vadspremium.com^
@@ -4946,6 +4954,7 @@ vkcdnservice.appspot.com^
 ||calfsbreedstax.com^
 ||callburdenblizzard.com^
 ||calorieintimidating.com^
+||calvali.com^
 ||camads.net^
 ||camakaroda.com^
 ||cambrianter.club^
@@ -6475,6 +6484,7 @@ vkcdnservice.appspot.com^
 ||emkarto.fun^
 ||emlifok.info^
 ||emolapnay.com^
+||emotersjervina.com^
 ||emotificc.top^
 ||emotionalballotneedlework.com^
 ||emotionpiousconformity.com^
@@ -7516,6 +7526,7 @@ vkcdnservice.appspot.com^
 ||grupticaje.pro^
 ||grursusy.com^
 ||grutopsathu.pro^
+||grygrothapi.pro^
 ||gscarcinoh.club^
 ||gseyriwpozfxf.com^
 ||gsfillegesga.club^
@@ -7988,6 +7999,7 @@ vkcdnservice.appspot.com^
 ||incapablepublicityvolatile.com^
 ||incarcererez.xyz^
 ||inclinationwitchcraftafresh.com^
+||includepurple.com^
 ||incommandary.club^
 ||incompatiblemisterfarmer.com^
 ||incompetentsummitseparation.com^
@@ -10480,6 +10492,7 @@ vkcdnservice.appspot.com^
 ||prfctmney.com^
 ||pricestern.top^
 ||prieseerunbe.info^
+||prime-vpnet.com^
 ||primroseconstellationrapidly.com^
 ||princided.club^
 ||prioritybeforehand.com^
@@ -11831,6 +11844,7 @@ vkcdnservice.appspot.com^
 ||stroublederaa.club^
 ||stroublederel.club^
 ||stsunfulnoth.top^
+||stuffedprofessional.com^
 ||stumbledabetsuburb.com^
 ||sturdyinvaluable.com^
 ||sturgeonlibel.com^
@@ -11841,6 +11855,7 @@ vkcdnservice.appspot.com^
 ||submarineundergonedebark.com^
 ||subscriberpursuehum.com^
 ||substandferex.site^
+||suburbdiscernbreeder.com^
 ||suburbglaze.com^
 ||subwayjelly.com^
 ||successageq.site^
@@ -12489,6 +12504,7 @@ vkcdnservice.appspot.com^
 ||unknowlejir.club^
 ||unlikebenignityeyeshadow.com^
 ||unlimitate.club^
+||unlimited-media.co^
 ||unlomblam.pro^
 ||unmortalloose.com^
 ||unoblotto.net^
@@ -16817,6 +16833,7 @@ vkcdnservice.appspot.com^
 ||d25dfknw9ghxs6.cloudfront.net^
 ||d25xkbr68qqtcn.cloudfront.net^
 ||d26c6kzavi5zwd.cloudfront.net^
+||d28s7kbgrs6h2f.cloudfront.net^
 ||d29dbajta0the9.cloudfront.net^
 ||d29i6o40xcgdai.cloudfront.net^
 ||d2c4ylitp1qu24.cloudfront.net^
@@ -31120,6 +31137,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||recommend-pc-bto.sakura.ne.jp^
 ||150601.fc2rs.com^
 ||ad.eloan.co.jp^
 ||divscripty.net^
@@ -31832,6 +31850,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||evolutionadv.it^
 ||firebanner.com^
 ||gbucket.ch^
+||guarda4k.online^
 ||hbagency.it^
 ||hubaffiliations.net^
 ||inaffiliago.it^
@@ -31865,6 +31884,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pronostici.app^
 ||prontocampaign.com^
 ||publy.net^
+||raddoppia-bitcoin.pro^
 ||radxcomm.com^
 ||rcsadv.it^
 ||reachadv.it^
@@ -32085,9 +32105,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Apr 2021 15:44 UTC+7
-! Version: 2104221544
-! Blocked: 851 rules
+! Last modified: 28 Apr 2021 21:23 UTC+7
+! Version: 2104282123
+! Blocked: 856 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32228,6 +32248,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t.sieu-viet.com^
 ||takataka.coccoc.com^
 ||testcentre.vn^
+||tpmedia.online^
 ||track.accesstrade.vn^
 ||tracking.api.media.zapps.vn^
 ||tracking.banner.g6.zing.vn^
@@ -32592,6 +32613,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mysapo.net^
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
+||production-tracking.riviu.co^
 ||report.vnay.vn^
 ||rsyslog.24h.com.vn^
 ||s.baomoi.xdn.vn^
@@ -32630,6 +32652,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.icheck.com.vn^
 ||track.kyna.vn^
 ||track.lapa.pub^
+||track.pnj.com.vn^
 ||track.pregmomvietnam.com^
 ||track.sendo.vn^
 ||track.vio.edu.vn^
@@ -32876,9 +32899,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zo.club^
 ||zo.game^
 ||zowinvn.vip^
+||atspace.tv^
 ||bloodleian.club^
 ||bluvenie.com^
 ||byonlym.com^
+||campxanh.info^
 ||celerantatters.com^
 ||cettiarl.com^
 ||drakeesh.com^
@@ -32899,6 +32924,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||40fenzhong.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
