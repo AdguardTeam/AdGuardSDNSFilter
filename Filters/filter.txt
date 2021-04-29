@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-28T18:22:09.345Z
+! Last modified: 2021-04-29T00:28:49.338Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32924,7 +32924,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||40fenzhong.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33028,6 +33027,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||3qsys.com^
 ||3ygww.com^
 ||4006825178.com^
+||40fenzhong.com^
 ||4480dy.net^
 ||47api.cn^
 ||4kyu.cn^
@@ -34388,7 +34388,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ysgsq.cn^
 ||ysjkbk.com^
 ||ysjwj.com^
-||yskanba.com^
 ||ysyjg.com^
 ||ytop8.com^
 ||yuanmengbi.com^
@@ -35512,10 +35511,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||8bnwuz.cn^
-||huonvd.cn^
-||4htixb.cn^
-||cqdjhj.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -35578,6 +35573,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||4ekx.cn^
 ||4excel.cn^
 ||4ggame8.com^
+||4htixb.cn^
 ||4kfv18.cn^
 ||4nzrqw.cn^
 ||4z5o27.cn^
@@ -35626,6 +35622,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||7m307.cn^
 ||85wa.cn^
 ||88eg.cn^
+||8bnwuz.cn^
 ||8byu.cn^
 ||8hpay.cn^
 ||8mlb.cn^
@@ -35899,6 +35896,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||coyvzui.cn^
 ||cpcc.xyz^
 ||cqbaitong.cn^
+||cqdjhj.cn^
 ||cqerbihou.com^
 ||cqgya.com^
 ||cqshaseng.com^
@@ -36244,6 +36242,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||huitiankuaiji.com^
 ||huixingcheng.cn^
 ||huodiyun.cn^
+||huonvd.cn^
 ||huosuniao.com^
 ||hvie6u.cn^
 ||hxiak.com^
