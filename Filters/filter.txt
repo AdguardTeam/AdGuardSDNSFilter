@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-30T12:08:07.222Z
+! Last modified: 2021-04-30T13:41:26.068Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -868,7 +868,7 @@
 ||fixsirrod.site^
 ||kudzuphloemgunk.tech^
 ||madplypie.club^
-||adjarabet.com^
+||bms*.adjarabet.com^
 ||tqddgnqsrya.com^
 ||thefastpush.com^
 ||sauwoaptain.com^
@@ -10522,6 +10522,7 @@ vkcdnservice.appspot.com^
 ||profitablecpmnetwork.com^
 ||profitabledisplaycontent.com^
 ||profitabletrustednetwork.com^
+||programminghonourable.com^
 ||prograph.club^
 ||prographiciko.site^
 ||projectagoralibs.com^
@@ -34821,6 +34822,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||js.98158.com^
 ||image66.top2099.com^
 ||003store.com^
 ||1.01fy.cn^
@@ -37445,8 +37447,6 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||official.paymaya.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/381
 @@||gs.statcounter.com^|
-! Fixing NordVPN mobile app launching
-@@||launches.appsflyer.com^|
 ! Blocked by exacttarget.com alias
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/333
 @@||click.virt.s*.exacttarget.com^|
