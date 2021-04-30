@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-04-29T18:16:51.858Z
+! Last modified: 2021-04-30T00:17:49.983Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32921,7 +32921,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||dameyuan.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33345,6 +33344,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dahanedu.com^
 ||daikuanfanli.com^
 ||dalianhengtai.com^
+||dameyuan.com^
 ||dami66.cn^
 ||damumu.xyz^
 ||dashaowu.com^
@@ -35509,9 +35509,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||chaluoyi.cn^
-||qwddcwmwqiqwd19.cn^
-||huangyeqing.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -35836,6 +35833,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cf89.gold^
 ||cfdanet.com^
 ||cfhijdsb.cn^
+||chaluoyi.cn^
 ||chang555.cn^
 ||changhehengqi.com^
 ||chayibu.com^
@@ -36232,6 +36230,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hsbkr.com^
 ||htfmbt.com^
 ||htjsk.com^
+||huangyeqing.cn^
 ||huayange.com^
 ||huayangli.cn^
 ||huayi65.com^
@@ -36699,6 +36698,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||quipin.cn^
 ||quxiandu.com^
 ||qwddcwmwqiqwd18.cn^
+||qwddcwmwqiqwd19.cn^
 ||qxyu.top^
 ||qyhwqie.cn^
 ||qysyyg.com^
