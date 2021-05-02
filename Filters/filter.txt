@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-02T06:06:21.966Z
+! Last modified: 2021-05-02T12:07:47.688Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24997,6 +24997,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beacon.statful.com^
 ||beacon.thred.woven.com^
 ||beacon.viewlift.com^
+||beam.mjhlifesciences.com^
 ||bento.agoda.com^
 ||bitdash-reporting.appspot.com^
 ||bmrg.reflected.net^
@@ -32948,6 +32949,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||cz09.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
