@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-03T00:20:38.992Z
+! Last modified: 2021-05-03T06:07:20.501Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16129,6 +16129,7 @@ vkcdnservice.appspot.com^
 ||seekads.net^
 ||seethisinaction.com^
 ||seiya.work^
+||sekindo.com^
 ||selectablemedia.com^
 ||selectad.com^
 ||selfpua.com^
@@ -17799,7 +17800,6 @@ vkcdnservice.appspot.com^
 ||sas816.ujikdd041o.cn^
 ||sdk.native123.com^
 ||sdk.starbolt.io^
-||sekindo.com^
 ||servebom.com^
 ||serving-sys.com^
 ||sessionm.com^
@@ -17928,7 +17928,6 @@ vkcdnservice.appspot.com^
 !
 ||analytics.omniscientai.com^
 ||omnitag.omniscientai.com^
-||backend.turtlemobile.com.tw^
 ||batmobile.com.tw^
 ||analytik.xyz^
 ||df.pmweb.com.br^
@@ -25816,6 +25815,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tenmax.io^
 ||tomonline-inc.com^
 ||topsem.com^
+||turtlemobile.com.tw^
 ||twcouponcenter.com^
 ||vamaker.com^
 ||webdissector.com^
