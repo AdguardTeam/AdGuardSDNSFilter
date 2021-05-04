@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-04T06:03:28.002Z
+! Last modified: 2021-05-04T12:03:58.447Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||nkyouvery.fun^
+||tecuil.com^
+||appendixwarmingauthors.com^
 ||tefumiji.xyz^
 ||uhdokoq5ocmk.com^
 ||farcdnf.com^
@@ -188,7 +191,6 @@
 ||d1cykymlllue3h.cloudfront.net^
 ||st-n.pc5ads.com^
 ||b0f1d2.com^
-||arguerepetition.com^
 ||zaphakesleigh.com^
 ||lotsnippier.cam^
 ||getadfinity.com^
@@ -348,7 +350,6 @@
 ||goosecontradiction.com^
 ||hadsans.com^
 ||hazardguiltconsulting.com^
-||itineraryupper.com^
 ||jennyunfit.com^
 ||juvenilebind.com^
 ||magicianboundary.com^
@@ -864,7 +865,6 @@
 ||aspaskaim.club^
 ||lyehemarm.club^
 ||t0p0ff3rs.com^
-||adxpub.com^
 ||rubird.ru^
 ||viebitgreasy.email^
 ||armashair.site^
@@ -2809,7 +2809,6 @@ www.llllllllllll.net^
 ||d1uanozc5el74n.cloudfront.net^
 ||djz9es32qen64.cloudfront.net^
 ||drrcckbju3nd0.cloudfront.net^
-||dkm6b5q0h53z4.cloudfront.net^
 ||ad-arata.s3.amazonaws.com^
 ||ads.linkedin.com^
 ||banner.vatanclick.ir^
@@ -4264,6 +4263,7 @@ vkcdnservice.appspot.com^
 ||arefusedfollo.club^
 ||arentpremi.space^
 ||argetreceden.club^
+||arguerepetition.com^
 ||argumentmanufacture.com^
 ||aribcosw.com^
 ||arisoning.club^
@@ -8086,6 +8086,7 @@ vkcdnservice.appspot.com^
 ||itchingadore.com^
 ||itdise.info^
 ||itinerarymonarchy.com^
+||itineraryupper.com^
 ||itllnww6x277.com^
 ||itnuzleafan.com^
 ||ittorchicer.com^
@@ -14101,6 +14102,7 @@ vkcdnservice.appspot.com^
 ||adxpremium.services^
 ||adxprts.com^
 ||adxprtz.com^
+||adxpub.com^
 ||adxscope.com^
 ||adxxx.me^
 ||adxxx.org^
@@ -17064,6 +17066,7 @@ vkcdnservice.appspot.com^
 ||dita6jhhqwoiz.cloudfront.net^
 ||djm080u34wfc5.cloudfront.net^
 ||djv99sxoqpv11.cloudfront.net^
+||dkm6b5q0h53z4.cloudfront.net^
 ||dkus30wj6f84p.cloudfront.net^
 ||dkyp75kj7ldlr.cloudfront.net^
 ||dlne6myudrxi1.cloudfront.net^
@@ -21781,6 +21784,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||dsb.yahoo.co.jp^
 ||pac.thetimes.co.uk^
 ||a-stat.appmifile.com^
 ||log.g-enews.com^
@@ -34741,6 +34745,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||er.5ykj.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -35449,6 +35454,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||zzchuy.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
