@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-04T12:03:58.447Z
+! Last modified: 2021-05-04T18:07:06.197Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,7 +19,6 @@
 !! https://a.bestcontentitem.top/warp/*?r=
 !
 ||nkyouvery.fun^
-||tecuil.com^
 ||appendixwarmingauthors.com^
 ||tefumiji.xyz^
 ||uhdokoq5ocmk.com^
@@ -11928,6 +11927,7 @@ vkcdnservice.appspot.com^
 ||tebyj99zkdyb.com^
 ||tec-tec-boom.com^
 ||technicallylunaticgarbage.com^
+||tecuil.com^
 ||tedathedo.club^
 ||teddeparati.top^
 ||tedruptcyfal.info^
@@ -13835,6 +13835,7 @@ vkcdnservice.appspot.com^
 ||adoptim.com^
 ||adorika.com^
 ||adorika.net^
+||adorion.net^
 ||adosia.com^
 ||adotic.com^
 ||adotmob.com^
@@ -13951,6 +13952,7 @@ vkcdnservice.appspot.com^
 ||adslivecorp.com^
 ||adsloom.com^
 ||adslot.com^
+||adsluna.com^
 ||adslvr.com^
 ||adsmarket.com^
 ||adsmoon.com^
@@ -15261,6 +15263,7 @@ vkcdnservice.appspot.com^
 ||marketleverage.com^
 ||marsads.com^
 ||mcontigo.com^
+||mdgzg.com^
 ||mdialog.com^
 ||meadigital.com^
 ||media.net^
@@ -16632,6 +16635,7 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList ad servers third-party
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
+||1080872514.rsc.cdn77.org^
 ||a.livesportmedia.eu^
 ||a.ucoz.net^
 ||ad.about.co.kr^
@@ -17208,6 +17212,9 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||cads.scalemonk.com^
+||adspot.tfgapps.com^
+||analytics.scalemonk.com^
 ||vrizead.com^
 ||iad-*.braze.com^
 ||adpopcorn.com^
