@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-03T12:07:54.068Z
+! Last modified: 2021-05-04T00:14:09.731Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3807,6 +3807,7 @@ vkcdnservice.appspot.com^
 ||abbp1.pw^
 ||abdicatenoise.com^
 ||abeaddc65282d465.com^
+||abedwest.com^
 ||abeforeign.club^
 ||abergently.club^
 ||aberrings.club^
@@ -6046,6 +6047,7 @@ vkcdnservice.appspot.com^
 ||dissonbegant.info^
 ||disticked.club^
 ||distilled.ie^
+||distinctcoherentmean.com^
 ||distinctionlatent.com^
 ||distinesseqe.site^
 ||distinethout.info^
@@ -11130,6 +11132,7 @@ vkcdnservice.appspot.com^
 ||rkomf.com^
 ||rkpecade.com^
 ||rkvduvtdz.com^
+||rkyijdrys.com^
 ||rlcciwjyl.com^
 ||rlomivunesqal.com^
 ||rlyquantialarties.club^
@@ -11167,6 +11170,7 @@ vkcdnservice.appspot.com^
 ||roseolsen.pro^
 ||rosqb6vb1cqp.com^
 ||rotdubboy.com^
+||rothoglyro.pro^
 ||rottilderum.cam^
 ||roughthos.top^
 ||roujaufu.net^
@@ -11897,6 +11901,7 @@ vkcdnservice.appspot.com^
 ||superintendsuckshaggy.com^
 ||superiorclueless.com^
 ||superjuryger.site^
+||supermanmoonfracture.com^
 ||superstriker.net^
 ||supertrackingz.com^
 ||supperopeningturnstile.com^
@@ -12846,6 +12851,7 @@ vkcdnservice.appspot.com^
 ||vxrpmslex.com^
 ||vxzgwlbcpdygh.com^
 ||vyhezucha.pro^
+||vystakugry.pro^
 ||vzcljugmtuno.com^
 ||vznntmjdb.com^
 ||vztvgqbbvbjv.com^
@@ -12981,6 +12987,7 @@ vkcdnservice.appspot.com^
 ||whaidruk.com^
 ||whaiweel.com^
 ||whamukoji.pro^
+||whatisuptodaynow.com^
 ||whaudsur.net^
 ||whaustou.net^
 ||whautsel.net^
@@ -13296,6 +13303,7 @@ vkcdnservice.appspot.com^
 ||xxxrevpushclcdu.com^
 ||xyctmmogcv.com^
 ||xygediwe.xyz^
+||xyloshewy.pro^
 ||xywdvhd.com^
 ||xyz0k4gfs.xyz^
 ||xzidjitondzt.com^
@@ -20870,6 +20878,7 @@ vkcdnservice.appspot.com^
 ! Admiral domains
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
+||caringcast.com^
 ||selfishsnake.com^
 ||soretrain.com^
 ||dockdigestion.com^
@@ -32140,9 +32149,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 Apr 2021 21:23 UTC+7
-! Version: 2104282123
-! Blocked: 856 rules
+! Last modified: 03 May 2021 21:42 UTC+7
+! Version: 2105032142
+! Blocked: 859 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32942,6 +32951,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||celerantatters.com^
 ||cettiarl.com^
 ||drakeesh.com^
+||facebookz.co^
 ||hashearog.com^
 ||irduwhojas.ga^
 ||kaurroot.com^
@@ -32950,7 +32960,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sacchaeleduk.com^
 ||smilitygorb.club^
 ||tammenaa.com^
+||tricker.vn^
 ||ucesreferre.club^
+||vongquaymienphi.net^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
@@ -35557,7 +35569,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||2gmbbl.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -35604,6 +35615,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||258580w.cn^
 ||282l1.cn^
 ||2bssjsq.com^
+||2gmbbl.cn^
 ||2gvuukm1lm.com^
 ||2gz9nc.cn^
 ||2ktd0.cn^
@@ -36813,6 +36825,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||seerpiu002.com^
 ||sfanf.com^
 ||sgyebd.com^
+||shanghebaizhou.cn^
 ||shangyingwm.com^
 ||shanprint.com^
 ||shantelope.com^
