@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-05T06:03:23.389Z
+! Last modified: 2021-05-05T12:03:37.069Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12707,6 +12707,7 @@ vkcdnservice.appspot.com^
 ||vpagzcjp.com^
 ||vpfcvagfrmy.com^
 ||vpico.com^
+||vpnlist.to^
 ||vptggenzv.com^
 ||vpwlynobnnqg.com^
 ||vqr3jeu1qi41.com^
@@ -15146,6 +15147,7 @@ vkcdnservice.appspot.com^
 ||kr3vinsx.com^
 ||kumpulblogger.com^
 ||kwnq4hg2n9.com^
+||l3g3media.com^
 ||lacerta.space^
 ||ladbrokesaffiliates.com.au^
 ||lailivob.net^
@@ -18009,7 +18011,6 @@ vkcdnservice.appspot.com^
 ||privatelands.biz^
 ||click.vgnett.no^
 ||api.rubic.com.tr^
-||tag.wknd.ai^
 ||track-mixer.ru^
 ||dmpprof.com^
 ||pwrlkyotm.com^
@@ -23708,6 +23709,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nxakpj4ac8gkd53.info^
 ||sbgsodufuosmmvsdf.info^
 ||truffle.bid^
+||wknd.ai^
 ||z0uolej1qnxzub1.info^
 ! Third-party
 ||123stat.com^
@@ -24847,6 +24849,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.prezly.com^
 ||analytics.prod.aws.ecnext.net^
+||analytics.qualityunit.com^
 ||analytics.radiatemedia.com^
 ||analytics.reyrey.net^
 ||analytics.rogersmedia.com^
@@ -25215,6 +25218,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||p.eyebuydirect-cmr.net^
 ||pagesense-collect.zoho.com^
 ||pagesocket.glam.com^
+||pap.qualityunit.com^
 ||partner.cynapse.com^
 ||pegasus.unifygroup.com^
 ||perf.dugout.com^
