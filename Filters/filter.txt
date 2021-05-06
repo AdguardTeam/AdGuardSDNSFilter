@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-05T18:11:03.738Z
+! Last modified: 2021-05-06T00:08:10.336Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10121,6 +10121,7 @@ vkcdnservice.appspot.com^
 ||peedtzaregg.casa^
 ||peekdedicatecylinder.com^
 ||peekscrane.com^
+||peepholecarrying.com^
 ||peethobo.com^
 ||peeticadd.com^
 ||pendaccomot.club^
@@ -17852,6 +17853,7 @@ vkcdnservice.appspot.com^
 ||shopback.net^
 ||shopconvert.com.br^
 ||neemu.com^
+||ping.staticmoly.me^
 ||prod-sb-appanalytics-us1.servicebus.windows.net^
 ||mci1.co.kr^
 ||analytics.sitewit.com^
@@ -25205,7 +25207,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pi.ispot.tv^
 ||ping-dot-acp-magento.appspot.com^
 ||ping.dozuki.com^
-||ping.staticmoly.me^
 ||pings.vidpulse.com^
 ||pipe-collect.ebu.io^
 ||pix.revjet.com^
@@ -35452,8 +35453,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||wangmingsort.cn^
-||l570mb.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -36367,6 +36366,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||l07m8gu.cn^
 ||l29qi.xyz^
 ||l4elb.cn^
+||l570mb.cn^
 ||laiye315.top^
 ||lalaaal.cn^
 ||lalaxit.cn^
@@ -36908,6 +36908,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wangjulm.com^
 ||wangkeduo.cn^
 ||wangliqin.top^
+||wangmingsort.cn^
 ||wangqing7.top^
 ||wannuochongkong.com^
 ||wantezy.cn^
