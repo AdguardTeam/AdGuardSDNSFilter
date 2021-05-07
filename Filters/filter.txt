@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-07T12:03:34.502Z
+! Last modified: 2021-05-07T15:28:17.000Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4382,6 +4382,7 @@ vkcdnservice.appspot.com^
 ||audiesuree.club^
 ||audionews.fm^
 ||audiosech.club^
+||auditioneasterhelm.com^
 ||audriasite.pro^
 ||aufhausted.club^
 ||augaufta.com^
@@ -17841,6 +17842,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||logger.co.kr^
 ||newrrb.bid^
 ||plavxml.com^
 ||socketviking.net^
@@ -19625,7 +19627,6 @@ vkcdnservice.appspot.com^
 ||logdy.com^
 ||logentries.com^
 ||loger.ru^
-||trk*.logger.co.kr^
 ||loggly.com^
 ||lognormal.net^
 ||logua.com^
@@ -25857,7 +25858,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aicontents.net^
 ||contentsfeed.com^
 ||dawin.tv^
-||logger.co.kr^
 ||oevery.com^
 ||tenping.kr^
 ! Latvian
@@ -26479,6 +26479,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||rhhmaq.com^
 ||ybej5ohp0x.ru^
 ||gritspera.mobi^
 ||78yvreh.site^
@@ -32900,6 +32901,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||wxyun168.xyz^
+||andyfanfan.xyz^
 ||annabelleabe.com^
 ||liuwenyan.xyz^
 ||zeronethree.xyz^
@@ -34793,6 +34796,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||un.ubaike.cn^
 ||z.grfyw.com^
 ||003store.com^
 ||1.01fy.cn^
@@ -35505,6 +35509,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||mvlkvth.cn^
 ||hlstlyy.com^
 ||rfjckj.cn^
 ||027whht.com^
@@ -37392,6 +37397,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/pull/660
+@@||afi-b.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/pull/636
 @@||daikoku.ebis.ne.jp^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/629
