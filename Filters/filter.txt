@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-06T18:10:56.679Z
+! Last modified: 2021-05-07T00:07:11.634Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -26128,7 +26128,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||statistics.jfmedier.dk^
 ||trckr.nordiskemedier.dk^
 ||ubt.berlingskemedia.net^
-! Dutch
 ||analytics.belgacom.be^
 ||cookies.reedbusiness.nl^
 ||hottraffic.nl^
@@ -34758,8 +34757,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||j.98158.com^
-||j.9136.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -35189,6 +35186,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ios.426g.com^
 ||ishuoshuo.com^
 ||isu.weidianyuedu.com^
+||j.9136.com^
+||j.98158.com^
 ||j.baminw.cn^
 ||j.diangon.com^
 ||j.imdb.cn^
@@ -35469,15 +35468,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||1ug8jn.cn^
-||ccuyuna.cn^
-||yaokuan01.cn^
-||lordtao.cn^
-||chaxiaoyin.cn^
-||wxbdwj.cn^
-||pbbgfsm.cn^
-||dfjbgfldsjdsnldksjalld1235.cn^
-||rqjhhg.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -35514,6 +35504,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||17ys.top^
 ||199zw.com^
 ||1pzskg.cn^
+||1ug8jn.cn^
 ||1x26q3.cn^
 ||200ps.com^
 ||215to.cn^
@@ -35791,6 +35782,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cchfjz.com^
 ||ccjxybj.cn^
 ||ccmdgg.com^
+||ccuyuna.cn^
 ||cdgxq.com^
 ||cdiah.com^
 ||cdjkngs.cn^
@@ -35806,6 +35798,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||chaluoyi.cn^
 ||chang555.cn^
 ||changhehengqi.com^
+||chaxiaoyin.cn^
 ||chayibu.com^
 ||chekeshi.com^
 ||chendjiangxing.cn^
@@ -35913,6 +35906,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dehuaguanyin.com^
 ||deskt.cn^
 ||deyidesign.com^
+||dfjbgfldsjdsnldksjalld1235.cn^
 ||dfseafood.com^
 ||dgaoz.com^
 ||dglscm.cn^
@@ -36440,6 +36434,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lobmuc.cn^
 ||lolvsdota.cn^
 ||longkoupeanut.cn^
+||lordtao.cn^
 ||louisan.cn^
 ||lousivency.com.cn^
 ||lovepets70.com^
@@ -36599,6 +36594,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||oycslic.xyz^
 ||p0pm5z.cn^
 ||panwenjun.top^
+||pbbgfsm.cn^
 ||pbtxt.win^
 ||pd3a.cn^
 ||pdfmxsh.cn^
@@ -36707,6 +36703,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rongdingkeji.cn^
 ||rongnews.com^
 ||root85.com^
+||rqjhhg.cn^
 ||ruyidk.com^
 ||ruyiqufu.com^
 ||rvsosm.cn^
@@ -36983,6 +36980,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wuyuande.com^
 ||wvcdn.cn^
 ||wvfgiio.cn^
+||wxbdwj.cn^
 ||wxebgpj.cn^
 ||wxhdwy.com^
 ||wywna.cn^
@@ -37075,6 +37073,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yantairuide.com^
 ||yanyanbiji.com^
 ||yaodianzhineng.cn^
+||yaokuan01.cn^
 ||yaoquanshumeiyu.com^
 ||ybhypt.com^
 ||ybrex.cn^
