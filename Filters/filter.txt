@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-09T06:03:21.748Z
+! Last modified: 2021-05-09T12:03:26.568Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31951,9 +31951,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 May 2021 09:11 UTC+7
-! Version: 2105060911
-! Blocked: 859 rules
+! Last modified: 09 May 2021 13:37 UTC+7
+! Version: 2105091337
+! Blocked: 863 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32023,9 +32023,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jslog.zapps.vn^
 ||kabbmedia.com^
 ||klick.vn^
-||ladipage.net^
-||ladipage.vn^
-||ladisales.com^
 ||lavanetwork.net^
 ||log.mp3.zing.vn^
 ||log.news.zing.vn^
@@ -32274,6 +32271,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||genmonet.com^
 ||ghimc.vn^
 ||go.vnecdn.com^
+||hexapinow.xyz^
 ||imgcdnbet.com^
 ||interactive.tinnhanhchungkhoan.vn^
 ||landingpagelagi.vn^
@@ -32430,6 +32428,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.tinnhac.com^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
+||log.toss.vn^
 ||log.trithuctructuyen.com.vn^
 ||log.trithuctructuyen.vn^
 ||log.vietnamdaily.net.vn^
@@ -32498,6 +32497,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.icheck.com.vn^
 ||track.kyna.vn^
 ||track.lapa.pub^
+||track.lemonnovel.com^
 ||track.pnj.com.vn^
 ||track.pregmomvietnam.com^
 ||track.sendo.vn^
@@ -32513,6 +32513,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.dantri.com.vn^
 ||tracking.fado.vn^
 ||tracking.fff.com.vn^
+||tracking.gapone.vn^
 ||tracking.hongtinnhanh.com^
 ||tracking.meta.vn^
 ||tracking.phunuadong.vn^
@@ -32665,6 +32666,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||one88.us^
 ||one88.vn^
 ||oneday88.com^
+||playgamefa88.live^
+||playgo88.asia^
 ||playv8.com^
 ||qq8788viet.com^
 ||r88.vn^
@@ -32716,6 +32719,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vnloto.com^
 ||vua1004.club^
 ||vua1005.club^
+||vuabai9.com^
 ||vuaclub1008.club^
 ||vw220.com^
 ||vwinnow.com^
