@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-09T12:03:26.568Z
+! Last modified: 2021-05-09T18:09:27.939Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,12 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||c43a3cd8f99413891.com^
+||ecjkroklyxvod.com^
+||tluumnjyrc.com^
+||thingrealtape.com^
+||all-ti-cod.com^
+||misguidedstork.com^
 ||knittedcourthouse.com^
 ||ursegreatm.fun^
 ||qwtomdpb.com^
@@ -174,7 +180,6 @@
 ||dayanygold.com^
 ||pqtiqpfyeeayjk.com^
 ||overyfamiliar.biz^
-||snagbaudhulas.com^
 ||whagrolt.com^
 ||worersie.com^
 ||wapsisod.net^
@@ -267,7 +272,6 @@
 ||awardpodstab.com^
 ||pertersacstyli.com^
 ||shrillbighearted.com^
-||cpm.media^
 ||ad.chandrabindu.net^
 ||wolaufie.com^
 ||adxxx.com^
@@ -4231,6 +4235,7 @@ vkcdnservice.appspot.com^
 ||apologisehistoriancrackle.com^
 ||apologixopyr.site^
 ||apopgo.com^
+||aporasal.net^
 ||apostlelinger.com^
 ||apostropheemailcompetence.com^
 ||appads.com^
@@ -9502,6 +9507,7 @@ vkcdnservice.appspot.com^
 ||nickeeha.net^
 ||nicksstevmark.com^
 ||nicmitosasm.top^
+||nicmoomp.net^
 ||nicveteroge.club^
 ||nificincreasi.club^
 ||nightening.club^
@@ -11467,6 +11473,7 @@ vkcdnservice.appspot.com^
 ||smsimprisee.club^
 ||smucpfadqgtkld.com^
 ||smvocdnxusp.com^
+||snagbaudhulas.com^
 ||snaglighter.com^
 ||snammar-jumntal.com^
 ||snapsed.club^
@@ -14505,6 +14512,7 @@ vkcdnservice.appspot.com^
 ||cpalead.com^
 ||cpalock.com^
 ||cpfclassifieds.com^
+||cpm.media^
 ||cpmleader.com^
 ||crakmedia.com^
 ||crispads.com^
@@ -32777,6 +32785,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||abc88866.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35385,6 +35394,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||ahzhongzhan.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
