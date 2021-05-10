@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-10T12:03:34.640Z
+! Last modified: 2021-05-10T18:15:22.134Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||gropsyruty.com^
+||hootersavour.com^
 ||adsterra.org^
 ||apexwantstar.com^
 ||c43a3cd8f99413891.com^
@@ -473,7 +475,6 @@
 ||talazywho.pro^
 ||sporedfryhum.com^
 ||toperw.com^
-||hotideiasnetwork.ml^
 ||s.bigbolz.com^
 ||7kjfbgkjbfgb.club^
 ||tearpilotzoo.com^
@@ -5785,6 +5786,7 @@ vkcdnservice.appspot.com^
 ||dartsirhose.icu^
 ||darwarvid.com^
 ||dasfelynsaterr.webcam^
+||dasfelynsaterr.win^
 ||dashbida.com^
 ||dashboardad.net^
 ||dashcreakyock.com^
@@ -17124,6 +17126,7 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||ad-channel.wikawika.xyz^
 ||media-router-flurry*.yahoo.com^
 ||cads.scalemonk.com^
 ||adspot.tfgapps.com^
@@ -31972,9 +31975,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 May 2021 13:37 UTC+7
-! Version: 2105091337
-! Blocked: 863 rules
+! Last modified: 10 May 2021 22:02 UTC+7
+! Version: 2105102202
+! Blocked: 864 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32592,6 +32595,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aw8vn2.com^
 ||b29qc.win^
 ||b52.win^
+||bet365.com^
 ||betvietnam.info^
 ||betvisa.com^
 ||big88.one^
@@ -35409,6 +35413,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||vhh.23txt.com^
 ||tirongtech.cn^
 ||lxanimation.cn^
 ||027whht.com^
