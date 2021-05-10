@@ -3,10 +3,16 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/mpenachayan/AdguardSDNSFilter
 ! License: https://github.com/mpenachayan/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-09T01:01:29.311Z
+! Last modified: 2021-05-10T01:01:28.283Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||c43a3cd8f99413891.com^
+||ecjkroklyxvod.com^
+||tluumnjyrc.com^
+||thingrealtape.com^
+||all-ti-cod.com^
+||misguidedstork.com^
 ||knittedcourthouse.com^
 ||ursegreatm.fun^
 ||qwtomdpb.com^
@@ -163,7 +169,6 @@
 ||dayanygold.com^
 ||pqtiqpfyeeayjk.com^
 ||overyfamiliar.biz^
-||snagbaudhulas.com^
 ||whagrolt.com^
 ||worersie.com^
 ||wapsisod.net^
@@ -256,7 +261,6 @@
 ||awardpodstab.com^
 ||pertersacstyli.com^
 ||shrillbighearted.com^
-||cpm.media^
 ||ad.chandrabindu.net^
 ||wolaufie.com^
 ||adxxx.com^
@@ -4107,6 +4111,7 @@ vkcdnservice.appspot.com^
 ||apologisehistoriancrackle.com^
 ||apologixopyr.site^
 ||apopgo.com^
+||aporasal.net^
 ||apostlelinger.com^
 ||apostropheemailcompetence.com^
 ||appads.com^
@@ -9378,6 +9383,7 @@ vkcdnservice.appspot.com^
 ||nickeeha.net^
 ||nicksstevmark.com^
 ||nicmitosasm.top^
+||nicmoomp.net^
 ||nicveteroge.club^
 ||nificincreasi.club^
 ||nightening.club^
@@ -11343,6 +11349,7 @@ vkcdnservice.appspot.com^
 ||smsimprisee.club^
 ||smucpfadqgtkld.com^
 ||smvocdnxusp.com^
+||snagbaudhulas.com^
 ||snaglighter.com^
 ||snammar-jumntal.com^
 ||snapsed.club^
@@ -14373,6 +14380,7 @@ vkcdnservice.appspot.com^
 ||cpalead.com^
 ||cpalock.com^
 ||cpfclassifieds.com^
+||cpm.media^
 ||cpmleader.com^
 ||crakmedia.com^
 ||crispads.com^
@@ -15974,6 +15982,7 @@ vkcdnservice.appspot.com^
 ||supersonicads.com^
 ||superwebs.pro^
 ||supletcedintand.pro^
+||supplyframe.com^
 ||supuv2.com^
 ||surf-bar-traffic.com^
 ||surgeprice.com^
@@ -31011,9 +31020,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jslog.zapps.vn^
 ||kabbmedia.com^
 ||klick.vn^
-||ladipage.net^
-||ladipage.vn^
-||ladisales.com^
 ||lavanetwork.net^
 ||log.mp3.zing.vn^
 ||log.news.zing.vn^
@@ -31255,6 +31261,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||genmonet.com^
 ||ghimc.vn^
 ||go.vnecdn.com^
+||hexapinow.xyz^
 ||imgcdnbet.com^
 ||interactive.tinnhanhchungkhoan.vn^
 ||landingpagelagi.vn^
@@ -31409,6 +31416,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.tinnhac.com^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
+||log.toss.vn^
 ||log.trithuctructuyen.com.vn^
 ||log.trithuctructuyen.vn^
 ||log.vietnamdaily.net.vn^
@@ -31474,6 +31482,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.icheck.com.vn^
 ||track.kyna.vn^
 ||track.lapa.pub^
+||track.lemonnovel.com^
 ||track.pnj.com.vn^
 ||track.pregmomvietnam.com^
 ||track.sendo.vn^
@@ -31488,6 +31497,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.appwifi.com^
 ||tracking.dantri.com.vn^
 ||tracking.fado.vn^
+||tracking.gapone.vn^
 ||tracking.hongtinnhanh.com^
 ||tracking.meta.vn^
 ||tracking.phunuadong.vn^
@@ -31638,6 +31648,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||one88.us^
 ||one88.vn^
 ||oneday88.com^
+||playgamefa88.live^
+||playgo88.asia^
 ||playv8.com^
 ||qq8788viet.com^
 ||r88.vn^
@@ -31689,6 +31701,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vnloto.com^
 ||vua1004.club^
 ||vua1005.club^
+||vuabai9.com^
 ||vuaclub1008.club^
 ||vw220.com^
 ||vwinnow.com^
@@ -31742,6 +31755,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 
+||wwwlongjiekejijishu.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -31961,6 +31975,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a907907.com^
 ||a9377j.com^
 ||aasyy.com^
+||abc88866.com^
 ||abcdlm.com^
 ||abie14.top^
 ||acasys88.cn^
@@ -33597,6 +33612,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||tc.18moe.net^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
@@ -34471,6 +34487,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ahidna.cn^
 ||ahuac.com^
 ||ahwczn.cn^
+||ahzhongzhan.cn^
 ||aibangzs.com^
 ||aikan6.com^
 ||ailezhai.cn^
@@ -36692,6 +36709,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a.denik.cz^
 ||a.fileplaneta.com^
 ||a.hiimps.com^
+||a.libertystmedia.com^
 ||a.mailmunch.co^
 ||a.medialaancdn.be^
 ||a.meteonova.ru^
@@ -39090,6 +39108,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api.arity.com^
 ||api.ateam-ad.jp^
 ||api.attentivemobile.com^
+||api.batch.com^
 ||api.beaconsinspace.com^
 ||api.bitmango.com^
 ||api.bugfender.com^
@@ -39771,7 +39790,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bashnya.ru^
 ||baskidunyasi.net^
 ||bat.bing.com^
-||batch.com^
 ||batchlogging4.truecaller.com^
 ||bate.cum-shows.net^
 ||batman.blogautomobile.fr^
@@ -41705,7 +41723,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||demilith.com^
 ||demo.g-mart.in^
 ||demo.glassforcars.com.au^
-||demo.learningcentre.cowww^
 ||demo.sdssoftltd.co.uk^
 ||demo.vertexinfo.in^
 ||demo1.lerian-nti.be^
@@ -43708,6 +43725,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||i.esprit-click.com^
 ||i.interia.pl^
 ||i.isnssdk.com^
+||i.libertystmedia.com^
 ||i.media.cz^
 ||i.popincdn.com^
 ||i.seznam.cz^
@@ -44495,6 +44513,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lachest.com^
 ||lactofketharma.pro^
 ||ladconohs.com^
+||ladipage.net^
+||ladipage.vn^
+||ladisales.com^
 ||ladsatz.com^
 ||ladsims.com^
 ||ladsreds.com^
@@ -44617,7 +44638,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||libecki.net^
 ||libedgolart.com^
 ||liberty.gedads.com^
-||libertystmedia.com^
 ||library.arihantmbainstitute.ac.in^
 ||library.cowley.edu^
 ||library.skscarsrjn.in^
@@ -48988,7 +49008,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||superpromokody.com^
 ||supersonic.com^
 ||supertop100.com^
-||supplyframe.com^
 ||support-4-free.com^
 ||support-ip.com^
 ||support.clz.kr^
@@ -50233,6 +50252,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vfocus.net^
 ||vhowland.co.uk^
 ||vi-tag.net^
+||via.batch.com^
 ||viaggiare.columbusassicurazioni.it^
 ||viagra-pill.blogspot.com^
 ||viagra-store.shengen.ru^
@@ -53451,6 +53471,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+||ws.batch.com^
 
 
 
