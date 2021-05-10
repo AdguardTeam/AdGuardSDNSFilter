@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-09T18:09:27.939Z
+! Last modified: 2021-05-10T00:08:02.371Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32785,7 +32785,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||abc88866.com^
+||wwwlongjiekejijishu.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33005,6 +33005,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a907907.com^
 ||a9377j.com^
 ||aasyy.com^
+||abc88866.com^
 ||abcdlm.com^
 ||abie14.top^
 ||acasys88.cn^
@@ -34661,6 +34662,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||tc.18moe.net^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
@@ -35394,7 +35396,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||ahzhongzhan.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -35566,6 +35567,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ahidna.cn^
 ||ahuac.com^
 ||ahwczn.cn^
+||ahzhongzhan.cn^
 ||aibangzs.com^
 ||aikan6.com^
 ||ailezhai.cn^
