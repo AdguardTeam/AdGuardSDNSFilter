@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-12T06:04:29.666Z
+! Last modified: 2021-05-12T09:28:56.599Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21760,8 +21760,6 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ! Yesware
 ||t.yesware.com^
-! Marketo tracking (see https://docs.marketo.com/display/public/DOCS/Configure+Protocols+for+Marketo)
-||mkto-*.com^
 
 !
 ! Source name: AdGuard Tracking Protection filter first-party trackers
@@ -24464,7 +24462,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! revprotect
 ||pphwrevr.com^
 ! Marketo email tracking domains https://github.com/easylist/easylist/issues/6475
-||mkto-*.com^
 ! Notification servers (Tracking/Fingerprinting users)
 ||accengage.net^
 ||actirinius.com^
@@ -35497,6 +35494,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stunninglover.com^
 ||watakaw133.xyz^
 ||mzbb8872.cn^
+||sdweldrobot.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
