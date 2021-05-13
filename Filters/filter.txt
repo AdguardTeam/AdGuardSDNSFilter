@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-13T12:07:24.950Z
+! Last modified: 2021-05-13T18:19:53.652Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,15 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||vhlduhrldc.com^
+||frshueaxf.com^
+||jumotic.com^
+||balsascotleak.com^
+||refpakrtsb.top^
+||melredirnxt.top^
+||convertmb.com^
+||flitions-sealteger.com^
+||misspkl.com^
 ||dragonsniffcashmere.com^
 ||grilydivy.com^
 ||dcdz5xfv4nws.com^
@@ -8111,6 +8120,7 @@ vkcdnservice.appspot.com^
 ||jeansurroundwealthy.com^
 ||jebadu.com^
 ||jechesmacaltont.info^
+||jeehathu.com^
 ||jeejujou.net^
 ||jeerszitstoke.com^
 ||jeinvegpool.com^
@@ -9166,6 +9176,7 @@ vkcdnservice.appspot.com^
 ||mootermedia.com^
 ||mooxar.com^
 ||mopnixhem.com^
+||mopsaups.net^
 ||mopushy.com^
 ||moradu.com^
 ||morderedouih.club^
@@ -10803,6 +10814,7 @@ vkcdnservice.appspot.com^
 ||rejouassions.xyz^
 ||rekodpro.com^
 ||relaxingovercomeexaggerate.com^
+||releasedrewardexcitedly.com^
 ||relevantairbornefantastic.com^
 ||reliancehamlet.com^
 ||remainfascinatedhappy.com^
@@ -17672,6 +17684,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||monitor.azure.com^
+||static.herr.io^
 ||cli2020.com^
 ||logger.co.kr^
 ||newrrb.bid^
@@ -25056,7 +25070,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metro-trending-*.amazonaws.com^
 ||mlweb.dmlab.hu^
 ||mmi.bemobile.ua^
-||monitor.azure.com^
 ||mts.mansion.com^
 ||mx.technolutions.net^
 ||myscoop-tracking.googlecode.com^
@@ -34644,6 +34657,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||c1.chajiaotong.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
