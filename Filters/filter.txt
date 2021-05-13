@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-12T13:44:39.776Z
+! Last modified: 2021-05-13T00:18:21.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||dcdz5xfv4nws.com^
 ||nuqwe.com^
 ||di7stero.com^
 ||plainwrk.name^
@@ -8960,6 +8961,7 @@ vkcdnservice.appspot.com^
 ||mdn2015x5.com^
 ||mdpqambxvmzai.com^
 ||mduinqxgi.com^
+||meadowleader.com^
 ||mealparameter.com^
 ||meantlick.com^
 ||measurefact.com^
@@ -10943,6 +10945,7 @@ vkcdnservice.appspot.com^
 ||repairedtightslavishness.com^
 ||repetaradiez.xyz^
 ||replainy.co^
+||reportsnakefill.com^
 ||reprenees.club^
 ||representationfighter.com^
 ||representativeskipcloudy.com^
@@ -11364,6 +11367,7 @@ vkcdnservice.appspot.com^
 ||senrecominev.fun^
 ||sensationdetermined.com^
 ||sensitivenesscrummytea.com^
+||sentphysically.com^
 ||separatedcoffin.com^
 ||separatic.club^
 ||separenujilo.club^
@@ -17826,6 +17830,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||cli2020.com^
 ||logger.co.kr^
 ||newrrb.bid^
 ||plavxml.com^
@@ -23831,6 +23836,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||btloader.com^
 ||buildkiteanalytics.com^
 ||bunchbox.co^
+||byside.com^
 ||c212.net^
 ||cactusglobal.io^
 ||callreports.com^
@@ -24048,6 +24054,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||k3node.com^
 ||kameleoon.eu^
 ||kantartns.lt^
+||kaptcha.com^
 ||kaxsdc.com^
 ||keytiles.com^
 ||kickfire.com^
@@ -25512,7 +25519,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vmstats.varrando.com^
 ||vtnlog-*.elb.amazonaws.com^
 ||web1.51.la^
-||webcare.byside.com^
 ||weblog.livesport.eu^
 ||weblogger-dynamic-lb.playdom.com^
 ||webservices.websitepros.com^
@@ -31801,6 +31807,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||coreg-feed.com^
 ||delosnetwork.it^
 ||digitalbees.it^
+||disploot.com^
 ||eadv.it^
 ||easymarketcrs.it^
 ||ebuzzing.it^
@@ -32895,7 +32902,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||pcshuju.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33897,6 +33903,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||papa999.xyz^
 ||parisianmacao.bet^
 ||pcmzn.com^
+||pcshuju.com^
 ||pdsjycm.com^
 ||pedailyu.com^
 ||penxiangge.com^
@@ -34795,7 +34802,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||wenwen120.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -35409,6 +35415,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wap1.laogu.wang^
 ||wdfhl.weidianyuedu.com^
 ||wenhua.jiaoshou.com^
+||wenwen120.com^
 ||whfpbc.99.com.cn^
 ||wj.jiancai365.cn^
 ||wm.mipcdn.com^
@@ -35509,8 +35516,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||mzbb8872.cn^
-||sdweldrobot.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -35677,6 +35682,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adrian.net.cn^
 ||aduic.com^
 ||affiliate6.com^
+||agjy6.com^
 ||agpligj.cn^
 ||ah808.com^
 ||ahidna.cn^
@@ -36560,6 +36566,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||myams.cn^
 ||mydownba.com^
 ||mysty.com.cn^
+||mzbb8872.cn^
 ||mzirmall.com^
 ||n18uji.xyz^
 ||nabeghlavi.com.cn^
@@ -36779,6 +36786,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sdajxz.xyz^
 ||sdalxz.xyz^
 ||sdfjtwp.com^
+||sdweldrobot.cn^
 ||sdytsh.com^
 ||seawayz.com.cn^
 ||sec-cloud.cn^
