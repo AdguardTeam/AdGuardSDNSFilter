@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-14T12:07:13.905Z
+! Last modified: 2021-05-14T18:20:34.362Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||tags.catapultx.com^
 ||z.cdn.adpool.bet^
 ||ccdnqxu.com^
 ||harmoniousstrandbulk.com^
@@ -17802,6 +17803,7 @@ vkcdnservice.appspot.com^
 ||tag-based.s3.*.amazonaws.com^
 ||oeqirr.com^
 ||cbdatatracker.com^
+||user-stats.rbl.ms^
 ||pages-stats.rbl.ms^
 ||res.rbl.ms^
 ||hubble.netease.com^
@@ -21736,6 +21738,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||collector.rn.de^
 ||l.da-te.jp^
 ||log.shufoo.net^
 ||logcollect.totalcms.ncloud.or.kr^
@@ -25923,7 +25926,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cdntrf.de^
 ||cgicounter.onlinehome.de^
 ||collector.ozeex.com^
-||collector.rn.de^
 ||com.econa.com^
 ||counter.1i.kz^
 ||counter.blogoscoop.net^
@@ -31023,6 +31025,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||ad.woman.mynavi.jp^
 ||ad.rarure.com^
 ||affiliate-script-pr.firebaseapp.com^
 ||asia-northeast1-affiliate-pr.cloudfunctions.net^
@@ -34730,6 +34733,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||w3c.5txs.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
