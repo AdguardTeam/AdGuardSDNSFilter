@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-15T06:05:41.597Z
+! Last modified: 2021-05-15T12:06:46.818Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -15492,6 +15492,7 @@ vkcdnservice.appspot.com^
 ||partypartners.com^
 ||partypoker.com^
 ||pas-rahav.com^
+||paslsa.com^
 ||passionfruitads.com^
 ||passive-earner.com^
 ||patiskcontentdelivery.info^
@@ -35449,6 +35450,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||jxczy.cn^
+||lfsenmei.com^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
