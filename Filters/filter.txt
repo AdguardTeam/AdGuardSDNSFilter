@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-14T18:20:34.362Z
+! Last modified: 2021-05-15T00:18:50.733Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -17757,6 +17757,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||stats.fomo.com^
 ||aghtag.tech^
 ||monitor.azure.com^
 ||static.herr.io^
@@ -25269,7 +25270,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.cmcigroup.com^
 ||stats.datahjaelp.net^
 ||stats.edicy.com^
-||stats.fomo.com^
 ||stats.geegain.com^
 ||stats.gifs.com^
 ||stats.highwire.com^
@@ -32832,7 +32832,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||keeyekey.xyz^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33640,6 +33639,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kanfaxing.com^
 ||kanwby.com^
 ||kdy365.vip^
+||keeyekey.xyz^
 ||kele4.com^
 ||keyyou.net^
 ||kf3msfm.com^
@@ -34733,7 +34733,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||w3c.5txs.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -35344,6 +35343,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||w.xiaopiaoyou.com^
 ||w11.zhongkaohelp.com^
 ||w18.9939.com^
+||w3c.5txs.com^
 ||wap001.bytravel.cn^
 ||wap1.laogu.wang^
 ||wdfhl.weidianyuedu.com^
@@ -35449,11 +35449,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||dlyukun.cn^
-||hxyssd.cn^
-||wxskqy.cn^
-||lanzuankeji.cn^
-||zhuhaiqilu.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -35908,6 +35903,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dkjdnq.cn^
 ||dldsrs.com^
 ||dlsdkw.cn^
+||dlyukun.cn^
 ||dmpsj.cn^
 ||dnfkong.com^
 ||dodolive.cn^
@@ -36200,6 +36196,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||huosuniao.com^
 ||hvie6u.cn^
 ||hxiak.com^
+||hxyssd.cn^
 ||hycfxdc.com^
 ||hytcsh.cn^
 ||hyuanprint.com^
@@ -36384,6 +36381,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lamaowei.com^
 ||lanshiwan.cn^
 ||lantuyj.com^
+||lanzuankeji.cn^
 ||lawumi.cn^
 ||lcrmm.top^
 ||legozu.com^
@@ -36985,6 +36983,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wxbdwj.cn^
 ||wxebgpj.cn^
 ||wxhdwy.com^
+||wxskqy.cn^
 ||wywna.cn^
 ||wyxcb6.top^
 ||wzjs1.oss-accelerate.aliyuncs.com^
@@ -37196,6 +37195,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhouqin520.top^
 ||zhuanquxian.com^
 ||zhuanyule.cn^
+||zhuhaiqilu.cn^
 ||zhujiafangchan.cn^
 ||zhuzaogangqiu.com^
 ||zhywyl.cn^
