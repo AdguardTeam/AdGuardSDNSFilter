@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-16T06:05:31.421Z
+! Last modified: 2021-05-16T18:20:19.583Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,12 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||hardyconflict.com^
+||wherabygry.com^
+||diningprefixmyself.com^
+||roilsnadirink.com^
+||thousandfixedlyyawn.com^
+||harlsmums.com^
 ||cuckooretire.com^
 ||beticithy.com^
 ||tags.catapultx.com^
@@ -260,7 +266,6 @@
 ||air2s.com^
 ||ioadserve.com^
 ||samplerpouch.com^
-||sketchinferiorunits.com^
 ||go.loadingnow.me^
 ||wishjus.com^
 ||jutyledu.pro^
@@ -11473,6 +11478,7 @@ vkcdnservice.appspot.com^
 ||sjeffrontagr.top^
 ||sjgcswrvltrx.com^
 ||sjscxhknxeek.com^
+||sketchinferiorunits.com^
 ||skilyake.net^
 ||skinnyfinnishhi.com^
 ||sknkwpvrkz.com^
@@ -31029,6 +31035,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||roselip-fetish.com^
 ||mincure-ad.com^
 ||ad.woman.mynavi.jp^
 ||ad.rarure.com^
@@ -32838,6 +32845,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||xn--2ssq0ktxigkq.com^
+||ahwangtao.com^
+||bjytdqwx.com^
+||czgjhotel.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35453,6 +35464,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||51toubu.com^
 ||shenhuachuwei.cn^
 ||lzhyhy.cn^
 ||binkens.cn^
