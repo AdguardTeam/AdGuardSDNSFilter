@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-16T00:20:41.185Z
+! Last modified: 2021-05-16T06:05:31.421Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32011,9 +32011,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 May 2021 14:53 UTC+7
-! Version: 2105131453
-! Blocked: 863 rules
+! Last modified: 16 May 2021 12:22 UTC+7
+! Version: 2105161222
+! Blocked: 864 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32739,6 +32739,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rio66qc.club^
 ||sbc31.com^
 ||sieubomtan.com^
+||sin88.com^
 ||sky88.com^
 ||socvip.com^
 ||socvip9.club^
@@ -35167,7 +35168,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||inone517.com^
 ||ios.426g.com^
 ||ishuoshuo.com^
-||isu.weidianyuedu.com^
 ||j.9136.com^
 ||j.98158.com^
 ||j.baminw.cn^
@@ -35351,7 +35351,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||w3c.5txs.com^
 ||wap001.bytravel.cn^
 ||wap1.laogu.wang^
-||wdfhl.weidianyuedu.com^
 ||wenhua.jiaoshou.com^
 ||wenwen120.com^
 ||whfpbc.99.com.cn^
@@ -35454,6 +35453,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||shenhuachuwei.cn^
+||lzhyhy.cn^
+||binkens.cn^
+||szhdhbz.com^
+||rjtpos.cn^
+||fintechpi.com^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
