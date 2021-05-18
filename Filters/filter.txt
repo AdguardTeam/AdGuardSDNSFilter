@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-17T18:20:53.138Z
+! Last modified: 2021-05-18T00:20:42.947Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||bollroaches.com^
 ||ad.utop.ir^
 ||bmfads.com^
 ||degryrubi.com^
@@ -20735,6 +20736,7 @@ vkcdnservice.appspot.com^
 ! Admiral domains
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
+||hystericalcloth.com^
 ||caringcast.com^
 ||selfishsnake.com^
 ||soretrain.com^
@@ -21831,6 +21833,7 @@ vkcdnservice.appspot.com^
 ||counter.nv.ua^
 ||metrika.myseldon.com^
 ||t.lidyana.com^
+||analytics.faceitanalytics.com^
 ||stats.muasamcong.gov.vn^
 ||beacon.watch.impress.co.jp^
 ||metrics-broker.prod.p.tf1.fr^
@@ -35484,11 +35487,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stunninglover.com^
 ||watakaw133.xyz^
 ||01tn.cn^
-||fwnetrb.cn^
-||tdbwgrm.cn^
-||ealcrrm.cn^
-||mzcs65562.cn^
-||mkjunc.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
 ||0323wqpioutyuencsamxsd.xyz^
@@ -35973,6 +35971,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dzooo.cn^
 ||dzrenju2.cn^
 ||e9emh.cn^
+||ealcrrm.cn^
 ||ebuysolar.com^
 ||echuanglm1.com^
 ||ecuwa.cn^
@@ -36056,6 +36055,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||futengbao.com.cn^
 ||fuxin-tech.com^
 ||fw.zhuaji.org^
+||fwnetrb.cn^
 ||fwyang.com^
 ||fxfhjs.com^
 ||fxfvttu.cn^
@@ -36524,6 +36524,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||miyaluorenliziuan.cn^
 ||mjita.cn^
 ||mjtowot.cn^
+||mkjunc.cn^
 ||ml44.cn^
 ||mlion.cn^
 ||mlre.com.cn^
@@ -36550,6 +36551,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mydownba.com^
 ||mysty.com.cn^
 ||mzbb8872.cn^
+||mzcs65562.cn^
 ||mzirmall.com^
 ||n18uji.xyz^
 ||nabeghlavi.com.cn^
@@ -36880,6 +36882,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tchep.com^
 ||tcnmf.com^
 ||tdain.com^
+||tdbwgrm.cn^
 ||tfg8.com^
 ||tgbrfv.cn^
 ||tglzqw.cn^
