@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-18T12:07:53.059Z
+! Last modified: 2021-05-18T18:23:17.183Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,11 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||aftjohnanodes.com^
+||melinaeability.casa^
+||hgzuqrtzt.com^
+||jonasahalockup.com^
+||fopushegi.com^
 ||fogsham.com^
 ||bollroaches.com^
 ||ad.utop.ir^
@@ -5509,6 +5514,7 @@ vkcdnservice.appspot.com^
 ||conflictslashact.com^
 ||confoundcoinghosts.com^
 ||confrontationproximity.com^
+||congestit.com^
 ||conjeller-chikemon.com^
 ||connectad.io^
 ||connectignite.com^
@@ -6545,6 +6551,7 @@ vkcdnservice.appspot.com^
 ||enhancereviewpacket.com^
 ||enhucherions.xyz^
 ||eniousirre.top^
+||enjoyingbind.com^
 ||enkayijamal.club^
 ||enlnks.com^
 ||enmisindingat.info^
@@ -21770,6 +21777,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||trackdb.go3.tv^
 ||collector.rn.de^
 ||l.da-te.jp^
 ||log.shufoo.net^
@@ -34805,7 +34813,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1.glook.cn^
 ||1.hnyouneng.com^
 ||1.idc100.com^
-||1.ideng.com^
 ||1.isanxia.com^
 ||1.jeasyui.net^
 ||1.jiqie.cn^
@@ -35495,6 +35502,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||njsbzc.cn^
 ||biquter.xyz^
 ||osqoglv.cn^
 ||hkosgxn.cn^
