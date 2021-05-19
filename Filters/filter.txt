@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-19T12:27:48.434Z
+! Last modified: 2021-05-19T18:21:52.459Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||dolphinanthill.com^
+||gasijosti.com^
+||ilyf4amifh.com^
+||kneeansweras.com^
 ||geo.ads.audio.thisisdax.com^
 ||snodlycaccias.com^
 ||adc.streamspread.com^
@@ -4675,6 +4679,7 @@ vkcdnservice.appspot.com^
 ||bemobtrk.com^
 ||bemusic.xyz^
 ||beneathdangerously.com^
+||benignrescuemistletoe.com^
 ||beonixom.com^
 ||bernationa.club^
 ||berningbegi.club^
@@ -6085,6 +6090,7 @@ vkcdnservice.appspot.com^
 ||dissimilarambient.com^
 ||dissimilartongueoatmeal.com^
 ||dissonbegant.info^
+||distemshu.biz^
 ||disticked.club^
 ||distilled.ie^
 ||distinctcoherentmean.com^
@@ -7114,6 +7120,7 @@ vkcdnservice.appspot.com^
 ||fortsexpres.club^
 ||fortunitystar.club^
 ||forwrdnow.com^
+||forzubatr.com^
 ||fosterpeacesadly.com^
 ||fosterstrawberry.com^
 ||fotsaulr.net^
@@ -7351,6 +7358,7 @@ vkcdnservice.appspot.com^
 ||gingoblindri.club^
 ||girlend.com^
 ||giscoeswork.space^
+||gitechiphy.pro^
 ||gitoku.com^
 ||givenfrontierruth.com^
 ||givestment.club^
@@ -11275,6 +11283,7 @@ vkcdnservice.appspot.com^
 ||saveddrummermover.com^
 ||saventireri.top^
 ||sayessedb.club^
+||sbanesere.biz^
 ||sbc7wfnaakau.com^
 ||sbfsdvc.com^
 ||sbiotiatingf.club^
@@ -12369,6 +12378,7 @@ vkcdnservice.appspot.com^
 ||uisingreactic.top^
 ||uistspregna.club^
 ||uitabletublis.info^
+||uiteligularly.fun^
 ||uiwaqbvvhz.com^
 ||uixsuffkzkhbj.com^
 ||ujccccb.com^
@@ -17807,6 +17817,7 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||pv.kuaizhan.com^
 ||eventsapi.grocerkey.com^
 ||dc-tag.jp^
 ||kitchen.juicer.cc^
@@ -21797,6 +21808,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||analytics.atlassian.com^
 ||trackdb.go3.tv^
 ||collector.rn.de^
 ||l.da-te.jp^
@@ -37457,8 +37469,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
-! https://github.com/AdguardTeam/AdguardFilters/issues/81770
-@@||tag.partner.mairdumont.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81939
 @@||support-beacon.nakanohito.jp^|
 @@||support-widget.nakanohito.jp^|
