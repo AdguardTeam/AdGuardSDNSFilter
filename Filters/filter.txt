@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-19T06:06:29.964Z
+! Last modified: 2021-05-19T12:07:38.916Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||geo.ads.audio.thisisdax.com^
+||snodlycaccias.com^
+||adc.streamspread.com^
 ||aftjohnanodes.com^
 ||melinaeability.casa^
 ||hgzuqrtzt.com^
@@ -5478,6 +5481,7 @@ vkcdnservice.appspot.com^
 ||commission-junction.com^
 ||commissionkings.ag^
 ||commissionlounge.com^
+||commonvivacious.com^
 ||communited.club^
 ||communits.club^
 ||compartmentnutsnovember.com^
@@ -7318,6 +7322,7 @@ vkcdnservice.appspot.com^
 ||germinatedisgustokay.com^
 ||gerskatimi.club^
 ||geruksom.net^
+||getawayspectaclejumped.com^
 ||getbonusnow3.com^
 ||getdonspeg.work^
 ||getherehap.fun^
@@ -9425,6 +9430,7 @@ vkcdnservice.appspot.com^
 ||narkalignevil.com^
 ||narrowperennialaffable.com^
 ||natesbiscussi.club^
+||nationaldeliquencydeliquency.com^
 ||nationsflushedoccasionally.com^
 ||nativeserv.com^
 ||natorpression.fun^
@@ -10659,6 +10665,7 @@ vkcdnservice.appspot.com^
 ||qgnadfdluev.com^
 ||qgnlbjkxrzb.com^
 ||qgnqsebea.com^
+||qgogogox.com^
 ||qhdanxdyeuzdio.com^
 ||qhkhchjqawst.com^
 ||qhmrasvwzbwjpz.com^
@@ -11826,6 +11833,7 @@ vkcdnservice.appspot.com^
 ||surmountguardianbosom.com^
 ||surprisecub.com^
 ||surprivilegiez.xyz^
+||surrendersonnygram.com^
 ||surveyingaltitude.com^
 ||susandsoc.top^
 ||susistorsde.club^
@@ -12476,6 +12484,7 @@ vkcdnservice.appspot.com^
 ||usenetbombastic.cyou^
 ||usercherishwheelchair.com^
 ||userhenceforwardculture.com^
+||usherprayer.com^
 ||ushoofop.com^
 ||ushooque.net^
 ||usingirritatecordial.com^
@@ -12545,6 +12554,7 @@ vkcdnservice.appspot.com^
 ||vasgenerete.site^
 ||vashoaft.net^
 ||vasstycom.com^
+||vastshmast.com^
 ||vatlodesim.com^
 ||vatname.info^
 ||vatskaylittl.club^
@@ -17797,6 +17807,11 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||eventsapi.grocerkey.com^
+||dc-tag.jp^
+||kitchen.juicer.cc^
+||t.beop.io^
+||contents-tracking.beop.io^
 ||docomo-analytics.com^
 ||stats.fomo.com^
 ||aghtag.tech^
@@ -23340,6 +23355,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||do-not-tracker.org^
 ||eviltracker.net^
 ||trackersimulator.org^
+!
+! For apps
+||track.*.roku.com^
+||traces.sr.roku.com^
 ||analytics.kidoz.net^
 ||track.tenjin.com^
 ||tracker.mtrtb.com^
@@ -23384,6 +23403,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||log-collector.shopee.
+||seller-log-collector.shopee.
+||telemetry.voxeet.com^
 ||usertrack.appcpi.net^
 ||api*.amplitude.com^
 ||collect.serious.li^
@@ -24960,7 +24982,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||collector.clareity.net^
 ||collector.sspinc.io^
 ||confiant-integrations.global.ssl.fastly.net^
-||contents-tracking.beop.io^
 ||control.cityofcairns.com^
 ||conversions.genieventures.co.uk^
 ||cookies.livepartners.com^
@@ -25351,7 +25372,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t-staging.powerreviews.com^
 ||t.a3cloud.net^
 ||t.auditedmedia.org.au^
-||t.beop.io^
 ||t.beopinion.com^
 ||t.bimvid.com^
 ||t.brand-server.com^
@@ -26193,7 +26213,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||delivery.satr.jp^
 ||imgstat.ameba.jp^
 ||ip2c.landscape.co.jp^
-||kitchen.juicer.cc^
 ||lcs.livedoor.net^
 ||log.codemarketing.cloud^
 ||log.f-tra.com^
@@ -30727,6 +30746,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 !
 !
+||inegolreklam.net^
 ||reklam8.net^
 ||api.adnsafe.org^
 ||tarpitbar.com^
@@ -32885,6 +32905,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||xmzwdgm.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35507,6 +35528,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||ylppppp.cn^
+||mjvmypr.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
