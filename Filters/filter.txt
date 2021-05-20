@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-20T12:07:51.086Z
+! Last modified: 2021-05-20T15:46:08.503Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||ekufogow.xyz^
 ||dolphinanthill.com^
 ||gasijosti.com^
 ||ilyf4amifh.com^
@@ -3912,6 +3913,7 @@ vkcdnservice.appspot.com^
 ||achaithe.com^
 ||achcdn.com^
 ||achedgodroad.com^
+||achievablecpmrevenue.com^
 ||achilles-ena.com^
 ||achinahdh.club^
 ||acidlikenessdejected.com^
@@ -4181,6 +4183,7 @@ vkcdnservice.appspot.com^
 ||almetasteyu.info^
 ||aloeparssabres.com^
 ||aloguerequi.space^
+||aloha-news.net^
 ||aloissentence.pro^
 ||alonghelper.com^
 ||alruqbfjg.com^
@@ -4673,6 +4676,7 @@ vkcdnservice.appspot.com^
 ||besiasmere.site^
 ||best5ex.com^
 ||bestaryua.com^
+||bestcontentaccess.top^
 ||bestcontentfee.top^
 ||bestcontentfund.top^
 ||bestcontenthost.com^
@@ -5605,6 +5609,7 @@ vkcdnservice.appspot.com^
 ||coversaved.club^
 ||coversestri.club^
 ||covetoussyndrome.com^
+||cowardlymissinggranulated.com^
 ||cowbumply.com^
 ||cowerhireimps.com^
 ||coyseyirely.club^
@@ -5910,6 +5915,7 @@ vkcdnservice.appspot.com^
 ||deloplen.com^
 ||deludesobbingdeliberately.com^
 ||delvechoir.com^
+||delveharassment.com^
 ||demand.supply^
 ||demandlateralpoke.com^
 ||demanfon.club^
@@ -8031,6 +8037,7 @@ vkcdnservice.appspot.com^
 ||intendalinetang.com^
 ||intentanalysis.com^
 ||interceptstephen.com^
+||interclics.com^
 ||interdfp.com^
 ||interfacewarrefrain.com^
 ||interferingchauffeurorbit.com^
@@ -9057,6 +9064,7 @@ vkcdnservice.appspot.com^
 ||millennialmedia.com^
 ||millraffle.com^
 ||miltauru.net^
+||mimicbeeralb.com^
 ||mimilcnf.pro^
 ||mimpiphy.net^
 ||minaconfli.top^
@@ -9574,6 +9582,7 @@ vkcdnservice.appspot.com^
 ||nogerefron.info^
 ||noglolra.com^
 ||noiselesscatching.com^
+||noisysortcasualty.com^
 ||nomadpertexcess.com^
 ||nomicidenti.top^
 ||nonerr.com^
@@ -9998,6 +10007,7 @@ vkcdnservice.appspot.com^
 ||padspmz.com^
 ||padsreds.com^
 ||paginw.com^
+||pagne4cham4hrobl.com^
 ||pagnookr.net^
 ||paht.tech^
 ||painfullyneattide.com^
@@ -13123,6 +13133,7 @@ vkcdnservice.appspot.com^
 ||yasmwesikz.com^
 ||yassociallya.club^
 ||yauhbgfc.com^
+||yawcoynag.com^
 ||yb0t.com^
 ||yb7a1bb6k1.com^
 ||ybytexer.xyz^
@@ -16834,6 +16845,7 @@ vkcdnservice.appspot.com^
 ||sportsbetaffiliates.com.au^
 ||squarespace.evyy.net^
 ||squirrels.getsquirrel.co^
+||srv.dynamicyield.com^
 ||static.tradetracker.net^
 ||stats.sitesuite.org^
 ||streaming.rtbiddingplatform.com^
@@ -21682,6 +21694,8 @@ vkcdnservice.appspot.com^
 ||affex.org^
 ! Yesware
 ||t.yesware.com^
+! Marketo tracking (see https://docs.marketo.com/display/public/DOCS/Configure+Protocols+for+Marketo)
+||mkto-*.com^
 
 !
 ! Source name: AdGuard Tracking Protection filter first-party trackers
@@ -22065,6 +22079,7 @@ vkcdnservice.appspot.com^
 ||beacon.tws.toyota.jp^
 ||tr.marsflag.com^
 ||p.gazeta.pl^
+||st.dynamicyield.com^
 ||log.outbrainimg.com^
 ||analytics-udg.netdna-ssl.com^
 ||stats.otempo.com.br^
@@ -22755,6 +22770,7 @@ vkcdnservice.appspot.com^
 ||oimg.nbcuni.com^
 ||analytics.ovh.com^
 ||qos.video.yimg.com^
+||px.dynamicyield.com^
 ||production-eqbc.lvp.llnw.net^
 ||production-mcs.lvp.llnw.net^
 ||pp-serve.newsinc.com^
@@ -23267,8 +23283,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||do-not-tracker.org^
 ||eviltracker.net^
 ||trackersimulator.org^
-!
-! For apps
 ||track.*.roku.com^
 ||traces.sr.roku.com^
 ||analytics.kidoz.net^
@@ -23831,7 +23845,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||doubleclick.net^
 ||driv-analytics.com^
 ||dtxngr.com^
-||dynamicyield.com^
 ||dynatracesaas.com^
 ||eacla.com^
 ||easy-hit-counter.com^
@@ -23969,6 +23982,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||k3node.com^
 ||kameleoon.eu^
 ||kantartns.lt^
+||kaptcha.com^
 ||kaxsdc.com^
 ||keytiles.com^
 ||kickfire.com^
@@ -24401,6 +24415,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! revprotect
 ||pphwrevr.com^
 ! Marketo email tracking domains https://github.com/easylist/easylist/issues/6475
+||mkto-*.com^
 ! Notification servers (Tracking/Fingerprinting users)
 ||accengage.net^
 ||actirinius.com^
@@ -30403,6 +30418,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 !+ NOT_PLATFORM(ios, ext_android_cb, ext_safari)
+||cpm.wargaming.net^
 
 !
 ! Source name: AdGuard Russian filter ad servers first-party
@@ -31245,6 +31261,12 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
+||qnipkk.xyz^
+||luolitang.com^
+||hlstlyy.com^
+||qtd95fj.online^
+||cnzz.991yue.com^
+||hf.soulplp.com^
 ||angryme.cn^
 ||gzhying1.cn^
 ||kebi1.top^
@@ -36165,7 +36187,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hlgglm.com^
 ||hlhulu.com^
 ||hljhufengling.cn^
-||hlstlyy.com^
 ||hmfcyy.com^
 ||hmttoly.com^
 ||hmyangshengji.com^
@@ -37380,11 +37401,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
-! https://github.com/AdguardTeam/AdguardFilters/issues/81939
-@@||support-beacon.nakanohito.jp^|
-@@||support-widget.nakanohito.jp^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/pull/660
-@@||afi-b.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/pull/636
 @@||daikoku.ebis.ne.jp^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/629
@@ -37436,6 +37452,8 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||official.paymaya.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/381
 @@||gs.statcounter.com^|
+! Fixing NordVPN mobile app launching
+@@||launches.appsflyer.com^|
 ! Blocked by exacttarget.com alias
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/333
 @@||click.virt.s*.exacttarget.com^|
