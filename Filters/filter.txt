@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-20T06:06:21.352Z
+! Last modified: 2021-05-20T10:47:43.165Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41,6 +41,7 @@
 ||ethnictyrosky.com^
 ||hardyconflict.com^
 ||wherabygry.com^
+||swinity.com^
 ||diningprefixmyself.com^
 ||roilsnadirink.com^
 ||thousandfixedlyyawn.com^
@@ -443,7 +444,6 @@
 ||whippedfreezerbegun.com^
 ||wokm8isd4zit.com^
 ||passwordslayoutvest.com^
-||adsturn.com^
 ||a.binpartner.com^
 ||discovernative.com^
 ||vamprumbasfear.com^
@@ -17826,6 +17826,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||campaigns-collector.albacross.com^
+||new-collect.albacross.com^
 ||pv.kuaizhan.com^
 ||eventsapi.grocerkey.com^
 ||dc-tag.jp^
@@ -23008,6 +23010,7 @@ vkcdnservice.appspot.com^
 ||logql.yahoo.co.jp^
 ||ybx.yahoo.co.jp^
 ||stats.vidyome.com^
+||collect.albacross.com^
 ||telemetry.allrecipes.com^
 ||pixel.roymorgan.com^
 ||bdg-analytics.appspot.com^
@@ -23790,7 +23793,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||agentanalytics.com^
 ||agrvt.com^
 ||airserve.net^
-||albacross.com^
 ||alpixtrack.com^
 ||amnet.tw^
 ||amplitude.com^
@@ -24856,6 +24858,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.avanser.com.au^
 ||analytics.bigcommerce.com^
 ||analytics.brandcrumb.com^
+||analytics.chegg.com^
 ||analytics.cincopa.com^
 ||analytics.convertlanguage.com^
 ||analytics.cynapse.com^
@@ -31573,6 +31576,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adspectacle.net^
 ||adspirit.net^
 ||adsplash.de^
+||adsturn.com^
 ||adsushi.de^
 ||advendi.de^
 ||advert-layer.de^
@@ -32931,6 +32935,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ||lpsgc.cn^
 ||yi71.com.cn^
+||xuanmingyc.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
