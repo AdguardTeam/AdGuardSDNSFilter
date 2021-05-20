@@ -1,7 +1,11 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/666
+||kaptcha.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/662
+||cpm.wargaming.net^
 ! octafx.com incorrect blocking
 ||octafx.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/645
-||mkto-*.com^
+/^\|\|mkto-[\s\S]*\.com\^/
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/649
 ||hostinger.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/639
