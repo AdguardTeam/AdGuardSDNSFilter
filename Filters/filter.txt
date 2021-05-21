@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-21T06:06:09.838Z
+! Last modified: 2021-05-21T12:07:57.569Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||otlffresod.com^
+||jkgrczjllhq.com^
 ||ekufogow.xyz^
 ||dolphinanthill.com^
 ||gasijosti.com^
@@ -2807,6 +2809,8 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||x2sfa.javgg.eu^
+||xd3r.javgg.eu^
 ||spyglass.octanime.net^
 ||a.teenspirithentai.com^
 ||d1ac2du043ydir.cloudfront.net^
@@ -25844,6 +25848,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trugaze.io^
 ! Romanian
 ||2parale.ro^
+||agorahtag.tech^
 ||pahtag.tech^
 ||profitshare.ro^
 ||retargeting.biz^
@@ -26424,6 +26429,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||refpahrwzjlv.top^
 ||zzxjlr.com^
 ||zargutivisor.info^
 ||nfztms.com^
@@ -30449,6 +30455,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||vast.bazonserver.site^
 ||ads.interfax.ru^
 ||banner.profile.ru^
 ||yad.pandafilms.best^
@@ -31283,6 +31290,10 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
+||mg.listc.cn^
+||mimg.hicooer.cn^
+||mscs.svaeuzh.cn^
+||mc.mmkkhhnn.cn^
 ||qnipkk.xyz^
 ||luolitang.com^
 ||hlstlyy.com^
