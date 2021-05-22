@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-21T18:25:16.097Z
+! Last modified: 2021-05-22T00:19:46.907Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32900,8 +32900,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||listc.cn^
-||soulplp.com^
+||xujingch.com^
+||govchongqing.cn^
+||yinmofun.com^
+||sawadeca.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33783,6 +33785,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lintyone.top^
 ||lisaiservice.top^
 ||lishuanghao.com^
+||listc.cn^
 ||liuwenyan.xyz^
 ||livehapp.com^
 ||lixiaodie.com^
@@ -34060,6 +34063,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||smxsg.com^
 ||snnnyy.com^
 ||so9l.com^
+||soulplp.com^
 ||spcode.baidu.com^
 ||spectram.pro^
 ||spxnet.com^
@@ -34815,7 +34819,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||js.263y.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -35264,6 +35267,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jiyan.net^
 ||jke1.jianke.com^
 ||js.23yy.com^
+||js.263y.com^
 ||js.9136.com^
 ||js.98158.com^
 ||js.jianbihuadq.com^
@@ -35528,8 +35532,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||watchhouse.cn^
-||lzjsjw.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -36538,6 +36540,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lyjz001.com^
 ||lylifa.com^
 ||lzhyhy.cn^
+||lzjsjw.cn^
 ||m06nev.com^
 ||mababa.info^
 ||maicaoren.cn^
@@ -37037,6 +37040,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wangqing7.top^
 ||wannuochongkong.com^
 ||wantezy.cn^
+||watchhouse.cn^
 ||waterincloud.cn^
 ||wbiev.com^
 ||wechatpu.com^
