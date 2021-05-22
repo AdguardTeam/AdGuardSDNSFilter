@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-22T12:07:03.561Z
+! Last modified: 2021-05-22T18:22:59.435Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||psazamajy.pro^
 ||puzzlementevolve.com^
 ||ferociousvirtual.com^
 ||sizeilksohs.com^
@@ -32901,6 +32902,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||ynyyx168.com^
+||51toubu.com^
+||rcyl-uni.com^
+||wysmq.cn^
 ||xujingch.com^
 ||govchongqing.cn^
 ||yinmofun.com^
@@ -35533,6 +35538,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||bostonceltics.com.cn^
 ||xmyejun.cn^
 ||infobbs.xyz^
 ||aixuyoupin.cn^
@@ -35614,7 +35620,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||51foodsafe.cn^
 ||51gpt.com^
 ||51showmy.com^
-||51toubu.com^
 ||51wxyx.cn^
 ||52homie.cn^
 ||52tushuo.com^
