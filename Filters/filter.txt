@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-24T12:17:00.742Z
+! Last modified: 2021-05-24T18:27:23.333Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3955,6 +3955,7 @@ vkcdnservice.appspot.com^
 ||adaranth.com^
 ||adbmi.com^
 ||addictedapartlazy.com^
+||addresseetransportationsyndrome.com^
 ||addressen.club^
 ||addression.club^
 ||adex.media^
@@ -7454,6 +7455,7 @@ vkcdnservice.appspot.com^
 ||goo4anywhere.com^
 ||goofypismica.com^
 ||googlesierai.xyz^
+||goooogle.cloud^
 ||gopejk.com^
 ||gopfltvoiflf.com^
 ||goredi.com^
@@ -7802,6 +7804,7 @@ vkcdnservice.appspot.com^
 ||home-prize-winner-ma2d.live^
 ||home4loans.info^
 ||homelessfunkenclose.com^
+||homemadebarricadedialogue.com^
 ||homesicktitanic.com^
 ||homeyloanedmes.work^
 ||honeycombastrayabound.com^
@@ -10920,6 +10923,7 @@ vkcdnservice.appspot.com^
 ||remiumert.club^
 ||remoteeloise.com^
 ||remultiesbee.fun^
+||renaissanceregretfulpupil.com^
 ||renceriskie.fun^
 ||renormaliseras.xyz^
 ||rentsincrea.top^
@@ -15422,6 +15426,7 @@ vkcdnservice.appspot.com^
 ||ogrfi3uyt7.com^
 ||ohmcasting.com^
 ||ohmwrite.com^
+||okdigital.me^
 ||oldership.com^
 ||ologyarriedpr.info^
 ||olveddel.xyz^
@@ -17794,6 +17799,11 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||bdash-cloud.com^
+||analytics.fs-bdash.com^
+||api.limbik.com^
+||analytics.lekumo.jp^
+||bb.lekumo.jp^
 ||promostats.ru^
 ||growingio.com^
 ||datayi.cn^
@@ -21794,6 +21804,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||appsanalytics.appideas.it^
+||api-adservices.apple.com^
 ||analytics.atlassian.com^
 ||trackdb.go3.tv^
 ||collector.rn.de^
@@ -23402,6 +23414,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||analytics-api.liveapp.com^
 ||log-collector.shopee.
 ||seller-log-collector.shopee.
 ||telemetry.voxeet.com^
@@ -23808,7 +23821,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||baremetrics.com^
 ||baztrack.com^
 ||bc0a.com^
-||bdash-cloud.com^
 ||beaconstreetservices.com^
 ||beampulse.com^
 ||beeftransmission.com^
@@ -23833,6 +23845,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||brilliantcollector.com^
 ||britepool.com^
 ||btloader.com^
+||btncdn.com^
 ||buildkiteanalytics.com^
 ||bunchbox.co^
 ||byside.com^
@@ -26477,6 +26490,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||degjciidgieiaeigecb.ru^
+||jqdnvg.com^
+||mjnxku.com^
 ||rdrctgoweb.com^
 ||zyrji.com^
 ||refpahrwzjlv.top^
@@ -31343,6 +31359,14 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
+||youqunjx.com^
+||koudaiyundong.com^
+||muxingkj.com^
+||yeyemo4.com^
+||3336637.com^
+||3332899.com^
+||tu2.taohuaimg.com^
+||tinychinacdnweb.qiniu.com.w.kunlunno.com^
 ||mimg.hicooer.cn^
 ||mscs.svaeuzh.cn^
 ||mc.mmkkhhnn.cn^
@@ -37503,8 +37527,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
-! https://github.com/AdguardTeam/AdguardFilters/issues/83329
-@@||riotgames.sng.link^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81939
 @@||support-beacon.nakanohito.jp^|
 @@||support-widget.nakanohito.jp^|
