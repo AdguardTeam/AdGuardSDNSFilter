@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-25T19:07:06.184Z
+! Last modified: 2021-05-26T00:26:30.929Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -17248,6 +17248,11 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+! com.kakao.talk
+||adcr.naver.com^
+.ad.kakaocorp.com^$important
+.ad.kakao.com^$important
+!
 ||ad-channel.wikawika.xyz^
 ||media-router-flurry*.yahoo.com^
 ||cads.scalemonk.com^
@@ -25393,7 +25398,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rum.vhwrz.net^
 ||s.beop.io^
 ||s.clickability.com^
-||s.clickiocdn.com^
 ||s3-tracking.synthasite.net.s3.amazonaws.com^
 ||sadv.dadapro.com^
 ||scripts.psyma.com^
@@ -26557,6 +26561,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||clickiocdn.com^
 ||degjciidgieiaeigecb.ru^
 ||jqdnvg.com^
 ||mjnxku.com^
