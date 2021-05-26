@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-26T08:43:06.960Z
+! Last modified: 2021-05-26T12:10:45.320Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||lovelybingo.com^
+||adoptum.net^
 ||combatmootcrucial.com^
 ||declinedisobey.com^
 ||farmcrapsubsist.com^
@@ -17934,6 +17936,7 @@ vkcdnservice.appspot.com^
 ||didna.io^
 ||solutionshindsight.net^
 ||d.wi-fi.ru^
+||simpleanalyticscdn.com^
 ||instapagemetrics.com^
 ||mas.protecmedia.com^
 ||t.rainide.com^
@@ -24389,7 +24392,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sift.com^
 ||signifyd.com^
 ||simpleanalytics.io^
-||simpleanalyticscdn.com^
 ||simpleheatmaps.com^
 ||siteanaliz.org^
 ||sitedataprocessing.com^
@@ -26582,6 +26584,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||mhjcpn.com^
 ||clickiocdn.com^
 ||degjciidgieiaeigecb.ru^
 ||jqdnvg.com^
