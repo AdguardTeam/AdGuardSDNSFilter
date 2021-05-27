@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-27T06:32:13.387Z
+! Last modified: 2021-05-27T12:20:26.272Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||dwomentt.biz^
+||tillatingmer.fun^
+||colorfulads.com^
 ||prod.entry.video-ads.a2z.com^
 ||lovelybingo.com^
 ||adoptum.net^
@@ -27,6 +30,8 @@
 ||linkedgraceless.com^
 ||mewyrytu.com^
 ||plqbxvnjxq92.com^
+||mogybapty.pro^
+||kuludelo.com^
 ||psazamajy.pro^
 ||puzzlementevolve.com^
 ||parkcircularpearl.com^
@@ -2832,6 +2837,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||centent.streanplay.cc^
 ||x2sfa.javgg.eu^
 ||xd3r.javgg.eu^
 ||spyglass.octanime.net^
@@ -17859,6 +17865,8 @@ vkcdnservice.appspot.com^
 ||visilabs.com^
 ||visilabs.net^
 !
+||log.codemarketing.cloud^
+||tracker.relaido.jp^
 ||bdash-cloud.com^
 ||analytics.fs-bdash.com^
 ||api.limbik.com^
@@ -26299,7 +26307,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||imgstat.ameba.jp^
 ||ip2c.landscape.co.jp^
 ||lcs.livedoor.net^
-||log.codemarketing.cloud^
 ||log.f-tra.com^
 ||omt.shinobi.jp^
 ||ranking.apis.sankei-digital.co.jp^
@@ -26555,6 +26562,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||afp.ai^
+||bro1.biz^
 ||bfafhm.com^
 ||mhjcpn.com^
 ||clickiocdn.com^
@@ -31236,7 +31245,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mobee2.jp^
 ||mttag.com^
 ||preaf.jp^
-||cdn.relaido.jp^
 ||widget.cybershop-affiliate.jp^
 ||ad-arrow.com^
 ||img-c.net^
@@ -35661,6 +35669,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||yufuyan.cn^
 ||1001lab.top^
 ||jsshuiyuan.com^
 ||01tn.cn^
