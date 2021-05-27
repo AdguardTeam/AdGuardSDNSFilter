@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-26T18:46:17.521Z
+! Last modified: 2021-05-27T00:28:22.248Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -35691,10 +35691,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||zhangyiqian.top^
-||shengshipump.cn^
-||bjsjyg.cn^
-||zhiboiot.cn^
+||1001lab.top^
+||jsshuiyuan.com^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -35977,6 +35975,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bjmxcy.cn^
 ||bjpengyouhui.com^
 ||bjqftcty.com^
+||bjsjyg.cn^
 ||bjtengda.cn^
 ||bjygfd.com^
 ||bjzcbx.com^
@@ -37008,6 +37007,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||shengchaopiao.cn^
 ||shengdaoyiliao.com^
+||shengshipump.cn^
 ||shenhao258.top^
 ||shenhuachuwei.cn^
 ||shenyunkeji.com^
@@ -37458,10 +37458,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zgsxhx.com^
 ||zhangdujia.com^
 ||zhangshiyuan.com^
+||zhangyiqian.top^
 ||zhanjiangletian.com^
 ||zhanlan5.cn^
 ||zhekoudajie.com^
 ||zhengzhoupengbo.com^
+||zhiboiot.cn^
 ||zhide-edu.cn^
 ||zhinengcd.cn^
 ||zhipinbook.cn^
