@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-28T00:32:10.383Z
+! Last modified: 2021-05-28T06:52:37.520Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6889,6 +6889,7 @@ vkcdnservice.appspot.com^
 ||fadvindictive.com^
 ||fagaxesea.com^
 ||faggrim.com^
+||fagywalu.pro^
 ||fahimpace.pro^
 ||faidoud.com^
 ||faigroas.net^
@@ -10062,6 +10063,7 @@ vkcdnservice.appspot.com^
 ||owlsyumducal.com^
 ||owncutone.com^
 ||owsvolksk.space^
+||oxharmonysample.com^
 ||oxqxopomikpqk.com^
 ||oxrywhblvy.com^
 ||oxtowerbus.club^
@@ -16581,6 +16583,7 @@ vkcdnservice.appspot.com^
 ||voodoo.com^
 ||vungle.com^
 ||vupulse.com^
+||vuukle.com^
 ||w00tmedia.net^
 ||waytogrow.eu^
 ||webads.co.nz^
@@ -35677,10 +35680,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||taishijian.com^
-||yufuyan.cn^
-||1001lab.top^
-||jsshuiyuan.com^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -35707,6 +35706,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||0921vch.xyz^
 ||0928vld.xyz^
 ||0ij3tm.com^
+||1001lab.top^
 ||1005fdh.xyz^
 ||104610.com^
 ||114com.cc^
@@ -36548,6 +36548,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jskang.cn^
 ||jsku.cc^
 ||jsku.info^
+||jsshuiyuan.com^
 ||jssumei.cn^
 ||jsszxx.com^
 ||jstdjq.com^
@@ -37083,6 +37084,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t3s9j.xyz^
 ||tabyee.cn^
 ||taikangshenyuan.com^
+||taishijian.com^
 ||tajxgs.com^
 ||taobaocoupon.cn^
 ||taomochou.cn^
@@ -37401,6 +37403,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yuanqitu.com^
 ||yueduyy.com^
 ||yueyuelao.cn^
+||yufuyan.cn^
 ||yuhuanjiuye.com^
 ||yun-pdm2000.cn^
 ||yun-pdm5000.cn^
