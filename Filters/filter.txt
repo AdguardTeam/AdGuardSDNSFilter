@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-30T12:28:37.411Z
+! Last modified: 2021-05-30T19:05:57.012Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,12 +18,18 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||correspondencecellularstudious.com^
+||departgross.com^
+||inheritedgeneralrailroad.com^
+||jawholeminable.com^
+||picturesquebutcompassionate.com^
+||sodamash.com^
+||adscok.com^
 ||vliplatform.com^
 ||bankingconcede.com^
 ||leanerbivouac.cam^
 ||wagedsoutane.com^
 ||cherishdraggedinspired.com^
-||poasotha.com^
 ||insolencemanipulative.com^
 ||praiserevision.com^
 ||sippansy.com^
@@ -70,7 +76,6 @@
 ||adc.streamspread.com^
 ||aftjohnanodes.com^
 ||melinaeability.casa^
-||hgzuqrtzt.com^
 ||jonasahalockup.com^
 ||fopushegi.com^
 ||fogsham.com^
@@ -157,7 +162,6 @@
 ||beliefindefinite.com^
 ||luglestowha.pro^
 ||devozuyu.xyz^
-||dzupi9b81okew.cloudfront.net^
 ||magicianoptimisticbeard.com^
 ||monthlyindirectelsewhere.com^
 ||guvivqlbh.com^
@@ -923,7 +927,6 @@
 ||zyxzzz.xyz^
 ||pvrnqpgvbucif.com^
 ||bitsads.xyz^
-||fixchidie.com^
 ||ewerhodub.com^
 ||asewlfjqwlflkew.com^
 ||repruggob.com^
@@ -1989,7 +1992,6 @@ www.llllllllllll.net^
 ||bitvertise.io^
 ||coinverti.com^
 ||parlaka.com^
-||bullads.net^
 ||attenhance.com
 ||langtzet.info^
 ||fm6dz864.top^
@@ -2850,6 +2852,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||d1a3jb5hjny5s4.cloudfront.net^
 ||centent.streanplay.cc^
 ||x2sfa.javgg.eu^
 ||xd3r.javgg.eu^
@@ -4961,6 +4964,7 @@ vkcdnservice.appspot.com^
 ||bukash2jf8jfpw09.com^
 ||bulbsanctify.com^
 ||bulgingfranklyphrase.com^
+||bullads.net^
 ||bulldogdemocracy.com^
 ||bulletfeedspy.com^
 ||bulletindualpartial.com^
@@ -7065,6 +7069,7 @@ vkcdnservice.appspot.com^
 ||firstlightera.com^
 ||fistcartyped.casa^
 ||fitfulrigorous.com^
+||fixchidie.com^
 ||fixedlyuncoveradjoin.com^
 ||fixpass.net^
 ||fixproteinnotch.com^
@@ -7775,6 +7780,7 @@ vkcdnservice.appspot.com^
 ||hghit.com^
 ||hghm4u7b61.com^
 ||hgyvbfmffvmho.com^
+||hgzuqrtzt.com^
 ||hhit.xyz^
 ||hhunvu.com^
 ||hiasor.com^
@@ -10390,6 +10396,7 @@ vkcdnservice.appspot.com^
 ||pnmoclqxtcsbw.com^
 ||pnrblholty.com^
 ||poacawhe.net^
+||poasotha.com^
 ||pobliba.info^
 ||pockhopatone.com^
 ||pocrowpush.com^
@@ -16904,6 +16911,7 @@ vkcdnservice.appspot.com^
 ||dvc8653ec6uyk.cloudfront.net^
 ||dvt4pepo9om3r.cloudfront.net^
 ||dynamicserving.com^
+||dzupi9b81okew.cloudfront.net^
 ||eblastengine.upickem.net^
 ||engine.eroge.com^
 ||entitlements.jwplayer.com^
@@ -33097,6 +33105,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||lvylv.cn^
+||liulanliang.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35747,6 +35757,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||pjlcrab.top^
 ||jingzekeji.com^
 ||01tn.cn^
 ||027whht.com^
