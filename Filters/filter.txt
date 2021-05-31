@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-31T12:34:29.607Z
+! Last modified: 2021-05-31T19:27:09.012Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||tronglyre.club^
 ||cryptotraffic.xyz^
 ||exru.website^
 ||correspondencecellularstudious.com^
@@ -696,7 +697,6 @@
 ||mopedisods.com^
 ||get.mypdf-search.com^
 ||adex.sato.my.id^
-||ledmophemp.com^
 ||makuzeko.xyz^
 ||joggingavenge.com^
 ||fdbtvavxtfvpbx.com^
@@ -8680,6 +8680,7 @@ vkcdnservice.appspot.com^
 ||leavilysover.site^
 ||lebkeresxa.ml^
 ||ledhatbet.com^
+||ledmophemp.com^
 ||leeryabdomencares.com^
 ||leerymeasurejam.com^
 ||leftenvoy.com^
@@ -9663,6 +9664,7 @@ vkcdnservice.appspot.com^
 ||ngtablishbol.top^
 ||ngudjtrdcfwwn.com^
 ||ngumyydbupv.com^
+||nhnuofzjh.com^
 ||nhqxzqvkj.com^
 ||nhrivytyo.com^
 ||nhynbqdf.com^
@@ -13293,6 +13295,7 @@ vkcdnservice.appspot.com^
 ||xixlgtczn.com^
 ||xizupsawo.pro^
 ||xjngxaij.com^
+||xkipnbabzbmwmr.com^
 ||xknnubcqaa.com^
 ||xkpbcd.com^
 ||xkxddhpx.com^
@@ -17975,6 +17978,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||track.list-finder.jp^
+||inaftracker.com^
 ||log.codemarketing.cloud^
 ||tracker.relaido.jp^
 ||bdash-cloud.com^
@@ -26691,6 +26696,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||qntihf.com^
+||mlgrtn.com^
+||big6q4y2oy.ru^
 ||muzhskoy.xyz^
 ||turkish-ru.ru^
 ||r0wa9z6t8t.ru^
@@ -35822,6 +35830,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stunninglover.com^
 ||watakaw133.xyz^
 ||aitehao.top^
+||t1g2.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
