@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-31T00:52:18.533Z
+! Last modified: 2021-05-31T07:13:02.151Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||cryptotraffic.xyz^
 ||exru.website^
 ||correspondencecellularstudious.com^
 ||departgross.com^
@@ -3587,6 +3588,7 @@ vkcdnservice.appspot.com^
 ||50trk.com^
 ||51189fb815.com^
 ||517pn6he9p5r.com^
+||526f81c32d.com^
 ||52ddc254575a.com^
 ||538b5d8f303be.com^
 ||54ca10abaa788.com^
@@ -4000,6 +4002,7 @@ vkcdnservice.appspot.com^
 ||admiriam.club^
 ||admitteepom.club^
 ||admob.com^
+||adoglu.com^
 ||adoperatorx.com^
 ||adopexchange.com^
 ||adornmadeup.com^
@@ -4284,6 +4287,7 @@ vkcdnservice.appspot.com^
 ||announcils.club^
 ||announcilsd.info^
 ||anomaloustradingmerciful.com^
+||anonolpucka.com^
 ||anotherconsult.com^
 ||anothingahy.club^
 ||anothingerg.club^
@@ -9029,6 +9033,7 @@ vkcdnservice.appspot.com^
 ||meantlick.com^
 ||measurefact.com^
 ||meawuerhvjmty.com^
+||meboayapb.com^
 ||mechanicsearnestobjections.com^
 ||medcourthe.fun^
 ||medcovern.club^
@@ -9663,6 +9668,7 @@ vkcdnservice.appspot.com^
 ||nityannoun.top^
 ||nitytolearnan.biz^
 ||nixyoungjay.com^
+||njfqnenfifdy.com^
 ||njmkilpqzibv.com^
 ||njzheqkcyr.com^
 ||nk26uvjrz0tt.com^
@@ -9939,6 +9945,7 @@ vkcdnservice.appspot.com^
 ||omniappz.com^
 ||omoaxaus.net^
 ||omshedinjaor.com^
+||omyourfir.club^
 ||oncersshartsh.fun^
 ||oncfnary.com^
 ||onclickalgo.com^
@@ -10684,6 +10691,7 @@ vkcdnservice.appspot.com^
 ||pusharest.com^
 ||pushebrod.com^
 ||pushego.com^
+||pushfan.com^
 ||pushfullimitsdrunken.com^
 ||pushinpage.com^
 ||pushisbest.com^
@@ -12675,6 +12683,7 @@ vkcdnservice.appspot.com^
 ||vcdc.com^
 ||vcfnspbgztl.com^
 ||vcommission.com^
+||vcpcvmfnocsfay.com^
 ||vcwrigdrnh.com^
 ||vebadu.com^
 ||vedcouragin.info^
@@ -25231,6 +25240,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dlvkf5067xruv.cloudfront.net^
 ||dn34cbtcv9mef.cloudfront.net^
+||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
 ||drlimmode9ddd.cloudfront.net^
@@ -32276,8 +32286,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 May 2021 16:01 UTC+7
-! Version: 2105281601
+! Last modified: 31 May 2021 14:05 UTC+7
+! Version: 2105311405
 ! Blocked: 865 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -33104,8 +33114,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||lvylv.cn^
-||liulanliang.cn^
+||ylfgybn.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33997,6 +34006,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lisaiservice.top^
 ||lishuanghao.com^
 ||listc.cn^
+||liulanliang.cn^
 ||liuwenyan.xyz^
 ||livehapp.com^
 ||lixiaodie.com^
@@ -34016,6 +34026,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lu.sogoucdn.com^
 ||luoyuanedu.cn^
 ||lvt1980.cn^
+||lvylv.cn^
 ||lyadu.com^
 ||lyaeccn.com^
 ||lyjiuban.com^
@@ -35479,6 +35490,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jb.dianshu119.com^
 ||jb.ecar168.cn^
 ||jc1.dayfund.cn^
+||jc1.dayfund.com.cn^
 ||jddaw.com^
 ||jiaoben.eastday.com^
 ||jiaoben.ganji.cn^
@@ -35756,8 +35768,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||pjlcrab.top^
-||jingzekeji.com^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -36592,6 +36602,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jingxiangyalvji.cn^
 ||jingyazhuangshi.com^
 ||jingyuzuo.top^
+||jingzekeji.com^
 ||jinkelai66.com^
 ||jinliaoyang.com^
 ||jinlubaojie.cn^
@@ -36947,6 +36958,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pingyuanshenghuo.cn^
 ||pinkmore.cn^
 ||pjbjzf.com^
+||pjlcrab.top^
 ||pkbook.com.cn^
 ||pkyxdwj.cn^
 ||plerv.com^
