@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-05-30T19:05:57.012Z
+! Last modified: 2021-05-31T00:52:18.533Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||exru.website^
 ||correspondencecellularstudious.com^
 ||departgross.com^
 ||inheritedgeneralrailroad.com^
@@ -17587,7 +17588,7 @@ vkcdnservice.appspot.com^
 ||ads.mobilefuse.net^
 ||ads.mobilityware.com^
 ||ads.mobvertising.net^
-||ads.mopub.com^
+||mopub.com^
 ||ads.n-ws.org^
 ||ads.ookla.com^
 ||ads.pdbarea.com^
@@ -17753,7 +17754,6 @@ vkcdnservice.appspot.com^
 ||mobzver.ru^
 ||mofox.com^
 ||mologiq.net^
-||mpx.mopub.com^
 ||mtburn.jp^
 ||mxttrf.com^
 ||mydas.mobi^
@@ -23737,7 +23737,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||amp-error-reporting.appspot.com^
 ||analytics-server.gimbal.com^
 ||analytics.mobile.yandex.net^
-||analytics.mopub.com^
 ||analyzer.omniata.com^
 ||andmlb.kshwtj.com^
 ||api-analytics-bootstrap.metaps.com^
