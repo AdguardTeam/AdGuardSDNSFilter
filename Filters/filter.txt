@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-01T07:32:13.755Z
+! Last modified: 2021-06-01T12:41:00.803Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||jawsfixture.com^
 ||tronglyre.club^
 ||cryptotraffic.xyz^
 ||exru.website^
@@ -136,7 +137,6 @@
 ||ecjkroklyxvod.com^
 ||tluumnjyrc.com^
 ||thingrealtape.com^
-||all-ti-cod.com^
 ||misguidedstork.com^
 ||knittedcourthouse.com^
 ||ursegreatm.fun^
@@ -2859,6 +2859,8 @@ www.llllllllllll.net^
 ||x2sfa.javgg.eu^
 ||xd3r.javgg.eu^
 ||spyglass.octanime.net^
+||ad.aceplanet.co.kr^
+||ad.phaserep.com^
 ||a.teenspirithentai.com^
 ||d1ac2du043ydir.cloudfront.net^
 ||tontent.pouvideo.cc^
@@ -4200,6 +4202,7 @@ vkcdnservice.appspot.com^
 ||alfatraffic.com^
 ||aliencesuffe.top^
 ||alignclamstram.com^
+||all-ti-cod.com^
 ||all2cnjuh34jb.com^
 ||allanetmilean.club^
 ||allartand.club^
@@ -12041,9 +12044,7 @@ vkcdnservice.appspot.com^
 ||tacklesuggestindoors.com^
 ||tadsitblimp.com^
 ||tagbom.com^
-||tagdatax.com^
 ||taghaugh.com^
-||tagstaticx.com^
 ||taifouwo.com^
 ||takeslobsgel.com^
 ||talentropes.com^
@@ -17371,6 +17372,7 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^$important
 .ad.kakao.com^$important
 !
+||tradplusad.com^
 ||ad-channel.wikawika.xyz^
 ||media-router-flurry*.yahoo.com^
 ||cads.scalemonk.com^
@@ -17979,6 +17981,10 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||pbjs.sskzlabs.com^
+||mediarithmics.com^
+||ivitrack.com^
+||prisma-tr.prismamedia.com^
 ||track.list-finder.jp^
 ||inaftracker.com^
 ||log.codemarketing.cloud^
@@ -20963,6 +20969,7 @@ vkcdnservice.appspot.com^
 ! Admiral domains
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
+||livelylaugh.com^
 ||hystericalcloth.com^
 ||caringcast.com^
 ||selfishsnake.com^
@@ -21995,6 +22002,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||fly.ohmymag.com^
+||fly.gentside.com^
 ||tr.namu.wiki^
 ||datalytics.utair.io^
 ||appsanalytics.appideas.it^
@@ -24316,7 +24325,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||measured.com^
 ||media01.eu^
 ||mediaglacier.com^
-||mediarithmics.com^
 ||mediaweaver.jp^
 ||megastats.net^
 ||memo.co^
@@ -24551,7 +24559,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sumome.com^
 ||surefire.link^
 ||synerise.com^
+||tagdatax.com^
 ||tagmngrs.com^
+||tagstaticx.com^
 ||tamgrt.com^
 ||taplytics.com^
 ||taskanalytics.com^
@@ -25908,7 +25918,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||getjad.io^
 ||goutee.top^
 ||hunkal.com^
-||ivitrack.com^
 ||kdata.fr^
 ||lead-analytics.biz^
 ||mb-srv.com^
@@ -33177,6 +33186,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||sharonyean.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35831,6 +35841,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||imgxb.top^
+||652696.com^
+||nnsbbd.com^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
