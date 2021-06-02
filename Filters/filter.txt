@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-01T20:14:01.337Z
+! Last modified: 2021-06-02T01:09:33.914Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -23624,6 +23624,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||logupdate.avlyun.sec.miui.com^
+||log.avlyun.sec.intl.miui.com^
+||log.avlyun.com^
 ||api-analytics.prod.birdapp.com^
 ||umengcloud.com.gds.alibabadns.com^
 ||umeng.com.gds.alibabadns.com^
@@ -23867,7 +23870,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.droid4x.cn^
 ||log.umsns.com^
 ||logger.ntracecloud.com^
-||logupdate.avlyun.sec.miui.com^
 ||metrics.bestbuy.com^
 ||metrics.macys.net^
 ||metrics.sdkbox.com^
@@ -33192,7 +33194,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||sharonyean.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -34324,6 +34325,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shama5.com^
 ||shannon-porject.com^
 ||sharedaddomain.com^
+||sharonyean.com^
 ||sharrysweb.com^
 ||shcy3.com^
 ||shengyaxd.com^
@@ -35132,6 +35134,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||by.dyq.cn^
+||da.daji.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -35847,9 +35851,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||imgxb.top^
-||652696.com^
-||nnsbbd.com^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -35953,6 +35954,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||627sf.cn^
 ||62wm.com^
 ||64si.com^
+||652696.com^
 ||66993.top^
 ||66cn.com^
 ||6789.run^
@@ -36635,6 +36637,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ihhii.xyz^
 ||iibahmd.cn^
 ||iigushi.com^
+||imgxb.top^
 ||imiek.com^
 ||increased.cn^
 ||indiebuff.cn^
@@ -36975,6 +36978,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nmlhkj.com^
 ||nmqdnykj.com^
 ||nmtouzi.com^
+||nnsbbd.com^
 ||nongfumg.com^
 ||nosensor.cn^
 ||nouzhu.cn^
