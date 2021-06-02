@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-02T12:42:21.425Z
+! Last modified: 2021-06-02T20:11:33.690Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||arecunamacaw.com^
+||ancienslogoi.com^
 ||lionquerychord.com^
 ||jawsfixture.com^
 ||tronglyre.club^
@@ -312,7 +314,6 @@
 ||praterswhally.com^
 ||ashtraysophomore.com^
 ||bypathaivr.com^
-||remusclerait.xyz^
 ||haradeiu.rocks^
 ||ledslevier.com^
 ||cupmidnithe.com^
@@ -11060,6 +11061,7 @@ vkcdnservice.appspot.com^
 ||remiumert.club^
 ||remoteeloise.com^
 ||remultiesbee.fun^
+||remusclerait.xyz^
 ||renaissanceregretfulpupil.com^
 ||renceriskie.fun^
 ||renormaliseras.xyz^
@@ -17992,6 +17994,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||reingod.com^
 ||pbjs.sskzlabs.com^
 ||mediarithmics.com^
 ||ivitrack.com^
@@ -26717,6 +26720,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||uvpzll.com^
+||ghjnpy.com^
 ||www-orbit-promo.ru^
 ||qntihf.com^
 ||mlgrtn.com^
@@ -31363,6 +31368,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||sokmil-ad.com^
+||ads-connect.com^
 ||affiliate.sonicsense.jp^
 ||daotag.com^
 ||ads.museum.or.jp^
@@ -31453,7 +31460,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||js.blozoo.info^
 ||xxxxxxxx.jp^
 ||act1-1.info^
-||ads-connect.com^
 ||blogroll.livedoor.net^
 ||dis.hogei.info^
 ||tokyo-tube-ad.com^
@@ -33193,6 +33199,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||yqgjq.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35854,6 +35861,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||888lianmeng.com^
 ||wetips.cn^
 ||xmcs99888.cn^
+||sydswxx.com^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
