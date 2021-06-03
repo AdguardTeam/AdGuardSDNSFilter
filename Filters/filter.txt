@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-03T07:15:16.342Z
+! Last modified: 2021-06-03T12:28:54.087Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||sorrowfulchemical.com^
+||nonestolesantes.com^
+||joyhaftsyears.com^
 ||arecunamacaw.com^
 ||ancienslogoi.com^
 ||lionquerychord.com^
@@ -5093,6 +5096,7 @@ vkcdnservice.appspot.com^
 ||camprime.com^
 ||camsitecash.com^
 ||camzap.com^
+||canalprone.com^
 ||canonch.pro^
 ||canyboysho.info^
 ||cap-cap-pop.com^
@@ -5810,6 +5814,7 @@ vkcdnservice.appspot.com^
 ||culmjysalt.com^
 ||culreelt.com^
 ||culttolerant.com^
+||culturalmissionary.com^
 ||cultwithough.info^
 ||cumgfzvm.com^
 ||cupidonmedia.com^
@@ -7630,6 +7635,7 @@ vkcdnservice.appspot.com^
 ||grooptie.com^
 ||growltoe.com^
 ||grownuplieutenant.com^
+||grownupsheepurban.com^
 ||grtexch.com^
 ||grtyj.com^
 ||grudgeslylonging.com^
@@ -8786,6 +8792,7 @@ vkcdnservice.appspot.com^
 ||ljecur.com^
 ||lk1mft33pj2f.com^
 ||lkddksjgih.com^
+||lkdvvxvtsq6o.com^
 ||lkiiwoxjfovcga.com^
 ||lknbffkv.com^
 ||lkskkssuoa.com^
@@ -8855,6 +8862,7 @@ vkcdnservice.appspot.com^
 ||lowancein.club^
 ||loweredabhorrenceproposed.com^
 ||lowestpendulousdistract.com^
+||lowlifebadly.com^
 ||loxbeelid.com^
 ||loyalinvadeballoon.com^
 ||lplesacciner.top^
@@ -9220,6 +9228,7 @@ vkcdnservice.appspot.com^
 ||milkytarcub.com^
 ||millagesert.info^
 ||millennialmedia.com^
+||milligraminstructionundesirable.com^
 ||millraffle.com^
 ||miltauru.net^
 ||mimicbeeralb.com^
@@ -9227,6 +9236,7 @@ vkcdnservice.appspot.com^
 ||mimpiphy.net^
 ||minaconfli.top^
 ||minardict.pro^
+||mindactual.com^
 ||minently.com^
 ||mineraldoubte.club^
 ||mineralscreamrobes.com^
@@ -12123,6 +12133,7 @@ vkcdnservice.appspot.com^
 ||televeniesuc.pro^
 ||telllwrite.com^
 ||tellshower.com^
+||tellslipstick.com^
 ||telwrite.com^
 ||temphilltop.com^
 ||temposnitehah.work^
@@ -17994,6 +18005,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||log.ma-jin.jp^
 ||reingod.com^
 ||pbjs.sskzlabs.com^
 ||mediarithmics.com^
@@ -32371,9 +32383,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 31 May 2021 14:05 UTC+7
-! Version: 2105311405
-! Blocked: 865 rules
+! Last modified: 03 Jun 2021 14:20 UTC+7
+! Version: 2106031420
+! Blocked: 866 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33189,6 +33201,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sacchaeleduk.com^
 ||smilitygorb.club^
 ||tammenaa.com^
+||thseaeing.fun^
 ||ucesreferre.club^
 ||vongquaymienphi.net^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
