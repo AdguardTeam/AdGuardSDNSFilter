@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-04T07:36:51.537Z
+! Last modified: 2021-06-04T12:45:55.312Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||adroitreclineinquisitive.com^
 ||adxplay.com^
 ||top-performance.top^
 ||pallorvain.com^
@@ -3109,6 +3110,7 @@ www.llllllllllll.net^
 ||ap.delfi.ee^
 ||ado.delfi.ee^
 ||widget.tippebannere.no^
+! https://github.com/AdguardTeam/AdguardFilters/issues/37023
 ||kaprila.com^
 ||sabavision.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/5103
@@ -17984,6 +17986,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||count.webstatistik-bw.de^
 ||log.ma-jin.jp^
 ||reingod.com^
 ||pbjs.sskzlabs.com^
@@ -23969,6 +23972,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ablsrv.com^
 ||abtrcking.com^
 ||abtshield.com^
+||accdab.net^
 ||acceptableserver.com^
 ||acsbap.com^
 ||acuityplatform.com^
@@ -24648,7 +24652,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||visx.net^
 ||volantix.com^
 ||vprza.com^
-||vuukle.com^
 ||walmeric.com^
 ||wbdx.fr^
 ||wdfl.co^
@@ -33192,6 +33195,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||knja123.top^
+||ojbknb.com^
+||michael31lin.com^
+||liuchengming.com^
+||aifu-pay.com^
+||zhimengweike.com^
+||nnsbbd.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35852,6 +35862,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||lscckgm.cn^
+||355262.com^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -36984,7 +36996,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nmlhkj.com^
 ||nmqdnykj.com^
 ||nmtouzi.com^
-||nnsbbd.com^
 ||nongfumg.com^
 ||nosensor.cn^
 ||nouzhu.cn^
