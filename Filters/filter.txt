@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-06T12:28:38.483Z
+! Last modified: 2021-06-06T18:49:31.829Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||equipmentshorterradiation.com^
+||losingfoundation.com^
 ||t0gju20fq34i.com^
 ||calamityfortuneaudio.com^
 ||accompanimentcouldsurprisingly.com^
@@ -150,10 +152,8 @@
 ||gropsyruty.com^
 ||hootersavour.com^
 ||adsterra.org^
-||c43a3cd8f99413891.com^
 ||ecjkroklyxvod.com^
 ||tluumnjyrc.com^
-||thingrealtape.com^
 ||misguidedstork.com^
 ||knittedcourthouse.com^
 ||ursegreatm.fun^
@@ -5051,6 +5051,7 @@ vkcdnservice.appspot.com^
 ||c15fb199d1ea.com^
 ||c26e9ccd4e063b.com^
 ||c3t-system-err.club^
+||c43a3cd8f99413891.com^
 ||c50021876c67fd14.com^
 ||c5943a5d7085.com^
 ||c5b39ff13b3259df.com^
@@ -12235,6 +12236,7 @@ vkcdnservice.appspot.com^
 ||thighiny.com^
 ||thimoaph.net^
 ||thinazuthy.pro^
+||thingrealtape.com^
 ||thinnerlessenfounded.com^
 ||third-tracking.com^
 ||thirgoad.top^
