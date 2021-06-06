@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-05T18:50:05.831Z
+! Last modified: 2021-06-06T00:32:14.322Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -34965,6 +34965,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cmm.xmfish.com^
 ||cp2.eastmoney.com^
 ||cpm.cm.kankan.com^
+||css.huvmi.com^
 ||d-test.39.net^
 ||d0.xcar.com.cn^
 ||d1.3158.cn^
@@ -35141,7 +35142,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||css.huvmi.com^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
@@ -35879,7 +35879,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||nmrlx.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -37013,6 +37012,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nlyjs2015.com^
 ||nmlhkj.com^
 ||nmqdnykj.com^
+||nmrlx.cn^
 ||nmtouzi.com^
 ||nongfumg.com^
 ||nosensor.cn^
