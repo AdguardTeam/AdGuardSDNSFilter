@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-06T18:49:31.829Z
+! Last modified: 2021-06-07T00:31:56.825Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9499,6 +9499,7 @@ vkcdnservice.appspot.com^
 ||musicaldurabledays.com^
 ||musicnote.info^
 ||musicrebuild.com^
+||musicvideoz.biz^
 ||mustardlearnfourteenth.com^
 ||mustwaste.com^
 ||mutary.com^
@@ -10574,6 +10575,7 @@ vkcdnservice.appspot.com^
 ||pragment.club^
 ||prankmechanics.com^
 ||prayuserparka.com^
+||pre4sentre8dhf.com^
 ||preadyaggrego.club^
 ||precautionbuoy.com^
 ||precisetackle.com^
@@ -15682,6 +15684,7 @@ vkcdnservice.appspot.com^
 ||onwsys.net^
 ||oodraune.com^
 ||oodsotso.com^
+||oogala.com^
 ||oopt.fr^
 ||oorseest.net^
 ||oos4l.com^
@@ -33251,9 +33254,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||292812.com^
-||899792.com^
-||yunchong6.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33321,6 +33321,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||280dp.com^
 ||28acglz.com^
 ||28wangmeng.com^
+||292812.com^
 ||293870.com^
 ||29wjns.com^
 ||2d-c.cn^
@@ -33434,6 +33435,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||8881919.cc^
 ||88rpg.net^
 ||892155.com^
+||899792.com^
 ||89h8.com^
 ||8ao8ao.com^
 ||8hdp.cn^
@@ -34791,6 +34793,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yuggcd.com^
 ||yujiangchu.com^
 ||yule8.net^
+||yunchong6.cn^
 ||yunmowu.com^
 ||yunrong360.com^
 ||yunsoka.com^
@@ -35923,9 +35926,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||gxmbr.cn^
-||oyknmi.cn^
-||renyantian.top^
+||833761.com^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -36580,6 +36581,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gxfc2021.top^
 ||gxklsftz.cn^
 ||gxkyl.com^
+||gxmbr.cn^
 ||gybdtg.com^
 ||gycy2.com^
 ||gyeet.com^
@@ -37105,6 +37107,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||oycslia.xyz^
 ||oycslib.xyz^
 ||oycslic.xyz^
+||oyknmi.cn^
 ||p0pm5z.cn^
 ||panwenjun.top^
 ||pbbgfsm.cn^
@@ -37208,6 +37211,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||renfas.com^
 ||renrentoutiao.cn^
 ||renshengyiyi.com^
+||renyantian.top^
 ||represented.cn^
 ||requested.cn^
 ||rfese.com^
