@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-08T06:19:15.353Z
+! Last modified: 2021-06-08T12:06:41.319Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||yiopse.com^
+||copperpolygraphforthwith.com^
+||tiltgardenheadlight.com^
 ||appstreamsb.xyz^
 ||urlhausa.com^
 ||equipmentshorterradiation.com^
@@ -503,8 +506,6 @@
 ||quenchskirmishcohere.com^
 ||releasedverge.com^
 ||ruthcraveastray.com^
-||sevenedgesteve.com^
-||shockingstrategynovelty.com^
 ||shriekdestitute.com^
 ||silklanguish.com^
 ||themoneytizer.net^
@@ -709,7 +710,6 @@
 ||balebunsob.com^
 ||reoxclick.com^
 ||popcornews.me^
-||mopedisods.com^
 ||get.mypdf-search.com^
 ||adex.sato.my.id^
 ||makuzeko.xyz^
@@ -938,7 +938,6 @@
 ||zeqad.com^
 ||dsdsde.xyz^
 ||crocopop.com^
-||dlfvgndsdfsn.com^
 ||hanacbclbrdjon.com^
 ||zyxzzz.xyz^
 ||pvrnqpgvbucif.com^
@@ -3385,6 +3384,7 @@ vkcdnservice.appspot.com^
 ||12xlwin6a.net^
 ||13190546cd1dec9bbdc.com^
 ||13vm73vbmp.com^
+||148dfe140d0f3d5e.com^
 ||14nuzznszbdp.com^
 ||153105c2f9564.com^
 ||153250f052d.com^
@@ -5156,6 +5156,7 @@ vkcdnservice.appspot.com^
 ||casterpretic.com^
 ||castplatform.com^
 ||catastrophetray.com^
+||catbeardx.com^
 ||catchinemuj.club^
 ||catchynerves.com^
 ||catherineembankmentbouquet.com^
@@ -6137,6 +6138,7 @@ vkcdnservice.appspot.com^
 ||digressremarkableconfide.com^
 ||diitlm.com^
 ||dilateneedybeyond.com^
+||dilemmatryingless.com^
 ||dilruwha.net^
 ||dilutecellar.com^
 ||dimessing-parker.com^
@@ -6235,6 +6237,7 @@ vkcdnservice.appspot.com^
 ||dl-rms.com^
 ||dlb1uotpjs6s.com^
 ||dlfclcey.com^
+||dlfvgndsdfsn.com^
 ||dlfxsmbetx.com^
 ||dlnsjjyzvi1x.com^
 ||dloungspiricapu.fun^
@@ -6385,6 +6388,7 @@ vkcdnservice.appspot.com^
 ||duxumpou.com^
 ||dvaminusodin.net^
 ||dvoyy3qexr.com^
+||dvucdnv.com^
 ||dwtroouhdh.com^
 ||dxpxlt.com^
 ||dyecowwhy.com^
@@ -7223,6 +7227,7 @@ vkcdnservice.appspot.com^
 ||footar.com^
 ||footnote.com^
 ||foowafoa.com^
+||forafinan.club^
 ||forbearcorrectinvolving.com^
 ||forced-lose.de^
 ||forcefuldirect.com^
@@ -7393,6 +7398,7 @@ vkcdnservice.appspot.com^
 ||galemeltdown.com^
 ||galkama.info^
 ||gallanttortoiseassemble.com^
+||gallonranchwhining.com^
 ||gallopprisonbanter.com^
 ||gamescarousel.com^
 ||gamesims.ru^
@@ -7575,6 +7581,7 @@ vkcdnservice.appspot.com^
 ||gohillgo.com^
 ||goingtocontent.com^
 ||goldenbettingefforlessefforless.com^
+||goldvertise.com^
 ||gomain.pro^
 ||gonczpsaceew.com^
 ||gonextpage.ru^
@@ -8192,6 +8199,7 @@ vkcdnservice.appspot.com^
 ||ingoinghitchstick.com^
 ||ingratitudedaintyblockade.com^
 ||inheritwalter.com^
+||inhumenesokia.com^
 ||inigusyou.fun^
 ||initiateplayed.com^
 ||initiateshaky.com^
@@ -8301,6 +8309,7 @@ vkcdnservice.appspot.com^
 ||iwhugaul.com^
 ||iwkjldjp.com^
 ||iwkrvexersoof.com^
+||iwyphlxfuufeos.com^
 ||ixcris.com^
 ||ixhparehw.com^
 ||iyfnzgb.com^
@@ -8398,6 +8407,7 @@ vkcdnservice.appspot.com^
 ||jmvdzlkf.com^
 ||jmykbogg.com^
 ||jnctgldbxc.com^
+||jnffgawh.com^
 ||jnrvjpsltf.com^
 ||jnxkfldio.com^
 ||joastous.com^
@@ -8577,6 +8587,7 @@ vkcdnservice.appspot.com^
 ||knutenegros.pro^
 ||koaptooh.net^
 ||koertf.com^
+||kogtjcjdtdrk.com^
 ||kogutcho.net^
 ||koijwsixu.com^
 ||koimplishing.club^
@@ -9244,6 +9255,7 @@ vkcdnservice.appspot.com^
 ||microscoperestriction.com^
 ||microscopeundertakingprowl.com^
 ||microsoftaffiliates.net^
+||midastouchrt.com^
 ||middleimpetuous.com^
 ||midootib.net^
 ||midpopedge.com^
@@ -9420,6 +9432,7 @@ vkcdnservice.appspot.com^
 ||moontuftboy.com^
 ||mootermedia.com^
 ||mooxar.com^
+||mopedisods.com^
 ||mopnixhem.com^
 ||mopsaups.net^
 ||mopushy.com^
@@ -10039,6 +10052,7 @@ vkcdnservice.appspot.com^
 ||omoaxaus.net^
 ||omshedinjaor.com^
 ||omyourfir.club^
+||onarydarlie.fun^
 ||oncersshartsh.fun^
 ||oncfnary.com^
 ||onclickalgo.com^
@@ -11589,6 +11603,7 @@ vkcdnservice.appspot.com^
 ||setoyourad.biz^
 ||setpadchat.com^
 ||setupbarton.com^
+||sevenedgesteve.com^
 ||sevenialfeminde.fun^
 ||sevening.club^
 ||sevenrumblepunishment.com^
@@ -11642,6 +11657,7 @@ vkcdnservice.appspot.com^
 ||shoagnie.com^
 ||shoawhom.com^
 ||shockersheva.com^
+||shockingstrategynovelty.com^
 ||shodcryoft.com^
 ||shodroph.net^
 ||shofteph.com^
@@ -17500,7 +17516,6 @@ vkcdnservice.appspot.com^
 ||s3.ttpsdk.info^
 ||api.applovefrom.com^
 ||api.adnet.mob.com^
-||sf3-ttcdn-tos.pstatp.com^
 ||iam.datasavannah.com^
 ||yovoads.com^
 ||restartad.com^
@@ -18594,7 +18609,6 @@ vkcdnservice.appspot.com^
 ||ubiquitousyard.com^
 ||i.compendium.com^
 ||statsp.fpop.net^
-||uuidksinc.net^
 ||micpn.com^
 ||conductrics.com^
 ||zorosrv.com
@@ -26806,6 +26820,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||svedkan.com^
+||ahtate.ru^
+||fngurubob.com^
 ||uvpzll.com^
 ||ghjnpy.com^
 ||www-orbit-promo.ru^
@@ -33288,6 +33305,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||guanmeixiangsu.com^
 ||chumanduo.com^
 ||bsfishing.cn^
 ||ruigezx.com^
@@ -35966,6 +35984,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||xvqdfwy.cn^
 ||daizhangguanjia.com.cn^
 ||01tn.cn^
 ||027whht.com^
