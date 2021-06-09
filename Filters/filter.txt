@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-08T19:47:44.754Z
+! Last modified: 2021-06-09T00:17:02.183Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24750,6 +24750,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||unblockia.com^
 ||united-infos.net^
 ||upapi.net^
+||uplift-platform.com^
 ||uptain.de^
 ||uptrendsdata.com^
 ||useinsider.com^
@@ -33331,11 +33332,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||guanmeixiangsu.com^
-||chumanduo.com^
-||bsfishing.cn^
-||ruigezx.com^
-||toutiao.social^
+||faachen.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33670,6 +33667,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bosiwangzi.cn^
 ||bozhixiang.top^
 ||braincf.com^
+||bsfishing.cn^
 ||bsjgc.com^
 ||bskeye.com^
 ||btmp4.net^
@@ -33716,6 +33714,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||chiuhua.com.cn^
 ||chromc.com^
 ||chucity.com^
+||chumanduo.com^
 ||chuzushijian.cn^
 ||ci-web.cn^
 ||cj-cy.com^
@@ -33941,6 +33940,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gsycl.top^
 ||gtmucs.cn^
 ||guang8.cc^
+||guanmeixiangsu.com^
 ||guduopu.com^
 ||guidashu.com^
 ||guominziben.com^
@@ -34453,6 +34453,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rqgsf.com^
 ||rrsubway.com^
 ||rscxwmj.cn^
+||ruigezx.com^
 ||ruizhimu.cn^
 ||ruxianke.com^
 ||rwjfs.com^
@@ -34604,6 +34605,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||toospk.com^
 ||toourbb.com^
 ||top267.com^
+||toutiao.social^
 ||towers-shield.com^
 ||tpe163.com^
 ||trourted.pro^
@@ -36010,9 +36012,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||xvqdfwy.cn^
-||cehbg.com^
-||daizhangguanjia.com.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -36351,6 +36350,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cdlkzb.com^
 ||cdzimeijia.com^
 ||ceai.xyz^
+||cehbg.com^
 ||ceiyo.com^
 ||cepegas.com^
 ||ceyiuy.com^
@@ -36446,6 +36446,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dadedaxue.com^
 ||dailiq.cn^
 ||daima.dsxdn.com^
+||daizhangguanjia.com.cn^
 ||dajean.com^
 ||dake.net.cn^
 ||dalianruosen.com^
@@ -37690,6 +37691,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xuro006.com^
 ||xuxiangkj.com^
 ||xuyssur.cn^
+||xvqdfwy.cn^
 ||xw1001.com^
 ||xxkio.com^
 ||xy98.com.cn^
