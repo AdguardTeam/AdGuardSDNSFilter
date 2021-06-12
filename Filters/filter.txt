@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-12T00:13:06.233Z
+! Last modified: 2021-06-12T06:03:49.616Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||main-ti-hub.com^
+||erucrippled.com^
+||fatebbc.pro^
 ||barlo.xyz^
 ||fawhositho.com^
 ||pinifafi.com^
@@ -90,7 +93,6 @@
 ||otlffresod.com^
 ||jkgrczjllhq.com^
 ||ekufogow.xyz^
-||dolphinanthill.com^
 ||gasijosti.com^
 ||glpl4qp99ny4.com^
 ||zostumizy.com^
@@ -116,7 +118,6 @@
 ||hardyconflict.com^
 ||wherabygry.com^
 ||swinity.com^
-||diningprefixmyself.com^
 ||roilsnadirink.com^
 ||thousandfixedlyyawn.com^
 ||harlsmums.com^
@@ -136,7 +137,6 @@
 ||convertmb.com^
 ||flitions-sealteger.com^
 ||misspkl.com^
-||dragonsniffcashmere.com^
 ||grilydivy.com^
 ||nuqwe.com^
 ||di7stero.com^
@@ -149,7 +149,6 @@
 ||gropsyruty.com^
 ||hootersavour.com^
 ||adsterra.org^
-||ecjkroklyxvod.com^
 ||tluumnjyrc.com^
 ||misguidedstork.com^
 ||knittedcourthouse.com^
@@ -261,10 +260,8 @@
 ||mblink.in^
 ||bitads.io^
 ||riotousgrit.com^
-||dqjazjbqrmrnhb.com^
 ||giwzywnxnk.com^
 ||qppdqcid.com^
-||dmxftmoqz.com^
 ||thispositionw.biz^
 ||vetdeberg.com^
 ||zviybblezmc.com^
@@ -272,7 +269,6 @@
 ||kewuruve.xyz^
 ||haremwhipshook.com^
 ||moshahda.online^
-||dlxrlc2ni2.com^
 ||woodmountain.icu^
 ||highmaidfhr.com^
 ||betuuvhozpylo.com^
@@ -312,7 +308,6 @@
 ||herdcowhas.icu^
 ||adcheap.network^
 ||leaguenod.com^
-||drasticdifferentfoetus.com^
 ||reginasfreyr.com^
 ||gemfaxaha.com^
 ||zauglomo.net^
@@ -474,7 +469,6 @@
 ||caneswindfallquiver.com^
 ||catastropheillusive.com^
 ||dcfnihzg81pa.com^
-||dissipatecombinedcolon.com^
 ||ektmvpwa.top^
 ||frugalrushcap.com^
 ||goofsyoudell.com^
@@ -628,7 +622,6 @@
 ||bangready.com^
 ||adgrowmedia.com^
 ||bestdealfor33.life^
-||disgustingvoluntarilykiss.com^
 ||monkposseacre.casa^
 ||rejcinews.pro^
 ||kiolim.com^
@@ -680,7 +673,6 @@
 ||sixloamsob.com^
 ||prdele.eu^
 ||adhits.cf^
-||diptaich.com^
 ||adtimaserver.vn^
 ||vupyjyyu.xyz^
 ||lhljbgevp.com^
@@ -765,7 +757,6 @@
 ||yetseefad.com^
 ||app.titsx.com^
 ||chouftak.net^
-||edampeci.com^
 ||thautsie.net^
 ||secureanalytic.com^
 ||auweelta.net^
@@ -787,7 +778,6 @@
 ||ppcnt.co^
 ||1571627030.rsc.cdn77.org^
 ||terrasdsdstd.com^
-||dewincubiatoll.com^
 ||oldnayfey.com^
 ||eru5tdmbuwxm.com^
 ||snessubsets.pro^
@@ -825,7 +815,6 @@
 ||rubiginose.com^
 ||properatersch.fun^
 ||qqqwes.com^
-||dostophog.com^
 ||ilkmawgod.site^
 ||lowtyroguer.com^
 ||idspatchi.com^
@@ -944,7 +933,6 @@
 ||aimaniape.club^
 ||menuladshy.life^
 ||padsims.com^
-||ejurzsax.com^
 ||thichawheja.pro^
 ||lofv.xyz^
 ||dayadopen.site^
@@ -1063,7 +1051,6 @@
 ||exomonyf.com^
 ||sinsoftu.com^
 ||gracaiko.net^
-||eegnacou.com^
 ||lessblog.pro^
 ||badsbads.com^
 ||aiservice.vn^
@@ -1279,7 +1266,6 @@
 ||m.91xiaodu.top^
 ||m.789657.top^
 ||wysasys.com^
-||doghoust.net^
 ||astoapsu.com^
 ||daurifek.net^
 ||gloorajo.com^
@@ -1836,7 +1822,6 @@ www.llllllllllll.net^
 ||hrtya.com^
 ||lexozfldkklgvc.com^
 ||sapere.seed4.me^
-||ekoatchooze.com^
 ||greview.pro^
 ||titranco.info^
 ||pnewspages.com^
@@ -1885,7 +1870,6 @@ www.llllllllllll.net^
 ||7s08gpbp39.com^
 ||afgmyvid.com^
 ||webgekeniuos.com^
-||eaqxjz6bra.com^
 ||lh5lg.top^
 ||glorinlost.rocks^
 ||retiremely.com^
@@ -1921,7 +1905,6 @@ www.llllllllllll.net^
 ||kofpag.com^
 ||laborates.com^
 ||rapistory.info^
-||ed9wkbpy.com^
 ||dagnar.com^
 ||chainads.io^
 ||kiwihk.net^
@@ -2060,7 +2043,6 @@ www.llllllllllll.net^
 ||thump-night-stand.com^
 ||ek8k5dst5c.com^
 ||smopy.com^
-||enlarget.com^
 ||casterist.info^
 ||enousouz.info^
 ||muzotur.info^
@@ -2541,7 +2523,6 @@ www.llllllllllll.net^
 ||delnapb.com^
 ||diamond88bet.com^
 ||dk7rftbivnkgr.cloudfront.net^
-||dotomi.com^
 ||dpjtch.vestabalin.com^
 ||dubshub.com^
 ||e-n-t-e-r-n-e-x.com^
@@ -2809,6 +2790,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||d2fbvay81k4ji3.cloudfront.net^
 ||centent.streanplay.cc^
 ||x2sfa.javgg.eu^
 ||xd3r.javgg.eu^
@@ -2838,7 +2820,6 @@ www.llllllllllll.net^
 ||centent.streamp1ay.cc^
 ||dz5bomaog2c5t.cloudfront.net^
 ||s.remonti.org^
-||dl5ft52dtazxd.cloudfront.net^
 ||d3v3bqdndm4erx.cloudfront.net^
 ||ads.farakav.com^
 ||rst.pornyhd.com^
@@ -2866,17 +2847,12 @@ www.llllllllllll.net^
 ||d2ho1n52p59mwv.cloudfront.net^
 ||match.rundsp.com^
 ||drda5yf9kgz5p.cloudfront.net^
-||ds02gfqy6io6i.cloudfront.net^
-||dybxezbel1g44.cloudfront.net^
-||dxprljqoay4rt.cloudfront.net^
 ||dash.tmearn.com^
 ||d1uanozc5el74n.cloudfront.net^
-||djz9es32qen64.cloudfront.net^
 ||drrcckbju3nd0.cloudfront.net^
 ||ad-arata.s3.amazonaws.com^
 ||ads.linkedin.com^
 ||banner.vatanclick.ir^
-||dtto8zfzskfoa.cloudfront.net^
 ||jdd01.198game.net^
 ||da3uf5ucdz00u.cloudfront.net^
 ||secure.iqmining.com^
@@ -2966,7 +2942,6 @@ www.llllllllllll.net^
 ||d6swopgiplmy0.cloudfront.net^
 ||d9rj2sdxjer5v.cloudfront.net^
 ||dk2mvwe4uw0z3.cloudfront.net^
-||dr3k6qonw2kee.cloudfront.net^
 ||js.bulkhentai.com^
 
 !
@@ -6078,6 +6053,7 @@ vkcdnservice.appspot.com^
 ||devilspanmute.com^
 ||deviouscoupbrutally.com^
 ||devoidsagacious.com^
+||dewincubiatoll.com^
 ||dexamplexhet.club^
 ||dexchangeinc.com^
 ||deximedia.com^
@@ -6131,11 +6107,13 @@ vkcdnservice.appspot.com^
 ||diminishkidnapping.com^
 ||dimpawlam.com^
 ||dinclinx.com^
+||diningprefixmyself.com^
 ||dinneredaq.club^
 ||dintrateim.top^
 ||dioneperson.pro^
 ||diplomadosagedream.com^
 ||diplomaticlastingpert.com^
+||diptaich.com^
 ||directaclick.com^
 ||directadvert.net^
 ||directleads.com^
@@ -6161,6 +6139,7 @@ vkcdnservice.appspot.com^
 ||disembarkappendix.com^
 ||disguisesirrational.com^
 ||disguisesunattractive.com^
+||disgustingvoluntarilykiss.com^
 ||dishesha.net^
 ||disinheritacquaintancechop.com^
 ||disinterestedreflectionmuscle.com^
@@ -6187,6 +6166,7 @@ vkcdnservice.appspot.com^
 ||disposecompere.com^
 ||dissimilarambient.com^
 ||dissimilartongueoatmeal.com^
+||dissipatecombinedcolon.com^
 ||dissonbegant.info^
 ||distemshu.biz^
 ||disticked.club^
@@ -6229,16 +6209,19 @@ vkcdnservice.appspot.com^
 ||dlsear.com^
 ||dltags.com^
 ||dltinaozs.com^
+||dlxrlc2ni2.com^
 ||dlycritishmalco.club^
 ||dlyzcopkko.com^
 ||dmfadb.xyz^
 ||dmsqzqvuapb.com^
 ||dmvbdfblevxvx.com^
+||dmxftmoqz.com^
 ||dnbizcdn.com^
 ||dnemkhkbsdbl.com^
 ||doboacki.net^
 ||dodgekeelpops.com^
 ||dogconcurrencesauce.com^
+||doghoust.net^
 ||dogwrite.com^
 ||dohillright.com^
 ||dokauzob.top^
@@ -6247,6 +6230,7 @@ vkcdnservice.appspot.com^
 ||dollsdeclare.com^
 ||dolohen.com^
 ||dolothbe.xyz^
+||dolphinanthill.com^
 ||dolphincdn.xyz^
 ||dolsoste.com^
 ||domainbuyingservices.com^
@@ -6276,6 +6260,7 @@ vkcdnservice.appspot.com^
 ||dorothydrawing.com^
 ||dortoolr.com^
 ||doshaido.com^
+||dostophog.com^
 ||dosveggietotem.casa^
 ||dotandad.com^
 ||dotandads.com^
@@ -6310,8 +6295,11 @@ vkcdnservice.appspot.com^
 ||dpstack.com^
 ||dpypzvjarj.com^
 ||dqbwqzkajkuif.com^
+||dqjazjbqrmrnhb.com^
 ||dquanticw.top^
+||dragonsniffcashmere.com^
 ||drako2sha8de09.com^
+||drasticdifferentfoetus.com^
 ||draulinehandon.info^
 ||drawbacksubdue.com^
 ||drawx.xyz^
@@ -6434,6 +6422,7 @@ vkcdnservice.appspot.com^
 ||eailczoszdrz.com^
 ||eaintrolled.info^
 ||ealeo.com^
+||eaqxjz6bra.com^
 ||earchcreastil.top^
 ||eardepth-prisists.com^
 ||earliestinspectprone.com^
@@ -6477,6 +6466,7 @@ vkcdnservice.appspot.com^
 ||eccehkho.com^
 ||ecgopezooczg.com^
 ||echoazou.com^
+||ecjkroklyxvod.com^
 ||eclkmpbn.com^
 ||ecominalber.club^
 ||econday.top^
@@ -6487,6 +6477,8 @@ vkcdnservice.appspot.com^
 ||ecto-ecto-uno.com^
 ||ectoralmin.fun^
 ||ecurrenchoutliness.fun^
+||ed9wkbpy.com^
+||edampeci.com^
 ||edchargina.pro^
 ||edcredition.club^
 ||edd249a64b.com^
@@ -6528,6 +6520,7 @@ vkcdnservice.appspot.com^
 ||eee3a05c040fef3.com^
 ||eeftordu.net^
 ||eeghegak.com^
+||eegnacou.com^
 ||eekdwmda.com^
 ||eekrooha.com^
 ||eelfadechi.com^
@@ -6582,12 +6575,14 @@ vkcdnservice.appspot.com^
 ||ejirytuw.xyz^
 ||ejoonsoo.net^
 ||ejrhtmwm.com^
+||ejurzsax.com^
 ||ejyrabeonmyh.com^
 ||ek9xrk5gyu.com^
 ||ekansovi.com^
 ||eklrohpahufy.com^
 ||ekmas.com^
 ||eknowin.club^
+||ekoatchooze.com^
 ||ekoocmujairt.com^
 ||elasticad.net^
 ||elasticrosy.com^
@@ -6678,6 +6673,7 @@ vkcdnservice.appspot.com^
 ||enjoyingbind.com^
 ||enjoypiingtoe.com^
 ||enkayijamal.club^
+||enlarget.com^
 ||enlnks.com^
 ||enmisindingat.info^
 ||enormitteen.pro^
@@ -14982,6 +14978,7 @@ vkcdnservice.appspot.com^
 ||dollarsponsor.com^
 ||domainadvertising.com^
 ||domainsponsor.com^
+||dotomi.com^
 ||doubleclick.com^
 ||dreamaquarium.com^
 ||dstillery.com^
@@ -17161,6 +17158,7 @@ vkcdnservice.appspot.com^
 ||directnicparking.com^
 ||display.digitalriver.com^
 ||djr4k68f8n55o.cloudfront.net^
+||djz9es32qen64.cloudfront.net^
 ||dlkfm8bqz0bpx.cloudfront.net^
 ||dlvds9i67c60j.cloudfront.net^
 ||dm0acvguygm9h.cloudfront.net^
@@ -17170,19 +17168,24 @@ vkcdnservice.appspot.com^
 ||dpsq2uzakdgqz.cloudfront.net^
 ||dq3yxnlzwhcys.cloudfront.net^
 ||dqhi3ea93ztgv.cloudfront.net^
+||dr3k6qonw2kee.cloudfront.net^
 ||dr8pk6ovub897.cloudfront.net^
 ||drf8e429z5jzt.cloudfront.net^
+||ds02gfqy6io6i.cloudfront.net^
 ||dsh7ky7308k4b.cloudfront.net^
 ||dsie7h4lo9wxu.cloudfront.net^
 ||dstik9906m659.cloudfront.net^
 ||dtakdb1z5gq7e.cloudfront.net^
 ||dtrk.slimcdn.com^
+||dtto8zfzskfoa.cloudfront.net^
 ||dtyry4ejybx0.cloudfront.net^
 ||du2uh7rq0r0d3.cloudfront.net^
 ||duzt6rhr7wo8p.cloudfront.net^
 ||dv7t7qyvgyrt5.cloudfront.net^
 ||dvc8653ec6uyk.cloudfront.net^
 ||dvt4pepo9om3r.cloudfront.net^
+||dxprljqoay4rt.cloudfront.net^
+||dybxezbel1g44.cloudfront.net^
 ||dynamicserving.com^
 ||dzupi9b81okew.cloudfront.net^
 ||eblastengine.upickem.net^
@@ -17445,6 +17448,7 @@ vkcdnservice.appspot.com^
 ||dkm6b5q0h53z4.cloudfront.net^
 ||dkus30wj6f84p.cloudfront.net^
 ||dkyp75kj7ldlr.cloudfront.net^
+||dl5ft52dtazxd.cloudfront.net^
 ||dlne6myudrxi1.cloudfront.net^
 ||dm7gsepi27zsx.cloudfront.net^
 ||dmmzkfd82wayn.cloudfront.net^
@@ -33445,6 +33449,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||samanthyean.com^
+||waiyuyou.com^
+||shunshiwlkj.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
