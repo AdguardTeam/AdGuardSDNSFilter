@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-12T18:03:26.816Z
+! Last modified: 2021-06-13T00:17:05.655Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10099,7 +10099,6 @@ vkcdnservice.appspot.com^
 ||onmarshtompor.com^
 ||onmystems.top^
 ||onolinclosesr.club^
-||onsafelink.com^
 ||onsertilyas.club^
 ||onsetoyour.fun^
 ||onsidentss.top^
@@ -17310,7 +17309,6 @@ vkcdnservice.appspot.com^
 ||syndicate.payloadz.com^
 ||tag.regieci.com^
 ||tags.sprizzy.com^
-||tags2.adshell.net^
 ||tap.more-results.net^
 ||tcadserver.rain-digital.ca^
 ||ti.tradetracker.net^
@@ -33448,10 +33446,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||ceo8000.net^
-||samanthyean.com^
-||waiyuyou.com^
-||shunshiwlkj.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33819,6 +33813,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cdn-t.xyz^
 ||cdnjsp.wang^
 ||cdyqc.com^
+||ceo8000.net^
 ||cfboo.com^
 ||cferw.com^
 ||cg2017.com^
@@ -34584,6 +34579,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sadobo.com^
 ||saf588.com^
 ||safe555.xyz^
+||samanthyean.com^
 ||sawadeca.com^
 ||sbrqp.com^
 ||scenepass.com^
@@ -34618,6 +34614,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shuccn.com^
 ||shukongshebei.net^
 ||shunlidl.online^
+||shunshiwlkj.com^
 ||shypqc.com^
 ||si9377.com^
 ||sicentlife.com^
@@ -34781,6 +34778,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vxsnk.com^
 ||w3989.com^
 ||w65p.com^
+||waiyuyou.com^
 ||wanfukang.cc^
 ||wangdaizao.com^
 ||wangdddy.com^
@@ -35416,7 +35414,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||1.51dongshi.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -35426,6 +35423,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1.201980.com^
 ||1.32xp.com^
 ||1.5000yan.com^
+||1.51dongshi.com^
 ||1.51sxue.cn^
 ||1.66law.cn^
 ||1.800400.net^
