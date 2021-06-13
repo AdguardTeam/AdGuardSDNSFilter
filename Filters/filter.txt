@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-13T12:05:29.030Z
+! Last modified: 2021-06-13T18:03:14.847Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22143,7 +22143,6 @@ vkcdnservice.appspot.com^
 ||stat.download.xunlei.com^
 ||dmp.citiservi.es^
 ||crta.metro.co.uk^
-||dtrace.nvidia.com^
 ||temptation.ad.nl^
 ||events.reclamefolder.nl^
 ||analytics-api.smzdm.com^
@@ -32501,9 +32500,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Jun 2021 11:02 UTC+7
-! Version: 2106111102
-! Blocked: 866 rules
+! Last modified: 13 Jun 2021 21:04 UTC+7
+! Version: 2106132104
+! Blocked: 869 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32535,7 +32534,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adtima-common.zadn.vn^
 ||adtima-media-td.zadn.vn^
 ||adtima-media.zadn.vn^
+||adtima-media.zascdn.me^
 ||adtima-static-td.zadn.vn^
+||adtima-static.zascdn.me^
+||adtima-video.zascdn.me^
 ||adtima.vn^
 ||adx.vn^
 ||ambient-platform.com^
