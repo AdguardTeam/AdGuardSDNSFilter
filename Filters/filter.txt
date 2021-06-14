@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-14T12:06:30.645Z
+! Last modified: 2021-06-14T18:05:27.883Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||vurobyde.xyz^
 ||adnxs-simple.com^
 ||main-ti-hub.com^
 ||erucrippled.com^
@@ -107,7 +108,6 @@
 ||aftjohnanodes.com^
 ||melinaeability.casa^
 ||jonasahalockup.com^
-||fopushegi.com^
 ||fogsham.com^
 ||ad.utop.ir^
 ||bmfads.com^
@@ -140,8 +140,6 @@
 ||nuqwe.com^
 ||di7stero.com^
 ||nyjixoco.com^
-||g0b2rzzyu87s.com^
-||gapsavyfo.com^
 ||kirnscraps.com^
 ||colonistnobilityheroic.com^
 ||derangemathsreply.com^
@@ -257,7 +255,6 @@
 ||mblink.in^
 ||bitads.io^
 ||riotousgrit.com^
-||giwzywnxnk.com^
 ||qppdqcid.com^
 ||thispositionw.biz^
 ||vetdeberg.com^
@@ -735,7 +732,6 @@
 ||adpaths.com^
 ||papawdadoton.com^
 ||pouluwie.net^
-||fosterheiressdug.com^
 ||urnawareflan.com^
 ||padsimz.com^
 ||wyclddhldiou.com^
@@ -985,7 +981,6 @@
 ||bitcoinsad.com^
 ||mddwabpvzcr.com^
 ||bsfnvvxjcisif.com^
-||ftigken.online^
 ||areapebeg.club^
 ||amcdn.vn^
 ||punosy.top^
@@ -1238,7 +1233,6 @@
 ||sylmyar.pw^
 ||kenvam.online^
 ||wmwloejxww.com^
-||givirsou.net^
 ||d0p21g2fep.com^
 ||push-tools-system.com^
 ||ellcurvth.com^
@@ -2012,7 +2006,6 @@ www.llllllllllll.net^
 ||udmlkmzjkob.co^
 ||okanjo.com^
 ||advnet.xyz^
-||g3j2wzmon8b.com^
 ||1.mobiuppedmedia.com^
 ||go2funz.com^
 ||valpeiros.com^
@@ -2543,7 +2536,6 @@ www.llllllllllll.net^
 ||gernewt.info^
 ||girlzgirlzgirlz4u.com^
 ||giu9aab.bid^
-||glaswall.online^
 ||go.verymuchad.com^
 ||gomakemerich1.com^
 ||grandslammedia.com^
@@ -7195,6 +7187,7 @@ vkcdnservice.appspot.com^
 ||footar.com^
 ||footnote.com^
 ||foowafoa.com^
+||fopushegi.com^
 ||forafinan.club^
 ||forbearcorrectinvolving.com^
 ||forced-lose.de^
@@ -7217,6 +7210,7 @@ vkcdnservice.appspot.com^
 ||fortunitystar.club^
 ||forwrdnow.com^
 ||forzubatr.com^
+||fosterheiressdug.com^
 ||fosterpeacesadly.com^
 ||fosterstrawberry.com^
 ||fotsaulr.net^
@@ -7282,6 +7276,7 @@ vkcdnservice.appspot.com^
 ||fsitel.com^
 ||fsrdrurl.com^
 ||fsvulvfqg.com^
+||ftigken.online^
 ||ftjcfx.com^
 ||ftklr.com^
 ||ftliokfhtyijhl.com^
@@ -7321,6 +7316,7 @@ vkcdnservice.appspot.com^
 ||fzehxxsdxyfg.com^
 ||fztmn.top^
 ||g-statistic.com^
+||g0b2rzzyu87s.com^
 ||g1dxj6q1qfl2.com^
 ||g22rbb7.com^
 ||g2440001011.com^
@@ -7328,6 +7324,7 @@ vkcdnservice.appspot.com^
 ||g27zkdvsxl.com^
 ||g2921554487.com^
 ||g3bxbinwsgdf.com^
+||g3j2wzmon8b.com^
 ||g5fzq2l.com^
 ||g6zkzy0g2g.com^
 ||g8cp5djk1j0r.com^
@@ -7377,6 +7374,7 @@ vkcdnservice.appspot.com^
 ||gangidance.com^
 ||gangsstowapps.com^
 ||gangstsurv.club^
+||gapsavyfo.com^
 ||gaqavrhhgmu.com^
 ||gardoult.com^
 ||garettygrea.space^
@@ -7465,7 +7463,9 @@ vkcdnservice.appspot.com^
 ||givenfrontierruth.com^
 ||givestment.club^
 ||givingsol.com^
+||givirsou.net^
 ||giwefepy.xyz^
+||giwzywnxnk.com^
 ||gjrswtzjn.com^
 ||gjslebmbiawh.com^
 ||gjw5qbyn93b8.com^
@@ -15029,6 +15029,7 @@ vkcdnservice.appspot.com^
 ||givemeb33f.com^
 ||glailols.com^
 ||glaimtug.com^
+||glaswall.online^
 ||glauptan.net^
 ||glawheejoushpush.com^
 ||gld35wndkn.com^
@@ -33377,6 +33378,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||560378.com^
+||hmaqz.top^
 ||liangxiaoru.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
@@ -35347,6 +35350,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||js.ccmeng.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
