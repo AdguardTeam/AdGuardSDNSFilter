@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-16T00:14:58.726Z
+! Last modified: 2021-06-16T06:04:42.849Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32555,9 +32555,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Jun 2021 10:16 UTC+7
-! Version: 2106151016
-! Blocked: 869 rules
+! Last modified: 16 Jun 2021 10:23 UTC+7
+! Version: 2106161023
+! Blocked: 870 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32604,7 +32604,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||autoads.asia^
 ||banners-gallery.coccoc.com^
 ||bidgear-syndication.com^
+||blogstatistics.sapoapps.vn^
 ||brand.zing.vn^
+||bwstatistics.sapoapps.vn^
 ||cdn-qc.coccoc.com^
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
@@ -32621,6 +32623,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gafin.vn^
 ||gammaplatform.com^
 ||gammassp.com^
+||google-shopping.sapoapps.vn^
+||googleshopping.sapoapps.vn^
 ||haraads.com^
 ||harafunnel.com^
 ||haraloyalty.com^
@@ -32667,6 +32671,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||piads.vn^
 ||pinetech.vn^
 ||piwik.*.vn^
+||popup.sapoapps.vn^
+||promotionpopup.sapoapps.vn^
 ||pushdi.com^
 ||pushdy.com^
 ||pushdy.vn^
@@ -32895,7 +32901,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||offerwall.headlines.pw^
 ||ox1.vietstock.vn^
 ||phimmedia03.com^
-||promotionpopup.sapoapps.vn^
 ||qc.5giay.vn^
 ||qc.designervn.net^
 ||qc.itsgroup.vn^
@@ -32973,10 +32978,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||apl.headlines.pw^
 ||app.hstatic.net^
 ||app.sbz.workers.dev^
-||blogstatistics.sapoapps.vn^
 ||btrack.homedy.com^
 ||bwstatistics.bizwebapps.vn^
-||bwstatistics.sapoapps.vn^
 ||cdn.doke.app^
 ||cdn.tekoapis.com^
 ||clicker.chiaki.vn^
@@ -32994,8 +32997,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fbuser.ovp.vn^
 ||file-subiz.com^
 ||follow.vnay.vn^
-||google-shopping.sapoapps.vn^
-||googleshopping.sapoapps.vn^
 ||gtmjs.com^
 ||hit.123c.vn^
 ||invite.baomoi.com^
