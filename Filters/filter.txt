@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-15T18:08:37.594Z
+! Last modified: 2021-06-16T00:14:58.726Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24483,6 +24483,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lyngro.com^
 ||m-t.io^
 ||m0mentum.net^
+||m365log.com^
 ||mabipa.com^
 ||macandcheeseandads.com^
 ||magnuum.com^
@@ -24811,6 +24812,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||viraltrackings.com^
 ||virgul.com^
 ||visionsage.com^
+||visitorqueue.com^
 ||visto1.net^
 ||visx.net^
 ||volantix.com^
@@ -36076,10 +36078,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||nicelook.cn^
-||22qzhao5.cn^
-||kuaidube.cn^
-||ahylong.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -36124,6 +36122,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||200ps.com^
 ||215to.cn^
 ||2227q.com^
+||22qzhao5.cn^
 ||23uuw3.com^
 ||24haitao.net^
 ||256k.xyz^
@@ -36263,6 +36262,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ahmibai.cn^
 ||ahuac.com^
 ||ahwczn.cn^
+||ahylong.cn^
 ||ahzhongzhan.cn^
 ||aibangzs.com^
 ||aikan6.com^
@@ -37039,6 +37039,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ktzte.cn^
 ||kuaidibiaoju.com^
 ||kuaidibox.cn^
+||kuaidube.cn^
 ||kuaipaobiaoju.com^
 ||kunloveyu.cn^
 ||kuzexinxi.com^
@@ -37210,6 +37211,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ngmaul.cn^
 ||ngsaang.top^
 ||nhrlzy.com^
+||nicelook.cn^
 ||niegg.com^
 ||nihao987654.top^
 ||ningbojipiao.com^
