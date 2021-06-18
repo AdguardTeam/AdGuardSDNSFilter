@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-18T00:14:36.442Z
+! Last modified: 2021-06-18T06:04:06.636Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32572,8 +32572,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Jun 2021 11:00 UTC+7
-! Version: 2106171100
+! Last modified: 18 Jun 2021 10:18 UTC+7
+! Version: 2106181018
 ! Blocked: 870 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -33405,7 +33405,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||tuifish.com^
+||11111fs.com^
+||hzdwjc.com^
+||xzpyjd.com^
+||jianyouling.com^
+||yrehdfer.com^
+||trenhdg.com^
+||sdurhnd.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -34699,6 +34705,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tsdlp.com^
 ||ttbc.cc^
 ||ttzhongbao.com^
+||tuifish.com^
 ||tukeai.com^
 ||tvbyb04.cn^
 ||twitterzs.com^
@@ -35382,6 +35389,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||js1.haoge500.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36101,8 +36109,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||vgimer.cn^
-||quzhizhongye.top^
+||zjxkdq.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -37387,6 +37394,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||quantao8.top^
 ||quipin.cn^
 ||quxiandu.com^
+||quzhizhongye.top^
 ||qwddcwmwqiqwd18.cn^
 ||qwddcwmwqiqwd19.cn^
 ||qwddcwmwqiqwd20.cn^
@@ -37657,6 +37665,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vbanm.com^
 ||vchim.com^
 ||vf5yb4.cn^
+||vgimer.cn^
 ||vinuxhome.com^
 ||vivi87.cn^
 ||vjptye.cn^
