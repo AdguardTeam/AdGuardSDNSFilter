@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-18T14:44:07.357Z
+! Last modified: 2021-06-18T18:05:13.503Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2768,6 +2768,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||dl.crazyporn.xxx^
 ||d2fbvay81k4ji3.cloudfront.net^
 ||centent.streanplay.cc^
 ||x2sfa.javgg.eu^
@@ -26581,6 +26582,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trckr.nordiskemedier.dk^
 ||ubt.berlingskemedia.net^
 ||analytics.belgacom.be^
+||apm.tnet.nl^
 ||cookies.reedbusiness.nl^
 ||hottraffic.nl^
 ||statistics.rbi-nl.com^
