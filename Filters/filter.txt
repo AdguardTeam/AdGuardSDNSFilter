@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-19T18:03:18.939Z
+! Last modified: 2021-06-20T00:16:37.565Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33442,7 +33442,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||gxfkkj.com^
+||govgaungzhou.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -34070,6 +34070,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gwbangshou.com^
 ||gwylm.com^
 ||gxejgs.com^
+||gxfkkj.com^
 ||gxgzyny.com^
 ||gydag.com^
 ||gzduoqicai.cn^
@@ -36146,12 +36147,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||xxzzsj.xyz^
-||losbateleros.com^
-||jzq2019.top^
-||gsqweb.cn^
-||keyand.xyz^
-||guoduand.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -36808,6 +36803,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||grjs08.com^
 ||grubfast.com^
 ||gslyxny.com^
+||gsqweb.cn^
 ||gssdsj.com^
 ||gtchong.com^
 ||gtifund.cn^
@@ -36818,6 +36814,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||guangweixinxi345.cn^
 ||guannin.com^
 ||guansenff.cn^
+||guoduand.cn^
 ||guvdfs.cn^
 ||gxdianhua.com^
 ||gxfc2021.top^
@@ -37083,6 +37080,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jytjw.com^
 ||jzdianlan.cn^
 ||jzn360.cn^
+||jzq2019.top^
 ||jzrzpump.com^
 ||k22x6.cn^
 ||k5p8f2.cn^
@@ -37099,6 +37097,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||keilb.xyz^
 ||keran.hl.cn^
 ||ketaoke.com^
+||keyand.xyz^
 ||kfuih.cn^
 ||kgfnhf.cn^
 ||khuoy.com^
@@ -37179,6 +37178,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lolvsdota.cn^
 ||longkoupeanut.cn^
 ||lordtao.cn^
+||losbateleros.com^
 ||louisan.cn^
 ||lousivency.com.cn^
 ||lovepets70.com^
@@ -37861,6 +37861,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xvqdfwy.cn^
 ||xw1001.com^
 ||xxkio.com^
+||xxzzsj.xyz^
 ||xy98.com.cn^
 ||xywgbms.top^
 ||xztms.com^
