@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-20T12:05:14.120Z
+! Last modified: 2021-06-20T18:03:28.231Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||tywzyhfliwdbu.com^
+||uhqpnhorurueku.com^
+||awaitcola.com^
 ||egreephu.com^
 ||vubihasdtbadiq.com^
 ||sitiveadditio.biz^
@@ -66,7 +69,6 @@
 ||tronglyre.club^
 ||exru.website^
 ||departgross.com^
-||inheritedgeneralrailroad.com^
 ||jawholeminable.com^
 ||picturesquebutcompassionate.com^
 ||sodamash.com^
@@ -103,7 +105,6 @@
 ||ferociousvirtual.com^
 ||sizeilksohs.com^
 ||otlffresod.com^
-||jkgrczjllhq.com^
 ||ekufogow.xyz^
 ||gasijosti.com^
 ||glpl4qp99ny4.com^
@@ -118,7 +119,6 @@
 ||adc.streamspread.com^
 ||aftjohnanodes.com^
 ||melinaeability.casa^
-||jonasahalockup.com^
 ||fogsham.com^
 ||ad.utop.ir^
 ||bmfads.com^
@@ -197,7 +197,6 @@
 ||fhsmtrnsfnt.com^
 ||softenedimmortalityprocedure.com^
 ||mfk-cpm.com^
-||jycdnjnz.com^
 ||lavageethion.com^
 ||lebilui.ru^
 ||momijoy.ru^
@@ -255,7 +254,6 @@
 ||gratingtode.com^
 ||directpaper.name^
 ||monumentsmaterialeasel.com^
-||intrudeaccess.com^
 ||notesbook.in^
 ||mblink.in^
 ||bitads.io^
@@ -707,7 +705,6 @@
 ||inservinea.com^
 ||popcent.org^
 ||adskk.club^
-||insolencewalter.com^
 ||wqpeltrb.com^
 ||vcmrlwcafliaa.com^
 ||yfivoqeh.online^
@@ -744,7 +741,6 @@
 ||skjdtkoqlvrhcn.com^
 ||chicaudo.com^
 ||litourge.com^
-||ignitiontigercamera.com^
 ||andarmair.club^
 ||p.tanx.com^
 ||ptaughar.com^
@@ -755,7 +751,6 @@
 ||secureanalytic.com^
 ||auweelta.net^
 ||willalland.info^
-||intellipopup.com^
 ||zoaheeth.com^
 ||refparjhob.top^
 ||1xredir57496.top^
@@ -1280,7 +1275,6 @@
 ||aa24h.com^
 ||doutthenhap.info^
 ||2yut0j.cn^
-||iarfina.pw^
 ||grunkav.online^
 ||sdasasyydd.com^
 ||adsaturn.com^
@@ -2549,10 +2543,8 @@ www.llllllllllll.net^
 ||ifmnwi.club^
 ||imaginaxs.com^
 ||india-zed.com^
-||inter1ads.com^
 ||iu1xoe7o.com^
 ||javacript.cf^
-||jfduv7.com^
 ||ji.ihualun.com^
 ||jkolp.com^
 ||join.xlgirls.com^
@@ -8105,6 +8097,7 @@ vkcdnservice.appspot.com^
 ||ifeuddaywa.com^
 ||ifsmatbeg.site^
 ||iglaique.net^
+||ignitiontigercamera.com^
 ||ignoranttools.com^
 ||igvxnenqgu.com^
 ||ihjtrncfoha.com^
@@ -8192,6 +8185,7 @@ vkcdnservice.appspot.com^
 ||infrashift.com^
 ||ingoinghitchstick.com^
 ||ingratitudedaintyblockade.com^
+||inheritedgeneralrailroad.com^
 ||inheritwalter.com^
 ||inhumenesokia.com^
 ||inigusyou.fun^
@@ -8207,6 +8201,7 @@ vkcdnservice.appspot.com^
 ||insectdatabasesignificantly.com^
 ||insnative.com^
 ||insolencecountriesblunder.com^
+||insolencewalter.com^
 ||insomn.pro^
 ||instahookupclub2.com^
 ||instahookupclub3.com^
@@ -8235,6 +8230,7 @@ vkcdnservice.appspot.com^
 ||intimidatewearisomespecialist.com^
 ||intimidatingclinchwily.com^
 ||intimidatinggodlessketchup.com^
+||intrudeaccess.com^
 ||inventoryjeep.com^
 ||investigatesupernatural.com^
 ||invincibledefybegun.com^
@@ -8393,6 +8389,7 @@ vkcdnservice.appspot.com^
 ||jjfankvlnhhm.com^
 ||jjnlfd.com^
 ||jjpnveujkk.com^
+||jkgrczjllhq.com^
 ||jkjkeithc.com^
 ||jltklmnmj.com^
 ||jltzknvw.com^
@@ -8421,6 +8418,7 @@ vkcdnservice.appspot.com^
 ||jolic2.com^
 ||jollyfirmexterminate.com^
 ||jomtingi.net^
+||jonasahalockup.com^
 ||joobuste.com^
 ||joodoush.com^
 ||joophesh.com^
@@ -8478,6 +8476,7 @@ vkcdnservice.appspot.com^
 ||jxswwvvejwzdd.com^
 ||jxxcedyaazm.com^
 ||jyagyffnbysg.com^
+||jycdnjnz.com^
 ||jyebqhel.com^
 ||jynp9m209p.com^
 ||jypugepha.pro^
@@ -15375,6 +15374,7 @@ vkcdnservice.appspot.com^
 ||jemmgroup.com^
 ||jerredsite.pro^
 ||jewishcontentnetwork.com^
+||jfduv7.com^
 ||jiawen88.com^
 ||jistaumt.com^
 ||jivox.com^
@@ -16913,6 +16913,7 @@ vkcdnservice.appspot.com^
 ||smashnewtab.com^
 ||spiralstab.com^
 ||yatab.net^
+||inter1ads.com^
 ! uponit adservers
 ||ajkelra.com^
 ||albertonne.com^
@@ -16939,6 +16940,7 @@ vkcdnservice.appspot.com^
 ||daethana.pw^
 ||elabalar.pw^
 ||elmenor.xyz^
+||iarfina.pw^
 ||omafaren.pw^
 ||omaris.pw^
 
@@ -18175,6 +18177,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||b90.yahoo.co.jp^
 ||mc-ya.ru^
 ||srmdata.com^
 ||eu.groupondata.com^
@@ -22201,6 +22204,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||bc.nhk.jp^
 ||t.simply-hentai.com^
 ||track.nzz.ch^
 ||t.indeed.com^
@@ -35427,6 +35431,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||88.yunqishi8.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
