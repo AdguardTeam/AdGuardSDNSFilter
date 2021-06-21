@@ -1,5 +1,5 @@
 {
-  "name": "AdGuard Base + StevenBlack + OISD Basic DNS filter",
+  "name": "AdGuard Base + StevenBlack",
   "description": "Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.",
   "homepage": "https://github.com/mpenachayan/AdguardSDNSFilter",
   "license": "https://github.com/mpenachayan/AdguardSDNSFilter/blob/master/LICENSE",
@@ -225,12 +225,6 @@
     {
       "name": "Additional rules",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt",
-      "transformations": ["Validate"],
-      "type": "adblock"
-    },
-    {
-      "name": "Oisd Basic",
-      "source": "https://abp.oisd.nl/basic",
       "transformations": ["Validate"],
       "type": "adblock"
     },
