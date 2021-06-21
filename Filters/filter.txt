@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-21T06:04:27.431Z
+! Last modified: 2021-06-21T12:06:41.847Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,10 +18,11 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||accompanycollapse.com^
+||egreephu.com^
 ||tywzyhfliwdbu.com^
 ||uhqpnhorurueku.com^
 ||awaitcola.com^
-||egreephu.com^
 ||vubihasdtbadiq.com^
 ||sitiveadditio.biz^
 ||bedbwgjjpxiuox.com^
@@ -326,7 +327,6 @@
 ||adoto.net^
 ||dggaenaawxe8z.cloudfront.net^
 ||cuisineenvoyadvertise.com^
-||malinesmanses.com^
 ||disparagethence.com^
 ||streakattempt.com^
 ||confidethirstyfrightful.com^
@@ -336,7 +336,6 @@
 ||harmlesstacticalhonorable.com^
 ||air2s.com^
 ||ioadserve.com^
-||samplerpouch.com^
 ||go.loadingnow.me^
 ||wishjus.com^
 ||jutyledu.pro^
@@ -9007,6 +9006,7 @@ vkcdnservice.appspot.com^
 ||makzidhq.com^
 ||malharpossible.pro^
 ||malharvoice.pro^
+||malinesmanses.com^
 ||mallowsmother.com^
 ||malpacascal.space^
 ||mamihlapinatana.xyz^
@@ -11477,6 +11477,7 @@ vkcdnservice.appspot.com^
 ||salutationcheerlessdemote.com^
 ||samage-bility.icu^
 ||samegradually.com^
+||samplerpouch.com^
 ||samtrg.com^
 ||samyarct.top^
 ||sanddevelto.fun^
@@ -31595,6 +31596,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||ad.mtrf.net^
 ||x5.jougennotuki.com^
 ||ad.atown.jp^
 ||ads.pipaffiliates.com^
@@ -33446,6 +33448,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||zuoss.net^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
