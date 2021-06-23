@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-23T06:04:27.433Z
+! Last modified: 2021-06-23T12:04:12.840Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||igcdnnu.com^
+||pubaka5.com^
+||grothafepi.com^
+||nemewagro.com^
 ||effectiveperformancenetwork.com^
 ||sciencem.club^
 ||akemeast.club^
@@ -172,7 +176,6 @@
 ||onsideratio.fun^
 ||eoemyywmjx.com^
 ||pierlinks.com^
-||nkyouvery.fun^
 ||tefumiji.xyz^
 ||uhdokoq5ocmk.com^
 ||ohpdsplu.com^
@@ -2985,6 +2988,7 @@ www.llllllllllll.net^
 ||bsxmuny.wp.pl^
 ||fusion.sydsvenskan.se^
 ||ad.juksy.com^
+||nh-cdn.sgp1.cdn.digitaloceanspaces.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/54242
 /movie1168\.com\/storage\/go\/[0-9a-zA-Z]{0,40}\.gif/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/51547
@@ -9835,6 +9839,7 @@ vkcdnservice.appspot.com^
 ||nklrfqgz.com^
 ||nkmarxpzacidhn.com^
 ||nktorpmpbhvb.com^
+||nkyouvery.fun^
 ||nlkspjjcxyvr.com^
 ||nlntrk.com^
 ||nlz0ini5uz9t.com^
@@ -18183,6 +18188,9 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||adrizer.com^
+||contentsfeed.com^
+||zz.bdstatic.com^
 ||agorahtag.tech^
 ||cdn.adsquirrel.ai^
 ||b90.yahoo.co.jp^
@@ -24201,7 +24209,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adoric-om.com^
 ||adregain.com^
 ||adregain.ru^
-||adrizer.com^
 ||adscore.com^
 ||adtector.com^
 ||adtrackers.net^
@@ -26322,7 +26329,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adpick.co.kr^
 ||adtive.com^
 ||aicontents.net^
-||contentsfeed.com^
 ||dawin.tv^
 ||oevery.com^
 ||tenping.kr^
@@ -31861,6 +31867,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
+||my.my-hr.cn^
+||one.toumppk.cn^
 ||trenhdg.com^
 ||youqunjx.com^
 ||koudaiyundong.com^
@@ -32624,9 +32632,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Jun 2021 20:20 UTC+7
-! Version: 2106222020
-! Blocked: 870 rules
+! Last modified: 23 Jun 2021 14:23 UTC+7
+! Version: 2106231423
+! Blocked: 882 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32656,11 +32664,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adsplay.xyz^
 ||adstracking.apps.zing.vn^
 ||adtima-common.zadn.vn^
+||adtima-common.zascdn.me^
 ||adtima-media-td.zadn.vn^
 ||adtima-media.zadn.vn^
 ||adtima-media.zascdn.me^
 ||adtima-static-td.zadn.vn^
 ||adtima-static.zascdn.me^
+||adtima-video.zadn.vn^
 ||adtima-video.zascdn.me^
 ||adtima.vn^
 ||adx.vn^
@@ -32731,8 +32741,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nt-cdn.coccoc.com^
 ||nv-ad.24hstatic.com^
 ||ohchat.net^
+||omarketer.viettelpost.vn^
 ||oncustomer.asia^
 ||onfluencer.net^
+||onmarketer.net^
 ||partner.accesstrade.vn^
 ||phanquang.vn^
 ||philacct.com^
@@ -33095,6 +33107,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.ngaynay.vn^
 ||log.nhipcaudautu.vn^
 ||log.oto.com.vn^
+||log.plo.vn^
 ||log.saleup88.vn^
 ||log.sggp.org.vn^
 ||log.tapchimattran.vn^
@@ -33265,7 +33278,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||debet.com^
 ||fa88.win^
 ||fabet.com^
+||fabet.me^
 ||fabet.vip^
+||fabet88.net^
 ||fabetvn.com^
 ||fb88.com^
 ||fb88.link^
@@ -33276,11 +33291,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fb88sports.com^
 ||fb88viet.com^
 ||fcb8.com^
+||fcb8.fun^
+||fcb8.vip^
 ||fcb88.com^
 ||fcb88d.com^
 ||five88.biz^
 ||five88.com^
 ||five88.net^
+||fivevn.net^
 ||gamebai.club^
 ||gdwbetvn888.com^
 ||gdwviet.com^
@@ -33343,11 +33361,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||one88.fun^
 ||one88.me^
 ||one88.us^
+||one88.vip^
 ||one88.vn^
 ||oneday88.com^
 ||playgamefa88.live^
 ||playgo88.asia^
 ||playv8.com^
+||playv8.vip^
 ||qq8788viet.com^
 ||r88.vn^
 ||red88.com^
@@ -36167,6 +36187,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||a3vy69.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
