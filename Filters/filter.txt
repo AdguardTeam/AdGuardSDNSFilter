@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-22T18:03:28.496Z
+! Last modified: 2021-06-23T00:16:02.847Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||effectiveperformancenetwork.com^
 ||sciencem.club^
 ||akemeast.club^
 ||accompanycollapse.com^
@@ -18180,6 +18181,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||agorahtag.tech^
+||cdn.adsquirrel.ai^
 ||b90.yahoo.co.jp^
 ||mc-ya.ru^
 ||srmdata.com^
@@ -23795,7 +23798,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analysys.cn^
 ||logs.supersonic.com^
 ! xiaomi mi band app
-||datacollector-drru.dt.hicloud.com^
+||datacollector-*.dt.hicloud.com^
 ||app-analytics-ru.huami.com^
 ! spb tv android app
 ||metrics.spbtv.com^
@@ -26009,7 +26012,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bigdata.ssp.samsung.com^
 ||data.hicloud.com^
 ||extmaps-api.yandex.net^
-||insights.samsung.com^
 ||logbak.hicloud.com^
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
@@ -26357,7 +26359,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trugaze.io^
 ! Romanian
 ||2parale.ro^
-||agorahtag.tech^
 ||pahtag.tech^
 ||profitshare.ro^
 ||retargeting.biz^
@@ -33452,7 +33453,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||jacquelinelaura.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -34213,6 +34213,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iyoowi.com^
 ||iyptc.cn^
 ||ja9377.com^
+||jacquelinelaura.com^
 ||jbyy010.com^
 ||jcelyj.com^
 ||jcwlq.com^
@@ -36162,11 +36163,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||haoyundm.com^
-||madisonjamesphotography.com^
-||4tdbbs.cn^
-||shirleyyean.com^
-||chuanjiae.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -36240,6 +36236,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||4htixb.cn^
 ||4kfv18.cn^
 ||4nzrqw.cn^
+||4tdbbs.cn^
 ||4z5o27.cn^
 ||517kp.com^
 ||519397.com^
@@ -36545,6 +36542,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||chkwwg.cn^
 ||chongnikeji.com^
 ||chuangjulm.cn^
+||chuanjiae.cn^
 ||chuzrra.cn^
 ||cifree.xyz^
 ||cike666.com^
@@ -36868,6 +36866,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||haomaiweb.com^
 ||haomaojin.com^
 ||haoxianyangrouye.com^
+||haoyundm.com^
 ||happyyong.com^
 ||hbbww.com^
 ||hbhyc.cn^
@@ -37231,6 +37230,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lzjsjw.cn^
 ||m06nev.com^
 ||mababa.info^
+||madisonjamesphotography.com^
 ||maicaoren.cn^
 ||maimaias.cn^
 ||mao1.jsnovel.com^
@@ -37547,6 +37547,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shidaikejivip.cn^
 ||shidailw.com^
 ||shiguangyx.cn^
+||shirleyyean.com^
 ||shishishiguixinfangfuzhuangshanghan.cn^
 ||shjrwh.cn^
 ||shjsxx.com^
