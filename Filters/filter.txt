@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-23T12:04:12.840Z
+! Last modified: 2021-06-24T00:12:25.399Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2765,6 +2765,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||d13nu0oomnx5ti.cloudfront.net^
 ||cintent.streanplay.cc^
 ||centent.streanplay.cc^
 ||centent.steanplay.cc^
@@ -17541,7 +17542,8 @@ vkcdnservice.appspot.com^
 ||ad.prismamediadigital.com^
 ! Supership.jp (also mobile ads)
 ||socdm.com^
-!
+! ByteDance
+-tos.pstatp.com^
 ! Criteo mobile ads
 ||criteo.com^
 ||criteo.net^
@@ -18188,6 +18190,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||plugins.soclminer.com.br^
 ||adrizer.com^
 ||contentsfeed.com^
 ||zz.bdstatic.com^
@@ -26952,6 +26955,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||jsrlfg.com^
 ||1xroom.com^
 ||zbyynuew9g.ru^
 ||gzppit.com^
@@ -36187,7 +36191,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||a3vy69.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -36337,6 +36340,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||9weg7b.com^
 ||9y88.com^
 ||a3pz36.cn^
+||a3vy69.cn^
 ||a7t89g4a.cn^
 ||aa.wenxue6.com^
 ||aa13.cloud^
@@ -36421,6 +36425,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aoyou3.top^
 ||aoyou4.top^
 ||ap72el.com^
+||apainter.cn^
 ||apdingqian.com^
 ||apjiangte.com^
 ||applequan.com^
@@ -37768,6 +37773,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vvnna.com^
 ||vwb4p.cn^
 ||wagenlux.cn^
+||wanderbj.top^
 ||wangdaguanli.com^
 ||wangjulm.com^
 ||wangkeduo.cn^
