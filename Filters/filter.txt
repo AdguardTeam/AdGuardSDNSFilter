@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-27T12:04:21.944Z
+! Last modified: 2021-06-27T18:03:16.988Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22231,6 +22231,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||events.sd-nbb.de^
 ||d2uhnetoehh304.cloudfront.net^
 ||c.sibnet.ru^
 ||bc.nhk.jp^
@@ -31882,7 +31883,6 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
-||my.my-hr.cn^
 ||one.toumppk.cn^
 ||trenhdg.com^
 ||youqunjx.com^
@@ -35490,6 +35490,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||s1.pipishu.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36214,6 +36215,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||isles.cn^
+||my-hr.cn^
+||tpool.cn^
+||txuesoft.cn^
+||zgcqxjzny.cn^
+||hdketang.cn^
+||dzxzx.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
