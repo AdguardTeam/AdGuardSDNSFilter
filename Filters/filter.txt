@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-29T06:04:18.980Z
+! Last modified: 2021-06-29T12:06:10.613Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4560,6 +4560,7 @@ vkcdnservice.appspot.com^
 ||beefraidmob.com^
 ||beegmove.com^
 ||beegotou.net^
+||beehiveclergyman.com^
 ||beenmeekwarmth.casa^
 ||beforement.club^
 ||beforesfantr.club^
@@ -9845,6 +9846,7 @@ vkcdnservice.appspot.com^
 ||noisysortcasualty.com^
 ||nomadpertexcess.com^
 ||nomicidenti.top^
+||nominalpowerlessunable.com^
 ||nonerr.com^
 ||nonewnews.name^
 ||nonfictionrobustchastise.com^
@@ -9994,6 +9996,7 @@ vkcdnservice.appspot.com^
 ||o626b32etkg6.com^
 ||oackoubs.com^
 ||oadaheba.net^
+||oadsouzi.net^
 ||oaffolksy.cam^
 ||oagnatch.com^
 ||oampitsa.com^
@@ -32672,9 +32675,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 29 Jun 2021 09:06 UTC+7
-! Version: 2106290906
-! Blocked: 890 rules
+! Last modified: 29 Jun 2021 16:04 UTC+7
+! Version: 2106291604
+! Blocked: 891 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33446,6 +33449,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top88.fun^
 ||top88.uk^
 ||top88.us^
+||trungso.vip^
 ||uw88vnd.com^
 ||v7ac.com^
 ||v8.club^
@@ -33525,6 +33529,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||120571.com^
+||earthahedda.com^
 ||betonpolite.com^
 ||00-gov.cn^
 ||0024aaaa.com^
@@ -35523,6 +35529,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||99js.rxys.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36248,6 +36255,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||gldad.com^
+||rqkgcd.xyz^
+||jnjcxx.com^
+||slout.top^
+||huojugg.com^
+||meibiisheng.com^
 ||speaknews.cn^
 ||gzts188.com^
 ||dangrancha.com.cn^
