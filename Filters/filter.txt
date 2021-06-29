@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-28T18:16:02.445Z
+! Last modified: 2021-06-29T00:14:39.239Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -17601,6 +17601,7 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||ads.edadeal.ru^
 ||pr.comet.yahoo.com^
 ||tapjoy.com^
 ||tapjoy.net^
@@ -18209,6 +18210,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||channel-analysis-js.gmw.cn^
 ||kaiseki-website.com^
 ||site-kaiseki-tool.com^
 ||clarity.ms^
@@ -22244,6 +22246,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||pixel.inforsea.com^
 ||l.niiblo.jp^
 ||events.sd-nbb.de^
 ||d2uhnetoehh304.cloudfront.net^
@@ -24571,6 +24574,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logrocket.com^
 ||logrocket.io^
 ||loopa.net.au^
+||lr-ingest.io^
 ||luckyorange.net^
 ||lyngro.com^
 ||m-t.io^
@@ -26983,6 +26987,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||playjusting.com^
 ||gafdelins.com^
 ||nplxa.com^
 ||jsrlfg.com^
