@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-30T06:03:36.758Z
+! Last modified: 2021-06-30T12:07:08.086Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18262,6 +18262,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||kilometrix.de^
 ||calameo-beacon.global.ssl.fastly.net^
 ||channel-analysis-js.gmw.cn^
 ||kaiseki-website.com^
@@ -24595,7 +24596,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kaxsdc.com^
 ||keytiles.com^
 ||kickfire.com^
-||kilometrix.de^
 ||kissmetrics.io^
 ||km-sea.net^
 ||kmtx.io^
@@ -32725,8 +32725,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 29 Jun 2021 16:04 UTC+7
-! Version: 2106291604
+! Last modified: 30 Jun 2021 14:01 UTC+7
+! Version: 2106301401
 ! Blocked: 891 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -33579,6 +33579,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||jiyuanzhiwensuo.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -36305,6 +36306,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||zxopen.tech^
+||butendecatholicparish.com^
+||dushuge.net^
+||kejiadoor.cn^
+||njcengpianwang.cn^
+||sviss.top^
 ||busxiongdi.com^
 ||01tn.cn^
 ||027whht.com^
@@ -37361,7 +37368,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ljmei.com^
 ||llffaev.cn^
 ||llqd5.cn^
-||lmdknj.vbiquge.com^
+||lmdknj.xxbiquge.net^
 ||lnalttc.com^
 ||lobmuc.cn^
 ||lolvsdota.cn^
