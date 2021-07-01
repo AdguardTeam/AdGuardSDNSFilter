@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-06-30T18:03:45.228Z
+! Last modified: 2021-07-01T00:15:11.882Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24734,6 +24734,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||p2r14.com^
 ||pagesense.io^
 ||parametre.online^
+||particularaudience.com^
 ||pbgrd.com^
 ||pdbu.net^
 ||pendo.io^
@@ -33598,8 +33599,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||wm-mxc.com^
-||jiyuanzhiwensuo.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -34401,6 +34400,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jisuoping.com^
 ||jiuhui878.com^
 ||jiuku.cc^
+||jiyuanzhiwensuo.cn^
 ||jjxgly.com^
 ||jjz666.cn^
 ||jk939.com^
@@ -34995,6 +34995,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||windzq.com^
 ||wjguc.com^
 ||wka8.com^
+||wm-mxc.com^
 ||wnlyjhb.com^
 ||wo19.top^
 ||wojiabaoye.com^
@@ -36326,14 +36327,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||dl12349.net^
-||zxopen.tech^
-||butendecatholicparish.com^
-||dushuge.net^
-||kejiadoor.cn^
-||njcengpianwang.cn^
-||sviss.top^
-||busxiongdi.com^
+||tearf.cn^
+||timup.top^
+||dd-lightingshow.com^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -36668,6 +36664,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bugcreator.cn^
 ||bulankk.com^
 ||bulkeach.com^
+||busxiongdi.com^
+||butendecatholicparish.com^
 ||buyuninfo.com^
 ||buzx53.cn^
 ||bx9000.top^
@@ -36827,6 +36825,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dilqdiw.cn^
 ||dirbfm.cn^
 ||dkjdnq.cn^
+||dl12349.net^
 ||dldsrs.com^
 ||dlsdkw.cn^
 ||dlyukun.cn^
@@ -36848,6 +36847,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dtzysm.com^
 ||du9zgx.cn^
 ||duluoweiyu.com^
+||dushuge.net^
 ||duwowvo.cn^
 ||duyousxtd.com^
 ||dvzk66.cn^
@@ -37312,6 +37312,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kbstyn.com^
 ||kddlearn.cn^
 ||keilb.xyz^
+||kejiadoor.cn^
 ||keran.hl.cn^
 ||ketaoke.com^
 ||keyand.xyz^
@@ -37517,6 +37518,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ningbojipiao.com^
 ||ningxiayy.com^
 ||niutaizong.cn^
+||njcengpianwang.cn^
 ||njcyt.com^
 ||njguluyu.cn^
 ||njhuashidai.cn^
@@ -37794,6 +37796,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||superbao.top^
 ||sv7oqa.cn^
 ||svfwer.top^
+||sviss.top^
 ||sw9t.ml^
 ||swq48b.cn^
 ||swyhome.com^
@@ -38284,6 +38287,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zxin131.cn^
 ||zxjjzx.com^
 ||zxlmnet.com^
+||zxopen.tech^
 ||zxsmxt.com^
 ||zykxjt.com^
 ||zyqtc.cn^
