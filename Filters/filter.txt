@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-02T12:05:32.048Z
+! Last modified: 2021-07-02T18:03:42.089Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -17731,6 +17731,8 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||adcel.co^
+||offerwall-adnative.com^
 ||ads.edadeal.ru^
 ||pr.comet.yahoo.com^
 ||tapjoy.com^
@@ -18340,6 +18342,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||aspservice.jp^
 ||kilometrix.de^
 ||calameo-beacon.global.ssl.fastly.net^
 ||channel-analysis-js.gmw.cn^
@@ -22378,9 +22381,23 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||l.da-te.jp^
+||l.ffsagami.com^
+||l.hamazo.tv^
+||l.ikora.tv^
+||l.junglekouen.com^
+||l.kyo2.jp^
+||l.miyachan.cc^
+||l.namjai.cc^
+||l.naturum.ne.jp^
+||l.niiblo.jp^
+||l.osakazine.net^
+||l.sagafan.jp^
+||l.tamaliver.jp^
+||l.tenkomori.tv^
+||l.ti-da.net^
 ||p.gm99.com^
 ||pixel.inforsea.com^
-||l.niiblo.jp^
 ||events.sd-nbb.de^
 ||d2uhnetoehh304.cloudfront.net^
 ||c.sibnet.ru^
@@ -22401,7 +22418,6 @@ vkcdnservice.appspot.com^
 ||analytics.atlassian.com^
 ||trackdb.go3.tv^
 ||collector.rn.de^
-||l.da-te.jp^
 ||log.shufoo.net^
 ||logcollect.totalcms.ncloud.or.kr^
 ||discovery.newspic.kr^
@@ -26454,7 +26470,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||amoad.com^
 ||analyticsip.net^
 ||ar-x.site^
-||aspservice.jp^
 ||cetlog.jp^
 ||cheqzone.com^
 ||d-markets.net^
@@ -33663,6 +33678,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||jindongsheng.top^
 ||zhangbaochang.top^
 ||00-gov.cn^
 ||0024aaaa.com^
@@ -36395,6 +36411,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||zc710956.top^
+||wangyuekun.xyz^
 ||whsseqpcs.top^
 ||bowei666.xyz^
 ||xisea.top^
