@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-04T12:05:04.858Z
+! Last modified: 2021-07-04T18:03:38.568Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||wingersunbrand.com^
+||skimegcolder.com^
+||woodymotherhood.com^
+||hannode.xyz^
 ||grinzamenis.com^
 ||stronglygathering.com^
 ||psaukaux.net^
@@ -5728,6 +5732,7 @@ vkcdnservice.appspot.com^
 ||crowdgravity.com^
 ||crptentry.com^
 ||crtracklink.com^
+||crudestoctdra.cam^
 ||crutchsnobcat.com^
 ||cryartarm.online^
 ||cryptianainv.club^
@@ -13571,6 +13576,7 @@ vkcdnservice.appspot.com^
 ||wigetmedia.com^
 ||wigglecrisis.com^
 ||wiglogsbathos.cam^
+||wignewsee.club^
 ||wildernesssigntolerance.com^
 ||wildtowedcad.work^
 ||wilfulpessimistic.com^
@@ -18400,6 +18406,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||track.robee.tech^
 ||aspservice.jp^
 ||kilometrix.de^
 ||calameo-beacon.global.ssl.fastly.net^
@@ -22439,6 +22446,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||smp.tus.ac.jp^
 ||l.da-te.jp^
 ||l.ffsagami.com^
 ||l.hamazo.tv^
