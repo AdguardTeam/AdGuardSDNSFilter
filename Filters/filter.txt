@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-03T18:03:08.903Z
+! Last modified: 2021-07-04T00:14:09.848Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9329,6 +9329,7 @@ vkcdnservice.appspot.com^
 ||meryjane.pro^
 ||messengerinternfair.com^
 ||mesucces.top^
+||metatestruck.com^
 ||metavertising.com^
 ||metavertizer.com^
 ||methickarda.club^
@@ -13406,6 +13407,7 @@ vkcdnservice.appspot.com^
 ||wautoosa.net^
 ||waveclks.com^
 ||wavecurersquire.cam^
+||wavysumatone.cam^
 ||waxpigbaa.com^
 ||waxtamnit.com^
 ||wayfarerspoutpraise.com^
@@ -33700,7 +33702,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||375553.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33798,6 +33799,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||365339.top^
 ||365che.cc^
 ||36pn.com^
+||375553.com^
 ||376zf.com^
 ||38taobao.com^
 ||3c3c3.com^
@@ -35708,7 +35710,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||x.aigobook.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36349,6 +36350,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wuliao.juqingba.cn^
 ||www1.wxnmh.com^
 ||wyzq.rehuwang.com^
+||x.aigobook.com^
 ||x1.52aoteman.com^
 ||x1.kantu.com^
 ||xbtw.com^
@@ -36435,10 +36437,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||govjieyang.cn^
-||djvalve.com.cn^
-||5socks.cn^
-||pyblogs.xyz^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -36540,6 +36538,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5p68n.cn^
 ||5q63n.cn^
 ||5q68n.cn^
+||5socks.cn^
 ||5x0f.cn^
 ||5zi2.top^
 ||5zi3.top^
@@ -36937,6 +36936,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dibyc.com^
 ||dilqdiw.cn^
 ||dirbfm.cn^
+||djvalve.com.cn^
 ||dkjdnq.cn^
 ||dl12349.net^
 ||dldsrs.com^
@@ -37108,6 +37108,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||goodkee.cn^
 ||gotooback.com^
 ||gou1zhe.com^
+||govjieyang.cn^
 ||gqdvsvt.cn^
 ||graintown.cn^
 ||gralfusnzpo003.top^
@@ -37728,6 +37729,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pu0glv.cn^
 ||puqer.cn^
 ||pwjmzqx.cn^
+||pyblogs.xyz^
 ||pyerc.com^
 ||pyhuiyu.com^
 ||pyxjwks.com^
