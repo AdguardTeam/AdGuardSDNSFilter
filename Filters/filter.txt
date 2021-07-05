@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-05T00:14:08.798Z
+! Last modified: 2021-07-05T06:04:49.295Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -25227,7 +25227,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||foxpush.net^
 ||getpush.net^
 ||getpushmonkey.com^
-||getsupernova.com^
 ||gravitec.net^
 ||heroesdom.com^
 ||highfalutinhoney.com^
@@ -32892,9 +32891,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Jun 2021 14:01 UTC+7
-! Version: 2106301401
-! Blocked: 891 rules
+! Last modified: 05 Jul 2021 11:08 UTC+7
+! Version: 2107051108
+! Blocked: 893 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33561,6 +33560,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fcb88d.com^
 ||five88.biz^
 ||five88.com^
+||five88.me^
 ||five88.net^
 ||fivevn.net^
 ||gamebai.club^
@@ -33656,6 +33656,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||taib52.club^
 ||taimacau.club^
 ||taiv8.com^
+||taiv8.info^
 ||tangsoc.com^
 ||thethaodabet.com^
 ||thethaofb88.com^
@@ -33731,6 +33732,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||irduwhojas.ga^
 ||kaurroot.com^
 ||larpollicwilli.club^
+||news-good.net^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
 ||smilitygorb.club^
