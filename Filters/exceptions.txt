@@ -3,6 +3,9 @@
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/707
+! Blocked by CNAME ||leadpages.net^$third-party
+@@||health.halodoc.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81939
 @@||support-beacon.nakanohito.jp^|
 @@||support-widget.nakanohito.jp^|
