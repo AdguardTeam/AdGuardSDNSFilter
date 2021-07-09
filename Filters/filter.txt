@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-09T00:14:08.565Z
+! Last modified: 2021-07-09T06:03:30.947Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24075,7 +24075,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||abtrcking.com^
 ||abtshield.com^
 ||accdab.net^
-||acceptableserver.com^
 ||acsbap.com^
 ||acuityplatform.com^
 ||acxiomapac.com^
@@ -24186,7 +24185,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cdnmaster.com^
 ||cdnopw.com^
 ||cformanalytics.com^
-||chickensaladandads.com^
 ||cintnetworks.com^
 ||clearbitjs.com^
 ||clickbrainiacs.com^
@@ -24347,7 +24345,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hscta.net^
 ||hudb.pl^
 ||humanpresence.app^
-||i401xox.com^
 ||iaudienc.com^
 ||ifvox.com^
 ||impactradius-event.com^
@@ -24430,7 +24427,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||m0mentum.net^
 ||m365log.com^
 ||mabipa.com^
-||macandcheeseandads.com^
 ||magnuum.com^
 ||marketperf.com^
 ||marketshot.com^
@@ -24690,7 +24686,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||theagency.com^
 ||theardent.group^
 ||thehairofcaptainpicard.com^
-||thingswontend.com^
 ||thinktot.com^
 ||threat-analytics.com^
 ||tnctrx.com^
@@ -24956,13 +24951,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bmnr.pw^
 ||bmst.pw^
 ||browsermine.com^
-||byebye.ml^
 ||candid.zone^
 ||cdn-code.host^
 ||chmproxy.bid^
 ||clgserv.pro^
 ||cloud-miner.eu^
-||cloudcoins.co^
 ||cloudflareinsights.com^
 ||cnhv.co^
 ||coinhiveproxy.com^
@@ -24972,7 +24965,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||coinminingonline.com^
 ||coinwebmining.com^
 ||cookiescript.info^
-||cpufan.club^
 ||cryptaloot.pro^
 ||crypto-coins.club^
 ||crypto-coins.com^
@@ -25009,7 +25001,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||flare-analytics.com^
 ||freecontent.bid
 ||freecontent.date
-||freecontent.science
 ||freecontent.stream
 ||g1thub.com^
 ||gay-hotvideo.net^
@@ -25072,7 +25063,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rollercoin.com^
 ||rtb-seller.com^
 ||s7ven.com^
-||seed.bitcoin.jonasschnelli.ch^
 ||seed.bitcoin.sipa.be^
 ||seed.bitcoin.sprovoost.nl^
 ||seed.bitcoin.wiz.biz^
@@ -25092,7 +25082,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sushipool.com^
 ||swiftmining.win^
 ||tmmp.io^
-||truemine.org^
 ||trustiseverything.de^
 ||trustmeiamapro.de^
 ||turnsocial.com^
@@ -25153,6 +25142,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||activetracker.activehotels.com^
 ||activities.niagara.comedycentral.com^
 ||activity.*.miui.com^
+||ad-shield.io^
 ||ad.aloodo.com^
 ||adfox.yandex.ru^
 ||adlog.com.com^
@@ -25172,7 +25162,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-production.hapyak.com^
 ||analytics-rhwg.rhcloud.com^
-||analytics-script.ad-shield.io^
 ||analytics-scripts.cablelabs.com^
 ||analytics-sg.tiktok.com^
 ||analytics.30m.com^
@@ -25370,7 +25359,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d16fk4ms6rqz1v.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
-||d1hi41nc56pmug.cloudfront.net^
 ||d1iazwv1n1tsyi.cloudfront.net^
 ||d1igp3oop3iho5.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
@@ -25429,7 +25417,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dirt.dennis.co.uk^
 ||djibeacon.djns.com^
 ||dl1d2m8ri9v3j.cloudfront.net^
-||dlvkf5067xruv.cloudfront.net^
 ||dn34cbtcv9mef.cloudfront.net^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
@@ -25608,7 +25595,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ping.dozuki.com^
 ||pings.vidpulse.com^
 ||pipe-collect.ebu.io^
-||pix.impdesk.com^
 ||pix.revjet.com^
 ||pix.speedbit.com^
 ||pixel-a.basis.net^
@@ -25630,7 +25616,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||plausibleio.workers.dev^
 ||pmetrics.performancing.com^
 ||porpoise.azettl.net^
-||powersearch.us.com^
 ||pr.blogflux.com^
 ||prd-collector-auth.playbuzz.com^
 ||prd-collector-platform.ex.co^
@@ -25692,7 +25677,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stat.boredomtherapy.com^
 ||stat.glaze.ai^
 ||stat.moevideo.net^
-||stat.pladform.ru^
 ||stat.segitek.hu^
 ||stat.web-regie.com^
 ||statistics.tattermedia.com^
@@ -25828,7 +25812,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.drsfostersmith.com^
 ||tracking.drum.io^
 ||tracking.edvisors.com^
-||tracking.ehavior.net^
 ||tracking.fanbridge.com^
 ||tracking.fits.me^
 ||tracking.godatafeed.com^
@@ -25855,7 +25838,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.sezzle.com^
 ||tracking.sharplink.us^
 ||tracking.waterfrontmedia.com^
-||tracking.worldmedia.net^
 ||tracking1.brandmentions.com^
 ||trackla.stackla.com^
 ||traffic.acwebconnecting.com^
@@ -26438,7 +26420,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stat.prsmedia.fr^
 ||stats-dc1.frz.io^
 ||stats-factory.digitregroup.io^
-||stats.buzzea.com^
 ||stats.ipmgroup.be^
 ||stats.tipser.com^
 ||t.ofsys.com^
@@ -26529,9 +26510,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rum.marquardmedia.hu^
 ||videostat-new.index.hu^
 ||videostat.index.hu^
-! Icelandic
-! Indian
-||analytics.bhaskar.com^
 ||analytics.competitoor.com^
 ||analytics00.meride.tv^
 ||audit.shaa.it^
@@ -26675,7 +26653,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hits.eluniversal.com.mx^
 ||mtm.qdqmedia.com^
 ||pixel.zumby.io^
-||stats.bitban.com^
 ||stats.qdq.com^
 ||stats.sec.telefonica.com^
 ||tag.shopping-feed.com^
@@ -31756,6 +31733,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||azol.de^
 ||twiago.com^
 ||bauernative.com^
+||chickensaladandads.com^
 
 !
 ! Source name: AdGuard Chinese filter ad servers
@@ -32530,8 +32508,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Jul 2021 10:36 UTC+7
-! Version: 2107081036
+! Last modified: 09 Jul 2021 10:14 UTC+7
+! Version: 2107091014
 ! Blocked: 900 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
