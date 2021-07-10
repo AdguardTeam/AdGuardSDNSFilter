@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-10T06:03:29.329Z
+! Last modified: 2021-07-10T18:03:19.284Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||babanmat.com^
+||trixyapieces.com^
+||rnotraff.com^
 ||faster-trk.com^
 ||embogsoarers.com^
 ||rozumotterer.com^
@@ -138,7 +141,6 @@
 ||gp.trcked.me^
 ||ggjqcdnmnno.com^
 ||dwomentt.biz^
-||tillatingmer.fun^
 ||colorfulads.com^
 ||prod.entry.video-ads.a2z.com^
 ||lovelybingo.com^
@@ -177,7 +179,6 @@
 ||ethnictyrosky.com^
 ||wherabygry.com^
 ||swinity.com^
-||thousandfixedlyyawn.com^
 ||tags.catapultx.com^
 ||z.cdn.adpool.bet^
 ||ccdnqxu.com^
@@ -199,7 +200,6 @@
 ||colonistnobilityheroic.com^
 ||derangemathsreply.com^
 ||adsterra.org^
-||tluumnjyrc.com^
 ||ursegreatm.fun^
 ||qwtomdpb.com^
 ||voylbgutpjcmcm.com^
@@ -213,7 +213,6 @@
 ||onsideratio.fun^
 ||eoemyywmjx.com^
 ||pierlinks.com^
-||tefumiji.xyz^
 ||aragontrack.com^
 ||beliefindefinite.com^
 ||luglestowha.pro^
@@ -286,7 +285,6 @@
 ||notesbook.in^
 ||bitads.io^
 ||riotousgrit.com^
-||thispositionw.biz^
 ||vetdeberg.com^
 ||zviybblezmc.com^
 ||thorsado.net^
@@ -1061,7 +1059,6 @@
 ||9purdfe9xg.com^
 ||risausso.com^
 ||tohopes.ru^
-||totogetica.com^
 ||ascraftan.com^
 ||ndjelsefd.com^
 ||syyycc.com^
@@ -1123,7 +1120,6 @@
 ||balvalur.com^
 ||gloalrie.com^
 ||pushazam.com^
-||uod2quk646.com^
 ||thetreuntalle.pro^
 ||dorectertnerow.info^
 ||nuclearads.com^
@@ -1221,7 +1217,6 @@
 ||reydi.xyz^
 ||chidsimp.com^
 ||hpcat.cn^
-||tslomhfys.com^
 ||bl0uxepb4o.com^
 ||321gongsi.com^
 ||e.211pu.cn^
@@ -1605,7 +1600,6 @@
 ||drakorindo.club^
 ||mobileoffers-a-download.com^
 ||piratepc.net^
-||talk2none.com^
 ||smashseek.com^
 ||theirsvendor.com^
 ||opten.hu^
@@ -1886,7 +1880,6 @@ www.llllllllllll.net^
 ||wheelches.info^
 ||menemier.info^
 ||therses.com
-||turbotraff.com^
 ||xijgedjgg5f55.com^
 ||bitvertise.io^
 ||coinverti.com^
@@ -1965,7 +1958,6 @@ www.llllllllllll.net^
 ||modulepush.com^
 ||pipeschannels.com^
 ||adsrv4k.com^
-||tagbucket.cc^
 ||plufdsb.com^
 ||pukrazopchatka.com^
 ||tweightment.pro^
@@ -2000,7 +1992,6 @@ www.llllllllllll.net^
 ||ssl4go.ga^
 ||stimergeners.pro^
 ||frolnk.com^
-||terrapush.com^
 ||fridrici.info^
 ||stampshire.info^
 ||noqukjy.com^
@@ -2112,7 +2103,6 @@ www.llllllllllll.net^
 ||rolkakuksa.com^
 ||scrappykoko.com^
 ||senolati.com^
-||tantella.com^
 ||tenlokif.com^
 ||tijorari.com^
 ||tikodala.com^
@@ -2638,12 +2628,10 @@ www.llllllllllll.net^
 ||tracking.cirrusinsight.com^
 ||tradeadexchange.com^
 ||trafex.net^
-||traffichaus.com^
 ||trafficholder.com^
 ||trafficmagnates.com^
 ||traforet.com^
 ||transpera.com^
-||trklnks.com^
 ||tubecontext.com^
 ||ujieva.com^
 ||vartoken.com^
@@ -3082,7 +3070,6 @@ vkcdnservice.appspot.com^
 ||smartoffer.site^
 ||stonecalcom.com^
 ||terethat.ru^
-||thewhizmarketing.com^
 ||thewhizproducts.com^
 ||thewise.com^
 ||traffic.tc-clicks.com^
@@ -12202,6 +12189,7 @@ vkcdnservice.appspot.com^
 ||talkingdom.club^
 ||talsauve.com^
 ||tamhdxkh.com^
+||tantella.com^
 ||tantsprovisitsc.club^
 ||tapixesa.pro^
 ||tapjoyads.com^
@@ -12252,6 +12240,7 @@ vkcdnservice.appspot.com^
 ||teenstiffen.com^
 ||teeplyinsidere.club^
 ||tefrequesth.top^
+||tefumiji.xyz^
 ||tegiccurlish.fun^
 ||tehappear.top^
 ||tek-tek-trek.com^
@@ -12348,6 +12337,7 @@ vkcdnservice.appspot.com^
 ||thiscdn.com^
 ||thisisyourprize.site^
 ||thismetric.com^
+||thispositionw.biz^
 ||thistracknet.com^
 ||thizamocu.pro^
 ||thliptruhzaed.com^
@@ -12366,6 +12356,7 @@ vkcdnservice.appspot.com^
 ||thoughclassifiedjeff.com^
 ||thoughtthricecompress.com^
 ||thoughuttered.com^
+||thousandfixedlyyawn.com^
 ||thqwivyhdpoem.com^
 ||thricemodestsuffix.com^
 ||throughhonouredhighest.com^
@@ -12395,6 +12386,7 @@ vkcdnservice.appspot.com^
 ||tigerhysteriaspree.com^
 ||tightsaturdayi.com^
 ||tiglesoshi.pro^
+||tillatingmer.fun^
 ||tilltucked.com^
 ||timai-mao.com^
 ||timbercooling.com^
@@ -12428,6 +12420,7 @@ vkcdnservice.appspot.com^
 ||tlocatering.club^
 ||tlootas.org^
 ||tlrrlomssbt.com^
+||tluumnjyrc.com^
 ||tme2wrwzz3wh.com^
 ||tmfkuesmlpto.com^
 ||tmiscattlem.fun^
@@ -12487,6 +12480,7 @@ vkcdnservice.appspot.com^
 ||totallifeguru.com^
 ||totentacruelor.com^
 ||totifiquo.com^
+||totogetica.com^
 ||touchbackgroundrusty.com^
 ||toughopponent.com^
 ||touglesy.net^
@@ -12591,6 +12585,7 @@ vkcdnservice.appspot.com^
 ||tsfrenceabu.club^
 ||tsinsideredex.club^
 ||tsleavilycele.club^
+||tslomhfys.com^
 ||tspops.com^
 ||tstobkl.pro^
 ||tstrokenga.info^
@@ -12774,6 +12769,7 @@ vkcdnservice.appspot.com^
 ||untruewring.com^
 ||unwillingcalumny.com^
 ||unwofulcountys.com^
+||uod2quk646.com^
 ||uopvdbudoe.com^
 ||upgulpinon.com^
 ||upheavesy.club^
@@ -16450,12 +16446,14 @@ vkcdnservice.appspot.com^
 ||tacrater.com^
 ||tacticalrepublic.com^
 ||tafmaster.com^
+||tagbucket.cc^
 ||tagcade.com^
 ||taggify.net^
 ||tagjunction.com^
 ||tailsweep.com^
 ||taiphaib.net^
 ||talaropa.com^
+||talk2none.com^
 ||tangozebra.com^
 ||tankeuro.com^
 ||tapinfluence.com^
@@ -16482,6 +16480,7 @@ vkcdnservice.appspot.com^
 ||telemetryverification.net^
 ||teracent.net^
 ||teracreative.com^
+||terrapush.com^
 ||terratraf.com^
 ||testfilter.com^
 ||testnet.nl^
@@ -16502,6 +16501,7 @@ vkcdnservice.appspot.com^
 ||theverlalinglac.info^
 ||thewebgemnetwork.com^
 ||thewheelof.com^
+||thewhizmarketing.com^
 ||thikraik.net^
 ||thisiswaldo.com^
 ||thoughtleadr.com^
@@ -16574,6 +16574,7 @@ vkcdnservice.appspot.com^
 ||trafficfactory.biz^
 ||trafficforce.com^
 ||trafficformoney.com^
+||traffichaus.com^
 ||trafficjunky.com^
 ||trafficjunky.net^
 ||trafficmasterz.net^
@@ -16611,6 +16612,7 @@ vkcdnservice.appspot.com^
 ||trk4.com^
 ||trkclk.net^
 ||trker.com^
+||trklnks.com^
 ||trklvs.com^
 ||trkrdel.com^
 ||trks.us^
@@ -16632,6 +16634,7 @@ vkcdnservice.appspot.com^
 ||tubereplay.com^
 ||tumri.net^
 ||turboadv.com^
+||turbotraff.com^
 ||turbotraff.net^
 ||tusno.com^
 ||tut-64.com^
@@ -18019,6 +18022,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||ar-x.site^
 ||analytics.chase.com^
 ||scripttags.jst.ai^
 ||trace21.dsb-ebusiness.com^
@@ -26156,7 +26160,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aid-ad.jp^
 ||amoad.com^
 ||analyticsip.net^
-||ar-x.site^
 ||cetlog.jp^
 ||cheqzone.com^
 ||d-markets.net^
@@ -31450,7 +31453,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logoole.yahoo.co.jp^
 ||yads.yahoo.co.jp^
 ||yads.yjtag.yahoo.co.jp^
-||yjaxc.yahoo.co.jp^
 !
 ! Supership.jp (also mobile ads)
 !
@@ -31488,6 +31490,10 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||js.winc-ad.com^
+||cdn.neppa-ad.com^
+||affil.jp^
+||reemo-ad.jp^
 ||cdn.alistcloud.com^
 ||ams900.goo.ne.jp^
 ||candy-network.com^
@@ -31602,7 +31608,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||act1-1.info^
 ||blogroll.livedoor.net^
 ||dis.hogei.info^
-||tokyo-tube-ad.com^
 ||ad.netowl.jp^
 ||js.colo2.jp^
 ||preaf-ad.jp^
@@ -32026,6 +32031,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cashdorado.de^
 ||chatntr.com^
 ||ci-marketing.de^
+||cmadserver.de^
 ||codes.wai.it^
 ||conative.de^
 ||connects.ch^
@@ -35390,6 +35396,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||static.sinawap.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36119,6 +36126,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||adtongji.xyz^
+||baoren.tech^
+||esure.wang^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
