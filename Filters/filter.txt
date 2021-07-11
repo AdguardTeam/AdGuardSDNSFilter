@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-11T12:04:42.126Z
+! Last modified: 2021-07-11T18:03:01.896Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7790,6 +7790,7 @@ vkcdnservice.appspot.com^
 ||hot4k.org^
 ||hotgvibe.com^
 ||hothta.com^
+||hotideiasnetwork.ga^
 ||hotrodsvmsize.casa^
 ||houdodoo.net^
 ||hounicuy.com^
@@ -9904,6 +9905,7 @@ vkcdnservice.appspot.com^
 ||omafaren.pw^
 ||omatri.info^
 ||omchanseyr.com^
+||omcis-news3.online^
 ||omedcam.biz^
 ||omfortsex.club^
 ||omisingcur.fun^
@@ -11968,6 +11970,7 @@ vkcdnservice.appspot.com^
 ||strawldeli.biz^
 ||strayhepatitisbruise.com^
 ||stream-all.com^
+||streamium.xyz^
 ||streamsearchclub.com^
 ||streamspeedygreatlyapplication.best^
 ||streamyourvid.com^
@@ -12315,6 +12318,7 @@ vkcdnservice.appspot.com^
 ||timai-mao.com^
 ||timbercooling.com^
 ||time4news.net^
+||timeone.pro^
 ||timerobstacle.com^
 ||timeruniversalreligious.com^
 ||timeryielding.com^
@@ -13260,6 +13264,7 @@ vkcdnservice.appspot.com^
 ||workshirty.club^
 ||worldsearchpro.com^
 ||worldwidemailer.com^
+||wormishammites.com^
 ||worriesceaslessceaslessentreat.com^
 ||worryextendingbrooch.com^
 ||worsesprinterendless.com^
@@ -31624,7 +31629,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jpg-server.com^
 ||link-trade.net^
 ||logping.exblog.jp^
-||magma-analytics.com^
 ||match.seesaa.jp^
 ||mcnt.jp^
 ||pvranking.com^
@@ -31634,7 +31638,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||scadnet.com^
 ||search.jword.jp^
 ||seoparts.com^
-||aag.yahooapis.jp^
 ||tag.nifty.com^
 ||thatsping.jp^
 ||tracker.kantan-access.com^
@@ -32446,9 +32449,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Jul 2021 10:14 UTC+7
-! Version: 2107091014
-! Blocked: 900 rules
+! Last modified: 11 Jul 2021 20:26 UTC+7
+! Version: 2107112026
+! Blocked: 909 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32499,6 +32502,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||banners-gallery.coccoc.com^
 ||bidgear-syndication.com^
 ||blogstatistics.sapoapps.vn^
+||bongdadem.net^
 ||brand.zing.vn^
 ||bwstatistics.sapoapps.vn^
 ||cdn-qc.coccoc.com^
@@ -32761,7 +32765,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bluemaulpuffs.com^
 ||cdn-ads.thesaigontimes.vn^
 ||cdn-bongdadem-net.cdn.ampproject.org^
-||cdn.bongdadem.net^
 ||cdnasset.dantri.com.vn^
 ||click-ads.saoteen.net^
 ||click.vieon.vn^
@@ -33076,6 +33079,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||8live.com^
 ||8live.fun^
 ||8live.net^
+||8live.top^
 ||8live.vip^
 ||8livevn.com^
 ||aa88.in^
@@ -33097,6 +33101,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||casino888vn.com^
 ||datcuoc247.com^
 ||debet.com^
+||dfchoingay.com^
+||eurofun88.com^
 ||fa88.win^
 ||fabet.com^
 ||fabet.me^
@@ -33135,12 +33141,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||goal68.top^
 ||goal86.top^
 ||h3bet.com^
+||happynb.com^
 ||hotlive8.vip^
 ||ibet889.com^
 ||income88.com^
 ||interwinvn.com^
 ||jbo064.com^
 ||jboviet.com^
+||jbovietnam.com^
 ||jbovn.com^
 ||k8dl08.cc^
 ||k8sport.com^
@@ -33198,6 +33206,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qq8788viet.com^
 ||r88.vn^
 ||red88.com^
+||red88.uk^
 ||ric.win^
 ||rik.vip^
 ||rik.win^
@@ -33219,6 +33228,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||taiv8.com^
 ||taiv8.info^
 ||tangsoc.com^
+||tf88v.com^
 ||thethaodabet.com^
 ||thethaofb88.com^
 ||thethaovip.vip^
@@ -33231,6 +33241,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trungso.vip^
 ||uw88vnd.com^
 ||v7ac.com^
+||v7king.com^
 ||v8.club^
 ||v9bet.com^
 ||v9jvn.com^
@@ -33278,6 +33289,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zbet.com^
 ||zbet.vn^
 ||zbet.win^
+||zbetvn.com^
 ||zo.club^
 ||zo.game^
 ||zowinvn.vip^
@@ -33458,7 +33470,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||593pi.cn^
 ||59gt.cn^
 ||5imoney.com^
-||5jcom.com.cn^
 ||643226.com^
 ||65tgh.com^
 ||6666lm.com^
@@ -33588,7 +33599,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||alitianxia168.com^
 ||aliyuncss.com^
 ||aliyunxin.com^
-||amensh.cn^
 ||andyfanfan.xyz^
 ||annabelleabe.com^
 ||anquanzhuomian.cn^
@@ -33600,7 +33610,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||arealx.com^
 ||arrows-hitech.com^
 ||assigned.cn^
-||aswlx.cn^
 ||at98.com^
 ||audit8.com^
 ||auspiciousvp.com^
@@ -36055,11 +36064,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tgaopa.cn^
 ||01tn.cn^
 ||027whht.com^
-||0316dieroxiemzfjwmapk.xyz^
-||0323wqpioutyuencsamxsd.xyz^
-||0330vsdgdwer.xyz^
-||0413fsiuhwem.xyz^
-||0420zvnmljgfdsa.xyz^
 ||0511qsfhknvz.xyz^
 ||0517kongyaji.com^
 ||0518dfgwert.xyz^
@@ -36091,24 +36095,19 @@ charlestownwyllie.oaklawnnonantum.com^
 ||168xiazai.com^
 ||17ys.top^
 ||199zw.com^
-||1pzskg.cn^
 ||1ug8jn.cn^
-||1x26q3.cn^
 ||200ps.com^
-||215to.cn^
 ||2227q.com^
 ||22qzhao5.cn^
 ||23uuw3.com^
 ||24haitao.net^
 ||256k.xyz^
 ||258580w.cn^
-||282l1.cn^
 ||2bssjsq.com^
 ||2gmbbl.cn^
 ||2gvuukm1lm.com^
 ||2gz9nc.cn^
 ||2ktd0.cn^
-||2shol4.cn^
 ||2zm4.cn^
 ||333bj.cloud^
 ||355262.com^
@@ -36119,15 +36118,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||387635.com^
 ||3hbox.com^
 ||3yai2u.cn^
-||3ye924.cn^
-||4ekx.cn^
 ||4excel.cn^
 ||4ggame8.com^
 ||4htixb.cn^
 ||4kfv18.cn^
 ||4nzrqw.cn^
 ||4tdbbs.cn^
-||4z5o27.cn^
 ||517kp.com^
 ||519397.com^
 ||51check.com.cn^
@@ -36148,17 +36144,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5dydk.com^
 ||5fst22.cn^
 ||5glyqw.com^
-||5j73de.cn^
-||5mgurg.cn^
 ||5nf0ec.cn^
-||5p68n.cn^
-||5q63n.cn^
-||5q68n.cn^
 ||5socks.cn^
-||5x0f.cn^
-||5zi2.top^
-||5zi3.top^
-||5zi5.top^
 ||605296.com^
 ||606w.cn^
 ||627sf.cn^
@@ -36168,7 +36155,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||66993.top^
 ||66cn.com^
 ||6789.run^
-||6s7v78.cn^
 ||6shuge.com^
 ||70bhsd.cn^
 ||73cm.com^
@@ -36176,18 +36162,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||7b6l2j.cn^
 ||7ez4.cn^
 ||7j7jv5.cn^
-||7m307.cn^
 ||7times.top^
 ||833761.com^
 ||85wa.cn^
 ||888lianmeng.com^
 ||88eg.cn^
 ||8bnwuz.cn^
-||8byu.cn^
 ||8hpay.cn^
-||8mlb.cn^
 ||8yauhcv.cn^
-||8yrn.cn^
 ||91cy.top^
 ||91funcy.com^
 ||91jiedai.cn^
@@ -36197,15 +36179,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||958so.cn^
 ||979067.com^
 ||996f3d.cn^
-||9a6wb.cn^
-||9d7in.cn^
 ||9ucm.com^
-||9uh94c.cn^
 ||9weg7b.com^
 ||9y88.com^
 ||a3pz36.cn^
 ||a3vy69.cn^
-||a7t89g4a.cn^
 ||aa.wenxue6.com^
 ||aa13.cloud^
 ||aaan.xyz^
@@ -36213,16 +36191,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aabbccddeeffgg.cn^
 ||aakkzzz.com^
 ||abi.run^
-||abie10.top^
-||abie11.top^
-||abie12.top^
-||abie13.top^
-||abie15.top^
-||abie16.top^
-||abie17.top^
-||abie18.top^
-||abie25.top^
-||abie9.top^
 ||abovede6.com^
 ||abuse8.com^
 ||ac56.xyz^
@@ -36259,7 +36227,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aixuyoupin.cn^
 ||aiyyu.com^
 ||ajiez.com^
-||ajkdg3.xyz^
 ||alibdl.xyz^
 ||alibdm.xyz^
 ||alibdn.xyz^
@@ -36276,7 +36243,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aly766.com^
 ||am77p.cn^
 ||amghais.cn^
-||amghmej.cn^
 ||amghvzn.cn^
 ||andrewsolicitors.com^
 ||anhaochem.com^
@@ -36299,11 +36265,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||applequan.com^
 ||appstreets.com^
 ||apxyz.com^
-||aqvnurq.cn^
 ||archrug.com^
 ||arkn81.com^
 ||askfsh.cn^
-||askspsl.cn^
 ||atomicfile.cn^
 ||autobedo.com.cn^
 ||awqsaged.cn^
