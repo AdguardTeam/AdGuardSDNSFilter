@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-10T18:03:19.284Z
+! Last modified: 2021-07-11T00:15:26.356Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33387,9 +33387,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||30mksr.cn^
-||njzyjy.cn^
-||hbzhenquan.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33467,6 +33464,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||2m2n.com^
 ||2polj.top^
 ||2zfzly.com^
+||30mksr.cn^
 ||31365y.com^
 ||3336639.com^
 ||3336653.com^
@@ -34055,6 +34053,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hblinwei.com^
 ||hbssjd.cn^
 ||hbyingchang.cn^
+||hbzhenquan.cn^
 ||hcwljy.com^
 ||hebkb.cn^
 ||hellocdn.top^
@@ -34418,6 +34417,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||njmpacc.com^
 ||njq.net^
 ||njwxh.com^
+||njzyjy.cn^
 ||nkscdn.com^
 ||nktcw.cn^
 ||nmpcdn.com^
@@ -35396,7 +35396,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||static.sinawap.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -35987,6 +35986,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||static*.365inews.com^
 ||static.ichehome.com^
 ||static.jiaquyi.com^
+||static.sinawap.com^
 ||t.cnscore.com^
 ||t1.612.com^
 ||tech.jiukang.org^
@@ -36126,9 +36126,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||adtongji.xyz^
-||baoren.tech^
-||esure.wang^
 ||01tn.cn^
 ||027whht.com^
 ||0316dieroxiemzfjwmapk.xyz^
@@ -36310,6 +36307,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adfangxiang.com^
 ||adhdsb.cn^
 ||adrian.net.cn^
+||adtongji.xyz^
 ||aduic.com^
 ||advancedreefaquarium.com^
 ||affiliate6.com^
@@ -36400,6 +36398,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||banma51.cn^
 ||baolutongwuye.cn^
 ||baomeidiaosu.cn^
+||baoren.tech^
 ||baoxian28.cn^
 ||bbbx.xyz^
 ||bbtys.net^
@@ -36693,6 +36692,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||epcqyac.cn^
 ||erhfnv.cn^
 ||erkesi.cn^
+||esure.wang^
 ||esuzm.cn^
 ||esyzdb.com^
 ||exusr.com^
