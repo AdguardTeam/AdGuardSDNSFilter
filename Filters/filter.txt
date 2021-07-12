@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-12T12:06:04.053Z
+! Last modified: 2021-07-12T18:03:46.280Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||svacdnjutk.com^
+||boustahe.com^
 ||wolverdonfilmes.ml^
 ||bonertraffic12.info^
 ||eighing.space^
@@ -313,7 +315,6 @@
 ||lawscagetroy.com^
 ||vashebiwa.pro^
 ||zosuptosta.pro^
-||vowcertainly.com^
 ||forcelessgreetingbust.com^
 ||defyraspypuke.com^
 ||yomaza.net^
@@ -720,7 +721,6 @@
 ||popcent.org^
 ||adskk.club^
 ||wqpeltrb.com^
-||vcmrlwcafliaa.com^
 ||yfivoqeh.online^
 ||recordervesttasting.com^
 ||ppcnt.org^
@@ -791,7 +791,6 @@
 ||api.myhappyads.com^
 ||preanalytication.com^
 ||passeseuro.com^
-||vipicmou.net^
 ||milk.supertool.stunnermedia.com^
 ||classentedol.club^
 ||rotumal.com^
@@ -1037,7 +1036,6 @@
 ||aiservice.vn^
 ||targetpush.co.kr^
 ||grubsoan.com^
-||vempozah.net^
 ||lauhauch.com^
 ||daunteegyptian.pro^
 ||a.bestcontenttool.top^
@@ -1057,7 +1055,6 @@
 ||caligula.pro^
 ||doublepimpads.com^
 ||bgadx.com^
-||vaebard.com^
 ||augheguw.net^
 ||moowouzy.net^
 ||aspanyarc.club^
@@ -1187,14 +1184,12 @@
 ||askallalb.club^
 ||mvbemeggnodty.com^
 ||mysmokingmistress.com^
-||voastauz.net^
 ||ashaidbit.club^
 ||buysellads.com^
 ||kongssew.com^
 ||zoafoaho.net^
 ||posecoug.pro^
 ||pvp-pro.space^
-||vaipsona.com^
 ||thevpntrustzone.xyz^
 ||superonclick.com^
 ||serconmp.com^
@@ -1303,7 +1298,6 @@
 ||ian.xyz^
 ||hesftig.site^
 ||resorsedroblet.pro^
-||vizaiced.net^
 ||whehilru.com^
 ||noakauhe.com^
 ||syndapop.com^
@@ -1385,8 +1379,6 @@
 ||vernehepet.info^
 ||groogloo.net^
 ||miakalyn.pw^
-||vaivafie.net^
-||voaroawo.net^
 ||lessonis.com^
 ||gleersoo.net^
 ||dalseeds.net^
@@ -1873,7 +1865,6 @@ www.llllllllllll.net^
 ||iz682noju02ye5.com^
 ||pndelfast.com^
 ||a.gerasopa.com^
-||vidcpm.com^
 ||juicyads.com^
 ||pimmuter.com^
 ||pimmuter.com
@@ -2119,7 +2110,6 @@ www.llllllllllll.net^
 ||utazwa.com^
 ||utorido.com^
 ||uzotarak.com^
-||venonita.com^
 ||vkafirac.com^
 ||volimole.com^
 ||wakapita.com^
@@ -2639,7 +2629,6 @@ www.llllllllllll.net^
 ||transpera.com^
 ||tubecontext.com^
 ||ujieva.com^
-||vartoken.com^
 ||videogenetic.com^
 ||voluumtrk2.com^
 ||waframedia16.com^
@@ -9511,6 +9500,7 @@ vkcdnservice.appspot.com^
 ||nehodyshy.pro^
 ||neictryziiogg.com^
 ||neighbetweenintrude.com^
+||neighbouringmarvel.com^
 ||neighchurch.com^
 ||neitherentrailsrim.com^
 ||nellads.com^
@@ -12786,9 +12776,12 @@ vkcdnservice.appspot.com^
 ||v3qdrfxuyzwb.com^
 ||vaccnavalcod.website^
 ||vacwrite.com^
+||vaebard.com^
 ||vafbmmsda.com^
 ||vaia06o630os.com^
+||vaipsona.com^
 ||vaipsouw.com^
+||vaivafie.net^
 ||vak345.com^
 ||valonghost.xyz^
 ||valuethemarkets.info^
@@ -12816,6 +12809,7 @@ vkcdnservice.appspot.com^
 ||vaultwrite.com^
 ||vbds84p3ct02.com^
 ||vcdc.com^
+||vcmrlwcafliaa.com^
 ||vcommission.com^
 ||vcpcvmfnocsfay.com^
 ||vcwrigdrnh.com^
@@ -12833,6 +12827,7 @@ vkcdnservice.appspot.com^
 ||vendigamus.com^
 ||vendnibtemp.com^
 ||venetrigni.com^
+||venonita.com^
 ||venotrouble.biz^
 ||ventilatorvisitedgrain.com^
 ||ventrequmus.com^
@@ -12861,6 +12856,7 @@ vkcdnservice.appspot.com^
 ||vhtadetq.com^
 ||vid4vip.com^
 ||vidalak.com^
+||vidcpm.com^
 ||video-adblocker.com^
 ||videoaccess.xyz^
 ||videoonecom.com^
@@ -12903,6 +12899,7 @@ vkcdnservice.appspot.com^
 ||vip-vip-vup.com^
 ||vipaicka.net^
 ||vipcpms.com^
+||vipicmou.net^
 ||viral481.com^
 ||viral782.com^
 ||viralcpm.com^
@@ -12925,6 +12922,7 @@ vkcdnservice.appspot.com^
 ||vivdq.com^
 ||vividdefinedspiral.com^
 ||vixnixxer.com^
+||vizaiced.net^
 ||vjdnbrpqvp.com^
 ||vjkjjhbi.com^
 ||vjnpoelbrhd.com^
@@ -12945,6 +12943,8 @@ vkcdnservice.appspot.com^
 ||vnrherdsxr.com^
 ||vntsm.com^
 ||voapozol.com^
+||voaroawo.net^
+||voastauz.net^
 ||voawhooh.net^
 ||vobqmjimemjf.com^
 ||vobquhydgvyqf.com^
@@ -12969,6 +12969,7 @@ vkcdnservice.appspot.com^
 ||vounaipu.net^
 ||voupkdprug.com^
 ||vovhiwr.com^
+||vowcertainly.com^
 ||vowifeba.xyz^
 ||vownixsofa.cam^
 ||voxfind.com^
@@ -16634,6 +16635,7 @@ vkcdnservice.appspot.com^
 ||valuecommerce.com^
 ||vapedia.com^
 ||variablefitness.com^
+||vartoken.com^
 ||vashoot.com^
 ||vastserved.com^
 ||vbtrax.com^
@@ -16642,6 +16644,7 @@ vkcdnservice.appspot.com^
 ||velmedia.net^
 ||velti.com^
 ||vemba.com^
+||vempozah.net^
 ||vendexo.com^
 ||venturead.com^
 ||veoxa.com^
@@ -20970,6 +20973,7 @@ vkcdnservice.appspot.com^
 ! Admiral domains
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
+||colossalcoat.com^
 ||cutechin.com^
 ||shakegoldfish.com^
 ||livelylaugh.com^
@@ -23647,6 +23651,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Relap - avoid breaking their website on desktop
 ! but make sure it's blocked in apps
 !+ PLATFORM(ios, android)
+!+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
+!
+||events.textme-app.com^
+||stocks-analytics-events.apple.com^
+||stocks-analytics-events.news.apple-dns.net^
+||books-analytics-events.apple.com^
+||books-analytics-events.news.apple-dns.net^
 ||us04logfiles.zoom.us^
 ||us04logfiles-va.zoom.us^
 ||costco-adbutler.com^
@@ -25044,7 +25055,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||annoyedairport.com^
 ||ayc0zsm69431gfebd.info^
 ||borderbrush.com^
-||colossalcoat.com^
 ||confesschairs.com^
 ||cushionpig.com^
 ||distributiontomatoes.com^
@@ -36062,6 +36072,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||n5ta9.site^
 ||guiyimq.fun^
 ||zjjrlx4.com^
 ||01tn.cn^
