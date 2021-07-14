@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-14T12:06:13.961Z
+! Last modified: 2021-07-14T18:03:27.986Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||domakuhitaor.com^
+||i-afk.com^
+||displacepepperyadvertisement.com^
 ||adipolo.com^
 ||ausoafab.net^
 ||svacdnjutk.com^
@@ -2698,6 +2701,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||nugh2om.txxx.com^
 ||ad.kisscartoon.sh^
 ||d13nu0oomnx5ti.cloudfront.net^
 ||cintent.streanplay.cc^
@@ -17380,6 +17384,7 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||aag.yahooapis.jp^
 ||goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com^
 ||adcel.co^
 ||offerwall-adnative.com^
@@ -17992,6 +17997,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||events.tubecup.org^
 ||rat.rakuten.co.jp^
 ||requestmetrics.com^
 ||alpixtrack.com^
@@ -22051,6 +22057,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||segment-cdn.producthunt.com^
 ||logs.gaana.com^
 ||track.searchiq.co^
 ||broker.datazoom.io^
@@ -25451,7 +25458,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||events.shareably.net^
 ||events.splash-screen.net^
 ||events.split.io^
-||events.tubecup.org^
 ||events.yourcx.io^
 ||eventtracker.videostrip.com^
 ||exacttarget.com^
@@ -33385,6 +33391,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||ellenhilary.com^
+||lichenqx.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -36125,6 +36133,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||funnyweb.fun^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
