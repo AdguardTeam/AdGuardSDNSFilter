@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-14T18:03:27.986Z
+! Last modified: 2021-07-15T00:14:14.710Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -26821,6 +26821,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||ehfgifjjhdaejjajacj.ru^
 ||verwvy.com^
 ||5xanz2dxcn.ru^
 ||gldlwt.com^
@@ -33391,8 +33392,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||ellenhilary.com^
-||lichenqx.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33923,6 +33922,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||egjq.com.cn^
 ||einsuran.com.cn^
 ||eiv.baidu.com^
+||ellenhilary.com^
 ||enohb.com^
 ||eoncreativity.com^
 ||erdsyzb.com^
@@ -34316,6 +34316,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||liangxiaoru.cn^
 ||liangziweixg.com^
 ||liaoren85.com^
+||lichenqx.com^
 ||lico-ys.com^
 ||lifu11.com^
 ||linjiajia.cn^
@@ -36133,7 +36134,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||funnyweb.fun^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -36726,6 +36726,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fuchuqu.cn^
 ||fuhaimuye.cn^
 ||fuligrs.cn^
+||funnyweb.fun^
 ||futengbao.com.cn^
 ||fuxin-tech.com^
 ||fw.zhuaji.org^
