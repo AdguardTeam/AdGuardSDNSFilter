@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-15T00:14:14.710Z
+! Last modified: 2021-07-15T06:05:22.370Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18307,8 +18307,6 @@ vkcdnservice.appspot.com^
 ||analytics-api.a-f.io^
 ||smetrics.att.com^
 ||client-analytics.braintreegateway.com^
-||hit.acstat.com^
-||code.acstat.com^
 ||fhits.xyz^
 ||intelligenceretarget.com^
 ||stpmgo.com^
@@ -24090,6 +24088,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||abtshield.com^
 ||accdab.net^
 ||acsbap.com^
+||acstat.com^
 ||acuityplatform.com^
 ||acxiomapac.com^
 ||adabra.com^
@@ -25907,7 +25906,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sa.api.intl.miui.com^
 ||stat.xiaomi.com^
 ||supportmetrics.apple.com^
-||xp.apple.com^
 ! Appcues
 /^https?:\/\/fast\.appcues\.com\/[0-9]{4,6}\.js/
 ! taboola
@@ -26262,6 +26260,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||e-kuzbass.ru^
 ||efatik.me^
 ||gdeslon.ru^
+||get4click.ru^
 ||gnezdo.ru^
 ||hobbi.xyz^
 ||hsdn.org^
@@ -33392,6 +33391,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||cqdzjc.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35404,6 +35404,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||aqc.gucheng.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36134,6 +36135,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||ddot.xyz^
+||advancepak.com^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
