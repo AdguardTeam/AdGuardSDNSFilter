@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-17T00:14:25.930Z
+! Last modified: 2021-07-17T06:03:44.458Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4662,6 +4662,7 @@ vkcdnservice.appspot.com^
 ||boodlewrite.com^
 ||bookingfreeze.com^
 ||boom-boom-vroom.com^
+||boost-next.co.jp^
 ||bootstrap-framework.org^
 ||bootstrap-js.com^
 ||bopohsage.com^
@@ -5661,6 +5662,7 @@ vkcdnservice.appspot.com^
 ||dadsatz.com^
 ||dadsecs.com^
 ||dadsecz.com^
+||dadsimz.com^
 ||dadsipz.com^
 ||dadskis.com^
 ||dadskiz.com^
@@ -10291,6 +10293,7 @@ vkcdnservice.appspot.com^
 ||pfcdnc.com^
 ||pfdgbyoj.com^
 ||pffw8mgd.com^
+||pfzzgurflf.com^
 ||pgbxrigvbmdz.com^
 ||pgebqmezguxz.com^
 ||pgeejqisao.com^
@@ -10543,6 +10546,7 @@ vkcdnservice.appspot.com^
 ||precisetackle.com^
 ||precursoruphill.com^
 ||predictableenliven.com^
+||predictiondexchange.com^
 ||predictionds.com^
 ||predictivdisplay.com^
 ||preferablycompletion.com^
@@ -10852,6 +10856,7 @@ vkcdnservice.appspot.com^
 ||qnageoh3ns.com^
 ||qngqlrxscxlvh.com^
 ||qnwjhpingotrmc.com^
+||qocvicklgcgr.com^
 ||qopmcrys.com^
 ||qoredi.com^
 ||qp3lgzt6exyn.com^
@@ -24568,6 +24573,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||salesmanago.pl^
 ||salesviewer.com^
 ||salesviewer.org^
+||salsify-ecdn.com^
 ||san-spr-01.net^
 ||sbbanalytics.com^
 ||searchenginegenie.com^
@@ -31555,7 +31561,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ad.pr.ameba.jp^
 ||a-affiliate.net^
 ||solty.biz^
-||boost-next.co.jp^
 ||ala.durasite.net^
 ||scottdwebgraphics.com^
 ||p.permalink-system.com^
@@ -33357,6 +33362,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||rongxunet.top^
+||loclog.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -36090,6 +36097,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||hiibcfr.cn^
+||ljg79.work^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
