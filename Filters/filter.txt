@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-18T12:04:35.743Z
+! Last modified: 2021-07-18T18:03:42.024Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||qzlglizfy.com^
 ||kinkledunendly.com^
 ||passwordscompound.com^
 ||dualizefriskin.com^
@@ -61,7 +62,6 @@
 ||ad4point.nyc3.digitaloceanspaces.com^
 ||rawirymi.xyz^
 ||armiesgaspclue.com^
-||qzlglizfy.com^
 ||iwxzizcw.com^
 ||glersakr.com^
 ||widow5blackfr.com^
@@ -12710,6 +12710,7 @@ vkcdnservice.appspot.com^
 ||upheavesy.club^
 ||uponelectabuzzor.club^
 ||upsettingcrescentwig.com^
+||upsettommyvomit.com^
 ||upsghpnqjoo.com^
 ||upsidebaitpalm.com^
 ||upsidecopiedcraft.com^
@@ -17957,6 +17958,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||tracklog.58.com^
 ||wtstats.ro^
 ||static.terratraf.io^
 ||b0e8.com^
@@ -25399,6 +25401,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
 ||drlimmode9ddd.cloudfront.net^
+||dsbahmgppc0j4.cloudfront.net^
 ||dt1pxsve3tgas.cloudfront.net^
 ||du4rq1xqh3i1k.cloudfront.net^
 ||du8783wkf05yr.cloudfront.net^
@@ -33369,6 +33372,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||835551.com^
+||luassane.cn^
 ||pi9lxn.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
