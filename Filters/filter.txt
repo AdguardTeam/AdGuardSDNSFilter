@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-18T00:16:11.486Z
+! Last modified: 2021-07-18T06:04:16.635Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -14230,6 +14230,7 @@ vkcdnservice.appspot.com^
 ||adtear.com^
 ||adtecc.com^
 ||adtech.de^
+||adtechium.com^
 ||adtegrity.net^
 ||adtelligent.com^
 ||adteractive.com^
@@ -14802,6 +14803,7 @@ vkcdnservice.appspot.com^
 ||charltonmedia.com^
 ||cibleclick.com^
 ||cinarra.com^
+||citrusad.com^
 ||city-ads.de^
 ||clash-media.com^
 ||cleafs.com^
@@ -24032,6 +24034,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||g8913795075.co^
 ||g9111879410.co^
 ||lltrck.com^
+||loloclicks.biz^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
 ||sbgsodufuosmmvsdf.info^
@@ -24304,6 +24307,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gwmtracking.com^
 ||gxgydnhz.com^
 ||haloscan.com^
+||havasedge.com^
 ||hdmtools.com^
 ||heatmap.services^
 ||heyhelga.net^
@@ -24533,6 +24537,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||quartic.pl^
 ||quintesse.io^
 ||quitsnap-blue.com^
+||radiateb2b.com^
 ||rampanel.com^
 ||ravelin.click^
 ||rdcdn.com^
@@ -25330,6 +25335,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d11a2fzhgzqe7i.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
+||d1af033869koo7.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1iazwv1n1tsyi.cloudfront.net^
 ||d1igp3oop3iho5.cloudfront.net^
@@ -33363,6 +33369,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||pi9lxn.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -36099,6 +36106,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||enzenet.cn^
+||abblm.com^
+||ojojoj.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
