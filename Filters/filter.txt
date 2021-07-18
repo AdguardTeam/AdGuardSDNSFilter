@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-18T06:04:16.635Z
+! Last modified: 2021-07-18T12:04:35.743Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -23910,8 +23910,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api.analytics.omgpop.com^
 ||api.appsee.com^
 ||api.apptentive.com^
-||api.branch.io^
-||api2.branch.io^
 ||api.crittercism.com^
 ||api.gimbal.com^
 ||api.sec.miui.com^
@@ -25255,6 +25253,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bmrg.reflected.net^
 ||bonsai.internetbrands.com^
 ||brain.foresee.com^
+||branch.io^
 ||bright.bncnt.com^
 ||bs.yandex.ru^
 ||btn.clickability.com^
@@ -25899,6 +25898,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||7q1z79gxsi.global.ssl.fastly.net^
 ||clarium.global.ssl.fastly.net^
 ||dfapvmql-q.global.ssl.fastly.net^
+||vwonwkaqvq-a.global.ssl.fastly.net^
 ! Seals, Websecurity, Protection etc. Unnecessary third-party scripts
 ||beyondsecurity.com^
 ||cyveillance.com^
@@ -36106,6 +36106,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||pndagz.com^
 ||enzenet.cn^
 ||abblm.com^
 ||ojojoj.cn^
