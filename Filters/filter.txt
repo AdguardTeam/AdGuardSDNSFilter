@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-18T18:03:42.024Z
+! Last modified: 2021-07-19T00:14:50.430Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33372,9 +33372,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||835551.com^
-||luassane.cn^
-||pi9lxn.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -33553,6 +33550,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||820rd.com^
 ||825145.com^
 ||827649.com^
+||835551.com^
 ||8521448.com^
 ||85tgw.com^
 ||860010.com^
@@ -34322,6 +34320,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ltcprtc.com^
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
+||luassane.cn^
 ||luoyuanedu.cn^
 ||lvt1980.cn^
 ||lvylv.cn^
@@ -34444,6 +34443,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pedailyu.com^
 ||penxiangge.com^
 ||pg88cdn.com^
+||pi9lxn.cn^
 ||pianjjiicdn.com^
 ||pingping888.com^
 ||pinwu123.com^
@@ -36111,10 +36111,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||pndagz.com^
-||enzenet.cn^
-||abblm.com^
-||ojojoj.cn^
+||wangqilin.xyz^
+||wanglc.vip^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -36245,6 +36243,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aaaw.xyz^
 ||aabbccddeeffgg.cn^
 ||aakkzzz.com^
+||abblm.com^
 ||abi.run^
 ||abovede6.com^
 ||abuse8.com^
@@ -36621,6 +36620,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||emgwq.com^
 ||enjuk.com^
 ||enjuw.com^
+||enzenet.cn^
 ||erhfnv.cn^
 ||erkesi.cn^
 ||esure.wang^
@@ -37288,6 +37288,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||obj9.cn^
 ||oende.cn^
 ||ohthub.com.cn^
+||ojojoj.cn^
 ||okwan.cn^
 ||on1q0.cn^
 ||onlyshow.top^
@@ -37332,6 +37333,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pkyxdwj.cn^
 ||plerv.com^
 ||plokr.com^
+||pndagz.com^
 ||po*.877zw.com^
 ||pos68.cn^
 ||ppee.xyz^
