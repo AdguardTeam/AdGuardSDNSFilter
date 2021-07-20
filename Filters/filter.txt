@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-20T06:03:47.250Z
+! Last modified: 2021-07-20T12:05:32.840Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||deadlyhung.com^
+||yepteaswont.com^
+||bestcontentweb.top^
 ||syrsple2se8nyu09.com^
 ||ads.timesjobsandcareers.com^
 ||assertnourishingconnection.com^
@@ -4011,6 +4014,7 @@ vkcdnservice.appspot.com^
 ||alternativeprofitablegate.com^
 ||althoutafrick.info^
 ||altowriestwispy.com^
+||altronopubacc.com^
 ||alwayspainfully.com^
 ||alwqfajh.com^
 ||alwsbnvialll.com^
@@ -12170,6 +12174,7 @@ vkcdnservice.appspot.com^
 ||teemprofaneglitter.com^
 ||teennostrils.com^
 ||teenstiffen.com^
+||teenymetropolitan.com^
 ||teeplyinsidere.club^
 ||tefrequesth.top^
 ||tefumiji.xyz^
@@ -17944,6 +17949,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||mm.actionlink.jp^
 ||btloader.com^
 ||tracklog.58.com^
 ||wtstats.ro^
@@ -20973,6 +20979,7 @@ vkcdnservice.appspot.com^
 ! Admiral domains
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
+||fallaciousfifth.com^
 ||colossalcoat.com^
 ||cutechin.com^
 ||shakegoldfish.com^
@@ -23663,6 +23670,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||api.telemetry.watchabc.go.com^
 ||analytics.rover.io^
 ||events-collector-api.viacom.tech^
 ||events.data.microsoft.com^
@@ -25077,7 +25085,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||disturbedquiet.com^
 ||dogcollarfavourbluff.com^
 ||enormousearth.com^
-||fallaciousfifth.com^
 ||glisteningguide.com^
 ||handyfireman.com^
 ||impulsejewel.com^
@@ -25100,6 +25107,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
 !
 ||100widgets.com^
+||3p-geo.yahoo.com^
 ||51network.com^
 ||aan.amazon.com^
 ||abc.hearst.co.uk^
@@ -31457,6 +31465,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||devo.jp^
 ||ad.ddo.jp^
 ||blogroll.click^
 ||ad-nex.com^
