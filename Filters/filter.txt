@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-21T06:04:49.259Z
+! Last modified: 2021-07-21T12:05:48.339Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,29 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||flvpcdnb.com^
+||loveofffer.com^
+||brothcorewearisome.com^
+||colpursehowl.com^
+||convincedsponsorshipenemy.com^
+||coudswamper.com^
+||currentlyclash.com^
+||ovlliiwtxgjlz.com^
+||plumposterity.com^
+||rimstipulatedeputy.com^
+||safeguardoperating.com^
+||scarletcashwi5.com^
+||separationreverttap.com^
+||tastingraise.com^
+||thanosofcos5.com^
+||ultimowraxle.com^
+||uzxkuwalnjp.com^
+||adsgig.com^
+||daijopimplo.com^
+||bycashexo.com^
+||zewhaphaste.com^
+||kishypece.com^
+||oreflushvehemence.com^
 ||deadlyhung.com^
 ||yepteaswont.com^
 ||bestcontentweb.top^
@@ -5684,7 +5707,6 @@ vkcdnservice.appspot.com^
 ||daffaite.com^
 ||dafthulksyams.com^
 ||daichoho.com^
-||daijopimplo.com^
 ||dailyinterventioncongestion.com^
 ||dainaith.net^
 ||daintyecstasyspleen.com^
@@ -17957,6 +17979,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||cdn.trackclicks.info^
 ||mm.actionlink.jp^
 ||btloader.com^
 ||tracklog.58.com^
