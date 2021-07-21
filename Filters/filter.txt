@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-21T00:14:27.324Z
+! Last modified: 2021-07-21T06:04:49.259Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18211,8 +18211,6 @@ vkcdnservice.appspot.com^
 ||aukana.jp^
 ||stat.tiara.
 ||track.tiara.
-||telemetry.api.wmcdp.io^
-||logs.psm.wmcdp.io^
 ||doubleverify.com^
 ||volvelle.tech^
 ||audiencemanager.de^
@@ -24756,6 +24754,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||whizstats.com^
 ||wirewuss.com^
 ||withcubed.com^
+||wmcdp.io^
 ||womtp.com^
 ||wootric.com^
 ||worldflagcounter.com^
@@ -25591,6 +25590,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pixel.glimr.io^
 ||pixel.mintigo.com^
 ||pixel.newscred.com^
+||pixel.snapsmedia.io^
 ||pixel.solvemedia.com^
 ||pixel.sprinklr.com^
 ||pixel.tree.com^
@@ -26448,6 +26448,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||imp.optaim.com^
 ||log.hiiir.com^
 ||log.tagtic.cn^
+||nos.netease.com^
 ||p.tencentmind.com^
 ||r.sax.sina.com.cn^
 ||report.meituan.com^
@@ -33393,6 +33394,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||297772.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -36132,6 +36134,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||zwwl.shop^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
