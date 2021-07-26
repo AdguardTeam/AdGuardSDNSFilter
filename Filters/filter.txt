@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-26T00:14:37.032Z
+! Last modified: 2021-07-26T06:07:58.739Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31643,6 +31643,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Eimg.jp
 !
+||waqool.com^
 ||ad.nwi.jp^
 ||devo.jp^
 ||ad.ddo.jp^
@@ -36319,9 +36320,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||swaa.top^
-||nbsave.xyz^
-||mtoalv.cn^
+||yjjc.xyz^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37446,6 +37445,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mrzhifu.net^
 ||msccabin.com^
 ||mtcat.cn^
+||mtoalv.cn^
 ||mudezs.com^
 ||mvlkvth.cn^
 ||mx.loubiqu.com^
@@ -37470,6 +37470,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nashlin.top^
 ||nazhenkj.com^
 ||nbhotpo.com^
+||nbsave.xyz^
 ||nbwmsod.cn^
 ||ncoyqc.com^
 ||ndusa.cn^
@@ -37765,6 +37766,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||svfwer.top^
 ||sviss.top^
 ||sw9t.ml^
+||swaa.top^
 ||swq48b.cn^
 ||swyhome.com^
 ||sx9zy.cn^
