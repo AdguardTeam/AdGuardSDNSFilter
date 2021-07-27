@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-27T00:14:40.705Z
+! Last modified: 2021-07-27T06:04:19.166Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -35587,7 +35587,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||a.baidinet.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -35692,6 +35691,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a.91nets.cn^
 ||a.91zhongkao.com^
 ||a.armystar.com^
+||a.baidinet.com^
 ||a.bake818.cn^
 ||a.duanmeiwen.com^
 ||a.duduji.com^
@@ -36318,10 +36318,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||ltyonej.cn^
-||lkle.top^
-||jdwxshfw.cn^
-||yjjc.xyz^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37171,6 +37167,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jcwwxn.com^
 ||jdgcjx.cn^
 ||jdgsgl.com^
+||jdwxshfw.cn^
 ||jdzlxtc.com^
 ||jfgcxj.com^
 ||jgcq3003.com^
@@ -37354,6 +37351,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ljg79.work^
 ||ljggc.com^
 ||ljmei.com^
+||lkle.top^
 ||llqd5.cn^
 ||lmdknj.xxbiquge.net^
 ||lnalttc.com^
@@ -37374,6 +37372,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lscckgm.cn^
 ||lshmjz.com^
 ||ltaome.cn^
+||ltyonej.cn^
 ||lusrg.cn^
 ||luxoshopde.com^
 ||luyouxi.cn^
@@ -38142,6 +38141,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yiyuantian.com^
 ||yjegf.com^
 ||yjiaj.com^
+||yjjc.xyz^
 ||yjxqy.com^
 ||ykanx.com^
 ||ykpbgqc.top^
