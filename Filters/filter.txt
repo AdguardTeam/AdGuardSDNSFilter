@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-28T00:15:21.749Z
+! Last modified: 2021-07-28T06:03:53.549Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5182,6 +5182,7 @@ vkcdnservice.appspot.com^
 ||cigarettywu.club^
 ||ciksolre.net^
 ||cilcountee.top^
+||cimg.co^
 ||ciqguphollyj.com^
 ||circuitrestbeds.com^
 ||circumferencefurfavour.com^
@@ -5438,7 +5439,6 @@ vkcdnservice.appspot.com^
 ||connectad.io^
 ||connectignite.com^
 ||connectionads.com^
-||connexity.net^
 ||connexplace.com^
 ||connextra.com^
 ||conqueredcousin.com^
@@ -14985,6 +14985,7 @@ vkcdnservice.appspot.com^
 ||commissionmonster.com^
 ||communicationads.net^
 ||comscore.com^
+||connexity.net^
 ||consumable.com^
 ||contaxe.com^
 ||content-cooperation.com^
@@ -24168,6 +24169,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||apxl.io^
 ||bydst.com^
 ||cloudwp.io^
+||e1e.io^
 ||g2377012020.co^
 ||g2575096355.co^
 ||g2773180690.co^
@@ -24637,6 +24639,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nmrodam.com^
 ||noibu.com^
 ||northstartravelmedia.com^
+||ns8.com^
 ||ns8ds.com^
 ||nuloox.com^
 ||nyltx.com^
@@ -24760,6 +24763,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||securitytrfx.com^
 ||seeip.org^
 ||seevolution.com^
+||segmetrics.io^
 ||selectmedia.asia^
 ||sellebrity.com^
 ||sellpoint.net^
@@ -24861,6 +24865,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||traffer.net^
 ||trafficfuel.com^
 ||trafficguard.ai^
+||trafficroots.com^
 ||transactionale.com^
 ||traq.li^
 ||traversedlp.com^
@@ -25636,6 +25641,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||geo.q5media.net^
 ||geo.thehindu.com^
 ||geobar.ziffdavisinternational.com^
+||geoip.cookieyes.com^
 ||geoip.nekudo.com^
 ||geolocation.outreach.com^
 ||go.toutapp.com^
@@ -25827,6 +25833,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||snaps.vidiemi.com^
 ||snowplow.swm.digital^
 ||speedtrap.shopdirect.com^
+||ssa.stepstone.com^
 ||ssr.streamrail.net^
 ||st.cdnco.us^
 ||st.linkfire.com^
@@ -33574,6 +33581,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||baidu-image-qqcom.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -36328,11 +36336,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||wangtianci.cn^
-||guideserv.cn^
-||201767.cn^
-||xzhcedu.cn^
-||wangmiao.xyz^
+||huzhu.group^
+||jwyl.ltd^
+||iwucoz.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -36368,6 +36374,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||199zw.com^
 ||1ug8jn.cn^
 ||200ps.com^
+||201767.cn^
 ||2227q.com^
 ||22qzhao5.cn^
 ||23uuw3.com^
@@ -36995,6 +37002,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||guangweixinxi345.cn^
 ||guannin.com^
 ||guansenff.cn^
+||guideserv.cn^
 ||guiyimq.fun^
 ||guoduand.cn^
 ||guoshihuaiyao.com^
@@ -37948,9 +37956,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wangkeduo.cn^
 ||wanglc.vip^
 ||wangliqin.top^
+||wangmiao.xyz^
 ||wangmingsort.cn^
 ||wangqilin.xyz^
 ||wangqing7.top^
+||wangtianci.cn^
 ||wangyuekun.xyz^
 ||wangzibo.top^
 ||wannuochongkong.com^
@@ -38106,6 +38116,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xxzzsj.xyz^
 ||xy98.com.cn^
 ||xywgbms.top^
+||xzhcedu.cn^
 ||xztms.com^
 ||y7o9rh.cn^
 ||yaba.org.cn^
