@@ -1,6 +1,6 @@
 {
-  "name": "AdGuard Base + StevenBlack",
-  "description": "Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.",
+  "name": "AdGuard DNS filter with AdAway Default Blocklist And Peter Lowe's List",
+  "description": "Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, AdAway Default Blocklist, Peter Lowe's List, etc) and simplified specifically to be better compatible with DNS-level ad blocking.",
   "homepage": "https://github.com/mpenachayan/AdguardSDNSFilter",
   "license": "https://github.com/mpenachayan/AdguardSDNSFilter/blob/master/LICENSE",
   "sources": [
@@ -215,13 +215,24 @@
       "type": "adblock"
     },
     {
-      "name": "Steven Black",
-      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+      "name": "Exception rules",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt",
       "transformations": ["Validate"],
+      "type": "adblock"
+    },
+    {
+      "name": "AdAway Default Blocklist",
+      "source": "https://adaway.org/hosts.txt",
+      "transformations": ["Validate","Compress"],
       "type": "hosts"
+    },
+    {
+      "name": "Peter Lowe's List",
+      "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
+      "transformations": ["RemoveModifiers","Validate"],
+      "type": "adblock"
     }
   ],
-  "transformations": ["RemoveComments","Deduplicate","RemoveModifiers","Compress"]
+  "transformations": ["RemoveModifiers","Validate","Compress","RemoveComments","Deduplicate"]
 }
-
 
