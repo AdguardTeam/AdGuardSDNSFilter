@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-28T06:03:53.549Z
+! Last modified: 2021-07-28T09:10:00.166Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2761,6 +2761,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||ads-dot-fbc-web-2018.uc.r.appspot.com^
 ||awrfds3.pornpapa.com^
 ||d1tpwjufge3qqa.cloudfront.net^
 ||d1ev866ubw90c6.cloudfront.net^
@@ -24206,6 +24207,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||g8715710740.co^
 ||g8913795075.co^
 ||g9111879410.co^
+||ldnlyap.com^
 ||lltrck.com^
 ||loloclicks.biz^
 ||mors22.com^
@@ -32117,6 +32119,24 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t.njzrxx.xyz^
 ||yqrta.xyz^
 ||zjgfq.com^
+!
+! Source name: AdGuard Dutch filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers.txt
+!
+!
+! Section contains list of advertising networks
+!
+||pexi.nl^
+||adconfigproxy.azurewebsites.net^
+
+!
+! Source name: AdGuard Dutch filter ad servers first-party
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers_firstparty.txt
+!
+!
+! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
+!
+||content2.nrc.nl^
 !
 ! Source name: EasyList Germany ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt
