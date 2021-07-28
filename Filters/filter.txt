@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-28T09:10:00.166Z
+! Last modified: 2021-07-28T12:06:00.178Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||pbprof.com^
+||admost-banner.b-cdn.net^
+||claring-loccelkin.com^
 ||auchoons.net^
 ||deliberatelycube.com^
 ||gardourd.com^
@@ -18107,6 +18110,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||tag.search.sensefuel.live^
+||api.dataunlocker.com^
 ||microanalytics.io^
 ||tracking.sexcash.com^
 ||fastly-insights.com^
@@ -22179,10 +22184,11 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||monitoring.youronlinechoices.com^
+||1bw7etm93lf.www.woodbrass.com^
 ||t.imgur.com^
 ||counter1.fc2.com^
 ||analyzer*.fc2.com^
-||analyzer52.fc2.com^
 ||klik.nrc.nl^
 ||uie.data.cbc.ca^
 ||ub.finanzfrage.net^
@@ -36356,6 +36362,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||rtkyvd.xyz^
 ||huzhu.group^
 ||jwyl.ltd^
 ||iwucoz.cn^
@@ -38398,6 +38405,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adc.api.nine.com.au^
 ! https://github.com/AdguardTeam/AdguardDNS/issues/52
 ||mobileanalytics.*.amazonaws.com^
+||analyzer52.fc2.com^
 ||clientlog.portal.office.com^
 ||collect.sas.com^
 ||collect2.sas.com^
