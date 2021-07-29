@@ -259,12 +259,6 @@
       "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
       "transformations": ["RemoveModifiers","Validate"],
       "type": "adblock"
-    },
-    {
-      "name": "Steven Black",
-      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-      "transformations": ["Validate","Compress"],
-      "type": "hosts"
     }
   ],
   "transformations": ["RemoveModifiers","Validate","Compress","RemoveComments","Deduplicate"]
