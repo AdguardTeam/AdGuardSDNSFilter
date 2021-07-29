@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-29T00:15:05.548Z
+! Last modified: 2021-07-29T06:04:10.164Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24183,6 +24183,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Revolving trackers
 ||altopd.com^
 ||apxl.io^
+||auriro.net^
 ||bydst.com^
 ||cloudwp.io^
 ||e1e.io^
@@ -24226,6 +24227,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lltrck.com^
 ||loloclicks.biz^
 ||mors22.com^
+||mt48.net^
 ||nxakpj4ac8gkd53.info^
 ||r42tag.com^
 ||sbgsodufuosmmvsdf.info^
@@ -25295,6 +25297,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||panickycurtain.com^
 ||pastoralroad.com^
 ||pleasantpump.com^
+||pricklydebt.com^
 ||q20jqurls0y7gk8.info^
 ||railwayreason.com^
 ||rangecake.com^
@@ -32729,9 +32732,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Jul 2021 17:29 UTC+7
-! Version: 2107271729
-! Blocked: 924 rules
+! Last modified: 29 Jul 2021 12:17 UTC+7
+! Version: 2107291217
+! Blocked: 926 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32779,6 +32782,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.zapps.vn^
 ||anthill.vn^
 ||ants.vn^
+||anymind360-com.cdn.ampproject.org^
 ||atdnetwork.com^
 ||autoads.asia^
 ||banners-gallery.coccoc.com^
@@ -32817,6 +32821,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kabbmedia.com^
 ||klick.vn^
 ||lavanetwork.net^
+||log-vietnamplus-vn.cdn.ampproject.org^
 ||log.mp3.zing.vn^
 ||log.news.zing.vn^
 ||log.o2o.service.zaloapp.com^
