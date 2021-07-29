@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-28T12:06:00.178Z
+! Last modified: 2021-07-29T00:15:05.548Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,11 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||growadvertising.com^
+||free.srcdn.xyz^
+||believegrandpa.com^
+||otisephie.com^
+||peekcogentpope.com^
 ||pbprof.com^
 ||admost-banner.b-cdn.net^
 ||claring-loccelkin.com^
@@ -18110,6 +18115,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||analytics.core.retell.cc^
+||powerbiz.co^
 ||tag.search.sensefuel.live^
 ||api.dataunlocker.com^
 ||microanalytics.io^
@@ -22184,6 +22191,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||d3in1te4fdays6.cloudfront.net^
+||tracker.cdn-moneysmart.com^
 ||monitoring.youronlinechoices.com^
 ||1bw7etm93lf.www.woodbrass.com^
 ||t.imgur.com^
@@ -25749,6 +25758,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||orts.wixawin.com^
 ||p.delivery.net^
 ||p.eyebuydirect-cmr.net^
+||page-events-ustats.udemy.com^
 ||pagesense-collect.zoho.com^
 ||pagesocket.glam.com^
 ||pap.qualityunit.com^
@@ -33607,6 +33617,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||yjbuhao.top^
 ||baidu-image-qqcom.com^
 ||00-gov.cn^
 ||0024aaaa.com^
@@ -36362,6 +36373,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||reofamily.cn^
+||jiachangwuliu.cn^
+||qiyebaopin.cn^
 ||rtkyvd.xyz^
 ||huzhu.group^
 ||jwyl.ltd^
