@@ -188,6 +188,20 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "AdGuard Dutch filter ad servers",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
+      "name": "AdGuard Dutch filter ad servers first-party",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers_firstparty.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
       "name": "EasyList Germany ad servers",
       "source": "https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt",
       "type": "adblock",
@@ -196,7 +210,7 @@
     },
     {
       "name": "EasyList Italy ad servers",
-      "source": "https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt",
+      "source": "https://hg.adblockplus.org/easylistitaly/raw-file/tip/easylistitaly/easylistitaly_adservers.txt",
       "type": "adblock",
       "exclusions_sources": ["https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
@@ -217,7 +231,7 @@
     },
     {
       "name": "EasyList China ad servers",
-      "source": "https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt",
+      "source": "https://easylist-downloads.adblockplus.org/easylistchina.txt",
       "type": "adblock",
       "exclusions": ["/(?!^(\\|\\||@@\\|\\|))^.+/", "$third-party"],
       "transformations": ["RemoveModifiers", "Validate"]
@@ -245,12 +259,6 @@
       "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
       "transformations": ["RemoveModifiers","Validate"],
       "type": "adblock"
-    },
-    {
-      "name": "Steven Black",
-      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-      "transformations": ["Validate","Compress"],
-      "type": "hosts"
     }
   ],
   "transformations": ["RemoveModifiers","Validate","Compress","RemoveComments","Deduplicate"]
