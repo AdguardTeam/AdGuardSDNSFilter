@@ -3,10 +3,11 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, AdAway Default Blocklist, Peter Lowe's List, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/mpenachayan/AdguardSDNSFilter
 ! License: https://github.com/mpenachayan/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-28T18:14:06.927Z
+! Last modified: 2021-07-29T01:01:23.959Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||growadvertising.com^
 ||free.srcdn.xyz^
 ||believegrandpa.com^
 ||otisephie.com^
@@ -31494,6 +31495,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adconfigproxy.azurewebsites.net^
 
 ||content2.nrc.nl^
+
 ||4adtf.com.^
 ||4adtf.com^
 ||4rm.de^
@@ -35679,6 +35681,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||reofamily.cn^
 ||jiachangwuliu.cn^
 ||qiyebaopin.cn^
 ||rtkyvd.xyz^
