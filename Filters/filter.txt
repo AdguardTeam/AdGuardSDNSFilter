@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-29T18:03:51.167Z
+! Last modified: 2021-07-30T00:14:54.007Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24005,6 +24005,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||stats-proto.pandora.com^
 ||collector.vhx.tv^
 ||analytics-server.gimbal.com^
 ||log-tb.sgsnssdk.com^
@@ -24219,7 +24220,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||amptrack-dailymail-co-uk.cdn.ampproject.org^
 ||metrics-cbslocal-com.cdn.ampproject.org^
-||counter.hdvb.info^
 ||tracking-server-prod-1.zenmxapps.com^
 ||config.uca.cloud.unity3d.com^
 ||api.uca.cloud.unity3d.com^
@@ -33778,6 +33778,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||jenniferlaurax.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35803,7 +35804,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||1.jushtong.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -35832,6 +35832,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1.isanxia.com^
 ||1.jeasyui.net^
 ||1.jiqie.cn^
+||1.jushtong.com^
 ||1.kuaidiwo.cn^
 ||1.lishibu.com^
 ||1.lvshi567.com^
@@ -36535,8 +36536,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||lthzd.cn^
-||uxszams.cn^
+||aftdt.cn^
+||qgydhjh.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37597,6 +37598,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lscckgm.cn^
 ||lshmjz.com^
 ||ltaome.cn^
+||lthzd.cn^
 ||ltyonej.cn^
 ||lusrg.cn^
 ||luxoshopde.com^
@@ -38136,6 +38138,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||uu7ey6.cn^
 ||uuu88.top^
 ||uuwhg.com^
+||uxszams.cn^
 ||uyueread.com^
 ||v5levm1.com^
 ||vasb.cn^
