@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-30T12:06:28.466Z
+! Last modified: 2021-07-30T18:04:31.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4658,6 +4658,7 @@ vkcdnservice.appspot.com^
 ||biddyfungussaps.com^
 ||bidiology.com^
 ||bidverdrd.com^
+||bigappboi.com^
 ||bigbolz.com^
 ||bigbootymania.com^
 ||bigprizesonline.com^
@@ -18270,6 +18271,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||omniconvert.com^
+||cdn.clerk.io^
 ||getaim.info^
 ||analytics.monetiza.co^
 ||repixel.co^
@@ -24833,7 +24836,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||o-s.io^
 ||octomarket.com^
 ||ohayoo.io^
-||omniconvert.com^
 ||omtvxcle.com^
 ||ondu.ru^
 ||oneimpress.io^
@@ -26097,6 +26099,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tag.aumago.com^
 ||tag.brandcdn.com^
 ||tag.elevaate.io^
+||tag.flagship.io^
 ||tag.myplay.com^
 ||tag.rightmessage.com^
 ||tag.rmp.rakuten.com^
@@ -36550,6 +36553,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||xuruochen.cn^
+||zhaosijie.cn^
 ||aftdt.cn^
 ||qgydhjh.cn^
 ||hongjiaex.cn^
