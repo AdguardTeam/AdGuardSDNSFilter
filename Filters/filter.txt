@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-07-31T12:05:16.289Z
+! Last modified: 2021-07-31T18:03:47.789Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9217,6 +9217,7 @@ vkcdnservice.appspot.com^
 ||mentsundert.club^
 ||menuhivewomb.com^
 ||meowpushnot.com^
+||meratsignons.com^
 ||merchasem.club^
 ||merchenta.com^
 ||mercialtaver.club^
@@ -32854,8 +32855,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 29 Jul 2021 16:04 UTC+7
-! Version: 2107291604
+! Last modified: 31 Jul 2021 21:20 UTC+7
+! Version: 2107312120
 ! Blocked: 925 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -33070,7 +33071,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adjusts.info^
 ||adm.phunusuckhoe.vn^
 ||adm.phunuvagiadinh.vn^
-||admedia.com.vn^
 ||admin.sothuchi.vn^
 ||adpostback.headlines.pw^
 ||ads-api.playfun.vn^
@@ -33196,6 +33196,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ghimc.vn^
 ||go.vnecdn.com^
 ||hexapinow.xyz^
+||imad24.com^
 ||imgcdnbet.com^
 ||interactive.tinnhanhchungkhoan.vn^
 ||ketquaxosotoancau.org^
@@ -33743,6 +33744,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||157776.com^
+||jocelynlaura.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35769,6 +35772,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||ff.qichetansuo.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36501,6 +36505,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||googlexbaidu.top^
+||hhsoftinfo.com^
+||sungong1987.com^
+||ztffac.com^
+||xxjuefi.cn^
 ||zrbn.ltd^
 ||01tn.cn^
 ||027whht.com^
