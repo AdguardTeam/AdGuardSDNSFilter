@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-01T12:05:51.422Z
+! Last modified: 2021-08-01T18:03:38.339Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,18 +18,16 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||ptagnair.com^
 ||bypassprofessordemonstrate.com^
 ||okayarab.com^
 ||illustcutesy.com^
 ||videocdn.name^
 ||chestuwygli.com^
 ||grandcasinobell.com^
-||frap.site^
 ||qrclevrfjw.com^
 ||sdmfyqkghzedvx.com^
-||b91vip.com^
 ||whingewost.com^
-||fieldofbachus.com^
 ||konradsneak.com^
 ||spewyelks.com^
 ||steadydonut.com^
@@ -4423,6 +4421,7 @@ vkcdnservice.appspot.com^
 ||b8af8878e9a9565.com^
 ||b8cf0fd3179ef.com^
 ||b8pfulzbyj7h.com^
+||b91vip.com^
 ||b936c5932623f.com^
 ||b97beb2fed1c4f.com^
 ||b9ba73f1cd9b6.com^
@@ -7017,6 +7016,7 @@ vkcdnservice.appspot.com^
 ||fictimruffles.space^
 ||fidelity-media.com^
 ||fiedinherite.top^
+||fieldofbachus.com^
 ||fiendbenevolencemaker.com^
 ||fierceharmlessjacket.com^
 ||fierymanurepebble.com^
@@ -7200,6 +7200,7 @@ vkcdnservice.appspot.com^
 ||franklyclapmaggot.com^
 ||franticallyseptember.com^
 ||franticdivergemindless.com^
+||frap.site^
 ||fraudoutrageoustransport.com^
 ||fraudulentmatt.com^
 ||frbyvuxzvmqpb.com^
@@ -17002,7 +17003,6 @@ vkcdnservice.appspot.com^
 !
 ||1080872514.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
-||a.livesportmedia.eu^
 ||a.ucoz.net^
 ||ad.about.co.kr^
 ||ad.bitbay.net^
@@ -17011,11 +17011,7 @@ vkcdnservice.appspot.com^
 ||ad.netmedia.hu^
 ||ad.outsidehub.com^
 ||ad.reklamport.com^
-||ad.valuecalling.com^
 ||ad.wsod.com^
-||adingo.jp.eimg.jp^
-||adlandpro.com^
-||adn.ebay.com^
 ||ads-sg.tiktok.com^
 ||ads.audio.thisisdax.com^
 ||ads.sportradar.com^
@@ -17024,11 +17020,7 @@ vkcdnservice.appspot.com^
 ||affiliate.heureka.cz^
 ||affiliate.juno.co.uk^
 ||affiliate.mediatemple.net^
-||affiliates.allposters.com^
-||affiliatesmedia.sbobet.com^
-||affiliation.fotovista.com^
 ||ak.imgaft.com^
-||ak1.imgaft.com^
 ||analytics.disneyinternational.com^
 ||ao-freegeoip.herokuapp.com^
 ||api.140proof.com^
@@ -17214,7 +17206,6 @@ vkcdnservice.appspot.com^
 ||eblastengine.upickem.net^
 ||engine.eroge.com^
 ||entitlements.jwplayer.com^
-||epnt.ebay.com^
 ||escape.insites.eu^
 ||etrader.kalahari.com^
 ||etrader.kalahari.net^
@@ -23306,7 +23297,6 @@ vkcdnservice.appspot.com^
 ||button.blogs.yandex.
 ||bia.brightinfo.com^
 ||beacon-1.newrelic.com^
-||beacon.errorception.com^
 ||beacon.guim.co.uk^
 ||beacon.kmi-us.com^
 ||bats.video.yahoo.com^
@@ -25562,6 +25552,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||barium.cheezdev.com^
 ||bc.geocities.
 ||beacon.affil.walmart.com^
+||beacon.errorception.com^
 ||beacon.flow.io^
 ||beacon.gcion.com^
 ||beacon.heliumnetwork.com^
@@ -31814,6 +31805,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adimpkwd.excite.co.jp^
 !
 ! Eimg.jp
+||adingo.jp.eimg.jp^
 !
 ||waqool.com^
 ||ad.nwi.jp^
@@ -36522,6 +36514,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||baskba.xyz^
 ||qq2img.com^
 ||skrmzl.cn^
 ||caicaiplay.cn^
