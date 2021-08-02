@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-02T12:06:48.443Z
+! Last modified: 2021-08-02T18:03:26.594Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12505,6 +12505,7 @@ vkcdnservice.appspot.com^
 ||tfzznclztl.com^
 ||tgvbwjbnxz.com^
 ||tgzobwoutuwn.com^
+||thaibeco.com^
 ||thaickoo.net^
 ||thaiksee.com^
 ||thamsais.com^
@@ -18241,6 +18242,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||ad3.cross-a.net^
 ||inistrack.net^
 ||fourier.taobao.com^
 ||omniconvert.com^
@@ -22327,6 +22329,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||p-events.ivideosmart.com^
 ||user-rating.burda-forward.de^
 ||d3in1te4fdays6.cloudfront.net^
 ||tracker.cdn-moneysmart.com^
@@ -23993,6 +23996,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||analytics.redbubble.com^
 ||stats-sg.ganymede.eu^
 ||eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com^
 ||stats-proto.pandora.com^
@@ -27148,6 +27152,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||kafar4.club^
 ||4251.tech^
 ||0001.best^
 ||trysnd.fun^
@@ -31871,7 +31876,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ad.rarure.com^
 ||affiliate-script-pr.firebaseapp.com^
 ||asia-northeast1-affiliate-pr.cloudfunctions.net^
-||recommend-pc-bto.sakura.ne.jp^
 ||aztool.org^
 ||ad.eloan.co.jp^
 ||divscripty.net^
@@ -33773,6 +33777,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||saleonce.top^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35801,6 +35806,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||domain1.chahaoba.cn^
 ||static.gaomaer.cn^
 ||laobaigushi.com^
 ||003store.com^
@@ -36536,6 +36542,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||mzokqm.cn^
 ||zhimeihui.fun^
 ||goteacher.cn^
 ||8776315.com^
