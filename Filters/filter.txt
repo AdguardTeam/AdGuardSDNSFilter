@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-02T06:12:51.804Z
+! Last modified: 2021-08-02T12:06:48.443Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||deslncsiq.com^
+||khcbilxtj.com^
 ||bochugho.net^
 ||inoculatemention.com^
 ||ptagnair.com^
@@ -17043,7 +17045,6 @@ vkcdnservice.appspot.com^
 ||assets.sheetmusicplus.com^
 ||award.sitekeuring.net^
 ||b.babylon.com^
-||banman.isoftmarketing.com^
 ||banner.101xp.com^
 ||banner.titancasino.com^
 ||banner2.casino.com^
@@ -18240,6 +18241,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||inistrack.net^
 ||fourier.taobao.com^
 ||omniconvert.com^
 ||cdn.clerk.io^
@@ -18368,6 +18370,7 @@ vkcdnservice.appspot.com^
 ||mas.protecmedia.com^
 ||t.rainide.com^
 ||durationmedia.net^
+||stats-repl.myangular.life^
 ||stats.myangular.life^
 ||pointmediatracker.com^
 ||c-api-bit.shopeemobile.com^
@@ -23990,6 +23993,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||stats-sg.ganymede.eu^
+||eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com^
 ||stats-proto.pandora.com^
 ||collector.vhx.tv^
 ||analytics-server.gimbal.com^
@@ -25741,6 +25746,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
 ||eel.transistor.fm^
+||epnt.ebay.com^
 ||errors.snackly.co^
 ||event-api.contactatonce.co.uk^
 ||event-api.contactatonce.com.au^
@@ -26476,6 +26482,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cheqzone.com^
 ||d-markets.net^
 ||d2-apps.net^
+||datasign.co^
 ||deteql.net^
 ||e-click.jp^
 ||ebis.ne.jp^
@@ -26540,7 +26547,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||conversionlabs.net.pl^
 ||dmdi.pl^
 ||goprediction.com^
-||inistrack.net^
 ||nokaut.link^
 ||refericon.pl^
 ||sare25.com^
@@ -27142,6 +27148,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||4251.tech^
+||0001.best^
 ||trysnd.fun^
 ||aj2345.online^
 ||humoek.com^
@@ -32088,6 +32096,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
+||e66gg.com^
+||p.qlogo.cn^
 ||dlads.cn^
 ||7daystodie.cn^
 ||hyz86.com^
@@ -36527,6 +36537,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stunninglover.com^
 ||watakaw133.xyz^
 ||zhimeihui.fun^
+||goteacher.cn^
+||8776315.com^
+||kykmuyi.cn^
 ||baskba.xyz^
 ||qq2img.com^
 ||skrmzl.cn^
