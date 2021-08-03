@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-03T12:06:52.777Z
+! Last modified: 2021-08-03T18:03:59.727Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,16 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||centent.slreamplay.cc^
+||apprefaculty.pro^
+||clk.rtpdn*.com^
+||bid-engine.com^
+||ads.topsex.cc^
+||abhorcarious.com^
+||absalomgunne.com^
+||flexnoseassist.com^
+||hockeyhavoc.com^
+||petsuccessive.com^
 ||smartnews-ads.com^
 ||deslncsiq.com^
 ||khcbilxtj.com^
@@ -4197,7 +4207,6 @@ vkcdnservice.appspot.com^
 ||appealthroughout.com^
 ||appearancefingerprintabet.com^
 ||appendixwarmingauthors.com^
-||apprefaculty.pro^
 ||appropeanes.club^
 ||approped.club^
 ||approvalglamourduly.com^
@@ -4774,6 +4783,7 @@ vkcdnservice.appspot.com^
 ||boodlewrite.com^
 ||bookingfreeze.com^
 ||boom-boom-vroom.com^
+||boosirad.net^
 ||boost-next.co.jp^
 ||bootstrap-framework.org^
 ||bootstrap-js.com^
@@ -6383,6 +6393,7 @@ vkcdnservice.appspot.com^
 ||earphonesvehicleexploded.com^
 ||earsagreenj.top^
 ||earthincomprehensibleintrepid.com^
+||easierblushingpicky.com^
 ||easiesttangle.com^
 ||easy-bars.com^
 ||easy2cnjuh34jb.com^
@@ -26854,6 +26865,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||h.seznam.cz^
 ||hit.skrz.cz^
 ||i.imedia.cz^
+||log.cpex.cz^
 ||log.idnes.cz^
 ||pixel.cpex.cz^
 ||ssp.seznam.cz^
@@ -33812,6 +33824,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||xtdzkj.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
