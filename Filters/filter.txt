@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-04T00:14:29.703Z
+! Last modified: 2021-08-04T12:06:38.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3000,8 +3000,6 @@ www.llllllllllll.net^
 !
 ||bsxmuny.wp.pl^
 ||fusion.sydsvenskan.se^
-! https://github.com/AdguardTeam/AdguardFilters/issues/54242
-/movie1168\.com\/storage\/go\/[0-9a-zA-Z]{0,40}\.gif/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/51547
 ||hbplatform.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/38159
@@ -3192,6 +3190,10 @@ vkcdnservice.appspot.com^
 ||s*.site.flashx.cc^
 ||s*.skencituer.com^
 ||mine.torrent.pw^
+!
+! Whitelist
+!
+
 
 !
 ! Source name: EasyList ad servers
@@ -4711,6 +4713,7 @@ vkcdnservice.appspot.com^
 ||biteburied.com^
 ||bitesizememorable.com^
 ||bitpcn.com^
+||bjakku.com^
 ||bkembwdgujzp.com^
 ||bkjjepbwwgef.com^
 ||bl1mp.com^
@@ -10948,6 +10951,7 @@ vkcdnservice.appspot.com^
 ||psoaksoo.com^
 ||psoanouy.net^
 ||psoomeeg.com^
+||psootchu.net^
 ||psoptopi.com^
 ||psougrie.com^
 ||psoumtou.net^
@@ -11650,6 +11654,7 @@ vkcdnservice.appspot.com^
 ||ryquhezrbhfp.com^
 ||rysubmission.biz^
 ||rywoments.info^
+||ryyhwgyy.com^
 ||ryynoljdarrw.com^
 ||rzbkusrz.com^
 ||rzhcdnsl.com^
@@ -13926,6 +13931,7 @@ vkcdnservice.appspot.com^
 ||ypreferred.com^
 ||ypuxlzxa.com^
 ||ypwpzgld.com^
+||ypymsisnwv.com^
 ||yqeuu.com^
 ||yqezqofkb1nnmz.com^
 ||yqorexok.xyz^
@@ -17106,7 +17112,6 @@ vkcdnservice.appspot.com^
 ||affiliate.juno.co.uk^
 ||affiliate.mediatemple.net^
 ||ak.imgaft.com^
-||analytics.disneyinternational.com^
 ||ao-freegeoip.herokuapp.com^
 ||api.140proof.com^
 ||api.bitp.it^
@@ -17259,9 +17264,9 @@ vkcdnservice.appspot.com^
 ||dlvds9i67c60j.cloudfront.net^
 ||dm0acvguygm9h.cloudfront.net^
 ||dmkdtkad2jyb9.cloudfront.net^
+||dn3nmb5yt1ysw.cloudfront.net^
 ||do69ll745l27z.cloudfront.net^
 ||dojx47ab4dyxi.cloudfront.net^
-||downloadandsave-a.akamaihd.net^
 ||dpsq2uzakdgqz.cloudfront.net^
 ||dq3yxnlzwhcys.cloudfront.net^
 ||dqhi3ea93ztgv.cloudfront.net^
@@ -17308,8 +17313,6 @@ vkcdnservice.appspot.com^
 ||gg.caixin.com^
 ||giantsavings-a.akamaihd.net^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
-||homad-global-configs.schneevonmorgen.com^
-||hosting.conduit.com^
 ||hotlinking.dosmil.imap.cc^
 ||images.dreamhost.com^
 ||images.mylot.com^
@@ -17334,7 +17337,6 @@ vkcdnservice.appspot.com^
 ||medrx.telstra.com.au^
 ||mfeed.newzfind.com^
 ||mmwebhandler.888.com^
-||movie4all.co^
 ||mt.sellingrealestatemalta.com^
 ||mto.mediatakeout.com^
 ||news.fark.com^
@@ -17380,8 +17382,6 @@ vkcdnservice.appspot.com^
 ||roia.hutchmedia.com^
 ||rotabanner.kulichki.net^
 ||rotator.tradetracker.net^
-||s-yoolk-banner-assets.yoolk.com^
-||s-yoolk-billboard-assets.yoolk.com^
 ||saambaa.com^
 ||salefile.googlecode.com^
 ||sbhc.portalhc.com^
@@ -17435,7 +17435,6 @@ vkcdnservice.appspot.com^
 ||widgets.progrids.com^
 ||widgets.solaramerica.org^
 ||wsockd.com^
-||yb.torchbrowser.com^
 ||yeas.yahoo.co.jp^
 ||yield-op-idsync.live.streamtheworld.com^
 ||yieldmanager.edgesuite.net^
@@ -22394,6 +22393,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||aem-collector.daumkakao.io^
 ||cl.canva.com^
 ||p-events.ivideosmart.com^
 ||user-rating.burda-forward.de^
@@ -24400,6 +24400,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bydst.com^
 ||cloudwp.io^
 ||e1e.io^
+||experianmatch.info^
 ||g2377012020.co^
 ||g2575096355.co^
 ||g2773180690.co^
@@ -24543,6 +24544,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bigreal.org^
 ||bjcathay.com^
 ||blaick.com^
+||blockdetector.org^
 ||bnqt.com^
 ||bntech.io^
 ||botman.ninja^
@@ -24922,6 +24924,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pro6e.com^
 ||programmatictrader.com^
 ||propermessage.io^
+||provify.io^
 ||prprocess.com^
 ||pt-trx.com^
 ||ptengine.cn^
@@ -25554,6 +25557,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.dev.htmedia.in^
 ||analytics.dev.springboardvideo.com^
 ||analytics.developer.riotgames.com^
+||analytics.disneyinternational.com^
 ||analytics.dvidshub.net^
 ||analytics.eggoffer.com^
 ||analytics.erepublic.com^
@@ -25812,6 +25816,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dy2xcjk8s1dbz.cloudfront.net^
 ||dymlo6ffhj97l.cloudfront.net^
 ||dyv1bugovvq1g.cloudfront.net^
+||dzbrr144kh0m6.cloudfront.net^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
 ||eel.transistor.fm^
@@ -26860,6 +26865,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.tagtic.cn^
 ||nos.netease.com^
 ||p.tencentmind.com^
+||px.effirst.com^
 ||r.sax.sina.com.cn^
 ||report.meituan.com^
 ||stat.ws.126.net^
@@ -32953,9 +32959,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 Aug 2021 09:51 UTC+7
-! Version: 2108030951
-! Blocked: 925 rules
+! Last modified: 04 Aug 2021 15:42 UTC+7
+! Version: 2108041542
+! Blocked: 926 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33104,6 +33110,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sourcetobin.com^
 ||sporttv.today^
 ||starseed.fr^
+||static-addtoany-com.cdn.ampproject.org^
 ||static.accesstrade.vn^
 ||stats.vng.com.vn^
 ||subiz-cdn.com^
@@ -36610,6 +36617,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||9c1k.cn^
+||2886996.com^
+||tzhqg.cn^
+||mgtw.xyz^
+||gotoip.com.cn^
 ||baiyaqin.xyz^
 ||01tn.cn^
 ||027whht.com^
