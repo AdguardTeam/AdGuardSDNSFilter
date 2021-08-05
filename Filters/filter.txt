@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-05T06:04:32.348Z
+! Last modified: 2021-08-05T18:01:33.164Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||centimetresnappeddock.com^
+||spadelack.com^
+||movies-flix.club^
 ||housewifehaunted.com^
 ||loolowhy.com^
 ||puserving.com^
@@ -764,7 +767,6 @@
 ||engine.partylemons.com^
 ||danyhazo.xyz^
 ||moviesflix4k.work^
-||movies-flix.club^
 ||xemtivi24h.com^
 ||apcats.ddns.net^
 ||srtrak.com^
@@ -18332,6 +18334,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||simility.com^
 ||recs.richrelevance.com^
 ||analytics.sqreem.com^
 ||iper2.com^
@@ -24096,6 +24099,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||dit.whatsapp.net^
+||mtrace.qq.com^
+||sngmta.qq.com^
 ||analytics.redbubble.com^
 ||stats-sg.ganymede.eu^
 ||eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com^
@@ -25335,7 +25341,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||push4site.com^
 ||ravelin.net^
 ||sealine.pro^
-||simility.com^
 ||spideraf.com^
 ! Mining
 .1.1.1.l80.js^
@@ -25854,6 +25859,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dymlo6ffhj97l.cloudfront.net^
 ||dyv1bugovvq1g.cloudfront.net^
 ||dzbrr144kh0m6.cloudfront.net^
+||ec.walkme.com^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
 ||eel.transistor.fm^
@@ -27056,6 +27062,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a.tovarro.com^
 ||awaps.yandex.ru^
 ||browser-updater.yandex.net^
+||cdn-rum.ngenix.net^
 ||cnstats.cdev.eu^
 ||cnt.krasland.ru^
 ||cnt.rate.ru^
@@ -32995,9 +33002,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 04 Aug 2021 15:42 UTC+7
-! Version: 2108041542
-! Blocked: 926 rules
+! Last modified: 05 Aug 2021 16:34 UTC+7
+! Version: 2108051634
+! Blocked: 927 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33269,6 +33276,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adserver.muaban.net^
 ||adserver.trangphim.net^
 ||adsgo.nhipcaudautu.vn^
+||adsnetonline.work^
 ||adsplus.vn^
 ||adsv2.autodaily.vn^
 ||adsweb.vn^
@@ -33885,6 +33893,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||brownfox.top^
+||2nmhz6k.cn^
+||zhaiqichao.top^
+||focusonus.top^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -36653,7 +36665,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||9c1g.cn^
+||weiboyaya.cn^
+||ntfirstleap.cn^
 ||jm166.cn^
+||9b0v.cn^
+||taobso.cn^
+||wangzhenzhi.cn^
+||luojianrong.cn^
 ||icefog.xyz^
 ||01tn.cn^
 ||027whht.com^
@@ -38791,6 +38810,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/89190
+@@||79423.analytics.edgekey.net^|
 ! Blocked by CNAME ||leadpages.net^$third-party
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/707
 @@||health.halodoc.com^|
@@ -38811,7 +38832,7 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||ac.ebis.ne.jp^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/602
 ! Don't block clicks in AWS emails
-@@||email.awscloud.com^
+@@||email.awscloud.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/574
 ! Blocked by ||relevant-digital.com^
 @@||oneline.nextday.media^|
