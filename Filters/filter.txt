@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-06T00:15:38.547Z
+! Last modified: 2021-08-06T06:05:02.277Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -15973,6 +15973,7 @@ vkcdnservice.appspot.com^
 ||nighter.club^
 ||niltutch.com^
 ||nitmus.com^
+||nitropay.com^
 ||nization.com^
 ||nkredir.com^
 ||nlwy0.com^
@@ -24920,7 +24921,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||netcore.co.in^
 ||netcoresmartech.com^
 ||ninjacat.io^
-||nitropay.com^
 ||nmrodam.com^
 ||noibu.com^
 ||northstartravelmedia.com^
