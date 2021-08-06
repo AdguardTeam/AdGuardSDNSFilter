@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-06T12:07:42.470Z
+! Last modified: 2021-08-06T18:04:01.761Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,11 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||beatsightcab.com^
+||citheekr.com^
+||ithaibap.com^
+||9v58v.com^
+||1ts11.top^
 ||alkypeewit.com^
 ||guphoulr.com^
 ||doashair.net^
@@ -57,19 +62,15 @@
 ||konradsneak.com^
 ||spewyelks.com^
 ||steadydonut.com^
-||thoovoay.net^
 ||videobaba.xyz^
 ||javoyynu.xyz^
 ||growadvertising.com^
 ||free.srcdn.xyz^
 ||believegrandpa.com^
-||otisephie.com^
 ||peekcogentpope.com^
 ||pbprof.com^
 ||admost-banner.b-cdn.net^
 ||claring-loccelkin.com^
-||auchoons.net^
-||deliberatelycube.com^
 ||mutilatecoast.com^
 ||travelingturtleharmonious.com^
 ||gigacpmserv.com^
@@ -4339,6 +4340,7 @@ vkcdnservice.appspot.com^
 ||attenuatecripple.com^
 ||auberginecorny.com
 ||auberginises.xyz^
+||auchoons.net^
 ||aud3g.com^
 ||audacitydipping.com^
 ||audacityprolong.com^
@@ -5953,6 +5955,7 @@ vkcdnservice.appspot.com^
 ||del-del-ete.com^
 ||delayedtemporarilybakery.com^
 ||deliberatelyadvancing.com^
+||deliberatelycube.com^
 ||deliberateporridge.com^
 ||delightfulold.com^
 ||deligrassdull.com^
@@ -10296,6 +10299,7 @@ vkcdnservice.appspot.com^
 ||othernfrence.club^
 ||othesarialiber.club^
 ||othyightmare.club^
+||otisephie.com^
 ||otlffresod.com^
 ||otnolabttmup.com^
 ||otnolatrnup.com^
@@ -12656,6 +12660,7 @@ vkcdnservice.appspot.com^
 ||thomageothe.club^
 ||thoodsoy.net^
 ||thoorest.com^
+||thoovoay.net^
 ||thorizinge.club^
 ||thoroughask.com^
 ||thoseads.com^
@@ -15977,7 +15982,6 @@ vkcdnservice.appspot.com^
 ||nighter.club^
 ||niltutch.com^
 ||nitmus.com^
-||nitropay.com^
 ||nization.com^
 ||nkredir.com^
 ||nlwy0.com^
@@ -24116,6 +24120,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||events.tvtime.com^
+||smetrics.discover.com^
+||sadobeanalytics.geico.com^
 ||dit.whatsapp.net^
 ||analytics.redbubble.com^
 ||stats-sg.ganymede.eu^
@@ -24925,6 +24932,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||netcore.co.in^
 ||netcoresmartech.com^
 ||ninjacat.io^
+||nitropay.com^
 ||nmrodam.com^
 ||noibu.com^
 ||northstartravelmedia.com^
@@ -31960,6 +31968,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||world-ad.jp^
 ||waqool.com^
 ||ad.nwi.jp^
 ||devo.jp^
@@ -33016,8 +33025,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Aug 2021 15:23 UTC+7
-! Version: 2108061523
+! Last modified: 06 Aug 2021 20:08 UTC+7
+! Version: 2108062008
 ! Blocked: 927 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -33907,6 +33916,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||goodgoodluck.cn^
+||dexuanyu.top^
+||daochengwowo.top^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35944,6 +35956,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||lianmen1.joyyang.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36680,6 +36693,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||nbsxa.cn^
+||ylinzx.cn^
+||yakuya.cn^
+||jasontaojin.com^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
