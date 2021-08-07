@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-07T12:05:22.885Z
+! Last modified: 2021-08-07T18:04:29.036Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||adrokt.com^
+||daedaelousscri.com^
 ||cawkyhouhere.com^
 ||quitelyhabitat.com^
 ||beatsightcab.com^
@@ -3998,6 +4000,7 @@ vkcdnservice.appspot.com^
 ||agriculturaltherapist.com^
 ||agukalty.net^
 ||agzfxovg.com^
+||ahacdn.me^
 ||ahadsply.com^
 ||ahaumplab.com^
 ||ahbdsply.com^
@@ -18317,7 +18320,6 @@ vkcdnservice.appspot.com^
 ||tracking.sexcash.com^
 ||fastly-insights.com^
 ||restisbench.com^
-||cdn.trackclicks.info^
 ||mm.actionlink.jp^
 ||btloader.com^
 ||tracklog.58.com^
@@ -24458,6 +24460,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sbgsodufuosmmvsdf.info^
 ||site24x7rum.eu^
 ||tatpek.com^
+||trackclicks.info^
 ||truffle.bid^
 ||wknd.ai^
 ||z0uolej1qnxzub1.info^
@@ -24585,6 +24588,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cdnopw.com^
 ||cformanalytics.com^
 ||cintnetworks.com^
+||cityadstrack.com^
 ||clearbitjs.com^
 ||clickbrainiacs.com^
 ||clickferret.com^
@@ -32972,9 +32976,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Aug 2021 16:39 UTC+7
-! Version: 2108071639
-! Blocked: 930 rules
+! Last modified: 07 Aug 2021 20:57 UTC+7
+! Version: 2108072057
+! Blocked: 932 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33038,7 +33042,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cdp.asia^
 ||cheap-ads.net^
 ||chin-adnetwork.com^
-||cityadstrack.com^
 ||clevernet.vn^
 ||clickbuy.bz^
 ||codon.vn^
@@ -33620,6 +33623,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aw8vn2.com^
 ||b29qc.win^
 ||b52.win^
+||bestcacuoc8.com^
 ||betvietnam.info^
 ||betvisa.com^
 ||big88.one^
@@ -33697,6 +33701,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||loc88.fun^
 ||loc89.fun^
 ||loc89.vip^
+||lode555.com^
 ||lode88.vip^
 ||lucky88.com^
 ||lucky88.live^
@@ -35886,6 +35891,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||gg.huahaimi.work^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
@@ -36646,6 +36652,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||nauklh.cn^
 ||donghua.asia^
 ||qiaohong.ltd^
 ||01tn.cn^
