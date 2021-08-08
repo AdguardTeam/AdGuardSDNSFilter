@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-08T00:16:29.715Z
+! Last modified: 2021-08-08T06:04:01.349Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -17344,6 +17344,7 @@ vkcdnservice.appspot.com^
 ||on.maxspeedcdn.com^
 ||p.d.1emn.com^
 ||p.smartertravel.com^
+||pacontainer.s3.amazonaws.com^
 ||padsdel.com^
 ||pagead2.googlesyndication.com^
 ||partner.bargaindomains.com^
@@ -26875,7 +26876,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||imp.optaim.com^
 ||log.hiiir.com^
 ||log.tagtic.cn^
-||nos.netease.com^
 ||p.tencentmind.com^
 ||px.effirst.com^
 ||r.sax.sina.com.cn^
@@ -33870,6 +33870,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||jisukuaisong.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35868,7 +35869,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tmea116.oss-cn-beijing.aliyuncs.com^
 ||tp.sgcn.com^
 ||u.63kc.com^
-||u.cnzol.com^
 ||uc.zhuici.com^
 ||union.china.com.cn^
 ||union.yihaodian.com^
@@ -35911,6 +35911,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||vip.panggugu.com^
+||1.ufc7.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36651,6 +36653,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||liangzimo.ltd^
+||2886115.com^
+||5qoh.cn^
+||shandongaosen.cn^
+||zhpxkl.cn^
+||szjywn.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
