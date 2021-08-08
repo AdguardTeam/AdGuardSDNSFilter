@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-07T18:04:29.036Z
+! Last modified: 2021-08-08T00:16:29.715Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4000,7 +4000,6 @@ vkcdnservice.appspot.com^
 ||agriculturaltherapist.com^
 ||agukalty.net^
 ||agzfxovg.com^
-||ahacdn.me^
 ||ahadsply.com^
 ||ahaumplab.com^
 ||ahbdsply.com^
@@ -35755,6 +35754,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gg.getbs.com^
 ||gg.gsdlcn.com^
 ||gg.gw032.com^
+||gg.huahaimi.work^
 ||gg.kugou.com^
 ||gg.sonhoo.com^
 ||gg.uuu9.com^
@@ -35891,7 +35891,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||gg.huahaimi.work^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
@@ -35912,9 +35911,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||uc9.suinidai.com.cn^
-||bd1-ys.km.com^
-||p1.qxzsw.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36130,6 +36126,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bd.watu.cn^
 ||bd1-china.6789.com^
 ||bd1-china.xsfaya.com^
+||bd1-ys.km.com^
 ||bd1.365qilu.com^
 ||bd1.99danji.com^
 ||bd1.click.com.cn^
@@ -36461,6 +36458,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||p.junshi881.com^
 ||p.junshifuxin.com^
 ||p1.chinakaoyan.com^
+||p1.qxzsw.com^
 ||p1.zhongyoo.com^
 ||p1.zhumengwl.com^
 ||panyh123456.cn^
@@ -36529,6 +36527,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||u1.shuaiku.com^
 ||ub1.job592.com^
 ||uc*.atobo.com^
+||uc9.suinidai.com.cn^
 ||un.ubaike.cn^
 ||un1.wayoulegal.com^
 ||undm.qibulo.com^
@@ -36652,9 +36651,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||nauklh.cn^
-||donghua.asia^
-||qiaohong.ltd^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37142,6 +37138,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dnjszp.cn^
 ||dodolive.cn^
 ||dofkfhv.cn^
+||donghua.asia^
 ||doujl.cn^
 ||doulaihai.top^
 ||downcdn.top^
@@ -37835,6 +37832,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nanyangqiaoxiang.cn^
 ||naolifanghealth.com^
 ||nashlin.top^
+||nauklh.cn^
 ||nazhenkj.com^
 ||nbhotpo.com^
 ||nbsave.xyz^
@@ -37973,6 +37971,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qianggou8.top^
 ||qianyuntengyue.com^
 ||qiaoenyl.xyz^
+||qiaohong.ltd^
 ||qiaopiguniang.com^
 ||qiditrade.com^
 ||qiguoguo.net^
