@@ -3,7 +3,7 @@
 CURRENT_DATE=$(date +%d.%m.%Y)
 
 git checkout master
-git pull origin master
+git pull --no-commit origin master
 hostlist-compiler -c configuration.json -o Filters/adguard-adaway-peter-lowe.txt
 git add . 
 ISSUE_NUMBER=$(gh issue create --title "Make $CURRENT_DATE Release"  --body "Make $CURRENT_DATE Release" --assignee @me --label release | sed 's|.*/||' )
@@ -14,3 +14,5 @@ gh pr create --fill --assignee @me --title "[$CURRENT_DATE] Release preparation 
 gh pr merge --delete-branch --squash 
 gh release create $CURRENT_DATE --title "Release $CURRENT_DATE" --notes "Release of Adguard Custom Filters generated for AdGuard Home on day $CURRENT_DATE"
 gh issue close $ISSUE_NUMBER
+git checkout master
+git pull --no-commit origin master
