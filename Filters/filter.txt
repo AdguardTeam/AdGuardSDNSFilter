@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-10T06:04:29.751Z
+! Last modified: 2021-08-10T12:06:31.198Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,12 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||ocdnmq.com^
+||worldspromising.com^
+||glamourgreek.com^
+||reialsoha.biz^
+||arysignificc.fun^
+||godfulsiums.com^
 ||glixaing.com^
 ||api.flat-ads.com^
 ||adrokt.com^
@@ -2813,6 +2819,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||ads-partners.coupang.com^
 ||ads-dot-fbc-web-2018.uc.r.appspot.com^
 ||awrfds3.pornpapa.com^
 ||d1tpwjufge3qqa.cloudfront.net^
@@ -4573,6 +4580,7 @@ vkcdnservice.appspot.com^
 ||bcnewltd.club^
 ||bcuuipewdz.com^
 ||bcvutcks.com^
+||bcxamyjtnzuf.com^
 ||bd1617dbbc28f.com^
 ||bd202457b.com^
 ||bd44.fun^
@@ -6022,6 +6030,7 @@ vkcdnservice.appspot.com^
 ||despisenoughtshit.com^
 ||deswhatlike.biz^
 ||detachedbates.com^
+||detdtmkwcl.com^
 ||detecteddesigningspirited.com^
 ||detectivesrecoilatmospheric.com^
 ||detectorvenomouscutlery.com^
@@ -10219,6 +10228,7 @@ vkcdnservice.appspot.com^
 ||onhowever.fun^
 ||onhusband.top^
 ||onintensstud.club^
+||online-protection-now.com^
 ||onlyjugpub.com^
 ||onmarshtompor.com^
 ||onmystems.top^
@@ -10880,6 +10890,7 @@ vkcdnservice.appspot.com^
 ||primroseconstellationrapidly.com^
 ||princedrainclearance.com^
 ||princided.club^
+||pringed.space^
 ||prioritybeforehand.com^
 ||priorityinvaderinflation.com^
 ||privacyheelvest.com^
@@ -11298,6 +11309,7 @@ vkcdnservice.appspot.com^
 ||rearroges.xyz^
 ||reasonsteamconcrete.com^
 ||reasonzoodeport.com^
+||rebikuny.com^
 ||rebiraert.com^
 ||rebrancardera.site^
 ||rebuildcroakdeployment.com^
@@ -11341,6 +11353,7 @@ vkcdnservice.appspot.com^
 ||redundancyphilosophicalwest.com^
 ||redvxjlmaehy.com^
 ||reechokelvin.casa^
+||reedthatm.biz^
 ||reembrasserait.website^
 ||reenrageasse.xyz^
 ||refaucherais.site^
@@ -11586,6 +11599,7 @@ vkcdnservice.appspot.com^
 ||rosyteapotgabble.com^
 ||rotabol.com^
 ||rotdubboy.com^
+||rotfrigilityfrigility.com^
 ||rothoglyro.pro^
 ||rottilderum.cam^
 ||roughthos.top^
@@ -12268,6 +12282,7 @@ vkcdnservice.appspot.com^
 ||staimpor.net^
 ||stainspun.com^
 ||staitchu.com^
+||staixemo.com^
 ||stakenallisin.club^
 ||stampseizeidly.com^
 ||standnizati.fun^
@@ -12484,6 +12499,7 @@ vkcdnservice.appspot.com^
 ||taghaugh.com^
 ||taifouwo.com^
 ||taijiwhi.com^
+||taisowhu.com^
 ||takeslobsgel.com^
 ||talentropes.com^
 ||talhundrewr.club^
@@ -17252,6 +17268,7 @@ vkcdnservice.appspot.com^
 ||d3a42c7xs4vn3.cloudfront.net^
 ||d3ahinqqx1dy5v.cloudfront.net^
 ||d3aiy6aqoa3ykz.cloudfront.net^
+||d3al52d8cojds7.cloudfront.net^
 ||d3dytsf4vrjn5x.cloudfront.net^
 ||d3em0905j9y6sm.cloudfront.net^
 ||d3hitamb7drqut.cloudfront.net^
@@ -17395,15 +17412,8 @@ vkcdnservice.appspot.com^
 ||promos.fling.com^
 ||promote.pair.com^
 ||promotions.iasbet.com^
-||pub.admedia.io^
-||pub.dreamboxcart.com^
 ||public.porn.fr^
-||pubs.hiddennetwork.com^
-||rack.bauermedia.co.uk^
-||refer.wordpress.com^
 ||res3.feedsportal.com^
-||ribbon.india.com^
-||roia.hutchmedia.com^
 ||rotabanner.kulichki.net^
 ||rotator.tradetracker.net^
 ||saambaa.com^
@@ -22417,6 +22427,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||smetrics.sbs.com.au^
+||t.wizards.com^
 ||ipada.cafe.naver.com^
 ||boomerang.dell.com^
 ||fp.kakaku.com^
@@ -26080,6 +26092,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||r.msn.com^
 ||realm.hearst3pcc.com^
 ||refer.ccbill.com^
+||refer.wordpress.com^
 ||reporting.cdndex.io^
 ||reporting.handll.net^
 ||reports-api.sqreen.io^
@@ -31942,6 +31955,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||creatives.gunosy.com^
 !
 ! Fc2.com
+||aimg.fc2.com^
 ||media5.fc2.com^
 !
 ! Excite.co.jp
@@ -33008,9 +33022,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Aug 2021 10:54 UTC+7
-! Version: 2108101054
-! Blocked: 932 rules
+! Last modified: 10 Aug 2021 15:34 UTC+7
+! Version: 2108101534
+! Blocked: 935 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33640,6 +33654,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||789club.biz^
 ||789club.org^
 ||79lucky.com^
+||79sodo.com^
 ||888b.com^
 ||888b.in^
 ||88viet.com^
@@ -33669,6 +33684,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cacuoc247.com^
 ||cacuoc79.com^
 ||casino888vn.com^
+||comebetvn9.com^
 ||datcuoc247.com^
 ||debet.com^
 ||dfchoingay.com^
@@ -33735,6 +33751,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||loc89.vip^
 ||lode555.com^
 ||lode88.vip^
+||lt991.com^
 ||lucky88.com^
 ||lucky88.live^
 ||lucky88.net^
