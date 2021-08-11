@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-10T18:04:49.294Z
+! Last modified: 2021-08-11T00:23:40.731Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||driddleurease.com^
+||cauntercanulae.com^
 ||chioneflake.com^
 ||d-ughwashes.ru^
 ||hunter-hub.com^
@@ -33929,7 +33931,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||ud831d4.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35294,6 +35295,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||uc610.com^
 ||ucxgg.com^
 ||ud831d2.com^
+||ud831d4.com^
 ||ue2bm3.cn^
 ||ugg66.com^
 ||umjsik.com^
@@ -36714,12 +36716,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||lv-xin.cn^
-||leyxue.cn^
-||h728.cn^
-||zdryg.com^
-||zwrj999.cn^
-||jhwt.shop^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37427,6 +37423,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gzts188.com^
 ||gzzena.com^
 ||h4kdxs.com^
+||h728.cn^
 ||habyc.com^
 ||haichengdzsp.com^
 ||haishengwh123.cn^
@@ -37605,6 +37602,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jgcq3003.com^
 ||jh3pin.com^
 ||jhgff23az.biqugetv.com^
+||jhwt.shop^
 ||jia-huan.cn^
 ||jiachangwuliu.cn^
 ||jiahewine.cn^
@@ -37760,6 +37758,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lerenzx.cn^
 ||lesanmo.top^
 ||lexph.com^
+||leyxue.cn^
 ||lezengxin.com^
 ||lfsenmei.com^
 ||lfzxcp.com^
@@ -37817,6 +37816,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lusrg.cn^
 ||luxoshopde.com^
 ||luyouxi.cn^
+||lv-xin.cn^
 ||lvkuaizi.com^
 ||lvsechufang.com^
 ||lwlscy.com^
@@ -38684,6 +38684,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zc710956.top^
 ||zcand.com^
 ||zdovrb.cn^
+||zdryg.com^
 ||zenwq.com^
 ||zfood029.com^
 ||zgchaye123.com^
@@ -38758,6 +38759,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zvqbbj.cn^
 ||zwhkug.cn^
 ||zwkssb.com^
+||zwrj999.cn^
 ||zwwl.shop^
 ||zwychain.cn^
 ||zxglpj.cn^
