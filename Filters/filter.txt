@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-12T12:06:36.360Z
+! Last modified: 2021-08-12T18:04:19.872Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,10 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||juringupstage.com^
+||lavatoryhitschoolmaster.com^
+||shaujoxu.net^
+||trknex.com^
 ||slotscity.g2afse.com^
 ||alternativecpmgate.com^
 ||quitzon.net^
@@ -18381,6 +18385,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||tafrebadus.com^
+||unblockia.com^
 ||connectier.io^
 ||services.bionika-digital.ru^
 ||perk0mean.com^
@@ -25234,7 +25240,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||u5c93.com^
 ||ub-analytics.com^
 ||uciservice.com^
-||unblockia.com^
 ||united-infos.net^
 ||upapi.net^
 ||uplift-platform.com^
@@ -27341,6 +27346,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||blaindgatum.com^
+||cdn.yanews24.com^
 ||yebmyp.com^
 ||r2gf0vo139.ru^
 ||kafar4.club^
@@ -36003,6 +36010,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||guang1.zhakao.cn^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
