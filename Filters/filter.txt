@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-14T06:04:24.613Z
+! Last modified: 2021-08-14T12:05:15.927Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4892,6 +4892,7 @@ vkcdnservice.appspot.com^
 ||brapoiorc.com^
 ||brassstacker.com^
 ||bravelywade.com^
+||brayerspenta.com^
 ||brazendistil.com^
 ||brazenserialsociety.com^
 ||brdmin.com^
@@ -5449,6 +5450,7 @@ vkcdnservice.appspot.com^
 ||closkeyrespond.com^
 ||closuremammalfury.com^
 ||clotezar.com^
+||clotherinde.space^
 ||cloudflare.solutions^
 ||cloudiiv.com^
 ||cloudimagesa.com^
@@ -6302,6 +6304,7 @@ vkcdnservice.appspot.com^
 ||doomna.com^
 ||dooptoug.net^
 ||doormanb.com^
+||dopansearor.com^
 ||dorbanise.pw^
 ||dorimnews.com^
 ||dormitysature.info^
@@ -6892,6 +6895,7 @@ vkcdnservice.appspot.com^
 ||exchancetaur.info^
 ||exchangedaudacious.com^
 ||exchangepresumeethel.com^
+||excitedyou.biz^
 ||excludeneighbourlyattempting.com^
 ||exdynsrv.com^
 ||exemplarfilthy.com^
@@ -7215,6 +7219,7 @@ vkcdnservice.appspot.com^
 ||flowwiththetide.xyz^
 ||flrdra.com^
 ||fluencymister.com^
+||fluffer.xyz^
 ||fluffycodepotc.com^
 ||fluffyeaster.com^
 ||flushafterwardinteger.com^
@@ -10232,6 +10237,7 @@ vkcdnservice.appspot.com^
 ||ogicatius.com^
 ||ogleslimeexecs.casa^
 ||ognybevu.com^
+||ogqcuudzsuukds.com^
 ||ograuwih.com^
 ||ogskle.com^
 ||ogweswpvzuz.com^
@@ -10703,6 +10709,7 @@ vkcdnservice.appspot.com^
 ||phekrimp.com^
 ||phenomenonattorney.com^
 ||phenomour.club^
+||pheselta.net^
 ||phicmune.net^
 ||philation.club^
 ||philosophicalregardlesssetback.com^
@@ -11008,6 +11015,7 @@ vkcdnservice.appspot.com^
 ||profitabletoothbrushseduce.com^
 ||profitabletrustednetwork.com^
 ||prognosiscontradictbody.com^
+||prognosisshallowpliant.com^
 ||programminghonourable.com^
 ||prograph.club^
 ||projectagoralibs.com^
@@ -11231,6 +11239,7 @@ vkcdnservice.appspot.com^
 ||qfolkbbij.com^
 ||qfszmlxypcqqyb.com^
 ||qfwjclpckrdehi.com^
+||qfzcwlvmhjgjmi.com^
 ||qgamsa.com^
 ||qgevavwyafjf.com^
 ||qggypucwewn.com^
@@ -11537,6 +11546,7 @@ vkcdnservice.appspot.com^
 ||resnikscdn.pro^
 ||resolutioncomplexionfinishing.com^
 ||respecies.club^
+||respectfulcoal.com^
 ||respirationcafeincomparable.com^
 ||respirationghastly.com^
 ||respiratorhair.com^
@@ -12570,6 +12580,7 @@ vkcdnservice.appspot.com^
 ||sympatientcu.club^
 ||symphoneupcom.site^
 ||syncwowsails.com^
+||synsads.com^
 ||synthesissocietysplitting.com^
 ||syphilohmmaging.site^
 ||syrupmagical.com^
@@ -13039,6 +13050,7 @@ vkcdnservice.appspot.com^
 ||turmoilexcessivetranslating.com^
 ||turnstilerecruit.com^
 ||turtlesootheongoing.com^
+||tushihymi.com^
 ||tuxbpnne.com^
 ||tv1s4d6klh4n.com^
 ||tveszimawy.com^
@@ -14212,6 +14224,7 @@ vkcdnservice.appspot.com^
 ||zoagremo.net^
 ||zoaheeth.com^
 ||zoastich.com^
+||zoatoaps.net^
 ||zogleshewi.com^
 ||zonealta.com^
 ||zooahm2fx2v1.com^
@@ -24526,6 +24539,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||altopd.com^
 ||apxl.io^
 ||auriro.net^
+||azury.gg^
 ||bydst.com^
 ||cloudwp.io^
 ||e1e.io^
@@ -24578,6 +24592,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||r42tag.com^
 ||sbgsodufuosmmvsdf.info^
 ||site24x7rum.eu^
+||sjpf.io^
 ||tatpek.com^
 ||trackclicks.info^
 ||truffle.bid^
@@ -24717,6 +24732,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||clicktrkservices.com^
 ||clickx.io^
 ||clientgear.com^
+||clipcentric.com^
 ||clixgalore.com^
 ||cloud-iq.com^
 ||cobaltgroup.com^
@@ -33107,8 +33123,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Aug 2021 16:49 UTC+7
-! Version: 2108111649
+! Last modified: 14 Aug 2021 15:48 UTC+7
+! Version: 2108141548
 ! Blocked: 939 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -33180,6 +33196,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eva-ad.24hstatic.com^
 ||ezimar.com^
 ||flygame.io^
+||fptad.com^
 ||gafin.vn^
 ||gammaplatform.com^
 ||gammassp.com^
@@ -33447,7 +33464,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dt.vnecdn.com^
 ||ff.imacdn.com^
 ||financial-agent.headlines.pw^
-||fptad.com^
 ||genmonet.com^
 ||ghimc.vn^
 ||go.vnecdn.com^
@@ -36798,6 +36814,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||horselvxing.cn^
 ||canalandco.com^
 ||hicpic.net.cn^
 ||kefan.info^
