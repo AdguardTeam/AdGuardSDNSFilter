@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-15T00:16:20.519Z
+! Last modified: 2021-08-15T06:05:03.208Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5911,6 +5911,7 @@ vkcdnservice.appspot.com^
 ||damsoloist.com^
 ||dana123.com^
 ||danamivi.com^
+||dandelionbypasstestimony.com^
 ||dangerinsignificantinvent.com^
 ||dangerprickly.com^
 ||danmeneldur.com^
@@ -6457,6 +6458,7 @@ vkcdnservice.appspot.com^
 ||e7e776c1a8bf677.com^
 ||e85440ec98f04725.com^
 ||e94a941778d.com^
+||e9590c90a8.com^
 ||e9976b21f1b2775b.com^
 ||e9c1khhwn4uf.com^
 ||e9d1f13c08d.com^
@@ -7722,6 +7724,7 @@ vkcdnservice.appspot.com^
 ||greeptax.com^
 ||greetingscompassbough.com^
 ||greetpanda.org^
+||greky.xyz^
 ||gremsaup.net^
 ||grenatorkovsh.site^
 ||grensauy.com^
@@ -8222,6 +8225,7 @@ vkcdnservice.appspot.com^
 ||ijpheyydhw1a.com^
 ||ijsprocode.com^
 ||ijwtkojhc.com^
+||ikcyxcbqmoptk.com^
 ||ikunselt.com^
 ||il05pzhujicf.com^
 ||ileokscsawzzrh.com^
@@ -10188,6 +10192,7 @@ vkcdnservice.appspot.com^
 ||oavaidan.com^
 ||oaxpcohp.com^
 ||obahet.com^
+||obashwmzrfofi.com^
 ||obaukads.com^
 ||obertsiamw.fun^
 ||obkcnezxxuw.com^
@@ -11639,6 +11644,7 @@ vkcdnservice.appspot.com^
 ||ringassum.club^
 ||ringexpressbeach.com^
 ||ringsnutdaze.com^
+||rinterestinb.biz^
 ||riodovernprovi.club^
 ||riokl.com^
 ||riousstylegui.biz^
@@ -26258,6 +26264,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.polldaddy.com^
 ||stats.sa-as.com^
 ||stats.sawlive.tv^
+||stats.screenresolution.org^
 ||stats.twistage.com^
 ||stats.varrando.com^
 ||stats.viddler.com^
@@ -26314,7 +26321,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||telemetrics.klaviyo.com^
 ||telemetry.reembed.com^
 ||telemetry.tableausoftware.com^
-||thetradedesk-tags.s3.amazonaws.com^
 ||tl.tradetracker.net^
 ||tm.vendemore.com^
 ||tms.fmm.io^
@@ -26403,19 +26409,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trakksocial.googlecode.com^
 ||trap.skype.com^
 ||trc.pushnami.com^
-||tree-pixel-log.s3.amazonaws.com^
 ||tremorhub.com^
 ||trends.newsmaxwidget.com^
-||trf.intuitwebsites.com^
 ||triggers.wfxtriggers.com^
 ||trk*.vidible.tv^
-||trk.cloudsna.com^
-||trk.email.dynect.net^
-||trk.pswec.com^
-||trk.sele.co^
 ||tru.webelapp.com^
 ||ts.tradetracker.net^
-||ttdetect.staticimgfarm.com^
 ||units.knotch.it^
 ||upt.graphiq.com^
 ||userexperience.thehut.net^
@@ -36817,6 +36816,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||yhaizy.cn^
+||ipxjps.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
