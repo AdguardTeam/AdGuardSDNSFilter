@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-15T06:05:03.208Z
+! Last modified: 2021-08-15T12:06:11.746Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,12 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||dandelionbypasstestimony.com^
+||intentionscommunity.com^
+||dualizefriskin.com^
+||alasvow.com^
+||excuseparen.com^
+||usounoul.com^
 ||phiriaxi.com^
 ||regrcurie.com^
 ||foyvizvujsor.com^
@@ -172,7 +178,6 @@
 ||revelationneighbourly.com^
 ||kinkledunendly.com^
 ||passwordscompound.com^
-||dualizefriskin.com^
 ||dreadfulwomb.com^
 ||primis.tech^
 ||20193a.secure-cloud.pro^
@@ -503,7 +508,6 @@
 ||haradeiu.rocks^
 ||ledslevier.com^
 ||irkfunkyformer.com^
-||alasvow.com^
 ||temporarilybrancheshideous.com^
 ||d1cykymlllue3h.cloudfront.net^
 ||st-n.pc5ads.com^
@@ -4251,6 +4255,7 @@ vkcdnservice.appspot.com^
 ||aphicbouncil.club^
 ||aphidsclee.com^
 ||apiecelee.com^
+||apkbundle.store^
 ||apologisehistoriancrackle.com^
 ||apologixopyr.site^
 ||apopgo.com^
@@ -5911,7 +5916,6 @@ vkcdnservice.appspot.com^
 ||damsoloist.com^
 ||dana123.com^
 ||danamivi.com^
-||dandelionbypasstestimony.com^
 ||dangerinsignificantinvent.com^
 ||dangerprickly.com^
 ||danmeneldur.com^
@@ -7345,6 +7349,7 @@ vkcdnservice.appspot.com^
 ||freychang.fun^
 ||frhbrkjgerikm2f8mjek09.com^
 ||friandsuddy.com^
+||friendstringpose.top^
 ||friesel-mustin.com^
 ||frogrugby.com^
 ||frogwokshive.com^
@@ -12797,6 +12802,7 @@ vkcdnservice.appspot.com^
 ||thoughuttered.com^
 ||thousandfixedlyyawn.com^
 ||thousandimplied.com^
+||threewent-shore.top^
 ||thricemodestsuffix.com^
 ||throughhonouredhighest.com^
 ||thrustdeadconsiderably.com^
@@ -13264,7 +13270,6 @@ vkcdnservice.appspot.com^
 ||ushooque.net^
 ||usingirritatecordial.com^
 ||uslioert.com^
-||usounoul.com^
 ||ustbitsoct.top^
 ||ustingpres.fun^
 ||ustxsntseyhwsx.com^
