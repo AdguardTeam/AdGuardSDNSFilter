@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-17T12:06:45.784Z
+! Last modified: 2021-08-17T18:04:22.835Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||cutestpotting.com^
 ||juwymapy.xyz^
 ||kebarydi.xyz^
 ||multileaguebookstore.com^
@@ -2860,6 +2861,8 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||aa.pornvideotop.com^
+||dkre4lyk6a9bt.cloudfront.net^
 ||ads-partners.coupang.com^
 ||ads-dot-fbc-web-2018.uc.r.appspot.com^
 ||awrfds3.pornpapa.com^
@@ -5106,6 +5109,7 @@ vkcdnservice.appspot.com^
 ||c0metome.com^
 ||c0z.xyz^
 ||c10ed2b8b417880.com^
+||c12bleue.com^
 ||c15fb199d1ea.com^
 ||c3t-system-err.club^
 ||c43a3cd8f99413891.com^
@@ -9985,6 +9989,7 @@ vkcdnservice.appspot.com^
 ||nativewpsh.com^
 ||naucaish.net^
 ||naughtybuddyswoop.com^
+||naughtypetrolsweat.com^
 ||naustoch.net^
 ||navalsuedehybrids.com^
 ||navaltophes.com^
@@ -13105,6 +13110,7 @@ vkcdnservice.appspot.com^
 ||tinkerwidth.com^
 ||tintregionalretire.com^
 ||tintslingpromote.com^
+||tionedwhen.biz^
 ||tionmodat.club^
 ||tionmustai.fun^
 ||tistianmaga.top^
@@ -22633,6 +22639,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||d2r1yp2w7bby2u.cloudfront.net^
+||csm.cxpublic.com^
 ||evt.houzz.com^
 ||ttmetrics.jcpenney.com^
 ||api.iterative.ly^
@@ -22672,7 +22680,7 @@ vkcdnservice.appspot.com^
 ||track.searchiq.co^
 ||broker.datazoom.io^
 ||dot.texastribune.org^
-||ping.hashnode.com^
+||analytics.hashnode.com^
 ||log.vava.com^
 ||beacon.samsclub.com^
 ||counter.theconversation.com^
@@ -27499,6 +27507,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||sandelf.com^
 ||fooluminou.review^
 ||rzqdqw.com^
 ||refpakykgqyf.top^
@@ -32191,6 +32200,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||pokoran.com^
 ||world-ad.jp^
 ||waqool.com^
 ||ad.nwi.jp^
@@ -32456,6 +32466,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
+||shoagooy.net^
+||oaftaijo.net^
+||sdofp9c.cddrhx.cn^
 ||e66gg.com^
 ||p.qlogo.cn^
 ||dlads.cn^
@@ -36933,6 +36946,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||gaojiedesign.cn^
 ||hswenwan.cn^
 ||g9o.cn^
 ||591huishou.cn^
