@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-18T12:07:12.060Z
+! Last modified: 2021-08-18T18:04:17.239Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||scripts.static-od.com^
 ||thevtk.com^
 ||cutestpotting.com^
 ||juwymapy.xyz^
@@ -18417,6 +18418,10 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||facil-iti.com^
+||api.all-internet.jp^
+||p-analytics.life^
+||snowplow-collector-*.amazonaws.com^
 ||analytics.getshogun.com^
 ||log.gobankingrates.com^
 ||v*.sitecounter.site^
@@ -22522,6 +22527,9 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||zion-telemetry.api.cnn.io^
+||collector.cdp.cnn.com^
+||collector-dev.cdp-dev.cnn.com^
 ||rps-uk.rockpapershotgun.com^
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||csm.cxpublic.com^
@@ -24212,6 +24220,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||metrics.sp0n.io^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||online-metrix.imars.cloud^
 ||snowplow-collector.apartmentlist.io^
@@ -25059,7 +25068,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||outbid.io^
 ||owlanalytics.io^
 ||ox-bio.com^
-||p-analytics.life^
 ||p2r14.com^
 ||pagesense.io^
 ||parametre.online^
@@ -26592,7 +26600,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||early-birds.fr^
 ||early-birds.io^
 ||ew3.io^
-||facil-iti.com^
 ||galaxiemedia.fr^
 ||geovisite.ovh^
 ||getjad.io^
@@ -27393,6 +27400,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||ljknem.com^
 ||sandelf.com^
 ||fooluminou.review^
 ||rzqdqw.com^
@@ -32087,6 +32095,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||adcent.jp^
 ||pokoran.com^
 ||world-ad.jp^
 ||waqool.com^
@@ -33143,9 +33152,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Aug 2021 09:37 UTC+7
-! Version: 2108170937
-! Blocked: 938 rules
+! Last modified: 18 Aug 2021 21:11 UTC+7
+! Version: 2108182111
+! Blocked: 940 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33367,6 +33376,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ads-backend.nhadatmoi.net^
 ||ads-cdn.fptplay.net^
 ||ads.1thegioi.vn^
+||ads.247phim.com^
 ||ads.568play.vn^
 ||ads.autonet.com.vn^
 ||ads.baoangiang.com.vn^
@@ -33914,6 +33924,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||one88.vip^
 ||one88.vn^
 ||oneday88.com^
+||oppa888.com^
 ||oppa88888888.com^
 ||oxbet.club^
 ||oxbet.com^
@@ -36832,6 +36843,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||dgbaozhuang.cn^
+||chuang-yi.com.cn^
+||baidu2img.com^
+||nmctm.cn^
+||htvxjl.top^
+||qhdymdc.com^
+||tqlyjz.cn^
 ||ygtt.mobi^
 ||austinareahomeschoolers.com^
 ||taiquandao0.cn^
