@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-17T18:04:22.835Z
+! Last modified: 2021-08-18T00:15:46.460Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||thevtk.com^
 ||cutestpotting.com^
 ||juwymapy.xyz^
 ||kebarydi.xyz^
@@ -25175,6 +25176,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||outbid.io^
 ||owlanalytics.io^
 ||ox-bio.com^
+||p-analytics.life^
 ||p2r14.com^
 ||pagesense.io^
 ||parametre.online^
@@ -27920,7 +27922,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qakdki.com^
 ||trafficlide.com^
 ||daklatasvir.su^
-||thevtk.com^
 ||annrdf.com^
 ||yycjho.com^
 ||ivnakaa.pro^
@@ -36946,10 +36947,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||gaojiedesign.cn^
-||hswenwan.cn^
-||g9o.cn^
-||591huishou.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37035,6 +37032,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||53gem.com^
 ||563217.com^
 ||56space.com^
+||591huishou.cn^
 ||5dydk.com^
 ||5fst22.cn^
 ||5glyqw.com^
@@ -37585,10 +37583,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fzdfwy.com^
 ||g1mm3d.cn^
 ||g3ao2q.cn^
+||g9o.cn^
 ||gagkf.top^
 ||gaihunuo.cn^
 ||galaxyns.com^
 ||game4343.com^
+||gaojiedesign.cn^
 ||gbeik.com^
 ||gbzumh.cn^
 ||gcaog.com^
@@ -37762,6 +37762,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||houfang8.com^
 ||hougonw.com^
 ||hsbkr.com^
+||hswenwan.cn^
 ||htdzwy.com^
 ||htfmbt.com^
 ||htjsk.com^
