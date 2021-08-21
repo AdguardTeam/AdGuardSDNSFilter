@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-20T18:04:22.351Z
+! Last modified: 2021-08-21T00:15:10.720Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8076,6 +8076,7 @@ vkcdnservice.appspot.com^
 ||hiasor.com^
 ||hibernateagitationpre.com^
 ||hibids10.com^
+||hibymura.com^
 ||hickunwilling.com^
 ||hicltgxzl.com^
 ||hicpm10.com^
@@ -9564,6 +9565,7 @@ vkcdnservice.appspot.com^
 ||methingewsf.club^
 ||methinking.club^
 ||methree-salien.icu^
+||metimemee.biz^
 ||metosk.com^
 ||metricfast.com^
 ||metrics.io^
@@ -10034,6 +10036,7 @@ vkcdnservice.appspot.com^
 ||neshedfrie.club^
 ||nesjournin.top^
 ||nesparklines.info^
+||nessainy.net^
 ||nestcook.com^
 ||nesystersp.club^
 ||net00.biz^
@@ -13298,6 +13301,7 @@ vkcdnservice.appspot.com^
 ||tuxbpnne.com^
 ||tv1s4d6klh4n.com^
 ||tveszimawy.com^
+||tvlipevrj.com^
 ||twentiesbarton.com^
 ||twentycustomimprovement.com^
 ||twentypassengerdiagram.com^
@@ -13478,6 +13482,7 @@ vkcdnservice.appspot.com^
 ||urt7bpvfz4am.com^
 ||urthvisitoric.space^
 ||urtirepor.com^
+||urubhfce.com^
 ||uruswan.com^
 ||urymiseshabe.club^
 ||uryobtainlyi.club^
@@ -17358,6 +17363,7 @@ vkcdnservice.appspot.com^
 ||affiliate.heureka.cz^
 ||affiliate.juno.co.uk^
 ||affiliate.mediatemple.net^
+||ah.pricegrabber.com^
 ||ak.imgaft.com^
 ||ao-freegeoip.herokuapp.com^
 ||api.140proof.com^
@@ -17456,19 +17462,16 @@ vkcdnservice.appspot.com^
 ||popmog.com^
 ||promos.fling.com^
 ||promote.pair.com^
-||promotions.iasbet.com^
 ||public.porn.fr^
 ||res3.feedsportal.com^
 ||rotabanner.kulichki.net^
 ||rotator.tradetracker.net^
 ||saambaa.com^
-||salefile.googlecode.com^
 ||sbhc.portalhc.com^
 ||servedby.keygamesnetwork.com^
 ||servedby.yell.com^
 ||services.zam.com^
 ||smart.styria-digital.com^
-||sndkorea.nowcdn.co.kr^
 ||sportsbetaffiliates.com.au^
 ||squarespace.evyy.net^
 ||squirrels.getsquirrel.co^
@@ -17488,7 +17491,6 @@ vkcdnservice.appspot.com^
 ||widget.searchschoolsnetwork.com^
 ||widget.sellwild.com^
 ||widget.shopstyle.com^
-||widget.solarquotes.com.au^
 ||widgets.lendingtree.com^
 ||widgets.oddschecker.com^
 ||widgets.progrids.com^
@@ -34143,8 +34145,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||kzxsrxf.cn^
-||pl8la42.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35062,6 +35062,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kxrxh.com^
 ||kyouad.com^
 ||kyqcfj.com^
+||kzxsrxf.cn^
 ||l0l.top^
 ||laifu365.com^
 ||langchars.com^
@@ -35250,6 +35251,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pinyoux.com^
 ||pjtymy.cn^
 ||pk965.com^
+||pl8la42.cn^
 ||pmvlwjy.cn^
 ||pnxs.com^
 ||pofang.com^
@@ -36936,14 +36938,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||dlxgm.cn^
-||xingzhu.top^
-||shenbianlaoshi.com^
-||ketianguanye.com^
-||practice-sports.com^
-||ksdr.xyz^
-||damaoli.com^
-||milan100.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37408,6 +37402,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dajean.com^
 ||dake.net.cn^
 ||dalianruosen.com^
+||damaoli.com^
 ||damiren.com^
 ||dangrancha.com.cn^
 ||danlidanli.net^
@@ -37446,6 +37441,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dkjdnq.cn^
 ||dl12349.net^
 ||dldsrs.com^
+||dlxgm.cn^
 ||dlyukun.cn^
 ||dmpsj.cn^
 ||dnfkong.com^
@@ -37978,6 +37974,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kenxr.com^
 ||keran.hl.cn^
 ||ketaoke.com^
+||ketianguanye.com^
 ||keyand.xyz^
 ||kfweo2.com^
 ||kgfnhf.cn^
@@ -37993,6 +37990,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||komi168.com^
 ||kpirog.com^
 ||ks67.com^
+||ksdr.xyz^
 ||ktzte.cn^
 ||kuaidibiaoju.com^
 ||kuaidibox.cn^
@@ -38127,6 +38125,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mhi9da.cn^
 ||miaos11.com^
 ||micreative-china.cn^
+||milan100.cn^
 ||mingcidianzi162.cn^
 ||miniholiday.cn^
 ||miniling.cn^
@@ -38293,6 +38292,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ppee.xyz^
 ||pppxia.com^
 ||pqezdo.cn^
+||practice-sports.com^
 ||prfuxl.xyz^
 ||ptgezc.com^
 ||puqer.cn^
@@ -38430,6 +38430,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shanyuebrowser.com^
 ||shaque.vip^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
+||shenbianlaoshi.com^
 ||shengchaopiao.cn^
 ||shengdaoyiliao.com^
 ||shengshipump.cn^
@@ -38792,6 +38793,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xingnu.site^
 ||xingpingmaoyi.cn^
 ||xingsky.cn^
+||xingzhu.top^
 ||xinheshengmce.com^
 ||xinqiannv.com^
 ||xintaizhaoming.com^
