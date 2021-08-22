@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-22T12:06:40.033Z
+! Last modified: 2021-08-22T18:03:54.236Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -50,7 +50,6 @@
 ||whourgie.com^
 ||protectedfolkssomebody.com^
 ||betotodilea.com^
-||baufaich.com^
 ||juringupstage.com^
 ||lavatoryhitschoolmaster.com^
 ||shaujoxu.net^
@@ -4685,6 +4684,7 @@ vkcdnservice.appspot.com^
 ||batteryfirmimage.com^
 ||batwaxwok.site^
 ||baudgassedtarot.com^
+||baufaich.com^
 ||bauthair.net^
 ||bavftcgoapga.com^
 ||bayfluke.com^
@@ -5578,6 +5578,7 @@ vkcdnservice.appspot.com^
 ||cmpgns.net^
 ||cmrdr.com^
 ||cnnected.org^
+||cnolhzguwnfgk.com^
 ||cnt.my^
 ||cntdy.mobi^
 ||coadvertise.com^
@@ -6532,6 +6533,7 @@ vkcdnservice.appspot.com^
 ||dvoyy3qexr.com^
 ||dvucdnv.com^
 ||dvwvqeddi.com^
+||dwepmhhyigfb.com^
 ||dxpxlt.com^
 ||dyecowwhy.com^
 ||dyingdesignscharming.com^
@@ -7827,6 +7829,7 @@ vkcdnservice.appspot.com^
 ||greatkneadsuburb.com^
 ||greatmentef.club^
 ||grecmaru.com^
+||greeandjo.online^
 ||greeandjou.biz^
 ||greedrum.net^
 ||greedysafely.com^
@@ -10254,6 +10257,7 @@ vkcdnservice.appspot.com^
 ||nstructhow.top^
 ||nsurethatthe.biz^
 ||ntadnddfgogpse.com^
+||ntcontributio.biz^
 ||ntedporchite.info^
 ||nteredprac.club^
 ||nthfundog.com^
@@ -18508,6 +18512,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||ipmeta.io^
 ||datasign.co^
 ||analytics.daasrv.net^
 ||coll.v00yvd.xyz^
@@ -34161,6 +34166,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||cl-xny.cn^
+||houbaotech.cn^
 ||mezhai.net^
 ||00-gov.cn^
 ||0024aaaa.com^
@@ -36963,6 +36970,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||notepade.top^
+||krblog.top^
+||le258.cn^
+||taixuan.net.cn^
 ||0ulfpx.cn^
 ||wsnew.cn^
 ||ahgjtc.com^
