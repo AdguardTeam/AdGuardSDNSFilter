@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-23T12:07:04.043Z
+! Last modified: 2021-08-23T18:05:06.268Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||scrapebust.com^
 ||beach-trk.com^
 ||benfly.net^
 ||habeglee.net^
@@ -4115,6 +4116,7 @@ vkcdnservice.appspot.com^
 ||agrarianeruption.com^
 ||agriculturaltherapist.com^
 ||agukalty.net^
+||agurgeed.net^
 ||agzfxovg.com^
 ||ahadsply.com^
 ||ahaumplab.com^
@@ -5331,6 +5333,7 @@ vkcdnservice.appspot.com^
 ||chaireprove.club^
 ||chairwaydenew.site^
 ||chaiseviscountsturgeon.com^
+||chaissoo.com^
 ||chalkedapplaudincident.com
 ||challengedeprave.com^
 ||chameleon.ad^
@@ -7183,6 +7186,7 @@ vkcdnservice.appspot.com^
 ||fearpeaceoversight.com^
 ||fearsomeclients.com^
 ||feastoffortuna.com^
+||featwombknockout.com^
 ||febjroxjgzx.com^
 ||fedsit.com^
 ||fee515f1fa1f.com^
@@ -13417,6 +13421,7 @@ vkcdnservice.appspot.com^
 ||ukgkugxpzqvqk.com^
 ||ukslphcgs.com^
 ||ul8seok7w5al.com^
+||ularlyinteres.biz^
 ||ulcerselfservice.com^
 ||ulngtppm.com^
 ||uluswozzel.info^
@@ -18525,6 +18530,9 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||counter.kikibobo.top^
+||c1.politexpert.ru^
+||logrocket.com^
 ||ipmeta.io^
 ||datasign.co^
 ||analytics.daasrv.net^
@@ -19067,6 +19075,7 @@ vkcdnservice.appspot.com^
 ||sitelabweb.com^
 ||betohomeall.com^
 ||mc.yandex.ru^
+||mc.yandex.com^
 ||track.segmentstream.com^
 ||vboro.de^
 ||barddfvgkhctch11.ru^
@@ -23084,6 +23093,7 @@ vkcdnservice.appspot.com^
 ||st.dynamicyield.com^
 ||log.outbrainimg.com^
 ||analytics-udg.netdna-ssl.com^
+||collecte.audience.acpm.fr^
 ||stats.otempo.com.br^
 ||banstat.nadavi.net^
 ||pixel.4players.de^$important
@@ -25096,7 +25106,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||locotrack.net^
 ||loginhood.io^
 ||logmatic.io^
-||logrocket.com^
 ||logrocket.io^
 ||loopa.net.au^
 ||lr-ingest.io^
@@ -27101,7 +27110,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.freespee.com^
 ||analytics.ladmedia.fr^
 ||analytics.valiuz.com^
-||audience.acpm.fr^
 ||bbtrack.net^
 ||btstats.devtribu.fr^
 ||calotag.com^
@@ -27249,7 +27257,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracks.arubamediamarketing.it^
 ||vppst.iltrovatore.it^
 ||ad-beacon-v01.uliza.jp^
-||analysis.shinobi.jp^
 ||analytics.liveact.cri-mw.jp^
 ||analyzer51.fc2.com^
 ||bvr.ast.snva.jp^
@@ -27518,6 +27525,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||poptyto.ru^
 ||xhzspi.com^
 ||qq86tbqodk.ru^
 ||ljknem.com^
@@ -31864,6 +31872,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 !
 !
+||aj2373.online^
 ||kuzeyinyeri.site^
 ||supertotobet736.com^
 ||youtubex.top^
@@ -34178,6 +34187,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||hylmxing.com^
+||govkunming.cn^
+||3338651.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -36982,6 +36994,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||lecuiwangluo.com^
 ||panruo.net.cn^
 ||lygryd.cn^
 ||yanglangkk.cn^
