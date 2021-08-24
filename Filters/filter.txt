@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-24T12:08:32.367Z
+! Last modified: 2021-08-24T18:05:55.222Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,15 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||pixfuture.com^
+||71692fai4cc0.com^
+||dotardberet.com^
+||bendcauslesscauslessnotion.com^
+||eppmedia.si^
+||exploreholidayexcellent.com^
+||i-reklama.sk^
+||jnrtavp2x66u.com^
+||cdrvrs.com^
 ||sylotepu.xyz^
 ||forgivenesspeltanalyse.com^
 ||adzmarket.net^
@@ -5288,7 +5297,6 @@ vkcdnservice.appspot.com^
 ||cdnrl.com^
 ||cdnspace.io^
 ||cdntrf.com^
-||cdrvrs.com^
 ||cdwcdny.com^
 ||ce62e0d222bc5aca.com^
 ||cea53c4833.com^
@@ -9181,6 +9189,7 @@ vkcdnservice.appspot.com^
 ||liondignify.com^
 ||liongetme.com^
 ||lioningepit.fun^
+||lirsmmnsaixa.com^
 ||lislepostsax.com^
 ||lisponightingale.com^
 ||listeraislatory.site^
@@ -18562,6 +18571,12 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||ct2.kyarame.com^
+||x8.cho-chin.com^
+||sibulla.com^
+||logs*.smithsonian.museum^
+||pixel.convertize.io^
+||a.run.app^
 ||uz-analysis.akamaized.net^
 ||kissmetrics.io^
 ||sanity-dataplane.rudderstack.com^
@@ -22682,6 +22697,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||s.beop.io^
 ||track.lobi.co^
 ||events.niit-mts.com^
 ||analytics.tripoto.com^
@@ -25248,7 +25264,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pipfire.com^
 ||piratepx.com^
 ||pixelpop.co^
-||pixfuture.com^
 ||pnstat.com^
 ||podfdch.com^
 ||pointillist.com^
@@ -26396,7 +26411,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rum.perfops.net^
 ||rum.uptime.com^
 ||rum.vhwrz.net^
-||s.beop.io^
 ||s.clickability.com^
 ||s3-tracking.synthasite.net.s3.amazonaws.com^
 ||sadv.dadapro.com^
@@ -26920,7 +26934,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||performancefirst.jp^
 ||rays-counter.com^
 ||rentracks.jp^
-||sibulla.com^
 ||smart-counter.net^
 ||speee-ad.jp^
 ||team-rec.jp^
@@ -32314,7 +32327,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||smv.to^
 ||geniee.jp^
 ||ad.angel-live.com^
-||rss-loader.com^
 ||reajyu.net^
 ||ads-lite.net^
 ||blogparts.gcolle.net^
@@ -32382,7 +32394,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||js.blozoo.info^
 ||xxxxxxxx.jp^
 ||act1-1.info^
-||blogroll.livedoor.net^
 ||dis.hogei.info^
 ||ad.netowl.jp^
 ||js.colo2.jp^
@@ -34223,6 +34234,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||pc6cda10.com^
+||edenhermosa.com^
+||simpasa.cn^
 ||delgegur.com^
 ||lehutv6.com^
 ||lm663.com^
@@ -37033,6 +37047,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||chengjunjie.top^
+||likefly.com.cn^
+||wxtp.cdn.bcebos.com^
 ||weichongyisheng.cn^
 ||cqlijie.cn^
 ||nshkedu.com^
