@@ -1,3 +1,5 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/91564
+||bpmonline.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/734
 ||exchange4media.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/735
@@ -592,8 +594,6 @@ scorecardresearch.com
 fwmrm.net
 ! too wide
 ||ru.net^
-! https://github.com/AdguardTeam/AdguardFilters/issues/91564
-||bpmonline.com^
 ! too wide
 ||r.mail.ru^
 ! unbreak YT search history
