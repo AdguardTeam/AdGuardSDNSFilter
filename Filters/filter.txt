@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-25T12:07:52.157Z
+! Last modified: 2021-08-25T18:04:16.380Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12797,6 +12797,7 @@ vkcdnservice.appspot.com^
 ||stsunfulnoth.top^
 ||stucystymy.com^
 ||stuffedprofessional.com^
+||stugorezu.com^
 ||stumbledabetsuburb.com^
 ||stupendouspeacock.com^
 ||sturdyinvaluable.com^
@@ -18605,13 +18606,15 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||collector-*.tvsquared.com^
+||collectorj.tvsquared.com^
+||pixelapi-*.cs.mysamba.tv^
 ||etop.ro^
 ||ct2.kyarame.com^
 ||x8.cho-chin.com^
 ||sibulla.com^
 ||logs*.smithsonian.museum^
 ||pixel.convertize.io^
-||a.run.app^
 ||uz-analysis.akamaized.net^
 ||kissmetrics.io^
 ||sanity-dataplane.rudderstack.com^
@@ -31957,6 +31960,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 !
 !
+||wonoddgiris.com^
 ||aj2373.online^
 ||kuzeyinyeri.site^
 ||supertotobet736.com^
@@ -34273,6 +34277,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||netcoretech.net^
+||coinever.net^
+||hbuweb.net^
+||pagetest.top^
 ||lctcw.top^
 ||sportsdream.top^
 ||00-gov.cn^
@@ -37088,6 +37096,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||zd2020.top^
 ||furenyanfa.cn^
 ||lygrydwz.cn^
 ||leslieyu.com.cn^
@@ -39268,6 +39277,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||3337785.com^
 ||huizeyoupin.com^
 ||wrkdih.com^
+||muer.cdn-baidu.fs-sywh.com^
 ||hy-dy.cn^
 ||liveappgirl.net^
 ||22588888.com^
