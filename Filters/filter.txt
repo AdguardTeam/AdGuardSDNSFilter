@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-25T00:16:44.335Z
+! Last modified: 2021-08-25T06:07:46.303Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4706,6 +4706,7 @@ vkcdnservice.appspot.com^
 ||baufaich.com^
 ||bauthair.net^
 ||bavftcgoapga.com^
+||baxisafy.com^
 ||bayfluke.com^
 ||bayonetbikes.com^
 ||baysexthy.com^
@@ -5252,6 +5253,7 @@ vkcdnservice.appspot.com^
 ||cattleredduh.com^
 ||catwenbat.com^
 ||catwrite.com^
+||catynydy.com^
 ||causticpunctum.casa^
 ||caustouy.net^
 ||cauthuny.net^
@@ -5330,6 +5332,7 @@ vkcdnservice.appspot.com^
 ||certifiedemphasize.com^
 ||cessyntactu.fun^
 ||cestyraten.club^
+||cevowesty.com^
 ||cewaugaz.net^
 ||cexetchy.net^
 ||cfasync.cf^
@@ -5479,6 +5482,7 @@ vkcdnservice.appspot.com^
 ||civralowjoifjy.com^
 ||ciwhacheho.pro^
 ||cizykytha.com^
+||cjezgbjbltos.com^
 ||cjf25jklrwqt.com^
 ||cjlqwfpkwi.com^
 ||cjt1.net^
@@ -5650,6 +5654,7 @@ vkcdnservice.appspot.com^
 ||com-wkejf32ljd23409system.net^
 ||comacheerlesslump.com^
 ||comalonger.com^
+||comaoblivion.com^
 ||comasoiling.casa^
 ||combatmootcrucial.com^
 ||combatprofanitycandidate.com^
@@ -6632,6 +6637,7 @@ vkcdnservice.appspot.com^
 ||earthincomprehensibleintrepid.com^
 ||easforcom.biz^
 ||easierblushingpicky.com^
+||easiestsponsor.com^
 ||easiesttangle.com^
 ||easy-bars.com^
 ||easy2cnjuh34jb.com^
@@ -6714,6 +6720,7 @@ vkcdnservice.appspot.com^
 ||eegnacou.com^
 ||eekdwmda.com^
 ||eekrooha.com^
+||eeksidro.com^
 ||eelfadechi.com^
 ||eeltaung.com^
 ||eenfertyred.top^
@@ -7370,6 +7377,7 @@ vkcdnservice.appspot.com^
 ||fluxads.com^
 ||fluxioncytasic.com^
 ||flxargtrgwt.com^
+||flycheapen.com^
 ||fmax.xyz^
 ||fmebili.info^
 ||fmkfzc.com^
@@ -7751,6 +7759,7 @@ vkcdnservice.appspot.com^
 ||glotchat.click^
 ||gloumsee.net^
 ||glqicmazu.com^
+||glssp.net^
 ||gludraus.com^
 ||glugreez.com^
 ||glumpaul.net^
@@ -7765,6 +7774,7 @@ vkcdnservice.appspot.com^
 ||gnatgrocery.com^
 ||gnatneatlyembodiment.com^
 ||gnatpointed.com^
+||gnawinstruct.com^
 ||gneyjsdv.com^
 ||go-rillatrack.com^
 ||go2.global^
@@ -7827,6 +7837,7 @@ vkcdnservice.appspot.com^
 ||gradygrydi.com^
 ||grafthivecrocus.cam^
 ||grafzen.com^
+||grahisiwhu.com^
 ||graicmiw.com^
 ||graidsee.net^
 ||grainstucked.com^
@@ -8451,6 +8462,7 @@ vkcdnservice.appspot.com^
 ||incurableinfertilecrap.com^
 ||indecentfaces.com^
 ||indecisionremittance.com^
+||indefinitecommitment.com^
 ||independentdespisedevolution.com^
 ||index-markets.digital^
 ||indianship.club^
@@ -8708,6 +8720,7 @@ vkcdnservice.appspot.com^
 ||jltzknvw.com^
 ||jmoiubqzzrsugm.com^
 ||jmrnews.pro^
+||jmuaoupnykie.com^
 ||jmvdzlkf.com^
 ||jnctgldbxc.com^
 ||jnffgawh.com^
@@ -10683,6 +10696,7 @@ vkcdnservice.appspot.com^
 ||pachminas.xyz^
 ||pacifoos.net^
 ||pacitiesbo.info^
+||pacoaniy.net^
 ||pactendsmalt.icu^
 ||paddocsweek.com^
 ||padma-fed.com^
@@ -10755,6 +10769,7 @@ vkcdnservice.appspot.com^
 ||parwrite.com^
 ||pasaigul.com^
 ||paservices.tech^
+||passeseura.com^
 ||passeura.com^
 ||passioncrunchfingernail.com^
 ||passiveinitialclass.com^
@@ -13881,6 +13896,7 @@ vkcdnservice.appspot.com^
 ||wapoawoo.net^
 ||wapsagnu.net^
 ||waptrick.com^
+||waqool.com^
 ||wardenchamberensue.com^
 ||warfarewithdigestion.com^
 ||wargerda.com^
@@ -32282,7 +32298,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adcent.jp^
 ||pokoran.com^
 ||world-ad.jp^
-||waqool.com^
 ||ad.nwi.jp^
 ||devo.jp^
 ||ad.ddo.jp^
@@ -33335,9 +33350,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 21 Aug 2021 17:25 UTC+7
-! Version: 2108211725
-! Blocked: 941 rules
+! Last modified: 25 Aug 2021 10:49 UTC+7
+! Version: 2108251049
+! Blocked: 944 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33691,6 +33706,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||marketing.hub-js.com^
 ||media.dabong247.com^
 ||mega1.yeah1.com^
+||menu.metu.vn^
 ||microad.vn^
 ||mobileads.dieuviet.com^
 ||ng-vn-notice.gameitop.com^
@@ -33942,6 +33958,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||userstats.shopee.vn^
 ||vieon-tracking.vieon.vn^
 ||vtrack.vht.com.vn^
+||webchat.caresoft.vn^
 ||webpush.bizfly.vn^
 ||webpush.todo.vn^
 ||webstag.kplus.vn^
@@ -34232,6 +34249,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vongquaymienphi.net^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
+||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 
 !
