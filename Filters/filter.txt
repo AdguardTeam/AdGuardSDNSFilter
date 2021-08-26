@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-25T18:04:16.380Z
+! Last modified: 2021-08-26T00:15:24.372Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -34277,12 +34277,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||netcoretech.net^
-||coinever.net^
-||hbuweb.net^
-||pagetest.top^
-||lctcw.top^
-||sportsdream.top^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -34709,6 +34703,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cnzz.com.so^
 ||code222.com^
 ||code668.com^
+||coinever.net^
 ||coolbook.cc^
 ||coolfenxi.com^
 ||cpro.baidustatic.com^
@@ -34974,6 +34969,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hbhtbn.com^
 ||hblinwei.com^
 ||hbssjd.cn^
+||hbuweb.net^
 ||hbyingchang.cn^
 ||hbzhenquan.cn^
 ||hcwljy.com^
@@ -35220,6 +35216,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||laolinow.com^
 ||laoliulaoliu.com^
 ||lc442.com^
+||lctcw.top^
 ||le4le.com^
 ||leeleo.top^
 ||lehutv6.com^
@@ -35337,6 +35334,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nbzq.net^
 ||nchte.com^
 ||ndtzx.com^
+||netcoretech.net^
 ||newyiba.top^
 ||ni87.com^
 ||niubiba.com^
@@ -35386,6 +35384,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||oumazg.com^
 ||overlordtea.cn^
 ||p3tt.com^
+||pagetest.top^
 ||panel-cn.com^
 ||papa999.xyz^
 ||parisianmacao.bet^
@@ -35402,6 +35401,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pinwu123.com^
 ||pinyierp.com^
 ||pinyoux.com^
+||pitudashen.top^
 ||pjtymy.cn^
 ||pk965.com^
 ||pl8la42.cn^
@@ -35560,6 +35560,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sparkyinchun.com^
 ||spcode.baidu.com^
 ||spectram.pro^
+||sportsdream.top^
 ||spxnet.com^
 ||sq85.press^
 ||sqext.com^
@@ -37096,10 +37097,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||zd2020.top^
-||furenyanfa.cn^
-||lygrydwz.cn^
-||leslieyu.com.cn^
+||bxmuvw.cn^
+||lygrydwz.net.cn^
+||hdxxaq.cn^
+||tutese.com.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37741,6 +37742,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fuligrs.cn^
 ||funnyweb.fun^
 ||fuqifyb.xyz^
+||furenyanfa.cn^
 ||futengbao.com.cn^
 ||fuxin-tech.com^
 ||fw.zhuaji.org^
@@ -38200,6 +38202,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lepaidaren.com^
 ||lerenzx.cn^
 ||lesanmo.top^
+||leslieyu.com.cn^
 ||lexph.com^
 ||leyxue.cn^
 ||lezengxin.com^
@@ -38273,6 +38276,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ly5200.cn^
 ||lyczhb.com^
 ||lygryd.cn^
+||lygrydwz.cn^
 ||lyjz001.com^
 ||lylifa.com^
 ||lynmo.cn^
@@ -39172,6 +39176,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zc710956.top^
 ||zcand.com^
 ||zchange.xyz^
+||zd2020.top^
 ||zdovrb.cn^
 ||zdryg.com^
 ||zenwq.com^
