@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-28T18:03:49.514Z
+! Last modified: 2021-08-29T00:17:01.621Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36443,9 +36443,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||z1.cwbaike.com^
-||dms.vancss.com^
-||1.weiheshidai.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36494,6 +36491,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1.ufc7.com^
 ||1.v-x.com.cn^
 ||1.vsimg.com^
+||1.weiheshidai.com^
 ||1.wenzhangba.cn^
 ||1.xilu.com^
 ||1.xuexi.la^
@@ -36806,6 +36804,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dm1.zjydt.com^
 ||dmm.aizhan.com^
 ||dmr.cnhoney.com^
+||dms.vancss.com^
 ||dmym.aixyy.com^
 ||dn*.ixinwei.com^
 ||domain1.chahaoba.cn^
@@ -37134,6 +37133,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||z.grfyw.com^
 ||z.tudouxy01.com^
 ||z1.chezhuzhinan.com^
+||z1.cwbaike.com^
 ||z1.cyla.cn^
 ||z1.o8h7d.cn^
 ||z1.pclady.com.cn^
@@ -37195,12 +37195,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||huojub.com^
-||gouwupianyi.cn^
-||dlzxjk.cn^
-||kenxq.com^
-||hlokux.cn^
-||taidi.net.cn^
+||xpst0kx.cn^
+||jiese.fun^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37721,6 +37717,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dldsrs.com^
 ||dlxgm.cn^
 ||dlyukun.cn^
+||dlzxjk.cn^
 ||dmpsj.cn^
 ||dnfkong.com^
 ||dnjszp.cn^
@@ -37901,6 +37898,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gotoip.com.cn^
 ||gotooback.com^
 ||gou1zhe.com^
+||gouwupianyi.cn^
 ||govjieyang.cn^
 ||gqdvsvt.cn^
 ||graintown.cn^
@@ -38023,6 +38021,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hlgglm.com^
 ||hlhulu.com^
 ||hljhufengling.cn^
+||hlokux.cn^
 ||hlqoefai.cn^
 ||hmfcyy.com^
 ||hmttoly.com^
@@ -38070,6 +38069,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||huodiyun.cn^
 ||huojua.com^
 ||huojua1.com^
+||huojub.com^
 ||huojugg.com^
 ||huojukk.com^
 ||huojutt.com^
@@ -38262,6 +38262,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kefan.info^
 ||keilb.xyz^
 ||kejiadoor.cn^
+||kenxq.com^
 ||kenxr.com^
 ||keran.hl.cn^
 ||ketaoke.com^
@@ -38847,6 +38848,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t3s9j.xyz^
 ||tabyee.cn^
 ||tahui.club^
+||taidi.net.cn^
 ||taikangshenyuan.com^
 ||taiquandao0.cn^
 ||taishijian.com^
