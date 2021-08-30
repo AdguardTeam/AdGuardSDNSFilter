@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-30T06:05:31.401Z
+! Last modified: 2021-08-30T12:08:17.295Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||sub.superxxxfree.com^
+||news-back.org^
+||beta-news.org^
 ||jqyde7msbro2.com^
 ||aparvibices.com^
 ||becorsolaom.com^
@@ -140,7 +143,6 @@
 ||bid-engine.com^
 ||ads.topsex.cc^
 ||abhorcarious.com^
-||absalomgunne.com^
 ||flexnoseassist.com^
 ||hockeyhavoc.com^
 ||petsuccessive.com^
@@ -192,7 +194,6 @@
 ||addictionestimated.com^
 ||awcrpu.com^
 ||betokendolous.com^
-||forzslodge.com^
 ||trinityslantsummer.com^
 ||creative.mshago.com^
 ||describedarkchair.top^
@@ -3877,6 +3878,7 @@ vkcdnservice.appspot.com^
 ||abridgeinputcontraceptive.com^
 ||abrjsiuuhet.com^
 ||abroadlynijiz.site^
+||absalomgunne.com^
 ||abserv123.com^
 ||absorbinginject.com^
 ||abstinencecalculation.com^
@@ -7506,6 +7508,7 @@ vkcdnservice.appspot.com^
 ||fortsexpres.club^
 ||fortunitystar.club^
 ||forwrdnow.com^
+||forzslodge.com^
 ||forzubatr.com^
 ||fosiecajeta.com^
 ||fosterheiressdug.com^
@@ -16677,6 +16680,7 @@ vkcdnservice.appspot.com^
 ||panachetech.com^
 ||panda.network^
 ||pantherads.com^
+||papayads.net^
 ||paperclipservice.com^
 ||paperg.com^
 ||paradocs.ru^
@@ -27724,6 +27728,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||infomix.best^
 ||widjet.analnoe.tv^
 ||vuidbsgnhfdaa.com^
 ||feetct.com^
@@ -32310,6 +32315,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||rek.yemlee.com^
 ||files.pbgiris.com^
 ||r20.club^
 ||reklam1.akhisar.bel.tr^
@@ -33490,8 +33496,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 Aug 2021 10:48 UTC+7
-! Version: 2108281048
+! Last modified: 30 Aug 2021 17:27 UTC+7
+! Version: 2108301727
 ! Blocked: 948 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -33504,7 +33510,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ad.zing.vn^
 ||ad360.vn^
 ||adasiaholdings.com^
-||adconnect.vn^
 ||adflex.vn^
 ||adfly.vn^
 ||admicro*.vcmedia.vn^
@@ -33873,6 +33878,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sda.tamdiem247.com^
 ||serving-ad.tv24.vn^
 ||shop.vnay.vn^
+||static.adconnect.vn^
 ||static.mvot.vn^
 ||stc-nas.nixcdn.com^
 ||stc.nas.nixcdn.com^
@@ -37237,6 +37243,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||jdyz3.cn^
+||tsds.tech^
+||baozp.top^
+||yypd.top^
+||vpnmfqas.cn^
 ||ryrkscj.cn^
 ||3336637.com^
 ||01tn.cn^
