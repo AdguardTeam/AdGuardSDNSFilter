@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-30T12:08:17.295Z
+! Last modified: 2021-08-30T18:04:28.793Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,13 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||sodallay.com^
+||hadesleta.com^
+||ethadepic.club^
+||forzslodge.com^
+||ptunogrywhy.pro^
+||go.tmrjmp.com^
+||go.xxxjmp.com^
 ||sub.superxxxfree.com^
 ||news-back.org^
 ||beta-news.org^
@@ -2899,6 +2906,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||dq06u9lt5akr2.cloudfront.net^
 ||asg.faperoni.com^
 ||aa.pornvideotop.com^
 ||ads-partners.coupang.com^
@@ -7508,7 +7516,6 @@ vkcdnservice.appspot.com^
 ||fortsexpres.club^
 ||fortunitystar.club^
 ||forwrdnow.com^
-||forzslodge.com^
 ||forzubatr.com^
 ||fosiecajeta.com^
 ||fosterheiressdug.com^
@@ -8071,7 +8078,6 @@ vkcdnservice.appspot.com^
 ||hackelevensol.com^
 ||hackesie.net^
 ||hacmoone.net^
-||hadesleta.com^
 ||hadlacrighterthen.pro^
 ||hadquellseventeen.com^
 ||hadsabz.com^
@@ -9454,6 +9460,7 @@ vkcdnservice.appspot.com^
 ||lyaustrymich.club^
 ||lycooc.com^
 ||lyhandredsa.club^
+||lyricalcomfortfatherinlaw.com^
 ||lyzenoti.pro^
 ||lzqicpumq.com^
 ||m-rtb.com^
@@ -12428,6 +12435,7 @@ vkcdnservice.appspot.com^
 ||securesmrt-dt.com^
 ||securesurf.biz^
 ||sedativesandhandbook.com^
+||sedresum.club^
 ||seducehandbookspecific.com^
 ||seedallegation.com^
 ||seemingacceptablecigarette.com^
@@ -12876,6 +12884,7 @@ vkcdnservice.appspot.com^
 ||stabiloseront.xyz^
 ||staffrural.com^
 ||staglance.club^
+||staigroa.com^
 ||staimpor.net^
 ||stainspun.com^
 ||staitchu.com^
@@ -13153,6 +13162,7 @@ vkcdnservice.appspot.com^
 ||techcrunchman.com^
 ||techitdoit.com^
 ||technicallylunaticgarbage.com^
+||techniciansyllabuspersistent.com^
 ||techoykd.com^
 ||tecuil.com^
 ||tedathedo.club^
@@ -13595,6 +13605,7 @@ vkcdnservice.appspot.com^
 ||twpasol.com^
 ||twtad.com^
 ||txcmjo.com^
+||txpodqjhabos.com^
 ||txyhadai.com^
 ||txzvtgkthjq.com^
 ||tygafso.com^
@@ -14450,6 +14461,7 @@ vkcdnservice.appspot.com^
 ||xaokiotravel.com^
 ||xapa.xyz^
 ||xauthorous.club^
+||xaxivaho.com^
 ||xaxo.xyz^
 ||xaxoro.com^
 ||xazapuga.com^
@@ -14701,6 +14713,7 @@ vkcdnservice.appspot.com^
 ||yunshipei.com^
 ||yupfiles.net^
 ||yuppyads.com^
+||yuqnibpyn.com^
 ||yuriaftereleven.com^
 ||yuriassignmentmall.com^
 ||yuuykrunvh.com^
@@ -26797,6 +26810,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.samsungknox.com^
 ||app.chat.xiaomi.net^
 ||bigdata.ssp.samsung.com^
+||click.oneplus.cn^
 ||data.hicloud.com^
 ||extmaps-api.yandex.net^
 ||logbak.hicloud.com^
@@ -37243,6 +37257,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||zhenxingkuangchanpin.com^
+||gzfzcj.cn^
 ||jdyz3.cn^
 ||tsds.tech^
 ||baozp.top^
