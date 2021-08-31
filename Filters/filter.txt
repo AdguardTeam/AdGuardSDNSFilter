@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-30T18:04:28.793Z
+! Last modified: 2021-08-31T00:16:21.892Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -34420,7 +34420,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||1w5ddx.cn^
+||xinhaogong.xyz^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -34478,6 +34478,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1l1.cc^
 ||1lib.cn^
 ||1q8h.cn^
+||1w5ddx.cn^
 ||201071.com^
 ||2018haoyunlai.com^
 ||201n.com^
@@ -37257,15 +37258,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||zhenxingkuangchanpin.com^
-||gzfzcj.cn^
-||jdyz3.cn^
-||tsds.tech^
-||baozp.top^
-||yypd.top^
-||vpnmfqas.cn^
-||ryrkscj.cn^
-||3336637.com^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37320,6 +37312,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||2ktd0.cn^
 ||2zm4.cn^
 ||300segundos.com^
+||3336637.com^
 ||333bj.cloud^
 ||355262.com^
 ||35kds.com^
@@ -37531,6 +37524,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||baomeidiaosu.cn^
 ||baoren.tech^
 ||baoxian28.cn^
+||baozp.top^
 ||baskba.xyz^
 ||bbbx.xyz^
 ||bbtys.net^
@@ -38015,6 +38009,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gyeet.com^
 ||gyt168.com.cn^
 ||gz-bz.cn^
+||gzfzcj.cn^
 ||gzleilin.com^
 ||gzmxybg.com^
 ||gzmzts.com^
@@ -38219,6 +38214,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jdgcjx.cn^
 ||jdgsgl.com^
 ||jdwxshfw.cn^
+||jdyz3.cn^
 ||jdzlxtc.com^
 ||jfgcxj.com^
 ||jgcq3003.com^
@@ -38788,6 +38784,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ruyidk.com^
 ||ruyiqufu.com^
 ||rvsosm.cn^
+||ryrkscj.cn^
 ||rzlib.net^
 ||rzxlszy.vip^
 ||s28xvp.com^
@@ -38999,6 +38996,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trpsm.xyz^
 ||truecrimesss.com^
 ||tryost.cn^
+||tsds.tech^
 ||tsgyg.cn^
 ||tsrc8.com^
 ||ttbc33.com^
@@ -39063,6 +39061,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vkuay.com^
 ||vngmbyij.cn^
 ||vpbbc.cn^
+||vpnmfqas.cn^
 ||vq7736.com^
 ||vsheying.top^
 ||vvnna.com^
@@ -39372,6 +39371,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yyhqch.com^
 ||yyjj.xyz^
 ||yymmsd.cn^
+||yypd.top^
 ||yyshow.top^
 ||yzdcb.xyz^
 ||yzfbank.com^
@@ -39410,6 +39410,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhekoudajie.com^
 ||zhengyuanguojimc.com^
 ||zhengzhoupengbo.com^
+||zhenxingkuangchanpin.com^
 ||zhiboiot.cn^
 ||zhide-edu.cn^
 ||zhihuizeyuan.com^
