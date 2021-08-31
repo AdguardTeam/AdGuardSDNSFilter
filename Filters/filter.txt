@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-31T00:16:21.892Z
+! Last modified: 2021-08-31T12:07:05.172Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,9 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||woujoami.com^
+||ecma.afk-i.com^
+||asgorebysschan.com^
 ||sodallay.com^
 ||hadesleta.com^
 ||ethadepic.club^
@@ -7752,7 +7755,6 @@ vkcdnservice.appspot.com^
 ||genesismedia.com^
 ||geneticdiminishblake.com^
 ||geniad.net^
-||genieessp.com^
 ||genishury.pro^
 ||genuinealiaspuzzled.com^
 ||genuinesubqueries.com^
@@ -16004,6 +16006,7 @@ vkcdnservice.appspot.com^
 ||game-clicks.com^
 ||gamecetera.com^
 ||gayadnetwork.com^
+||genieessp.com^
 ||geniusbanners.com^
 ||geniusdisplay.com^
 ||geniusonclick.com^
@@ -24566,6 +24569,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !+ PLATFORM(ios, android)
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
+||api.stats.promoapka.pl^
 ||metrics.sp0n.io^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||online-metrix.imars.cloud^
@@ -24954,6 +24958,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||g8715710740.co^
 ||g8913795075.co^
 ||g9111879410.co^
+||i218435.net^
+||impactcdn.com^
 ||irs01.com^
 ||ldnlyap.com^
 ||liveyield.com^
@@ -26014,6 +26020,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||borderbrush.com^
 ||confesschairs.com^
 ||consciouscheese.com^
+||cratecamera.com^
 ||cushionpig.com^
 ||distributiontomatoes.com^
 ||disturbedquiet.com^
@@ -26023,20 +26030,25 @@ charlestownwyllie.oaklawnnonantum.com^
 ||handyfireman.com^
 ||impulsejewel.com^
 ||lameletters.com^
+||nondescriptnote.com^
 ||oafishobservation.com^
 ||panickycurtain.com^
 ||pastoralroad.com^
 ||pleasantpump.com^
+||pluckypocket.com^
 ||pricklydebt.com^
 ||q20jqurls0y7gk8.info^
 ||railwayreason.com^
 ||rangecake.com^
 ||sablesong.com^
 ||screechingslip.com^
+||screechingstove.com^
 ||seatsmoke.com^
+||shrillspoon.com^
 ||spotlessstamp.com^
 ||stepplane.com^
 ||teenytinycellar.com^
+||tiresomethunder.com^
 
 !
 ! Source name: EasyPrivacy third-party tracking servers
@@ -26218,6 +26230,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||clickthru.lefbc.com^
 ||clicktracker.iscan.nl^
 ||client.tahono.com^
+||cllctr.roistat.com^
 ||clouderrorreporting.googleapis.com^
 ||cloudfront-labs.amazonaws.com^
 ||cltgtstor001.blob.core.windows.net^
@@ -26355,6 +26368,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||event-api.contactatonce.com^
 ||event-listener.air.tv^
 ||event.api.drift.com^
+||event.instiengage.com^
 ||eventgateway.soundcloud.com^
 ||events.air.tv^
 ||events.attentivemobile.com^
@@ -33510,9 +33524,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Aug 2021 17:27 UTC+7
-! Version: 2108301727
-! Blocked: 948 rules
+! Last modified: 31 Aug 2021 09:54 UTC+7
+! Version: 2108310954
+! Blocked: 947 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33855,7 +33869,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ghimc.vn^
 ||go.vnecdn.com^
 ||hexapinow.xyz^
-||imad24.com^
 ||imgcdnbet.com^
 ||interactive.tinnhanhchungkhoan.vn^
 ||ketquaxosotoancau.org^
@@ -37258,6 +37271,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||weijiakeji.top^
+||xhvljiw.cn^
+||weipapa.top^
+||cmyx.xyz^
+||fs0523.com^
+||ydggvnh.cn^
+||30life.top^
+||ekhdplgv.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
