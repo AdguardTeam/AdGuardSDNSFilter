@@ -3,10 +3,13 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, AdAway Default Blocklist, Peter Lowe's List, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/mpenachayan/AdguardSDNSFilter
 ! License: https://github.com/mpenachayan/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-08-31T06:50:37.845Z
+! Last modified: 2021-09-01T01:01:23.250Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||woujoami.com^
+||ecma.afk-i.com^
+||asgorebysschan.com^
 ||sodallay.com^
 ||hadesleta.com^
 ||ethadepic.club^
@@ -4177,6 +4180,7 @@ vkcdnservice.appspot.com^
 ||alysson.de^
 ||alythoriticalt.club^
 ||amabadmer.club^
+||amata-syb.com^
 ||amateurcouplewebcam.com^
 ||amaumomt.com^
 ||amavirgin.pro^
@@ -6169,6 +6173,7 @@ vkcdnservice.appspot.com^
 ||deservecustomsadministrator.com^
 ||desewowe.com^
 ||desigactinific.pro^
+||designedamenityslot.com^
 ||designergumsobituary.com^
 ||designsevere.com^
 ||deskminkgnu.com^
@@ -7655,7 +7660,6 @@ vkcdnservice.appspot.com^
 ||genesismedia.com^
 ||geneticdiminishblake.com^
 ||geniad.net^
-||genieessp.com^
 ||genishury.pro^
 ||genuinealiaspuzzled.com^
 ||genuinesubqueries.com^
@@ -9549,6 +9553,7 @@ vkcdnservice.appspot.com^
 ||mdn2015x1.com^
 ||mdpqambxvmzai.com^
 ||mdpszsqzs.com^
+||mdwphtohwt.com^
 ||meadowleader.com^
 ||mealparameter.com^
 ||meaninglessimpertinent.com^
@@ -11625,6 +11630,7 @@ vkcdnservice.appspot.com^
 ||qn-5.com^
 ||qngqlrxscxlvh.com^
 ||qnsr.com^
+||qocvicklgcgr.com^
 ||qogbgxne.com^
 ||qoredi.com^
 ||qozveo.com^
@@ -13406,6 +13412,7 @@ vkcdnservice.appspot.com^
 ||tratefirearly.top^
 ||traumaticnoiseless.com^
 ||travangeind.club^
+||travelingoutcomeautomatic.com^
 ||travelinskydream.ga^
 ||travellingfate.com^
 ||travelnourhai.com^
@@ -14243,6 +14250,7 @@ vkcdnservice.appspot.com^
 ||wizwarsum.site^
 ||wkcuhilbg.com^
 ||wkll7glfazgp.com^
+||wlapdczzpceb.com^
 ||wlbcqvral.com^
 ||wlzohrpjbuq.com^
 ||wm-abms.com^
@@ -15903,6 +15911,7 @@ vkcdnservice.appspot.com^
 ||game-clicks.com^
 ||gamecetera.com^
 ||gayadnetwork.com^
+||genieessp.com^
 ||geniusbanners.com^
 ||geniusdisplay.com^
 ||geniusonclick.com^
@@ -17181,6 +17190,7 @@ vkcdnservice.appspot.com^
 ||theloungenet.com^
 ||themoneytizer.com^
 ||thenlathettors.pro^
+||thepopads.com^
 ||therubiqube.com^
 ||theverlalinglac.info^
 ||thewebgemnetwork.com^
@@ -18471,6 +18481,7 @@ vkcdnservice.appspot.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
 ||adfstat.yandex.ru^
+||rcp.evolok.net^
 ||ct2.sarashi.com^
 ||tracking.affiliateclub.cz^
 ||p.altergeo.ru^
@@ -21539,6 +21550,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||railwayreason.com^
 ||sparklingshelf.com^
 ||scintillatingsilver.com^
 ||sulkycook.com^
@@ -24160,6 +24172,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adstats.tencentmusic.com^
 ||monitor.music.qq.com^
 ||stat.y.qq.com^
+||api.stats.promoapka.pl^
 ||metrics.sp0n.io^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||online-metrix.imars.cloud^
@@ -25579,7 +25592,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pluckypocket.com^
 ||pricklydebt.com^
 ||q20jqurls0y7gk8.info^
-||railwayreason.com^
 ||rangecake.com^
 ||sablesong.com^
 ||screechingslip.com^
@@ -25762,6 +25774,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||clickthru.lefbc.com^
 ||clicktracker.iscan.nl^
 ||client.tahono.com^
+||cllctr.roistat.com^
 ||clouderrorreporting.googleapis.com^
 ||cloudfront-labs.amazonaws.com^
 ||cltgtstor001.blob.core.windows.net^
@@ -26297,7 +26310,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trafficfuelpixel.s3-us-west-2.amazonaws.com^
 ||trakksocial.googlecode.com^
 ||trap.skype.com^
-||trc.pushnami.com^
 ||tremorhub.com^
 ||trends.newsmaxwidget.com^
 ||triggers.wfxtriggers.com^
@@ -27174,6 +27186,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||ljsiir.com^
 ||infomix.best^
 ||widjet.analnoe.tv^
 ||vuidbsgnhfdaa.com^
@@ -36564,6 +36577,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||pgfbtjiy.cn^
+||2969firefighterstore.com^
+||weijiakeji.top^
+||xhvljiw.cn^
+||weipapa.top^
+||cmyx.xyz^
+||fs0523.com^
 ||ydggvnh.cn^
 ||30life.top^
 ||ekhdplgv.cn^
@@ -38974,7 +38994,9 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+
 ||360in.com^
+
 
 ||3cinteractive.com^
 
@@ -38998,6 +39020,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fl.a.ki^
 
 
+||prod.cm.publishers.advertising.a2z.com^
 ||notify.bugsnag.appstore.a2z.com^
 ||analytics.console.aws.a2z.com^
 ||metrics.client-eng.a2z.com^
@@ -39008,6 +39031,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 ||smetrics.aa.com^
+
+
 
 ||aarki.com^
 
@@ -39184,6 +39209,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 ||banners.adnetmedia.lt^
+
 
 
 
@@ -39367,11 +39393,16 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+
 ||ares.agoop.net^
 ||aresssl.agoop.net^
 ||latency.agoop.net^
 ||log.agoop.net^
 ||roundrobin-log.agoop.net^
+
+||aibuy-api.aibuy.io^
+||cdn-media.aibuy.io^
+||overlay.aibuy.io^
 
 
 
@@ -39539,6 +39570,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com^
 
+||measure-vpc-1125642515.us-east-1.elb.amazonaws.com^
+
 ||nova-collector-1192479543.us-east-1.elb.amazonaws.com^
 
 ||pixel-967319188.us-east-1.elb.amazonaws.com^
@@ -39625,7 +39658,9 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+
 ||api.android-root-tool.com^
+
 
 
 ||anquan.org^
@@ -39776,6 +39811,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+
 ||intouch.arcsoft.com^
 
 ||api.areametrics.com^
@@ -39799,6 +39835,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||atedra.com^
 
 
+||static.atgsvcs.com^
+
 ||atlassbx.com^
 
 
@@ -39807,6 +39845,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||api.attentivemobile.com^
 
+
+||audioboom.com^
 
 
 ||auditude.com^
@@ -39829,6 +39869,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||avocarrot.com^
 
 ||iapserver.avosapps.us^
+
 
 
 
@@ -39897,11 +39938,14 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+
 ||us.bksn.se^
 
 ||licensing.blinkreceipt.com^
 ||sdk-resources.blinkreceipt.com^
 
+
+||cdn.blisspointmedia.com^
 
 
 ||personalization.bloomberg.com^
@@ -39933,6 +39977,9 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||smetrics.boston.com^
 
+
+||dfp.bouncex.net^
+||events.bouncex.net^
 
 ||atlantisjs.brafton.com^
 
@@ -39970,7 +40017,9 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+
 ||bttn.io^
+
 
 
 
@@ -40003,6 +40052,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||applog.camera360.com^
 ||appres.camera360.com^
 
+||commerce.campaignmonitor.com^
+
 
 
 
@@ -40013,6 +40064,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||devices.carnivalmobile.com^
 
 ||coremetrics.carrier.com^
+
+||gcheck.carthook.com^
 
 
 
@@ -40032,7 +40085,12 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+||2-01-2c3e-005c.cdx.cedexis.net^
+||2-01-37d2-0004.cdx.cedexis.net^
+||2-01-37d2-0006.cdx.cedexis.net^
+
 ||celltick.com^
+
 
 
 
@@ -40051,6 +40109,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qps.cint.com^
 
 
+
+||cdn.civicscience.com^
+||get.civicscience.com^
+||www.civicscience.com^
 
 
 
@@ -40095,8 +40157,12 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||bkt.clouddn.com^
 
+||tls10.newrelic.com.cdn.cloudflare.net^
+
 ||metrics.cloudflarebolt.com^
 
+
+||us-central1-adaptive-growth.cloudfunctions.net^
 
 ||us-central1-production-242307.cloudfunctions.net^
 
@@ -40116,6 +40182,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||id1.cn.com^
 
 ||agility.cnn.com^
+||z.cdp-dev.cnn.com^
 ||data.cnn.com^
 ||lightning.cnn.com^
 ||sdc.cnn.com^
@@ -40159,11 +40226,18 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+
+
 ||contentstream.pl^
 
 
 
+
 ||conviva.com^
+
+||cdn.cookielaw.org^
+
+||cookie-cdn.cookiepro.com^
 
 
 
@@ -40313,6 +40387,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||sanalytics.disneyplus.com^
 
+||appsrv.display.io^
+
 
 ||glitter.services.disqus.com^
 ||tempest.services.disqus.com^
@@ -40383,6 +40459,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||bf20578xco.bf.dynatrace.com^
 ||js-cdn.dynatrace.com^
+
+||cdn.n.dynstc.com^
 
 
 
@@ -40526,6 +40604,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+||sw88.espn.com^
+
 
 
 
@@ -40562,6 +40642,9 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||mparticle.map.fastly.net^
 
+||newrelic.map.fastly.net^
+
+
 ||sonar-iad.xx.fbcdn.net^
 
 ||affiliate.fc2.com^
@@ -40584,6 +40667,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||logging.fishsticksgames.com^
 
+||widget.fitanalytics.com^
+
 
 
 
@@ -40591,6 +40676,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adbsc.flyermobi.com^
 ||adbsdk.flyermobi.com^
 ||adc.flyermobi.com^
+
 
 
 ||auth.follow-apps.com^
@@ -40601,6 +40687,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||fuse.forbes.com^
 ||geolocation.forbes.com^
+
 
 
 
@@ -40660,6 +40747,9 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||evbk.gamooga.com^
 
+||adrev-ingress.ad-rev-dev-production-east.shared-gke-production-east-svc.gannettdigital.com^
+||traxex.gannettdigital.com^
+
 
 
 
@@ -40671,6 +40761,9 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 ||api.getdrip.com^
+
+||api-telemetry.servers.getgo.com^
+||telemetry.servers.getgo.com^
 
 
 ||hades.getsocial.im^
@@ -40704,11 +40797,14 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||trans.globalnetworkad.com^
 
+
 ||personalization.centech.glulive.com^
 ||revid.centech.glulive.com^
 
 
 
+||sw88.go.com^
+||tredir.go.com^
 
 ||tapjoy.go2cloud.org^
 
@@ -40860,6 +40956,9 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+||segment.humann.com^
+||segment-api.humann.com^
+
 ||api.huqindustries.co.uk^
 ||charles.huqindustries.co.uk^
 
@@ -40903,9 +41002,11 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+
 ||game.idoing3d.com^
 
 ||server.idreams.pl^
+
 
 ||d.ifengimg.com^
 
@@ -40924,6 +41025,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||talk.nz4.igexin.com^
 ||open.phone.igexin.com^
 ||talk.igexin.com^
+
 
 ||wass.ihsmarkit.com^
 
@@ -41035,6 +41137,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api.insmobi.com^
 
 
+
+||eum-orange-saas.instana.io^
+
 ||hook.integromat.com^
 
 
@@ -41058,6 +41163,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+
+||fastg8.pool.iponweb.net^
 
 
 
@@ -41158,11 +41265,17 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||static.klaviyo.com^
 
+||trk.klclick2.com^
+
 ||trk.klclick3.com^
 
 ||gplayer.kmpmedia.net^
 ||player.kmpmedia.net^
 ||update.kmpmedia.net^
+
+||brand-sdk.kmsmep.com^
+||brands.kmsmep.com^
+||metrics.kmsmep.com^
 
 ||track.knlob.com^
 
@@ -41221,6 +41334,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||wc-tracking.lavasoft.com^
 
+||ad-im-cmg.lbdns-streamguys.com^
+
 ||cc.lbesec.com^
 
 
@@ -41233,6 +41348,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 ||api.leadpages.io^
+
 
 
 
@@ -41332,6 +41448,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||assets.locuslabs.com^
 
 
+||smetrics.loft.com^
+
 
 ||cloudfront.loggly.com^
 ||logs-01.loggly.com^
@@ -41345,6 +41463,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+
 ||sdk.loveota.net^
 
 
@@ -41353,6 +41472,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dc.lsosad.com^
 
 
+
+||smetrics.lululemon.com^
 
 ||clientsdk.luminati.io^
 
@@ -41609,6 +41730,9 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+||vik-analytics.moonactive.net^
+||vik-analytics-gke.moonactive.net^
+
 
 
 ||mobileapi.motus.com^
@@ -41634,6 +41758,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 ||api.muneris.io^
+
 
 
 
@@ -41674,6 +41799,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+||appboot.us-west-2.origin.prodaa.netflix.com^
+
 
 ||sdkapi.netmera.com^
 
@@ -41686,11 +41813,14 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||newrelic.com^
 
+||www.newsbreak.com^
+
 
 
 
 
 ||ccpa.psg.nexstardigital.net^
+||segment.psg.nexstardigital.net^
 
 
 ||geo.ngtv.io^
@@ -41721,6 +41851,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nuffnang.com.my^
 
 ||als-svc.nytimes.com^
+||dd.nytimes.com^
 
 
 ||consent.cmp.oath.com^
@@ -41759,6 +41890,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||static.onecms.io^
 
+||validate.onecount.net^
+
 
 ||onelink.me^
 
@@ -41772,7 +41905,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||click.oneplus.com^
 
-||cdn.onesignal.com^
+||onesignal.com^
+
 
 ||geolocation.onetrust.com^
 ||privacyportal.onetrust.com^
@@ -41797,6 +41931,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||data.ads.oppomobile.com^
 ||data-id.ads.oppomobile.com^
 ||adsfs.oppomobile.com^
+
 
 
 ||optaim.com^
@@ -41836,6 +41971,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||images.outbrainimg.com^
 ||zem.outbrainimg.com^
 
+||api-h.outgrow.co^
+||api-live.outgrow.co^
+||api-n.outgrow.co^
+
 ||prod-collecticon.outlookmobile.com^
 
 
@@ -41861,6 +42000,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hawk.pcgamer.com^
 
 ||api.pdbarea.com^
+
 
 
 ||abtesting.perfectcorp.com^
@@ -41943,6 +42083,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ads.pof.com^
 
 
+
 ||analytics.pokki.com^
 
 
@@ -41967,6 +42108,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sdk.popjam.com^
 
 
+
+||api.postscript.io^
+||sdk.postscript.io^
 
 
 
@@ -42005,6 +42149,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+
 ||analytics.publitas.com^
 
 
@@ -42030,6 +42175,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.pushcrew.com^
 
 
+||pushnami.com^
+
 ||api.pushspring.com^
 
 
@@ -42037,6 +42184,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api.pxlad.io^
 
 ||api.pythonexample.com^
+
+||c2.qbk1.com^
 
 
 ||sdk.api.qgraph.io^
@@ -42082,6 +42231,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||users.quantumgraph.com^
 
 
+
 ||iadctest.qwapi.com^
 
 
@@ -42112,7 +42262,10 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+
 ||ads.reembed.com^
+
+||api.reftagger.com^
 
 
 ||adimg.rekmob.com^
@@ -42123,6 +42276,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||tag.researchnow.com^
 
+
+||static.cdn.responsys.net^
 
 
 ||sdk.resu.io^
@@ -42154,6 +42309,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+||sp.rmbl.ws^
+
 ||metric-android-am.road404.com^
 
 ||ads.roblox.com^
@@ -42179,9 +42336,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shareitcpi.rqmob.com^
 ||static.rqmob.com^
 
+||dmp.rtbsrv.com^
+
+
+
 
 
 ||prdwebcollector.ruetracking.com^
+
+||rumble.com^
 
 
 ||rundsp.com^
@@ -42237,6 +42400,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||images.scanalert.com^
 
+
 ||aprod.scopely.io^
 ||collector.scopely.io^
 ||sdk.scopely.io^
@@ -42272,12 +42436,17 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+
+||embed.sendtonews.com^
+
 ||android-quinoa-config-prod.sense360eng.com^
 ||ios-quinoa-config-prod.sense360eng.com^
 ||ios-quinoa-personal-identify-prod.sense360eng.com^
 ||quinoa-personal-identify-prod.sense360eng.com^
 
 ||api.sentiance.com^
+
+||sentry.io^
 
 
 
@@ -42311,6 +42480,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wd.sharethis.com^
 ||wd-edge.sharethis.com^
 ||ws.sharethis.com^
+
 
 
 
@@ -42381,6 +42551,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||ads.snapchat.com^
 ||adsapi.snapchat.com^
+||tr6.snapchat.com^
 
 
 ||snapmobile.asia^
@@ -42441,6 +42612,9 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+||www.srmdata-us.com^
+
+
 ||cf.ssacdn.com^
 ||cx.ssacdn.com^
 ||images-demand.ssacdn.com^
@@ -42480,12 +42654,26 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.strava.com^
 ||tracing-collector.strava.com^
 
+||apd-iad2.streamguys.com^
+||apd-ord1.streamguys.com^
+||apd-ord2.streamguys.com^
+||apd-sjc1.streamguys.com^
+
+||ad-im-cmg.streamguys1.com^
+||cmg.streamguys1.com^
+||edg7-iad-oom-cmg.streamguys1.com^
+||edg7-ord-oom-cmg.streamguys1.com^
+||edg8-iad-oom-cmg.streamguys1.com^
+||edg8-ord-oom-cmg.streamguys1.com^
+||edg9-iad-oom-cmg.streamguys1.com^
+
 ||sdk.streamrail.com^
 
 ||events.streamrail.net^
 ||ssp.streamrail.net^
 
 ||strikeiron.com^
+
 
 
 
@@ -42525,10 +42713,13 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+||www.talkable.com^
+
 ||gaandroid.talkingdata.net^
 ||tdcv3.talkingdata.net^
 
 ||snowplowcollector.talkspace.com^
+
 
 
 ||acme.tango.me^
@@ -42569,6 +42760,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ampmetrics.techcrunch.com^
 
 
+
 ||error-collector.ted.com^
 ||api.videometrics.ted.com^
 
@@ -42591,6 +42783,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adspot.tfgco.com^
 ||beacon.tfgco.com^
 ||cdn-adspot.tfgco.com^
+
 
 
 
@@ -42647,6 +42840,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||playtest-api.topaz-analytics.com^
 ||push-api.topaz-analytics.com^
 
+||m1.torrenti.al^
+||m2.torrenti.al^
+
 ||sdk.touchcast.com^
 
 
@@ -42659,6 +42855,9 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+
+||analytics-listener.trafficmanager.net^
+||collector-main.trafficmanager.net^
 
 
 
@@ -42675,6 +42874,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trialpay.com^
 
 
+
 ||ads.triongames.com^
 
 ||tracking-3-9f58.trnox.com^
@@ -42685,8 +42885,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ads5-noneu.truecaller.com^
 ||pushid-noneu.truecaller.com^
 
+||deviceid.trueleadid.com^
 
 
+
+||choices.trustarc.com^
+
+||preferences.truste.com^
+
+||sealserver.trustwave.com^
 
 
 
@@ -42698,6 +42905,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 ||yun.tuitiger.com^
+
 
 ||ma.tune.com^
 
@@ -42713,12 +42921,20 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||tutoads.tv^
 
+||px.tvadsync.com^
+
+
+||collector-9306.us.tvsquared.com^
+||collectoru.us.tvsquared.com^
 
 ||sdkgw.us1.twilio.com^
 
 ||ads.twitter.com^
 ||ads-api.twitter.com^
 ||analytics.twitter.com^
+
+
+||linksys.echo.tzo.com^
 
 
 ||lightstep-collector.api.ua.com^
@@ -42808,6 +43024,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cdn.usebutton.com^
 ||mobileapi.usebutton.com^
 
+||www.usefomo.com^
+
 
 
 ||api.userleap.com^
@@ -42857,6 +43075,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||inventory.vidazoo.com^
 ||pl.vidazoo.com^
 ||static.vidazoo.com^
+||vroku-bis-1.vidazoo.com^
 ||wserver.vidazoo.com^
 
 
@@ -42962,6 +43181,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 
 
+||engage.vzw.com^
+
 ||w3i.com^
 
 
@@ -42985,6 +43206,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||airlytics.airlock.twcmobile.weather.com^
 
 ||and-ads.pulse.weatherbug.net^
+||ios-ads.pulse.weatherbug.net^
 
 
 
@@ -43005,16 +43227,23 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.wesdk.co^
 
 
+||widget.wickedreports.com^
+
+
 
 ||cads.wildlifestudios.com^
 ||exchange.wildlifestudios.com^
 
 
+||optanon.blob.core.windows.net^
+
 ||tracker.winudf.com^
 
 ||pie.wirelessregistry.com^
 
+
 ||opensdk.wlanbanlv.com^
+
 
 
 
@@ -43060,6 +43289,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||edge-mcdn-beacon.secure.yahoo.com^
 ||ads.yap.yahoo.com^
 ||m.yap.yahoo.com^
+||pr-bh.ybp.yahoo.com^
 ||partnerads.ysm.yahoo.com^
 
 
@@ -43150,6 +43380,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bms.zeptolab.com^
 
 ||www.zergnet.com^
+
 
 
 ||analytics.zg-api.com^
@@ -44886,7 +45117,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||supertop100.com^
 ||supertracking.net^
 ||surfmusik-adserver.de^
-||sw88.espn.com^
 ||swimslope.com^
 ||swordfishdc.com^
 ||t.bawafx.com^
