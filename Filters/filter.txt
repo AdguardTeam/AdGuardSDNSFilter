@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-02T00:16:39.608Z
+! Last modified: 2021-09-02T12:06:55.625Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||d3iih5w7xp5hdg.cloudfront.net^
 ||machogodynamis.com^
 ||thorpknubby.com^
 ||oncerensky.cam^
@@ -72,7 +73,6 @@
 ||xmorex.com^
 ||scrapebust.com^
 ||beach-trk.com^
-||benfly.net^
 ||habeglee.net^
 ||besmeargleor.com^
 ||ouroborosx.com^
@@ -675,7 +675,6 @@
 ||papoptidu.pro^
 ||mrnpwuere.com^
 ||ruytvzdcavjsjh.com^
-||bounceme.net^
 ||aspirinelitistunderstood.com^
 ||gahapule.pro^
 ||followmalnutritionjeanne.com^
@@ -4695,6 +4694,7 @@ vkcdnservice.appspot.com^
 ||bangtyranclank.com^
 ||banicywan.com^
 ||banofusa.com^
+||banonemind.com^
 ||banroads.com^
 ||banstockseldest.com^
 ||bantgoau.com^
@@ -8140,6 +8140,7 @@ vkcdnservice.appspot.com^
 ||happeningaxis.com^
 ||happer.info^
 ||haprjb.com^
+||haracteris.club^
 ||haractice.club^
 ||harassinglimb.com^
 ||hardyconflict.com^
@@ -8334,6 +8335,7 @@ vkcdnservice.appspot.com^
 ||hobfadbig.com^
 ||hockeymusclebanged.com^
 ||hoemasfat.site^
+||hofofici.com^
 ||hoistchart.com^
 ||holdierpriv.club^
 ||holdspreoccupation.com^
@@ -9006,6 +9008,7 @@ vkcdnservice.appspot.com^
 ||kesmdg.com^
 ||ketadeep.com^
 ||kevabila.com^
+||kewhexethe.com^
 ||kewuruve.xyz^
 ||keyboardinvolvedspacious.com^
 ||keydawnawe.com^
@@ -9294,6 +9297,7 @@ vkcdnservice.appspot.com^
 ||lgcblkbn.com^
 ||lgmsekxqwxe.com^
 ||lgse.com^
+||lhhrupisllmy.com^
 ||lhljbgevp.com^
 ||li9t691864th.com^
 ||liantmartier.info^
@@ -11256,6 +11260,7 @@ vkcdnservice.appspot.com^
 ||popbyepenthouse.com^
 ||popcash.net^
 ||popclck.net^
+||popclow.xyz^
 ||popcpm.com^
 ||popearn.com^
 ||pophahwot.com^
@@ -12799,6 +12804,7 @@ vkcdnservice.appspot.com^
 ||sorryfearknockout.com^
 ||sortgenerousholidays.com^
 ||soshoord.com^
+||sotchoft.net^
 ||soundingexpulsioninspector.com^
 ||soundshrillarduous.com^
 ||sousaira.com^
@@ -14742,6 +14748,7 @@ vkcdnservice.appspot.com^
 ||ytymetuw.xyz^
 ||yudexjr.com^
 ||yuhuads.com^
+||yuhvjuedhcu.com^
 ||yumenetworks.com^
 ||yunshipei.com^
 ||yupfiles.net^
@@ -15493,6 +15500,7 @@ vkcdnservice.appspot.com^
 ||adzonk.com^
 ||adzouk.com^
 ||adzouk1tag.com^
+||adzpier.com^
 ||adzpower.com^
 ||adzs.nl^
 ||adzyou.com^
@@ -15752,6 +15760,7 @@ vkcdnservice.appspot.com^
 ||belmonhezamil.pro^
 ||belointeractive.com^
 ||belvertising.be^
+||benfly.net^
 ||bepolite.eu^
 ||beringmedia.com^
 ||bestcasinopartner.com^
@@ -18772,6 +18781,7 @@ vkcdnservice.appspot.com^
 ! [26.08.21]remove if something is broken
 ||adfstat.yandex.ru^
 !
+||ajur.info^
 ||clicks.h.hepsiburada.com^
 ||spgo.io^
 ||rcp.evolok.net^
@@ -22908,6 +22918,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||heartbeats.prd.data.s.joyn.de^
 ||log.strm.yandex.ru^
 ||stats.ficbook.net^
 ||s.beop.io^
@@ -25248,6 +25259,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fbgpnk.com^
 ||fdxstats.xyz^
 ||feathr.co^
+||firstpromoter.com^
 ||flaghit.com^
 ||flexlinkspro.com^
 ||flocktory.com^
@@ -26074,6 +26086,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||annoyedairport.com^
 ||ayc0zsm69431gfebd.info^
 ||borderbrush.com^
+||closedcows.com^
 ||confesschairs.com^
 ||consciouscheese.com^
 ||cratecamera.com^
@@ -26082,14 +26095,17 @@ charlestownwyllie.oaklawnnonantum.com^
 ||disturbedquiet.com^
 ||dogcollarfavourbluff.com^
 ||enormousearth.com^
+||futuristicapparatus.com^
 ||glisteningguide.com^
 ||handyfireman.com^
 ||impulsejewel.com^
 ||lameletters.com^
+||nappyattack.com^
 ||nondescriptnote.com^
 ||oafishobservation.com^
 ||panickycurtain.com^
 ||panickypancake.com^
+||parchedsofa.com^
 ||pastoralroad.com^
 ||pleasantpump.com^
 ||pluckypocket.com^
@@ -26101,9 +26117,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||screechingstove.com^
 ||seatsmoke.com^
 ||shrillspoon.com^
+||spookysleet.com^
 ||spotlessstamp.com^
 ||stepplane.com^
+||stupendoussnow.com^
 ||teenytinycellar.com^
+||tinytendency.com^
 ||tiresomethunder.com^
 
 !
@@ -27812,6 +27831,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||hbawqr.com^
+||jasjei2ejk.ru^
+||ddpwhd77eg.ru^
 ||ljsiir.com^
 ||infomix.best^
 ||widjet.analnoe.tv^
@@ -34490,6 +34512,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||lcloc.com^
 ||hnltcw.com^
 ||00-gov.cn^
 ||0024aaaa.com^
@@ -36561,6 +36584,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||wmbd.gamersky.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -37309,6 +37333,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||cwhsmgs1.cn^
+||mademoisellewang.com^
+||0myksyhuuz.cn^
+||qbjsymmi0w.cn^
+||zjlv.top^
+||igig87.cn^
+||4rgm6z478o.cn^
+||cytxt.com^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37778,7 +37810,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||czhongbao.net^
 ||czlongle.cn^
 ||czxjx.cn^
-||d3iih5w7xp5hdg.cloudfront.net^
 ||dacedsfa.cn^
 ||dachadu.cn^
 ||dadawm.cc^
