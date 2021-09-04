@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-04T12:06:31.518Z
+! Last modified: 2021-09-04T18:03:56.786Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4867,6 +4867,7 @@ vkcdnservice.appspot.com^
 ||bfc70a51929fff2d7fe.com^
 ||bfe4e6d364be199.com^
 ||bftrlhesrlfjp.com^
+||bfts.xyz^
 ||bg6s0.com^
 ||bgmtracker.com^
 ||bgrndi.com^
@@ -7826,6 +7827,7 @@ vkcdnservice.appspot.com^
 ||ggjcswb4rln4.com^
 ||gglx.me^
 ||ggsfq.com^
+||ggunauhe.com^
 ||ghcncwmm.com^
 ||ghsmfmjcicgup.com^
 ||gibeleftyeuro.com^
@@ -9450,6 +9452,7 @@ vkcdnservice.appspot.com^
 ||loopredsglen.com^
 ||lootynews.com^
 ||lophaszip.com^
+||lorajety.com^
 ||loricalreach.info^
 ||lorimertoned.com^
 ||lornardchr.club^
@@ -10241,6 +10244,7 @@ vkcdnservice.appspot.com^
 ||nawpush.com^
 ||nbf9b5aurl.com^
 ||nblczw.com^
+||nboc.xyz^
 ||nbullrusma.top^
 ||nbxiwktuvymecs.com^
 ||ncdnunc.com^
@@ -10476,6 +10480,7 @@ vkcdnservice.appspot.com^
 ||notorietyharvest.com^
 ||noughttrustthreshold.com^
 ||nounstrenuous.com^
+||novadune.com^
 ||novembershopsconvene.com^
 ||noviceavengeclemency.com^
 ||noviceexplanationteapot.com^
@@ -10567,6 +10572,7 @@ vkcdnservice.appspot.com^
 ||nyjixoco.com^
 ||nymotuda.com^
 ||nyphtrue.com^
+||nyphuboshu.com^
 ||nyrithenrebarro.info^
 ||nyutkikha.info^
 ||nyztgyuuts.com^
@@ -12813,6 +12819,7 @@ vkcdnservice.appspot.com^
 ||softenedprepare.com^
 ||softwarepastel.com^
 ||soggykaes.com^
+||sograuko.net^
 ||soholfit.com^
 ||soilenthusiasmshindig.com^
 ||sokitosa.com^
@@ -13162,6 +13169,7 @@ vkcdnservice.appspot.com^
 ||swesomepop.com^
 ||swimminghardworkingowners.com^
 ||switchpreposterous.com^
+||swithaccura.club^
 ||swoodlander.site^
 ||swoopclusterbeasts.com^
 ||swwpush.com^
@@ -14554,6 +14562,7 @@ vkcdnservice.appspot.com^
 ||xad.com^
 ||xadcentral.com^
 ||xadsmart.com^
+||xaholica.com^
 ||xamaptapsu.com^
 ||xameleonads.com^
 ||xamephapse.com^
@@ -17767,10 +17776,7 @@ vkcdnservice.appspot.com^
 ||mbid.marfeelrev.com^
 ||media.netrefer.com^
 ||mmwebhandler.888.com^
-||news.fark.com^
-||novadune.com^
 ||ntvcld-a.akamaihd.net^
-||numb.hotshare.biz^
 ||p.d.1emn.com^
 ||p.smartertravel.com^
 ||pacontainer.s3.amazonaws.com^
@@ -17798,9 +17804,6 @@ vkcdnservice.appspot.com^
 ||servedby.keygamesnetwork.com^
 ||servedby.yell.com^
 ||services.zam.com^
-||smart.styria-digital.com^
-||sportsbetaffiliates.com.au^
-||squarespace.evyy.net^
 ||squirrels.getsquirrel.co^
 ||srv.dynamicyield.com^
 ||static.tradetracker.net^
@@ -34568,6 +34571,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||3338613.com^
+||3338671.com^
+||3338655.com^
+||3331909.com^
 ||lm995.com^
 ||00-gov.cn^
 ||0024aaaa.com^
@@ -37396,6 +37403,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jx8200o4h2.cn^
 ||symrkwcn76.cn^
 ||jiulx.com^
+||wongds.top^
 ||dvtxt.cn^
 ||01tn.cn^
 ||027whht.com^
