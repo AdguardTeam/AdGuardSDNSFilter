@@ -3,7 +3,7 @@ name: Build AdGuard DNS filter
 on:
   push:
   schedule:
-    - cron: '0 */6 * * *' # Every hour
+    - cron: '0 */12 * * *'
 
 jobs:
   build:
@@ -21,6 +21,15 @@ jobs:
         run: |
           yarn install
           yarn run build
+          
+      - name: Commit and push files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Filters/filter.txt
+          git commit -m "Filter Build" -a
+          git pull
+          git push origin master
 
 #      - name: prepare deploy
 #        run: |
