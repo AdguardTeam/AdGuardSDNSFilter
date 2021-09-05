@@ -28,19 +28,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add Filters/filter.txt
           git commit -m "Filter Build" -a
-          git pull
           git push origin master
-
-#      - name: prepare deploy
-#        run: |
-#          mkdir build
-#          cp -rf Filters build/
-#        env:
-#          CI: true
-
-#      - name: deploy
-#        uses: peaceiris/actions-gh-pages@v3
-#        if: github.ref == 'refs/heads/master'
-#        with:
-#          github_token: ${{ secrets.GITHUB_TOKEN }}
-#          publish_dir: ./build
