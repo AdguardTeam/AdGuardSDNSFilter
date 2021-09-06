@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-05T12:06:39.160Z
+! Last modified: 2021-09-06T00:19:26.165Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5933,6 +5933,7 @@ vkcdnservice.appspot.com^
 ||cpalabtracking.com^
 ||cpamatik.com^
 ||cpanuk.com^
+||cpaprrrrrofit.com^
 ||cpaway.com^
 ||cpays.com^
 ||cpcmart.com^
@@ -6198,6 +6199,7 @@ vkcdnservice.appspot.com^
 ||dcqsvxuetj.com^
 ||dcrecycle.top^
 ||dddomainccc.com^
+||dddtv.xyz^
 ||ddkbxqvf.com^
 ||ddmax20.xyz^
 ||ddow.xyz^
@@ -9055,6 +9057,7 @@ vkcdnservice.appspot.com^
 ||jwplayer.space^
 ||jwt8e5vzc1.com^
 ||jwvwak1a.com^
+||jxfkevszqqdb.com^
 ||jxxcedyaazm.com^
 ||jyagyffnbysg.com^
 ||jycdnjnz.com^
@@ -11671,6 +11674,7 @@ vkcdnservice.appspot.com^
 ||prowlenthusiasticcongest.com^
 ||prownl.com^
 ||proxyreducing.com^
+||proy.xyz^
 ||prpopss.com^
 ||prudencebonfireyowl.com^
 ||prudencewiserelapse.com^
@@ -12869,6 +12873,7 @@ vkcdnservice.appspot.com^
 ||sketchinferiorunits.com^
 ||skillpropulsion.com^
 ||skilyake.net^
+||skinchmanfred.com^
 ||skinnyfinnishhi.com^
 ||sknkwpvrkz.com^
 ||skreighphotic.cam^
@@ -26760,6 +26765,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rtt.campanja.com^
 ||rum.azion.com^
 ||rum.azioncdn.net^
+||rum.ingress.layer0.co^
+||rum.layer0.co^
 ||rum.minutemediaservices.com^
 ||rum.nccgroup-webperf.com^
 ||rum.perfops.net^
@@ -33244,6 +33251,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||goodads.de^
 ||green-ads.net^
 ||guruads.de^
+||h5v.eu^
 ||handy-ads.de^
 ||heias.com^
 ||highad.de^
@@ -34609,7 +34617,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||alexanberton.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -34891,6 +34898,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ajwssds.com^
 ||ak0429.com^
 ||aklm.cc^
+||alexanberton.com^
 ||alifixed.cn^
 ||alightin.com^
 ||alimama.alicdn.com^
@@ -37437,10 +37445,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||mapxiongan.cn^
-||zijuejueta.com^
-||x18a1fmq74.cn^
-||b32lx7qjk0.cn^
+||mergedeep.xyz^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37693,6 +37698,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||axuns.com^
 ||ayun.ltd^
 ||b2b5.net^
+||b32lx7qjk0.cn^
 ||babalink.top^
 ||bahu.xyz^
 ||baidu.bxwx3.org^
@@ -38221,6 +38227,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hanhaiedu.tech^
 ||hanmiyong.com^
 ||hanqingstudio.com^
+||hansaisai.top^
 ||hanzhixin.cn^
 ||haoerer.cn^
 ||haomaiweb.com^
@@ -38675,6 +38682,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||maobujie.com^
 ||maosengss.cn^
 ||maoyumao.net^
+||mapxiongan.cn^
 ||marchtools.cn^
 ||maro30.com^
 ||mavuz.com^
@@ -39350,6 +39358,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wyxcb6.top^
 ||wyzxn.cn^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||x18a1fmq74.cn^
 ||xabtx.com^
 ||xacqp.com^
 ||xafengzhij.xyz^
@@ -39623,6 +39632,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhylm.cn^
 ||zhywyl.cn^
 ||zichunping.cn^
+||zijuejueta.com^
 ||zimingdh.com^
 ||zitaoh.cn^
 ||zixiansun.com^
