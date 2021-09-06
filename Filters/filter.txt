@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-06T06:07:56.200Z
+! Last modified: 2021-09-06T12:07:02.214Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -122,7 +122,6 @@
 ||member.javtvnow.xyz^
 ||driddleurease.com^
 ||cauntercanulae.com^
-||chioneflake.com^
 ||d-ughwashes.ru^
 ||hunter-hub.com^
 ||a.trk-imps.com^
@@ -5494,6 +5493,7 @@ vkcdnservice.appspot.com^
 ||china-netwave.com^
 ||chinacobweb.com^
 ||chinitnam.com^
+||chioneflake.com^
 ||chipleader.com^
 ||chiptionics.co^
 ||chirkacylal.com^
@@ -18885,6 +18885,8 @@ vkcdnservice.appspot.com^
 ! [26.08.21]remove if something is broken
 ||adfstat.yandex.ru^
 !
+||myvisitors.se^
+||mp3king.club^
 ||enhencer.com^
 ||pxaction.com^
 ||thequin.ai^
@@ -27409,7 +27411,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||citypaketet.se^
 ||cssrvsync.com^
 ||lwadm.com^
-||myvisitors.se^
 ||publish-int.se^
 ||sifomedia.se^
 ||tidningsnatet.se^
@@ -34605,6 +34606,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||666666666666.site^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -37439,6 +37441,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mergedeep.xyz^
 ||bayno.cn^
 ||unimr0k7em.cn^
+||dhipc.cn^
+||13owamwp6c.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
