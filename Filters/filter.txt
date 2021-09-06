@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-06T12:37:58.886Z
+! Last modified: 2021-09-06T18:04:18.132Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||camisagrieko.com^
+||sinisterbatchoddly.com^
 ||3i1cx7b9nupt.com^
 ||ethnicbrotherhoodunmoved.com^
 ||dadslimz.com^
@@ -18888,6 +18890,7 @@ vkcdnservice.appspot.com^
 ! [26.08.21]remove if something is broken
 ||adfstat.yandex.ru^
 !
+||trck.linkster.co^
 ||myvisitors.se^
 ||mp3king.club^
 ||enhencer.com^
@@ -23028,6 +23031,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||marketinghub.zoho.eu^
+||ma.zoho.eu^
 ||stats.bluebillywig.com^
 ||heartbeats.prd.data.s.joyn.de^
 ||log.strm.yandex.ru^
@@ -27922,6 +27927,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||octonew.me^
 ||c153yb4hps.ru^
 ||hbawqr.com^
 ||jasjei2ejk.ru^
@@ -32901,6 +32907,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
+||speedup.cyou^
 ||dj930.cn^
 ||lnhsjob.com^
 ||lcmqyl.cn^
@@ -34608,6 +34615,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||ynslvyou.com^
+||wshlcgj.com^
+||kaiguangdou.com^
 ||666666666666.site^
 ||00-gov.cn^
 ||0024aaaa.com^
@@ -37444,6 +37454,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bayno.cn^
 ||unimr0k7em.cn^
 ||dhipc.cn^
+||clzgd.com^
+||ynsyly.com^
+||zcoolfc.com^
 ||13owamwp6c.cn^
 ||01tn.cn^
 ||027whht.com^
