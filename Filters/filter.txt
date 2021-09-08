@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-08T06:05:14.689Z
+! Last modified: 2021-09-08T18:06:15.776Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,12 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||shakeegi.com^
+||pauzajoo.net^
+||whugesto.net^
+||departgross.com^
+||baywednesday.com^
+||kgdvs9ov3l2aasw4nuts.com^
 ||doaseeph.com^
 ||qjcdnpv.com^
 ||camisagrieko.com^
@@ -374,7 +380,6 @@
 ||jawsfixture.com^
 ||tronglyre.club^
 ||exru.website^
-||departgross.com^
 ||jawholeminable.com^
 ||picturesquebutcompassionate.com^
 ||sodamash.com^
@@ -10217,6 +10222,7 @@ vkcdnservice.appspot.com^
 ||mosslagoonbookcase.com^
 ||mossyitalian.com^
 ||mostaboutm.biz^
+||motefiles.com^
 ||mothdiscussioncrest.com^
 ||motheregarded.info^
 ||motherehoom.pro^
@@ -11456,6 +11462,7 @@ vkcdnservice.appspot.com^
 ||poolgmsd.com^
 ||poolunbelievably.com^
 ||poorlydig.com^
+||poorlygarrisondistant.com^
 ||poosoahe.com^
 ||poosugap.com^
 ||popads.media^
@@ -11727,6 +11734,7 @@ vkcdnservice.appspot.com^
 ||psizivura.com^
 ||pskidsqhsbfi.com^
 ||pslnk.link^
+||psoaemorella.com^
 ||psoaksoo.com^
 ||psoanouy.net^
 ||psoomeeg.com^
@@ -14677,7 +14685,6 @@ vkcdnservice.appspot.com^
 ||whs82908.com^
 ||whsepelmrnz.com^
 ||whudiphezy.pro^
-||whugesto.net^
 ||whughesh.com^
 ||whukroal.net^
 ||whusebsu.com^
@@ -18347,6 +18354,7 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||prod.cm.publishers.advertising.a2z.com^
 ||events-*.op.hicloud.com^
 ||isnssdk.com^
 ||app.adjust.world^
@@ -18958,6 +18966,7 @@ vkcdnservice.appspot.com^
 ! ||events.split.io^
 ! ||apptrace.com^
 ! ||opentelemetry.io^
+! ||crash-reports.browser.yandex.net^
 !
 !
 ! ||ensighten.com^$third-party - not a tracker
@@ -18975,6 +18984,9 @@ vkcdnservice.appspot.com^
 ! [26.08.21]remove if something is broken
 ||adfstat.yandex.ru^
 !
+||united-infos.net^
+||s.clickiocdn.com^
+||event.instiengage.com^
 ||toru0vane.com^
 ||trck.linkster.co^
 ||myvisitors.se^
@@ -22076,6 +22088,7 @@ vkcdnservice.appspot.com^
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
 !
+||glisteningguide.com^
 ||railwayreason.com^
 ||sparklingshelf.com^
 ||scintillatingsilver.com^
@@ -25917,7 +25930,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||u5c93.com^
 ||ub-analytics.com^
 ||uciservice.com^
-||united-infos.net^
 ||upapi.net^
 ||uplift-platform.com^
 ||uptain.de^
@@ -26299,7 +26311,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dogcollarfavourbluff.com^
 ||enormousearth.com^
 ||futuristicapparatus.com^
-||glisteningguide.com^
 ||handyfireman.com^
 ||impulsejewel.com^
 ||lameletters.com^
@@ -26637,7 +26648,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||event-api.contactatonce.com^
 ||event-listener.air.tv^
 ||event.api.drift.com^
-||event.instiengage.com^
 ||eventgateway.soundcloud.com^
 ||events.air.tv^
 ||events.attentivemobile.com^
@@ -28008,6 +28018,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||aeowrb.com^
 ||apedah.com^
 ||octonew.me^
 ||c153yb4hps.ru^
@@ -28081,7 +28092,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bro1.biz^
 ||bfafhm.com^
 ||mhjcpn.com^
-||clickiocdn.com^
 ||degjciidgieiaeigecb.ru^
 ||jqdnvg.com^
 ||mjnxku.com^
@@ -33618,6 +33628,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adsbingo.com^
 ||adscpm.site^
 ||adshost.site^
+||adsimg.kompas.com^
 ||adtimeselaras.com^
 ||afbcashidr.com^
 ||ahcnxuepput.com^
@@ -33782,8 +33793,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Sep 2021 17:15 UTC+7
-! Version: 2109071715
+! Last modified: 08 Sep 2021 14:11 UTC+7
+! Version: 2109081411
 ! Blocked: 985 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -34729,6 +34740,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||3332332.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -36488,6 +36500,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zzwflxs.com^
 ||zzwpsm.cn^
 ||zzyonghao.com^
+||b477.life^
 ||1024mzs.pw^
 ||1024wanzhai.
 ||133gp.com^
@@ -37563,10 +37576,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||baoquanworld.com.cn^
+||geomon.top^
 ||cxyldc.com^
 ||f8ij9.life^
 ||wuxiap.xyz^
 ||jiangjinghe.top^
+||gt9m0fs.cn^
+||o4h0np7.cn^
+||uater.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
