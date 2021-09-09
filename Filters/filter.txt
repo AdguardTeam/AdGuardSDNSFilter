@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-09T06:05:22.579Z
+! Last modified: 2021-09-09T12:08:01.713Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||traffic.pinklabel.com^
 ||rvrpushsrv.com^
 ||easyads28.mobi^
 ||shakeegi.com^
@@ -19004,10 +19005,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
-! https://github.com/AdguardTeam/AdguardFilters/issues/92501
-! [26.08.21]remove if something is broken
 ||adfstat.yandex.ru^
-!
+||ad.plus^
 ||united-infos.net^
 ||s.clickiocdn.com^
 ||event.instiengage.com^
@@ -23154,6 +23153,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||tracking-api.sub100.com.br^
 ||marketinghub.zoho.eu^
 ||ma.zoho.eu^
 ||stats.bluebillywig.com^
@@ -36850,6 +36850,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||bd.ahsrst.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36899,7 +36900,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1.v-x.com.cn^
 ||1.vsimg.com^
 ||1.weiheshidai.com^
-||1.wenzhangba.cn^
+||cdn.wenzhangba.cn^
 ||1.xilu.com^
 ||1.xuexi.la^
 ||1.yac8.net^
@@ -37604,6 +37605,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rtrete.store^
 ||hswfj.cn^
 ||venber.cn^
+||blackbar.cn^
+||shua66.vip^
+||iscreen.top^
+||weiweitop.top^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
