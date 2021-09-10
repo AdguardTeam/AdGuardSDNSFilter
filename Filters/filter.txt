@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-10T06:05:10.224Z
+! Last modified: 2021-09-10T12:07:03.109Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28068,6 +28068,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||mainad-codpp.com^
 ||aeowrb.com^
 ||apedah.com^
 ||octonew.me^
@@ -32425,6 +32426,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 !
 !
+||bwcdn.xyz^
 ||wonoddgiris.com^
 ||aj2373.online^
 ||kuzeyinyeri.site^
@@ -34790,6 +34792,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||ijir.cn^
+||u1n6ok.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -37631,6 +37635,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||swy0dxi.cn^
 ||bookopen.cn^
 ||b5mc3.life^
+||icdxqn.xyz^
+||eotglx.top^
+||haoinn.top^
+||jctflx.xyz^
+||yiiyo.top^
+||hncpz.cn^
+||abc98.cc^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
