@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-09T18:04:41.416Z
+! Last modified: 2021-09-10T00:18:31.223Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5303,7 +5303,6 @@ vkcdnservice.appspot.com^
 ||capsfogpeck.com^
 ||capsheirspages.com^
 ||captainad.com^
-||captifymedia.com^
 ||captivatecustomergentlemen.com^
 ||caradstag.casa^
 ||carbonads.com^
@@ -23160,6 +23159,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||t.451.io^
+||collector.hamsterix.cam^
 ||tracking-api.sub100.com.br^
 ||marketinghub.zoho.eu^
 ||ma.zoho.eu^
@@ -36858,7 +36859,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||bd.ahsrst.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -36908,7 +36908,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1.v-x.com.cn^
 ||1.vsimg.com^
 ||1.weiheshidai.com^
-||cdn.wenzhangba.cn^
 ||1.xilu.com^
 ||1.xuexi.la^
 ||1.yac8.net^
@@ -37076,6 +37075,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bas.boshi.tv^
 ||bd*-ys.km.com^
 ||bd-s.baixing.net^
+||bd.ahsrst.cn^
 ||bd.beimap.com^
 ||bd.czxuexi.com^
 ||bd.ershenghuo.com^
@@ -37150,6 +37150,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cbdm.weathercn.com^
 ||cc.xiaodapei.com^
 ||cc.xwscg.com^
+||cdn.wenzhangba.cn^
 ||cdn1.tvzhe.com^
 ||cee1.iteye.com^
 ||ckg.vipyl.com^
@@ -37610,15 +37611,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||rtrete.store^
-||hswfj.cn^
-||venber.cn^
-||blackbar.cn^
-||shua66.vip^
-||iscreen.top^
-||weiweitop.top^
-||leejongsuk.top^
-||altao.xyz^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37831,6 +37823,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aliyunj.xyz^
 ||aliyunp.xyz^
 ||allluck.cn^
+||altao.xyz^
 ||alwonroad.club^
 ||aly766.com^
 ||am77p.cn^
@@ -37943,6 +37936,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bjzshy.cn^
 ||bjzywuxian.com^
 ||bl2030.com^
+||blackbar.cn^
 ||bljpk3.cn^
 ||bmuju.com^
 ||bndbddt.top^
@@ -38503,6 +38497,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hougonw.com^
 ||hsbkr.com^
 ||hswenwan.cn^
+||hswfj.cn^
 ||htdzwy.com^
 ||htfmbt.com^
 ||htgogogo.cn^
@@ -38578,6 +38573,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ipxjps.cn^
 ||ir2aok.com^
 ||iruad.com^
+||iscreen.top^
 ||isgow.com^
 ||ishowms.com^
 ||isles.cn^
@@ -38773,6 +38769,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||le258.cn^
 ||lecuiwangluo.com^
 ||ledaren.cn^
+||leejongsuk.top^
 ||legozu.com^
 ||leixigroup.com^
 ||lejuyoujia2019.com^
@@ -39175,6 +39172,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rqjhhg.cn^
 ||rqkgcd.xyz^
 ||rtkyvd.xyz^
+||rtrete.store^
 ||ruibokeji.cn^
 ||ruiy.shop^
 ||ruyidk.com^
@@ -39234,6 +39232,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shorug.cn^
 ||shrtswkj.com^
 ||shsnjj.top^
+||shua66.vip^
 ||shufan.club^
 ||shunxinyuancaiwu.cn^
 ||signstu.top^
@@ -39447,6 +39446,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vbanm.com^
 ||vbillplus.cn^
 ||vchim.com^
+||venber.cn^
 ||vgimer.cn^
 ||vinuxhome.com^
 ||vivi87.cn^
@@ -39498,6 +39498,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||weimeicar.cn^
 ||weinin99.cn^
 ||weipapa.top^
+||weiweitop.top^
 ||weixinhuoyuan.com^
 ||weiyajz.cn^
 ||weiziqiang.top^
