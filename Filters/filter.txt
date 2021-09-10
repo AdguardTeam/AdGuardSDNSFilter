@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-10T12:07:03.109Z
+! Last modified: 2021-09-10T18:04:00.359Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||intimidatepropel.com^
+||keegesta.com^
 ||clbanners16.com^
 ||phabys.com^
 ||glootang.net^
@@ -28068,6 +28070,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||banner.aismo.ru^
 ||mainad-codpp.com^
 ||aeowrb.com^
 ||apedah.com^
@@ -32993,7 +32996,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||i2iserv.com^
 ||image-rentracks.com^
 ||itgear.jp^
-||jpassport.jp^
 ||jpg-server.com^
 ||link-trade.net^
 ||logping.exblog.jp^
@@ -33845,9 +33847,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Sep 2021 14:11 UTC+7
-! Version: 2109081411
-! Blocked: 985 rules
+! Last modified: 10 Sep 2021 20:44 UTC+7
+! Version: 2109102044
+! Blocked: 987 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -34792,8 +34794,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||ijir.cn^
-||u1n6ok.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35587,6 +35587,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||idy666.com^
 ||iewad.net^
 ||ifufen.com^
+||ijir.cn^
 ||il8r.com^
 ||ilinxi.cc^
 ||imim.me^
@@ -36194,6 +36195,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tyh887.com^
 ||tylll.com^
 ||u.huoying666.com^
+||u1n6ok.cn^
 ||uadsaa.com^
 ||ubalh.com^
 ||uballcc.com^
@@ -37631,17 +37633,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||7dmf7zl.cn^
-||swy0dxi.cn^
-||bookopen.cn^
-||b5mc3.life^
-||icdxqn.xyz^
-||eotglx.top^
-||haoinn.top^
-||jctflx.xyz^
-||yiiyo.top^
-||hncpz.cn^
-||abc98.cc^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -37759,6 +37750,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||73cm.com^
 ||76xs.com^
 ||7b6l2j.cn^
+||7dmf7zl.cn^
 ||7ez4.cn^
 ||7j7jv5.cn^
 ||7times.top^
@@ -37800,6 +37792,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aaaw.xyz^
 ||aakkzzz.com^
 ||abblm.com^
+||abc98.cc^
 ||abi.run^
 ||abovede6.com^
 ||abuse8.com^
@@ -37858,6 +37851,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||alwonroad.club^
 ||aly766.com^
 ||am77p.cn^
+||amazon-indonesia.vip^
 ||amghais.cn^
 ||amghvzn.cn^
 ||amvecurt.cn^
@@ -37897,6 +37891,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ayun.ltd^
 ||b2b5.net^
 ||b32lx7qjk0.cn^
+||b5mc3.life^
 ||babalink.top^
 ||bahu.xyz^
 ||baidu.bxwx3.org^
@@ -37976,6 +37971,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bolijiupingchang.com^
 ||bolili.info^
 ||bom-soft.com.cn^
+||bookopen.cn^
 ||bostonceltics.com.cn^
 ||bowei666.xyz^
 ||boweineng.cn^
@@ -38243,6 +38239,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||enjuk.com^
 ||enjuw.com^
 ||enzenet.cn^
+||eotglx.top^
 ||erhfnv.cn^
 ||erkesi.cn^
 ||erkui.tech^
@@ -38441,6 +38438,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hansaisai.top^
 ||hanzhixin.cn^
 ||haoerer.cn^
+||haoinn.top^
 ||haomaiweb.com^
 ||haomaojin.com^
 ||haosdhc.cn^
@@ -38507,6 +38505,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hmttoly.com^
 ||hmyangshengji.com^
 ||hmyzsgf.com^
+||hncpz.cn^
 ||hnfxty.cn^
 ||hnhgw.cn^
 ||hnjcdjx.com^
@@ -38580,6 +38579,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iagc.com.cn^
 ||ic86doc.com^
 ||icdazoy.cn^
+||icdxqn.xyz^
 ||icefog.xyz^
 ||identified.cn^
 ||idevoa.cn^
@@ -38624,6 +38624,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jbbath.cn^
 ||jcaik.com^
 ||jcboloni.cn^
+||jctflx.xyz^
 ||jcwwxn.com^
 ||jdgcjx.cn^
 ||jdgsgl.com^
@@ -39312,6 +39313,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||swaa.top^
 ||swbclcq.cn^
 ||swq48b.cn^
+||swy0dxi.cn^
 ||swyhome.com^
 ||sx9zy.cn^
 ||sxbxzc.com^
@@ -39377,6 +39379,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tglzqw.cn^
 ||themaxmall.com^
 ||themee.cn^
+||thepam.cn^
 ||thindsoo.cn^
 ||this-is-living.cn^
 ||tiandihui9450.top^
@@ -39721,6 +39724,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yidiansurong.com^
 ||yierheng.top^
 ||yihegangtie.com^
+||yiiyo.top^
 ||yikebang.xyz^
 ||yikuaiqian.com.cn^
 ||yimai51.cn^
