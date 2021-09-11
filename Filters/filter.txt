@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-11T00:17:14.925Z
+! Last modified: 2021-09-11T06:05:00.263Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5653,6 +5653,7 @@ vkcdnservice.appspot.com^
 ||clickgate08.biz^
 ||clickintext.com^
 ||clickkingdom.net^
+||clickmatters.biz^
 ||clickmngr.com^
 ||clicknano.com^
 ||clicknerd.com^
@@ -13444,6 +13445,7 @@ vkcdnservice.appspot.com^
 ||taijiwhi.com^
 ||taisowhu.com^
 ||takeslobsgel.com^
+||takiparkrb.site^
 ||talentropes.com^
 ||talhundrewr.club^
 ||talk4anyone.com^
@@ -15570,6 +15572,7 @@ vkcdnservice.appspot.com^
 ||adf01.net^
 ||adforgames.com^
 ||adfrika.com^
+||adgage.es^
 ||adgatemedia.com^
 ||adgear.com^
 ||adgebra.in^
@@ -34801,6 +34804,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ||sxhjty.cn^
 ||bdstatic.org^
+||rdsvsh.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -37640,7 +37644,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||xqygyp.cn^
 ||ejd3q.life^
+||caijingzz.cn^
+||das-millennium.top^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
