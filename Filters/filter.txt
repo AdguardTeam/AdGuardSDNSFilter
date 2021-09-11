@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-11T12:07:45.041Z
+! Last modified: 2021-09-11T18:03:53.748Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -161,7 +161,6 @@
 ||adrokt.com^
 ||daedaelousscri.com^
 ||cawkyhouhere.com^
-||quitelyhabitat.com^
 ||beatsightcab.com^
 ||citheekr.com^
 ||ithaibap.com^
@@ -2939,6 +2938,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||d3al52d8cojds7.cloudfront.net^
 ||dq06u9lt5akr2.cloudfront.net^
 ||asg.faperoni.com^
 ||aa.pornvideotop.com^
@@ -6682,6 +6682,7 @@ vkcdnservice.appspot.com^
 ||dumbpop.com^
 ||dummyreopentypes.com^
 ||dummywisdom.com^
+||dumpersgoofed.com^
 ||dunderaffiliates.com^
 ||dunedisadvantagetentative.com^
 ||dungeonavenge.com^
@@ -9677,6 +9678,7 @@ vkcdnservice.appspot.com^
 ||luggagetumbledapple.com^
 ||lumcarring.fun^
 ||lumreckle.fun^
+||lunagyja.xyz^
 ||lunaticcrushedtogether.com^
 ||lunio.net^
 ||lupoot.com^
@@ -12063,6 +12065,7 @@ vkcdnservice.appspot.com^
 ||quiptenrice.casa^
 ||quite-bag-seed-catch.xyz^
 ||quitebrace.com^
+||quitelyhabitat.com^
 ||quiveringminusterminal.com^
 ||qumagee.com^
 ||quoashei.com^
@@ -37651,6 +37654,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aslro.top^
 ||xqigou.top^
 ||czava.cn^
+||moo9995.com^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
