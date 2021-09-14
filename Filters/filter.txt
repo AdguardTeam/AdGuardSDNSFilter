@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-14T00:16:55.935Z
+! Last modified: 2021-09-14T06:07:54.223Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4716,6 +4716,7 @@ vkcdnservice.appspot.com^
 ||bandicamad.com^
 ||bandicamas.com^
 ||bandicamaw.com^
+||bandiedcsardas.com^
 ||banerator.net^
 ||banernas.com^
 ||banesnorttat.cam^
@@ -6415,6 +6416,7 @@ vkcdnservice.appspot.com^
 ||digitaldsp.com^
 ||digitrevenue.com^
 ||digressremarkableconfide.com^
+||digresstrailfined.com^
 ||diguver.com^
 ||diitlm.com^
 ||dikeletwhelk.cam^
@@ -6637,6 +6639,7 @@ vkcdnservice.appspot.com^
 ||drako2sha8de09.com^
 ||drapefabric.com^
 ||drasticdifferentfoetus.com^
+||drasticdrama.com^
 ||drasticmean.com^
 ||draulinehandon.info^
 ||drawbacksubdue.com^
@@ -7379,6 +7382,7 @@ vkcdnservice.appspot.com^
 ||fdf4.com^
 ||fdnfnqgmfykg.com^
 ||fdrgtt9edmej010.com^
+||fdsgv.xyz^
 ||fdwbhggm.com^
 ||fe95a992e6afb.com^
 ||feadrope.net^
@@ -8650,6 +8654,7 @@ vkcdnservice.appspot.com^
 ||ignup.com^
 ||igvxnenqgu.com^
 ||ihjtrncfoha.com^
+||ihogaetw.com^
 ||iicheewi.com^
 ||iiprpq1bsedg.com^
 ||iiueuenutuhaf.com^
@@ -8999,6 +9004,7 @@ vkcdnservice.appspot.com^
 ||jinxexaminesketch.com^
 ||jioer.pro^
 ||jistaumt.com^
+||jisyzysy.com^
 ||jitdknclhdpfzyvkio.bid^
 ||jivomtuz.com^
 ||jiwire.com^
@@ -9249,6 +9255,7 @@ vkcdnservice.appspot.com^
 ||klkus.xyz^
 ||klohovfra.com^
 ||klqyxeidr.com^
+||kmacon.com^
 ||kmbyktnb.com^
 ||kmovuj.com^
 ||kmqkdhqaqt.com^
@@ -11836,6 +11843,7 @@ vkcdnservice.appspot.com^
 ||ptipsixo.com^
 ||ptipsout.net^
 ||ptirgaux.com^
+||ptlwm.com^
 ||ptoafauz.net^
 ||ptoahaistais.com^
 ||ptoangir.com^
@@ -13261,6 +13269,7 @@ vkcdnservice.appspot.com^
 ||steroidparentconstruct.com^
 ||steroidtypesconviction.com^
 ||stewerdu.net^
+||stewhustysti.com^
 ||stewlinedull.com^
 ||stezuzeje.com^
 ||stheconc.club^
@@ -14004,6 +14013,7 @@ vkcdnservice.appspot.com^
 ||txzvtgkthjq.com^
 ||tygafso.com^
 ||tyjawhesu.com^
+||tynezozi.com^
 ||typhonwave.com^
 ||typiccor.com^
 ||typistdejectionracial.com^
@@ -14628,6 +14638,7 @@ vkcdnservice.appspot.com^
 ||wcmcs.net^
 ||wct.link^
 ||wcyrjlszoo.com^
+||wdanjsscqabsi.com^
 ||wdeliv.net^
 ||weaknickgale.icu^
 ||wealdso.top^
@@ -14825,6 +14836,7 @@ vkcdnservice.appspot.com^
 ||wizliebeg.com^
 ||wizwarsum.site^
 ||wkcuhilbg.com^
+||wkfdymfxmyckr.com^
 ||wkll7glfazgp.com^
 ||wlapdczzpceb.com^
 ||wlbcqvral.com^
@@ -33863,9 +33875,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Sep 2021 15:00 UTC+7
-! Version: 2109131500
-! Blocked: 987 rules
+! Last modified: 14 Sep 2021 10:18 UTC+7
+! Version: 2109141018
+! Blocked: 988 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -34801,6 +34813,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||thseaeing.fun^
 ||ucesreferre.club^
 ||vongquaymienphi.net^
+||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
@@ -37653,6 +37666,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||myz33333.cn^
+||myz11111.cn^
+||mrclown.cn^
+||woquwaimai.vip^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
