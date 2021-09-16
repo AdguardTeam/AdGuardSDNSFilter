@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-16T06:05:32.085Z
+! Last modified: 2021-09-16T12:07:24.949Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,7 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
-||unmetalised.com^
+||bourranuncurbs.com^
+||jegrenesen.xyz^
 ||katatalkenna.com^
 ||pocketads.pl^
 ||videosprofitnetwork.com^
@@ -756,7 +757,6 @@
 ||hazardguiltconsulting.com^
 ||jennyunfit.com^
 ||juvenilebind.com^
-||magicianboundary.com^
 ||oldeststrickenambulance.com^
 ||p64gk2yhba0p.com^
 ||popsmoatsilt.com^
@@ -9788,6 +9788,7 @@ vkcdnservice.appspot.com^
 ||madspmz.com^
 ||maebtjn.com^
 ||magazinescontaining.com^
+||magicianboundary.com^
 ||magicianoptimisticbeard.com^
 ||magnificentmanlyyeast.com^
 ||magpiedbareges.com^
@@ -14201,6 +14202,7 @@ vkcdnservice.appspot.com^
 ||unlimited-media.co^
 ||unlockr.com^
 ||unlomblam.pro^
+||unmetalised.com^
 ||unmortalloose.com^
 ||unmovedfollycomb.com^
 ||unoblotto.net^
@@ -23257,6 +23259,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||tim.nextinpact.com^
 ||c*hit.zerkalo.io^
 ||log.enuri.com^
 ||t.451.io^
@@ -27757,7 +27760,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tag.goldenbees.fr^
 ||tag.leadplace.fr^
 ||testcddc.atclouddev.net^
-||tim.nextinpact.com^
 ||tmgr.ccmbg.com^
 ||track.byzon.swelen.net^
 ||track.kyoads.com^
@@ -37731,6 +37733,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wjlzs.cn^
 ||hxfree.vip^
 ||duier.top^
+||cehbs.com^
+||baojiada.vip^
+||jwmfxp.xyz^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
