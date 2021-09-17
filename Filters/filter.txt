@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-17T00:17:55.521Z
+! Last modified: 2021-09-17T06:04:10.298Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5740,6 +5740,7 @@ vkcdnservice.appspot.com^
 ||clutchsavage.com^
 ||clxgmlpfkoj.com^
 ||cm-trk3.com^
+||cm-trk5.com^
 ||cmbestsrv.com^
 ||cmfads.com^
 ||cmllk1.info^
@@ -19597,7 +19598,6 @@ vkcdnservice.appspot.com^
 ||st.onlygip.tech^
 ||analysis.fi^
 .plerdy.com^
-||tracker.plerdy.com^
 ||wtag.estlier.net^
 ||ulclick.ru^
 ||phoenix-widget.com^
@@ -25871,6 +25871,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pipfire.com^
 ||piratepx.com^
 ||pixelpop.co^
+||plerdy.com^
 ||pnstat.com^
 ||podfdch.com^
 ||pointillist.com^
@@ -26063,6 +26064,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trmads.eu^
 ||trmnsite.com^
 ||trs.cn^
+||trstplse.com^
 ||trtl.ws^
 ||truconversion.com^
 ||truoptik.com^
@@ -37746,6 +37748,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stunninglover.com^
 ||watakaw133.xyz^
 ||paluofen.shop^
+||bizhub-cloud.cn^
+||abjjsc.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
