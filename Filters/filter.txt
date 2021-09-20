@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-20T12:07:26.185Z
+! Last modified: 2021-09-20T18:06:20.155Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,16 @@
 !
 ! The rules with hints are at the end of file
 !
+||overlapflintsidenote.com^
+||parlorscenes.com^
+||rndhaunteran.com^
+||routemomentarilydiscovering.com^
+||xdowl0adxd0wnloadx.com^
+||declarationextra.com^
+||shopusuallyvirtue.com^
+||aj2392.online^
+||aj2204.online^
+||onetouch8.info^
 ||nsparket.top^
 ||kidexecha.com^
 ||culmedmaumee.com^
@@ -191,7 +201,6 @@
 ||intentionscommunity.com^
 ||dualizefriskin.com^
 ||alasvow.com^
-||usounoul.com^
 ||phiriaxi.com^
 ||regrcurie.com^
 ||whourgie.com^
@@ -6072,6 +6081,7 @@ vkcdnservice.appspot.com^
 ||copyrightmournfulsalon.com^
 ||copysign.link^
 ||corateencountry.pro^
+||corebelbyrri.com^
 ||corkysound.com^
 ||cornerbut.com^
 ||cornfloweramnesty.com^
@@ -8234,6 +8244,7 @@ vkcdnservice.appspot.com^
 ||govertedlice.club^
 ||goym93w5e7jz.com^
 ||gpcdreunite.casa^
+||gpneofgeo.com^
 ||gprofessiv.top^
 ||gqsgcdcxsmxw.com^
 ||gqtffirr.com^
@@ -9108,6 +9119,7 @@ vkcdnservice.appspot.com^
 ||itineraryupper.com^
 ||itllnww6x277.com^
 ||itnuzleafan.com^
+||itphanpytor.club^
 ||ittorchicer.com^
 ||itweepinbelltor.com^
 ||iu16wmye.com^
@@ -11453,6 +11465,7 @@ vkcdnservice.appspot.com^
 ||outrushfetor.cam^
 ||outsimfat.site^
 ||outslang.com^
+||outsliggooa.com^
 ||outsmoke-niyaxabura.com^
 ||ouzoadru.net^
 ||ovcxvpvdk.com^
@@ -12089,6 +12102,7 @@ vkcdnservice.appspot.com^
 ||princedrainclearance.com^
 ||princided.club^
 ||pringed.space^
+||printmeantime.com^
 ||prioritybeforehand.com^
 ||priorityinvaderinflation.com^
 ||prisedeluge.com^
@@ -14608,6 +14622,7 @@ vkcdnservice.appspot.com^
 ||unattractivefrigilityfrigility.com^
 ||unclemaidenprecise.com^
 ||uncooleserine.cam^
+||uncurstcrumbs.com^
 ||undayblogg.club^
 ||undedfracted.club^
 ||underclick.ru^
@@ -14729,6 +14744,7 @@ vkcdnservice.appspot.com^
 ||ushooque.net^
 ||usingirritatecordial.com^
 ||uslioert.com^
+||usounoul.com^
 ||ustbitsoct.top^
 ||ustingpres.fun^
 ||ustxsntseyhwsx.com^
@@ -15672,6 +15688,7 @@ vkcdnservice.appspot.com^
 ||yincreate.top^
 ||yiopse.com^
 ||yiuilserianaus.club^
+||yiydtredbofv.com^
 ||yjaobumyovp.com^
 ||yjyjnolllezo.com^
 ||ykcoijcfpzda.com^
@@ -21787,7 +21804,6 @@ vkcdnservice.appspot.com^
 ||stat24.com^
 ||stat24.ru^
 ||statcount.com^
-||statcounter.com^
 ||statcounterfree.com^
 ||statcounters.info^
 ||statdb.pressflex.com^
@@ -26058,6 +26074,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||star-cntr-5.com^
 ||stat-track.com^
 ||stat.social^
+||statcounter.com^
 ||staticiv.com^
 ||stats4u.net^
 ||statswebtown.com^
@@ -28229,6 +28246,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||glvczl.com^
 ||kwgefe.com^
 ||contrivenus.com^
 ||g4news.biz^
@@ -33211,6 +33229,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
+||tinkshop.cn^
 ||speedup.cyou^
 ||dj930.cn^
 ||lnhsjob.com^
