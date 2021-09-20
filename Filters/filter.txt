@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-19T12:06:46.777Z
+! Last modified: 2021-09-20T00:17:51.749Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18,9 +18,13 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||culmedmaumee.com^
+||enacttournamentcute.com^
+||h3helgf2g7k8.com^
+||hunchbacktransformation.com^
+||respectivepreservation.com^
 ||590578zugbr8.com^
 ||aloveste.site^
-||amasssentimentaldamaging.com^
 ||amplitudewassnap.com^
 ||amuckstyvain.com^
 ||appointedstereotype.com^
@@ -282,7 +286,6 @@
 ||nettierbrakier.com^
 ||educedsteeped.com^
 ||viralize.tv^
-||medfoodspace.com^
 ||skatestooped.com^
 ||aj1559.online^
 ||cellaraudacityslack.com^
@@ -4331,6 +4334,7 @@ vkcdnservice.appspot.com^
 ||alysson.de^
 ||alythoriticalt.club^
 ||amabadmer.club^
+||amasssentimentaldamaging.com^
 ||amata-syb.com^
 ||amateurcouplewebcam.com^
 ||amaumomt.com^
@@ -37789,12 +37793,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||ningmengshenhuo.com^
-||zzbbjh.cn^
-||guigankj.cn^
-||xhmybanjia.cn^
-||qpzsh.cn^
-||schicksalnvi.cn^
 ||01tn.cn^
 ||027whht.com^
 ||0511qsfhknvz.xyz^
@@ -38594,6 +38592,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||guansenff.cn^
 ||guanxingyule.com^
 ||guideserv.cn^
+||guigankj.cn^
 ||guiyimq.fun^
 ||guoduand.cn^
 ||guoshihuaiyao.com^
@@ -39207,6 +39206,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||niegg.com^
 ||nihao987654.top^
 ||ningbojipiao.com^
+||ningmengshenhuo.com^
 ||ningxiayy.com^
 ||niutaizong.cn^
 ||njcengpianwang.cn^
@@ -39364,6 +39364,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qpdyb.cn^
 ||qpmue.xyz^
 ||qpmztk.cn^
+||qpzsh.cn^
 ||qq2img.com^
 ||qqdashabi.top^
 ||qrhlgdak.cn^
@@ -39436,6 +39437,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sasoo.cn^
 ||sbenx.com^
 ||sbinx.com^
+||schicksalnvi.cn^
 ||scqajt.cn^
 ||scswuliu.com^
 ||sctwny.com^
@@ -39838,6 +39840,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xfya3.cn^
 ||xhct66.com^
 ||xhera.cn^
+||xhmybanjia.cn^
 ||xhtbkh.cn^
 ||xhvljiw.cn^
 ||xiachouchou.com^
@@ -40157,6 +40160,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zyqtc.cn^
 ||zywhjd.com^
 ||zyxwpj.com^
+||zzbbjh.cn^
 ||zzcgw.cn^
 ||zzcharming.top^
 ||zzchuy.cn^
