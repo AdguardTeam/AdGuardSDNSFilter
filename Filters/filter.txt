@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-20T18:06:20.155Z
+! Last modified: 2021-09-21T00:15:28.648Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10174,6 +10174,7 @@ vkcdnservice.appspot.com^
 ||mblgcaczvm.com^
 ||mblink.in^
 ||mblkunfd.com^
+||mbzgogo.xyz^
 ||mcdncoiw.com^
 ||mcdnmv.com^
 ||mcmhatmt.com^
@@ -25483,6 +25484,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||videoplayerhub.com^
 ||wknd.ai^
 ||z0uolej1qnxzub1.info^
+||zoomhead.xyz^
 ! Third-party
 ||123stat.com^
 ||15gifts.com^
@@ -27192,6 +27194,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tm.vendemore.com^
 ||tms.fmm.io^
 ||to.getnitropack.com^
+||tr-op.datatrics.com^
 ||tr.cloud-media.fr^
 ||tr.datatrics.com^
 ||tr.interlake.net^
@@ -27744,6 +27747,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Turkish
 ! Ukranian
 ||mediatraffic.com.ua^
+||znctrack.net^
 ! Vietnamese
 ||contineljs.com^
 
@@ -37846,14 +37850,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||shweiwen.cn^
-||zjcxyh.cn^
-||letong.xyz^
-||fhnhkt.cn^
-||029mxhs.cn^
-||hnsykly.cn^
 ||01tn.cn^
 ||027whht.com^
+||029mxhs.cn^
 ||0511qsfhknvz.xyz^
 ||0517kongyaji.com^
 ||0518dfgwert.xyz^
@@ -38528,6 +38527,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ffupiiv.cn^
 ||ffyyfy.top^
 ||fhlong2000.xyz^
+||fhnhkt.cn^
 ||findx2.info^
 ||fintechpi.com^
 ||first11.cn^
@@ -38762,6 +38762,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hnhgw.cn^
 ||hnjcdjx.com^
 ||hnkuangshan.cn^
+||hnsykly.cn^
 ||hntiantai.cn^
 ||hnwjlhg.cn^
 ||hnxahz.com^
@@ -39073,6 +39074,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lerenzx.cn^
 ||lesanmo.top^
 ||leslieyu.com.cn^
+||letong.xyz^
 ||lexph.com^
 ||leyxue.cn^
 ||lezengxin.com^
@@ -39543,6 +39545,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shua66.vip^
 ||shufan.club^
 ||shunxinyuancaiwu.cn^
+||shweiwen.cn^
 ||signstu.top^
 ||simon184.cn^
 ||sinabuy.cn^
@@ -40174,6 +40177,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zixun8.com^
 ||ziyeaiying.com^
 ||zizcy.com^
+||zjcxyh.cn^
 ||zjjrlx4.com^
 ||zjksgl.com^
 ||zjlfqf.com^
