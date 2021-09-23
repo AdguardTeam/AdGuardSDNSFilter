@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-23T06:06:02.713Z
+! Last modified: 2021-09-23T12:07:36.026Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||kragr.com^
 ||underworldoptical.com^
 ||bybastiodoner.com^
 ||fiorenetwork.com^
@@ -5080,6 +5081,7 @@ vkcdnservice.appspot.com^
 ||ban2mid.com^
 ||ban3mid.com^
 ||ban4mid.com^
+||ban5mid.com^
 ||bananastouching.com^
 ||banbanfun.com^
 ||banclip.com^
@@ -7468,6 +7470,7 @@ vkcdnservice.appspot.com^
 ||enoughts.info^
 ||enrichcouriermagician.com^
 ||ensuedinbornsubdivide.com^
+||entailcurrantreflect.com^
 ||enterads.com^
 ||entertainedshook.com^
 ||entertaininglarge.com^
@@ -7696,6 +7699,7 @@ vkcdnservice.appspot.com^
 ||eyeviewads.com^
 ||eypdcpzrvk.com^
 ||eyzu80g9xcxa.com^
+||ezeraf.com^
 ||ezexfzek.com^
 ||ezhefg9gbhgh10.com^
 ||ezojs.com^
@@ -10378,6 +10382,7 @@ vkcdnservice.appspot.com^
 ||manbragshep.com^
 ||mancehostic.site^
 ||manconsider.com^
+||mandatorycaptaincountless.com^
 ||mandearersi.club^
 ||mandhes.club^
 ||mandistreet.top^
@@ -10605,6 +10610,7 @@ vkcdnservice.appspot.com^
 ||metavertising.com^
 ||metavertizer.com^
 ||methickarda.club^
+||methingeko.xyz^
 ||methingewsf.club^
 ||methinking.club^
 ||methree-salien.icu^
@@ -11640,6 +11646,7 @@ vkcdnservice.appspot.com^
 ||onhusband.top^
 ||online-adnetwork.com^
 ||online-protection-now.com^
+||onlineuserprotector.com^
 ||onlyjugpub.com^
 ||onmarshtompor.com^
 ||onmystems.top^
@@ -13030,6 +13037,7 @@ vkcdnservice.appspot.com^
 ||reacheffectsp.work^
 ||reachmode.com^
 ||reachsowraspberry.com^
+||reactnurseryjoin.com^
 ||readingreflect.com^
 ||readiong.net^
 ||readly-renterval.icu^
@@ -13075,6 +13083,7 @@ vkcdnservice.appspot.com^
 ||recomendedsite.com^
 ||recommendedscenery.com^
 ||recommerdal.club^
+||reconfident.space^
 ||reconsiderallowinggunfire.com^
 ||reconsiderportableself.com^
 ||recontent.website^
@@ -15172,6 +15181,7 @@ vkcdnservice.appspot.com^
 ||unmortalloose.com^
 ||unmovedfollycomb.com^
 ||unoblotto.net^
+||unreasonablecompatibledivorced.com^
 ||unrestchat.com^
 ||unrootpteroid.cam^
 ||unrulymedia.com^
@@ -16122,6 +16132,7 @@ vkcdnservice.appspot.com^
 ||xxxwebtraffic.com^
 ||xyctmmogcv.com^
 ||xygediwe.xyz^
+||xykdglmymu.com^
 ||xyloshewy.pro^
 ||xywdvhd.com^
 ||xyz0k4gfs.xyz^
@@ -16142,6 +16153,7 @@ vkcdnservice.appspot.com^
 ||yapgrubupper.com^
 ||yardr.net^
 ||yashi.com^
+||yasiwngdihnfe.com^
 ||yasmwesikz.com^
 ||yassociallya.club^
 ||yatab.net^
@@ -35038,7 +35050,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||yfot.com.cn^
 ||shijixinrui.cn^
+||xinbo-lora.cn^
+||fjctlnn.top^
+||thallus.net^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -37920,6 +37936,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mcfpsn.xyz^
 ||zhipet.cn^
 ||zzgyly.cn^
+||jcmagnet.com.cn^
+||dryraw.vip^
+||zhixianghuibao.com^
+||geoart.vip^
+||fhthkz.cn^
+||brlnjv.xyz^
 ||01tn.cn^
 ||027whht.com^
 ||029mxhs.cn^
