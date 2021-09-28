@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-27T12:07:21.620Z
+! Last modified: 2021-09-28T00:18:04.341Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,13 @@
 !
 ! The rules with hints are at the end of file
 !
+||ad.foxnetworks.com^
+||adsforfaucets.com^
+||albeitinflame.com^
+||bitcoinad.io^
+||jalewaads.com^
+||ovibospeseta.com^
+||xymusyy.ru^
 ||1f7wwaex9rbh.com^
 ||rowensalmner.com^
 ||attendantsteakfax.com^
@@ -5726,6 +5733,7 @@ vkcdnservice.appspot.com^
 ||butalksuw9dj10.com^
 ||butashasp.site^
 ||butexythe.pro^
+||buttoothbrush.com^
 ||buytieposer.com^
 ||buzzvids-direct.com^
 ||bvahezakk.com^
@@ -6160,6 +6168,7 @@ vkcdnservice.appspot.com^
 ||clevernt.com^
 ||clevv.com^
 ||clfxjrlui.com^
+||cliand.com^
 ||clic2pub.com^
 ||clicadu.com^
 ||click.scour.com^
@@ -7600,6 +7609,7 @@ vkcdnservice.appspot.com^
 ||eosads.com^
 ||eossbuqccjrfs.com^
 ||eotlqwxohyhu.com^
+||eovnezvotrnp.com^
 ||epacash.com^
 ||ependerevid.club^
 ||ephler.com^
@@ -7717,6 +7727,7 @@ vkcdnservice.appspot.com^
 ||eventifiederik.pro^
 ||evergreensame.com^
 ||evergreensignificance.com^
+||everut.com^
 ||everybodynaturedeclaration.com^
 ||everyindus.top^
 ||eveteaemo.com^
@@ -8063,6 +8074,7 @@ vkcdnservice.appspot.com^
 ||fishermanmartial.com^
 ||fistcartyped.casa^
 ||fistofzeus.com^
+||fitcenterz.com^
 ||fitenanews.com^
 ||fitfulrigorous.com^
 ||fiwhibse.com^
@@ -9305,6 +9317,7 @@ vkcdnservice.appspot.com^
 ||ilypsycholasg.club^
 ||imageadvantage.net^
 ||imbetan.info^
+||imcpqxmtlapagng.com^
 ||imediarevenue.com^
 ||imembe.com^
 ||imgfeedget.com^
@@ -9935,6 +9948,7 @@ vkcdnservice.appspot.com^
 ||kmacon.com^
 ||kmbyktnb.com^
 ||kmovuj.com^
+||kmpkedsbdb.com^
 ||kmqkdhqaqt.com^
 ||kmuvaerfumy.com^
 ||kneadbewitch.com^
@@ -10345,6 +10359,7 @@ vkcdnservice.appspot.com^
 ||louchees.net^
 ||loudhoveracute.com^
 ||loudlycorrect.com^
+||louisaprocedureegoism.com^
 ||louloapi.com^
 ||loulouly.net^
 ||loungepatientlyprogramme.com^
@@ -10487,6 +10502,7 @@ vkcdnservice.appspot.com^
 ||mamihlapinatana.xyz^
 ||mammaevict.com^
 ||mammalrussia.com^
+||mamminindues.com^
 ||mamydirect.com^
 ||manageatea.biz^
 ||managemeasuredcypress.com^
@@ -10989,6 +11005,7 @@ vkcdnservice.appspot.com^
 ||motorwaypuffybribery.com^
 ||mottnow.com^
 ||moulieres.xyz^
+||mountries.xyz^
 ||mousescrupulousrow.com^
 ||moutoofa.com^
 ||movad.de^
@@ -15686,6 +15703,7 @@ vkcdnservice.appspot.com^
 ||vpagzcjp.com^
 ||vpdjlprqnt.com^
 ||vpico.com^
+||vpn-offers.com^
 ||vpnlist.to^
 ||vpnrequired.com^
 ||vptbn.com^
@@ -15698,6 +15716,7 @@ vkcdnservice.appspot.com^
 ||vst1ev.com^
 ||vst2mid.com^
 ||vst3mid.com^
+||vst4mid.com^
 ||vstaner.com^
 ||vsteepo.com^
 ||vstet.com^
@@ -16463,6 +16482,7 @@ vkcdnservice.appspot.com^
 ||yxkobelxlljv.com^
 ||yy9s51b2u05z.com^
 ||yydtbpms8tf4.com^
+||yyibqpcg.com^
 ||yyjvimo.com^
 ||yyltlwtic.com^
 ||yzlwuuzzehjh.com^
@@ -16480,6 +16500,7 @@ vkcdnservice.appspot.com^
 ||zaushegi.net^
 ||zayac2volk11.com^
 ||zbdvvwpia.com^
+||zctibmvmbmev.com^
 ||zdajdudqfq.com^
 ||zdaptrksg.com^
 ||zdcuivnen.com^
@@ -19308,6 +19329,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||carts.guru^
 ||analytics.pgncs.notion.so^
 ||seoab.io^
 ||cdn.preciso.net^
@@ -25606,6 +25628,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pixrealm.com^
 ||progmxs.com^
 ||quantserve.com^
+||quickanalytics.ca^
 ||r42tag.com^
 ||rezync.com^
 ||sbgsodufuosmmvsdf.info^
@@ -27574,7 +27597,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics-cdiscount.com^
 ||audiencesquare.com^
 ||browsiprod.com^
-||carts.guru^
 ||casualstat.com^
 ||coll1onf.com^
 ||compteur-fr.com^
@@ -28254,6 +28276,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||cameracaseira.com^
 ||bloco.top^
 ||fireadsone.com^
 ||embedplayerbooyah.com^
@@ -35125,6 +35148,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||a2b3.tk^
+||szshss.com^
+||gxtytj.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -38013,12 +38039,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||ikxcep.xyz^
-||weifengi.xyz^
-||novaleafgroup.cn^
-||tiantianwl.cn^
-||xaqdf.com^
-||bozhu.shop^
+||lfannaifu.cn^
+||tang-feiji.cn^
+||fugka.cn^
+||meirensuan.xyz^
 ||01tn.cn^
 ||027whht.com^
 ||029mxhs.cn^
@@ -38249,6 +38273,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||amghvzn.cn^
 ||amvecurt.cn^
 ||andrewsolicitors.com^
+||angelbaby.store^
 ||anhaochem.com^
 ||anhuigecui.cn^
 ||anqpq.cn^
@@ -38374,6 +38399,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bostonceltics.com.cn^
 ||bowei666.xyz^
 ||boweineng.cn^
+||bozhu.shop^
 ||bqhnj.cn^
 ||bqsm.com.cn^
 ||bridline.cn^
@@ -39037,6 +39063,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ihear123.com^
 ||ihhii.xyz^
 ||iigushi.com^
+||ikxcep.xyz^
 ||imgxb.top^
 ||imiek.com^
 ||importcat.com^
@@ -39502,6 +39529,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nosensor.cn^
 ||notepade.top^
 ||nouzhu.cn^
+||novaleafgroup.cn^
 ||nqfwx.cn^
 ||nshkedu.com^
 ||ntfirstleap.cn^
@@ -39882,6 +39910,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||this-is-living.cn^
 ||tiandihui9450.top^
 ||tianhuafund.cn^
+||tiantianwl.cn^
 ||tieqifeng.com^
 ||timup.top^
 ||tingfengyu.top^
@@ -40024,6 +40053,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||weiboyaya.cn^
 ||weichongyisheng.cn^
 ||weidehuagong.com^
+||weifengi.xyz^
 ||weiguanwang888.com^
 ||weiiii.com^
 ||weijiakeji.top^
@@ -40107,6 +40137,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xahydp.cn^
 ||xamaky.top^
 ||xamiqi.top^
+||xaqdf.com^
 ||xatczs.cn^
 ||xavingtsun.com^
 ||xb011x.cn^
