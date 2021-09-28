@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-28T12:08:07.149Z
+! Last modified: 2021-09-28T18:04:45.197Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11286,6 +11286,7 @@ vkcdnservice.appspot.com^
 ||nbgairiest.com^
 ||nbjmp.com^
 ||nblczw.com^
+||nbnefwuifvp.com^
 ||nboc.xyz^
 ||nbstatic.com^
 ||nbullrusma.top^
@@ -12612,6 +12613,7 @@ vkcdnservice.appspot.com^
 ||pososrhwu2jf8jf09.com^
 ||possepairsad.com^
 ||possessedbrute.com^
+||possiblytoxic.com^
 ||postback.info^
 ||postbacks.net^
 ||postrelease.com^
@@ -15805,6 +15807,7 @@ vkcdnservice.appspot.com^
 ||vltwox7zl7h1wv.com^
 ||vmctzaxkc.com^
 ||vmhzvqzx.com^
+||vmmvqbqgqueh.com^
 ||vmraahnmspzy.com^
 ||vmuid.com^
 ||vn6e8w2w92.com^
@@ -23643,6 +23646,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||player-telemetry.vimeo.com^
 ||tms.oracle.com^
 ||tim.nextinpact.com^
 ||c*hit.zerkalo.io^
@@ -25369,6 +25373,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||line1-log.biligame.net^
 ||log-upload-os.mihoyo.com^
 ||s3-analytics-events.easybrain.com^
 ||mgs123.com^
@@ -35292,9 +35297,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||a2b3.tk^
-||szshss.com^
-||gxtytj.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -35548,6 +35550,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a0c66.com^
 ||a0c77.com^
 ||a0usa.top^
+||a2b3.tk^
 ||a907907.com^
 ||a9377j.com^
 ||aaliyaheartha.com^
@@ -35991,6 +35994,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gxejgs.com^
 ||gxfkkj.com^
 ||gxgzyny.com^
+||gxtytj.com^
 ||gydag.com^
 ||gzduoqicai.cn^
 ||gzktpf.com^
@@ -36668,6 +36672,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||szggdw.com^
 ||szjianxin.net^
 ||szpl0.com^
+||szshss.com^
 ||sztbjs.com^
 ||szwyyl.com^
 ||szxhybj.com^
@@ -37810,6 +37815,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||f1.ichong123.com^
 ||f1.pig66.com^
 ||f1.zaojv.com^
+||f11.hackhome.com^
 ||fanpingbi*.gaokao.com^
 ||fanyi100.com.cn^
 ||ff.guidaye.com^
@@ -38183,10 +38189,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||lfannaifu.cn^
-||tang-feiji.cn^
-||fugka.cn^
-||meirensuan.xyz^
 ||01tn.cn^
 ||027whht.com^
 ||029mxhs.cn^
@@ -38909,6 +38911,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fsxzbs.cn^
 ||fszhxd.com^
 ||fuchuqu.cn^
+||fugka.cn^
 ||fugufeimaotui.cn^
 ||fuhaimuye.cn^
 ||fuligrs.cn^
@@ -39448,6 +39451,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lexph.com^
 ||leyxue.cn^
 ||lezengxin.com^
+||lfannaifu.cn^
 ||lflable.com^
 ||lfsenmei.com^
 ||lfzxcp.com^
@@ -39552,6 +39556,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||me99.club^
 ||medprofile.cn^
 ||meibiisheng.com^
+||meirensuan.xyz^
 ||meishi0554.com^
 ||meiyuedu.vip^
 ||meizhuli365.cn^
@@ -40027,6 +40032,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||taishijian.com^
 ||taixuan.net.cn^
 ||tajxgs.com^
+||tang-feiji.cn^
 ||tangequan.co^
 ||taobso.cn^
 ||taoke.cloud^
