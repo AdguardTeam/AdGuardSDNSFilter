@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-29T12:07:20.129Z
+! Last modified: 2021-09-29T18:05:04.798Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10094,6 +10094,7 @@ vkcdnservice.appspot.com^
 ||krkursist.com^
 ||kronosspell.com^
 ||krouekal.com^
+||ksdqhiaythajdv.com^
 ||ksjrehefupsrkz.com^
 ||kt5850pjz0.com^
 ||ktbhboeaqw.com^
@@ -10337,6 +10338,7 @@ vkcdnservice.appspot.com^
 ||likenessalmosteradicate.com^
 ||lilacdefencelessroyal.com^
 ||liliy9aydje10.com^
+||lilureem.com^
 ||limberkilnman.cam^
 ||limbloyal.com^
 ||limelightcopper.com^
@@ -22626,6 +22628,7 @@ vkcdnservice.appspot.com^
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
 !
+||breakableinsurance.com^
 ||cratecamera.com^
 ||awesomeagreement.com^
 ||whisperingflesh.com^
@@ -23714,7 +23717,6 @@ vkcdnservice.appspot.com^
 ||d3in1te4fdays6.cloudfront.net^
 ||tracker.cdn-moneysmart.com^
 ||monitoring.youronlinechoices.com^
-||1bw7etm93lf.www.woodbrass.com^
 ||t.imgur.com^
 ||counter1.fc2.com^
 ||analyzer*.fc2.com^
@@ -25398,6 +25400,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||torimochi.line-apps.com^
+||appanalysis*.banggood.com^
 ||line1-log.biligame.net^
 ||log-upload-os.mihoyo.com^
 ||s3-analytics-events.easybrain.com^
@@ -28340,7 +28344,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||omt.shinobi.jp^
 ||ranking.apis.sankei-digital.co.jp^
 ||sync.shinobi.jp^
-||torimochi.line-apps.com^
 ||tr.reco.combz.jp^
 ||track.thebase.in^
 ||tracker.520call.me^
@@ -34363,9 +34366,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 24 Sep 2021 20:23 UTC+7
-! Version: 2109242023
-! Blocked: 1,001 rules
+! Last modified: 29 Sep 2021 22:21 UTC+7
+! Version: 2109292221
+! Blocked: 1.001 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
