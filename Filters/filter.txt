@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-09-30T12:07:38.468Z
+! Last modified: 2021-09-30T18:04:51.120Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,15 @@
 !
 ! The rules with hints are at the end of file
 !
+||slowerwave.cyou^
+||thawheek.com^
+||uhmevofiatnjg.xyz^
+||sofinpushpile.com^
+||71213zhazha.com^
+||tickmatureparties.com^
+||bit-ad.com^
+||nearestaxe.com^
+||a0a18dc255.1772c9ffd2.com^
 ||rilins.com^
 ||liddid.com^
 ||antananarbdivu.com^
@@ -45,7 +54,6 @@
 ||shovedrailwaynurse.com^
 ||survivepronate.com^
 ||writsteespas.com^
-||yantrasbarges.com^
 ||zeroethgipsy.com^
 ||mrtbbnr.com^
 ||mcpuwpush.com^
@@ -504,7 +512,6 @@
 ||colorfulads.com^
 ||lovelybingo.com^
 ||adoptum.net^
-||declinedisobey.com^
 ||linkedgraceless.com^
 ||mewyrytu.com^
 ||plqbxvnjxq92.com^
@@ -1499,7 +1506,6 @@
 ||etoads.net^
 ||yximgdpivguxke.com^
 ||antbadani.club^
-||bit-ad.com^
 ||aleapeact.club^
 ||rappenedstoric.info^
 ||apearmark.online^
@@ -3019,7 +3025,6 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
-||dq06u9lt5akr2.cloudfront.net^
 ||asg.faperoni.com^
 ||aa.pornvideotop.com^
 ||ads-partners.coupang.com^
@@ -6818,6 +6823,7 @@ vkcdnservice.appspot.com^
 ||decknetwork.net^
 ||deckthroughout.com^
 ||deckulre.com^
+||declinedisobey.com^
 ||decoctionembedded.com^
 ||decordingaudied.site^
 ||decorseteront.xyz^
@@ -9073,6 +9079,7 @@ vkcdnservice.appspot.com^
 ||homelessfunkenclose.com^
 ||homemadebarricadedialogue.com^
 ||homesicktitanic.com^
+||hometownlow.com^
 ||homeyloanedmes.work^
 ||honeycombastrayabound.com^
 ||honeycombdoggie.com^
@@ -16215,6 +16222,7 @@ vkcdnservice.appspot.com^
 ||yamspunkdew.com^
 ||yankevaxf.com^
 ||yankszapfop.com^
+||yantrasbarges.com^
 ||yapfurniture.com^
 ||yapgrubupper.com^
 ||yardr.net^
@@ -19222,6 +19230,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||ads-website.ytsservice.com^
 ||carts.guru^
 ||analytics.pgncs.notion.so^
 ||seoab.io^
@@ -19527,7 +19536,6 @@ vkcdnservice.appspot.com^
 ||eventapi.libring.com^
 ||tk.promit.ru^
 ||ztest1track.com^
-||phar.gu-web.net^
 ||stats.vk-portal.net^
 ||cws.conviva.com^
 ||event.syndigo.cloud^
@@ -22003,7 +22011,6 @@ vkcdnservice.appspot.com^
 ||trace-2000.com^
 ||trace.events^
 ||tracelytics.com^
-||tracer.jp^
 ||traceworks.com^
 ||track-web.net^
 ||track2.me^
@@ -26173,6 +26180,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tp88trk.com^
 ||tracead.com^
 ||traceless.me^
+||tracer.jp^
 ||track-re01.com^
 ||track-server-100.com^
 ||trackadm.com^
