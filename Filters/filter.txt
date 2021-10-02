@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-02T12:06:49.799Z
+! Last modified: 2021-10-02T18:04:06.818Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,9 @@
 !
 ! The rules with hints are at the end of file
 !
+||2d56d0483a.com^
+||complainfriendshipperry.com^
+||parringepigene.com^
 ||2933448a31.4e39c772dc.com^
 ||slowerwave.cyou^
 ||thawheek.com^
@@ -8996,6 +8999,7 @@ vkcdnservice.appspot.com^
 ||heraldintimidatestipulate.com^
 ||heratheacle.com^
 ||herbaijansob.club^
+||herebyquasipolite.com^
 ||heredeithere.club^
 ||hereditaryductserum.com^
 ||herepackagine.info^
@@ -9404,6 +9408,7 @@ vkcdnservice.appspot.com^
 ||inaudiblecanteen.com^
 ||inboldoreer.com^
 ||incapabledroppingachievement.com^
+||incapablepasswordease.com^
 ||incapablepublicityvolatile.com^
 ||incarcererez.xyz^
 ||incentaclick.com^
@@ -11672,6 +11677,7 @@ vkcdnservice.appspot.com^
 ||ofreadingand.biz^
 ||ofreligionrumble.com^
 ||ofy3m0gp.com^
+||ofyouope.club^
 ||ogaqgazu.com^
 ||ogercron.com^
 ||oggifinogi.com^
@@ -12024,6 +12030,7 @@ vkcdnservice.appspot.com^
 ||pallxylophone.xyz^
 ||palmboilingnonchalance.com^
 ||palpableequanimityshiver.com^
+||pamphletrating.com^
 ||panection.co^
 ||panicshaggy.com^
 ||pantherfaucetchoked.com^
@@ -14372,6 +14379,7 @@ vkcdnservice.appspot.com^
 ||staixemo.com^
 ||stalihuwi.com^
 ||stampseizeidly.com^
+||standinglover.com^
 ||standnizati.fun^
 ||standpointpreparation.com^
 ||stankyrich.com^
@@ -38051,6 +38059,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||libentao.club^
 ||shenhl.top^
 ||asai77.top^
+||gugulm.net^
 ||01tn.cn^
 ||027whht.com^
 ||029mxhs.cn^
