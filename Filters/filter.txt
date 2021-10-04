@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-04T06:05:37.413Z
+! Last modified: 2021-10-04T18:04:21.298Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,11 @@
 !
 ! The rules with hints are at the end of file
 !
+||writeratic.xyz^
+||tonemedia.com^
+||nld0jsg9s9p8.com^
+||instinctiveprotectionso.com^
+||gazitidi.xyz^
 ||strawberryinhabitcell.com^
 ||checkingnotifications.org^
 ||hetaruwg.com^
@@ -329,7 +334,6 @@
 ||videobaba.xyz^
 ||javoyynu.xyz^
 ||growadvertising.com^
-||free.srcdn.xyz^
 ||believegrandpa.com^
 ||peekcogentpope.com^
 ||pbprof.com^
@@ -3028,6 +3032,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||d26adrx9c3n0mq.cloudfront.net^
 ||asg.faperoni.com^
 ||aa.pornvideotop.com^
 ||ads-partners.coupang.com^
@@ -5345,6 +5350,7 @@ vkcdnservice.appspot.com^
 ||belamicash.com^
 ||belaya2shu1ba1.com^
 ||belgradualuna.site^
+||belgrekblackad.com^
 ||belickitungchan.com^
 ||believeduphold.com^
 ||believeicanm.biz^
@@ -5732,6 +5738,7 @@ vkcdnservice.appspot.com^
 ||bubblyalibiappear.com^
 ||bucogrzbgyysen.com^
 ||budapebluest.com^
+||budech.com^
 ||budgetcolt.com^
 ||budvawshes.ru^
 ||buggiesgyronny.com^
@@ -6487,6 +6494,7 @@ vkcdnservice.appspot.com^
 ||conversationsingerof.com^
 ||conversityz.club^
 ||converties.space^
+||convilla.xyz^
 ||convincedsponsorshipenemy.com^
 ||convrse.media^
 ||conyak.com^
@@ -8198,6 +8206,7 @@ vkcdnservice.appspot.com^
 ||fogayeown.com^
 ||fogspubsoapy.com^
 ||foheltou.com^
+||folawn.com^
 ||foldedjoke.com^
 ||folderbunch.com^
 ||foldupbriningjeanne.com^
@@ -9044,6 +9053,7 @@ vkcdnservice.appspot.com^
 ||hiddenlocationpredicate.com^
 ||hidupsoo.com^
 ||higherdebateplume.com^
+||higherincomparablehandicraft.com^
 ||highlightextrahydrogen.com^
 ||highnessbackwardsyuri.com^
 ||highnesssexuallyferment.com^
@@ -10245,6 +10255,7 @@ vkcdnservice.appspot.com^
 ||leopardaddictedenthusiastic.com^
 ||leoyard.com^
 ||lepinsar.com^
+||lepsogoso.com^
 ||lesbianoyster.com^
 ||lesburghmoloki.site^
 ||lessite.pro^
@@ -11371,6 +11382,7 @@ vkcdnservice.appspot.com^
 ||nicksstevmark.com^
 ||nicmitosasm.top^
 ||nicmoomp.net^
+||niecefootagefastest.com^
 ||nielofficieshandl.info^
 ||nieveni.com^
 ||nificincreasi.club^
@@ -12760,6 +12772,7 @@ vkcdnservice.appspot.com^
 ||psairurg.net^
 ||psampabs.net^
 ||psasadupto.com^
+||psasar.com^
 ||psatorsi.com^
 ||psaudous.com^
 ||psaughun.com^
@@ -14590,6 +14603,7 @@ vkcdnservice.appspot.com^
 ||svsub.com^
 ||svyksa.info^
 ||sw2block.com^
+||swacal.com^
 ||swagtraffcom.com^
 ||swan-swan-goose.com^
 ||swarthycorrespond.com^
@@ -14606,6 +14620,7 @@ vkcdnservice.appspot.com^
 ||swithaccura.club^
 ||swoodlander.site^
 ||swoopclusterbeasts.com^
+||swqpfcet.com^
 ||swwpush.com^
 ||sxcwycsbhte.com^
 ||sxuunews.pro^
@@ -16081,6 +16096,7 @@ vkcdnservice.appspot.com^
 ||wmruzfvtg.com^
 ||wndhsykmbe.com^
 ||wndlkj.com^
+||wnllmofqxsziio.com^
 ||wnmalshuld.com^
 ||wnp.com^
 ||wnprot.com^
@@ -16152,6 +16168,7 @@ vkcdnservice.appspot.com^
 ||wrqmkayidop.com^
 ||wsjlbbqemr23.com^
 ||wsknjebphx.com^
+||wsynefadhuli.xyz^
 ||wt2noay3fgjn.com^
 ||wtdome.com^
 ||wtg-ads.com^
@@ -16394,6 +16411,7 @@ vkcdnservice.appspot.com^
 ||yfum.com^
 ||yfzjhvllsioo.com^
 ||yg592gpmrh0q.com^
+||yggcfcirw.xyz^
 ||yggzrdiq.com^
 ||ygnbukywx.com^
 ||ygqukhllchpw.com^
@@ -16436,6 +16454,7 @@ vkcdnservice.appspot.com^
 ||ym8p.net^
 ||ymrseiueff.com^
 ||ymzrrizntbhde.com^
+||ynaxckzmreo.com^
 ||yobihost.com^
 ||yobr.net^
 ||yoc-adserver.com^
@@ -16591,6 +16610,7 @@ vkcdnservice.appspot.com^
 ||zipovoma.com^
 ||zisboombah.net^
 ||zizikagle.com^
+||zizpjdnvkks.com^
 ||zjkypuacaawx.com^
 ||zjo0tjqpm1.com^
 ||zjwwbznpcqhk.com^
@@ -19364,6 +19384,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||eye.rd.services^
 ||analytics.appsbnet.com.br^
 ||logging.prefixbox.com^
 ||ads-website.ytsservice.com^
@@ -22478,6 +22499,7 @@ vkcdnservice.appspot.com^
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
 !
+||scarfsmash.com^
 ||fadewaves.com^
 ||breakableinsurance.com^
 ||cratecamera.com^
@@ -33163,6 +33185,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||pr-agent.jp^
+||ad-paradise.com^
 ||ad.abema.io^
 ||trading-ad.net^
 ||ads.ressp.net^
@@ -34220,8 +34244,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 04 Oct 2021 10:28 UTC+7
-! Version: 2110041028
+! Last modified: 04 Oct 2021 13:46 UTC+7
+! Version: 2110041346
 ! Blocked: 1,002 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -35181,6 +35205,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||lm343.com^
+||xingxingdm.com^
+||tj-yijiajing.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -37321,6 +37348,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||1.xuexili.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -38083,6 +38111,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tryst.net.cn^
 ||yuesenshangmao.cn^
 ||9860775.com^
+||zhongxiangjin.vip^
+||kaocha.net^
+||huojuf.com^
+||hengyisoft.vip^
 ||01tn.cn^
 ||027whht.com^
 ||029mxhs.cn^
