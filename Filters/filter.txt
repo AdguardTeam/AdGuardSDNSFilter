@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-07T00:17:38.149Z
+! Last modified: 2021-10-07T06:05:26.196Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -17711,7 +17711,6 @@ vkcdnservice.appspot.com^
 ||mangoads.net^
 ||marketfly.net^
 ||markethealth.com^
-||marketingautomation.services^
 ||marketleverage.com^
 ||marsads.com^
 ||mcontigo.com^
@@ -20249,6 +20248,7 @@ vkcdnservice.appspot.com^
 ||tgdaudience.com^
 ||quadran.eu^
 ||piwik.pro^
+||marketingautomation.services^
 ||audiens.com^
 ||lift.acquia.com^
 ||osniffer.pro^
@@ -27596,6 +27596,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.badgeville.com^
 ||tracking.brandmentions.com^
 ||tracking.buygoods.com^
+||tracking.chilipiper.com^
 ||tracking.customerly.io^
 ||tracking.drsfostersmith.com^
 ||tracking.drum.io^
@@ -38233,6 +38234,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||686go.cc^
+||kjjzx.cn^
 ||01tn.cn^
 ||027whht.com^
 ||029mxhs.cn^
