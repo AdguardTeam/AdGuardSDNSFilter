@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-06T12:07:41.815Z
+! Last modified: 2021-10-07T00:17:38.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,10 @@
 !
 ! The rules with hints are at the end of file
 !
+||brunettemattersrefused.com^
+||trustedgatetocontent.com^
+||v00ske77693f.com^
+||myezads.com^
 ||adshares.net^
 ||writeratic.xyz^
 ||tonemedia.com^
@@ -25869,6 +25873,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||advalo.com^
 ||adways.com^
 ||adxcel-ec2.com^
+||aff-handler.com^
 ||affilired.com^
 ||afftrack.pro^
 ||agentanalytics.com^
@@ -33840,7 +33845,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||advolution.biz^
 ||advolution.de^
 ||adworx.at^
-||aff-handler.com^
 ||affiliando.com^
 ||affiliates.de^
 ||affilimatch.de^
@@ -37845,6 +37849,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ejunshi.com^
 ||emjs.mkzhan.com^
 ||enennsa.gushiwen.cn^
+||enews10.yxlady.net^
 ||ent1.12584.cn^
 ||ent1.qunchua.cn^
 ||ent1.qunchua.com^
@@ -38228,10 +38233,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||wwyysheng.xyz^
-||sdhuiqian.cn^
-||fxbjg.com^
-||jingdingjy.top^
 ||01tn.cn^
 ||027whht.com^
 ||029mxhs.cn^
@@ -38475,6 +38476,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||anqpq.cn^
 ||anweigongsi.com^
 ||anyihuan.com^
+||anyview.wang^
 ||anyysz.com^
 ||aodepuo.cn^
 ||aoidf3.com^
@@ -38980,6 +38982,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fuxin-tech.com^
 ||fw.zhuaji.org^
 ||fwnetrb.cn^
+||fxbjg.com^
 ||fxfhjs.com^
 ||fxtckg.cn^
 ||fxyg168.com^
@@ -39351,6 +39354,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jindowins.com^
 ||jingcaiedc.cn^
 ||jingdayiyuan.com^
+||jingdingjy.top^
 ||jingxiangyalvji.cn^
 ||jingyazhuangshi.com^
 ||jingyuzuo.top^
@@ -39980,6 +39984,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sdajxz.xyz^
 ||sdalxz.xyz^
 ||sdfjtwp.com^
+||sdhuiqian.cn^
 ||sdweldrobot.cn^
 ||sdytsh.com^
 ||seawayz.com.cn^
@@ -40356,6 +40361,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wuxiap.xyz^
 ||wuyuande.com^
 ||wvcdn.cn^
+||wwyysheng.xyz^
 ||wxbdwj.cn^
 ||wxebgpj.cn^
 ||wxhdwy.com^
@@ -40418,6 +40424,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xingzhu.top^
 ||xinheshengmce.com^
 ||xinqiannv.com^
+||xinshiji.ltd^
 ||xintaizhaoming.com^
 ||xintengfeiyang.info^
 ||xinxbh.cn^
