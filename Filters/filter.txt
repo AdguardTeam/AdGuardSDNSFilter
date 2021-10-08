@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-08T06:05:19.444Z
+! Last modified: 2021-10-08T11:57:13.106Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28633,6 +28633,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||dfnetwork.link^
 ||fodorw.com^
 ||rbtwo.bid^
 ||glvczl.com^
@@ -38279,6 +38280,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d2robot.com.cn^
 ||fx2lh9m.cn^
 ||ytlkmy.cn^
+||imengyoujia.xyz^
+||dgchengyu.xyz^
+||usst.store^
+||suigeng.shop^
+||zuirengou.shop^
+||mmlala.com^
 ||01tn.cn^
 ||027whht.com^
 ||029mxhs.cn^
@@ -40912,6 +40919,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/781
+! Blocked by CNAME we-stats.com
+@@||contents*.00110.citi.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/759
 ! Blocked by CNAME impactradius.com
 @@||goto.walmart.com^|
