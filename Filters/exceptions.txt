@@ -3,6 +3,11 @@
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/783
+@@|adsterra.com^|
+@@|ads.adsterra.com^|
+@@|beta.publishers.adsterra.com^|
+@@|help-advertisers.adsterra.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/781
 ! Blocked by CNAME we-stats.com
 @@||contents*.00110.citi.com^|
