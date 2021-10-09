@@ -3,7 +3,7 @@ name: Build AdGuard DNS filter
 on:
   push:
   schedule:
-    - cron: '0 */6 * * *' # Every hour
+    - cron: '0 */6 * * *' # Every 6th hour
 
 jobs:
   build:
