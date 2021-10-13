@@ -196,7 +196,7 @@
     },
     {
       "name": "EasyList Italy ad servers",
-      "source": "https://hg.adblockplus.org/easylistitaly/raw-file/tip/easylistitaly/easylistitaly_adservers.txt",
+      "source": "https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
@@ -217,7 +217,7 @@
     },
     {
       "name": "EasyList China ad servers",
-      "source": "https://easylist-downloads.adblockplus.org/easylistchina.txt",
+      "source": "https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt",
       "type": "adblock",
       "exclusions": ["/(?!^(\\|\\||@@\\|\\|))^.+/", "$third-party"],
       "transformations": ["RemoveModifiers", "Validate"]
