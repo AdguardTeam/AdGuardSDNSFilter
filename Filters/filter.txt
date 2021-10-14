@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-14T18:04:38.083Z
+! Last modified: 2021-10-14T21:09:17.256Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,8 @@
 !
 ! The rules with hints are at the end of file
 !
+||ckwlurries.com^
+||squozelewing.com^
 ||toonoost.net^
 ||abdittoan.com^
 ||portalisimmo.com^
@@ -19706,6 +19708,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||scupio.net^
 ||t.metrilo.com^
 ||eye.rd.services^
 ||analytics.appsbnet.com.br^
@@ -33786,6 +33789,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
+||pop.wioau.com^
 ||zsyk91.cn^
 ||8jrc564wtf.cn^
 ||tinkshop.cn^
@@ -41187,6 +41191,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://forum.adguard.com/index.php?threads/amplitude-com-blocked.45115
+@@||analytics.amplitude.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/783
 @@|adsterra.com^|
 @@|ads.adsterra.com^|
