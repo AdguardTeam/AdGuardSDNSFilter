@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-15T12:07:46.784Z
+! Last modified: 2021-10-15T18:05:00.409Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,10 @@
 !
 ! The rules with hints are at the end of file
 !
+||fc2ppv.buzz^
+||vddoxukqwh.xyz^
+||ujlvongqbjouubp.xyz^
+||yqanlvekcrfkd.xyz^
 ||ckwlurries.com^
 ||squozelewing.com^
 ||toonoost.net^
@@ -8803,6 +8807,7 @@ vkcdnservice.appspot.com^
 ||gnatneatlyembodiment.com^
 ||gnawinstruct.com^
 ||gneyjsdv.com^
+||gnoyvsielusbi.xyz^
 ||go-rillatrack.com^
 ||go2.global^
 ||go2affise.com^
@@ -10581,6 +10586,7 @@ vkcdnservice.appspot.com^
 ||locationivanstutter.com^
 ||locationsreverenceaid.com^
 ||lockerdomecdn.com^
+||locketamoral.com^
 ||lockgranted.com^
 ||lockhosts.com^
 ||lockingadmitted.com^
@@ -12592,6 +12598,7 @@ vkcdnservice.appspot.com^
 ||pkldrgupis.com^
 ||pktqcr.com^
 ||plaguealacritytwitter.com^
+||plaicecaught.com^
 ||plaicenaive.com^
 ||plainlycradlescalp.com^
 ||plaintfarrel.com^
@@ -14498,6 +14505,7 @@ vkcdnservice.appspot.com^
 ||socksorient.com^
 ||soft-com.biz^
 ||softenedprepare.com^
+||softlygaiety.com^
 ||softspace.mobi^
 ||softwarepastel.com^
 ||soggykaes.com^
@@ -14556,6 +14564,7 @@ vkcdnservice.appspot.com^
 ||sousaira.com^
 ||southene.club^
 ||southvane.com^
+||souvenirsattachedcountenance.com^
 ||souvenirwatery.com^
 ||sovieashlig.club^
 ||soxg.xyz^
@@ -15947,6 +15956,7 @@ vkcdnservice.appspot.com^
 ||vidvas3.com^
 ||vidverto.io^
 ||viency-vering.com^
+||view-flix.com^
 ||viewablemedia.net^
 ||viewclc.com^
 ||viewscout.com^
@@ -16830,7 +16840,6 @@ vkcdnservice.appspot.com^
 ||ypuxlzxa.com^
 ||ypwpzgld.com^
 ||ypymsisnwv.com^
-||yqanlvekcrfkd.xyz^
 ||yqeuu.com^
 ||yqezqofkb1nnmz.com^
 ||yqorexok.xyz^
@@ -16918,6 +16927,7 @@ vkcdnservice.appspot.com^
 ||zeqqvubxtrh.com^
 ||zerezas.com^
 ||zerg.pro^
+||zerodestructive.com^
 ||zeroidtech.com^
 ||zerolullaby.com^
 ||zetadeo.com^
@@ -19728,6 +19738,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||analytics.kkb.com.tr^
 ||scupio.net^
 ||t.metrilo.com^
 ||eye.rd.services^
@@ -33780,7 +33791,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||widget-view.dmm.com^
 ||widget.zenback.jp^
 ||w.zenback.jp^
-
+!
+! For Safari
 !
 ! Source name: AdGuard German filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
@@ -35580,6 +35592,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||sanxiucaiwu.top^
+||51-tour.net^
+||chaoyi4.com^
+||hwanjia.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -38509,6 +38525,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kaafu.cn^
 ||boassistant.com^
 ||acvps.cn^
+||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
 ||029mxhs.cn^
