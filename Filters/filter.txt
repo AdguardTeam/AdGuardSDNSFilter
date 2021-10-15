@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-15T06:05:30.216Z
+! Last modified: 2021-10-15T12:07:46.784Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3224,7 +3224,6 @@ www.llllllllllll.net^
 ||js.bulkhentai.com^
 ! https://github.com/AdguardTeam/AdguardFilters/pull/96908
 ||eb500d5e2b.cf031d45b5.com^
-||08d7882dfc.94bc29639b.com^
 ||b4f91231ab.ea38b1fdc5.com^
 ||9e49ddb45f.48d58df525.com^
 ||4d3ab3ed3a.25a2143174.com^
@@ -3963,6 +3962,7 @@ vkcdnservice.appspot.com^
 ||93aihbjs7bv4.com^
 ||93c82d38a751.com^
 ||944e66f8683ac43c.com^
+||94bc29639b.com^
 ||951e8b9cd72.com^
 ||956b2fb847d.com^
 ||96660970b05417.com^
@@ -4847,6 +4847,7 @@ vkcdnservice.appspot.com^
 ||anothingsev.top^
 ||answeredfluency.com^
 ||antaraimedia.com^
+||antennacountingfloor.com^
 ||antiadblocksystems.com^
 ||anticipatedlying.com^
 ||anticipationbelieved.com^
@@ -5016,6 +5017,7 @@ vkcdnservice.appspot.com^
 ||assignedlikecrawford.com^
 ||assimilatesmartlyawfully.com^
 ||assisteggs.com^
+||associalunb.xyz^
 ||assumptivestation.com^
 ||assurancemercysneak.com^
 ||assuremath.com^
@@ -5919,6 +5921,7 @@ vkcdnservice.appspot.com^
 ||caac1761385.com^
 ||cab-too-low.com^
 ||cabineteen.club^
+||cabnnr.com^
 ||cacfbf85ad2005e4c31.com^
 ||cadfixbig.site^
 ||cadsabs.com^
@@ -5981,6 +5984,7 @@ vkcdnservice.appspot.com^
 ||captivatecustomergentlemen.com^
 ||capultytrese.xyz^
 ||caradstag.casa^
+||caraganaarborescenspendula.com^
 ||carbonads.com^
 ||cardinalimprovementscartrige.com^
 ||cardiwersg.com^
@@ -6452,6 +6456,7 @@ vkcdnservice.appspot.com^
 ||collectrum.com^
 ||colletsopelu.cam^
 ||colliersads.com^
+||colltz.com^
 ||colonialismresolute.com^
 ||colouredcavity.com^
 ||colpursehowl.com^
@@ -6786,6 +6791,7 @@ vkcdnservice.appspot.com^
 ||curriculture.com^
 ||currietory.xyz^
 ||curtisfrierson.com^
+||curtlychit.com^
 ||curveconjure.com^
 ||custodyabsolutiondrawback.com^
 ||cuterbond.com^
@@ -8324,6 +8330,7 @@ vkcdnservice.appspot.com^
 ||flycheapen.com^
 ||fmebili.info^
 ||fmkfzc.com^
+||fmpannkmn.xyz^
 ||fmpub.net^
 ||fmsads.com^
 ||fmsde0dv2j54.com^
@@ -8774,6 +8781,7 @@ vkcdnservice.appspot.com^
 ||glophagh.com^
 ||gloriajunkiebegging.com^
 ||gloriasouvenirtill.com^
+||glossarysack.com^
 ||glotchat.click^
 ||gloumsee.net^
 ||gloviphewhe.com^
@@ -9174,6 +9182,7 @@ vkcdnservice.appspot.com^
 ||hersfatigua.fun^
 ||herwisegim.fun^
 ||hesterinoc.info^
+||hetaint.com^
 ||hetapus.com^
 ||hethereasso.top^
 ||heyad.xyz^
@@ -9204,6 +9213,7 @@ vkcdnservice.appspot.com^
 ||hicpm10.com^
 ||hiddenbucks.com^
 ||hiddenlocationpredicate.com^
+||hidelen.com^
 ||hidupsoo.com^
 ||higherdebateplume.com^
 ||higherincomparablehandicraft.com^
@@ -9533,6 +9543,7 @@ vkcdnservice.appspot.com^
 ||ilusors.com^
 ||ilyf4amifh.com^
 ||imageadvantage.net^
+||imagineposition.com^
 ||imbetan.info^
 ||imcpqxmtlapagng.com^
 ||imediarevenue.com^
@@ -9619,6 +9630,7 @@ vkcdnservice.appspot.com^
 ||inexplicableprayer.com^
 ||inextricableaveragefourteenth.com^
 ||inextricablescope.com^
+||infercapture.com^
 ||infesthazardous.com^
 ||inflationbreedinghoax.com^
 ||inflationmileage.com^
@@ -10229,6 +10241,7 @@ vkcdnservice.appspot.com^
 ||koutobey.net^
 ||kouwheey.net^
 ||kozoysnsx.com^
+||kqimuhkxnh.xyz^
 ||kqpcfthouivgvs.com^
 ||kqpkigli.com^
 ||kqzyfj.com^
@@ -13897,6 +13910,7 @@ vkcdnservice.appspot.com^
 ||rszimg.com^
 ||rtantventu.biz^
 ||rtb-media.me^
+||rtbbnr.com^
 ||rtbidder.net^
 ||rtbnowads.com^
 ||rtbpop.com^
@@ -14474,6 +14488,7 @@ vkcdnservice.appspot.com^
 ||soapproceeding.com^
 ||soawhoaw.com^
 ||sobakapi2sa8la09.com^
+||sobalf.com^
 ||sobatsizniy.com^
 ||soburge.com^
 ||socalledsteadilyeducated.com^
@@ -14497,6 +14512,7 @@ vkcdnservice.appspot.com^
 ||solarmosa.com^
 ||solderplumboverreact.com^
 ||solelylounge.com^
+||solepresumablystrangle.com^
 ||solihullah.info^
 ||solitudeelection.com^
 ||solitudepeeves.com^
@@ -14964,6 +14980,7 @@ vkcdnservice.appspot.com^
 ||tdugvspdnq.com^
 ||teachcoexist.com^
 ||teads.tv^
+||teakreese.com^
 ||teambetaffiliates.com^
 ||tearpilotzoo.com^
 ||tearsatecagey.work^
@@ -15154,6 +15171,7 @@ vkcdnservice.appspot.com^
 ||thursdayfeeemployee.com^
 ||thygrepuwo.pro^
 ||thyoaflucid.com^
+||thypotipu.com^
 ||thywiphegru.com^
 ||ti583.com^
 ||tibacta.com^
@@ -15926,6 +15944,7 @@ vkcdnservice.appspot.com^
 ||vidstorenx.com^
 ||vidvas1.com^
 ||vidvas2.com^
+||vidvas3.com^
 ||vidverto.io^
 ||viency-vering.com^
 ||viewablemedia.net^
@@ -16811,6 +16830,7 @@ vkcdnservice.appspot.com^
 ||ypuxlzxa.com^
 ||ypwpzgld.com^
 ||ypymsisnwv.com^
+||yqanlvekcrfkd.xyz^
 ||yqeuu.com^
 ||yqezqofkb1nnmz.com^
 ||yqorexok.xyz^
@@ -20026,7 +20046,7 @@ vkcdnservice.appspot.com^
 ||4sqt6jq.de^
 ||sprocket-ping.s3.amazonaws.com^
 ||events.launchdarkly.com^
-||eclog*.cafe24.com^
+||eclog*-*.cafe24.com^
 ||tag.goadopt.io^
 ||tag.hariken.co^
 ||tracker.cauly.co.kr^
@@ -28066,6 +28086,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||scupio.com^
 ||tagmanager.cn^
 ||tenmax.io^
+||threatbook.cn^
 ||tomonline-inc.com^
 ||topsem.com^
 ||turtlemobile.com.tw^
@@ -28804,6 +28825,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||brodmn.com^
+||xcec.ru^
+||ssso.ru^
 ||hzucji.com^
 ||0iqiehoa35.ru^
 ||inforuss.site^
@@ -32910,6 +32934,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||dsp-eu.surfy.tech^
 ||lzupkz.com^
 ||ad.tehno-rating.ru^
 ||r.z2.fm^
@@ -38475,6 +38500,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||owghrl6.cn^
+||mm88m.top^
+||abcxs.net^
+||lianjikeji.cn^
+||bian123.icu^
+||huhangkuaiji.cn^
+||kaafu.cn^
+||boassistant.com^
+||acvps.cn^
 ||01tn.cn^
 ||027whht.com^
 ||029mxhs.cn^
