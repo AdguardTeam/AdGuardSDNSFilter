@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-18T06:07:58.005Z
+! Last modified: 2021-10-18T12:07:29.814Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||ugahutoa.com^
 ||creptdeservedprofanity.com^
 ||lukomol.com^
 ||neverthelessdepression.com^
@@ -315,7 +316,6 @@
 ||hunter-hub.com^
 ||a.trk-imps.com^
 ||ocdnmq.com^
-||glamourgreek.com^
 ||reialsoha.biz^
 ||arysignificc.fun^
 ||godfulsiums.com^
@@ -6231,6 +6231,7 @@ vkcdnservice.appspot.com^
 ||choupsee.com^
 ||chpfgx.com^
 ||chpok.pw^
+||chrigm.com^
 ||christingera.site^
 ||christmasporn.top^
 ||chronicads.com^
@@ -8387,6 +8388,7 @@ vkcdnservice.appspot.com^
 ||forced-lose.de^
 ||forcefuldirect.com^
 ||fordpeculiarity.com^
+||foregroundheirloom.com^
 ||foremaneasierperiods.com^
 ||foremangreek.com^
 ||forepresently.com^
@@ -8734,6 +8736,7 @@ vkcdnservice.appspot.com^
 ||glaiwhee.net^
 ||glaixich.net^
 ||glaksads.net^
+||glamourgreek.com^
 ||glandtest.com^
 ||glareart.com^
 ||glaresling.com^
@@ -9512,6 +9515,7 @@ vkcdnservice.appspot.com^
 ||identificationralphrefuel.com^
 ||identifyluckyexactly.com^
 ||idiafix.com^
+||idiarb.com^
 ||idlinz.com^
 ||idownloadgalore.com^
 ||idqhmtgeskkkwr.com^
@@ -10382,6 +10386,7 @@ vkcdnservice.appspot.com^
 ||lasyowayrzgv.com^
 ||lataurir.com^
 ||latest-news.life^
+||lathechevo.com^
 ||latheendsmoo.com^
 ||lativenayl.top^
 ||latterinconvenient.com^
@@ -11367,6 +11372,7 @@ vkcdnservice.appspot.com^
 ||mummyanonymous.com^
 ||mummypepdye.com^
 ||municalwarn.top^
+||mupsytyzu.com^
 ||mupteekr.net^
 ||muqson0kgr.com^
 ||murdenedo.club^
@@ -12523,6 +12529,7 @@ vkcdnservice.appspot.com^
 ||phaurtuh.net^
 ||phauwooz.net^
 ||pheasantcardboardcohort.com^
+||pheasantgobetweenyearbook.com^
 ||phechogofe.com^
 ||phedudug.net^
 ||pheedroh.net^
@@ -12807,6 +12814,7 @@ vkcdnservice.appspot.com^
 ||potatoescollections.com^
 ||potawe.com^
 ||potentiallythrobbinggrotesque.com^
+||potentill3afr5ui7ticosa.com^
 ||potentingaknt.club^
 ||potentingxyr.club^
 ||potentionsdarket.site^
@@ -14578,7 +14586,6 @@ vkcdnservice.appspot.com^
 ||sommons.co^
 ||sonlessmagmata.com^
 ||sonnerie.net^
-||sonobi.com^
 ||sonsitself.com^
 ||soofeest.net^
 ||soonbigo.com^
@@ -14699,6 +14706,7 @@ vkcdnservice.appspot.com^
 ||sproutunfairprovisions.com^
 ||spruceatom.com^
 ||spuezain.com^
+||spyafoepeyddb.xyz^
 ||sq2trk2.com^
 ||sqhneencmysrk.com^
 ||sqnwmwnwok.com^
@@ -15630,6 +15638,7 @@ vkcdnservice.appspot.com^
 ||ucatedcanc.top^
 ||ucdn.website^
 ||ucheephu.com^
+||ucjrmjilkdaudwj.xyz^
 ||udarem.com^
 ||udbvcevablxpk.com^
 ||udiwhryjqdsc.com^
@@ -18360,6 +18369,7 @@ vkcdnservice.appspot.com^
 ||socialreach.com^
 ||socialspark.com^
 ||societingna.info^
+||sonobi.com^
 ||sotuktraffic.com^
 ||speakol.com^
 ||splinky.com^
@@ -19774,6 +19784,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||f.sen.seg.br^
+||stat-feedot.ru^
 ||analytics.kkb.com.tr^
 ||scupio.net^
 ||t.metrilo.com^
@@ -23908,7 +23920,6 @@ vkcdnservice.appspot.com^
 ||commandersact.com^
 ! DataUnlocker
 ||dataunlocker.com^
-||guilt-scratch.ga^
 ! Wizaly
 ||wizaly.com^
 ! Ingenious Technologies
@@ -25233,10 +25244,7 @@ vkcdnservice.appspot.com^
 ||pixel.roymorgan.com^
 ||bdg-analytics.appspot.com^
 ||beacon.walmart.ca^
-||stc.oa.zalo.me^
-||oa-stc.zdn.vn^
 ||store-stc.zdn.vn^
-||stats.zaloapp.com^
 ||static-ads.zaloapp.com^
 ||log.api.zaloapp.com^
 ||stc.store.page.zaloapp.com^
@@ -28877,6 +28885,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||fatlossremedies.com^
 ||brodmn.com^
 ||xcec.ru^
 ||ssso.ru^
@@ -34659,8 +34668,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Oct 2021 17:14 UTC+7
-! Version: 2110091714
+! Last modified: 18 Oct 2021 15:25 UTC+7
+! Version: 2110181525
 ! Blocked: 1,013 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -34815,6 +34824,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||static-addtoany-com.cdn.ampproject.org^
 ||static.accesstrade.vn^
 ||stats.vng.com.vn^
+||stats.zaloapp.com^
 ||subiz-cdn.com^
 ||subiz.com^
 ||subiz.com.vn^
@@ -38556,6 +38566,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||52lty.store^
 ||axfvv.cn^
 ||lszwj.top^
+||eduszft.cn^
+||aliweimeng.top^
+||dblcs.cn^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
