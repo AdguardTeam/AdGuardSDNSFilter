@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-18T12:07:29.814Z
+! Last modified: 2021-10-18T18:04:56.302Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,11 @@
 !
 ! The rules with hints are at the end of file
 !
+||needleworkemmaapostrophe.com^
+||twentyhandful.com^
+||olivcytyspixd.xyz^
+||aduterra.com^
+||glirsoss.com^
 ||ugahutoa.com^
 ||creptdeservedprofanity.com^
 ||lukomol.com^
@@ -6307,6 +6312,7 @@ vkcdnservice.appspot.com^
 ||cleanbrowser.network^
 ||cleaneryelded.site^
 ||cleanmediaads.com^
+||cleanupcokesunny.com^
 ||clear-request.com^
 ||clearac.com^
 ||clearadnetwork.com^
@@ -14614,6 +14620,7 @@ vkcdnservice.appspot.com^
 ||soza6rsz3ezi.com^
 ||spaderonium.com^
 ||spagat.space^
+||spamvariationswithin.com^
 ||spanhamweb.com^
 ||spankswindlewatchman.com^
 ||spannerfragileredhead.com^
@@ -15664,6 +15671,7 @@ vkcdnservice.appspot.com^
 ||ufwpwt.com^
 ||uganod.com^
 ||ugdhsrhcq.com^
+||ugishdff.xyz^
 ||uglycotsjade.casa^
 ||ugmovxfikvhct.com^
 ||ugoupams.com^
@@ -19784,6 +19792,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||permutive.app^
 ||f.sen.seg.br^
 ||stat-feedot.ru^
 ||analytics.kkb.com.tr^
@@ -26093,7 +26102,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nxakpj4ac8gkd53.info^
 ||p2r14.com^
 ||pdflive.org^
-||permutive.app^
 ||pixrealm.com^
 ||progmxs.com^
 ||quantserve.com^
@@ -33249,6 +33257,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 !
 !
+||storj.cloud^
 ||bwcdn.xyz^
 ||wonoddgiris.com^
 ||aj2373.online^
@@ -38569,6 +38578,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eduszft.cn^
 ||aliweimeng.top^
 ||dblcs.cn^
+||haite.xyz^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
