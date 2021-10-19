@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-19T06:05:51.181Z
+! Last modified: 2021-10-19T12:07:54.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4685,6 +4685,7 @@ vkcdnservice.appspot.com^
 ||ajkzd9h.com^
 ||ajrequestion.xyz^
 ||akeasignifica.biz^
+||akielf.com^
 ||akingsslativ.club^
 ||aklglpwljiv.com^
 ||alaccinalcom.top^
@@ -7435,8 +7436,10 @@ vkcdnservice.appspot.com^
 ||duetads.com^
 ||duetgypsyantis.com^
 ||dufibepe.com^
+||dugothitachan.com^
 ||duhhgazz.com^
 ||duhochid.net^
+||dukagrygro.com^
 ||dukirliaon.com^
 ||dulillipupan.com^
 ||dulnarpatro.top^
@@ -8701,6 +8704,7 @@ vkcdnservice.appspot.com^
 ||gfpplflrif.com^
 ||ggafb.com^
 ||ggjcswb4rln4.com^
+||ggkgocbyhut.xyz^
 ||ggkk.xyz^
 ||gglx.me^
 ||ggsfq.com^
@@ -9799,6 +9803,7 @@ vkcdnservice.appspot.com^
 ||irtyvhrthhya.com^
 ||irxqmnmmow.com^
 ||isawaalphol.casa^
+||isdbjvok.xyz^
 ||iseajapicuym.com^
 ||isiblenorm.club^
 ||isingefforta.biz^
@@ -10052,6 +10057,7 @@ vkcdnservice.appspot.com^
 ||jumperdeduction.com^
 ||jumperproprietaryfifth.com^
 ||jumptap.com^
+||junipe3rus4virginiana.com^
 ||junmediadirect.com^
 ||junotherome.com^
 ||jupaubsa.com^
@@ -10215,6 +10221,7 @@ vkcdnservice.appspot.com^
 ||kitrigthy.com^
 ||kittenmilletfoggy.com^
 ||kityko.com^
+||kivaphugri.com^
 ||kiynew.com^
 ||kj2hy.com^
 ||kjbipwznkbtybs.com^
@@ -10240,6 +10247,7 @@ vkcdnservice.appspot.com^
 ||kmqkdhqaqt.com^
 ||kmuvaerfumy.com^
 ||kneadbewitch.com^
+||knedow.com^
 ||kneeansweras.com^
 ||kneelidiotic.com^
 ||kneesfrostcompare.com^
@@ -10565,6 +10573,7 @@ vkcdnservice.appspot.com^
 ||linkonclick.com^
 ||linkredirect.biz^
 ||linkreferral.com^
+||linurk.com^
 ||liofypwnko.com^
 ||liondignify.com^
 ||liongetme.com^
@@ -10799,6 +10808,7 @@ vkcdnservice.appspot.com^
 ||majorgeorgiana.com^
 ||makerangerdistinct.com^
 ||makeupworddisparage.com^
+||makisk.com^
 ||makzidhq.com^
 ||maldini.xyz^
 ||malharpossible.pro^
@@ -11120,6 +11130,7 @@ vkcdnservice.appspot.com^
 ||minimumkilledupdated.com^
 ||minimumpay.info^
 ||minisms.xyz^
+||minismss.xyz^
 ||ministedik.info^
 ||minkglentriumphal.com^
 ||minologyhesia.site^
@@ -16301,6 +16312,7 @@ vkcdnservice.appspot.com^
 ||wbidder.online^
 ||wbidr.com^
 ||wboptim.online^
+||wboux.com^
 ||wcdny.com^
 ||wciivrou.com^
 ||wcmcs.net^
@@ -16879,6 +16891,7 @@ vkcdnservice.appspot.com^
 ||yiopse.com^
 ||yiydtredbofv.com^
 ||yjaobumyovp.com^
+||yjxmijncfaiag.xyz^
 ||yjyjnolllezo.com^
 ||ykbeeweifodyyb.com^
 ||ykcoijcfpzda.com^
@@ -19804,6 +19817,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||tracking.leeep.jp^
+||tracking.parte.com^
 ||permutive.app^
 ||f.sen.seg.br^
 ||stat-feedot.ru^
@@ -35663,6 +35678,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||teresacd.cn^
+||zhisuyunonline.cn^
+||lm665.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -38588,6 +38606,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iklda.cn^
 ||youtome.xyz^
 ||uaxyutpxh.xyz^
+||jufengputao.com^
+||meiweipub.cn^
+||xsspt.vip^
+||getsgroup.cn^
+||chenqinghui.xyz^
+||cnjiudao.cn^
+||cx0001.cn^
+||mnyh.fun^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
