@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-20T00:19:04.737Z
+! Last modified: 2021-10-20T06:05:48.102Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5208,6 +5208,7 @@ vkcdnservice.appspot.com^
 ||azorbe.com^
 ||azpresearch.club^
 ||aztecash.com^
+||azygeydluhz.com^
 ||b014381c95cb.com^
 ||b02byun5xc3s.com^
 ||b07b29ceb5c.com^
@@ -7072,6 +7073,7 @@ vkcdnservice.appspot.com^
 ||deskminkgnu.com^
 ||desolatethings.com^
 ||despisenoughtshit.com^
+||destineddominant.com^
 ||deswhatlike.biz^
 ||detachedbates.com^
 ||detailextentprevail.com^
@@ -7460,6 +7462,7 @@ vkcdnservice.appspot.com^
 ||duxumpou.com^
 ||dvaminusodin.net^
 ||dvitohrrmq.xyz^
+||dvnmyltt.xyz^
 ||dvoyy3qexr.com^
 ||dvtnrwppxk.com^
 ||dvucdnv.com^
@@ -9041,6 +9044,7 @@ vkcdnservice.appspot.com^
 ||gwallet.com^
 ||gwatchestfe.top^
 ||gwoyrhpjeloo.com^
+||gwrstksnxo.xyz^
 ||gwwhheahisrtld.com^
 ||gx101.com^
 ||gxhxmy88.com^
@@ -12671,6 +12675,7 @@ vkcdnservice.appspot.com^
 ||plainwrk.name^
 ||plandiscriminationtakeout.com^
 ||planktab.com^
+||planneddeference.com^
 ||planneradministratorsignify.com^
 ||plannerladyreality.com^
 ||planningflattery.com^
@@ -13525,6 +13530,7 @@ vkcdnservice.appspot.com^
 ||rcvlink.com^
 ||rcvlinks.com^
 ||rddywd.com^
+||rdgfnqakk.com^
 ||rditatehapp.top^
 ||rdowulajr.xyz^
 ||rdrceting.com^
@@ -13954,6 +13960,7 @@ vkcdnservice.appspot.com^
 ||roujonoa.net^
 ||roulediana.com^
 ||rousedmilk.com^
+||roustarlyan.com^
 ||roustast.net^
 ||routeit.one^
 ||routeme.one^
@@ -14292,6 +14299,7 @@ vkcdnservice.appspot.com^
 ||servicegetbook.net^
 ||serving-sys.com^
 ||serving-system.com^
+||servtraff97.com^
 ||seskeu3zk7.com^
 ||setbackrelishdivine.com^
 ||setemoump.com^
@@ -16389,6 +16397,7 @@ vkcdnservice.appspot.com^
 ||welsworn.info^
 ||wengesog.net^
 ||wensoono.com^
+||wentwidespread.com^
 ||weownthetraffic.com^
 ||wepthandbook.com^
 ||weptpremisedefined.com^
@@ -16782,6 +16791,7 @@ vkcdnservice.appspot.com^
 ||xroynaxvqvouy.com^
 ||xrqrpdxqpm.com^
 ||xsrs.com^
+||xsusmtvgvxp.xyz^
 ||xtcfjrwdyga.xyz^
 ||xtmuasvldoiz.com^
 ||xtow.xyz^
@@ -17039,6 +17049,7 @@ vkcdnservice.appspot.com^
 ||zaugroaw.net^
 ||zaushegi.net^
 ||zavrotfro.com^
+||zavunuve.pro^
 ||zayac2volk11.com^
 ||zbdvvwpia.com^
 ||zctibmvmbmev.com^
@@ -34733,9 +34744,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 18 Oct 2021 15:25 UTC+7
-! Version: 2110181525
-! Blocked: 1,013 rules
+! Last modified: 20 Oct 2021 10:45 UTC+7
+! Version: 2110201045
+! Blocked: 1.014 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -34945,6 +34956,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ad.phunuxuavanay.vn^
 ||ad.qtcs.com.vn^
 ||ad.sunflower.vn^
+||ad.vietbao.vn^
 ||ad.vkool.net^
 ||adadmin.headlines.pw^
 ||adapi.tuyensinh247.com^
@@ -38635,6 +38647,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cx0001.cn^
 ||if37.com^
 ||jiayushaiwang.cn^
+||wmgt.xyz^
+||fuzhang.xyz^
+||hbzhurong.cn^
+||kiezohky.xyz^
+||api.abcxs.org^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
