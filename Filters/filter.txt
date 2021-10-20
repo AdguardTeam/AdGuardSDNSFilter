@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-19T18:04:41.583Z
+! Last modified: 2021-10-20T00:19:04.737Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||adsjumbo.com^
 ||needleworkemmaapostrophe.com^
 ||twentyhandful.com^
 ||olivcytyspixd.xyz^
@@ -9400,6 +9401,7 @@ vkcdnservice.appspot.com^
 ||hpljupfyb.com^
 ||hplose.de^
 ||hpuvkfbww.com^
+||hpxlfmddqw.xyz^
 ||hpyjmp.com^
 ||hpyrdr.com^
 ||hpzdwnkb.com^
@@ -10291,6 +10293,7 @@ vkcdnservice.appspot.com^
 ||kouraija.net^
 ||koutobey.net^
 ||kouwheey.net^
+||kpuqwdqsol.xyz^
 ||kqimuhkxnh.xyz^
 ||kqpcfthouivgvs.com^
 ||kqpkigli.com^
@@ -10395,6 +10398,7 @@ vkcdnservice.appspot.com^
 ||landslidechoreloft.com^
 ||lanistaads.com^
 ||lankychaosrun.com^
+||lanternpossibly.com^
 ||lapsefledmayor.com^
 ||laptalesdray.com^
 ||lapypushistyye.com^
@@ -10740,6 +10744,7 @@ vkcdnservice.appspot.com^
 ||luxupcdna.com^
 ||luxupcdnb.com^
 ||luxupcdnc.com^
+||luxuriouspickpocketsmuggle.com^
 ||lvecygampj.com^
 ||lvntekpejrmtb.com^
 ||lvodomo.info^
@@ -11968,6 +11973,7 @@ vkcdnservice.appspot.com^
 ||oeuanvyte.com^
 ||oewdfyhdfq.xyz^
 ||ofdittor.com^
+||ofenge.com^
 ||ofexmskz.com^
 ||offerimage.com^
 ||officular.xyz^
@@ -12519,6 +12525,7 @@ vkcdnservice.appspot.com^
 ||petchesa.net^
 ||petchoch.com^
 ||petfoppew.com^
+||petriekalmias.com^
 ||petsarlaaafru.com^
 ||pettybureaushady.com^
 ||petulantsubordinate.com^
@@ -14012,6 +14019,7 @@ vkcdnservice.appspot.com^
 ||rubiconproject.com^
 ||rubsayprelude.com^
 ||rucegipti.com^
+||rucrop.com^
 ||ruefulspanishresolute.com^
 ||rugrukoca.com^
 ||rujioimped.xyz^
@@ -14047,6 +14055,7 @@ vkcdnservice.appspot.com^
 ||rwlfznyvivh.com^
 ||rwn1sdb4xqa2.com^
 ||rwpads.com^
+||rxrtvynxp.com^
 ||rxthdr.com^
 ||rydresa.info^
 ||ryhastille.info^
@@ -14139,6 +14148,7 @@ vkcdnservice.appspot.com^
 ||saturdayloathe.com^
 ||saub27i3os.com^
 ||sauceheirloom.com^
+||saucepanshakymemorial.com^
 ||saucerharmlessinternational.com^
 ||saucesenseless.com^
 ||saucilytalwood.cam^
@@ -14188,6 +14198,7 @@ vkcdnservice.appspot.com^
 ||sculifinanthools.site^
 ||sculptorshopfiend.com^
 ||sd5doozry8.com^
+||sdfer.xyz^
 ||sdhfbvd.com^
 ||sdkfjxjertertry.com^
 ||sdnihyxlqiws.com^
@@ -15179,6 +15190,7 @@ vkcdnservice.appspot.com^
 ||tfqexqeldxjvet.com^
 ||tfzznclztl.com^
 ||tgpsew.com^
+||tguxiijalpaoggr.xyz^
 ||tgvbwjbnxz.com^
 ||tgxcmcoikpgek.com^
 ||tgzobwoutuwn.com^
@@ -16295,6 +16307,7 @@ vkcdnservice.appspot.com^
 ||wasp-182b.com
 ||wasprenovate.com^
 ||wastedcooperate.com^
+||wastedposterapostrophe.com^
 ||wastesshimssat.world^
 ||watchcensorbully.com^
 ||watchercasketremained.com^
@@ -16471,6 +16484,7 @@ vkcdnservice.appspot.com^
 ||widgetadvertising.biz^
 ||widgetbucks.com^
 ||widvffyokrmlkk.com^
+||wifevini.com^
 ||wifgutjpmqctrx.com^
 ||wigetmedia.com^
 ||wigglecrisis.com^
@@ -16788,6 +16802,7 @@ vkcdnservice.appspot.com^
 ||xvstvids.co^
 ||xvstvids.com^
 ||xvwebllndr.com^
+||xvxxbrzhjunco.com^
 ||xwhtnxakjqrtf.com^
 ||xwktyiydn.com^
 ||xwkxpxili.com^
@@ -16868,6 +16883,7 @@ vkcdnservice.appspot.com^
 ||yesmessenger.com^
 ||yesnexus.com^
 ||yesterdayscancautiously.com^
+||yestole.com^
 ||yfbiwkxjkaw.com^
 ||yfcxzvdyrnp.com^
 ||yfibjzosrqrtmv.com^
@@ -23999,6 +24015,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||analytics.marquiz.ru^
 ||webvitals.luxnet.ua^
 ||counter24.luxnet.ua^
 ||player-telemetry.vimeo.com^
@@ -27196,6 +27213,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aheadmachine.com^
 ||annoyedairport.com^
 ||borderbrush.com^
+||cherriescare.com^
 ||closedcows.com^
 ||confesschairs.com^
 ||consciouscheese.com^
@@ -35688,9 +35706,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||teresacd.cn^
-||zhisuyunonline.cn^
-||lm665.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -36726,6 +36741,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lm335.com^
 ||lm343.com^
 ||lm663.com^
+||lm665.com^
 ||lm995.com^
 ||loclog.cn^
 ||log.interest.mix.sina.com.cn^
@@ -37105,6 +37121,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||techantuijian.com^
 ||tencent.xn--io0a7i^
 ||tequanma.com^
+||teresacd.cn^
 ||tesfw.com^
 ||th-make.com^
 ||th21333.com^
@@ -37482,6 +37499,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhimengweike.com^
 ||zhinengap.com^
 ||zhiong.net^
+||zhisuyunonline.cn^
 ||zhixiuchang.com^
 ||zhizhunbao.top^
 ||zhizones.com^
@@ -38613,17 +38631,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||iklda.cn^
-||youtome.xyz^
-||uaxyutpxh.xyz^
-||jufengputao.com^
-||meiweipub.cn^
-||xsspt.vip^
-||getsgroup.cn^
-||chenqinghui.xyz^
 ||cnjiudao.cn^
 ||cx0001.cn^
-||mnyh.fun^
+||if37.com^
+||jiayushaiwang.cn^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
@@ -39086,6 +39097,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||chengzilte.top^
 ||chenmujiang.com.cn^
 ||chenqi.vip^
+||chenqinghui.xyz^
 ||chexiw.com^
 ||chgdf.cn^
 ||chinaairs.cn^
@@ -39455,6 +39467,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||geoidd.vip^
 ||geomon.top^
 ||gerunsenbo.cn^
+||getsgroup.cn^
 ||gflcsiot.com^
 ||girli.top^
 ||giroud.top^
@@ -39724,6 +39737,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ihear123.com^
 ||ihhii.xyz^
 ||iigushi.com^
+||iklda.cn^
 ||ikxcep.xyz^
 ||ilczz.cn^
 ||imengyoujia.xyz^
@@ -39858,6 +39872,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jsyjwj.com^
 ||jtwlj.cn^
 ||juechenghuanbao.top^
+||jufengputao.com^
 ||juhuandian.com^
 ||julitenj.com^
 ||jullycn.com^
@@ -40103,6 +40118,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||meibiisheng.com^
 ||meirensuan.xyz^
 ||meishi0554.com^
+||meiweipub.cn^
 ||meiyuedu.vip^
 ||meizhuli365.cn^
 ||mendoc.cn^
@@ -40139,6 +40155,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mmlala.com^
 ||mmszxc.top^
 ||mnszpr.cn^
+||mnyh.fun^
 ||mohaijishu.cn^
 ||mokeylife.cn^
 ||monimoni.top^
@@ -40712,6 +40729,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||u98ql6o.top^
 ||uaevivi.top^
 ||uater.cn^
+||uaxyutpxh.xyz^
 ||ubt573.org^
 ||ububyiw6655.xyz^
 ||uc4a.cn^
@@ -40961,6 +40979,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xpxvok.cn^
 ||xqigou.top^
 ||xqygyp.cn^
+||xsspt.vip^
 ||xsyouwei.cn^
 ||xuchangmuying.com^
 ||xuenengyoujiaoyu.com^
@@ -41072,6 +41091,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||youngalsobeautiful.com^
 ||youpukeji.cn^
 ||youshouge513.cn^
+||youtome.xyz^
 ||youweiprint.com^
 ||youxingtx.xyz^
 ||youzhizi.com^
