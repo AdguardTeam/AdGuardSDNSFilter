@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-21T08:38:19.354Z
+! Last modified: 2021-10-21T12:07:51.279Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,10 +16,11 @@
 !
 ! The rules with hints are at the end of file
 !
+||piplep.com^
+||salync.com^
 ||adsjumbo.com^
 ||needleworkemmaapostrophe.com^
 ||twentyhandful.com^
-||olivcytyspixd.xyz^
 ||aduterra.com^
 ||glirsoss.com^
 ||ugahutoa.com^
@@ -27,7 +28,6 @@
 ||lukomol.com^
 ||neverthelessdepression.com^
 ||nothingnightingalejuly.com^
-||akcrdstmn.xyz^
 ||fc2ppv.buzz^
 ||ckwlurries.com^
 ||squozelewing.com^
@@ -120,7 +120,6 @@
 ||kragr.com^
 ||underworldoptical.com^
 ||bybastiodoner.com^
-||fiorenetwork.com^
 ||overlapflintsidenote.com^
 ||parlorscenes.com^
 ||rndhaunteran.com^
@@ -194,7 +193,6 @@
 ||videosprofitnetwork.com^
 ||phhitgjxsit.com^
 ||mujnmhmfhrubzq.com^
-||wovazaix.com^
 ||nomorepecans.com^
 ||phoaraut.com^
 ||bluffyporn.com^
@@ -8282,6 +8280,7 @@ vkcdnservice.appspot.com^
 ||finistentcou.top^
 ||finitiesstaffec.top^
 ||finized.co^
+||fiorenetwork.com^
 ||firefeeder.com^
 ||firescorrelationprodigy.com^
 ||fireworkssetstill.com^
@@ -16623,6 +16622,7 @@ vkcdnservice.appspot.com^
 ||wosork.com^
 ||woundedassurance.com^
 ||wounderfullife.xyz^
+||wovazaix.com^
 ||wowad.xyz^
 ||wowjogsot.com^
 ||wowreality.info^
@@ -25332,7 +25332,6 @@ vkcdnservice.appspot.com^
 ||pixel.roymorgan.com^
 ||bdg-analytics.appspot.com^
 ||beacon.walmart.ca^
-||store-stc.zdn.vn^
 ||static-ads.zaloapp.com^
 ||log.api.zaloapp.com^
 ||stc.store.page.zaloapp.com^
@@ -38671,6 +38670,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stunninglover.com^
 ||watakaw133.xyz^
 ||rjigj.cn^
+||58zj.cc^
+||hdypw.com^
+||sjhl.club^
+||srmdz.vip^
+||youwenzhi.xyz^
+||ynevxkx.cn^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
