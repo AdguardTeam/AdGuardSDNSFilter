@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-21T12:07:51.279Z
+! Last modified: 2021-10-21T17:22:16.680Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||dendranthe4edm7um.com^
 ||piplep.com^
 ||salync.com^
 ||adsjumbo.com^
@@ -7036,7 +7037,6 @@ vkcdnservice.appspot.com^
 ||demoney.club^
 ||demotesusceptible.com^
 ||denbeigemark.com^
-||dendranthe4edm7um.com^
 ||dendrito.name^
 ||denetsuk.com^
 ||denety.com^
@@ -7159,6 +7159,7 @@ vkcdnservice.appspot.com^
 ||dimpuxoh.net^
 ||dinclinx.com^
 ||diningprefixmyself.com^
+||dinnerweather.com^
 ||dinovala.com^
 ||dintrateim.top^
 ||dionax.com^
@@ -14624,6 +14625,7 @@ vkcdnservice.appspot.com^
 ||solderplumboverreact.com^
 ||solelylounge.com^
 ||solepresumablystrangle.com^
+||solideaved.com^
 ||solihullah.info^
 ||solitudeelection.com^
 ||solitudepeeves.com^
@@ -16478,6 +16480,7 @@ vkcdnservice.appspot.com^
 ||whoachoh.com^
 ||whoavaud.net^
 ||whoevercloakroom.com^
+||whoeverfrecklessfrecklesssupper.com^
 ||whohuphi.com^
 ||wholecommonposts.com^
 ||wholefreshposts.com^
@@ -16644,6 +16647,7 @@ vkcdnservice.appspot.com^
 ||wqpoqalozlciw.com^
 ||wretchauraflirt.com^
 ||wretchedchapterdozen.com^
+||wretchedsuperiority.com^
 ||writerredolasy.club^
 ||writerspeechless.com^
 ||writerswhow.biz^
@@ -18046,7 +18050,6 @@ vkcdnservice.appspot.com^
 ||inuxu.co.in^
 ||inviziads.com^
 ||involve.asia^
-||ip-adress.com^
 ||ipraccessie.info^
 ||ipromote.com^
 ||jewishcontentnetwork.com^
@@ -33820,7 +33823,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||okbp.xyz^
 ||primead.jp^
 ||advert.punyu.com^
-||js.blozoo.info^
 ||xxxxxxxx.jp^
 ||act1-1.info^
 ||dis.hogei.info^
@@ -33966,7 +33968,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Section contains list of advertising networks
 !
 ||js.brstke.top^
-||xg.hbcygs518.com^
 ||pxx.tnklrs.cn^
 ||ad.kshuiz.top^
 ||click.xjfatm.top^
@@ -35744,6 +35745,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||hbcygs518.com^
+||tqpay.top^
+||stgowan.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -37909,6 +37913,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||js.yanyue.net^
+||a.hbf23.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
