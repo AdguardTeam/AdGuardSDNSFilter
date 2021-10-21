@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-21T17:22:55.521Z
+! Last modified: 2021-10-21T17:51:52.486Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24041,6 +24041,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||telemetry.malwarebytes.com^
 ||analytics.marquiz.ru^
 ||webvitals.luxnet.ua^
 ||counter24.luxnet.ua^
@@ -41475,6 +41476,7 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||contents*.00110.citi.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/759
 ! Blocked by CNAME impactradius.com
+@@||goto.target.com^|
 @@||goto.walmart.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/743
 @@||citiintl.122.2o7.net^|
