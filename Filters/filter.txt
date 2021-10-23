@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-23T06:05:13.566Z
+! Last modified: 2021-10-23T12:07:19.347Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,11 @@
 !
 ! The rules with hints are at the end of file
 !
+||ib.teicdn.com^
+||denseplatter.com^
+||snickchangesolder.com^
+||wpuivmzqqnad.com^
+||oeitlgqjw.com^
 ||cultergoy.com^
 ||mawmishtrior.com^
 ||arousedskinnyspeeding.com^
@@ -64,7 +69,6 @@
 ||postsupport.net^
 ||rapidantivirus.com^
 ||securesystemguide.com^
-||servicesdrtviceshjgugjgufjfiffjfufjffjfjfjfjfjfjfjjdhgd.azurewebsites.net^
 ||brunettemattersrefused.com^
 ||v00ske77693f.com^
 ||myezads.com^
@@ -3070,6 +3074,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||anti.allcryptoz.net^
 ||tagrec.sphdigital.com^
 ||adimage.sphdigital.com^
 ||creative.sphdigital.com^
@@ -18480,6 +18485,7 @@ vkcdnservice.appspot.com^
 ||sn00.net^
 ||snack-media.com^
 ||sndkorea.co.kr^
+||sni.ps^
 ||snigelweb.com^
 ||so-excited.com^
 ||soagitet.net^
@@ -33763,6 +33769,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||cy-s.click^
+||af-next.com^
 ||pr-agent.jp^
 ||ad-paradise.com^
 ||ad.abema.io^
@@ -34688,6 +34696,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||click.eclk.club^
 ||clickmedia.co.id^
 ||clicks.pipaffiliates.com^
+||compulsivehemisphere.com^
 ||csf.uzone.id^
 ||d01.notifa.info^
 ||d2405b0jymm2dk.cloudfront.net^
@@ -38745,6 +38754,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||9j1y.cn^
 ||qmdllqv.cn^
 ||vluvpdf.cn^
+||syxwj.cn^
+||fengzhilu.cn^
+||9j3a.cn^
+||7caidai.xyz^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
