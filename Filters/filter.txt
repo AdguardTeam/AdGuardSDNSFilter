@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-23T00:18:03.653Z
+! Last modified: 2021-10-23T06:05:13.566Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,8 @@
 !
 ! The rules with hints are at the end of file
 !
+||cultergoy.com^
+||mawmishtrior.com^
 ||arousedskinnyspeeding.com^
 ||bbnfcfrvjs.com^
 ||edvdiuobicc.xyz^
@@ -17251,6 +17253,7 @@ vkcdnservice.appspot.com^
 ||360yield.com^
 ||365sbaffiliates.com^
 ||4affiliate.net^
+||4cinsights.com^
 ||4dsply.com^
 ||7search.com^
 ||888media.net^
@@ -17350,6 +17353,7 @@ vkcdnservice.appspot.com^
 ||adgrid.io^
 ||adgroups.com^
 ||adgrx.com^
+||adhaven.com^
 ||adhese.be^
 ||adhese.com^
 ||adhese.net^
@@ -17538,6 +17542,7 @@ vkcdnservice.appspot.com^
 ||adtecc.com^
 ||adtech.de^
 ||adtechium.com^
+||adtechjp.com^
 ||adtegrity.net^
 ||adtelligent.com^
 ||adteractive.com^
@@ -17637,6 +17642,7 @@ vkcdnservice.appspot.com^
 ||arcadebannerexchange.org^
 ||arcadebanners.com^
 ||arcadechain.com^
+||artsai.com^
 ||assoc-amazon.ca^
 ||assoc-amazon.co.uk^
 ||assoc-amazon.com^
@@ -17811,6 +17817,7 @@ vkcdnservice.appspot.com^
 ||clicktripz.com^
 ||clixco.in^
 ||clixtrac.com^
+||cnnx.io^
 ||cogocast.net^
 ||coguan.com^
 ||coinmedia.co^
@@ -18148,6 +18155,7 @@ vkcdnservice.appspot.com^
 ||mediaffiliation.com^
 ||mediaforce.com^
 ||mediafuse.com^
+||mediaiqdigital.com^
 ||medialand.ru^
 ||mediatarget.com^
 ||mediatraffic.com^
@@ -18538,6 +18546,7 @@ vkcdnservice.appspot.com^
 ||swelen.com^
 ||switchadhub.com^
 ||swoop.com^
+||swpsvc.com^
 ||symbiosting.com^
 ||syndicatedsearchresults.com^
 ||tabunder.com^
@@ -19901,6 +19910,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||hhytrace.sogoucdn.com^
 ||vortex.data.msn.com^
 ||integrations.syncmedia.io^
 ||fbthirdpartypixel.com^
@@ -24076,6 +24086,9 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||log.mix.sina.com.cn^
+||log.sina.cn^
+||sbeacon.sina.com.cn^
 ||track.peavoidud.com^
 ||telemetry.malwarebytes.com^
 ||analytics.marquiz.ru^
@@ -26303,6 +26316,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||anymind360.com^
 ||apextag.com^
 ||api64.com^
+||apolloprogram.io^
 ||appn.center^
 ||appsflyer.com^
 ||aprtn.com^
@@ -26388,6 +26402,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cobaltgroup.com^
 ||coefficy.com^
 ||cognativex.com^
+||cognitivlabs.com^
 ||cohesionapps.com^
 ||coll2onf.com^
 ||collecting.click^
@@ -26448,6 +26463,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||engagemaster.com^
 ||engagio.com^
 ||ensighten.com^
+||entravision.com^
 ||eolcdn.com^
 ||ep4p.com^
 ||escalated.io^
@@ -26556,6 +26572,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iprotrk.com^
 ||iptrack.io^
 ||iqdata.ai^
+||iqm.com^
 ||ironbeast.io^
 ||ithinkthereforeiam.net^
 ||itrac.it^
@@ -26575,6 +26592,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kickfire.com^
 ||km-sea.net^
 ||kmtx.io^
+||knorex.com^
 ||koddi.com^
 ||koji-analytics.com^
 ||kokos.click^
@@ -26942,6 +26960,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||we-stats.com^
 ||web-stat.fr^
 ||webeyez.com^
+||weborama.com^
 ||webstat.fr^
 ||webtrackingservices.com^
 ||webtrafficsource.com^
@@ -27481,6 +27500,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cgicounter.puretec.de^
 ||chanalytics.merchantadvantage.com^
 ||check.deadlinefunnel.com^
+||chicoryapp.com^
 ||cimage.adobe.com^
 ||ck.connatix.com^
 ||click.appinthestore.com^
@@ -33837,7 +33857,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a-i-ad.com^
 ||managedweb.net^
 ||thench.net^
-||adtechjp.com^
 ||bannerfarm.aolp.jp^
 ||koukoku.red^
 ||amaprop.net^
