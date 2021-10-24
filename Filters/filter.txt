@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-23T18:05:06.581Z
+! Last modified: 2021-10-24T00:19:16.655Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18887,7 +18887,6 @@ vkcdnservice.appspot.com^
 ||tillertag-a.akamaihd.net^
 ||track.effiliation.com^
 ||vice-publishers-cdn.vice.com^
-||video-ads.a2z.com^
 ||weby.aaas.org^
 ||widget.searchschoolsnetwork.com^
 ||widget.sellwild.com^
@@ -19298,7 +19297,6 @@ vkcdnservice.appspot.com^
 ||live.hyprmx.com^
 ||marketplace-*.hyprmx.com^
 ||static.hyprmx.com^
-||prod.cm.publishers.advertising.a2z.com^
 ||events-*.op.hicloud.com^
 ||isnssdk.com^
 ||app.adjust.world^
@@ -26176,6 +26174,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
 !
 ! Non-flagged (Generic blocks)
+||a2z.com^
 ||adnext.co^
 ||adrtx.net^
 ||affvantage.com^
@@ -26188,6 +26187,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bydst.com^
 ||cloudwp.io^
 ||czx5eyk0exbhwp43ya.biz^
+||dispatchunique.com^
 ||dm-event.net^
 ||e1e.io^
 ||enthusiastgaming.net^
@@ -38743,19 +38743,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||jsqhh.cn^
-||ai256.top^
-||b6vgame.xyz^
-||23taoke.xyz^
-||b2xy4m.xyz^
-||9j1y.cn^
-||qmdllqv.cn^
-||vluvpdf.cn^
-||syxwj.cn^
-||fengzhilu.cn^
-||9j3a.cn^
-||7caidai.xyz^
-||ydgege.xyz^
+||log57.top^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
@@ -38797,6 +38785,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||201767.cn^
 ||2227q.com^
 ||22qzhao5.cn^
+||23taoke.xyz^
 ||23uuw3.com^
 ||256k.xyz^
 ||258580w.cn^
@@ -38880,6 +38869,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||73cm.com^
 ||76xs.com^
 ||7b6l2j.cn^
+||7caidai.xyz^
 ||7dmf7zl.cn^
 ||7ez4.cn^
 ||7j7jv5.cn^
@@ -38913,6 +38903,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||9c1k.cn^
 ||9d6k.cn^
 ||9e0u.cn^
+||9j1y.cn^
+||9j3a.cn^
 ||9ucm.com^
 ||9xwk68.cn^
 ||9y88.com^
@@ -38960,6 +38952,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ahwczn.cn^
 ||ahylong.cn^
 ||ahzhongzhan.cn^
+||ai256.top^
 ||aibangzs.com^
 ||aifenka.cn^
 ||aiggkj.cn^
@@ -39044,8 +39037,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||axuns.com^
 ||ayun.ltd^
 ||b2b5.net^
+||b2xy4m.xyz^
 ||b32lx7qjk0.cn^
 ||b5mc3.life^
+||b6vgame.xyz^
 ||b6yule.xyz^
 ||bahu.xyz^
 ||baidu2img.com^
@@ -39428,6 +39423,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eiasia.ltd^
 ||eidsign.com.cn^
 ||ejd3q.life^
+||fengzhilu.cn^
+||jsqhh.cn^
+||qmdllqv.cn^
+||syxwj.cn^
+||vluvpdf.cn^
+||ydgege.xyz^
 ||ejeenews.com^
 ||ekhdplgv.cn^
 ||ela42v.xyz^
