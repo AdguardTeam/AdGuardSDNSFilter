@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-25T12:07:58.196Z
+! Last modified: 2021-10-25T18:04:45.708Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,8 @@
 !
 ! The rules with hints are at the end of file
 !
+||berlipurplin.com^
+||madriyelowd.com^
 ||yfetyg.com^
 ||iosuppu.com^
 ||webmontify.com^
@@ -1524,7 +1526,6 @@
 ||buylnk.com^
 ||raigluce.net^
 ||thauftoa.net^
-||richinfo.co^
 ||pushdom.co^
 ||admarket.network^
 ||laratlacrestot.pro^
@@ -9497,6 +9498,7 @@ vkcdnservice.appspot.com^
 ||husktheoretical.com^
 ||hustlereorganizesatin.com^
 ||hutawheglu.com^
+||huuyluwjkyd.xyz^
 ||hvato.info^
 ||hxlswibowjf.com^
 ||hxrylvbm.com^
@@ -10311,6 +10313,7 @@ vkcdnservice.appspot.com^
 ||koijwsixu.com^
 ||kojfsbehrvdui.xyz^
 ||kolerprivals.pro^
+||kolkwi4tzicraamabilis.com^
 ||koncbabae.com^
 ||kontextua.com^
 ||koocash.com^
@@ -13863,6 +13866,7 @@ vkcdnservice.appspot.com^
 ||ricead.com^
 ||richardenlightenfervent.com^
 ||richcatis.com^
+||richinfo.co^
 ||richmedia247.com^
 ||richwebmedia.com^
 ||riderfabric.com^
@@ -14249,6 +14253,7 @@ vkcdnservice.appspot.com^
 ||scuffleredhead.com^
 ||sculifinanthools.site^
 ||sculptorshopfiend.com^
+||scws.xyz^
 ||sd5doozry8.com^
 ||sdfer.xyz^
 ||sdhfbvd.com^
@@ -17073,6 +17078,7 @@ vkcdnservice.appspot.com^
 ||yupfiles.net^
 ||yuppads.com^
 ||yuppyads.com^
+||yuqhtlry.xyz^
 ||yuqnibpyn.com^
 ||yuriaftereleven.com^
 ||yuuykrunvh.com^
@@ -19924,6 +19930,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||api.ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||hhytrace.sogoucdn.com^
 ||vortex.data.msn.com^
 ||integrations.syncmedia.io^
@@ -24100,6 +24107,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||tracker.cdnbye.com^
 ||weblog.hankookilbo.com^
 ||logger.bzu.kr^
 ||metrics.bangbros.com^
@@ -28024,7 +28032,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.yfret.com^
 ||tracker.affiliate.iqoption.com^
 ||tracker.beezup.com^
-||tracker.cdnbye.com^
 ||tracker.data-vp.com^
 ||tracker.financialcontent.com^
 ||tracker.icerocket.com^
@@ -36099,6 +36106,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ad9377.com^
 ||adacgov.cn^
 ||address9.com^
+||adelazanna.com^
 ||adget.cn^
 ||adiniky.com^
 ||adnex.tech^
@@ -36865,6 +36873,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lm343.com^
 ||lm663.com^
 ||lm665.com^
+||lm885.com^
 ||lm995.com^
 ||loclog.cn^
 ||log.interest.mix.sina.com.cn^
@@ -37252,6 +37261,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||thallus.net^
 ||thishare.com^
 ||tiangu99.com^
+||tianii.top^
 ||tianjieleather.com^
 ||tianjiunion.cn^
 ||tianqi777.com^
@@ -38754,16 +38764,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||fdfgf.cc^
-||laiyangalibaba.cn^
-||tpd4.cn^
-||owdfxgc.cn^
-||cbh365.club^
-||shareman.xyz^
-||wangcm01.top^
-||tbl1.cn^
-||tw5k2vc.cn^
-||8o9m.cn^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
@@ -38903,6 +38903,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||8911101.com^
 ||8bnwuz.cn^
 ||8hpay.cn^
+||8o9m.cn^
 ||8yauhcv.cn^
 ||91cy.top^
 ||91funcy.com^
@@ -39176,12 +39177,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||caijingzz.cn^
 ||caiwanhui.top^
 ||caiwuwang.ltd^
+||caiyugang.com^
 ||calculated.cn^
 ||calvfk.cn^
 ||canalandco.com^
 ||caofta.cn^
 ||cathaycentury.com^
 ||cbgyhe.cn^
+||cbh365.club^
 ||cbxe1r.cn^
 ||cbyckdf.cn^
 ||cccfw.vip^
@@ -39445,18 +39448,27 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eiasia.ltd^
 ||eidsign.com.cn^
 ||ejd3q.life^
+||fdfgf.cc^
 ||fengzhilu.cn^
 ||gjohvhf.cn^
 ||guangzhengtwo.top^
 ||huaxiaozhang.club^
 ||hxf1688.xyz^
 ||jsqhh.cn^
+||laiyangalibaba.cn^
 ||log57.top^
 ||n258.cc^
+||owdfxgc.cn^
+||pzsq.xyz^
 ||qmdllqv.cn^
+||shareman.xyz^
 ||syxwj.cn^
+||tbl1.cn^
+||tpd4.cn^
 ||tszhongtianshiji.com^
+||tw5k2vc.cn^
 ||vluvpdf.cn^
+||wangcm01.top^
 ||ydgege.xyz^
 ||z-xiao.xyz^
 ||zhuozhongfangshui.cn^
