@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-25T06:06:31.408Z
+! Last modified: 2021-10-25T12:07:58.196Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,9 @@
 !
 ! The rules with hints are at the end of file
 !
+||yfetyg.com^
+||iosuppu.com^
+||webmontify.com^
 ||ib.teicdn.com^
 ||denseplatter.com^
 ||snickchangesolder.com^
@@ -24097,6 +24100,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||weblog.hankookilbo.com^
+||logger.bzu.kr^
 ||metrics.bangbros.com^
 ||log.mix.sina.com.cn^
 ||log.sina.cn^
@@ -33776,6 +33781,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||velawhagru.com^
 ||cy-s.click^
 ||af-next.com^
 ||pr-agent.jp^
@@ -38751,6 +38757,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fdfgf.cc^
 ||laiyangalibaba.cn^
 ||tpd4.cn^
+||owdfxgc.cn^
+||cbh365.club^
+||shareman.xyz^
+||wangcm01.top^
+||tbl1.cn^
+||tw5k2vc.cn^
+||8o9m.cn^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
