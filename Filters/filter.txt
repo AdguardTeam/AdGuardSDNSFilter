@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-25T18:04:45.708Z
+! Last modified: 2021-10-26T00:17:51.265Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4360,6 +4360,7 @@ vkcdnservice.appspot.com^
 ||adservon.com^
 ||adservr.de^
 ||adservrs.com^
+||adsessionserv.com^
 ||adsfac.eu^
 ||adsfac.net^
 ||adsfac.us^
@@ -10336,7 +10337,6 @@ vkcdnservice.appspot.com^
 ||kqimuhkxnh.xyz^
 ||kqpcfthouivgvs.com^
 ||kqpkigli.com^
-||kqzyfj.com^
 ||krakeshlaja.com^
 ||krdmqluvudizq.com^
 ||krkursist.com^
@@ -21839,6 +21839,7 @@ vkcdnservice.appspot.com^
 ||kontagent.net^
 ||kopsil.com^
 ||kostenlose-counter.com^
+||kqzyfj.com^
 ||krxd.net^
 ||ksyrium0014.com^
 ||kupona.de^
@@ -35834,6 +35835,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||honhon.top^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||008844.cc^
@@ -38764,6 +38766,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||etfuxd.cn^
+||wn052ucd.online^
+||powerchase.online^
+||ke94.com^
+||sgaga.xyz^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
