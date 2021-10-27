@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-27T06:05:46.769Z
+! Last modified: 2021-10-27T12:07:43.906Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,8 @@
 !
 ! The rules with hints are at the end of file
 !
+||bmcdn2.com^
+||dustymural.com^
 ||dpisjtoqmbtuu.xyz^
 ||naptaush.com^
 ||purebusts.com^
@@ -6306,6 +6308,7 @@ vkcdnservice.appspot.com^
 ||cjf25jklrwqt.com^
 ||cjt1.net^
 ||ckjlmqgxy.com^
+||ckmvkzurnd.com^
 ||ckrf1.com^
 ||claimbit.tk^
 ||clairiose.pro^
@@ -6654,6 +6657,7 @@ vkcdnservice.appspot.com^
 ||copyrightaccesscontrols.com^
 ||copyrightmournfulsalon.com^
 ||copysign.link^
+||coqnaoubj.xyz^
 ||corateencountry.pro^
 ||corebelbyrri.com^
 ||cornerbut.com^
@@ -7107,6 +7111,7 @@ vkcdnservice.appspot.com^
 ||deturbcordies.com^
 ||devaluationobserve.com^
 ||devastatingallothallucinate.com^
+||develsdrawal.xyz^
 ||devilspanmute.com^
 ||deviouscoupbrutally.com^
 ||devoidsagacious.com^
@@ -9161,6 +9166,7 @@ vkcdnservice.appspot.com^
 ||hayfatduh.com^
 ||hazelnutshighs.com^
 ||hb-247.com^
+||hbepoqct.xyz^
 ||hbfqcy.com^
 ||hbgwmkydpjmv.com^
 ||hbtzzlcxfijk.com^
@@ -9622,6 +9628,7 @@ vkcdnservice.appspot.com^
 ||immortalsplashslob.com^
 ||immunepine.com^
 ||imounsos.com^
+||imp2aff.com^
 ||impactaffirm.com^
 ||impactlaterhand.com^
 ||impactradius-go.com^
@@ -9807,6 +9814,7 @@ vkcdnservice.appspot.com^
 ||iptautup.com^
 ||iptonaib.net^
 ||iqkfplsez.com^
+||iqzgqivb.com^
 ||iraithiz.com^
 ||irecentlym.club^
 ||iredirect.net^
@@ -10650,6 +10658,7 @@ vkcdnservice.appspot.com^
 ||loanonionbidding.com^
 ||loaphour.com^
 ||lobby-x.eu^
+||lobhtwevnmgpxby.xyz^
 ||loboclick.com^
 ||lobsterunderpantsbooty.com^
 ||local-hot-dates.com^
@@ -11428,6 +11437,7 @@ vkcdnservice.appspot.com^
 ||mumlionslew.com^
 ||mummyanonymous.com^
 ||mummypepdye.com^
+||mumosy.com^
 ||municalwarn.top^
 ||mupsytyzu.com^
 ||mupteekr.net^
@@ -12833,6 +12843,7 @@ vkcdnservice.appspot.com^
 ||popclow.xyz^
 ||popcpm.com^
 ||popearn.com^
+||popeld.com^
 ||pophahwot.com^
 ||popjs.xyz^
 ||poplarmakessouls.com^
@@ -12971,6 +12982,7 @@ vkcdnservice.appspot.com^
 ||premium4kflix.top^
 ||premiumvertising.com^
 ||preonesetro.com^
+||prepareacquitmeaningless.com^
 ||preparecanyonpendulous.com^
 ||preparedtennismissionary.com^
 ||preparesecretary.com^
@@ -14096,6 +14108,7 @@ vkcdnservice.appspot.com^
 ||ruwertur.com^
 ||ruwithough.club^
 ||rvedfxeljxo.com^
+||rvfmqsiyevgao.com^
 ||rvkfiomrjn.com^
 ||rvrpushserv.com^
 ||rvttrack.com^
@@ -15808,6 +15821,7 @@ vkcdnservice.appspot.com^
 ||ularlyinteres.biz^
 ||ularunicalrep.info^
 ||ulcerselfservice.com^
+||ulcgtmglrc.com^
 ||ulfewmgywwxs.xyz^
 ||ulngtppm.com^
 ||ulourgaz.net^
@@ -16594,6 +16608,7 @@ vkcdnservice.appspot.com^
 ||withingsessed.pro^
 ||withinknuko.club^
 ||withough.top^
+||withoughdv.xyz^
 ||withoughstors.club^
 ||withoused.club^
 ||witmorningmuscles.com^
@@ -18836,6 +18851,7 @@ vkcdnservice.appspot.com^
 ||img.mybet.com^
 ||img.promoddl.com^
 ||img.servint.net^
+||inrdeals.com^
 ||karma.mdpcdn.com^
 ||lp.ncdownloader.com^
 ||madisonlogic.com^
@@ -24096,6 +24112,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||tracker.joongang.co.kr^
 ||tracker.77player.xyz^
 ||tracker.cdnbye.com^
 ||weblog.hankookilbo.com^
@@ -38077,7 +38094,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||321.jintang114.org^
 ||360640.com^
 ||39jz.com^
-||4808.jianbihua.com^
+||8961.jianbihua.com^
 ||5.douben8.com^
 ||5.gzfenda.com^
 ||51dengshan.cn^
@@ -38766,6 +38783,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hdsjk.cc^
 ||hgdnd.cc^
 ||tsia1114.top^
+||tba4.cn^
+||maclwangluokeji.cn^
+||hqwrr.cc^
+||hbggcm.com^
+||hhfhgf.cc^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
