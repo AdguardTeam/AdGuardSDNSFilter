@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-28T06:06:34.559Z
+! Last modified: 2021-10-28T12:07:46.918Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,8 @@
 !
 ! The rules with hints are at the end of file
 !
+||woeocbeswhf.xyz^
+||dynssp.com^
 ||medgoodfood.com^
 ||titanads2.com^
 ||bmcdn2.com^
@@ -4094,6 +4096,7 @@ vkcdnservice.appspot.com^
 ||accessorymiddleirresponsible.com^
 ||accessoryoppression.com^
 ||accidentrepeat.com^
+||acckwmhi.com^
 ||acclaimrecommendation.com^
 ||accoladethoroughly.com^
 ||accommodationinfractructuretwo.com^
@@ -6801,6 +6804,7 @@ vkcdnservice.appspot.com^
 ||ctasnet.com^
 ||ctationsfthe.biz^
 ||ctdhylltfighs.com^
+||ctdznwavaouc.com^
 ||ctetgwxrgaldb.xyz^
 ||ctiontouritysh.club^
 ||ctivesprepaired.club^
@@ -6898,6 +6902,7 @@ vkcdnservice.appspot.com^
 ||da-ads.com^
 ||da60995df247712.com^
 ||da6fda11b2b0ba.com^
+||dacebe.com^
 ||dacoloment.pro^
 ||dadhuhram.com^
 ||dadsabz.com^
@@ -10317,6 +10322,7 @@ vkcdnservice.appspot.com^
 ||knxntpsd.com^
 ||koacojus.net^
 ||koaptooh.net^
+||kobggppnos.xyz^
 ||koertf.com^
 ||kogutcho.net^
 ||koijwsixu.com^
@@ -12507,6 +12513,7 @@ vkcdnservice.appspot.com^
 ||pctsrv.com^
 ||pctv.xyz^
 ||pd-news.com^
+||pdfcylsmo.com^
 ||pdmtmribgaqctz.com^
 ||pdn-1.com^
 ||pdn-2.com^
@@ -13178,6 +13185,7 @@ vkcdnservice.appspot.com^
 ||pseptegoti.com^
 ||pseudoreseaux.xyz^
 ||psewhaur.net^
+||pshtrk.com^
 ||psisalte.com^
 ||psitchie.com^
 ||psiwaphado.pro^
@@ -14366,6 +14374,7 @@ vkcdnservice.appspot.com^
 ||separatedcoffin.com^
 ||separatic.club^
 ||separenujilo.club^
+||sepknotting.xyz^
 ||sepox.xyz^
 ||sequestrassent.xyz^
 ||seraton.online^
@@ -14630,6 +14639,7 @@ vkcdnservice.appspot.com^
 ||smac-ad.com^
 ||smallentpation.pro^
 ||smalltiberbridge.com^
+||smanes.com^
 ||smart2cnjuh34jb.com^
 ||smartcharholding.com^
 ||smartlnk.com^
@@ -15813,6 +15823,7 @@ vkcdnservice.appspot.com^
 ||ufvyywlrgpgpyl.com^
 ||ufwpwt.com^
 ||uganod.com^
+||ugcyllrneps.xyz^
 ||ugdhsrhcq.com^
 ||ugishdff.xyz^
 ||uglycotsjade.casa^
@@ -17990,6 +18001,7 @@ vkcdnservice.appspot.com^
 ||fast2earn.com^
 ||feature.fm^
 ||fireflyengagement.com^
+||fireworkadservices.com^
 ||firstimpression.io^
 ||fisari.com^
 ||fixionmedia.com^
@@ -19974,6 +19986,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||fireworkanalytics.com^
 ||t.ltmse.com^
 ||clickbrainiacs.com^
 ||wsapi.master.live^
@@ -24156,6 +24169,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||logtake.weidian.com^
 ||statwup.nimo.tv^
 ||metric.nimo.tv^
 ||ylog.nimo.tv^
@@ -25896,6 +25910,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||msg-intl.qy.net^
 ||log.mgtv.com^
 ||dflow.log.hunantv.com^
+||msg.simeji.me^
 ||msg.simeji.baidu.jp^
 ||log.tiktokv.com^
 ||beacons*.gvt3.com^
@@ -38827,6 +38842,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zcmnffq.cn^
 ||zzkbsm.cn^
 ||fxhfxhf.cc^
+||dcl5.cn^
+||febao.xyz^
+||dhxuiho.cn^
+||wpqsmse.cn^
+||wfeiso.top^
+||wzytop.top^
+||ya-yue.xyz^
+||spscwlw.cn^
+||jnxiacha.cn^
+||zhongte62802.cn^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
