@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-29T06:06:21.379Z
+! Last modified: 2021-10-29T12:07:56.766Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,8 @@
 !
 ! The rules with hints are at the end of file
 !
+||0i0i0i0.com^
+||profield.ddns.net^
 ||neekstore.com^
 ||mellowpresence.com^
 ||tenthsfrumpy.com^
@@ -4669,6 +4671,7 @@ vkcdnservice.appspot.com^
 ||ahumourned.club^
 ||ahwrin88tl.com^
 ||ahzdlvsli.com^
+||aibsubul.net^
 ||aickeeho.com^
 ||aidaigry.com^
 ||aidbaronice.casa^
@@ -5589,6 +5592,7 @@ vkcdnservice.appspot.com^
 ||bigprizesonline.com^
 ||bihamcurchef.cam^
 ||bihexoipaomfjie.xyz^
+||bijayrxkkppm.com^
 ||bikesmodestnotoriety.com^
 ||bikesseafoodchewing.com^
 ||bikrurda.net^
@@ -7665,6 +7669,7 @@ vkcdnservice.appspot.com^
 ||edampeci.com^
 ||edchargina.pro^
 ||edd249a64b.com^
+||ederiorbrit.xyz^
 ||edfsqfaeenij.com^
 ||edfuyyweyz.com^
 ||edgeads.org^
@@ -9504,6 +9509,7 @@ vkcdnservice.appspot.com^
 ||htmuhftnu.com^
 ||httpsecurity.org^
 ||htuczktvwtsf.com^
+||htwaplxv.xyz^
 ||hubbabu2bb8anys09.com^
 ||hublosk.com^
 ||hubmaydaybrow.com^
@@ -10168,6 +10174,7 @@ vkcdnservice.appspot.com^
 ||jvimsppwzizr.com^
 ||jvmrvkhle.com^
 ||jwaiqmifu.com^
+||jwjocqgh.xyz^
 ||jwlbfrmz.com^
 ||jwplayer.space^
 ||jwt8e5vzc1.com^
@@ -10763,6 +10770,7 @@ vkcdnservice.appspot.com^
 ||lorybnfh.com^
 ||losingoldfry.com^
 ||lotteryaffiliates.com^
+||lotupteni.pro^
 ||louchees.net^
 ||loudhoveracute.com^
 ||loudlycorrect.com^
@@ -11728,6 +11736,7 @@ vkcdnservice.appspot.com^
 ||nfkq8jy5db0b.com^
 ||nfqglptm47uc.com^
 ||nfsuj.com^
+||nftvvjpla.com^
 ||ngacorporat.biz^
 ||ngbbpwyrv.com^
 ||ngbmrybpdtt.com^
@@ -11741,6 +11750,7 @@ vkcdnservice.appspot.com^
 ||ngsbeautio.fun^
 ||ngudjtrdcfwwn.com^
 ||ngumyydbupv.com^
+||ngxdyxhdkx.xyz^
 ||nhnuofzjh.com^
 ||nhpfvdlbjg.com^
 ||nhqxzqvkj.com^
@@ -12713,6 +12723,7 @@ vkcdnservice.appspot.com^
 ||phoapsoo.com^
 ||phoaptee.net^
 ||phokukse.com^
+||phoneboothslender.com^
 ||phonefilamentembarrassment.com^
 ||phoobsoo.net^
 ||phoodsom.net^
@@ -13984,6 +13995,7 @@ vkcdnservice.appspot.com^
 ||riokl.com^
 ||riousstylegui.biz^
 ||riowrite.com^
+||ripelm.com^
 ||ripplead.com^
 ||rips.icu^
 ||riptukri.net^
@@ -14595,6 +14607,7 @@ vkcdnservice.appspot.com^
 ||sillpotentialventilator.com^
 ||sillrochester.com^
 ||sillyflowermachine.com^
+||siluge.com^
 ||silversomewhatbudget.com^
 ||simpan.online^
 ||simpletraffic.co^
@@ -15993,6 +16006,7 @@ vkcdnservice.appspot.com^
 ||untiloutrage.com^
 ||untimburra.com^
 ||untripemegrez.casa^
+||untruehypothesiseconomy.com^
 ||untruewring.com^
 ||unumbonum.com^
 ||unwillingcalumny.com^
@@ -16956,6 +16970,7 @@ vkcdnservice.appspot.com^
 ||xrqrpdxqpm.com^
 ||xsrs.com^
 ||xsusmtvgvxp.xyz^
+||xsvvmrhjztro.com^
 ||xtcfjrwdyga.xyz^
 ||xtmuasvldoiz.com^
 ||xtow.xyz^
@@ -38891,6 +38906,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||fkhfk.cn^
+||dzd9.cn^
+||hello211.top^
+||8t100.cn^
+||yingxunkeji.net^
+||wuzefei.top^
+||cxzgdse.cn^
+||xzcvfdwe.cn^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
