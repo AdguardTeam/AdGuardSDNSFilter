@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-30T12:07:04.311Z
+! Last modified: 2021-10-30T18:04:33.360Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,11 @@
 !
 ! The rules with hints are at the end of file
 !
+||disorganizedsweatymash.com^
+||tendencyexcavatornook.com^
+||t.nvidpn.com^
+||htranldpkzgx.com^
+||bgaxgjre.xyz^
 ||0i0i0i0.com^
 ||profield.ddns.net^
 ||neekstore.com^
@@ -26,9 +31,7 @@
 ||securecd-smnd.com^
 ||rycuvaphy.com^
 ||assistedadultrib.com^
-||beamingworked.com^
 ||bionicskamsins.com^
-||wordennutcake.com^
 ||usuler.com^
 ||haubar.com^
 ||xbxhulfp.xyz^
@@ -116,7 +119,6 @@
 ||complainfriendshipperry.com^
 ||parringepigene.com^
 ||slowerwave.cyou^
-||thawheek.com^
 ||uhmevofiatnjg.xyz^
 ||sofinpushpile.com^
 ||71213zhazha.com^
@@ -186,7 +188,6 @@
 ||aspirantsleepover.com^
 ||bcprm.com^
 ||breakdownreprintsentimental.com^
-||boozingtawney.com^
 ||c44wergiu87heghoconutdx.com^
 ||caressleazy.com^
 ||commercialdamagingmuffin.com^
@@ -646,7 +647,6 @@
 ||qwtomdpb.com^
 ||voylbgutpjcmcm.com^
 ||ritinginresp.fun^
-||d1esebcdm6wx7j.cloudfront.net^
 ||consultingeastrubber.com^
 ||ttyvdilxsuorg.com^
 ||rehearsaltoxicmishandle.com^
@@ -5451,6 +5451,7 @@ vkcdnservice.appspot.com^
 ||beaconacceptable.com^
 ||beakdragon.com^
 ||beakedpissod.com^
+||beamingworked.com^
 ||beastlyaccomplished.com^
 ||beatconfessteddy.com^
 ||beaterspatrick.com^
@@ -5510,6 +5511,7 @@ vkcdnservice.appspot.com^
 ||benonblkd.xyz^
 ||benoopto.com^
 ||beonixom.com^
+||beparaspr.com^
 ||bephamema.com^
 ||bepiletussar.casa^
 ||berningbegi.club^
@@ -5769,6 +5771,7 @@ vkcdnservice.appspot.com^
 ||bootstrap-js.com^
 ||bootstraplugin.com^
 ||bootsuserstruthful.com^
+||boozingtawney.com^
 ||bop-bop-bam.com^
 ||bopohsage.com^
 ||boptal.com^
@@ -15406,6 +15409,7 @@ vkcdnservice.appspot.com^
 ||thatitgivesm.biz^
 ||thaudray.com^
 ||thaveksi.net^
+||thawheek.com^
 ||theadgateway.com^
 ||theapple.site^
 ||theationopo.club^
@@ -16078,6 +16082,7 @@ vkcdnservice.appspot.com^
 ||urlads.net^
 ||urldelivery.com^
 ||urmilan.info^
+||urmyvglnxrjwmlq.xyz^
 ||urnkawsxxh.com^
 ||urokcwwzno.com^
 ||urotenukna.xyz^
@@ -16804,6 +16809,7 @@ vkcdnservice.appspot.com^
 ||woovooza.net^
 ||woowhaiz.net^
 ||woqkhzpu.com^
+||wordennutcake.com^
 ||woredi.com^
 ||workedlew.top^
 ||workplacehorse.com^
@@ -16885,6 +16891,7 @@ vkcdnservice.appspot.com^
 ||wwyfcalkqahi.com^
 ||wwzacuiecwaz.com^
 ||wxspfkln.com^
+||wxwkgxnemw.xyz^
 ||wxyn0o3xmora.com^
 ||wyfxgvxxi.xyz^
 ||wyliswbimeotllt.xyz^
@@ -19098,6 +19105,7 @@ vkcdnservice.appspot.com^
 ||d1diqetif5itzx.cloudfront.net^
 ||d1e28xq8vu3baf.cloudfront.net^
 ||d1ebha2k07asm5.cloudfront.net^
+||d1esebcdm6wx7j.cloudfront.net^
 ||d1ev866ubw90c6.cloudfront.net^
 ||d1f05vr3sjsuy7.cloudfront.net^
 ||d1fs2ef81chg3.cloudfront.net^
@@ -20768,7 +20776,6 @@ vkcdnservice.appspot.com^
 ||ubiquitousyard.com^
 ||i.compendium.com^
 ||statsp.fpop.net^
-||micpn.com^
 ||conductrics.com^
 ||zorosrv.com
 ||api.cazamba.com^
@@ -26847,6 +26854,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metricode.com^
 ||metricool.com^
 ||miadates.com^
+||micpn.com^
 ||mixi.mn^
 ||mkt6333.com^
 ||ml-attr.com^
@@ -38957,6 +38965,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zgystsd.com^
 ||0434j.cn^
 ||cxqblog.xyz^
+||0rharmqc.cn^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
