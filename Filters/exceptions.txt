@@ -3,6 +3,8 @@
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/797
+@@||r.sascdn.com^|
 ! https://forum.adguard.com/index.php?threads/amplitude-com-blocked.45115
 @@||analytics.amplitude.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/783
