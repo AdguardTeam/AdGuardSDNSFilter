@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-31T12:07:58.856Z
+! Last modified: 2021-10-31T18:04:40.916Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,9 @@
 !
 ! The rules with hints are at the end of file
 !
+||heaplap.com^
+||luzulabeguile.com^
+||gdufpjrhran.com^
 ||t.prpbnt.com^
 ||t.prpbns.com^
 ||disorganizedsweatymash.com^
@@ -85,7 +88,6 @@
 ||portalisimmo.com^
 ||eagath.com^
 ||hunoso.com^
-||accompliceexpressingpug.com^
 ||stimulateartificial.com^
 ||elementalantecedent.com^
 ||stickervillain.com^
@@ -276,7 +278,6 @@
 ||oncerensky.cam^
 ||awfulporetroys.casa^
 ||enquiryplewch.cam^
-||woujoami.com^
 ||asgorebysschan.com^
 ||sodallay.com^
 ||hadesleta.com^
@@ -4119,6 +4120,7 @@ vkcdnservice.appspot.com^
 ||accoladethoroughly.com^
 ||accommodationinfractructuretwo.com^
 ||accompared.club^
+||accompliceexpressingpug.com^
 ||accomplishmentformation.com^
 ||accordprybreathe.com^
 ||accountryft.xyz^
@@ -16402,6 +16404,7 @@ vkcdnservice.appspot.com^
 ||vkjmljhcdn.com^
 ||vknrfwwxhxaxupqp.pro^
 ||vlitag.com^
+||vlnk.me^
 ||vloudsze.com^
 ||vlrzhoueyoxw.com^
 ||vltwox7zl7h1wv.com^
@@ -16870,6 +16873,7 @@ vkcdnservice.appspot.com^
 ||worthlessjeepphysician.com^
 ||worthyadvertising.com^
 ||wosork.com^
+||woujoami.com^
 ||woundedassurance.com^
 ||wounderfullife.xyz^
 ||wovazaix.com^
@@ -19037,6 +19041,7 @@ vkcdnservice.appspot.com^
 ||etrader.kalahari.com^
 ||etrader.kalahari.net^
 ||gateway.fortunelounge.com^
+||geobanner.friendfinder.com^
 ||get.cryptobrowser.site^
 ||get.davincisgold.com^
 ||get.paradise8.com^
@@ -39012,6 +39017,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d-star.xyz^
 ||xdfgrew.cn^
 ||xxw777.cn^
+||engpeng.cn^
+||zongjiangd.top^
+||myyuye.club^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
