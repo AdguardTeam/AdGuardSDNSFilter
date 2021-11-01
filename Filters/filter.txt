@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-01T06:06:29.908Z
+! Last modified: 2021-11-01T12:08:00.842Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11,6 +11,15 @@
 ! Source name: AdGuard Base filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
 !
+!
+! Section contains list of advertising networks
+!
+! The rules with hints are at the end of file
+!
+||fadverdirect.com^
+||elxont.com^
+||adsparc.com^
+||captcha-smart.top^
 ||lifrim.com^
 ||jigred.com^
 ||heaplap.com^
@@ -6585,6 +6594,7 @@ vkcdnservice.appspot.com^
 ||commissionkings.ag^
 ||commissionlounge.com^
 ||committeecoffeebad.com^
+||commonplacelion.com^
 ||commonvivacious.com^
 ||communityi.biz^
 ||comorw.com^
@@ -6629,6 +6639,7 @@ vkcdnservice.appspot.com^
 ||conduit-banners.com^
 ||conduit-services.com^
 ||conferencesing.com^
+||confessionreverse.com^
 ||confirmlyr.xyz^
 ||confiscatecardboard.com^
 ||conflictslashact.com^
@@ -7111,6 +7122,7 @@ vkcdnservice.appspot.com^
 ||deliverymodo.com^
 ||deloplen.com^
 ||deltoidviragin.com^
+||deludebalk.com^
 ||deludesobbingdeliberately.com^
 ||delusionrather.com^
 ||delvechoir.com^
@@ -7468,6 +7480,7 @@ vkcdnservice.appspot.com^
 ||dprtb.com^
 ||dpstack.com^
 ||dpypzvjarj.com^
+||dqbtlylnujxuoo.com^
 ||dqbwqzkajkuif.com^
 ||dquanticw.top^
 ||dqulcczd.com^
@@ -8265,6 +8278,7 @@ vkcdnservice.appspot.com^
 ||fe7qygqi2p2h.com^
 ||fe95a992e6afb.com^
 ||feadrope.net^
+||fearfuldiscoverlads.com^
 ||fearlessmigrantstate.com^
 ||fearpeaceoversight.com^
 ||fearsomeclients.com^
@@ -9318,6 +9332,7 @@ vkcdnservice.appspot.com^
 ||heraldintimidatestipulate.com^
 ||heratheacle.com^
 ||herbaijansob.club^
+||herbalcircumstantial.com^
 ||herebyquasipolite.com^
 ||heredeithere.club^
 ||hereditaryductserum.com^
@@ -10963,6 +10978,7 @@ vkcdnservice.appspot.com^
 ||majorgeorgiana.com^
 ||makerangerdistinct.com^
 ||makeupworddisparage.com^
+||makipsuki.pro^
 ||makisk.com^
 ||makzidhq.com^
 ||maldini.xyz^
@@ -11051,6 +11067,7 @@ vkcdnservice.appspot.com^
 ||mation.xyz^
 ||mationen.club^
 ||matiro.com^
+||matrimonyfiles.com^
 ||matswhyask.cam^
 ||mattempts.info^
 ||maturescream.com^
@@ -11432,6 +11449,7 @@ vkcdnservice.appspot.com^
 ||montpdp.top^
 ||montwam.top^
 ||monumenteducategem.com^
+||monumentfake.com^
 ||monxserver.com^
 ||mooantink.com^
 ||moochescramper.com^
@@ -11697,6 +11715,7 @@ vkcdnservice.appspot.com^
 ||ndihjiyeo.com^
 ||ndikvccwz.com^
 ||nditlookslike.biz^
+||ndlobvsnyfk.xyz^
 ||neads.delivery^
 ||neathsmik.top^
 ||nebadu.com^
@@ -12229,6 +12248,7 @@ vkcdnservice.appspot.com^
 ||omcis-news3.online^
 ||omedcam.biz^
 ||omenreally.com^
+||omeroyoccu.xyz^
 ||omg2.com^
 ||omgpm.com^
 ||omisingcur.fun^
@@ -12549,6 +12569,7 @@ vkcdnservice.appspot.com^
 ||paraterinchest.site^
 ||parcelcommitted.com^
 ||parchmentwhale.com^
+||pardnergam.com^
 ||parentful.club^
 ||parflushfeet.com^
 ||paripartners.ru^
@@ -12863,6 +12884,7 @@ vkcdnservice.appspot.com^
 ||plainwrk.name^
 ||plandiscriminationtakeout.com^
 ||planetheldpiggy.com^
+||planknutshell.com^
 ||planktab.com^
 ||planneddeference.com^
 ||planneradministratorsignify.com^
@@ -16514,6 +16536,7 @@ vkcdnservice.appspot.com^
 ||vvcharuaxlsazx.com^
 ||vvyhhrjigq.com^
 ||vwgilkky.com^
+||vwraggcs.xyz^
 ||vwuyuahqf.com^
 ||vxhmytfndmqko.com^
 ||vxrpmslex.com^
@@ -16584,6 +16607,7 @@ vkcdnservice.appspot.com^
 ||watchesbrow.com^
 ||watchingthat.com^
 ||watchingthat.net^
+||watchtaro.com^
 ||watgzh.com^
 ||waugeboa.net^
 ||waugique.net^
@@ -20150,6 +20174,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||oremark.com^
 ||cbt.whatcounts.net^
 ||fireworkanalytics.com^
 ||t.ltmse.com^
@@ -23280,6 +23305,7 @@ vkcdnservice.appspot.com^
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
 !
+||rabbitrifle.com^
 ||cherriescare.com^
 ||conditionchange.com^
 ||scarfsmash.com^
@@ -24335,6 +24361,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||buf.lemonde.fr^
 ||df.tanx.com^
 ||ems.youku.com^
 ||logtake.weidian.com^
@@ -26075,6 +26102,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||hibiki-track.logica.bz^
 ||msg-intl.qy.net^
 ||log.mgtv.com^
 ||dflow.log.hunantv.com^
@@ -35134,7 +35162,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ads.zdn.vn^
 ||adsbanner.game.zing.vn^
 ||adsota.com^
-||adsparc.com^
 ||adsplay.net^
 ||adsplay.xyz^
 ||adstracking.apps.zing.vn^
@@ -36081,6 +36108,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||trisn.top^
+||ai36588.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -39024,6 +39052,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||caicj.club^
 ||zongjiangc.top^
 ||tework.cn^
+||k7ab5n4.cn^
+||remehealth.net^
+||mjzsw.vip^
+||895cje7.cn^
+||mnsd.xyz^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
