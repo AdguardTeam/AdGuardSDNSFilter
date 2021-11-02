@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-02T12:08:17.258Z
+! Last modified: 2021-11-02T18:05:15.001Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5820,6 +5820,7 @@ vkcdnservice.appspot.com^
 ||boxofficecounselling.com^
 ||boylesportsreklame.com^
 ||boyughaye.com^
+||bpqqccopjuat.com^
 ||bptracking.com^
 ||bqcgrwahvuapq.com^
 ||bqiovml.com^
@@ -8843,6 +8844,7 @@ vkcdnservice.appspot.com^
 ||ghargh.com^
 ||gharnt.com^
 ||ghcncwmm.com^
+||ghkjnrgqmmoa.xyz^
 ||ghsmfmjcicgup.com^
 ||ghyklxvleas.xyz^
 ||giantaffiliates.com^
@@ -15658,6 +15660,7 @@ vkcdnservice.appspot.com^
 ||titoaktop.com^
 ||tivibyca.com^
 ||tiznmktqel.com^
+||tjgasbjinlx.xyz^
 ||tjhtclwubg.xyz^
 ||tjzetzjqodjj.com^
 ||tkbo.com^
@@ -16533,6 +16536,7 @@ vkcdnservice.appspot.com^
 ||vpnlist.to^
 ||vpnrequired.com^
 ||vptbn.com^
+||vpyqdlrweoc.com^
 ||vqr3jeu1qi41.com^
 ||vriwjpzvh.com^
 ||vrtzads.com^
@@ -17374,6 +17378,7 @@ vkcdnservice.appspot.com^
 ||yuuykrunvh.com^
 ||yvatswzotstdve.com^
 ||yvebbtqvqvhufs.com^
+||yvgqtrnncvearx.xyz^
 ||yvirandu.top^
 ||yvmads.com^
 ||yvoria.com^
@@ -20229,6 +20234,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||bacon.getcarro.com^
+||t.unbounce.com^
 ||oremark.com^
 ||cbt.whatcounts.net^
 ||fireworkanalytics.com^
@@ -20282,7 +20289,7 @@ vkcdnservice.appspot.com^
 ||thequin.ai^
 ||ajur.info^
 ||clicks.h.hepsiburada.com^
-||spgo.io^
+||eu.spgo.io^
 ||rcp.evolok.net^
 ||ct2.sarashi.com^
 ||tracking.affiliateclub.cz^
@@ -23358,6 +23365,7 @@ vkcdnservice.appspot.com^
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
 !
+||breadbalance.com^
 ||stakingsmile.com^
 ||rabbitrifle.com^
 ||cherriescare.com^
@@ -24415,6 +24423,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||d3pkntwtp2ukl5.cloudfront.net^
 ||analytics-api.dvdfab.cn^
 ||c.pravo.ru^
 ||weblog.coupang.com^
@@ -27814,7 +27823,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||b.bedop.com^
 ||bab.frb.io^
 ||backstage.funnelenvy.com^
-||bacon.getcarro.com^
 ||bacon.section.io^
 ||barium.cheezdev.com^
 ||bc.geocities.
@@ -36166,6 +36174,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||penghy.top^
 ||mojing.xyz^
 ||keeearl.top^
 ||1615792.com^
@@ -38347,6 +38356,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||w3.wodeshougong.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
