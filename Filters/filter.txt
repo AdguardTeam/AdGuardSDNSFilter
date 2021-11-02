@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-02T18:05:15.001Z
+! Last modified: 2021-11-02T19:08:08.775Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20234,6 +20234,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||report.smartcount.net^
 ||bacon.getcarro.com^
 ||t.unbounce.com^
 ||oremark.com^
@@ -29402,6 +29403,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||ssp.bidvol.com^
 ||afa28048bf78ad9.com^
 ||07a1e05fd72d1b.com^
 ||ce1661e514980.com^
@@ -42017,6 +42019,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/98729
+@@||ia.hit.interia.pl^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/797
 @@||r.sascdn.com^|
 ! https://forum.adguard.com/index.php?threads/amplitude-com-blocked.45115
