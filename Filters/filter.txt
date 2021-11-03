@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-03T00:17:59.002Z
+! Last modified: 2021-11-03T06:06:18.126Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||poenem.com^
 ||dcincide.com^
 ||myxiqlaibky.xyz^
 ||fpbnmoise.com^
@@ -24424,6 +24425,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||views.romaniatv.net^
 ||d3pkntwtp2ukl5.cloudfront.net^
 ||analytics-api.dvdfab.cn^
 ||c.pravo.ru^
@@ -39122,6 +39124,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||fuyangno1.top^
+||gwmeinq.cn^
+||rylcbwg.cn^
+||rocm0c.site^
+||m5xy0v.cn^
+||4wa24bq.cn^
+||xiituvt.top^
+||xiaoxiaoyd.cn^
+||hnpxsm.com.cn^
+||woniu1314520.vip^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
