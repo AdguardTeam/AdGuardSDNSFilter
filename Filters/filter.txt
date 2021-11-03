@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-03T12:07:44.420Z
+! Last modified: 2021-11-03T18:05:24.042Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,8 @@
 !
 ! The rules with hints are at the end of file
 !
+||crorop.com^
+||ouvqfefauelr.xyz^
 ||poenem.com^
 ||dcincide.com^
 ||myxiqlaibky.xyz^
@@ -5260,6 +5262,7 @@ vkcdnservice.appspot.com^
 ||ayboll.com^
 ||aymwknbsqzhyh.com^
 ||ayswrotesre.club^
+||aywgucxmh.com^
 ||ayyubidgconv.casa^
 ||azads.com^
 ||azeriondigital.com^
@@ -9972,6 +9975,7 @@ vkcdnservice.appspot.com^
 ||isawaalphol.casa^
 ||isdbjvok.xyz^
 ||iseajapicuym.com^
+||ishdjvedvls.xyz^
 ||isiblenorm.club^
 ||isingefforta.biz^
 ||iskkrmwivxfmdjwxme.bid^
@@ -9989,6 +9993,7 @@ vkcdnservice.appspot.com^
 ||itcfnfi.com^
 ||itchingadore.com^
 ||itchingcrystalfemales.com^
+||itchynicerfootage.com^
 ||itdise.info^
 ||itemolgaer.com^
 ||itempana.site^
@@ -10791,6 +10796,7 @@ vkcdnservice.appspot.com^
 ||lld2q.com^
 ||llerscover.top^
 ||llhrardbu.com^
+||llnjzvwefma.com^
 ||lloenerginqu.info^
 ||llq9q2lacr.com^
 ||llqd75c56i.com^
@@ -14488,7 +14494,6 @@ vkcdnservice.appspot.com^
 ||scuffleredhead.com^
 ||sculifinanthools.site^
 ||sculptorshopfiend.com^
-||scws.xyz^
 ||sd5doozry8.com^
 ||sdfer.xyz^
 ||sdhfbvd.com^
@@ -20237,6 +20242,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||adbrix.io^
 ||cc-api-data.adobe.io^
 ||adg-data.kajicam.com^
 ||report.smartcount.net^
@@ -29415,6 +29421,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||bogrex.com^
+||cozibaneco.com^
 ||ssp.bidvol.com^
 ||afa28048bf78ad9.com^
 ||07a1e05fd72d1b.com^
@@ -34409,7 +34417,11 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
-||vwckd.c6890.cn^
+||yitongfang.com^
+||hnyishidengbao.com^
+||remehealth.net^
+||c6890.cn^
+||ifc-edu.cn^
 ||pxx.tnklrs.cn^
 ||ad.kshuiz.top^
 ||click.xjfatm.top^
@@ -38469,7 +38481,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||80juqing.com^
 ||8131.qizhihaotian.cn^
 ||8961.jianbihua.com^
-||olive.ergeapp.com^
 ||99js.rxys.com^
 ||a*.chajiaotong.com^
 ||a.4aqq.com^
@@ -38935,6 +38946,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||o.phb123.com^
 ||o1.jyjyj.cn^
 ||okkkk.com^
+||olive.ergeapp.com^
 ||p.junshi881.com^
 ||p.junshifuxin.com^
 ||p1.chinakaoyan.com^
@@ -39136,21 +39148,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||fuyangno1.top^
-||gwmeinq.cn^
-||rylcbwg.cn^
-||rocm0c.site^
-||m5xy0v.cn^
-||4wa24bq.cn^
-||xiituvt.top^
-||xiaoxiaoyd.cn^
-||hnpxsm.com.cn^
-||woniu1314520.vip^
-||weixisiwang.com^
-||yjwl.ltd^
-||076lvz.xyz^
-||jiujiinc.top^
-||g1kb9u.xyz^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
@@ -39167,6 +39164,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||07568592222.xyz^
 ||0769liancheng.cn^
 ||076lvi.xyz^
+||076lvz.xyz^
 ||080120.com^
 ||0817zfbj.xyz^
 ||0824xfh.xyz^
@@ -39231,6 +39229,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||4nzrqw.cn^
 ||4rgm6z478o.cn^
 ||4tdbbs.cn^
+||4wa24bq.cn^
 ||4wens.org^
 ||50milan.xyz^
 ||517kp.com^
@@ -39868,11 +39867,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fkhfk.cn^
 ||flyly.cc^
 ||foncc.cn^
+||fuyangno1.top^
 ||fxhfxhf.cc^
+||g1kb9u.xyz^
 ||gjohvhf.cn^
 ||go06.cc^
 ||guangzhengtwo.top^
 ||guyun03.cn^
+||gwmeinq.cn^
 ||gwyvvjj.cn^
 ||hbggcm.com^
 ||hcvhhj.cc^
@@ -39880,6 +39882,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hello211.top^
 ||hgdnd.cc^
 ||hhfhgf.cc^
+||hnpxsm.com.cn^
 ||hqcqz2.cn^
 ||hqwrr.cc^
 ||huaxiaozhang.club^
@@ -39889,6 +39892,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jbdz.shop^
 ||jdiaveu.cn^
 ||jiajiann.cn^
+||jiujiinc.top^
 ||jngapkf.cn^
 ||jnxiacha.cn^
 ||jsqhh.cn^
@@ -39906,6 +39910,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lofe.shop^
 ||log57.top^
 ||lppwnue.cn^
+||m5xy0v.cn^
 ||maclwangluokeji.cn^
 ||mgnb.xyz^
 ||mjzsw.vip^
@@ -39921,8 +39926,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qingyulin.top^
 ||qmdllqv.cn^
 ||qq163com.cn^
-||remehealth.net^
 ||rhxshop.com^
+||rocm0c.site^
+||rylcbwg.cn^
 ||sanwukeji.xyz^
 ||sgaga.xyz^
 ||shareman.xyz^
@@ -39947,13 +39953,17 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wangcm01.top^
 ||wduwvjd.cn^
 ||wecmaym.cn^
+||weixisiwang.com^
 ||wfeiso.top^
 ||wn052ucd.online^
+||woniu1314520.vip^
 ||wpqsmse.cn^
 ||wuzefei.top^
 ||wwshxc.cn^
 ||wzytop.top^
 ||xdfgrew.cn^
+||xiaoxiaoyd.cn^
+||xiituvt.top^
 ||xinyuanzszy.com^
 ||xxw777.cn^
 ||xzcvfdwe.cn^
@@ -39961,6 +39971,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ybsyyh.com^
 ||ydgege.xyz^
 ||yingxunkeji.net^
+||yjwl.ltd^
 ||yncjsc.cn^
 ||yumingdan.top^
 ||z-xiao.xyz^
