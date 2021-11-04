@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-04T06:06:26.012Z
+! Last modified: 2021-11-04T12:07:53.959Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||cdncont.com^
 ||crorop.com^
 ||ouvqfefauelr.xyz^
 ||poenem.com^
@@ -24438,6 +24439,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||aegis.qq.com^
 ||views.romaniatv.net^
 ||d3pkntwtp2ukl5.cloudfront.net^
 ||analytics-api.dvdfab.cn^
@@ -27843,6 +27845,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||axislogger.appspot.com^
 ||az693360.vo.msecnd.net^
 ||b.bedop.com^
+||b7tp47v2nb3x-a.akamaihd.net^
 ||bab.frb.io^
 ||backstage.funnelenvy.com^
 ||bacon.section.io^
@@ -38387,6 +38390,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||cdnjs.z-face.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -39164,6 +39168,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tianlule.cn^
 ||soulshape.cn^
 ||maoxilucai.cn^
+||tg745.cn^
+||2kjg.xyz^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
