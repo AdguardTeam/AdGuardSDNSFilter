@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-04T00:18:20.547Z
+! Last modified: 2021-11-04T06:06:26.012Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18634,6 +18634,7 @@ vkcdnservice.appspot.com^
 ||plopx.com^
 ||pointclicktrack.com^
 ||points2shop.com^
+||poneridcreels.com^
 ||popmajor.com^
 ||popmonetizer.com^
 ||poponclick.com^
@@ -36203,6 +36204,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||aaaa8.top^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -39150,6 +39152,18 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||chongyuelighting.cn^
+||1173d.cn^
+||irzwlux.cn^
+||boxin1688.cn^
+||oajxkah.cn^
+||uqbmzwv.cn^
+||caupdcloud.cn^
+||hardiness.top^
+||hypnos04.com^
+||tianlule.cn^
+||soulshape.cn^
+||maoxilucai.cn^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
