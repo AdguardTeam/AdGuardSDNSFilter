@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-04T12:07:53.959Z
+! Last modified: 2021-11-04T18:09:26.258Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,13 @@
 !
 ! The rules with hints are at the end of file
 !
+||cjvdfw.com^
+||bigrourg.net^
+||clickgate09.biz^
+||rexpush.info^
+||bvmcdn.net^
+||bvmtogo.com^
+||vighea.com^
 ||cdncont.com^
 ||crorop.com^
 ||ouvqfefauelr.xyz^
@@ -5120,6 +5127,7 @@ vkcdnservice.appspot.com^
 ||atilohdxsg.com^
 ||ationcomp.top^
 ||ationmultinal.info^
+||ationuctladd.xyz^
 ||ativfteevie.club^
 ||atjigglypuffor.com^
 ||atmalinks.com^
@@ -7750,6 +7758,7 @@ vkcdnservice.appspot.com^
 ||edoumeph.com^
 ||edoutoam.net^
 ||edparticu.fun^
+||edstylistepro.xyz^
 ||edthoutfre.fun^
 ||edua29146y.com^
 ||edvfwlacluo.com^
@@ -10348,6 +10357,7 @@ vkcdnservice.appspot.com^
 ||kerriastiff.cam^
 ||kerumal.com^
 ||kesevitamus.com^
+||kesmatic.com^
 ||kesmdg.com^
 ||ketadeep.com^
 ||ketads.com^
@@ -11317,6 +11327,7 @@ vkcdnservice.appspot.com^
 ||milanorangest.com^
 ||milasktic.com^
 ||milestonetelephone.com^
+||miliatedvictions.xyz^
 ||milkygoodness.xyz^
 ||millagesert.info^
 ||millennialmedia.com^
@@ -12243,6 +12254,7 @@ vkcdnservice.appspot.com^
 ||ohrdsplu.com^
 ||ohsatum.info^
 ||ohsdsplu.com^
+||ohston.com^
 ||ohtdsplu.com^
 ||oicretarifiedy.top^
 ||oicssiq.com^
@@ -19300,6 +19312,7 @@ vkcdnservice.appspot.com^
 ||d22xmn10vbouk4.cloudfront.net^
 ||d22z575k8abudv.cloudfront.net^
 ||d23guct4biwna6.cloudfront.net^
+||d23xhr62nxa8qo.cloudfront.net^
 ||d25dfknw9ghxs6.cloudfront.net^
 ||d25xkbr68qqtcn.cloudfront.net^
 ||d261u4g5nqprix.cloudfront.net^
@@ -20245,6 +20258,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||shoplytics.com^
 ||edgrmtracking.com^
 ||adbrix.io^
 ||cc-api-data.adobe.io^
@@ -27198,7 +27212,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sessionstack.com^
 ||sharedid.org^
 ||shoelace.com^
-||shoplytics.com^
 ||shoptimally.com^
 ||showheroes.com^
 ||sift.com^
@@ -36207,6 +36220,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||ovkwiz.xyz^
 ||aaaa8.top^
 ||00-gov.cn^
 ||000123456789.site^
@@ -39170,6 +39184,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||maoxilucai.cn^
 ||tg745.cn^
 ||2kjg.xyz^
+||beautylamp.cn^
+||f4082.cn^
+||lzjc.shop^
+||36yoo.net^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
