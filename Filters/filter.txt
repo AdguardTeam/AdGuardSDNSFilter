@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-05T12:08:00.632Z
+! Last modified: 2021-11-05T18:05:57.786Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,10 @@
 !
 ! The rules with hints are at the end of file
 !
+||afterwardstationquestions.com^
+||bestadmax.com^
+||untr.xyz^
+||ntpoliticismsc.xyz^
 ||generalizationdisputelesser.com^
 ||cjvdfw.com^
 ||bigrourg.net^
@@ -3122,6 +3126,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||dihutyaiafuhr.cloudfront.net^
 ||anti.allcryptoz.net^
 ||tagrec.sphdigital.com^
 ||adimage.sphdigital.com^
@@ -4266,6 +4271,7 @@ vkcdnservice.appspot.com^
 ||addressen.club^
 ||addroplet.com^
 ||adequality.xyz^
+||adequalitys.xyz^
 ||adex.media^
 ||adexchange.io^
 ||adexchangecloud.com^
@@ -5924,6 +5930,7 @@ vkcdnservice.appspot.com^
 ||bshrdr.com^
 ||bsjjtpkc.com^
 ||bskevojpydks.com^
+||bspwmmghrvoyqs.xyz^
 ||bst-offers.com^
 ||btagmedia.com^
 ||btemegxbnalq.com^
@@ -14805,6 +14812,7 @@ vkcdnservice.appspot.com^
 ||sixminutes.biz^
 ||sixteenabsorptionbreed.com^
 ||sjeffrontagr.top^
+||sjlmekhgwimrjs.xyz^
 ||sketchinferiorunits.com^
 ||sketmothe.space^
 ||skewlyundazed.com^
@@ -16768,6 +16776,7 @@ vkcdnservice.appspot.com^
 ||westerdayeol.site^
 ||wethornsprecede.com^
 ||wetpeachcash.com^
+||wewon.to^
 ||wfawhfxe.com^
 ||wfhucstzrdpvmi.com^
 ||wfnetwork.com^
@@ -17272,6 +17281,7 @@ vkcdnservice.appspot.com^
 ||yesnexus.com^
 ||yesterdayscancautiously.com^
 ||yestole.com^
+||yezsfzruvxbqa.com^
 ||yfbiwkxjkaw.com^
 ||yfcxzvdyrnp.com^
 ||yfibjzosrqrtmv.com^
@@ -18154,7 +18164,6 @@ vkcdnservice.appspot.com^
 ||clicktripz.com^
 ||clixco.in^
 ||clixtrac.com^
-||cnnx.io^
 ||cogocast.net^
 ||coguan.com^
 ||coinmedia.co^
@@ -20261,6 +20270,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||tags.soloway.ru^
+||instadrama.site^
 ||shoplytics.com^
 ||edgrmtracking.com^
 ||adbrix.io^
@@ -36224,6 +36235,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||fkub.xyz^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -38337,7 +38349,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qcvf.ifeng.com^
 ||qd.x4399.com^
 ||resource.baomihua.com^
-||rh.qq.com^
 ||sa.sina.cn^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
@@ -39188,6 +39199,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fqjinyinhua.shop^
 ||baogames.cn^
 ||sthyhj.cn^
+||hbxxw.vip^
+||qorosmall.com^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
