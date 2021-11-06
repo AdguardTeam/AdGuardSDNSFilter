@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-05T18:05:57.786Z
+! Last modified: 2021-11-06T00:17:52.470Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36235,7 +36235,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||fkub.xyz^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -36862,6 +36861,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fjdy.cc^
 ||fjmeyer.com^
 ||fjsjsj.com^
+||fkub.xyz^
 ||flowcodeapp.com^
 ||fnkjj.com^
 ||focusonus.top^
@@ -39185,22 +39185,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||hardened.top^
-||lbts.ltd^
-||wjylfla.cn^
-||go07.cc^
-||aifishing.cn^
-||u5274.cn^
-||poedlov.cn^
-||hnfxhx.xyz^
-||whwfcm.cn^
-||hzzydb.cn^
-||to335.cn^
-||fqjinyinhua.shop^
-||baogames.cn^
-||sthyhj.cn^
-||hbxxw.vip^
-||qorosmall.com^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
@@ -39426,6 +39410,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ai256.top^
 ||aibangzs.com^
 ||aifenka.cn^
+||aifishing.cn^
 ||aiggkj.cn^
 ||aigzk.com^
 ||aikan6.com^
@@ -39530,6 +39515,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bangdu2.com^
 ||bangxin.xyz^
 ||banma51.cn^
+||baogames.cn^
 ||baojiada.vip^
 ||baolanke.top^
 ||baolutongwuye.cn^
@@ -39928,22 +39914,27 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fkhfk.cn^
 ||flyly.cc^
 ||foncc.cn^
+||fqjinyinhua.shop^
 ||fuyangno1.top^
 ||fxhfxhf.cc^
 ||g1kb9u.xyz^
 ||gjohvhf.cn^
 ||go06.cc^
+||go07.cc^
 ||guangzhengtwo.top^
 ||guyun03.cn^
 ||gwmeinq.cn^
 ||gwyvvjj.cn^
+||hardened.top^
 ||hardiness.top^
 ||hbggcm.com^
+||hbxxw.vip^
 ||hcvhhj.cc^
 ||hdsjk.cc^
 ||hello211.top^
 ||hgdnd.cc^
 ||hhfhgf.cc^
+||hnfxhx.xyz^
 ||hnpxsm.com.cn^
 ||hqcqz2.cn^
 ||hqwrr.cc^
@@ -39951,6 +39942,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hxf1688.xyz^
 ||hypnos04.com^
 ||hzghyt.cc^
+||hzzydb.cn^
 ||intell.work^
 ||irzwlux.cn^
 ||jbdz.shop^
@@ -39971,6 +39963,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kjtol.cn^
 ||kukulm.com^
 ||laiyangalibaba.cn^
+||lbts.ltd^
 ||lofe.shop^
 ||log57.top^
 ||lppwnue.cn^
@@ -39987,11 +39980,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nylynp.top^
 ||oajxkah.cn^
 ||owdfxgc.cn^
+||poedlov.cn^
 ||powerchase.online^
 ||pzsq.xyz^
 ||qiaobaba.top^
 ||qingyulin.top^
 ||qmdllqv.cn^
+||qorosmall.com^
 ||qq163com.cn^
 ||rhxshop.com^
 ||rocm0c.site^
@@ -40002,6 +39997,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||soulshape.cn^
 ||spscwlw.cn^
 ||sqmydhk.cn^
+||sthyhj.cn^
 ||sxzchs.cn^
 ||syxwj.cn^
 ||taoyouhuiquan.top^
@@ -40011,12 +40007,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tework.cn^
 ||tg745.cn^
 ||tianlule.cn^
+||to335.cn^
 ||topdoctor.vip^
 ||tp992.top^
 ||tpd4.cn^
 ||tsia1114.top^
 ||tszhongtianshiji.com^
 ||tw5k2vc.cn^
+||u5274.cn^
 ||umis.top^
 ||uqbmzwv.cn^
 ||vluvpdf.cn^
@@ -40026,6 +40024,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wecmaym.cn^
 ||weixisiwang.com^
 ||wfeiso.top^
+||whwfcm.cn^
+||wjylfla.cn^
 ||wn052ucd.online^
 ||woniu1314520.vip^
 ||wpqsmse.cn^
