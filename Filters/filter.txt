@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-06T12:06:57.600Z
+! Last modified: 2021-11-06T18:04:45.835Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3307,7 +3307,6 @@ www.llllllllllll.net^
 ||90447d62cf.f53d8e67f8.com^
 ||81035ddbf4.32c5637f3c.com^
 ||599e7d6968.9ec1589ddb.com^
-||e00a17117b.a5ee094155.com^
 ||0fccf56c02.d14b19b49f.com^
 ||f4984720c7.b26d946337.com^
 ||b94ea798af.ac2e81c7b8.com^
@@ -4057,6 +4056,7 @@ vkcdnservice.appspot.com^
 ||a-mo.net^
 ||a0675c1160de6c6.com^
 ||a06bbd98194c252.com^
+||a07aea5a17.com^
 ||a157ad075fcb34c.com^
 ||a15c5009bcbe272.com^
 ||a22f0d8201ade09fa3.com^
@@ -4072,6 +4072,7 @@ vkcdnservice.appspot.com^
 ||a4mt150303tl.com^
 ||a5020fec1701e9f3.com^
 ||a5e04df959f1af34.com^
+||a5ee094155.com^
 ||a63t9o1azf.com^
 ||a67z.com^
 ||a6be07586bc4a7.com^
@@ -6498,6 +6499,7 @@ vkcdnservice.appspot.com^
 ||cm-trk5.com^
 ||cmbestsrv.com^
 ||cmbnmfolofubr.xyz^
+||cmdsdkekfhavlv.xyz^
 ||cmfads.com^
 ||cmpgns.net^
 ||cmrdr.com^
@@ -6700,6 +6702,7 @@ vkcdnservice.appspot.com^
 ||contried.com^
 ||contrivancespannercooperate.com^
 ||conventionforgetful.com^
+||convers.link^
 ||conversationsingerof.com^
 ||conversityz.club^
 ||converties.space^
@@ -10916,6 +10919,7 @@ vkcdnservice.appspot.com^
 ||lvodomo.info^
 ||lvqnychauf.com^
 ||lx2rv.com^
+||lxgmgalmrxqlj.xyz^
 ||lxgoewxns.com^
 ||lyatblkpblca.com^
 ||lycooc.com^
@@ -11984,6 +11988,7 @@ vkcdnservice.appspot.com^
 ||nowlooking.net^
 ||nowrs.xyz^
 ||nowspots.com^
+||nowtrk.com^
 ||noy-95.com^
 ||npcad.com^
 ||nposition.club^
@@ -16179,6 +16184,7 @@ vkcdnservice.appspot.com^
 ||usingirritatecordial.com^
 ||uslioert.com^
 ||usounoul.com^
+||ussiagoverse.xyz^
 ||ustbitsoct.top^
 ||ustingpres.fun^
 ||ustxsntseyhwsx.com^
@@ -16201,6 +16207,7 @@ vkcdnservice.appspot.com^
 ||utoumine.net^
 ||utoyoufio.fun^
 ||utpgxaylxurhbc.com^
+||utpvfpoar.com^
 ||utq55kl9vyqv.com^
 ||utteredhandicappedsomebody.com^
 ||utteroccupied.com^
@@ -17092,6 +17099,7 @@ vkcdnservice.appspot.com^
 ||xqgzvsjmnmgv.com^
 ||xqheb9yszyrd.com^
 ||xqiaqb.com^
+||xqxlaymd.xyz^
 ||xqzlgbbe.com^
 ||xr117.xyz^
 ||xrdatsuclxrvpx.com^
@@ -20189,6 +20197,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||d41.co^
 ||tags.soloway.ru^
 ||instadrama.site^
 ||shoplytics.com^
@@ -24386,6 +24395,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||analytics.sports.ru^
 ||aegis.qq.com^
 ||views.romaniatv.net^
 ||d3pkntwtp2ukl5.cloudfront.net^
@@ -26760,7 +26770,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cux.io^
 ||cvtr.io^
 ||d-1.co^
-||d41.co^
 ||data-dynamic.net^
 ||datacoral.com^
 ||datacoral.io^
@@ -34109,6 +34118,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||ad.activetk.cf^
 ||ad.xdomain.ne.jp^
 ||velawhagru.com^
 ||cy-s.click^
@@ -36160,6 +36170,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||xinerdact.com^
+||fujincenter.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -39125,6 +39137,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qzgs99.cn^
 ||sherrycha.cn^
 ||mineral-water.cn^
+||pj16t.cn^
+||y0764.cn^
+||c3y1oja.cn^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
