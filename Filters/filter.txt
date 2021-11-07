@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-07T12:07:21.412Z
+! Last modified: 2021-11-07T18:04:33.792Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,13 @@
 !
 ! The rules with hints are at the end of file
 !
+||assistvantp.biz^
+||assurancelocusmat.com^
+||awsimiledarent.xyz^
+||axillovely.com^
+||dufai4b1ap33z.cloudfront.net^
+||idiotyet.com^
+||unspeakablepurebeings.com^
 ||exceedmintpoker.com^
 ||ediqmvjebecbqx.xyz^
 ||xyyfysnipeqngb.xyz^
@@ -7940,6 +7947,7 @@ vkcdnservice.appspot.com^
 ||eonsmedia.com^
 ||eonwayaha.com^
 ||eooslfyhziubo.com^
+||eoqbefxjvzw.com^
 ||eoredi.com^
 ||eosads.com^
 ||eossbuqccjrfs.com^
@@ -13568,6 +13576,7 @@ vkcdnservice.appspot.com^
 ||pyeditingpro.biz^
 ||pyloic.com^
 ||pyntynujmsbw.xyz^
+||pypwlfysofmez.com^
 ||pyq6n.com^
 ||pyroguanites.xyz^
 ||pyrroylceriums.com^
@@ -29415,6 +29424,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||spads.me^
 ||bogrex.com^
 ||cozibaneco.com^
 ||ssp.bidvol.com^
@@ -39162,6 +39172,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vnlaqu.site^
 ||rcjww9.xyz^
 ||dasongti.top^
+||d3zr5ye.cn^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
