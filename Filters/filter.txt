@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-08T06:06:38.529Z
+! Last modified: 2021-11-08T12:07:49.769Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||ihvdflxjtdsgnqb.xyz^
 ||assistvantp.biz^
 ||assurancelocusmat.com^
 ||awsimiledarent.xyz^
@@ -1347,7 +1348,6 @@
 ||bycelebian.com^
 ||rsalcau.com^
 ||erdecisesgeorg.info^
-||display.nativemedia.rs^
 ||belazyelephant.com^
 ||lightversionhotel.com^
 ||phethikapso.pro^
@@ -18477,6 +18477,7 @@ vkcdnservice.appspot.com^
 ||mezaa.com^
 ||mibebu.com^
 ||microad.jp^
+||midas-network.com^
 ||mindlytix.com^
 ||mintake.com^
 ||mirago.com^
@@ -18499,6 +18500,7 @@ vkcdnservice.appspot.com^
 ||n2s.co.kr^
 ||nanigans.com^
 ||nativeads.com^
+||nativemedia.rs^
 ||nativeroll.tv^
 ||nativespot.com^
 ||neodatagroup.com^
@@ -20231,6 +20233,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||fusedeck.net^
 ||trk-egestas.com^
 ||d41.co^
 ||tags.soloway.ru^
@@ -26178,6 +26181,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||alogsus.umeng.com^
+||log*.happymod.com^
+||log.pvpgang.com^
+||adash.man.aliyuncs.com^
+||beacon-api.aliyuncs.com^
+||crs-event.line.me^
+||crs-hometab-event.line.me^
+||tr.gunosy.com^
+||tr.line.me^
 ||analytics.enjoymobiserver.com^
 ||api.reproio.com^
 ||log*.interactive-circle.jp^
@@ -28890,7 +28902,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||webvisor.com^
 ||wwgate.ru^
 ! Serbian
-||midas-network.com^
 ! Slovak
 ||algopine.com^
 ! Spanish
@@ -29424,6 +29435,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||uwdvcn.com^
+||rotarb.bid^
 ||spads.me^
 ||bogrex.com^
 ||cozibaneco.com^
@@ -35232,8 +35245,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Nov 2021 16:36 UTC+7
-! Version: 2111061636
+! Last modified: 08 Nov 2021 15:01 UTC+7
+! Version: 2111081501
 ! Blocked: 1.015 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -39165,6 +39178,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||quqianlai.cn^
 ||tccb71h.cn^
 ||benwfw.cn^
+||bjymall.cn^
+||idmee.cn^
+||ki47.com^
+||a9324.cn^
+||pflhnpu.cn^
+||qibalmm.com^
 ||000123456789.online^
 ||01tn.cn^
 ||027whht.com^
