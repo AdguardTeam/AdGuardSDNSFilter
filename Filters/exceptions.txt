@@ -36,9 +36,13 @@
 @@||ma135-r.analytics.edgekey.net^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/89190
 @@||79423.analytics.edgekey.net^|
+!
 ! Blocked by CNAME ||leadpages.net^$third-party
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/829
+@@||home.focusatwill.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/707
 @@||health.halodoc.com^|
+!
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/709
 @@||promo.gramedia.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81939
