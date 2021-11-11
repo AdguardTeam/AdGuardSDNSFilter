@@ -38,6 +38,8 @@
 @@||79423.analytics.edgekey.net^|
 !
 ! Blocked by CNAME ||leadpages.net^$third-party
+! https://github.com/AdguardTeam/AdguardFilters/issues/98565
+@@||classliving.lpages.co^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/829
 @@||home.focusatwill.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/707
