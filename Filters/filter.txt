@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-13T00:17:41.615Z
+! Last modified: 2021-11-13T06:05:15.305Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4005,6 +4005,7 @@ vkcdnservice.appspot.com^
 ||823bc1a6cd3f1657.com^
 ||82448dceaaa13034.com^
 ||827fa7c868b4b.com^
+||82eb361582.com^
 ||833e4c13ecc.com^
 ||84544232a4185d6.com^
 ||8462d0b3cc90c90.com^
@@ -4065,6 +4066,7 @@ vkcdnservice.appspot.com^
 ||9bb6fa4987e.com^
 ||9c40a04e9732e6a6.com^
 ||9c921e15c8d17.com^
+||9ca6865332.com^
 ||9cd76b4462bb.com^
 ||9content.com^
 ||9dc10beed2.com^
@@ -4796,6 +4798,7 @@ vkcdnservice.appspot.com^
 ||aleilu.com^
 ||alespeonor.com^
 ||alfatraffic.com^
+||algistorder.com^
 ||algovid.com^
 ||ali-crm.ru^
 ||aliadvert.ru^
@@ -5292,6 +5295,7 @@ vkcdnservice.appspot.com^
 ||ayads.co^
 ||ayahtyros.com^
 ||ayboll.com^
+||ayhfnvgv.com^
 ||aymwknbsqzhyh.com^
 ||aywgucxmh.com^
 ||ayyubidgconv.casa^
@@ -7650,6 +7654,7 @@ vkcdnservice.appspot.com^
 ||dynsrvdea.com^
 ||dynsrvtbg.com^
 ||dynsrvtyu.com^
+||dyoncdgy.com^
 ||dyshigichu.com^
 ||dz4ad.com^
 ||dzhjmp.com^
@@ -9961,6 +9966,7 @@ vkcdnservice.appspot.com^
 ||iomppdwwmbvq.com^
 ||iople.com^
 ||ioredi.com^
+||ioxiyaff.xyz^
 ||ipfmbexfdzb.com^
 ||iphumiki.com^
 ||ipiech.com^
@@ -10494,6 +10500,7 @@ vkcdnservice.appspot.com^
 ||kopehngtragen.com^
 ||koquarmc.com^
 ||koradu.com^
+||korat54ycat.com^
 ||korexo.com^
 ||korrelate.net^
 ||korruoebt.live^
@@ -11601,6 +11608,7 @@ vkcdnservice.appspot.com^
 ||mrzikj.com^
 ||ms3t.club^
 ||msads.net^
+||mscklogtxblb.xyz^
 ||msgose.com^
 ||mshago.com^
 ||msidentityw.biz^
@@ -13432,6 +13440,7 @@ vkcdnservice.appspot.com^
 ||ptawe.com^
 ||ptawehex.net^
 ||ptcqjliwwkldm.com^
+||ptdqgnfnhsiarnv.xyz^
 ||ptechait.com^
 ||ptecmooz.net^
 ||pteefoak.com^
@@ -15602,6 +15611,7 @@ vkcdnservice.appspot.com^
 ||thogrypufe.pro^
 ||thomageothe.club^
 ||thongcivic.com^
+||thongedoptions.com^
 ||thoodsoy.net^
 ||thoorest.com^
 ||thoovoay.net^
@@ -17378,6 +17388,7 @@ vkcdnservice.appspot.com^
 ||yqanlvekcrfkd.xyz^
 ||yqeuu.com^
 ||yqezqofkb1nnmz.com^
+||yqmhehotfy.xyz^
 ||yqmxfz.com^
 ||yqqlupkasbhmdj.xyz^
 ||yqsoxyhmumnn.com^
@@ -26629,6 +26640,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cloudwp.io^
 ||czx5eyk0exbhwp43ya.biz^
 ||dispatchunique.com^
+||dispatchvegasplus.com^
 ||dm-event.net^
 ||e1e.io^
 ||emycewiw.xyz^
@@ -26693,6 +26705,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pdflive.org^
 ||pixrealm.com^
 ||progmxs.com^
+||pubtm.com^
 ||quantserve.com^
 ||quickanalytics.ca^
 ||r42tag.com^
@@ -26868,6 +26881,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||content-square.net^
 ||conversionfly.com^
 ||convertcart.com^
+||cookieless-data.com^
 ||coralogix.com^
 ||counter.dev^
 ||cphalk.com^
@@ -27809,6 +27823,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytic.rollout.io^
 ||analytic.xingcloud.com^
 ||analyticcdn.globalmailer.com^
+||analytics-1.cavai.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-production.hapyak.com^
 ||analytics-rhwg.rhcloud.com^
@@ -36283,6 +36298,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||lm465.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -38480,6 +38496,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||dm.17xuexiba.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -39246,6 +39263,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||ibdtjqn.cn^
+||freeyue.xyz^
+||lxtxhxt.com^
+||baihz.com^
+||baixk.com^
+||7ebzw9v.cn^
+||8563p.cn^
+||65zjp.cn^
+||siikzd1.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
