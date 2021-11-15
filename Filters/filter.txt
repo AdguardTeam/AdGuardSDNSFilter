@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-15T12:07:57.966Z
+! Last modified: 2021-11-15T18:04:00.384Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,10 @@
 !
 ! The rules with hints are at the end of file
 !
+||nvidpns.com^
+||prpbnsp.com^
+||drtbn.com^
+||sdnpggwbkprsndt.xyz^
 ||destroyedspear.com^
 ||exwotics6heomrthaoi4r.com^
 ||nonotro.name^
@@ -329,7 +333,6 @@
 ||keegesta.com^
 ||clbanners16.com^
 ||phabys.com^
-||glootang.net^
 ||ndejhe73jslaw093.com^
 ||adstook.com^
 ||dadslimz.com^
@@ -6013,6 +6016,7 @@ vkcdnservice.appspot.com^
 ||bumblecash.com^
 ||bummershindigeavesdropping.com^
 ||buncoswosh.com^
+||bundhammam.com^
 ||bunnymediaserver.com^
 ||bupatp.com^
 ||bupserge.com^
@@ -8687,6 +8691,7 @@ vkcdnservice.appspot.com^
 ||friesel-mustin.com^
 ||frightfuljourney.com^
 ||frillsretore.casa^
+||froala.com^
 ||frogrugby.com^
 ||frogwokshive.com^
 ||frolicpan.com^
@@ -9022,6 +9027,7 @@ vkcdnservice.appspot.com^
 ||glooliso.net^
 ||gloomilyinvesthave.com^
 ||gloophoa.net^
+||glootang.net^
 ||gloovids.com^
 ||glophagh.com^
 ||gloriasouvenirtill.com^
@@ -10294,6 +10300,7 @@ vkcdnservice.appspot.com^
 ||jtigctkh.com^
 ||jtinssutynyf.com^
 ||jtjsevmr.com^
+||jtubvaewvijfk.xyz^
 ||jua05myfbe.com^
 ||jubsouth.com^
 ||judaisydfs.club^
@@ -17119,6 +17126,7 @@ vkcdnservice.appspot.com^
 ||wusths.com^
 ||wutaszsuib.com^
 ||wutipupi.xyz^
+||wuueqejuratzdz.com^
 ||wvekalpmn.com^
 ||wvmvgqvmbobxb.xyz^
 ||wvpkoyjoq.com^
@@ -20367,6 +20375,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||h.cloudengage.com^
 ||cdp.vemt.com^
 ||signifyd.com^
 ||collector.snplow.net^
@@ -36387,6 +36396,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||mltp.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -39360,6 +39370,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||epzpzmg.cn^
 ||yougouquanqiu.xyz^
 ||banfz.com^
+||beiwm.com^
+||betylife.com^
+||mcix.cn^
+||kershop.ren^
+||ngogmbe.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
