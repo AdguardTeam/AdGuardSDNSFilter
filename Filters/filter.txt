@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-15T06:06:26.343Z
+! Last modified: 2021-11-15T12:07:57.966Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5739,6 +5739,7 @@ vkcdnservice.appspot.com^
 ||blastcahs.com^
 ||blazingswatstated.com^
 ||bleinu.com^
+||bleopi.com^
 ||blessgarments.com^
 ||blessingpudding.com^
 ||blinkadr.com^
@@ -7596,6 +7597,7 @@ vkcdnservice.appspot.com^
 ||droppedrolling.com^
 ||dropzenad.com^
 ||drowle.com^
+||drpurrmcirwurb.com^
 ||drtuproft.com^
 ||drudgerynickname.com^
 ||drunkenknowing.com^
@@ -8466,6 +8468,7 @@ vkcdnservice.appspot.com^
 ||findlnk.com^
 ||findnewline.com^
 ||findswiftresults.com^
+||finedqueerrigid.com^
 ||finedsweetonly.com^
 ||fingahvf.top^
 ||fingsmelis.pro^
@@ -11654,6 +11657,7 @@ vkcdnservice.appspot.com^
 ||mrzikj.com^
 ||ms3t.club^
 ||msads.net^
+||msbuqruhcefx.xyz^
 ||mscklogtxblb.xyz^
 ||msgose.com^
 ||mshago.com^
@@ -14556,6 +14560,7 @@ vkcdnservice.appspot.com^
 ||scbywiqkm.com^
 ||scenbe.com^
 ||scenehesitationutility.com^
+||sceptruline.xyz^
 ||schargesee.xyz^
 ||schjmp.com^
 ||scholardevilcrayon.com^
@@ -14563,6 +14568,7 @@ vkcdnservice.appspot.com^
 ||sciadopi5tysverticil1lata.com^
 ||scientifichoaxfutile.com^
 ||scillathemons.com^
+||scmqhshjvgcw.xyz^
 ||sconvtrk.com^
 ||scotlandon.club^
 ||scoutdealingdrift.com^
@@ -16092,6 +16098,7 @@ vkcdnservice.appspot.com^
 ||u2htfd3bvwvl.com^
 ||u595sebqih.com^
 ||u9oxdnxk8b.com^
+||uacgjneoqusji.xyz^
 ||uagopaamgcxme.com^
 ||ubjectsandie.biz^
 ||ucalte.com^
@@ -16400,6 +16407,7 @@ vkcdnservice.appspot.com^
 ||variablefitness.com^
 ||varietyofdisplayformats.com^
 ||variouscreativeformats.com^
+||variousformatscontent.com^
 ||vartoken.com^
 ||varybailedascend.com^
 ||varylioness.com^
@@ -17170,6 +17178,7 @@ vkcdnservice.appspot.com^
 ||xclofrfa.com^
 ||xclpnclplgeom.com^
 ||xcnqoertn.xyz^
+||xcsyeytcjyyt.xyz^
 ||xcsypkknp.com^
 ||xdirectx.com^
 ||xdiuvewmvmh.com^
@@ -17319,6 +17328,7 @@ vkcdnservice.appspot.com^
 ||yajvdoporjtz.com^
 ||yallboen.com^
 ||yamspunkdew.com^
+||yanend.com^
 ||yankevaxf.com^
 ||yankszapfop.com^
 ||yantrasbarges.com^
@@ -19722,6 +19732,7 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||videoads-cloud.rovio.com^
 ||iyes.youku.com^
 ||adg.kajicam.com^
 ||ad.endpo.in^
@@ -20356,6 +20367,11 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||cdp.vemt.com^
+||signifyd.com^
+||collector.snplow.net^
+||pxksnymto.ru^
+||prodmp.ru^
 ||events.busuu.com^
 ||intellimize.co^
 ||f.fingerprintjs.com^
@@ -27351,7 +27367,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shoptimally.com^
 ||showheroes.com^
 ||sift.com^
-||signifyd.com^
 ||simpleanalytics.io^
 ||simpleheatmaps.com^
 ||siteanaliz.org^
@@ -29580,6 +29595,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||j1oxqq05ry.ru^
 ||temporarympay.com^
 ||1qi.info^
 ||elonreptiloid.com^
@@ -39341,6 +39357,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||46rib.cn^
 ||kkpqhqu.cn^
 ||picbfnc.cn^
+||epzpzmg.cn^
+||yougouquanqiu.xyz^
+||banfz.com^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
