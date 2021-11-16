@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-16T12:08:00.860Z
+! Last modified: 2021-11-16T18:03:49.367Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5825,6 +5825,7 @@ vkcdnservice.appspot.com^
 ||bogusadmiral.com^
 ||bogytoeelf.com^
 ||bohowhepsandked.info^
+||boilerstab.com^
 ||boilstaircasehug.com^
 ||boinkcash.com^
 ||bojebyze.com^
@@ -7558,6 +7559,7 @@ vkcdnservice.appspot.com^
 ||doufoacu.net^
 ||douhooke.net^
 ||douoblelimpup.com^
+||doupteju.com^
 ||doushoom.net^
 ||douthosh.net^
 ||doveprovidingyear.com^
@@ -7952,6 +7954,7 @@ vkcdnservice.appspot.com^
 ||embogsoarers.com^
 ||embraceforgivingfrenzy.com^
 ||embtrk.com^
+||emccgujavc.xyz^
 ||emediate.dk^
 ||ememoricane.info^
 ||emergedsocietytheft.com^
@@ -13682,6 +13685,7 @@ vkcdnservice.appspot.com^
 ||pxmyjxebxgv.com^
 ||pyeditingpro.biz^
 ||pyloic.com^
+||pymsqjixir.xyz^
 ||pyntynujmsbw.xyz^
 ||pypwlfysofmez.com^
 ||pyq6n.com^
@@ -17368,6 +17372,7 @@ vkcdnservice.appspot.com^
 ||yawcoynag.com^
 ||yazcash.com^
 ||yceml.net^
+||yckussysvawiu.xyz^
 ||ycurrentjobis.biz^
 ||ydbmligdloqmqi.com^
 ||ydtqlmsvocjp.com^
@@ -24604,6 +24609,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||snowplow-pixel.tradingview.com^
 ||f-log-at.grammarly.io^
 ||f-log-test.grammarly.io^
 ||tracking.swogo.net^
@@ -24757,8 +24763,6 @@ vkcdnservice.appspot.com^
 ||pla-tk.flipkart.net^
 ||stat.myshows.me^
 ||d2ieqaiwehnqqp.cloudfront.net^
-||lc.fresheye.com^
-||lcexp.fresheye.com^
 ||behave.noen.at^
 ||tracking.noen.at^
 ||track.wattpad.com^
@@ -25970,7 +25974,6 @@ vkcdnservice.appspot.com^
 ||adcounter*.uptolike.ru^
 ||analytics.spankbang.com^
 ||event.demirorenteknoloji.com^
-||felix.data.tm-awx.com^
 ||collect.data.tm-awx.com^
 ||t2.hulu.com^
 ||analytics-ingress.bitmovin.com^
@@ -29619,6 +29622,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||gcebhl.com^
 ||zkbkat.com^
 ||uqystk.com^
 ||j1oxqq05ry.ru^
@@ -36413,6 +36417,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||rsctljb.cn^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -38613,6 +38618,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||tonghuaji.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -39391,6 +39397,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||haojun.info^
 ||best-eye.cn^
 ||katelin.top^
+||hbeqnte.cn^
+||boyh5d.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
