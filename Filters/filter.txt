@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-17T06:06:37.811Z
+! Last modified: 2021-11-17T12:07:53.550Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24610,6 +24610,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||events-service.coinbase.com^
 ||snowplow-pixel.tradingview.com^
 ||f-log-at.grammarly.io^
 ||f-log-test.grammarly.io^
@@ -28034,6 +28035,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||audienceapi.newsdiscover.com.au^
 ||audit.303br.net^
 ||audit.median.hu^
+||aurora-d3.herokuapp.com^
 ||awaps.yandex.net^
 ||awesome.section.io^
 ||axislogger.appspot.com^
@@ -28274,6 +28276,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ga-beacon.appspot.com^
 ||ga.kvideo.io^
 ||ga.webdigi.co.uk^
+||ganon.yahoo.com^
 ||gateway.foresee.com^
 ||gemius.mgr.consensu.org^
 ||geo.ertya.com^
@@ -39399,6 +39402,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tangxue.me^
 ||banzd.com^
 ||nggdwfz.cn^
+||gdshuotai.cn^
 ||ilmwi.cn^
 ||000123456789.online^
 ||000123456789.space^
