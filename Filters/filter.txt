@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-16T18:03:49.367Z
+! Last modified: 2021-11-17T00:19:11.112Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20394,6 +20394,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||shonretimus.com^
 ||h.cloudengage.com^
 ||cdp.vemt.com^
 ||signifyd.com^
@@ -29622,6 +29623,11 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||powferads.com^
+||kyefakwa.com^
+||namystal.com^
+||taumeln.com^
+||fadrewols.com^
 ||gcebhl.com^
 ||zkbkat.com^
 ||uqystk.com^
@@ -36417,7 +36423,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||rsctljb.cn^
+||haokan3.cn^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -37719,6 +37725,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rou1.xyz^
 ||rqgsf.com^
 ||rrsubway.com^
+||rsctljb.cn^
 ||rscxwmj.cn^
 ||ruigezx.com^
 ||ruizhimu.cn^
@@ -38618,7 +38625,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||tonghuaji.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -39247,6 +39253,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t1.612.com^
 ||tech.jiukang.org^
 ||thetestpage.39.net^
+||tonghuaji.com^
 ||tongj.xilu.com^
 ||top2099.com^
 ||tt123.eastday.com^
@@ -39386,19 +39393,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||gzgxbmh.cn^
-||mlgsoji.cn^
-||lhxwnzht.cn^
-||chmc.xyz^
-||7kzod8.cn^
-||zrbl21.cn^
-||banxf.com^
-||s1utu5g.cn^
-||haojun.info^
-||best-eye.cn^
-||katelin.top^
-||hbeqnte.cn^
-||boyh5d.cn^
+||anfcadf.cn^
+||tivfcaa.cn^
+||ilmwi.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -39549,6 +39546,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||7ebzw9v.cn^
 ||7ez4.cn^
 ||7j7jv5.cn^
+||7kzod8.cn^
 ||7times.top^
 ||833761.com^
 ||8563p.cn^
@@ -39755,6 +39753,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bangdu2.com^
 ||bangxin.xyz^
 ||banma51.cn^
+||banxf.com^
 ||baodc.com^
 ||baogames.cn^
 ||baojiada.vip^
@@ -39788,6 +39787,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bentengcn.com^
 ||benwfw.cn^
 ||benybw.cn^
+||best-eye.cn^
 ||better-better.com.cn^
 ||betylife.com^
 ||bgtrtv.top^
@@ -39846,6 +39846,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||boweineng.cn^
 ||boxin1688.cn^
 ||boxix.online^
+||boyh5d.cn^
 ||bozhu.shop^
 ||bqhnj.cn^
 ||bqsm.com.cn^
@@ -39937,6 +39938,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||chinayutai.cn^
 ||chinazhaoye.com^
 ||chkwwg.cn^
+||chmc.xyz^
 ||chongnikeji.com^
 ||chongyuelighting.cn^
 ||chqsw.cn^
@@ -40193,8 +40195,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||guyun03.cn^
 ||gwmeinq.cn^
 ||gwyvvjj.cn^
+||gzgxbmh.cn^
+||haojun.info^
 ||hardened.top^
 ||hardiness.top^
+||hbeqnte.cn^
 ||hbggcm.com^
 ||hbscjh.cn^
 ||hbxxw.vip^
@@ -40237,6 +40242,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jzuyfp8.cn^
 ||k7ab5n4.cn^
 ||kanglaijd.cn^
+||katelin.top^
 ||kbtsogi.cn^
 ||ke94.com^
 ||kershop.ren^
@@ -40252,6 +40258,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||laiyangalibaba.cn^
 ||lbts.ltd^
 ||leqfgnb.cn^
+||lhxwnzht.cn^
 ||lingquan.vip^
 ||lnwhh.com^
 ||lofe.shop^
@@ -40270,6 +40277,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||misstang.vip^
 ||mjywk.cn^
 ||mjzsw.vip^
+||mlgsoji.cn^
 ||mnsd.xyz^
 ||msiqhvl.cn^
 ||myyuye.club^
@@ -40316,6 +40324,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rocm0c.site^
 ||rt354.cn^
 ||rylcbwg.cn^
+||s1utu5g.cn^
 ||sanwukeji.xyz^
 ||scenegame.cn^
 ||sg01.top^
@@ -40410,6 +40419,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zkczbti.cn^
 ||zongjiangc.top^
 ||zongjiangd.top^
+||zrbl21.cn^
 ||zrwba.cn^
 ||zzkbsm.cn^
 ||ejeenews.com^
