@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-18T06:06:24.674Z
+! Last modified: 2021-11-18T12:08:14.444Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,8 @@
 !
 ! The rules with hints are at the end of file
 !
+||cantpastelli.one^
+||ianstarvard.co^
 ||nvidpns.com^
 ||prpbnsp.com^
 ||drtbn.com^
@@ -3180,6 +3182,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||d13qwbj37sfx89.cloudfront.net^
 ||anti.allcryptoz.net^
 ||tagrec.sphdigital.com^
 ||adimage.sphdigital.com^
@@ -19527,6 +19530,7 @@ vkcdnservice.appspot.com^
 ||d37abonb6ucrhx.cloudfront.net^
 ||d38itq6vdv6gr9.cloudfront.net^
 ||d39hdzmeufnl50.cloudfront.net^
+||d39ion77s0ucuz.cloudfront.net^
 ||d39xxywi4dmut5.cloudfront.net^
 ||d3a42c7xs4vn3.cloudfront.net^
 ||d3a49eam5ump99.cloudfront.net^
@@ -26386,6 +26390,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||analytics.300624.com^
 ||measure.ic.tver.jp^
 ||toblog.ctobsnssdk.com^
 ||tobapplog.ctobsnssdk.com^
@@ -27911,6 +27916,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||enormousearth.com^
 ||futuristicapparatus.com^
 ||handyfireman.com^
+||hollowafterthought.com^
 ||impulsejewel.com^
 ||lameletters.com^
 ||nappyattack.com^
@@ -38651,6 +38657,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||a.huocheba.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -39419,15 +39426,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||mjdnarks.cn^
-||6667778882021.site^
-||hhnvrht.cn^
-||rjhtrjb.cn^
-||gdmjskjx.com^
-||whusihgq.cn^
-||ilyjmpg.cn^
-||klakwvw.cn^
-||pokcykb.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -39563,6 +39561,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||652696.com^
 ||65daishua.cn^
 ||65zjp.cn^
+||6667778882021.site^
 ||66993.top^
 ||66cn.com^
 ||686go.cc^
@@ -40222,6 +40221,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fuyangno1.top^
 ||fxhfxhf.cc^
 ||g1kb9u.xyz^
+||gdmjskjx.com^
 ||gdshuotai.cn^
 ||gjohvhf.cn^
 ||go06.cc^
@@ -40230,6 +40230,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||guyun03.cn^
 ||gwmeinq.cn^
 ||gwyvvjj.cn^
+||gywiqnmn.cn^
 ||gzgxbmh.cn^
 ||haojun.info^
 ||hardened.top^
@@ -40243,8 +40244,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hello211.top^
 ||hgdnd.cc^
 ||hhfhgf.cc^
+||hhnvrht.cn^
 ||hnfxhx.xyz^
 ||hnpxsm.com.cn^
+||hnzhengtongkj.cn^
 ||hqcqz2.cn^
 ||hqwrr.cc^
 ||huaxiaozhang.club^
@@ -40257,7 +40260,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||idmee.cn^
 ||ih740.cn^
 ||ilmwi.cn^
+||ilyjmpg.cn^
 ||intell.work^
+||iodobo.xyz^
 ||iprpe.cn^
 ||irzwlux.cn^
 ||jbdz.shop^
@@ -40288,12 +40293,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kjhzwvq.cn^
 ||kjtol.cn^
 ||kkpqhqu.cn^
+||klakwvw.cn^
 ||koooa.net^
 ||kszhmzp.cn^
 ||kukulm.com^
 ||laiyangalibaba.cn^
 ||lbts.ltd^
 ||leqfgnb.cn^
+||lggbxf.com^
 ||lhxwnzht.cn^
 ||lingquan.vip^
 ||lnwhh.com^
@@ -40311,6 +40318,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mhtky.cn^
 ||mineral-water.cn^
 ||misstang.vip^
+||mjdnarks.cn^
 ||mjywk.cn^
 ||mjzsw.vip^
 ||mlgsoji.cn^
@@ -40342,6 +40350,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||picbfnc.cn^
 ||pj16t.cn^
 ||poedlov.cn^
+||pokcykb.cn^
 ||powerchase.online^
 ||pzsq.xyz^
 ||qgfdqjf.cn^
@@ -40358,6 +40367,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rementui.top^
 ||rh447.cn^
 ||rhxshop.com^
+||rjhtrjb.cn^
 ||rocm0c.site^
 ||rt354.cn^
 ||rylcbwg.cn^
@@ -40414,6 +40424,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||weixisiwang.com^
 ||wfeiso.top^
 ||whhepyd.cn^
+||whusihgq.cn^
 ||whwfcm.cn^
 ||wjylfla.cn^
 ||wn052ucd.online^
