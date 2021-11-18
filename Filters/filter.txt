@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-18T12:08:14.444Z
+! Last modified: 2021-11-18T18:05:28.669Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,8 @@
 !
 ! The rules with hints are at the end of file
 !
+||gyrivehmic.com^
+||mousecatzilla.com^
 ||cantpastelli.one^
 ||ianstarvard.co^
 ||nvidpns.com^
@@ -5615,6 +5617,7 @@ vkcdnservice.appspot.com^
 ||besoes.com^
 ||best-vpn.click^
 ||bestaryua.com^
+||bestclevercaptcha.top^
 ||bestcontentaccess.top^
 ||bestcontentfee.top^
 ||bestcontentfund.top^
@@ -5652,6 +5655,7 @@ vkcdnservice.appspot.com^
 ||bewailbeforelibrarian.com^
 ||bewailindigestionunhappy.com^
 ||bexakezi.com^
+||beyabtvojrkny.top^
 ||beyanmaan.com^
 ||bf-ad.net^
 ||bf1872dae47d.com^
@@ -8438,6 +8442,7 @@ vkcdnservice.appspot.com^
 ||fetchinstalmenttraffic.com^
 ||fethungi.com^
 ||fewrfie.com^
+||feyxyguwy.com^
 ||ff5bd8d9f8df.com^
 ||ffbrfjnhhf.com^
 ||fferencebr.space^
@@ -9303,6 +9308,7 @@ vkcdnservice.appspot.com^
 ||h5tjj3loy2.com^
 ||h8bjfdcu.com^
 ||h8vzwpv.com^
+||haaseavy.one^
 ||habitualbasin.com^
 ||habitualorthodox.com^
 ||hackelevensol.com^
@@ -10296,6 +10302,7 @@ vkcdnservice.appspot.com^
 ||jpdniuaaqt.xyz^
 ||jpjmpqaupc.com^
 ||jppbyrkkgpgo.com^
+||jprvhcoroir.xyz^
 ||jpyjdpal.xyz^
 ||jpzwomhbxoalxu.com^
 ||jqcgyjwidktu.xyz^
@@ -10847,6 +10854,7 @@ vkcdnservice.appspot.com^
 ||likecontrol.com^
 ||likelycatchunhappy.com^
 ||likenessalmosteradicate.com^
+||likooste.com^
 ||lilacdefencelessroyal.com^
 ||liliy9aydje10.com^
 ||lilureem.com^
@@ -12327,6 +12335,7 @@ vkcdnservice.appspot.com^
 ||ofhypnoer.com^
 ||ofigraiw.net^
 ||ofixwedjbtjc.com^
+||ofnumeltor.com^
 ||ofreadingand.biz^
 ||ofreligionrumble.com^
 ||ofy3m0gp.com^
@@ -13560,6 +13569,7 @@ vkcdnservice.appspot.com^
 ||ptoushoa.com^
 ||ptp22.com^
 ||ptp24.com^
+||ptqdrphsrlaox.top^
 ||pttsite.com^
 ||ptusuhucho.com^
 ||ptuxinewhi.pro^
@@ -15437,6 +15447,7 @@ vkcdnservice.appspot.com^
 ||suscepts.xyz^
 ||suspensionpanthergalaxy.com^
 ||suspicionsvaluable.com^
+||susseinp.co^
 ||sustainownership.com^
 ||suumlfkkiyhnv.com^
 ||suxhap.com^
@@ -15733,6 +15744,7 @@ vkcdnservice.appspot.com^
 ||throposehodger.pro^
 ||throughhonouredhighest.com^
 ||thrustdeadconsiderably.com^
+||thubyjemi.pro^
 ||thudywhamy.com^
 ||thughighjackcheesy.com^
 ||thugtowardhindsight.com^
@@ -17497,6 +17509,7 @@ vkcdnservice.appspot.com^
 ||yourkadspunew.com^
 ||yourlegacy.club^
 ||yourquickads.com^
+||yourtubetvs.site^
 ||yourwebbars.com^
 ||youtube.local^
 ||yowlcapkegs.com^
@@ -17717,6 +17730,7 @@ vkcdnservice.appspot.com^
 ||zypenetwork.com^
 ||zyxyveshe.com^
 ||zzdb5p4upiug.com^
+||zzghcckpzlhob.com^
 ||zzoacwqfw.com^
 ! Pi hole
 ||exoclick.com^
@@ -20411,6 +20425,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||to.getnitropack.com^
+||deltadna.net^
 ||shonretimus.com^
 ||h.cloudengage.com^
 ||cdp.vemt.com^
@@ -28592,7 +28608,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tl.tradetracker.net^
 ||tm.vendemore.com^
 ||tms.fmm.io^
-||to.getnitropack.com^
 ||tr-op.datatrics.com^
 ||tr.cloud-media.fr^
 ||tr.datatrics.com^
@@ -34671,6 +34686,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
+||adotone.com^
 ||yitongfang.com^
 ||hnyishidengbao.com^
 ||remehealth.net^
@@ -38657,7 +38673,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||a.huocheba.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -38775,6 +38790,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a.epinv.com^
 ||a.exam58.com^
 ||a.hbf23.cn^
+||a.huocheba.com^
 ||a.icdol.com^
 ||a.imgso.cn^
 ||a.jing55.com^
@@ -39284,6 +39300,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||static.sinawap.com^
 ||t.cnscore.com^
 ||t1.612.com^
+||taobc.com^
 ||tech.jiukang.org^
 ||thetestpage.39.net^
 ||tonghuaji.com^
