@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-18T18:05:28.669Z
+! Last modified: 2021-11-19T00:18:56.847Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||oweqas.xyz^
 ||gyrivehmic.com^
 ||mousecatzilla.com^
 ||cantpastelli.one^
@@ -26887,6 +26888,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wknd.ai^
 ||wmgroup.us^
 ||z0uolej1qnxzub1.info^
+||zhctrack.net^
 ||zoomhead.xyz^
 ! Third-party
 ||123stat.com^
@@ -29670,6 +29672,10 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||subxpk.com^
+||rygfjv.com^
+||qdb6gd3nth.ru^
+||ofbjgf.com^
 ||powferads.com^
 ||kyefakwa.com^
 ||namystal.com^
@@ -39443,6 +39449,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||xcgcwfc.cn^
+||wknniyu.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
