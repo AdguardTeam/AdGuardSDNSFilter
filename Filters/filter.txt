@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-20T06:05:15.020Z
+! Last modified: 2021-11-20T12:07:18.124Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||aggingleag.one^
 ||jlklnwmj.com^
 ||ofmoppeuap.com^
 ||oweqas.xyz^
@@ -39,7 +40,6 @@
 ||maxy-tax.com^
 ||auntietraumatizemobile.com^
 ||disruptorgan.com^
-||d3p8w7to4066sy.cloudfront.net^
 ||effectivegatetocontent.com^
 ||ervladdep.xyz^
 ||hopefullyapricot.com^
@@ -19641,6 +19641,7 @@ vkcdnservice.appspot.com^
 ||d3nel6rcmq5lzw.cloudfront.net^
 ||d3nvrqlo8rj1kw.cloudfront.net^
 ||d3ou4areduq72f.cloudfront.net^
+||d3p8w7to4066sy.cloudfront.net^
 ||d3pe8wzpurrzss.cloudfront.net^
 ||d3pk579obpqv7b.cloudfront.net^
 ||d3pvcolmug0tz6.cloudfront.net^
@@ -24703,6 +24704,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||astat.nikkei.co.jp^
 ||stats.zone-telechargement.work^
 ||events-service.coinbase.com^
 ||snowplow-pixel.tradingview.com^
@@ -35643,9 +35645,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Nov 2021 09:30 UTC+7
-! Version: 2111090930
-! Blocked: 1.015 rules
+! Last modified: 20 Nov 2021 15:13 UTC+7
+! Version: 2111201513
+! Blocked: 978 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -35655,13 +35657,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ad.accesstrade.vn^
 ||ad.org.vn^
 ||ad.zing.vn^
-||ad360.vn^
 ||adasiaholdings.com^
 ||adflex.vn^
 ||adfly.vn^
 ||adi.vcmedia.vn^
 ||admicro*.vcmedia.vn^
-||adnet.vn^
 ||adnetwork.vn^
 ||adrealclick.com^
 ||ads-target.coccoc.com^
@@ -35695,7 +35695,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||atdnetwork.com^
 ||autoads.asia^
 ||banners-gallery.coccoc.com^
-||bidgear-syndication.com^
 ||blogstatistics.sapoapps.vn^
 ||bongdadem.net^
 ||brand.zing.vn^
@@ -35708,14 +35707,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cheap-ads.net^
 ||chin-adnetwork.com^
 ||clevernet.vn^
-||clickbuy.bz^
 ||codon.vn^
 ||donglogs.com^
 ||eva-ad.24hstatic.com^
 ||ezimar.com^
 ||flygame.io^
 ||fptad.com^
-||gafin.vn^
 ||gammadsp.com^
 ||gammaplatform.com^
 ||gammassp.com^
@@ -35736,7 +35733,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.news.zing.vn^
 ||log.o2o.service.zaloapp.com^
 ||log.tv.zing.vn^
-||logger.vsmarty.vn^
 ||logv2.mp3.zing.vn^
 ||mangoads.vn^
 ||matomo.*.vn^
@@ -35778,6 +35774,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pushdy.com^
 ||pushdy.vn^
 ||pushtimize.com^
+||px.dmp.zaloapp.com^
 ||px.za.zalo.me^
 ||qc-static.coccoc.com^
 ||qc.coccoc.com^
@@ -35787,9 +35784,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sbz.vn^
 ||sdk.zadn.vn^
 ||service-api.accesstrade.vn^
-||sharks.vn^
 ||shop-cdn.coccoc.com^
-||shopping.coccoc.com^
 ||slimads.vn^
 ||smartconvert.co^
 ||sourcetobin.com^
@@ -35806,7 +35801,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||subiz.xyz^
 ||surfcountor.com^
 ||t.sieu-viet.com^
-||takataka.coccoc.com^
 ||testcentre.vn^
 ||tpmedia.online^
 ||track.accesstrade.vn^
@@ -35814,9 +35808,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.banner.g6.zing.vn^
 ||tracking.playzing.g6.zing.vn^
 ||tracking.tv.zing.vn^
-||tricker.vn^
 ||trk-pcweb.api.zaloapp.com^
-||tuiiu.com^
 ||urekamedia.com^
 ||v9banners-com.cdn.ampproject.org^
 ||vads.net.vn^
@@ -35850,19 +35842,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ad.happynest.vn^
 ||ad.icheck.com.vn^
 ||ad.lapa.pub^
-||ad.mwork.vn^
 ||ad.phunuxuavanay.vn^
-||ad.qtcs.com.vn^
 ||ad.sunflower.vn^
 ||ad.vietbao.vn^
 ||ad.vkool.net^
 ||adadmin.headlines.pw^
 ||adapi.tuyensinh247.com^
-||adc.quantrimang.com^
 ||adchoice.com^
 ||adclient.vietnamnetjsc.vn^
 ||addtop.trangvangvietnam.com^
-||adfox.vn^
 ||adjusts.info^
 ||adm.phunusuckhoe.vn^
 ||adm.phunuvagiadinh.vn^
@@ -35891,7 +35879,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ads.home.vn^
 ||ads.homedy.com^
 ||ads.ictnews.vn^
-||ads.itsgroup.vn^
 ||ads.khoahocdoisong.vn^
 ||ads.kiemsat.vn^
 ||ads.lamchame.vn^
@@ -35901,7 +35888,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ads.netlinkad.vn^
 ||ads.nghenhinvietnam.vn^
 ||ads.nhadatmoi.net^
-||ads.pcccdongduong.vn^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
@@ -35921,7 +35907,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ads.xemphimso.com^
 ||ads1.careerbuilder.vn^
 ||adserver.lag.vn^
-||adserver.luzu.vn^
 ||adserver.muaban.net^
 ||adserver.sudo.vn^
 ||adserver.trangphim.net^
@@ -35955,11 +35940,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adx.xtv.vn^
 ||ailamtrieuphu.com^
 ||ak9.6895588.com^
-||alivar.com.vn^
-||alivar.vn^
-||amobi.vn^
 ||an.dongphim.net^
-||an.motphim.net^
 ||an.xemvtv.net^
 ||api.nas.nct.vn^
 ||apia.headlines.pw^
@@ -35971,11 +35952,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||banner.etargeting.mobifone.vn^
 ||banner.thadaco.vn^
 ||banner.trangvangvietnam.com^
-||banner.vietnamfinance.vn^
+||bidgear-syndication.com^
 ||bluemaulpuffs.com^
 ||cdn-ads.thesaigontimes.vn^
-||cdnasset.dantri.com.vn^
-||click-ads.saoteen.net^
 ||click.vieon.vn^
 ||clix.vn^
 ||core.vnecdn.com^
@@ -36001,7 +35980,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||landingpagelagi.vn^
 ||link.cado.pro^
 ||lottery.headlines.pw^
-||lottery.vntoday.news^
 ||marketing.hub-js.com^
 ||media.dabong247.com^
 ||mega1.yeah1.com^
@@ -36012,10 +35990,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||offerwall.headlines.pw^
 ||openx.motgame.vn^
 ||ox1.vietstock.vn^
-||phimmedia03.com^
 ||qc.5giay.vn^
 ||qc.designervn.net^
-||qc.itsgroup.vn^
 ||qc.japo.vn^
 ||qc.kqbd88.com^
 ||qc.violet.vn^
@@ -36033,6 +36009,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||s.giaoducthoidai.vn^
 ||sda.tamdiem247.com^
 ||serving-ad.tv24.vn^
+||sharks.vn^
 ||shop.vnay.vn^
 ||static.adconnect.vn^
 ||static.mvot.vn^
@@ -36070,7 +36047,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.bkav.com^
 ||analytics.bkav.com.vn^
 ||analytics.diamondstarfinancial.com.vn^
-||analytics.easyvideo.vn^
 ||analytics.explus.vn^
 ||analytics.hub-js.com^
 ||analytics.mfocus.vn^
@@ -36082,7 +36058,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.thethao247.org^
 ||analytics.tiki.vn^
 ||analytics.tintuc.vn^
-||analytics.transmoni.vn^
 ||analytics.viblo.asia^
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
@@ -36094,7 +36069,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||app.hstatic.net^
 ||app.sbz.workers.dev^
 ||btrack.homedy.com^
-||bwstatistics.bizwebapps.vn^
 ||cdn.doke.app^
 ||cdn.tekoapis.com^
 ||clicker.chiaki.vn^
@@ -36108,7 +36082,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||elink.nhanlucnganhluat.vn^
 ||elogs.vnexpress.net^
 ||event.headlines.pw^
-||event.vntoday.news^
 ||fa.fpt.shop^
 ||fbuser.ovp.vn^
 ||file-subiz.com^
@@ -36159,17 +36132,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.trithuctructuyen.com.vn^
 ||log.trithuctructuyen.vn^
 ||log.vietnamdaily.net.vn^
-||log.vietnamfinance.vn^
 ||log.vietnamplus.vn^
 ||log.viettimes.vn^
 ||log.vnay.vn^
 ||log.vnfinance.vn^
-||log.vntoday.news^
 ||log.vov.vn^
 ||log.vovplus.vn^
 ||log.zamba.vn^
 ||log.zingmp3.vn^
-||log.zingtv.vn^
 ||log4x.nixcdn.com^
 ||logapi.misa.com.vn^
 ||logen.vietnamplus.vn^
@@ -36229,18 +36199,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.lapa.pub^
 ||track.lemonnovel.com^
 ||track.pnj.com.vn^
-||track.pregmomvietnam.com^
 ||track.sendo.vn^
 ||track.vio.edu.vn^
 ||tracker.anime47.com^
 ||tracker.bongngo.bar^
-||tracker.bongngo.store^
 ||tracker.fado.vn^
 ||tracker.gigaphim.com^
 ||tracker.phunuvagiadinh.vn^
 ||tracker.thichxemphim.net^
-||tracker.tintucvietnam.vn^
-||tracker.vanlong.stream^
 ||tracking-amp.vnexpress.net^
 ||tracking.appwifi.com^
 ||tracking.dantri.com.vn^
@@ -36254,7 +36220,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.tinxe.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
-||tracking.vtc.vn^
 ||tracking.vtcnew.com.vn^
 ||tracking.yes24.vn^
 ||trackingapi.foody.vn^
@@ -36265,13 +36230,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trk.staging.123c.vn^
 ||userstats.shopee.vn^
 ||vieon-tracking.vieon.vn^
-||vtrack.vht.com.vn^
 ||webchat.caresoft.vn^
 ||webpush.bizfly.vn^
 ||webpush.todo.vn^
 ||webstag.kplus.vn^
 ||widget.kyna.vn^
+||zigzag.vn^
 ||zlog.zingmp3.vn^
+||manclub.game^
 ||1126bet.com^
 ||11bet.com^
 ||11bet.net^
@@ -36299,6 +36265,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||789.moi^
 ||789club.biz^
 ||789club.org^
+||789clubs.club^
 ||79lucky.com^
 ||79sodo.com^
 ||888b.com^
@@ -36587,13 +36554,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||atspace.tv^
 ||bloodleian.club^
 ||bluvenie.com^
-||byonlym.com^
 ||campxanh.info^
 ||celerantatters.com^
 ||cettiarl.com^
 ||drakeesh.com^
 ||facebookz.co^
-||hashearog.com^
 ||irduwhojas.ga^
 ||kaurroot.com^
 ||larpollicwilli.club^
@@ -39597,6 +39562,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tjtsfhh.cn^
 ||tzuyruz.cn^
 ||xsrypte.cn^
+||7to5phc.cn^
+||xpxmpf.cn^
+||etrht.cn^
+||banhfw.cn^
+||jdsy.ltd^
+||gongshangwang.top^
+||banxfw.cn^
+||beizkw.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
