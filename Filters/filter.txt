@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-22T06:07:05.462Z
+! Last modified: 2021-11-22T09:45:49.933Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -17929,6 +17929,7 @@ vkcdnservice.appspot.com^
 ||actiondesk.com^
 ||activedancer.com^
 ||actpx.com^
+||ad-slot.ru^
 ||ad-sponsor.com^
 ||ad-stir.com^
 ||ad.style^
@@ -19354,6 +19355,7 @@ vkcdnservice.appspot.com^
 ||webgains.com^
 ||weborama.fr^
 ||weborama.io^
+||webtrafic.ru^
 ||webwap.org^
 ||whizzco.com^
 ||widgetly.com^
@@ -19376,6 +19378,7 @@ vkcdnservice.appspot.com^
 ||yllix.com^
 ||youlamedia.com^
 ||ypaletdevelspe.info^
+||ypiads.com^
 ||zampad.com^
 ||zap.buzz^
 ||zedo.com^
@@ -24693,7 +24696,6 @@ vkcdnservice.appspot.com^
 ! TikTok
 ||xlog.tiktokv.com^
 ||xlog-va.tiktokv.com^
-||log*-*.tiktokv.com^
 ||xlog*-*.tiktokv.com^
 ||mcs-va.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
@@ -24796,6 +24798,7 @@ vkcdnservice.appspot.com^
 ||stats.zone-telechargement.work^
 ||events-service.coinbase.com^
 ||snowplow-pixel.tradingview.com^
+||analytics.clic2buy.com^
 ||f-log-at.grammarly.io^
 ||f-log-test.grammarly.io^
 ||tracking.swogo.net^
@@ -36672,6 +36675,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||govguangxi.cn^
+||w8sg6.xyz^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -39662,6 +39666,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ksvftk.cn^
 ||pgeuxfs.cn^
 ||ivchui.cn^
+||ayazsth.cn^
+||gdhyoa.cn^
+||beift.com^
+||jingshenhaixian.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
