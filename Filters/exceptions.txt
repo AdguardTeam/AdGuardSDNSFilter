@@ -3,6 +3,14 @@
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/98798
+@@||thumbnail.thench.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/819
+@@||validate.perfdrive.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/98729
+@@||ia.hit.interia.pl^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/797
+@@||r.sascdn.com^|
 ! https://forum.adguard.com/index.php?threads/amplitude-com-blocked.45115
 @@||analytics.amplitude.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/783
@@ -28,9 +36,15 @@
 @@||ma135-r.analytics.edgekey.net^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/89190
 @@||79423.analytics.edgekey.net^|
+!
 ! Blocked by CNAME ||leadpages.net^$third-party
+! https://github.com/AdguardTeam/AdguardFilters/issues/98565
+@@||classliving.lpages.co^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/829
+@@||home.focusatwill.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/707
 @@||health.halodoc.com^|
+!
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/709
 @@||promo.gramedia.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81939
