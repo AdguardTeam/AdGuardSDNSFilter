@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-23T12:08:05.965Z
+! Last modified: 2021-11-23T18:05:27.590Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,11 @@
 !
 ! The rules with hints are at the end of file
 !
+||srv.tunefindforfans.com^
+||pauewr4cw2xs5q.com^
+||propositiondisinterested.com^
+||spzqxefawfeubq.com^
+||ddkakjxy.top^
 ||ormome.com^
 ||denizealgific.com^
 ||crottlerennin.com^
@@ -4270,7 +4275,6 @@ vkcdnservice.appspot.com^
 ||ad-indicator.com^
 ||ad-m.asia^
 ||ad-mapps.com^
-||ad-maven.com^
 ||ad-nex.com^
 ||ad-recommend.com^
 ||ad-server.co.za^
@@ -6886,6 +6890,7 @@ vkcdnservice.appspot.com^
 ||cornerbut.com^
 ||cornfloweramnesty.com^
 ||correspondencecellularstudious.com^
+||corridorfiremanhauled.com^
 ||corruptegypttook.com^
 ||cortegefutwa.casa^
 ||corwrite.com^
@@ -10417,6 +10422,7 @@ vkcdnservice.appspot.com^
 ||jsmjmp.com^
 ||jsmpsi.com^
 ||jsnaktyxljsohwp.xyz^
+||jsontdsexit.com^
 ||jsretra.com^
 ||jssearch.net^
 ||jstatic.org^
@@ -11736,6 +11742,7 @@ vkcdnservice.appspot.com^
 ||mortalunacceptable.com^
 ||mortantameron.club^
 ||mosece.com^
+||mosquedestitute.com^
 ||mosslagoonbookcase.com^
 ||mossyitalian.com^
 ||mostaboutm.biz^
@@ -17951,6 +17958,7 @@ vkcdnservice.appspot.com^
 ||actiondesk.com^
 ||activedancer.com^
 ||actpx.com^
+||ad-maven.com^
 ||ad-slot.ru^
 ||ad-sponsor.com^
 ||ad-stir.com^
@@ -36766,6 +36774,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ||lcttty.top^
 ||samantharegina.com^
+||98765432100.online^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
