@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-23T00:18:56.067Z
+! Last modified: 2021-11-23T06:07:12.359Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,12 @@
 !
 ! The rules with hints are at the end of file
 !
+||denizealgific.com^
+||crottlerennin.com^
+||knightsstatuesteering.com^
+||wcjlsohd.com^
+||tairjrqmdkjjb.xyz^
+||xemtvdrx.xyz^
 ||kgua0o66bcw8.com^
 ||arkfacialdaybreak.com^
 ||ligninenchant.com^
@@ -402,7 +408,6 @@
 ||exploreholidayexcellent.com^
 ||i-reklama.sk^
 ||jnrtavp2x66u.com^
-||cdrvrs.com^
 ||forgivenesspeltanalyse.com^
 ||adzmarket.net^
 ||loxitdat.com^
@@ -6302,6 +6307,7 @@ vkcdnservice.appspot.com^
 ||cdnrl.com^
 ||cdnspace.io^
 ||cdntrf.com^
+||cdrvrs.com^
 ||cdwcdny.com^
 ||cdwkjldcebynxde.xyz^
 ||cdynxqqckkxof.com^
@@ -36779,7 +36785,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1000dy.com^
 ||1002.men^
 ||100fenlm.com^
-||111.175.219.*.js
 ||11111fs.com^
 ||113o.com^
 ||120571.com^
@@ -39739,6 +39744,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zkrmeml.cn^
 ||popwang.top^
 ||jcdixdh.cn^
+||zhifoujiaoyu.xyz^
+||cfhy.xyz^
+||dzctkjj.cn^
+||ocznxv.cn^
+||elvfdnj.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
