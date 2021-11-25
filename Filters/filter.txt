@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-25T12:08:06.431Z
+! Last modified: 2021-11-25T18:05:35.610Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,8 @@
 !
 ! The rules with hints are at the end of file
 !
+||caunuscoagel.com^
+||clickgate07.biz^
 ||stelagharris.com^
 ||underthfeove.one^
 ||utcatholicycl.co^
@@ -4842,6 +4844,7 @@ vkcdnservice.appspot.com^
 ||ajrequestion.xyz^
 ||akeasignifica.biz^
 ||akielf.com^
+||akkdyflrqpdtkt.top^
 ||aklglpwljiv.com^
 ||akrgmgjdcojjcws.top^
 ||alaccinalcom.top^
@@ -7024,6 +7027,7 @@ vkcdnservice.appspot.com^
 ||crptentry.com^
 ||crptgate.com^
 ||crtracklink.com^
+||crudeartfulrecreate.com^
 ||crudestoctdra.cam^
 ||crueltyrefundye.com^
 ||crushingacevex.com^
@@ -10171,6 +10175,7 @@ vkcdnservice.appspot.com^
 ||ipsowrite.com^
 ||iptautup.com^
 ||iptonaib.net^
+||iqbkkhhsgk.com^
 ||iqkfplsez.com^
 ||iqzgqivb.com^
 ||iraithiz.com^
@@ -11940,6 +11945,7 @@ vkcdnservice.appspot.com^
 ||nabbr.com^
 ||naccoun.top^
 ||nacfuns.com^
+||nachogunj.cam^
 ||nads.io^
 ||naemailom.fun^
 ||nagaglugry.com^
@@ -12350,6 +12356,7 @@ vkcdnservice.appspot.com^
 ||nutritioncigarheading.com^
 ||nutstentative.com^
 ||nuttyashy.com^
+||nuwmomnnsi.top^
 ||nuxipsahe.com^
 ||nvbwgk.com^
 ||nvergetpatr.top^
@@ -13239,6 +13246,7 @@ vkcdnservice.appspot.com^
 ||plocap.com^
 ||ployea.com^
 ||plrjs.org^
+||plsrcmp.com^
 ||plufdsa.com^
 ||plugerr.com^
 ||pluggednow.com^
@@ -14590,6 +14598,7 @@ vkcdnservice.appspot.com^
 ||rtbterra.com^
 ||rtbtracking.com^
 ||rtclx.com^
+||rthechoyipfrqlw.top^
 ||rthequaliti.club^
 ||rtk.io^
 ||rtlggubycdpgjt.com^
@@ -15638,6 +15647,7 @@ vkcdnservice.appspot.com^
 ||suumlfkkiyhnv.com^
 ||suxhap.com^
 ||suzanne.pro^
+||svbheymenuwmrva.top^
 ||svclqyctlijue.com^
 ||sviter2s1olenyami1.com^
 ||svjat0rx99.com^
@@ -16415,6 +16425,7 @@ vkcdnservice.appspot.com^
 ||ularlyinteres.biz^
 ||ularunicalrep.info^
 ||ulcerselfservice.com^
+||ulcerstopers.cam^
 ||ulcgtmglrc.com^
 ||ulfewmgywwxs.xyz^
 ||ulngtppm.com^
@@ -17886,6 +17897,7 @@ vkcdnservice.appspot.com^
 ||zmnkduay.com^
 ||zmuphhlienv.com^
 ||znaptag.com^
+||znazlahbcu.com^
 ||znurmlkkeltsb.com^
 ||znznrccyrcr.com^
 ||zo7gihmry2.com^
@@ -20657,6 +20669,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||delivery.satr.jp^
 ||i-cmg-amlg-prod.appspot.com^
 ||capture-api.autopilotapp.com^
 ||s.autopilotapp.com^
@@ -24879,6 +24892,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||frog.yuanfudao.com^
+||clog*.yuanfudao.com^
 ||analytics.send.cm^
 ||s.union.360.cn^
 ||fclog.baidu.com^
@@ -29799,7 +29814,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bvr.snva.jp^
 ||cookie.sync.usonar.jp^
 ||counter2.blog.livedoor.com^
-||delivery.satr.jp^
 ||imgstat.ameba.jp^
 ||ip2c.landscape.co.jp^
 ||lcs.livedoor.net^
@@ -36830,7 +36844,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||jnzhongding.cn^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -37764,6 +37777,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jlwljym.com^
 ||jnxz88.cn^
 ||jnyngg.cn^
+||jnzhongding.cn^
 ||joannalaura.com^
 ||jocelynlaura.com^
 ||johtzj.com^
@@ -39815,18 +39829,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||twuekgl.cn^
-||bjjdboai.cn^
-||jttcbj.cn^
-||abwang.xyz^
-||maiaim.cn^
-||stbaolin.cn^
-||banfzw.cn^
-||wlmhdk.cn^
-||beifb.com^
-||fxkycvo.cn^
-||simastudio.cn^
-||gbbcraf.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -40040,6 +40042,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||abjjsc.cn^
 ||abovede6.com^
 ||abuse8.com^
+||abwang.xyz^
 ||ac56.xyz^
 ||acaog.com^
 ||acaox.com^
@@ -40171,6 +40174,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||b5mc3.life^
 ||b6vgame.xyz^
 ||b6yule.xyz^
+||b76.xyz^
 ||bahu.xyz^
 ||baidu2img.com^
 ||baihbw.cn^
@@ -40192,6 +40196,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||baizbw.cn^
 ||banfk.com^
 ||banfz.com^
+||banfzw.cn^
 ||bangdu2.com^
 ||bangxin.xyz^
 ||banhfw.cn^
@@ -40226,6 +40231,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bdxnc.com^
 ||beautylamp.cn^
 ||bei7.clewx.com^
+||beifb.com^
 ||beifd.com^
 ||beifmu.com^
 ||beift.com^
@@ -40268,6 +40274,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bjhengdiao.com^
 ||bjhmdy.vip^
 ||bjhuhangjy.com^
+||bjjdboai.cn^
 ||bjmxcy.cn^
 ||bjpengyouhui.com^
 ||bjpljy.com.cn^
@@ -40650,9 +40657,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||freeyue.xyz^
 ||fuyangno1.top^
 ||fxhfxhf.cc^
+||fxkycvo.cn^
 ||fyijt.cn^
 ||fzvve.cn^
 ||g1kb9u.xyz^
+||gbbcraf.cn^
 ||gdhyoa.cn^
 ||gdmjskjx.com^
 ||gdshuotai.cn^
@@ -40722,6 +40731,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jngapkf.cn^
 ||jnxiacha.cn^
 ||jsqhh.cn^
+||jttcbj.cn^
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||jyigozm.cn^
 ||jzuyfp8.cn^
@@ -40762,6 +40772,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lzjc.shop^
 ||m5xy0v.cn^
 ||maclwangluokeji.cn^
+||maiaim.cn^
 ||maoxilucai.cn^
 ||mcix.cn^
 ||mgnb.xyz^
@@ -40840,11 +40851,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sherrycha.cn^
 ||shproud.com^
 ||siikzd1.cn^
+||simastudio.cn^
 ||smncden.cn^
 ||soulshape.cn^
 ||spscwlw.cn^
 ||sqmydhk.cn^
 ||sssyao.cn^
+||stbaolin.cn^
 ||sthyhj.cn^
 ||stkx888.cn^
 ||sunmartkj.cn^
@@ -40879,6 +40892,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tszhongtianshiji.com^
 ||tuzufsi.cn^
 ||tw5k2vc.cn^
+||twuekgl.cn^
 ||tzjovzs.cn^
 ||tzuyruz.cn^
 ||u5274.cn^
@@ -40893,6 +40907,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wangcm01.top^
 ||wduwvjd.cn^
 ||wecmaym.cn^
+||wegowan.com^
 ||weixisiwang.com^
 ||wfeiso.top^
 ||wgqhwcg.cn^
@@ -40902,6 +40917,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wjylfla.cn^
 ||wknhovh.cn^
 ||wknniyu.cn^
+||wlmhdk.cn^
 ||wn052ucd.online^
 ||wnet.ink^
 ||woniu1314520.vip^
