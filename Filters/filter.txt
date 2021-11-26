@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-26T06:06:33.694Z
+! Last modified: 2021-11-26T12:08:11.025Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -15734,8 +15734,6 @@ vkcdnservice.appspot.com^
 ||tacticalpizzanetwork.com^
 ||taetsiatomia.com^
 ||tagbom.com^
-||tagcachedataxrt.com^
-||tagcachestaticx.com^
 ||taghaugh.com^
 ||taifouwo.com^
 ||taijiwhi.com^
@@ -27195,6 +27193,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||speedyrhino.co^
 ||stat.ovh^
 ||syteapi.com^
+||tagcachedataxrt.com^
+||tagcachestaticx.com^
 ||tatpek.com^
 ||the-ozone-project.com^
 ||thefontzone.com^
@@ -28722,6 +28722,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||event-api.contactatonce.co.uk^
 ||event-api.contactatonce.com.au^
 ||event-api.contactatonce.com^
+||event-api.rdstation.com.br^
 ||event-listener.air.tv^
 ||event.api.drift.com^
 ||eventgateway.soundcloud.com^
@@ -36877,6 +36878,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ||microsser.cn^
 ||laoyg.com^
+||milecctv.cn^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -39869,6 +39871,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beifz.com^
 ||oivxuct.cn^
 ||ziaxlx.cn^
+||jyrwen.cn^
+||csjs.ltd^
+||grggkas.cn^
+||3932161.xyz^
+||jlc001.com^
+||pzdlfww.cn^
+||tjhjtoyy.cn^
+||zcsdbj.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
