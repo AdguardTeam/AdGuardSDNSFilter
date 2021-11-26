@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-26T12:08:11.025Z
+! Last modified: 2021-11-26T18:05:47.275Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||demelehend.com^
 ||caunuscoagel.com^
 ||clickgate07.biz^
 ||stelagharris.com^
@@ -3157,6 +3158,7 @@ www.llllllllllll.net^
 ||yesadvertising.com^
 ||zanox.com^
 ||zeti.com^
+!+ PLATFORM(ios, ext_safari)
 !+ NOT_OPTIMIZED
 ||o333o.com^
 !+ NOT_OPTIMIZED
@@ -4994,6 +4996,7 @@ vkcdnservice.appspot.com^
 ||andorranisas.xyz^
 ||andriesshied.com^
 ||anedew.com^
+||aneduker.one^
 ||anelexpres.club^
 ||anerqdd.ga^
 ||angege.com^
@@ -5860,6 +5863,7 @@ vkcdnservice.appspot.com^
 ||bnjxyqdvoegi.com^
 ||bnmjjwinf292.com^
 ||bnmla.com^
+||bnnapbth.com^
 ||bnr.sys.lv^
 ||bnr901.com^
 ||bnr902.com^
@@ -6337,6 +6341,7 @@ vkcdnservice.appspot.com^
 ||cdnspace.io^
 ||cdntrf.com^
 ||cdrvrs.com^
+||cdtpugqaosrv.top^
 ||cdwcdny.com^
 ||cdwkjldcebynxde.xyz^
 ||cdynxqqckkxof.com^
@@ -7050,6 +7055,7 @@ vkcdnservice.appspot.com^
 ||ctdhylltfighs.com^
 ||ctdznwavaouc.com^
 ||ctetgwxrgaldb.xyz^
+||cthaic.com^
 ||ctiontouritysh.club^
 ||ctivesprepaired.club^
 ||ctjvkaqiekquag.com^
@@ -8153,6 +8159,7 @@ vkcdnservice.appspot.com^
 ||eoahpbgsvsyfujy.xyz^
 ||eobgrawc.xyz^
 ||eocceucbqnu.com^
+||eoeoxemiyckg.top^
 ||eofgreatid.biz^
 ||eondunpea.com^
 ||eonsmedia.com^
@@ -9475,6 +9482,7 @@ vkcdnservice.appspot.com^
 ||haphazarddrunk.com^
 ||happeningaxis.com^
 ||happer.info^
+||happysow.com^
 ||haprjb.com^
 ||haracteris.club^
 ||haractice.club^
@@ -11843,6 +11851,7 @@ vkcdnservice.appspot.com^
 ||mpnrs.com^
 ||mppmnetwork.com^
 ||mpqfzyh.com^
+||mprcbapfm.top^
 ||mpression.net^
 ||mprezchc.com^
 ||mptentry.com^
@@ -12022,6 +12031,7 @@ vkcdnservice.appspot.com^
 ||nceicurrently.biz^
 ||nceinbutiwo.biz^
 ||ncerningy.club^
+||ncesspervice.co^
 ||nckjysyk.com^
 ||nckwgmbfdwrj.xyz^
 ||ncorports.top^
@@ -13486,6 +13496,7 @@ vkcdnservice.appspot.com^
 ||preferablycompletion.com^
 ||preferenceshackdeduction.com^
 ||preferredain.com^
+||pregamepluteal.com^
 ||pregnancyintuition.com^
 ||pregnantstrictlygot.com^
 ||pregnantvillager.com^
@@ -13976,6 +13987,7 @@ vkcdnservice.appspot.com^
 ||qppdqcid.com^
 ||qptqoylpxmqbz.com^
 ||qpwiyfmlkhbxop.com^
+||qqchmapkqumvetl.top^
 ||qrezvwhtppiv.com^
 ||qrksjrjppkam.com^
 ||qrlgcrzmbuy.com^
@@ -14720,6 +14732,7 @@ vkcdnservice.appspot.com^
 ||sacralcabaa.com^
 ||sadassemblybladder.com^
 ||sadesriffsmap.com^
+||sadits.com^
 ||sadlyfortunesgame.com^
 ||sadlyparable.com^
 ||sadnessplastic.com^
@@ -15244,6 +15257,7 @@ vkcdnservice.appspot.com^
 ||sociomantic.com^
 ||socketboredomdigital.com^
 ||socksorient.com^
+||socwcjnjadcvae.top^
 ||sofinpushpile.com^
 ||soft-com.biz^
 ||soft4dle.com^
@@ -16032,6 +16046,7 @@ vkcdnservice.appspot.com^
 ||tiznmktqel.com^
 ||tjgasbjinlx.xyz^
 ||tjhtclwubg.xyz^
+||tjisenap.com^
 ||tkbo.com^
 ||tkickhhylnvm.com^
 ||tkonyrkc.com^
@@ -16441,6 +16456,7 @@ vkcdnservice.appspot.com^
 ||ukfpgaeihxamg.com^
 ||ukfpibeyfjwhp.xyz^
 ||ukgkugxpzqvqk.com^
+||ukrnment.one^
 ||ukulelead.com^
 ||ul8seok7w5al.com^
 ||ulareighte.top^
@@ -16569,6 +16585,7 @@ vkcdnservice.appspot.com^
 ||uptightpercyplug.com^
 ||uptimecdn.com^
 ||upush.co^
+||uqcxdtodqv.xyz^
 ||uramog.com^
 ||urchrevening.info^
 ||urdmorgytjnbn.xyz^
@@ -19746,6 +19763,7 @@ vkcdnservice.appspot.com^
 ||d26adrx9c3n0mq.cloudfront.net^
 ||d26c6kzavi5zwd.cloudfront.net^
 ||d27gtglsu4f4y2.cloudfront.net^
+||d27qffx6rqb3qm.cloudfront.net^
 ||d28s7kbgrs6h2f.cloudfront.net^
 ||d29dbajta0the9.cloudfront.net^
 ||d29i6o40xcgdai.cloudfront.net^
@@ -20697,6 +20715,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||vought.removeads.workers.dev^
+||clickiocdn.com^
 ||delivery.satr.jp^
 ||i-cmg-amlg-prod.appspot.com^
 ||capture-api.autopilotapp.com^
@@ -20774,7 +20794,6 @@ vkcdnservice.appspot.com^
 ||adfstat.yandex.ru^
 ||ad.plus^
 ||united-infos.net^
-||s.clickiocdn.com^
 ||event.instiengage.com^
 ||toru0vane.com^
 ||trck.linkster.co^
@@ -24920,6 +24939,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||pix2.services.tvn.pl^
 ||frog.yuanfudao.com^
 ||clog*.yuanfudao.com^
 ||analytics.send.cm^
@@ -30109,6 +30129,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||hhnhxu.com^
 ||subxpk.com^
 ||rygfjv.com^
 ||qdb6gd3nth.ru^
@@ -36879,6 +36900,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||microsser.cn^
 ||laoyg.com^
 ||milecctv.cn^
+||selenaroberta.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -39879,6 +39901,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pzdlfww.cn^
 ||tjhjtoyy.cn^
 ||zcsdbj.cn^
+||tvtnbu.cn^
+||e-xinnuo.cn^
+||zixinnuo.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
