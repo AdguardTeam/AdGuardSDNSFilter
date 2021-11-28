@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-28T12:08:07.794Z
+! Last modified: 2021-11-28T18:04:47.229Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||lifeimpressions.net^
 ||d3a00ifauhjdp.cloudfront.net^
 ||puturebraving.com^
 ||helpmight.online^
@@ -36003,9 +36004,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 26 Nov 2021 10:02 UTC+7
-! Version: 2111261002
-! Blocked: 978 rules
+! Last modified: 28 Nov 2021 20:02 UTC+7
+! Version: 2111282002
+! Blocked: 994 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -36050,6 +36051,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||anthill.vn^
 ||ants.vn^
 ||anymind360-com.cdn.ampproject.org^
+||api.widget.zalo.me^
 ||atdnetwork.com^
 ||autoads.asia^
 ||banners-gallery.coccoc.com^
@@ -36066,6 +36068,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||chin-adnetwork.com^
 ||clevernet.vn^
 ||codon.vn^
+||daleriki.com^
 ||donglogs.com^
 ||eva-ad.24hstatic.com^
 ||ezimar.com^
@@ -36104,6 +36107,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metrics.coccoc.com^
 ||mobilead.vn^
 ||mobio.vn^
+||modestsunf.com^
 ||myad.vn^
 ||nanda.vn^
 ||native-ad.net^
@@ -36118,6 +36122,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||oncustomer.asia^
 ||onfluencer.net^
 ||onmarketer.net^
+||page.widget.zalo.me^
 ||partner.accesstrade.vn^
 ||phanquang.vn^
 ||philacct.com^
@@ -36177,6 +36182,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vietnamnetad.vn^
 ||vnnayngaytin.vn^
 ||wg.zaloapp.com^
+||widget.chat.zalo.me^
 ||yeah1media.vn^
 ||yeah1publishing.com^
 ||younetmedia.com^
@@ -36378,6 +36384,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sv-api-lottery.headlines.pw^
 ||sv-static-lottery.headlines.pw^
 ||sv-static1-lottery.headlines.pw^
+||tkpopup.asia^
+||tkpopup.vn^
 ||toppage.vn^
 ||trenddigital.vn^
 ||truoctran.com^
@@ -36595,7 +36603,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||widget.kyna.vn^
 ||zigzag.vn^
 ||zlog.zingmp3.vn^
-||manclub.game^
 ||1126bet.com^
 ||11bet.com^
 ||11bet.net^
@@ -36645,6 +36652,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||b52.win^
 ||bcb80.com^
 ||bestcacuoc8.com^
+||bet66.com^
 ||betvietnam.info^
 ||betvisa.com^
 ||big88.one^
@@ -36667,6 +36675,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||debet.com^
 ||debet.top^
 ||dfchoingay.com^
+||ee66.com^
 ||eurofun88.com^
 ||fa88.win^
 ||fabet.com^
@@ -36736,6 +36745,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kubet77.win^
 ||kubet9.com^
 ||kubet9.net^
+||kuclub9.com^
+||kufun.live^
+||kufun.me^
+||kufun.site^
+||kufun.win^
 ||letou8868.com^
 ||lixi88.info^
 ||lixi888.online^
@@ -36759,6 +36773,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||macau.club^
 ||macauclub.fun^
 ||man.club^
+||manclub.game^
 ||manclub.live^
 ||mansion66.com^
 ||may88.club^
@@ -36827,6 +36842,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sun.win^
 ||sv88.com^
 ||t8betvip.com^
+||ta88.com^
 ||tai789.net^
 ||taib52.club^
 ||taimacau.club^
@@ -36928,6 +36944,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tammenaa.com^
 ||thseaeing.fun^
 ||ucesreferre.club^
+||uqoxh.icu^
 ||vongquaymienphi.net^
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
@@ -39930,6 +39947,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||grours.cn^
+||qewoysy.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
