@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-29T12:08:24.986Z
+! Last modified: 2021-11-29T15:17:50.830Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||guandads.com^
 ||astrazichostfilez2.xyz^
 ||cjtsnykfedv.top^
 ||ogmghzpyq.com^
@@ -8411,6 +8412,7 @@ vkcdnservice.appspot.com^
 ||facialsword.com^
 ||faciliatestudied.com^
 ||facilitategovernor.com^
+||factha.com^
 ||factinform.net^
 ||fadbell.com^
 ||fadedauntrainy.com^
@@ -9823,6 +9825,7 @@ vkcdnservice.appspot.com^
 ||hrtyc.com^
 ||hrtye.com^
 ||hsh51nvkrv.com^
+||hsjvcdjj.top^
 ||hsrvt.com^
 ||hsslx.com^
 ||hstpnetwork.com^
@@ -16605,6 +16608,7 @@ vkcdnservice.appspot.com^
 ||uohkvaauw.xyz^
 ||uopmcdnpad.com^
 ||uoredi.com^
+||updateongoingdiving.com^
 ||upgulpinon.com^
 ||upliftsearch.com^
 ||upolou.com^
@@ -29705,7 +29709,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Turkish
 ! Ukranian
 ||mediatraffic.com.ua^
-||znctrack.net^
 ! Vietnamese
 ||contineljs.com^
 
