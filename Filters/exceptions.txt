@@ -1,8 +1,7 @@
 ! Fixing the issue with "Wi-Fi" connection mark when you configure private DNS on Android 9
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
-!
-!
+@@dnsotls-ds.metric.gstatic.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/824
 @@||id.i2i.jp^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/98798
@@ -164,8 +163,6 @@
 @@||guce.advertising.com^
 ! Unblock logrocket.com blog
 @@||blog.logrocket.com^|
-! AdGuard DNS blocks this domain but for some reason, it messes with Android's network validation process.
-@@dnsotls-ds.metric.gstatic.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27196
 @@||a.adwolf.ru^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/26607
