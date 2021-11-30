@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-30T14:36:29.130Z
+! Last modified: 2021-11-30T18:06:04.372Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,12 @@
 !
 ! The rules with hints are at the end of file
 !
+||d1t4ekjh9ps4ob.cloudfront.net^
+||rinryesop.one^
+||tingeffukec.one^
+||br3azil334nutsz.com^
+||fer2oxheou4nd.com^
+||unseamlocrian.com^
 ||gzlmknzeifjfyp.com^
 ||lrxlbekpmav.com^
 ||mvtmkpysz.com^
@@ -20796,6 +20802,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||f-log-editor.grammarly.io^
 ||clickiocdn.com^
 ||delivery.satr.jp^
 ||i-cmg-amlg-prod.appspot.com^
@@ -26818,6 +26825,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||msga.cupid.iqiyi.com^
+||ndct-data.video.iqiyi.com^
+||ibd-as-api.iq.com^
+||data.mistat.intl.xiaomi.com^
 ||statclick.nate.com^
 ||aff-report.lbesecapi.com^
 ||aff-policy.lbesecapi.com^
