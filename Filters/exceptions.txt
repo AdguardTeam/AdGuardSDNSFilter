@@ -48,7 +48,7 @@
 !
 ! Blocked by CNAME ||customer.io^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/99102
-@@||email2.123formbuilder.com^|
+@@||email*.123formbuilder.com^|
 !
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/709
 @@||promo.gramedia.com^|
