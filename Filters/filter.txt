@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-29T18:05:56.195Z
+! Last modified: 2021-11-30T00:19:15.093Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9568,6 +9568,7 @@ vkcdnservice.appspot.com^
 ||hdvcode.com^
 ||he3mero6calli4s.com^
 ||he7ll.com^
+||heaamajo.one^
 ||headedtamhemp.com^
 ||headlinemoment.com^
 ||headlinesnetwork.com^
@@ -16088,6 +16089,7 @@ vkcdnservice.appspot.com^
 ||tithephustu.com^
 ||tithewtog.com^
 ||titoaktop.com^
+||tivetrainin.one^
 ||tivibyca.com^
 ||tiznmktqel.com^
 ||tjgasbjinlx.xyz^
@@ -19974,6 +19976,7 @@ vkcdnservice.appspot.com^
 ||dlvds9i67c60j.cloudfront.net^
 ||dm0acvguygm9h.cloudfront.net^
 ||dm7gsepi27zsx.cloudfront.net^
+||dmeq7blex6x1u.cloudfront.net^
 ||dmkdtkad2jyb9.cloudfront.net^
 ||dmmzkfd82wayn.cloudfront.net^
 ||dn3uy6cx65ujf.cloudfront.net^
@@ -28957,6 +28960,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mediametrics.mpsa.com^
 ||metering.pagesuite.com^
 ||metrics.api.drift.com^
+||metrics.beyondwords.io^
 ||metrics.ctvdigital.net^
 ||metrics.getvitals.io^
 ||metrics.pico.tools^
@@ -29843,6 +29847,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cdn.hiido.cn^
 ||click.bokecc.com^
 ||cms.grandcloud.cn^
+||collector2c.zhihuishu.com^
 ||d17m68fovwmgxj.cloudfront.net^
 ||da.netease.com^
 ||datacollector-dra.dt.hicloud.com^
@@ -30222,6 +30227,10 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||cxtvli.com^
+||5moxhf6z8c.ru^
+||tpizy1uy3x.ru^
+||pro-100news.ru^
 ||tick-tock.net^
 ||hhnhxu.com^
 ||subxpk.com^
