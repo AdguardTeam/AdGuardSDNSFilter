@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-01T06:08:33.709Z
+! Last modified: 2021-12-01T12:08:21.770Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||wearetopple.com^
 ||d1t4ekjh9ps4ob.cloudfront.net^
 ||rinryesop.one^
 ||tingeffukec.one^
@@ -4392,6 +4393,7 @@ vkcdnservice.appspot.com^
 ||addroplet.com^
 ||adequality.xyz^
 ||adequalitys.xyz^
+||aderstono.one^
 ||adex.media^
 ||adexchange.io^
 ||adexchangecloud.com^
@@ -6834,6 +6836,7 @@ vkcdnservice.appspot.com^
 ||computeterrifyingobdurate.com^
 ||comunicazio.com^
 ||comwgi.com^
+||concealedtripssurgical.com^
 ||conceiveintentlybookie.com^
 ||concentleconse.site^
 ||concentratebeauabsolute.com^
@@ -8295,6 +8298,7 @@ vkcdnservice.appspot.com^
 ||etwxjufiijhk.com^
 ||etzxnqfew.com^
 ||euctah.com^
+||eudoxia-myr.com^
 ||eudsrnlcy.com^
 ||euovfldsups.xyz^
 ||euphoniserent.xyz^
@@ -10129,6 +10133,7 @@ vkcdnservice.appspot.com^
 ||inextricablescope.com^
 ||infercapture.com^
 ||infesthazardous.com^
+||inflamesplittingmotel.com^
 ||inflationbreedinghoax.com^
 ||inflationmileage.com^
 ||infopicked.com^
@@ -11288,6 +11293,7 @@ vkcdnservice.appspot.com^
 ||lvntekpejrmtb.com^
 ||lvodomo.info^
 ||lvqnychauf.com^
+||lwgadm.com^
 ||lx2rv.com^
 ||lxgmgalmrxqlj.xyz^
 ||lxgoewxns.com^
@@ -15839,6 +15845,7 @@ vkcdnservice.appspot.com^
 ||talkmego.com^
 ||talsauve.com^
 ||taoput.com^
+||tapappalling.com^
 ||tapixesa.pro^
 ||tapjoyads.com^
 ||tapsirsa.net^
@@ -19805,6 +19812,7 @@ vkcdnservice.appspot.com^
 ||d1aezk8tun0dhm.cloudfront.net^
 ||d1aqvw7cn4ydzo.cloudfront.net^
 ||d1b240xv9h0q8y.cloudfront.net^
+||d1betjlqogdr97.cloudfront.net^
 ||d1bi6hxlc51jjw.cloudfront.net^
 ||d1bxkgbbc428vi.cloudfront.net^
 ||d1crt12zco2cvf.cloudfront.net^
@@ -20820,6 +20828,7 @@ vkcdnservice.appspot.com^
 !
 ||more-data.ru^
 ||f-log-editor.grammarly.io^
+||gnar.grammarly.com^
 ||clickiocdn.com^
 ||delivery.satr.jp^
 ||i-cmg-amlg-prod.appspot.com^
@@ -35298,6 +35307,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adotone.com^
 ||yitongfang.com^
 ||hnyishidengbao.com^
+||cnzz.yifenghuyu.com^
 ||remehealth.net^
 ||c6890.cn^
 ||ifc-edu.cn^
@@ -39167,6 +39177,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||qdzyspjx.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -39950,6 +39961,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||orizwud.cn^
 ||ynbyutongdianqi.com^
 ||lthwsj.com^
+||ypgdnrz.cn^
+||nogvlkk.cn^
+||axbdlox.cn^
+||ixiang.club^
+||xiyyq.cn^
+||djzwrfi.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
