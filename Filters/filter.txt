@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-11-30T18:06:04.372Z
+! Last modified: 2021-12-01T00:21:05.004Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4879,6 +4879,7 @@ vkcdnservice.appspot.com^
 ||aklglpwljiv.com^
 ||akrgmgjdcojjcws.top^
 ||alaccinalcom.top^
+||alaskan4kleeskai.com^
 ||alawachi.net^
 ||albarkale.site^
 ||albertonne.com^
@@ -6389,6 +6390,7 @@ vkcdnservice.appspot.com^
 ||celeb-ads.com^
 ||celeritascdn.com^
 ||celiberald.xyz^
+||cellojapanel.one^
 ||cellswallpaperstatements.com^
 ||cenceevent.club^
 ||cennter.com^
@@ -7077,6 +7079,7 @@ vkcdnservice.appspot.com^
 ||crudeartfulrecreate.com^
 ||crudestoctdra.cam^
 ||crueltyrefundye.com^
+||cruery.com^
 ||crushingacevex.com^
 ||cryartarm.online^
 ||crypto-news-world.club^
@@ -8111,6 +8114,7 @@ vkcdnservice.appspot.com^
 ||emccgujavc.xyz^
 ||emediate.dk^
 ||ememoricane.info^
+||emeraldmistrust.com^
 ||emergedsocietytheft.com^
 ||emerodsours.cam^
 ||emieweneusxwjp.com^
@@ -8913,6 +8917,7 @@ vkcdnservice.appspot.com^
 ||fuseplatform.net^
 ||fusepsywi.com^
 ||fusionads.net^
+||fusulaeganch.com^
 ||futiry.com^
 ||futsoksu.com^
 ||future-hawk-content.co.uk^
@@ -9430,6 +9435,7 @@ vkcdnservice.appspot.com^
 ||gryshathepe.pro^
 ||gscggckvmd.com^
 ||gscontxt.net^
+||gscqlkaou.top^
 ||gstralpolita.info^
 ||gsvyjunccsw.com^
 ||gtherequ.club^
@@ -9456,6 +9462,7 @@ vkcdnservice.appspot.com^
 ||gvt2.com^
 ||gwallet.com^
 ||gwatchestfe.top^
+||gwdrsafcbns.top^
 ||gwoyrhpjeloo.com^
 ||gwrstksnxo.xyz^
 ||gwwhheahisrtld.com^
@@ -10809,6 +10816,7 @@ vkcdnservice.appspot.com^
 ||krdmqluvudizq.com^
 ||krhyqxenacr.xyz^
 ||krkursist.com^
+||krmwbimfpndwui.top^
 ||kronosspell.com^
 ||krouekal.com^
 ||ksdqhiaythajdv.com^
@@ -11132,6 +11140,7 @@ vkcdnservice.appspot.com^
 ||lloenerginqu.info^
 ||llq9q2lacr.com^
 ||llqd75c56i.com^
+||lltiukmeposi.one^
 ||lltrsknoob.click^
 ||lmepskqkrrya.com^
 ||lmmcyfkmktnoel.com^
@@ -11220,6 +11229,7 @@ vkcdnservice.appspot.com^
 ||loxtk.com^
 ||loyalinvadeballoon.com^
 ||lpuhcdnyejf.com^
+||lqbrelfmigiqv.xyz^
 ||lqcdn.com^
 ||lqcqhkgoer.com^
 ||lqeevjgkjjwi.com^
@@ -13032,6 +13042,7 @@ vkcdnservice.appspot.com^
 ||payslipsprolong.com^
 ||payslipsscowl.com^
 ||pbcde.com^
+||pbhrxxcuobz.com^
 ||pbterra.com^
 ||pc-ads.com^
 ||pc180101.com^
@@ -14344,6 +14355,7 @@ vkcdnservice.appspot.com^
 ||remembranceadventurer.com^
 ||reminews.com^
 ||remintrex.com^
+||remnjkim.top^
 ||remoteeloise.com^
 ||remusclerait.xyz^
 ||renaissanceregretfulpupil.com^
@@ -15215,6 +15227,7 @@ vkcdnservice.appspot.com^
 ||sixteenabsorptionbreed.com^
 ||sjeffrontagr.top^
 ||sjlmekhgwimrjs.xyz^
+||sjlnavdtlyxu.xyz^
 ||sketchinferiorunits.com^
 ||sketmothe.space^
 ||skewlyundazed.com^
@@ -16728,6 +16741,7 @@ vkcdnservice.appspot.com^
 ||utq55kl9vyqv.com^
 ||utteredhandicappedsomebody.com^
 ||utteroccupied.com^
+||uttium.com^
 ||utxdtismojqk.xyz^
 ||uuaajohul.com^
 ||uubforbdc2om.com^
@@ -17479,6 +17493,7 @@ vkcdnservice.appspot.com^
 ||woymebsi.com^
 ||wpadmngr.com^
 ||wpadsx.com^
+||wpjaniwjffwems.top^
 ||wpncdn.com^
 ||wpnjrm.com^
 ||wpnjs.com^
@@ -17918,6 +17933,7 @@ vkcdnservice.appspot.com^
 ||yvmads.com^
 ||yvoria.com^
 ||yvrqcclxbyhrro.com^
+||yvukxuqh.com^
 ||yvzgazds6d.com^
 ||ywasgxqzf.com^
 ||ywodpsbzl.com^
@@ -20802,6 +20818,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||more-data.ru^
 ||f-log-editor.grammarly.io^
 ||clickiocdn.com^
 ||delivery.satr.jp^
@@ -25025,6 +25042,9 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||log.polarisoffice.com^
+||logconfig.polarisoffice.com^
+||t.n.mcdonalds.de^
 ||ploz.mangadex.org^
 ||cm.bilibili.com^
 ||pix2.services.tvn.pl^
@@ -26751,7 +26771,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracker.mtrtb.com^
 ||tracking.ws.eurosport.com^
 ||tracker.rqmob.com^
-||logconfig.polarisoffice.com
 ||analysis.polarisoffice.com
 ||fraudmetrix.cn^
 ||plbslog.umeng.com^
@@ -29697,7 +29716,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lentainform.com^
 ||livetex.ru^
 ||mediatoday.ru^
-||more-data.ru^
 ||onclck.ru^
 ||otclick-adv.ru^
 ||r24-tech.com^
@@ -39920,6 +39938,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stunninglover.com^
 ||uqjflmw.cn^
 ||51teach.club^
+||czxym168.cn^
+||manggo.fun^
+||bt-xd.com^
+||sanyoon.cn^
+||ychbgss.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
