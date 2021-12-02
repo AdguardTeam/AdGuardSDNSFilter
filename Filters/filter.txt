@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-01T18:06:32.279Z
+! Last modified: 2021-12-02T00:19:27.799Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3464,6 +3464,13 @@ www.llllllllllll.net^
 ! spellchecker.lu ad
 ||reklammen.spellchecker.lu^
 ||widget.tippebannere.no^
+!---------------------------------------------------------------------
+!------------------------------ Persian ------------------------------
+!---------------------------------------------------------------------
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/101735
+||deema.agency^
+||cdn.sanjagh.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/37023
 ||kaprila.com^
 ||sabavision.com^
@@ -3675,6 +3682,7 @@ vkcdnservice.appspot.com^
 ||006a039c957c142bb.com^
 ||00aaa2d81c1d174.com^
 ||0127538a552.com^
+||0210bb49cd.com^
 ||0265331.com^
 ||02aa19117f396e9.com^
 ||0346420d60.com^
@@ -4192,6 +4200,7 @@ vkcdnservice.appspot.com^
 ||a4mt150303tl.com^
 ||a5020fec1701e9f3.com^
 ||a5e04df959f1af34.com^
+||a5e2ef28b5.com^
 ||a5ee094155.com^
 ||a63t9o1azf.com^
 ||a67z.com^
