@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-03T12:08:26.508Z
+! Last modified: 2021-12-03T15:37:08.433Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,9 @@
 !
 ! The rules with hints are at the end of file
 !
+||eputfeable.co^
+||ngecauuks.co^
+||gobiidinshore.com^
 ||escudotagalog.com^
 ||courierregistered.com^
 ||new-pressroom.com^
@@ -3242,6 +3245,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||d3pel2vlstnlu9.cloudfront.net^
 ||d2i4wzwe8j1np9.cloudfront.net^
 ||d2werg7o2mztut.cloudfront.net^
 ||d1cw0c50l8jv65.cloudfront.net^
@@ -40046,6 +40050,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pcbwdhd.cn^
 ||dxbwukm.cn^
 ||minglee.vip^
+||zengwx.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -43364,6 +43369,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 @@dnsotls-ds.metric.gstatic.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/101532
+@@||s.threatbook.cn^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/824
 @@||id.i2i.jp^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/98798
