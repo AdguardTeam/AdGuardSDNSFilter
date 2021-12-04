@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-04T12:07:39.096Z
+! Last modified: 2021-12-04T18:05:29.547Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,10 @@
 !
 ! The rules with hints are at the end of file
 !
+||brownsite.click^
+||ipuictahbufbrq.top^
+||oakapsot.com^
+||shuveenvcfzk.com^
 ||eputfeable.co^
 ||ngecauuks.co^
 ||gobiidinshore.com^
@@ -14978,7 +14982,6 @@ vkcdnservice.appspot.com^
 ||shuptiwywhu.com^
 ||shusacem.net^
 ||shustuxyxe.com^
-||shuveenvcfzk.com^
 ||shweflix.com^
 ||shyama-jay.com^
 ||shyhuetub.site^
@@ -39726,7 +39729,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||beibhw.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -40140,6 +40142,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bdzxdyff.cn^
 ||beautylamp.cn^
 ||bei7.clewx.com^
+||beibhw.cn^
 ||beifb.com^
 ||beifd.com^
 ||beifmu.com^
@@ -40932,6 +40935,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xcms.shop^
 ||xdfgrew.cn^
 ||xdnuo.cn^
+||xdwqq.cn^
 ||xfvbs.cn^
 ||xiaofashi.top^
 ||xiaolipc.cn^
