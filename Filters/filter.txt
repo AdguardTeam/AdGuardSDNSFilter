@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-05T12:08:46.250Z
+! Last modified: 2021-12-05T18:04:35.036Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||cdn.fedsy.xyz^
 ||brownsite.click^
 ||ipuictahbufbrq.top^
 ||oakapsot.com^
@@ -301,7 +302,6 @@
 ||fristminyas.com^
 ||gdggdceehihgbgigadj.ru^
 ||gettingusingpoison.com^
-||halltrasy.com^
 ||kindnessmarshalping.com^
 ||prowesshearing.com^
 ||salinasbhut.com^
@@ -609,7 +609,6 @@
 ||ads.timesjobsandcareers.com^
 ||assertnourishingconnection.com^
 ||fouptebu.net^
-||kinkledunendly.com^
 ||passwordscompound.com^
 ||dreadfulwomb.com^
 ||primis.tech^
@@ -670,7 +669,6 @@
 ||izzzovhvisnxgy.com^
 ||cluster.awmdelivery.com^
 ||red12flyw2.site^
-||pop5sjhspear.com^
 ||tuwuzaci.xyz^
 ||stitchkidney.com^
 ||vilercarpetfolk.com^
@@ -4878,6 +4876,7 @@ vkcdnservice.appspot.com^
 ||ajkelra.com^
 ||ajkzd9h.com^
 ||ajrequestion.xyz^
+||akdjnwil.com^
 ||akeasignifica.biz^
 ||akielf.com^
 ||akkdyflrqpdtkt.top^
@@ -5759,6 +5758,7 @@ vkcdnservice.appspot.com^
 ||bgtgag.com^
 ||bh3.net^
 ||bhcumsc.com^
+||bhhsttijvyuajtj.top^
 ||bhwcfwjz.com^
 ||biasedrepercussion.com^
 ||bibagloty.com^
@@ -5843,6 +5843,7 @@ vkcdnservice.appspot.com^
 ||bleopi.com^
 ||blessgarments.com^
 ||blessingpudding.com^
+||blhxpsyc.top^
 ||blinkadr.com^
 ||blinkedmanagementmoan.com^
 ||blismedia.com^
@@ -5890,6 +5891,7 @@ vkcdnservice.appspot.com^
 ||bnnapbth.com^
 ||bnq33.com^
 ||bnq53.com^
+||bnq73.com^
 ||bnr.sys.lv^
 ||bnr901.com^
 ||bnr902.com^
@@ -6613,6 +6615,7 @@ vkcdnservice.appspot.com^
 ||clevernt.com^
 ||clevv.com^
 ||clfxjrlui.com^
+||clfxts.com^
 ||cliand.com^
 ||clic2pub.com^
 ||clicadu.com^
@@ -9460,6 +9463,7 @@ vkcdnservice.appspot.com^
 ||halileo.com^
 ||halleyperson.pro^
 ||halloasabjurer.com^
+||halltrasy.com^
 ||halogeniserions.site^
 ||halogennetwork.com^
 ||haltedpredicament.com^
@@ -9616,6 +9620,7 @@ vkcdnservice.appspot.com^
 ||hgzuqrtzt.com^
 ||hhit.xyz^
 ||hhllryxtfgypz.com^
+||hhlsboieyccmgy.top^
 ||hhunvu.com^
 ||hiadone.com^
 ||hiankh.com^
@@ -10190,6 +10195,7 @@ vkcdnservice.appspot.com^
 ||iphumiki.com^
 ||ipiech.com^
 ||ipmbnqqaon.com^
+||ipngurper.top^
 ||ipp1s.xyz^
 ||ipredictive.com^
 ||iprom.net^
@@ -10277,6 +10283,7 @@ vkcdnservice.appspot.com^
 ||iwyphlxfuufeos.com^
 ||ixcris.com^
 ||ixhparehw.com^
+||ixljluojcit.com^
 ||ixnp.com^
 ||iyfnz.com^
 ||iyfnzgb.com^
@@ -10647,6 +10654,7 @@ vkcdnservice.appspot.com^
 ||kingithinref.club^
 ||kingwithm.biz^
 ||kingyonlendir.link^
+||kinkledunendly.com^
 ||kinkydisplacelate.com^
 ||kinley.com^
 ||kinmainly.com^
@@ -12372,6 +12380,7 @@ vkcdnservice.appspot.com^
 ||nxmsaiip.top^
 ||nxpectsecti.fun^
 ||nxtck.com^
+||nxxjweqf.xyz^
 ||nxzmphowpnb.com^
 ||ny8yoo2ro5aa.com^
 ||nyadmcncserve-05y06a.com^
@@ -12682,6 +12691,7 @@ vkcdnservice.appspot.com^
 ||orbhcvyfgitkpfl.xyz^
 ||orcjagpox.com^
 ||ordealgraveyard.com^
+||orealiukzemy.co^
 ||organicflametail.com^
 ||orgpcxyohrd.com^
 ||orgxts.com^
@@ -12739,6 +12749,7 @@ vkcdnservice.appspot.com^
 ||ouropenin.club^
 ||ourseismol.biz^
 ||oursexist.com^
+||ouseoopers.co^
 ||oushenoo.net^
 ||ousseghu.net^
 ||ousseventi.info^
@@ -12965,6 +12976,7 @@ vkcdnservice.appspot.com^
 ||pebidigra.pro^
 ||peckshadowlousy.com^
 ||peculiaritiesfrequencymedicine.com^
+||pedestalstall.com^
 ||pedestalturner.com^
 ||pedestrianneighbourly.com^
 ||pedisp.com^
@@ -13306,6 +13318,7 @@ vkcdnservice.appspot.com^
 ||poorlygarrisondistant.com^
 ||poosoahe.com^
 ||poosugap.com^
+||pop5sjhspear.com^
 ||popadon.com^
 ||popads.media^
 ||popads.net^
@@ -13742,6 +13755,7 @@ vkcdnservice.appspot.com^
 ||pulpyads.com^
 ||pulsemgr.com^
 ||pulseonclick.com^
+||pulybewqdhft.top^
 ||pumdfferpkin5hs454r43eeds.com^
 ||pumolt.com^
 ||pumpbead.com^
@@ -14437,6 +14451,7 @@ vkcdnservice.appspot.com^
 ||rkpecade.com^
 ||rkxkesgncpkcf.xyz^
 ||rkyijdrys.com^
+||rlbbvrcnu.xyz^
 ||rlomivunesqal.com^
 ||rmbn.net^
 ||rmcxyfqbm.com^
@@ -15897,6 +15912,7 @@ vkcdnservice.appspot.com^
 ||thoughuttered.com^
 ||thousandfixedlyyawn.com^
 ||thousandimplied.com^
+||threatenlaid.com^
 ||thricemodestsuffix.com^
 ||thrilledaliasoil.com^
 ||thrillingholesantarctic.com^
@@ -16588,6 +16604,7 @@ vkcdnservice.appspot.com^
 ||uuydabxaindfsb.xyz^
 ||uvertauh.com^
 ||uvkdwmdcnwa.com^
+||uvqjlolargixxea.top^
 ||uwdtibwk.com^
 ||uwoaptee.com^
 ||uxxfierq.xyz^
@@ -16699,6 +16716,7 @@ vkcdnservice.appspot.com^
 ||vessoupy.com^
 ||vetodelaycourageous.com^
 ||vevatom.com^
+||vexturkeyupbrining.com^
 ||vfbvcshnc.com^
 ||vffvtxcykog.com^
 ||vfghc.com^
@@ -16820,6 +16838,7 @@ vkcdnservice.appspot.com^
 ||vnacdnryl.com^
 ||vnq33.com^
 ||vnq53.com^
+||vnq73.com^
 ||vnr81.com^
 ||vnr82.com^
 ||vnr83.com^
@@ -17715,6 +17734,7 @@ vkcdnservice.appspot.com^
 ||yr9n47004g.com^
 ||ysdtcdnoox.com^
 ||ysgqfroqbqk.top^
+||ysjekmgqm.top^
 ||ysmhcwwvgtcx.com^
 ||ysnj74ed.com^
 ||ystammedre.info^
@@ -35944,9 +35964,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 Nov 2021 20:02 UTC+7
-! Version: 2111282002
-! Blocked: 994 rules
+! Last modified: 05 Dec 2021 21:15 UTC+7
+! Version: 2112052115
+! Blocked: 1.002 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -35998,6 +36018,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||blogstatistics.sapoapps.vn^
 ||bongdadem.net^
 ||brand.zing.vn^
+||button-follow.zalo.me^
 ||bwstatistics.sapoapps.vn^
 ||cdn-bongdadem-net.cdn.ampproject.org^
 ||cdn-qc.coccoc.com^
@@ -36007,6 +36028,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cheap-ads.net^
 ||chin-adnetwork.com^
 ||clevernet.vn^
+||cococx.com^
 ||codon.vn^
 ||daleriki.com^
 ||donglogs.com^
@@ -36544,6 +36566,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zigzag.vn^
 ||zlog.zingmp3.vn^
 ||1126bet.com^
+||11bet.club^
 ||11bet.com^
 ||11bet.net^
 ||11bet.us^
@@ -36611,6 +36634,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||casino888vn.com^
 ||comebetvn3.com^
 ||comebetvn9.com^
+||dabet.me^
 ||datcuoc247.com^
 ||debet.com^
 ||debet.top^
@@ -36648,6 +36672,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||five88.net^
 ||fivevn.net^
 ||fun1118.com^
+||funtructuyen88.com^
 ||gamebai.club^
 ||gaznbike.com^
 ||gdwbetvn888.com^
@@ -36767,6 +36792,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sbc31.com^
 ||sieubomtan.com^
 ||sin88.biz^
+||sin88.club^
 ||sin88.com^
 ||sin88.mobi^
 ||sky88.com^
@@ -36789,6 +36815,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||taiv8.com^
 ||taiv8.info^
 ||tangsoc.com^
+||tf88luck.com^
 ||tf88v.com^
 ||thethaodabet.com^
 ||thethaofb88.com^
@@ -36821,6 +36848,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vn88.casino^
 ||vn88.club^
 ||vn88.com^
+||vnd188.app^
 ||vndbet88.com^
 ||vngame66.com^
 ||vnloto.com^
@@ -39013,6 +39041,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||b1.027art.com^
 ||003store.com^
 ||rst2.y3600.cn^
 ||1.01fy.cn^
