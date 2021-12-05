@@ -135,11 +135,6 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/304
 @@||cindyholbrook.lpages.co^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/289
-! Fixing Google Shop and Google Ads in search results.
-! These ads cannot be hidden on the DNS-level, so we should not break clicks on the adverts
-@@||pagead.l.doubleclick.net^|
-@@||www.googleadservices.com^|
-@@||googleadapis.l.google.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/287
 @@||my.tealiumiq.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/267
