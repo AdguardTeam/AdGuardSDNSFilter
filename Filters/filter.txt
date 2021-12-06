@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-06T06:08:18.470Z
+! Last modified: 2021-12-06T11:22:30.070Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,8 @@
 !
 ! The rules with hints are at the end of file
 !
+||cluttercallousstopped.com^
+||divorceseed.com^
 ||cdn.fedsy.xyz^
 ||brownsite.click^
 ||ipuictahbufbrq.top^
@@ -183,7 +185,6 @@
 ||0i0i0i0.com^
 ||profield.ddns.net^
 ||neekstore.com^
-||mellowpresence.com^
 ||tenthsfrumpy.com^
 ||xlmesapxahyi.xyz^
 ||best-sexy-partner1.com^
@@ -719,7 +720,6 @@
 ||sorrowfulchemical.com^
 ||nonestolesantes.com^
 ||joyhaftsyears.com^
-||lionquerychord.com^
 ||jawsfixture.com^
 ||tronglyre.club^
 ||exru.website^
@@ -5219,6 +5219,7 @@ vkcdnservice.appspot.com^
 ||asmsagvjbxejm.xyz^
 ||aso1.net^
 ||asoulrox.com^
+||asozelyuz.com^
 ||asparagusmeaninglessyearly.com^
 ||asparmany.site^
 ||aspartbib.site^
@@ -5752,6 +5753,7 @@ vkcdnservice.appspot.com^
 ||bf1872dae47d.com^
 ||bfast.com^
 ||bfe4e6d364be199.com^
+||bfqcx.xyz^
 ||bftrlhesrlfjp.com^
 ||bfts.xyz^
 ||bfypvmnytobqyn.xyz^
@@ -6440,6 +6442,7 @@ vkcdnservice.appspot.com^
 ||chairwaydenew.site^
 ||chaissoo.com^
 ||chalkedapplaudincident.com
+||challengehurts.com^
 ||chameleon.ad^
 ||chancesmusicalinterrogation.com^
 ||chandlerimageproduct.com^
@@ -7246,6 +7249,7 @@ vkcdnservice.appspot.com^
 ||dashboardad.net^
 ||dashgreen.online^
 ||dashingperfect.com^
+||daspiratioty.co^
 ||data-data-vac.com^
 ||dateregionsmadman.com^
 ||dateszone.net^
@@ -7447,6 +7451,7 @@ vkcdnservice.appspot.com^
 ||dhboldoduti.com^
 ||dhilyjdw.com^
 ||dhkwxpzgvqgr.com^
+||dhqiwvqbrukp.top^
 ||dhundora.com^
 ||diagnosedifferentlycompute.com^
 ||dialgold.com^
@@ -7464,6 +7469,7 @@ vkcdnservice.appspot.com^
 ||didchinosdub.cam^
 ||diddaisycuff.com^
 ||didpuprat.com^
+||differukent.co^
 ||difficerche.biz^
 ||difficultydilapidationsodium.com^
 ||digadser.com^
@@ -8524,6 +8530,7 @@ vkcdnservice.appspot.com^
 ||featbooksterile.com^
 ||featuredusers.com^
 ||featurelink.com^
+||featurespossessed.com^
 ||featurewinning.life^
 ||featwombknockout.com^
 ||febadu.com^
@@ -8857,6 +8864,7 @@ vkcdnservice.appspot.com^
 ||fsalfrwdr.com^
 ||fsitel.com^
 ||fsobjvtkew.com^
+||ftbfbnnqcswcdeo.top^
 ||ftjcfx.com^
 ||ftklr.com^
 ||ftliokfhtyijhl.com^
@@ -9704,6 +9712,7 @@ vkcdnservice.appspot.com^
 ||hjmagamal.com^
 ||hkbrrwxnijhnfg.com^
 ||hkhotpewfxr.com^
+||hklhkkojvuyi.top^
 ||hkoroalxgsnu.com^
 ||hkoxlirf.com^
 ||hkqgavlx.com^
@@ -10502,6 +10511,7 @@ vkcdnservice.appspot.com^
 ||jsmjmp.com^
 ||jsmpsi.com^
 ||jsnaktyxljsohwp.xyz^
+||jsojdmcxaunsxw.top^
 ||jsontdsexit.com^
 ||jsretra.com^
 ||jssearch.net^
@@ -10921,6 +10931,7 @@ vkcdnservice.appspot.com^
 ||layoutovuleads.casa^
 ||layshyjar.com^
 ||lazyovertime.com^
+||lbfneriip.top^
 ||lbgchljyhjmev.com^
 ||lbwcdnjpy.com^
 ||lcdnw.com^
@@ -11070,6 +11081,7 @@ vkcdnservice.appspot.com^
 ||liondignify.com^
 ||liongetme.com^
 ||lioningepit.fun^
+||lionquerychord.com^
 ||lipemicgears.com^
 ||liqpvvxngdbo.xyz^
 ||lirsmmnsaixa.com^
@@ -11209,6 +11221,8 @@ vkcdnservice.appspot.com^
 ||ludesthat.club^
 ||luggagetumbledapple.com^
 ||lujxmxlmdfwhauw.top^
+||lujxmxlmdfwhauw.xyz^
+||lumaktoys.com^
 ||lumcarring.fun^
 ||luminosoocchio.com^
 ||lumreckle.fun^
@@ -11525,6 +11539,7 @@ vkcdnservice.appspot.com^
 ||meinlist.com^
 ||melindahicks.xyz^
 ||mellodur.net^
+||mellowpresence.com^
 ||mellowtin.com^
 ||melongnaw.com^
 ||meltdownstake.com^
@@ -11742,6 +11757,7 @@ vkcdnservice.appspot.com^
 ||mobreach.com^
 ||mobshark.net^
 ||mobstrks.com^
+||mobsxlxoljirw.top^
 ||mobtrks.com^
 ||mobtyb.com^
 ||mobytrks.com^
@@ -11758,6 +11774,7 @@ vkcdnservice.appspot.com^
 ||mogihovi.com^
 ||mogointeractive.com^
 ||mohini-ger.com^
+||moifowadarbsweo.top^
 ||moistblank.com^
 ||mojiva.com^
 ||mojoaffiliates.com^
@@ -12330,6 +12347,7 @@ vkcdnservice.appspot.com^
 ||npubzssuoini.com^
 ||npvos.com^
 ||nq93jx1vpq9r.com^
+||nqmdjtol.top^
 ||nqrkzcd7ixwr.com^
 ||nqslmtuswqdz.com^
 ||nquhxlfbuis.com^
@@ -12570,6 +12588,7 @@ vkcdnservice.appspot.com^
 ||ojpem.com^
 ||ojpweezvce.com^
 ||ojwejqeqvxn.xyz^
+||ojxgmgvpfad.top^
 ||okaoqyvdgoozbt.com^
 ||okayarab.com^
 ||okdigital.me^
@@ -14125,6 +14144,7 @@ vkcdnservice.appspot.com^
 ||rcblkkhfvrxyn.com^
 ||rconand.club^
 ||rcptik.ru^
+||rcpudkfstrocmx.top^
 ||rcurn.com^
 ||rcvlink.com^
 ||rcvlinks.com^
@@ -14406,6 +14426,7 @@ vkcdnservice.appspot.com^
 ||rfihub.net^
 ||rfity.com^
 ||rfmxmgxsm.top^
+||rgcfllkeio.top^
 ||rggtysyp.com^
 ||rgttoipdr.com^
 ||rgvqcsxqge.com^
@@ -16420,6 +16441,7 @@ vkcdnservice.appspot.com^
 ||uhfdsplo.com^
 ||uhkdsplo.com^
 ||uhlirmnejsndfs.top^
+||uhlirmnejsndfs.xyz^
 ||uhodsplo.com^
 ||uhpdsplo.com^
 ||uhsmmaq4l2n5.com^
@@ -16525,6 +16547,7 @@ vkcdnservice.appspot.com^
 ||unlimited-media.co^
 ||unlockr.com^
 ||unmetalised.com^
+||unmord.com^
 ||unmovedfollycomb.com^
 ||unoblotto.net^
 ||unoseconomin.xyz^
@@ -17163,6 +17186,7 @@ vkcdnservice.appspot.com^
 ||wfhhjpdh.top^
 ||wfhucstzrdpvmi.com^
 ||wfnetwork.com^
+||wfuipqowa.com^
 ||wg-aff.com^
 ||wgafd.com^
 ||wgat5ln2wly8.com^
@@ -17503,6 +17527,7 @@ vkcdnservice.appspot.com^
 ||xesigyno.pro^
 ||xev2o.com^
 ||xeverirpunyv.com^
+||xfffx.xyz^
 ||xffiyaucxebto.com^
 ||xfileload.com^
 ||xfuckbook.com^
@@ -17723,6 +17748,7 @@ vkcdnservice.appspot.com^
 ||yldmgrimg.net^
 ||yltcgyud.com^
 ||ylvessovi.pro^
+||ylvjrfabncbo.top^
 ||ylwu7xm3a1wv.com^
 ||ylx-1.com^
 ||ylx-2.com^
@@ -17731,6 +17757,7 @@ vkcdnservice.appspot.com^
 ||ym-a.cc^
 ||ym8p.net^
 ||ymnoebdjreb.top^
+||ymnoebdjreb.xyz^
 ||ymrseiueff.com^
 ||ymzrrizntbhde.com^
 ||ynaxckzmreo.com^
@@ -17966,6 +17993,7 @@ vkcdnservice.appspot.com^
 ||zrlcr.com^
 ||zro56hd6szoy.com^
 ||zrvnhlwypqpwjw.com^
+||zsmmflxvkgvmcf.com^
 ||zsxqjjobfb.com^
 ||ztexhfznxvpr.com^
 ||zubivu.com^
@@ -20707,6 +20735,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||analytics.tiendaenoferta.com^
 ||more-data.ru^
 ||f-log-editor.grammarly.io^
 ||gnar.grammarly.com^
@@ -23873,6 +23902,7 @@ vkcdnservice.appspot.com^
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
 !
+||hollowafterthought.com^
 ||rabbitbreath.com^
 ||friendwool.com^
 ||breadbalance.com^
@@ -24932,6 +24962,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||ut.gamersyde.com^
 ||pcapp-data-collect.youku.com^
 ||log.polarisoffice.com^
 ||logconfig.polarisoffice.com^
@@ -28350,7 +28381,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||handyfireman.com^
 ||hauntlist.com^
 ||hesitanttoothpaste.com^
-||hollowafterthought.com^
 ||honorablehydrant.com^
 ||hoplaugh.com^
 ||hosenews.com^
@@ -28447,6 +28477,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stretchsister.com^
 ||stringsmile.com^
 ||stupendoussnow.com^
+||superficialeyes.com^
 ||superficialspring.com^
 ||swimslope.com^
 ||synonymousrule.com^
@@ -29450,7 +29481,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sdqoi2d.com^
 ||tagmanager.cn^
 ||tenmax.io^
-||threatbook.cn^
 ||tomonline-inc.com^
 ||topsem.com^
 ||turtlemobile.com.tw^
@@ -34940,6 +34970,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||adtest.pages.dev^
+||connead.net^
+||goldenssp.com^
+||new-adtest.pages.dev^
 ||adsozai.com^
 ||cn.dap.dmm.co.jp^
 ||cdj-dap.s3-ap-northeast-1.amazonaws.com^
@@ -39880,6 +39914,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||beixcw.cn^
+||mebtc.cn^
+||yunfeiyang.club^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -43250,8 +43287,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 @@dnsotls-ds.metric.gstatic.com^
-! https://github.com/AdguardTeam/AdguardFilters/issues/101532
-@@||s.threatbook.cn^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/824
 @@||id.i2i.jp^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/98798
