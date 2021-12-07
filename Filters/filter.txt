@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-07T06:06:51.090Z
+! Last modified: 2021-12-07T12:08:47.806Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||gloriagraceful.com^
 ||cluttercallousstopped.com^
 ||divorceseed.com^
 ||cdn.fedsy.xyz^
@@ -20772,6 +20773,7 @@ vkcdnservice.appspot.com^
 ||more-data.ru^
 ||f-log-editor.grammarly.io^
 ||gnar.grammarly.com^
+||trk.reclameaqui.com.br^
 ||clickiocdn.com^
 ||delivery.satr.jp^
 ||i-cmg-amlg-prod.appspot.com^
@@ -36093,9 +36095,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Dec 2021 21:15 UTC+7
-! Version: 2112052115
-! Blocked: 1.002 rules
+! Last modified: 07 Dec 2021 19:03 UTC+7
+! Version: 2112071903
+! Blocked: 1.008 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -36290,6 +36292,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||12signup.com^
 ||5734a40f2d.vws.vegacdn.vn^
 ||703531862.vws.vegacdn.vn^
+||95395c25b4.vws.vegacdn.vn^
 ||ad-admin.vnay.vn^
 ||ad.24h.com.vn^
 ||ad.chieuhoa.com^
@@ -36432,6 +36435,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||interactive.tinnhanhchungkhoan.vn^
 ||k8trangphim.com^
 ||ketquaxosotoancau.org^
+||lamthong.net^
 ||landingpagelagi.vn^
 ||link.cado.pro^
 ||lottery.headlines.pw^
@@ -36834,6 +36838,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kidslovemartialartsomahane.com^
 ||kingbet86.info^
 ||ktoviet.com^
+||ku6110.net^
 ||kubet.biz^
 ||kubet.life^
 ||kubet77.win^
@@ -36856,6 +36861,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lucky88.com^
 ||lucky88.live^
 ||lucky88.net^
+||lucky88.tv^
 ||lucky88.win^
 ||lux39.club^
 ||m883d.com^
@@ -36904,6 +36910,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||oppa88888888.com^
 ||oxbet.club^
 ||oxbet.com^
+||oxbet.net^
 ||playgamefa88.live^
 ||playgo88.asia^
 ||playv8.com^
@@ -37030,6 +37037,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cettiarl.com^
 ||drakeesh.com^
 ||facebookz.co^
+||garrena.vn^
 ||irduwhojas.ga^
 ||kaurroot.com^
 ||larpollicwilli.club^
@@ -39960,6 +39968,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||benwtw.cn^
 ||dohnxnn.cn^
 ||zhonglutang.group^
+||adgtx.club^
+||jyzaw.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
