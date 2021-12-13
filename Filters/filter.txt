@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-13T06:07:14.474Z
+! Last modified: 2021-12-13T12:08:44.613Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,8 @@
 !
 ! The rules with hints are at the end of file
 !
+||mobileoffers-ac-download.com^
+||hdwbdlre.top^
 ||2llmonds4ehcr93nb.com^
 ||api.clickaine.com^
 ||video-ads-module.ad-tech.nbcuni.com^
@@ -8979,6 +8981,7 @@ vkcdnservice.appspot.com^
 ||fxdepo.com^
 ||fxjbosijndirva.xyz^
 ||fyhishushe.com^
+||fyjqdgqiuk.top^
 ||fykmahfa.com^
 ||fykqixiyyd.com^
 ||fythavoshu.com^
@@ -9967,6 +9970,7 @@ vkcdnservice.appspot.com^
 ||hutawheglu.com^
 ||huuyluwjkyd.xyz^
 ||hvato.info^
+||hvotpsalhs.top^
 ||hvvevjiuq.com^
 ||hxlswibowjf.com^
 ||hxrylvbm.com^
@@ -13866,6 +13870,7 @@ vkcdnservice.appspot.com^
 ||ptavizap.net^
 ||ptawe.com^
 ||ptawehex.net^
+||ptawhood.net^
 ||ptcqjliwwkldm.com^
 ||ptdqgnfnhsiarnv.xyz^
 ||ptechait.com^
@@ -37214,6 +37219,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||lm342.com^
+||wotufeiye.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40139,6 +40145,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jktshare.icu^
 ||banfw.com^
 ||puwxbcb.cn^
+||dmsyinm.cn^
+||baimb.com^
+||vrtrdvx.cn^
+||ajiekeji.club^
+||iiiuuu.top^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
