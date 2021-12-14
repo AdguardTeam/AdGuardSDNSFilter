@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-14T12:08:13.484Z
+! Last modified: 2021-12-14T18:06:07.100Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||lmrycxuojndbekx.top^
 ||hyperlnk.xyz^
 ||enicyvys.xyz^
 ||faluhupo.xyz^
@@ -6422,6 +6423,7 @@ vkcdnservice.appspot.com^
 ||cdnspace.io^
 ||cdntrf.com^
 ||cdrvrs.com^
+||cdtbox.rocks^
 ||cdwcdny.com^
 ||cdwkjldcebynxde.xyz^
 ||cdynxqqckkxof.com^
@@ -6577,6 +6579,7 @@ vkcdnservice.appspot.com^
 ||chpok.pw^
 ||chrigm.com^
 ||christingera.site^
+||christmasaxehandyman.com^
 ||christmasporn.top^
 ||chronicads.com^
 ||chronicleisoconfused.com^
@@ -9005,6 +9008,7 @@ vkcdnservice.appspot.com^
 ||g2921554487.com^
 ||g3j2wzmon8b.com^
 ||g5fzq2l.com^
+||g8ads.com^
 ||g8cp5djk1j0r.com^
 ||ga87z2o.com^
 ||gabbleplacidcelery.com^
@@ -9103,6 +9107,7 @@ vkcdnservice.appspot.com^
 ||gdlnldbvjdt.com^
 ||gdmconvtrck.com^
 ||gdmdigital.com^
+||gdmgsecure.com^
 ||gdrtgroyhtqsx.xyz^
 ||gdrvwsqlikh.com^
 ||gdxisixdrk.com^
@@ -9624,6 +9629,7 @@ vkcdnservice.appspot.com^
 ||haunigre.net^
 ||hauphaun.net^
 ||hausly.info^
+||havail.com^
 ||havamedia.net^
 ||havan3eab9row2n.com^
 ||havenwrite.com^
@@ -10422,6 +10428,7 @@ vkcdnservice.appspot.com^
 ||iyfnz.com^
 ||iyfnzgb.com^
 ||iytafcpbnyauogj.xyz^
+||iyuxivdsvyvjmkk.xyz^
 ||j7rzxe098g5m.com^
 ||jacied.com^
 ||jackao.net^
@@ -10788,6 +10795,7 @@ vkcdnservice.appspot.com^
 ||khg97644rvbg.com^
 ||kibblerkilldee.com^
 ||kicasipto.com^
+||kidnappingendless.com^
 ||kidrarsi.net^
 ||kikoucuy.net^
 ||killerparadehay.com^
@@ -10891,6 +10899,7 @@ vkcdnservice.appspot.com^
 ||koten.zone^
 ||kotikinar2ko8tiki09.com^
 ||koukomol.com^
+||kounfuipahjgvvl.top^
 ||kouraija.net^
 ||koutobey.net^
 ||kouwheey.net^
@@ -11822,6 +11831,7 @@ vkcdnservice.appspot.com^
 ||ml0z14azlflr.com^
 ||ml314.com^
 ||mlexvlcjcjshp.com^
+||mlfaudrsegab.top^
 ||mlnadvertising.com^
 ||mlscmevlspljh.com^
 ||mlsys.xyz^
@@ -15172,6 +15182,7 @@ vkcdnservice.appspot.com^
 ||sharieta.com^
 ||sharpconnatechamber.com^
 ||sharpycurvet.com^
+||shaursar.net^
 ||shauthou.net^
 ||shawlyni.name^
 ||shawuh2a8nyam09.com^
@@ -15542,6 +15553,7 @@ vkcdnservice.appspot.com^
 ||spellbeggarlygay.com^
 ||spellingpigeonssecret.com^
 ||spellresolute.com^
+||spelop.com^
 ||spentforearmprovenance.com^
 ||spenttabsnail.com^
 ||speop.com^
@@ -16952,6 +16964,7 @@ vkcdnservice.appspot.com^
 ||ventrequmus.com^
 ||venturead.com^
 ||venuegirtjive.com^
+||venusantibiotic.com^
 ||veopvpgxcrt.com^
 ||verblife-5.co^
 ||veremund-hon.com^
@@ -30430,6 +30443,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cxtvli.com^
 ||sytxao.com^
 ||5moxhf6z8c.ru^
+||killtarget.biz^
+||killtarget.com^
+||killtarget.pro^
 ||tpizy1uy3x.ru^
 ||pro-100news.ru^
 ||tick-tock.net^
@@ -37237,6 +37253,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||lm213.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
