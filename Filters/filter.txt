@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-15T06:06:53.852Z
+! Last modified: 2021-12-15T12:08:30.717Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9132,6 +9132,7 @@ vkcdnservice.appspot.com^
 ||genesismedia.com^
 ||geneticdiminishblake.com^
 ||geniad.net^
+||genigh.com^
 ||genishury.pro^
 ||genistawabbler.com^
 ||genuinealiaspuzzled.com^
@@ -24120,6 +24121,7 @@ vkcdnservice.appspot.com^
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
 !
+||superficialeyes.com^
 ||hollowafterthought.com^
 ||rabbitbreath.com^
 ||friendwool.com^
@@ -28699,7 +28701,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stretchsister.com^
 ||stringsmile.com^
 ||stupendoussnow.com^
-||superficialeyes.com^
 ||superficialspring.com^
 ||swimslope.com^
 ||synonymousrule.com^
@@ -36286,8 +36287,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Dec 2021 19:03 UTC+7
-! Version: 2112071903
+! Last modified: 15 Dec 2021 13:41 UTC+7
+! Version: 2112151341
 ! Blocked: 1.008 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -37255,6 +37256,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ||lm213.com^
 ||lzljhs.com^
+||govshenzhen.cn^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -37915,7 +37917,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||govguilin.cn^
 ||govhechi.cn^
 ||govkunming.cn^
-||govshenzhen.cn^
 ||govxian.cn^
 ||govyunfu.cn^
 ||gowin01.com^
@@ -40182,6 +40183,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bensxw.cn^
 ||720fly.club^
 ||pandan.love^
+||uqakkye.cn^
+||oelco.cn^
+||fenkang.tech^
+||aysccnn.cn^
+||oey53uw-1ye.cn^
+||rjnjjin.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
