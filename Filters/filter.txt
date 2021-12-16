@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-16T06:07:57.989Z
+! Last modified: 2021-12-16T12:08:20.466Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5977,6 +5977,7 @@ vkcdnservice.appspot.com^
 ||bogscarcely.com^
 ||boguetrust.com^
 ||bogusadmiral.com^
+||bogwoodleprosy.com^
 ||bohowhepsandked.info^
 ||boilerstab.com^
 ||boilstaircasehug.com^
@@ -7774,6 +7775,7 @@ vkcdnservice.appspot.com^
 ||doushoom.net^
 ||douthosh.net^
 ||doveprovidingyear.com^
+||dowfbrodder.com^
 ||down1oads.com^
 ||downloadboutique.com^
 ||downloadgot.com^
@@ -9118,6 +9120,7 @@ vkcdnservice.appspot.com^
 ||gecl.xyz^
 ||geealingsa.space^
 ||geedoovu.net^
+||geeksundigne.com^
 ||geethoap.com^
 ||gefadythi.pro^
 ||geilid.com^
@@ -12030,7 +12033,6 @@ vkcdnservice.appspot.com^
 ||mqjcdno.com^
 ||mr2cnjuh34jb.com^
 ||mr5aqoqlegsp.com^
-||mradx.net^
 ||mrelko.com^
 ||mrjb7hvcks.com^
 ||mrvio.com^
@@ -12187,7 +12189,6 @@ vkcdnservice.appspot.com^
 ||navigabledisorganized.com^
 ||navyembarrassment.com^
 ||nawpush.com^
-||nazarickol.com^
 ||nbf9b5aurl.com^
 ||nbgairiest.com^
 ||nbjmp.com^
@@ -12597,6 +12598,7 @@ vkcdnservice.appspot.com^
 ||nzme-ads.co.nz^
 ||nzphoenix.com^
 ||nztrimhg5fd1.com^
+||nznxgecb.com^
 ||o-oo.ooo^
 ||o4uxrk33.com^
 ||o626b32etkg6.com^
@@ -30463,6 +30465,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5moxhf6z8c.ru^
 ||killtarget.biz^
 ||killtarget.com^
+||qvvoom.com^
 ||killtarget.pro^
 ||tpizy1uy3x.ru^
 ||pro-100news.ru^
@@ -37271,6 +37274,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||qqq123987.site^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40193,6 +40197,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stunninglover.com^
 ||xiaokeji.club^
 ||moxiaoqihuoguo.com^
+||vciayrf.cn^
+||charleslee.cc^
+||homfen.me^
+||beisb.com^
+||sltcp.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
