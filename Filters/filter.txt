@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-16T12:08:20.466Z
+! Last modified: 2021-12-16T18:06:25.695Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,10 @@
 !
 ! The rules with hints are at the end of file
 !
+||clifads.com^
+||probablpatas.com^
+||erinitesorchin.com^
+||tramcarnamby.cam^
 ||bestwinterclck.name^
 ||lmrycxuojndbekx.top^
 ||hyperlnk.xyz^
@@ -35462,7 +35466,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: AdGuard German filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
 !
-||ihreapotheken.de^
 ||partners2.das-onlinespiel.de^
 ||intextlinks.idg.zone^
 ||hybrid-prd.ad-prd.s.joyn.de^
@@ -40202,6 +40205,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||homfen.me^
 ||beisb.com^
 ||sltcp.cn^
+||beiyz.com^
+||zfw.me^
+||aifaka.cc^
+||heyi.shop^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
