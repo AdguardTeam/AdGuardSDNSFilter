@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-17T06:06:56.690Z
+! Last modified: 2021-12-17T12:08:27.446Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,11 @@
 !
 ! The rules with hints are at the end of file
 !
+||oppersianor.com^
+||ocdofafneqmj.top^
+||se05.biz^
+||celeb-trending.com^
+||priceplaneadulthood.com^
 ||clifads.com^
 ||probablpatas.com^
 ||erinitesorchin.com^
@@ -522,7 +527,6 @@
 ||shaujoxu.net^
 ||trknex.com^
 ||slotscity.g2afse.com^
-||alternativecpmgate.com^
 ||quitzon.net^
 ||ethicel.com^
 ||padsabs.com^
@@ -4990,6 +4994,7 @@ vkcdnservice.appspot.com^
 ||alrfdtkpmxmv.top^
 ||alstrome9riya10.com^
 ||alternads.info^
+||alternativecpmgate.com^
 ||alternativeprofitablegate.com^
 ||altitude-arena.com^
 ||altowriestwispy.com^
@@ -13165,6 +13170,7 @@ vkcdnservice.appspot.com^
 ||paymentsweb.org^
 ||payslipsprolong.com^
 ||payslipsscowl.com^
+||pazashevy.com^
 ||pbcde.com^
 ||pbhrxxcuobz.com^
 ||pbterra.com^
@@ -40222,6 +40228,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xqtzp.cn^
 ||ybnndud.cn^
 ||vvsbt.cn^
+||1v1.ink^
+||beiyicc.cn^
+||beiwh.com^
+||sylvia.cloud^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
