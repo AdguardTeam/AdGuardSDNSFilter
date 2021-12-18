@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-18T00:20:34.678Z
+! Last modified: 2021-12-18T06:06:27.353Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -27950,6 +27950,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||measured.com^
 ||media01.eu^
 ||mediaglacier.com^
+||mediago.io^
 ||mediaweaver.jp^
 ||megastats.net^
 ||memo.co^
@@ -37320,6 +37321,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||xc7789.top^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40246,6 +40248,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hebeiyichen.com^
 ||dalingjia.ren^
 ||zhangtiantian.cc^
+||beiwz.com^
+||csyfe.com^
+||c09.xyz^
+||immf.me^
+||zhenxinchicken.xyz^
+||oicode.com^
+||qfxdvti.cn^
+||aiptu.cn^
+||beiwf.com^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
