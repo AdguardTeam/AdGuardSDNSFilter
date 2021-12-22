@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-22T06:07:06.879Z
+! Last modified: 2021-12-22T12:08:48.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19401,6 +19401,7 @@ vkcdnservice.appspot.com^
 ||partycasino.com^
 ||partypoker.com^
 ||passive-earner.com^
+||paydemic.com^
 ||paydotcom.com^
 ||payperpost.com^
 ||pebblemedia.be^
@@ -19959,7 +19960,6 @@ vkcdnservice.appspot.com^
 ||pacontainer.s3.amazonaws.com^
 ||pagead2.googlesyndication.com^
 ||partner.e-conomic.com^
-||partner.linkfire.com^
 ||partners.autotrader.co.uk^
 ||partners.betus.com^
 ||partners.dogtime.com^
@@ -21068,7 +21068,9 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||livetracker.*.pangea-cms.com^
 ||t.irtyc.com^
+||adgocoo.com^
 ||leadrebel.io^
 ||tagcachestaticx.com^
 ||tamgrt.com^
@@ -28232,6 +28234,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||storygize.net^
 ||streamsend.com^
 ||streem.com.au^
+||streetmetrics.io^
 ||stripedcollar.net^
 ||strossle.it^
 ||sugodeku.com^
@@ -29104,6 +29107,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
+||dx.mountain.com^
 ||ec.walkme.com^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
@@ -30230,7 +30234,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bisko.mall.tv^
 ||bnr.alza.cz^
 ||counter.cnw.cz^
-||fimg-resp.seznam.cz^
 ||h.imedia.cz^
 ||h.seznam.cz^
 ||hit.skrz.cz^
@@ -36421,9 +36424,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Dec 2021 13:41 UTC+7
-! Version: 2112151341
-! Blocked: 1.008 rules
+! Last modified: 22 Dec 2021 14:04 UTC+7
+! Version: 2112221404
+! Blocked: 1.016 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -37007,6 +37010,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.tinxe.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
+||tracking.vtc.vn^
 ||tracking.vtcnew.com.vn^
 ||tracking.yes24.vn^
 ||trackingapi.foody.vn^
@@ -37051,6 +37055,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||789.fun^
 ||789.moi^
 ||789club.biz^
+||789club.com^
 ||789club.org^
 ||789clubs.club^
 ||79lucky.com^
@@ -37103,6 +37108,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fa88.win^
 ||fabet.com^
 ||fabet.me^
+||fabet.us^
 ||fabet.vip^
 ||fabet88.net^
 ||fabetvn.com^
@@ -37216,6 +37222,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ms88asia.com^
 ||ms88ca.com^
 ||mu9.com^
+||mu9.win^
 ||nbet.com^
 ||nbet.vip^
 ||nhacainbet.club^
@@ -37249,6 +37256,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ric.win^
 ||rik.vip^
 ||rik.win^
+||rikvip.uk^
 ||rikvip.us^
 ||rio66qc.club^
 ||sbc31.com^
@@ -37273,9 +37281,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ta88.com^
 ||tai789.net^
 ||taib52.club^
+||taib52.vin^
 ||taimacau.club^
 ||taiv8.com^
 ||taiv8.info^
+||taiv8.top^
 ||tangsoc.com^
 ||tf88luck.com^
 ||tf88v.com^
@@ -37368,6 +37378,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kaurroot.com^
 ||larpollicwilli.club^
 ||lib1.biz^
+||member-garena.vn^
 ||news-good.net^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
@@ -37391,6 +37402,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qgqxzs.net^
 ||l-kingmall.com^
 ||fshanys-vip.top^
+||youyouf.top^
+||superhh.top^
+||tuoshi168.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40331,6 +40345,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||greensprite.top^
 ||banbf.com^
 ||jyzah.cn^
+||banht.com^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
