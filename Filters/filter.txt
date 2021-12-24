@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-23T18:05:47.369Z
+! Last modified: 2021-12-24T00:20:14.735Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -37445,8 +37445,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||zhemaijs.net^
-||wqdwork.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -39005,6 +39003,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wotufeiye.com^
 ||wowips.com^
 ||wowostar.cn^
+||wqdwork.com^
 ||ws341.com^
 ||ws7j.com^
 ||wsgblw.com^
@@ -39229,6 +39228,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhangbaochang.top^
 ||zhangjunying.top^
 ||zhangkc.com^
+||zhemaijs.net^
 ||zhengyahong.cn^
 ||zhengyejixie.com^
 ||zhichi08.com^
@@ -40385,19 +40385,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||jzpffierce.cloud^
-||holidayhappy.online^
-||fajuer.xyz^
-||lujingyu.fun^
-||jx3yixi.club^
-||banbw.com^
-||bdwst1.xyz^
-||meshare.site^
-||banhx.com^
-||fvhbful.cn^
-||jyzaz.cn^
-||pyhszs.cn^
-||zaqedc.top^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -40799,6 +40786,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||baizbw.cn^
 ||bamcsfm.com^
 ||banbf.com^
+||banbw.com^
 ||banfd.com^
 ||banfk.com^
 ||banfs.com^
@@ -40810,6 +40798,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bangxin.xyz^
 ||banhfw.cn^
 ||banht.com^
+||banhx.com^
 ||banma51.cn^
 ||banmd.com^
 ||bantb.com^
@@ -40847,6 +40836,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bbwfvxw.cn^
 ||bd2fbnfg.com^
 ||bdcouc.xyz^
+||bdwst1.xyz^
 ||bdxnc.com^
 ||bdzxdyff.cn^
 ||beautylamp.cn^
@@ -41327,6 +41317,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||exxfttj.cn^
 ||f4082.cn^
 ||fafafa1.com^
+||fajuer.xyz^
 ||fangjieshi.club^
 ||fdfgf.cc^
 ||febao.xyz^
@@ -41343,6 +41334,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||freeyue.xyz^
 ||funlove.pw^
 ||fuyangno1.top^
+||fvhbful.cn^
 ||fxhfxhf.cc^
 ||fxkycvo.cn^
 ||fyijt.cn^
@@ -41401,6 +41393,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hnfxhx.xyz^
 ||hnpxsm.com.cn^
 ||hnzhengtongkj.cn^
+||holidayhappy.online^
 ||homfen.me^
 ||houmei.ren^
 ||hpygame.com^
@@ -41464,6 +41457,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jsqhh.cn^
 ||jttcbj.cn^
 ||jun01.oss-cn-beijing.aliyuncs.com^
+||jx3yixi.club^
 ||jxin.xyz^
 ||jyigozm.cn^
 ||jyrwen.cn^
@@ -41473,8 +41467,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jyzaj.cn^
 ||jyzap.cn^
 ||jyzaw.cn^
+||jyzaz.cn^
 ||jyzbv.cn^
 ||jyzce.cn^
+||jzpffierce.cloud^
 ||jzuyfp8.cn^
 ||k7ab5n4.cn^
 ||kanglaijd.cn^
@@ -41525,6 +41521,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lrqugqq.cn^
 ||lsebez.cn^
 ||lthwsj.com^
+||lujingyu.fun^
 ||lvhqntk.cn^
 ||lxiu.shop^
 ||lxtxhxt.com^
@@ -41539,6 +41536,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||marktang.love^
 ||mcix.cn^
 ||mebtc.cn^
+||meshare.site^
 ||mgnb.xyz^
 ||mhtky.cn^
 ||mineral-water.cn^
@@ -41629,6 +41627,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pvxymnz.cn^
 ||pwfhjjh.cn^
 ||pxjafjc.cn^
+||pyhszs.cn^
 ||pzdlfww.cn^
 ||pzsq.xyz^
 ||qagyb.cn^
@@ -41872,6 +41871,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ywzkiug.cn^
 ||yxwpmav.cn^
 ||z-xiao.xyz^
+||zaqedc.top^
 ||zcmnffq.cn^
 ||zcsdbj.cn^
 ||zdzk0371.cn^
