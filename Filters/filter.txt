@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-24T12:08:21.642Z
+! Last modified: 2021-12-24T18:06:01.270Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19524,6 +19524,7 @@ vkcdnservice.appspot.com^
 ||revenuegiants.com^
 ||reyden-x.com^
 ||rhombusads.com^
+||richaudience.com^
 ||roirocket.com^
 ||rotaban.ru^
 ||salvador24.com^
@@ -28192,7 +28193,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||returnpath.net^
 ||revoffers.com^
 ||rfr-69.com^
-||richaudience.com^
 ||rightmoveanalytics.co.uk^
 ||rivrai.com^
 ||rktch.com^
@@ -36286,6 +36286,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||34667c8ece5.com^
 ||64p3am9x95ct.com^
 ||6631f33cf2a1032b.com^
+||98e22a373e.com^
 ||995db2642d3d852b.com^
 ||9icmzvn6.website^
 ||abrts.pro^
@@ -36314,7 +36315,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||auredzeon.com^
 ||axzsd.pro^
 ||azxsd.pro^
+||b9645fef65.com^
 ||baliadv.com^
+||bastingestival.com^
 ||bcajjtbzmdrl.com^
 ||bellaads.com^
 ||browsertelemetry.tk^
@@ -36402,6 +36405,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||naetoris.pw^
 ||offerjuice.me^
 ||olenation.org^
+||onigagalai.ru^
 ||openadserving.com^
 ||ourtherss.top^
 ||p01.notifa.info^
@@ -36460,6 +36464,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||window-close.cf^
 ||window-close.ga^
 ||x-tags.net^
+||yawnspuker.com^
 ||yesads.com^
 ||yhig.info^
 ||ys3e965d.top^
@@ -37446,6 +37451,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||uscdn.top^
+||maccms.info^
+||nnocsin.cn^
+||agnezanna.com^
 ||akmhw.com^
 ||ycych.com^
 ||00-gov.cn^
@@ -40388,6 +40397,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||lpwx.xyz^
+||wangyasen.link^
+||hbyjrspyxgs.site^
+||jscvalves.me^
 ||easyjz.com.cn^
 ||yuegepiano.cn^
 ||dashuaibi.icu^
