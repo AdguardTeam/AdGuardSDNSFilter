@@ -1,4 +1,4 @@
-ç#!/usr/bin/env bash
+#!/usr/bin/env bash
 
 CURRENT_DATE=$(date +%d.%m.%Y)
 
