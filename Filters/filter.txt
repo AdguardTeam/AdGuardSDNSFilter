@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-28T06:07:08.317Z
+! Last modified: 2021-12-28T12:08:52.674Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21345,7 +21345,6 @@ vkcdnservice.appspot.com^
 ||a.ddli.jp^
 ||b92.yahoo.co.jp^
 ||cf-native.karte.io^
-||lptag.liveperson.net^
 ||pub.toku-tag.jp^
 ||script-ad.mobadme.jp^
 ||tapdb.com^
@@ -40466,6 +40465,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yini.link^
 ||kuangbang.ltd^
 ||thjxwlkj.com^
+||trueskincare.tech^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
