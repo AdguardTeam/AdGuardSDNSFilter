@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-28T00:20:54.946Z
+! Last modified: 2021-12-28T06:07:08.317Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28281,7 +28281,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shoptimally.com^
 ||showheroes.com^
 ||sift.com^
-||simpleanalytics.com^
 ||simpleanalytics.io^
 ||simpleanalyticsbadge.com^
 ||simpleheatmaps.com^
@@ -37503,6 +37502,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||hbys66.com^
+||xahggy.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40455,6 +40456,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||zixiaxianhua.shop^
+||yumu.pro^
+||bcjxwlkj.com^
+||jiucaishuo.cn^
+||justwkj.xyz^
+||ssjxwlkj.com^
+||runtai369.cn^
+||yini.link^
+||kuangbang.ltd^
+||thjxwlkj.com^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -40909,7 +40920,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bbtys.net^
 ||bbvdd.com^
 ||bbwfvxw.cn^
-||bcjxwlkj.com^
 ||bd2fbnfg.com^
 ||bdcouc.xyz^
 ||bdwst1.xyz^
@@ -41529,7 +41539,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jiazhenghangye.pw^
 ||jingshenhaixian.cn^
 ||jinyihui.vip^
-||jiucaishuo.cn^
 ||jiuji.ltd^
 ||jiujiinc.top^
 ||jktshare.icu^
@@ -41547,7 +41556,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jsqhh.cn^
 ||jttcbj.cn^
 ||jun01.oss-cn-beijing.aliyuncs.com^
-||justwkj.xyz^
 ||jx3yixi.club^
 ||jxin.xyz^
 ||jxzz.tech^
