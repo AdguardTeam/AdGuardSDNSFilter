@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-28T18:06:09.581Z
+! Last modified: 2021-12-29T00:20:20.667Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28793,6 +28793,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||amusinggirls.com^
 ||annoyedairport.com^
 ||aspiringattempt.com^
+||auspiciousyard.com^
 ||automaticairplane.com^
 ||averageamusement.com^
 ||beautifulhobbies.com^
@@ -37526,8 +37527,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||hbys66.com^
-||xahggy.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -38256,6 +38255,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hblinwei.com^
 ||hbssjd.cn^
 ||hbuweb.net^
+||hbys66.com^
 ||hbzhenquan.cn^
 ||hcwljy.com^
 ||hebkb.cn^
@@ -39123,6 +39123,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xa9t.com^
 ||xabaitai.com^
 ||xabmjr.com^
+||xahggy.com^
 ||xc7789.top^
 ||xcads.cn^
 ||xchgx.com^
@@ -40480,19 +40481,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||zixiaxianhua.shop^
-||yumu.pro^
-||bcjxwlkj.com^
-||jiucaishuo.cn^
-||justwkj.xyz^
-||ssjxwlkj.com^
-||runtai369.cn^
-||yini.link^
-||kuangbang.ltd^
-||thjxwlkj.com^
-||trueskincare.tech^
-||wzzb.club^
-||xihua.me^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -40947,6 +40935,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bbtys.net^
 ||bbvdd.com^
 ||bbwfvxw.cn^
+||bcjxwlkj.com^
 ||bd2fbnfg.com^
 ||bdcouc.xyz^
 ||bdwst1.xyz^
@@ -41566,6 +41555,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jiazhenghangye.pw^
 ||jingshenhaixian.cn^
 ||jinyihui.vip^
+||jiucaishuo.cn^
 ||jiuji.ltd^
 ||jiujiinc.top^
 ||jktshare.icu^
@@ -41583,6 +41573,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jsqhh.cn^
 ||jttcbj.cn^
 ||jun01.oss-cn-beijing.aliyuncs.com^
+||justwkj.xyz^
 ||jx3yixi.club^
 ||jxin.xyz^
 ||jxzz.tech^
@@ -41624,6 +41615,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ksvftk.cn^
 ||kszhmzp.cn^
 ||kuajingtao.cc^
+||kuangbang.ltd^
 ||kukulm.com^
 ||kusol.club^
 ||kxapctq.cn^
@@ -41802,6 +41794,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rsvffmn.cn^
 ||rsykksw.cn^
 ||rt354.cn^
+||runtai369.cn^
 ||rylcbwg.cn^
 ||s1utu5g.cn^
 ||sanwukeji.xyz^
@@ -41833,6 +41826,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||soulshape.cn^
 ||spscwlw.cn^
 ||sqmydhk.cn^
+||ssjxwlkj.com^
 ||sssyao.cn^
 ||stbaolin.cn^
 ||sthyhj.cn^
@@ -41862,6 +41856,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tework.cn^
 ||tg745.cn^
 ||thechosen1.cn^
+||thjxwlkj.com^
 ||tianlule.cn^
 ||timy.ink^
 ||tivfcaa.cn^
@@ -41880,6 +41875,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||topdoctor.vip^
 ||tp992.top^
 ||tpd4.cn^
+||trueskincare.tech^
 ||tsai.ltd^
 ||tsia1114.top^
 ||tszhongtianshiji.com^
@@ -41953,6 +41949,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wxkouem.cn^
 ||wzxzy.icu^
 ||wzytop.top^
+||wzzb.club^
 ||x7rrjgs.cn^
 ||xamap.club^
 ||xcgcwfc.cn^
@@ -41969,6 +41966,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xiaolipc.cn^
 ||xiaoxiaoyd.cn^
 ||xiaoyaunbao.club^
+||xihua.me^
 ||xiituvt.top^
 ||xingyou46.icu^
 ||xinym1.xyz^
@@ -42003,6 +42001,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ydgege.xyz^
 ||yidcd.cn^
 ||yingxunkeji.net^
+||yini.link^
 ||yizhanghaoquan.pw^
 ||yjplpck.cn^
 ||yjwl.ltd^
@@ -42018,6 +42017,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yuegepiano.cn^
 ||yueyuego.com^
 ||yumingdan.top^
+||yumu.pro^
 ||yunfeiyang.club^
 ||yushuha.com^
 ||ywzkiug.cn^
@@ -42041,6 +42041,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhuozhongfangshui.cn^
 ||zhxkzss.cn^
 ||ziaxlx.cn^
+||zixiaxianhua.shop^
 ||zixinnuo.cn^
 ||zjqhyx.cn^
 ||zjwldq.cn^
