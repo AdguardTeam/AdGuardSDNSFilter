@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-29T12:09:08.366Z
+! Last modified: 2021-12-29T18:06:14.435Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,10 @@
 !
 ! The rules with hints are at the end of file
 !
+||wsaphvlnnlle.top^
+||turnipsoft.pubfinity.com^
+||api.pubfinity.com^
+||taspectsofcu.com^
 ||premiumbros.com^
 ||2go7v1nes8.com^
 ||sigilsspeiss.com^
@@ -21184,6 +21188,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||logevt.pubfinity.com^
 ||stat.tiara.kakao.com^
 ||ast.red.asp.appirits.com^
 ||pagesense.io^
@@ -24359,6 +24364,7 @@ vkcdnservice.appspot.com^
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
 !
+||annoyedairport.com^
 ||auspiciousyard.com^
 ||superficialeyes.com^
 ||hollowafterthought.com^
@@ -28796,7 +28802,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ambiguousanger.com^
 ||ambiguousincome.com^
 ||amusinggirls.com^
-||annoyedairport.com^
 ||aspiringattempt.com^
 ||automaticairplane.com^
 ||averageamusement.com^
@@ -37532,6 +37537,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||xiaodongjun.com^
+||qzi-ggjsyuming.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40499,6 +40505,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tg876.cn^
 ||zyezhz.cn^
 ||hugvr.cn^
+||carlseb.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
