@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-30T00:20:57.472Z
+! Last modified: 2021-12-30T06:06:45.406Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36564,9 +36564,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Dec 2021 14:04 UTC+7
-! Version: 2112221404
-! Blocked: 1.016 rules
+! Last modified: 30 Dec 2021 11:55 UTC+7
+! Version: 2112301155
+! Blocked: 1.019 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -36644,7 +36644,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||haraads.com^
 ||harafunnel.com^
 ||haraloyalty.com^
-||haravan.com^
 ||hotngay.vn^
 ||itim.vn^
 ||jslog.zapps.vn^
@@ -36916,8 +36915,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mobileads.dieuviet.com^
 ||ng-vn-notice.gameitop.com^
 ||offerwall.headlines.pw^
+||onapp.haravan.com^
 ||openx.motgame.vn^
 ||ox1.vietstock.vn^
+||promotion.haravan.com^
 ||qc.5giay.vn^
 ||qc.designervn.net^
 ||qc.japo.vn^
@@ -37013,6 +37014,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||elogs.vnexpress.net^
 ||event.headlines.pw^
 ||fa.fpt.shop^
+||facebookinbox-omni-onapp.haravan.com^
 ||fbuser.ovp.vn^
 ||file-subiz.com^
 ||follow.vnay.vn^
@@ -37100,6 +37102,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sentry.mediacdn.vn^
 ||sharefb.cnnd.vn^
 ||smetrics.kone.vn^
+||socialloginplus-apps.haravan.com^
 ||st-a.vtvdigital.vn^
 ||stat.headlines.pw^
 ||static.masoffer.net^
@@ -40496,6 +40499,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||artisan-digital.cn^
+||dhejr.cn^
+||ma716.cn^
+||ncgywud.cn^
+||fengyiwc.xyz^
+||tong.pub^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
