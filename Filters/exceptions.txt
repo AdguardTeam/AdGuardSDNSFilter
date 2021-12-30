@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/pull/9904
+@@||clj.valuecommerce.com^|
+@@||vcentry3.valuecommerce.ne.jp^|
 ! Fixing the issue with "Wi-Fi" connection mark when you configure private DNS on Android 9
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
