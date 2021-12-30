@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-30T17:53:46.165Z
+! Last modified: 2021-12-30T18:06:09.984Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19651,6 +19651,7 @@ vkcdnservice.appspot.com^
 ||sedodna.com^
 ||sedoparking.com^
 ||seductionprofits.com^
+||seedtag.com^
 ||seekads.net^
 ||seethisinaction.com^
 ||selectablemedia.com^
@@ -20138,6 +20139,7 @@ vkcdnservice.appspot.com^
 ||tcadserver.rain-digital.ca^
 ||ti.tradetracker.net^
 ||tillertag-a.akamaihd.net^
+||trendads.reactivebetting.com^
 ||vice-publishers-cdn.vice.com^
 ||video-ads.a2z.com^
 ||weby.aaas.org^
@@ -21861,7 +21863,6 @@ vkcdnservice.appspot.com^
 ||bandborder.com^
 ||lumitos.com^
 ||dynameex.com^
-||seedtag.com^
 ||minisrclink.cool^
 ||quantummetric.com^
 ||mediator.mail.ru^
