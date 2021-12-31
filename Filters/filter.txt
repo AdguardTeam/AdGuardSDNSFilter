@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-12-31T00:21:49.512Z
+! Last modified: 2021-12-31T06:06:57.718Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -29345,6 +29345,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gtrk.s3.amazonaws.com^
 ||gu-pix.appspot.com^
 ||happen.spkt.io^
+||harpocrates.ethyca.com^
 ||hb.vhsrv.com^
 ||hello.staticstuff.net^
 ||hit.mybestpro.com^
@@ -37577,8 +37578,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||xfei.top^
-||wxjj94.top^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -39163,6 +39162,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||www-sina-cn-com.com^
 ||wwwlongjiekejijishu.com^
 ||wxiansen.cn^
+||wxjj94.top^
 ||wxs666.cn^
 ||wxxfqc.com^
 ||wxyun168.xyz^
@@ -39186,6 +39186,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xcxzxc.cn^
 ||xcy8.com^
 ||xdcqcyp.com^
+||xfei.top^
 ||xgxq518.com^
 ||xhbqczl.com^
 ||xhmrv.com^
@@ -40535,6 +40536,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||qv566.cn^
+||jljxwlkjw.com^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -41367,6 +41370,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dedayuntong.com^
 ||dehuaguanyin.com^
 ||deskt.cn^
+||desky.xyz^
 ||deyidesign.com^
 ||dfggb.cc^
 ||dfjbgfldsjdsnldksjalld1235.cn^
@@ -41529,6 +41533,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||goldenwind.icu^
 ||gongshangwang.top^
 ||gongxifc.com^
+||goodsky.shop^
 ||greensprite.top^
 ||grggkas.cn^
 ||grksvub.cn^
@@ -42111,6 +42116,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zfw.me^
 ||zgxieshou.com^
 ||zgystsd.com^
+||zhangjianlong.xyz^
 ||zhangtiantian.cc^
 ||zhenxinchicken.xyz^
 ||zhifoujiaoyu.xyz^
