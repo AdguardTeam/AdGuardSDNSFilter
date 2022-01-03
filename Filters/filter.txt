@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-03T06:07:01.317Z
+! Last modified: 2022-01-03T12:08:55.310Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20443,6 +20443,7 @@ vkcdnservice.appspot.com^
 ||dxprljqoay4rt.cloudfront.net^
 ||dxz454z33ibrc.cloudfront.net^
 ||dybxezbel1g44.cloudfront.net^
+||dyh1wzegu1j6z.cloudfront.net^
 ||dzupi9b81okew.cloudfront.net^
 ||dzv1ekshu2vbs.cloudfront.net^
 ||anti-adblock.herokuapp.com^
@@ -29811,6 +29812,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d3tglifpd8whs6.cloudfront.net^
 ||d3uvwl4wtkgzo1.cloudfront.net^
 ||dc8na2hxrj29i.cloudfront.net^
+||ddrvjrfwnij7n.cloudfront.net^
 ||di2xwvxz1jrvu.cloudfront.net^
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dn34cbtcv9mef.cloudfront.net^
@@ -40554,6 +40556,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tr691.cn^
 ||rctxsrv.cn^
 ||vrhug.cn^
+||syjjd.club^
+||ndfsl.com^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
