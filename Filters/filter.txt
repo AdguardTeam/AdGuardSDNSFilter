@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-04T00:21:53.598Z
+! Last modified: 2022-01-04T06:06:54.793Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3900,7 +3900,6 @@ vkcdnservice.appspot.com^
 ||2dbd87c7a091b.com^
 ||2g6gj3aojcrj.com^
 ||2hisnd.com^
-||2htg.com^
 ||2kl08cd74f.com^
 ||2lwlh385os.com^
 ||2mdn.info^
@@ -4839,6 +4838,7 @@ vkcdnservice.appspot.com^
 ||afk-i.com^
 ||aflrm.com^
 ||afordi.com^
+||afpkldhacnf.com^
 ||africaewgrhdtb.com^
 ||africawin.com^
 ||afriflatry.co^
@@ -12524,6 +12524,7 @@ vkcdnservice.appspot.com^
 ||nization.com^
 ||njavespitful.casa^
 ||njfqnenfifdy.com^
+||njijavxhkio.top^
 ||njmeldkr.top^
 ||njzheqkcyr.com^
 ||nk26uvjrz0tt.com^
@@ -17806,6 +17807,7 @@ vkcdnservice.appspot.com^
 ||wma.io^
 ||wmbdevcydmthac.xyz^
 ||wmkxtilkib.xyz^
+||wmlleyjtj.com^
 ||wmnejndvberrd.com^
 ||wmonthsaft.biz^
 ||wmruzfvtg.com^
@@ -18520,6 +18522,7 @@ vkcdnservice.appspot.com^
 ||123date.me^
 ||152media.com^
 ||2beon.co.kr^
+||2htg.com^
 ||2leep.com^
 ||33across.com^
 ||360ads.com^
@@ -27767,6 +27770,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||g990421675.co^
 ||g990421676.co^
 ||gbqofs.com^
+||gigafyde.dev^
 ||glimr.io^
 ||glookup.info^
 ||googleoptimize.com^
@@ -36634,9 +36638,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Jan 2022 16:33 UTC+7
-! Version: 2201021633
-! Blocked: 1.019 rules
+! Last modified: 04 Jan 2022 11:53 UTC+7
+! Version: 2201041153
+! Blocked: 1.024 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -36936,7 +36940,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ak9.6895588.com^
 ||an.dongphim.net^
 ||an.xemvtv.net^
+||api.boclinkads.com^
 ||api.nas.nct.vn^
+||api2.boclinkads.com^
 ||apia.headlines.pw^
 ||apinas.nct.vn^
 ||as.gamevui.com^
@@ -37034,6 +37040,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vnd247.vn^
 ||vtvcab.xyz^
 ||widget.headlines.pw^
+||a.ladipage.com^
 ||a.vtvdigital.vn^
 ||addlog.thuvienphapluat.vn^
 ||admin.phunusuckhoe.vn^
@@ -37583,6 +37590,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||campxanh.info^
 ||celerantatters.com^
 ||cettiarl.com^
+||code-lienquan-vn.com^
 ||drakeesh.com^
 ||facebookz.co^
 ||garrena.vn^
@@ -37590,6 +37598,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kaurroot.com^
 ||larpollicwilli.club^
 ||lib1.biz^
+||lienquan-garena-giftcode.com^
 ||member-garena.vn^
 ||news-good.net^
 ||rituationscardb.info^
@@ -40579,6 +40588,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||ntpr.xyz^
+||haogame.me^
+||vl665.cn^
+||rctxiqx.cn^
+||qscwdv.top^
+||58tx.xyz^
+||aau8.xyz^
+||dnsri.com^
+||asdsdvd4.com^
+||zqofhft.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
