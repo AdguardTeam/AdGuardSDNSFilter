@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-11T06:06:58.638Z
+! Last modified: 2022-01-11T12:08:42.910Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||fertilityundergone.com^
 ||ja2n2u30a6rgyd.com^
 ||prevotch.com^
 ||hypocrisyconnate.com^
@@ -536,7 +537,6 @@
 ||jnrtavp2x66u.com^
 ||forgivenesspeltanalyse.com^
 ||adzmarket.net^
-||loxitdat.com^
 ||betklefkior.com^
 ||dramaco.xyz^
 ||xmorex.com^
@@ -802,7 +802,6 @@
 ||bankingconcede.com^
 ||leanerbivouac.cam^
 ||wagedsoutane.com^
-||insolencemanipulative.com^
 ||praiserevision.com^
 ||tooasthmaloose.com^
 ||xoflgafl.com^
@@ -5957,6 +5956,7 @@ vkcdnservice.appspot.com^
 ||blanketurban.com^
 ||blastcahs.com^
 ||blazingswatstated.com^
+||blck4d.com^
 ||bleaborahm.one^
 ||bleinu.com^
 ||blenkbenched.casa^
@@ -10419,6 +10419,7 @@ vkcdnservice.appspot.com^
 ||insitepromotion.com^
 ||insnative.com^
 ||insolencecountriesblunder.com^
+||insolencemanipulative.com^
 ||inspikon.com^
 ||inspirebunwatchful.com^
 ||insta-cash.net^
@@ -11517,6 +11518,7 @@ vkcdnservice.appspot.com^
 ||lowremoraidon.com^
 ||lowseelan.com^
 ||loxbeelid.com^
+||loxitdat.com^
 ||loxqsrnc.xyz^
 ||loxtk.com^
 ||loyalinvadeballoon.com^
@@ -28413,7 +28415,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||particularaudience.com^
 ||pbgrd.com^
 ||pdbu.net^
-||pendo.io^
 ||perf-serving.com^
 ||perfalytics.com^
 ||perfops.io^
@@ -30912,6 +30913,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||srv224.com^
 ||wuidtl.com^
 ||cwyxyw.com^
 ||k0r2eokjm6.ru^
@@ -36682,6 +36684,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||javaiklan.com^
 ||jnwsrqxrdqct.top^
 ||juruiklan.com^
+||katukaunamiss.com^
 ||kiltyyoginis.com^
 ||klikajadeh.com^
 ||kozoysnsx.com^
@@ -36691,6 +36694,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lokeriklan.com^
 ||lpaizureik.com^
 ||luven.xyz^
+||mafrarc3e9h.com^
 ||masteriklan.net^
 ||mediab.uy^
 ||mesiniklan.andipublisher.com^
@@ -36770,9 +36774,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Jan 2022 11:37 UTC+7
-! Version: 2201051137
-! Blocked: 1.030 rules
+! Last modified: 11 Jan 2022 15:44 UTC+7
+! Version: 2201111544
+! Blocked: 1.038 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -36888,6 +36892,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||oncustomer.asia^
 ||onfluencer.net^
 ||onmarketer.net^
+||opencoccoc.com^
 ||page.widget.zalo.me^
 ||partner.accesstrade.vn^
 ||phanquang.vn^
@@ -37453,6 +37458,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||debet.com^
 ||debet.top^
 ||dfchoingay.com^
+||dk802.com^
 ||dola88.info^
 ||ee66.com^
 ||eurofun88.com^
@@ -37729,8 +37735,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||drakeesh.com^
 ||eventlqvn.com^
 ||facebookz.co^
+||ff-members-garena.vn^
+||ff-membership-garena.com^
 ||freefire-membershipvn-garena.com^
+||garena-members.com^
+||garena.fan^
+||garera.vn^
 ||garrena.vn^
+||giftcode-mobilelienquan.com^
 ||irduwhojas.ga^
 ||kaurroot.com^
 ||larpollicwilli.club^
@@ -40765,6 +40777,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rctxijo.cn^
 ||allavv.xyz^
 ||siomyx.cn^
+||noblift.mobi^
+||tkkdoc.com^
+||wekb.club^
+||focused.wang^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
