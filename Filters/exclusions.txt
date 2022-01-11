@@ -1,43 +1,3 @@
-<<<<<<< HEAD
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/863 
-||db-ip.com^
-! https://github.com/AdguardTeam/AdguardFilters/issues/101532
-||threatbook.cn^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/777
-||autopilothq.com^
-! https://github.com/AdguardTeam/AdguardFilters/issues/99486
-! App shown 'invalid parameters' message on step with date input (ios)
-||log*-*.tiktokv.com^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/pull/828
-||productsup.com^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/826
-||atatus.com^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/815
-||micpn.com^
-! https://github.com/easylist/easylist/issues/9445
-||kqzyfj.com^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/808
-||a2z.com^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/757
-||redventures.io^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/711
-||ip-adress.com^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/773
-||tkqlhce.com^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/786
-||sphdigital.com^
-! fix Honest sign app
-||flocktory.com^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/770
-||ad.nwi.jp^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/767
-||ipapi.co^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/754
-||cy-pr.com^
-! Fixing OneDrive
-||g.msn.com^
-! https://github.com/AdguardTeam/AdguardFilters/issues/91564
-||bpmonline.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/734
 ||exchange4media.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/735
@@ -56,23 +16,6 @@
 ||onlinepbx.ru^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/696
 ||top-shop.ru^
-=======
-=======
-=======
-! https://github.com/AdguardTeam/AdguardFilters/issues/88390
-||airbrake.io^
->>>>>>> 60960d8 ([28.07.2021] Release preparation for day 28/07/2021 (#178))
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/684
-||uim.tifbs.net^
->>>>>>> 866d1ea (Fix #684 web.de (#123))
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/690
-||onlinepbx.ru^
-<<<<<<< HEAD
->>>>>>> c184304 (17/06/2021 Merge changes from upstream (#114))
-=======
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/696
-||top-shop.ru^
->>>>>>> 17331b5 ([08.07.2021] Release preparation for day 08/07/2021 (#153))
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/677
 ||pdst.fm^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/678
@@ -81,8 +24,6 @@
 ||albacross.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/643
 ||dynamicyield.com^
-=======
->>>>>>> a8b7dc2 (Merge changes from upstream  (#75))
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/666
 ||kaptcha.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/662
@@ -449,9 +390,8 @@
 ||anrdoezrs.net^
 ! Fixing proofpoint.com
 ||proofpoint.com^
-! https://github.com/AdguardTeam/AdguardFilters/issues/99952
+! https://github.com/AdguardTeam/AdguardFilters/issues/26914
 ||zmctrack.net^
-||znctrack.net^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/33
 ||localbitcoins.com^
 ! https://forum.adguard.com/index.php?threads/30479/
@@ -652,6 +592,8 @@ scorecardresearch.com
 fwmrm.net
 ! too wide
 ||ru.net^
+! replaced with *.bpmonline.com^
+||bpmonline.com^
 ! too wide
 ||r.mail.ru^
 ! unbreak YT search history
