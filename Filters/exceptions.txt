@@ -55,8 +55,11 @@
 ! Blocked by CNAME ||customer.io^
 @@||email*.123formbuilder.com^|
 !
+<<<<<<< HEAD
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/709
 @@||promo.gramedia.com^|
+=======
+>>>>>>> a8b7dc2 (Merge changes from upstream  (#75))
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81939
 @@||support-beacon.nakanohito.jp^|
 @@||support-widget.nakanohito.jp^|
