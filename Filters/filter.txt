@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-12T06:08:13.679Z
+! Last modified: 2022-01-12T12:09:09.031Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21401,6 +21401,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||culturaltracking.ru^
 ||services.sdiapi.com^
 ||events.brightline.tv^
 ||rum.uptime.com^
@@ -22000,7 +22001,6 @@ vkcdnservice.appspot.com^
 ||causecherry.com^
 ||agreeabletouch.com^
 ||popt.in^
-||px-cloud.net^
 ||massivemark.com^
 ||absorbingprison.com^
 ||tr.infopanel.jp^
@@ -25650,6 +25650,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||d1stxfv94hrhia.cloudfront^
 ||stt.nimbusweb.me^
 ||statistics.daktilo.com^
 ||collector.megaxh.com^
@@ -27473,6 +27474,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||log.apkomega.com^
+||log.yougameover.com^
+||log.make50.com^
+||log.easy39.com^
+||log.appbundledownload.com^
+||log.down61.com^
 ||click.oneplus.com^
 ||click.oneplus.cn^
 ||mapi-log.qoo*.jp^
@@ -30364,7 +30371,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||checkru.net^
 ||cpaevent.ru^
 ||cszz.ru^
-||culturaltracking.ru^
 ||directcrm.ru^
 ||e-kuzbass.ru^
 ||efatik.me^
@@ -36799,9 +36805,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Jan 2022 09:35 UTC+7
-! Version: 2201120935
-! Blocked: 1.040 rules
+! Last modified: 12 Jan 2022 15:36 UTC+7
+! Version: 2201121536
+! Blocked: 1.042 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -37756,6 +37762,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||campxanh.info^
 ||celerantatters.com^
 ||cettiarl.com^
+||code-garena-vn.com^
 ||code-lienquan-vn.com^
 ||drakeesh.com^
 ||eventlqvn.com^
@@ -37786,6 +37793,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ucesreferre.club^
 ||uqoxh.icu^
 ||vongquaymienphi.net^
+||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
@@ -37803,6 +37811,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||008844.cc^
 ||00xvppy.cn^
 ||qdopportune.cn^
+||tongdianku.com^
 ||01fen.com^
 ||022aifang.com^
 ||025suyu.com^
@@ -40801,6 +40810,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ti863.cn^
 ||rctxymu.cn^
 ||qlugsc.cn^
+||bmt4578.xyz^
+||wswh.xyz^
+||ypdzb.cn^
+||diuleilou.top^
+||sfg8mbh.cn^
+||hgxy.info^
+||ruif.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
