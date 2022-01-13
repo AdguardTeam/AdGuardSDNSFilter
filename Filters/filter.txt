@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-13T06:07:14.256Z
+! Last modified: 2022-01-13T12:09:53.055Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36629,6 +36629,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: ABPindo ad servers
 ! Source: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt
 !
+||1486050000.rsc.cdn77.org^
 ||188affiliates.com^
 ||1b969cef84d93b43.com^
 ||34667c8ece5.com^
@@ -36680,6 +36681,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||compulsivehemisphere.com^
 ||csf.uzone.id^
 ||d01.notifa.info^
+||d231vab146qzfb.cloudfront.net^
 ||d2405b0jymm2dk.cloudfront.net^
 ||d24afgsm39csxt.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
@@ -36819,6 +36821,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||whjibbprhng.com^
 ||window-close.cf^
 ||window-close.ga^
+||www.bekdbxdhrffnj.com^
+||www.seyevjpcjkcnka.com^
 ||x-tags.net^
 ||yesads.com^
 ||yhig.info^
@@ -37840,6 +37844,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||00xvppy.cn^
 ||01fen.com^
 ||022aifang.com^
+||llyqy.top^
 ||025suyu.com^
 ||0451106.com^
 ||04zl.cn^
@@ -40049,6 +40054,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||1.shopit.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
