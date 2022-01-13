@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-13T00:23:57.640Z
+! Last modified: 2022-01-13T06:07:14.256Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28053,6 +28053,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adblockrelief.com^
 ||adhslx.com^
 ||adinte.jp^
+||adobetarget.com^
 ||adoric-om.com^
 ||adregain.com^
 ||adregain.ru^
@@ -36830,9 +36831,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Jan 2022 15:36 UTC+7
-! Version: 2201121536
-! Blocked: 1.042 rules
+! Last modified: 13 Jan 2022 11:38 UTC+7
+! Version: 2201131138
+! Blocked: 1.044 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -36870,6 +36871,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adtima-video.zascdn.me^
 ||adtima.vn^
 ||adx.vn^
+||aiactiv.io^
 ||ambient-platform.com^
 ||ambientdsp.com^
 ||analytics.zapps.vn^
@@ -37800,6 +37802,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||garena.fan^
 ||garera.vn^
 ||garrena.vn^
+||giftcode-lienquanmobile-vn.com^
 ||giftcode-mobilelienquan.com^
 ||irduwhojas.ga^
 ||kaurroot.com^
@@ -40831,6 +40834,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stunninglover.com^
 ||nbslx.mobi^
 ||wswh.club^
+||jwvjcr.cn^
+||rctxczy.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
