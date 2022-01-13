@@ -1,3 +1,5 @@
+! This rule blocked c.disquscdn.com by CNAME
+||d231vab146qzfb.cloudfront.net^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/863 
 ||db-ip.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/101532
