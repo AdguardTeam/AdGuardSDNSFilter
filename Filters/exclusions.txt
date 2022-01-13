@@ -1,4 +1,4 @@
-! fix disqus
+! This rule blocked c.disquscdn.com by CNAME
 ||d231vab146qzfb.cloudfront.net^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/863 
 ||db-ip.com^
