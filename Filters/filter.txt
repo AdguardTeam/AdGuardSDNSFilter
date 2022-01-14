@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-14T06:07:31.909Z
+! Last modified: 2022-01-14T10:29:30.000Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -40845,6 +40845,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||alnko.cn^
 ||iwwl.vip^
 ||shaiban.wang^
 ||kyle.pub^
@@ -44704,8 +44705,9 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||vcentry3.valuecommerce.ne.jp^|
 ! Fixing the issue with "Wi-Fi" connection mark when you configure private DNS on Android 9
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
-! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
-@@dnsotls-ds.metric.gstatic.com^
+! `*-*-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
+! Here you can check how it's used by Android: https://cs.android.com/search?q=ds.metric.gstatic.com
+@@-ds.metric.gstatic.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/824
 @@||id.i2i.jp^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/98798
