@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-16T12:08:20.605Z
+! Last modified: 2022-01-16T18:05:36.995Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,8 @@
 !
 ! The rules with hints are at the end of file
 !
+||distastefulsoloist.com^
+||elitistrawirresistible.com^
 ||incurvedisagio.com^
 ||bekdbxdhrffnj.com^
 ||pierisrapgae.com^
@@ -1366,7 +1368,6 @@
 ||recordervesttasting.com^
 ||ppcnt.org^
 ||tomog.pro^
-||kingads.mobi^
 ||xuossk3tu6hb.com^
 ||albado-tech.xyz^
 ||protawe.com^
@@ -11043,6 +11044,7 @@ vkcdnservice.appspot.com^
 ||killerparadehay.com^
 ||killingwirelesshumiliation.com^
 ||kindlyfeebleremembered.com^
+||kingads.mobi^
 ||kingalkylbe.fun^
 ||kingithinref.club^
 ||kingwithm.biz^
@@ -36891,9 +36893,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Jan 2022 14:21 UTC+7
-! Version: 2201151421
-! Blocked: 1.045 rules
+! Last modified: 16 Jan 2022 21:16 UTC+7
+! Version: 2201162116
+! Blocked: 1.049 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -37854,8 +37856,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||drakeesh.com^
 ||eventlqvn.com^
 ||facebookz.co^
+||ff-member-ganena.com^
 ||ff-members-garena.vn^
 ||ff-membership-garena.com^
+||ff.garena.memmbershipp.com^
+||ff.member.garenae.vn^
 ||freefire-membershipvn-garena.com^
 ||garean.vn^
 ||gareena.vn^
@@ -37873,6 +37878,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lmht-membership.com^
 ||member-garena.vn^
 ||news-good.net^
+||nhanquaffob31.com^
 ||qualienquan.vn^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
@@ -39800,6 +39806,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||133gp.com^
 ||5lu8.com^
 ||7wkw.com^
+||haogo.cc^
 ||88p2p.com^
 ||9453hot.com^
 ||99nfft.com^
@@ -40117,6 +40124,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||fpb1.qicaixianhua.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
