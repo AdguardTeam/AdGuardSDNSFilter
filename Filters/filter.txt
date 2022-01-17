@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-17T06:07:30.292Z
+! Last modified: 2022-01-17T12:09:12.246Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||igniterads.com^
 ||distastefulsoloist.com^
 ||elitistrawirresistible.com^
 ||incurvedisagio.com^
@@ -6239,6 +6240,7 @@ vkcdnservice.appspot.com^
 ||bst-offers.com^
 ||bszmpfaj.com^
 ||btagmedia.com^
+||btcadtop.com^
 ||btgndarx.xyz^
 ||btnativedirect.com^
 ||btnldivewzzfso.com^
@@ -6615,6 +6617,7 @@ vkcdnservice.appspot.com^
 ||charmeddipware.com^
 ||charmssummitmerriment.com^
 ||chasedeposition.com^
+||chatakauntewed.com^
 ||chatintegrationastonishing.com^
 ||chatmilkprude.casa^
 ||chaumsee.net^
@@ -13187,6 +13190,7 @@ vkcdnservice.appspot.com^
 ||opvanillishan.com^
 ||oqhedrmfet.com^
 ||oqrjbnriumr.com^
+||oqwhzgimuvxpd.com^
 ||orangeads.fr^
 ||orbengine.com^
 ||orbhcvyfgitkpfl.xyz^
@@ -13793,6 +13797,7 @@ vkcdnservice.appspot.com^
 ||plutothejewel.com^
 ||plxserve.com^
 ||plym.xyz^
+||plyserosal.com^
 ||plywoodenchant.com^
 ||pmlw0efk4x.com^
 ||pmpubs.com^
@@ -14312,6 +14317,7 @@ vkcdnservice.appspot.com^
 ||pungeywitlet.com^
 ||punkgameswear.com^
 ||punkrevealed.com^
+||punyvamos.com^
 ||pupecyjnh.top^
 ||puppetgrow.com^
 ||pupsotdub.com^
@@ -14622,6 +14628,7 @@ vkcdnservice.appspot.com^
 ||randiul.com^
 ||randomignitiondentist.com^
 ||rangsunbaa.com^
+||ranquarks.com^
 ||ransparleddorob.info^
 ||rantsbroug.biz^
 ||rapeunevenphiladelphia.com^
@@ -17392,6 +17399,7 @@ vkcdnservice.appspot.com^
 ||vbeas.xyz^
 ||vbksrculvld.top^
 ||vbrw.xyz^
+||vbscgrnkoceya.com^
 ||vbtrax.com^
 ||vcdc.com^
 ||vcdnc.com^
@@ -17558,6 +17566,7 @@ vkcdnservice.appspot.com^
 ||vk77lnizckm6.com^
 ||vkaofq64zz.com^
 ||vkjmljhcdn.com^
+||vkkdkvydwrwr.com^
 ||vknrfwwxhxaxupqp.pro^
 ||vlitag.com^
 ||vlnk.me^
@@ -18600,6 +18609,7 @@ vkcdnservice.appspot.com^
 ||zdsfnagupwkztl.com^
 ||zdyldoijanx.com^
 ||zeads.com^
+||zeasis.com^
 ||zebruisia.one^
 ||zeegreen.net^
 ||zeejuthu.com^
@@ -21484,6 +21494,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||stats-iobit-com.us-east-1.elasticbeanstalk.com^
 ||zeustechnology.com^
 ||fwpixel.com^
 ||cdn.adt567.net^
@@ -37907,6 +37918,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||00xvppy.cn^
 ||tutehea.top^
 ||6185059.com^
+||ouzhijie.top^
+||javase.top^
+||otantgi.cn^
+||ahxbpm.com^
 ||01fen.com^
 ||022aifang.com^
 ||025suyu.com^
@@ -40918,6 +40933,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xcxlneb.cn^
 ||rctxeln.cn^
 ||zhexnuq.cn^
+||ppwxgpr.cn^
+||swnptn.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
