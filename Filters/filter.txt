@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-17T18:06:34.896Z
+! Last modified: 2022-01-18T00:22:49.583Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28635,6 +28635,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||retentionscience.com^
 ||rettica.com^
 ||returnpath.net^
+||revhunter.tech^
 ||revoffers.com^
 ||rfr-69.com^
 ||rightmoveanalytics.co.uk^
@@ -37932,17 +37933,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||wnys1.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
-||tutehea.top^
-||6185059.com^
-||ouzhijie.top^
-||javase.top^
-||otantgi.cn^
-||ahxbpm.com^
 ||01fen.com^
 ||022aifang.com^
 ||025suyu.com^
@@ -38103,6 +38099,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||59gt.cn^
 ||5b1d.com^
 ||5imoney.com^
+||6185059.com^
 ||643226.com^
 ||65tgh.com^
 ||666666666666.site^
@@ -38229,6 +38226,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ahszgog.com^
 ||ahuano.com^
 ||ahwangtao.com^
+||ahxbpm.com^
 ||ahyau.com^
 ||ahyuns.com^
 ||ai36588.com^
@@ -38798,6 +38796,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iyptc.cn^
 ||ja9377.com^
 ||jacquelinelaura.com^
+||javase.top^
 ||jbyy010.com^
 ||jcelyj.com^
 ||jcwlq.com^
@@ -39146,7 +39145,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||oqurycnm.top^
 ||original-empire.com^
 ||ot.jizy.cn^
+||otantgi.cn^
 ||oumazg.com^
+||ouzhijie.top^
 ||overlordtea.cn^
 ||ovkwiz.xyz^
 ||p3tt.com^
@@ -39443,6 +39444,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tumeite.cn^
 ||tunihua.top^
 ||tuoshi168.com^
+||tutehea.top^
 ||tuuihea.top^
 ||twitterzs.com^
 ||twzui6.com^
@@ -40947,17 +40949,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||qaolyke.cn^
-||sxbme.club^
-||enidie.cn^
-||livemz.com^
-||xcxlneb.cn^
-||rctxeln.cn^
-||zhexnuq.cn^
-||ppwxgpr.cn^
-||swnptn.cn^
-||huobago.com^
-||wdread.pub^
+||qyafndr.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -41941,6 +41933,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ejzzv.cn^
 ||elvfdnj.cn^
 ||engpeng.cn^
+||enidie.cn^
 ||enihongo.cn^
 ||ens-sh.cn^
 ||eoidr.cn^
@@ -42066,6 +42059,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||htsj.vip^
 ||huaxiaozhang.club^
 ||hugvr.cn^
+||huobago.com^
 ||huofayu.com^
 ||hvzlgyi.cn^
 ||hxclove.club^
@@ -42210,6 +42204,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||linglingccc.xyz^
 ||lingquan.vip^
 ||lingzhushijie.cn^
+||livemz.com^
 ||llii.club^
 ||lllfe.cn^
 ||lnwhh.com^
@@ -42347,6 +42342,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pokcykb.cn^
 ||popwang.top^
 ||powerchase.online^
+||ppwxgpr.cn^
 ||priry.com^
 ||proko.cn^
 ||propsad.com^
@@ -42364,6 +42360,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pzdlfww.cn^
 ||pzsq.xyz^
 ||qagyb.cn^
+||qaolyke.cn^
 ||qewoysy.cn^
 ||qfxdvti.cn^
 ||qgfdqjf.cn^
@@ -42396,6 +42393,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rctxada.cn^
 ||rctxcsi.cn^
 ||rctxczy.cn^
+||rctxeln.cn^
 ||rctxijo.cn^
 ||rctxiqx.cn^
 ||rctxjbv.cn^
@@ -42478,6 +42476,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||surls.cn^
 ||svjxuba.cn^
 ||swjrzk.cn^
+||swnptn.cn^
+||sxbme.club^
 ||sxgbwlkjkj.xyz^
 ||sxswjkgs.com^
 ||sxyyedu.cn^
@@ -42578,6 +42578,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wangyasen.link^
 ||wangyh.icu^
 ||wanzikeji.com^
+||wdread.pub^
 ||wduwvjd.cn^
 ||wecmaym.cn^
 ||wegowan.com^
@@ -42624,6 +42625,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xaxdwz.xyz^
 ||xcgcwfc.cn^
 ||xcms.shop^
+||xcxlneb.cn^
 ||xdfgrew.cn^
 ||xdnuo.cn^
 ||xdwqq.cn^
@@ -42720,6 +42722,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhangjianlong.xyz^
 ||zhangtiantian.cc^
 ||zhenxinchicken.xyz^
+||zhexnuq.cn^
 ||zhifoujiaoyu.xyz^
 ||zhonglutang.group^
 ||zhongte62802.cn^
