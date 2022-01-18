@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-18T06:06:55.345Z
+! Last modified: 2022-01-18T12:09:14.884Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -35466,6 +35466,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 !
 !
+||acxdyn.com^
 ||krmwbimfpndwui.top^
 ||storj.cloud^
 ||bwcdn.xyz^
@@ -36770,6 +36771,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bcajjtbzmdrl.com^
 ||bellaads.com^
 ||browsertelemetry.tk^
+||bubblekraken.com^
 ||cea9d3d4f74fb831.com^
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
@@ -37934,6 +37936,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||wnys1.com^
+||linyongming.top^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40950,6 +40953,19 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||qyafndr.cn^
+||qmrtubg.cn^
+||chegulu.ren^
+||xjhmap.cn^
+||rctxsxg.cn^
+||avvr.club^
+||cuit.shop^
+||hdherpc.cn^
+||oniekg.top^
+||sikqcwz.cn^
+||ydwjmvv.cn^
+||nlyekvc.cn^
+||pouitgy.cn^
+||dsnfun.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
