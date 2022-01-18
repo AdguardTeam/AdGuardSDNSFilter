@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-18T12:09:14.884Z
+! Last modified: 2022-01-18T18:06:32.414Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,8 +16,12 @@
 !
 ! The rules with hints are at the end of file
 !
+||ndbspfpgynbt.com^
+||rkllcrwtftx.com^
+||wirsauco.com^
 ||lousebankroll.com^
 ||clenchedyouthmatching.com^
+||pubpowerplatform.io^
 ||igniterads.com^
 ||distastefulsoloist.com^
 ||elitistrawirresistible.com^
@@ -5134,6 +5138,7 @@ vkcdnservice.appspot.com^
 ||andohs.net^
 ||andomedia.com^
 ||andomediagroup.com^
+||andorapx.com^
 ||andorranisas.xyz^
 ||andriesshied.com^
 ||andworldwi.co^
@@ -5162,6 +5167,7 @@ vkcdnservice.appspot.com^
 ||anldnews.pro^
 ||anncmq.com^
 ||annelinterv.fun^
+||annesuspense.com^
 ||anniversarytoothbrush.com^
 ||anomaloustradingmerciful.com^
 ||anonolpucka.com^
@@ -8889,6 +8895,7 @@ vkcdnservice.appspot.com^
 ||firtaips.com^
 ||firtribe.com^
 ||fishermanmartial.com^
+||fishpassportvocational.com^
 ||fishyscalpelweight.com^
 ||fisoes.com^
 ||fistcartyped.casa^
@@ -11043,6 +11050,7 @@ vkcdnservice.appspot.com^
 ||kgxnaenrozyuh.com^
 ||khaate.com^
 ||khandragthresh.com^
+||khayatarai.com^
 ||khewwakrywmgxr.com^
 ||khg97644rvbg.com^
 ||kibblerkilldee.com^
@@ -12352,6 +12360,7 @@ vkcdnservice.appspot.com^
 ||mummypepdye.com^
 ||mumosy.com^
 ||mumtsioc.top^
+||munori.com^
 ||mupsytyzu.com^
 ||mupteekr.net^
 ||muqson0kgr.com^
@@ -14071,6 +14080,7 @@ vkcdnservice.appspot.com^
 ||princided.club^
 ||pringed.space^
 ||printmeantime.com^
+||prinue.com^
 ||priorityinvaderinflation.com^
 ||prisedeluge.com^
 ||pritesol.com^
@@ -16549,6 +16559,7 @@ vkcdnservice.appspot.com^
 ||theloungenet.com^
 ||themdesertdumbest.com^
 ||themereplacebiopsy.com^
+||thenceafeard.com
 ||theonecdn.com^
 ||theoreviver.cam^
 ||theplayadvisor.com^
@@ -16793,6 +16804,7 @@ vkcdnservice.appspot.com^
 ||tpdads.com^
 ||tplpages.com^
 ||tpn134.com^
+||tqhitmrbkq.top^
 ||tqlkg.com^
 ||tqmibkqlwqdysi.com^
 ||tqmvbnptsq.top^
@@ -21514,6 +21526,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||embed.usersmagic.com^
 ||stats-iobit-com.us-east-1.elasticbeanstalk.com^
 ||zeustechnology.com^
 ||fwpixel.com^
@@ -25769,6 +25782,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||tracker.remp.sme.sk^
 ||targeting.washpost.nile.works^
 ||metrika.kontur.ru^
 ||api-stg.ensonhaber.com^
