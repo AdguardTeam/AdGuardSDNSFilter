@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-20T12:08:14.078Z
+! Last modified: 2022-01-20T18:06:00.903Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11,6 +11,12 @@
 ! Source name: AdGuard Base filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
 !
+!
+! Section contains list of advertising networks
+!
+! The rules with hints are at the end of file
+!
+||garysero.xyz^
 ||ndbspfpgynbt.com^
 ||rkllcrwtftx.com^
 ||wirsauco.com^
@@ -3851,6 +3857,7 @@ vkcdnservice.appspot.com^
 ||1bcde.com^
 ||1ccbt.com^
 ||1ce86868bf.com^
+||1da19a918c.com^
 ||1dece427d89.com^
 ||1e310acae6aee.com^
 ||1e546a4cc5.com^
@@ -3922,6 +3929,7 @@ vkcdnservice.appspot.com^
 ||2cnjuh34jbpoint.com^
 ||2cnjuh34jbstar.com^
 ||2dbd87c7a091b.com^
+||2e552e6db0.com^
 ||2g6gj3aojcrj.com^
 ||2hisnd.com^
 ||2kl08cd74f.com^
@@ -4249,6 +4257,7 @@ vkcdnservice.appspot.com^
 ||9ehy8a8u6b.com^
 ||9f38cd012c83.com^
 ||9f3a91e76f.com^
+||9f3b5a24d5.com^
 ||9fcbacf708f2.com^
 ||9gg23.com^
 ||9itmr1lzaltn.com^
@@ -7670,6 +7679,7 @@ vkcdnservice.appspot.com^
 ||dichordkomati.cam^
 ||diclotrans.com^
 ||dicoah.com^
+||dictationsuspendedpreface.com^
 ||didchinosdub.cam^
 ||diddaisycuff.com^
 ||didpuprat.com^
@@ -10238,6 +10248,7 @@ vkcdnservice.appspot.com^
 ||hypoot.com^
 ||hypothesisalternate.com^
 ||hysntzdseidl.com^
+||hystericalpotprecede.com^
 ||hzkachqd.com^
 ||hznvtg.com^
 ||hzzevwlmjji.com^
@@ -10887,6 +10898,7 @@ vkcdnservice.appspot.com^
 ||jua05myfbe.com^
 ||jubsouth.com^
 ||judaisydfs.club^
+||judgeclaimsmaiden.com^
 ||judgementinvincible.com^
 ||judicated.com^
 ||judjetheminos.com^
@@ -13300,6 +13312,7 @@ vkcdnservice.appspot.com^
 ||outlookabsorb.com^
 ||outoctillerytor.com^
 ||outovenmusths.com^
+||outpacetochers.com^
 ||outrushfetor.cam^
 ||outsimfat.site^
 ||outslang.com^
@@ -13427,6 +13440,7 @@ vkcdnservice.appspot.com^
 ||panection.co^
 ||paniccursor.com^
 ||panicshaggy.com^
+||pantomimethat.com^
 ||papacityn.fun^
 ||paqiqqjmmo.com^
 ||paradisetits.ru^
@@ -15826,6 +15840,7 @@ vkcdnservice.appspot.com^
 ||slymagical.com^
 ||smaato.net^
 ||smac-ad.com^
+||smagod.com^
 ||smallentpation.pro^
 ||smalltiberbridge.com^
 ||smanes.com^
@@ -16296,6 +16311,7 @@ vkcdnservice.appspot.com^
 ||sundersetrgh.site^
 ||sunnybluecoral.com^
 ||sunsekrious.com^
+||sunsetencyclopaedia.com^
 ||suntiz.com^
 ||suozmtcc.com^
 ||superbdolly.com^
@@ -36111,6 +36127,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: AdGuard German filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
 !
+||tikibihu.com^
 ||partners2.das-onlinespiel.de^
 ||intextlinks.idg.zone^
 ||hybrid-prd.ad-prd.s.joyn.de^
@@ -36139,6 +36156,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
+||bjjabc.com^
 ||mdfsbn.com^
 ||soorbka.cn^
 ||adotone.com^
@@ -37969,6 +37987,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||6756240.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
