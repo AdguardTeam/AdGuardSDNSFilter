@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-22T06:06:09.089Z
+! Last modified: 2022-01-22T12:08:08.283Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||adfinix.com^
 ||vgfutxwgq.com^
 ||iocegdtpwmbg.top^
 ||garysero.xyz^
@@ -6190,6 +6191,7 @@ vkcdnservice.appspot.com^
 ||brainlyads.com^
 ||braintb.com^
 ||brakesoutright.com^
+||brall11.com^
 ||branchr.com^
 ||brand-display.com^
 ||brand.net^
@@ -17494,6 +17496,7 @@ vkcdnservice.appspot.com^
 ||vashoaft.net^
 ||vassst1.com^
 ||vassst12.com^
+||vassst14.com^
 ||vassterboost.com^
 ||vasstycom.com^
 ||vastserved.com^
@@ -41084,6 +41087,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pyzx.xyz^
 ||ygyl.xyz^
 ||zhihui.ink^
+||lktxelg.cn^
+||nmyp.ltd^
+||qq0010.xyz^
+||xinchenyang.cn^
+||guxin.me^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
