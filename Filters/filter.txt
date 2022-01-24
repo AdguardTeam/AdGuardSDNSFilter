@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-24T12:08:02.253Z
+! Last modified: 2022-01-24T18:03:43.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,9 @@
 !
 ! The rules with hints are at the end of file
 !
+||mxyxgkuexjr.com^
+||ftte.fun^
+||steinfqwe6782beck.com^
 ||browsiprod.com^
 ||appraisalaffable.com^
 ||audiblysunny.com^
@@ -4024,6 +4027,7 @@ vkcdnservice.appspot.com^
 ||4c13cac4bb.com^
 ||4c935d6a244f.com^
 ||4cr447ewncl4.com^
+||4d4ac172b7.com^
 ||4dex.io^
 ||4dsbanner.net^
 ||4dtrk.com^
@@ -6247,6 +6251,7 @@ vkcdnservice.appspot.com^
 ||briticatederfd.site^
 ||britishattemptingtrend.com
 ||brittleformat.com^
+||brnann.com^
 ||bro3.biz^
 ||bro4.biz^
 ||broadcastingdeliberateverification.com^
@@ -7253,6 +7258,7 @@ vkcdnservice.appspot.com^
 ||craqueteriez.xyz^
 ||crashnoodle.com^
 ||crawfordstevehypothetically.com^
+||craziesrimate.com^
 ||crazybanan.com^
 ||crazyhell.com^
 ||crazylead.com^
@@ -9578,6 +9584,7 @@ vkcdnservice.appspot.com^
 ||goddessrig.com^
 ||godspeaks.net^
 ||godvwcft.com^
+||goergleeds.com^
 ||gogoplexer.com^
 ||gohillgo.com^
 ||goingtocontent.com^
@@ -10421,6 +10428,7 @@ vkcdnservice.appspot.com^
 ||imperialteamattended.com^
 ||imperturbablechoreinterrogation.com^
 ||imperturbablelosdigging.com^
+||implacableapproximatereseptivereseptive.com^
 ||implementedinstalled.com^
 ||implementtransmitted.com^
 ||implicationdownloadpercy.com^
@@ -13026,6 +13034,7 @@ vkcdnservice.appspot.com^
 ||occupantrookpurely.com^
 ||occursexpertloving.com^
 ||occxfzqyhhq.com^
+||oceanidembain.com^
 ||oceeld.com^
 ||ocgijsxnu.xyz^
 ||ochaugly.net^
@@ -13348,6 +13357,7 @@ vkcdnservice.appspot.com^
 ||oustoope.com^
 ||outbalancecapitalist.com^
 ||outelectrodean.com^
+||outgateniceish.com^
 ||outgra.com^
 ||outhulem.net^
 ||outhumporc.work^
@@ -18234,6 +18244,7 @@ vkcdnservice.appspot.com^
 ||wqpoqalozlciw.com^
 ||wqxnbtlvo.xyz^
 ||wrcdxumsu.top^
+||wreathabble.com^
 ||wreathsmartblack.com^
 ||wretchauraflirt.com^
 ||wretchedchapterdozen.com^
@@ -21628,6 +21639,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||trk2-wtb.swaven.com^
 ||st.hbrd.io^
 ||analytics-api.statvoo.com^
 ||ga-bq-py-1.appspot.com^
@@ -25897,6 +25909,8 @@ vkcdnservice.appspot.com^
 ||tracker.remp.sme.sk^
 ||targeting.washpost.nile.works^
 ||metrika.kontur.ru^
+||hodor-collect.arabam.com^
+||istatistik.arabam.com^
 ||api-stg.ensonhaber.com^
 ||matomo.a1.by^
 ||d1stxfv94hrhia.cloudfront^
@@ -31192,6 +31206,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||uwwaml.com^
 ||ipqolj.com^
 ||v.cdn4.life^
 ||kertzmann.com^
@@ -36871,7 +36886,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||98e22a373e.com^
 ||995db2642d3d852b.com^
 ||9icmzvn6.website^
-||aa9271e4a2.4d4ac172b7.com^
 ||abrts.pro^
 ||accesstrade.co.id^
 ||adbsys.icu^
@@ -38070,7 +38084,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||zhiqingchun.top^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -39948,6 +39961,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhimengweike.com^
 ||zhinengap.com^
 ||zhiong.net^
+||zhiqingchun.top^
 ||zhisuyunonline.cn^
 ||zhixiuchang.com^
 ||zhizhunbao.top^
@@ -41103,11 +41117,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||acuwbr.cn^
-||51city.fun^
-||sunnysun.co^
-||djymht.cn^
-||hlzxgcw.com^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -41217,6 +41226,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||519397.com^
 ||51boxian.cc^
 ||51check.com.cn^
+||51city.fun^
 ||51df7z.cn^
 ||51dianji.cn^
 ||51elandt.com^
@@ -41353,6 +41363,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||acaoz.com^
 ||acemo.vip^
 ||acidwits.design^
+||acuwbr.cn^
 ||acvps.cn^
 ||adaog.com^
 ||adbeuch.cn^
@@ -42014,6 +42025,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||djss-design.cn^
 ||djuyawu.cn^
 ||djvalve.com.cn^
+||djymht.cn^
 ||djzwrfi.cn^
 ||dkjdnq.cn^
 ||dl12349.net^
@@ -42224,6 +42236,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hhnvrht.cn^
 ||hikari.wiki^
 ||hjl0618.cn^
+||hlzxgcw.com^
 ||hnfxhx.xyz^
 ||hnpxsm.com.cn^
 ||hnthink.vip^
@@ -42290,6 +42303,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jgrkjp.cn^
 ||jiajiann.cn^
 ||jiameiyin.cn^
+||jianyihang.com^
 ||jiazhenghangye.pw^
 ||jingshenhaixian.cn^
 ||jinlianchengwhcm.cn^
@@ -42315,6 +42329,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jsqhh.cn^
 ||jttcbj.cn^
 ||jun01.oss-cn-beijing.aliyuncs.com^
+||just-cnc.com^
 ||justwkj.xyz^
 ||jwvjcr.cn^
 ||jx3yixi.club^
@@ -42351,6 +42366,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ki74.com^
 ||kiiqnnx.cn^
 ||kjhzwvq.cn^
+||kjldh.top^
 ||kjtol.cn^
 ||kkpqhqu.cn^
 ||klakwvw.cn^
@@ -42511,6 +42527,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||oofsg.cn^
 ||opbtc.cn^
 ||oqqtvgm.cn^
+||orays.co^
 ||orizwud.cn^
 ||ovdolnb.cn^
 ||owdfxgc.cn^
@@ -42686,6 +42703,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stkx888.cn^
 ||studytest.icu^
 ||sunmartkj.cn^
+||sunnysun.co^
 ||surls.cn^
 ||svjxuba.cn^
 ||swjrzk.cn^
