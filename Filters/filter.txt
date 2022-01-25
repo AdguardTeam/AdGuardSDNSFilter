@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-25T06:08:29.731Z
+! Last modified: 2022-01-25T12:08:59.954Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30733,6 +30733,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Ukranian
 ||mediatraffic.com.ua^
 ! Vietnamese
+||ants.vn^
 ||contineljs.com^
 
 !
@@ -31086,6 +31087,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Vietnamese
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
+||za.zdn.vn^
 
 !
 ! Source name: AdGuard Spanish/Portuguese filter ad servers
@@ -37147,7 +37149,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ambientdsp.com^
 ||analytics.zapps.vn^
 ||anthill.vn^
-||ants.vn^
 ||anymind360-com.cdn.ampproject.org^
 ||api.widget.zalo.me^
 ||atdnetwork.com^
@@ -38110,6 +38111,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||00-gov.cn^
+||ud783c02.com^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
