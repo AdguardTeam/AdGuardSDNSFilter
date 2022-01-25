@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-25T18:06:20.271Z
+! Last modified: 2022-01-25T19:46:44.430Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21693,6 +21693,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||kantartns.lt^
 ||trk2-wtb.swaven.com^
 ||st.hbrd.io^
 ||analytics-api.statvoo.com^
@@ -21995,6 +21996,7 @@ vkcdnservice.appspot.com^
 ||solutionshindsight.net^
 ||d.wi-fi.ru^
 ||simpleanalyticscdn.com^
+||api.ipdata.co^
 ||instapagemetrics.com^
 ||mas.protecmedia.com^
 ||t.rainide.com^
@@ -28628,7 +28630,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iovation.com^
 ||ip-tracker.org^
 ||ip2c.org^
-||ipdata.co^
 ||ipgp.net^
 ||iplist.cc^
 ||ippen.space^
@@ -28650,7 +28651,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||junta.net^
 ||k3node.com^
 ||kameleoon.eu^
-||kantartns.lt^
 ||kaxsdc.com^
 ||keytiles.com^
 ||kickfire.com^
