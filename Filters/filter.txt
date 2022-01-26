@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-26T12:07:59.006Z
+! Last modified: 2022-01-26T16:54:31.887Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,11 @@
 !
 ! The rules with hints are at the end of file
 !
+||yebtcayv.com^
+||ibanwatch.com^
+||collaborateinstructorgrow.com^
+||plissewali.com^
+||prpedjlp.com^
 ||no2veeamggaseber.com^
 ||cdn.eecd.xyz^
 ||zlajnpfqgsleo.com^
@@ -1698,7 +1703,6 @@
 ||lauhauch.com^
 ||daunteegyptian.pro^
 ||a.bestcontenttool.top^
-||hq3x.com^
 ||jacobeshort.pro^
 ||sdsttt.com^
 ||pushmejs.com^
@@ -10210,6 +10214,7 @@ vkcdnservice.appspot.com^
 ||hpyjmp.com^
 ||hpyrdr.com^
 ||hpzdwnkb.com^
+||hq3x.com^
 ||hqpass.com^
 ||hqr9q6f30371.com^
 ||hqtlvmcrpb.com^
@@ -23310,7 +23315,6 @@ vkcdnservice.appspot.com^
 ||fast-thinking.co.uk^
 ||fastanalytic.com^
 ||fastcounter.de^
-||fastly-analytics.com^
 ||fastonlineusers.com^
 ||faststart.ru^
 ||fastwebcounter.com^
@@ -31269,6 +31273,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||2022welcome.com^
 ||uwwaml.com^
 ||vlgpkn.com^
 ||ipqolj.com^
