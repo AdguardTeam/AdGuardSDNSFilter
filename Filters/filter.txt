@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-26T06:06:38.903Z
+! Last modified: 2022-01-26T12:07:59.006Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,12 @@
 !
 ! The rules with hints are at the end of file
 !
+||no2veeamggaseber.com^
+||cdn.eecd.xyz^
+||zlajnpfqgsleo.com^
+||clixwells.com^
+||shinearmor.space^
+||wxhiojortldjyegtkx.bid^
 ||mxyxgkuexjr.com^
 ||ftte.fun^
 ||steinfqwe6782beck.com^
@@ -945,7 +951,6 @@
 ||thongaspredo.com^
 ||fsznrodyocq.com^
 ||zwqpqrtpjt.com^
-||wxhiojortldjyegtkx.bid^
 ||kenskitscurt.com^
 ||betrustkelping.com^
 ||nerdolac.com^
@@ -29847,6 +29852,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ganon.yahoo.com^
 ||gateway.foresee.com^
 ||gemius.mgr.consensu.org^
+||genesis.malwarebytes.com^
 ||geo.ertya.com^
 ||geo.gorillanation.com^
 ||geo.mezr.com^
@@ -40392,6 +40398,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||sanme2.taisantech.com^
 ||cdnjs.mopair-erm.net^
 ||003store.com^
 ||1.01fy.cn^
@@ -41010,7 +41017,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||s1.tuzhaozhao.com^
 ||s1.wesiedu.com^
 ||salary.xiao84.com^
-||sanme2.lanzoui.com^
 ||sbbd1.qulishi.com^
 ||sbpb1.chuiyue.com^
 ||sbpb1.qulishi.com^
@@ -41031,7 +41037,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||static.gaomaer.cn^
 ||static.ichehome.com^
 ||static.jiaquyi.com^
-||static.sinawap.com^
 ||t.cnscore.com^
 ||t1.612.com^
 ||taobc.com^
@@ -41187,6 +41192,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nkjiashi.com^
 ||hlyixinwujin.com^
 ||wppei.cn^
+||bbsg.club^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
