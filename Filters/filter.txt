@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-01-27T06:07:51.704Z
+! Last modified: 2022-01-27T12:08:17.038Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,8 @@
 !
 ! The rules with hints are at the end of file
 !
+||bxqgxnechpwojfo.com^
+||bildirim.eu^
 ||yebtcayv.com^
 ||ibanwatch.com^
 ||collaborateinstructorgrow.com^
@@ -19856,6 +19858,7 @@ vkcdnservice.appspot.com^
 ||involve.asia^
 ||ipraccessie.info^
 ||ipromote.com^
+||javbuzz.com^
 ||jewishcontentnetwork.com^
 ||jivox.com^
 ||jubna.com^
@@ -27808,6 +27811,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.qoqa.com^
 !
 ! Appsflyer
+||appsflyer-report.honkaiimpact3.com^
 ||af-event-logger.appsflyer.com^
 ||inapps.appsflyer.com^
 ||gcdsdk.appsflyer.com^
@@ -27846,6 +27850,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||misc.api.snaptube.app^
 ||dig.bdurl.net^
 ||trusted-collector-bk.tmocce.com^
 ||collect.babybus.com^
@@ -41243,6 +41248,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||19oxfkn.cn^
 ||tianhenggo.xyz^
 ||xiaohuancha.club^
+||hulewangsi.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
