@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-01T06:08:09.026Z
+! Last modified: 2022-02-01T12:08:50.315Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,9 @@
 !
 ! The rules with hints are at the end of file
 !
+||amads.fun^
+||main-datings.top^
+||laidwhenadmiring.com^
 ||qwpetywdh.com^
 ||kgmwgccdkpy.com^
 ||urgoldpie.club^
@@ -20678,6 +20681,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||pbkqidejmes.ru^
 ||sensors.ibreader.com^
 ||bvr.ast.snva.jp^
 ||kantartns.lt^
@@ -30256,6 +30260,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||legikqw6ps.com^
 ||2022welcome.com^
 ||uwwaml.com^
 ||news-bitivu.cc^
@@ -40184,6 +40189,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stunninglover.com^
 ||obihmnb.cn^
 ||morfine.vip^
+||lonpoyf.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
