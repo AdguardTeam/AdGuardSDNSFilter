@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-02T18:05:11.901Z
+! Last modified: 2022-02-03T00:20:59.664Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 !
 ! The rules with hints are at the end of file
 !
+||gme-trking.com^
 ||xthkusksqoree.com^
 ||bsbaduacvwoeee.com^
 ||linker.ba^
@@ -7185,6 +7186,7 @@ vkcdnservice.appspot.com^
 ||culturalmissionary.com^
 ||culturedischargenarcotic.com^
 ||cultwithough.info^
+||cumydixy.com^
 ||cupidonmedia.com^
 ||cupidrecession.com^
 ||cupmidnithe.com^
@@ -8096,6 +8098,7 @@ vkcdnservice.appspot.com^
 ||ejoonsoo.net^
 ||ejurzsax.com^
 ||ekansovi.com^
+||ekexsztsgm.com^
 ||ekfottltamc.com^
 ||ekmas.com^
 ||eknowin.club^
@@ -9698,6 +9701,7 @@ vkcdnservice.appspot.com^
 ||hiddenlocationpredicate.com^
 ||hidelen.com^
 ||hidupsoo.com^
+||hieramuriel.com^
 ||higherdebateplume.com^
 ||higherincomparablehandicraft.com^
 ||highnets.com^
@@ -10875,6 +10879,7 @@ vkcdnservice.appspot.com^
 ||kuttarmufti.com^
 ||kutuheca.com^
 ||kvilhypwtelaos.xyz^
+||kwerxnefv.com^
 ||kwnq4hg2n9.com^
 ||kwqptcvwaalgur.com^
 ||kwwinyvxxzsmny.com^
@@ -11074,6 +11079,7 @@ vkcdnservice.appspot.com^
 ||lhedgelnha.com^
 ||lhhrupisllmy.com^
 ||lhs-3844b.com^
+||li2meh6eni3tis.com^
 ||liantmartier.info^
 ||libcdn.xyz^
 ||libedgolart.com^
@@ -11161,6 +11167,7 @@ vkcdnservice.appspot.com^
 ||lkcgvcdmc.com^
 ||lkdvvxvtsq6o.com^
 ||lknbffkv.com^
+||lkoovwlmpueaom.xyz^
 ||lkqd.net^
 ||llahnch259.com^
 ||llcceptinh.club^
@@ -12325,6 +12332,7 @@ vkcdnservice.appspot.com^
 ||nookexcellentsubdue.com^
 ||noonck.com^
 ||nooroapo.com^
+||nopolicycrea.com^
 ||noproblfr.com^
 ||noqj1iz4u28t.com^
 ||norentisol.com^
@@ -12421,6 +12429,7 @@ vkcdnservice.appspot.com^
 ||nubseech.com^
 ||nuclearillano.casa^
 ||nuclef.com^
+||nuctcflay.com^
 ||nudercodaclot.work^
 ||nuevonoelmid.com^
 ||nui.media^
@@ -14881,6 +14890,8 @@ vkcdnservice.appspot.com^
 ||scarewalrusregulate.com^
 ||scarletcashwi5.com^
 ||scarofnght.com^
+||scblqvoiypcoy.com^
+||scblqvoiypcoy.top^
 ||scbywiqkm.com^
 ||scenbe.com^
 ||scenecomposesharp.com^
@@ -15505,6 +15516,7 @@ vkcdnservice.appspot.com^
 ||sq2trk2.com^
 ||sqacbhlngoxw.com^
 ||sqhneencmysrk.com^
+||sqjagvoe.com^
 ||sqnwmwnwok.com^
 ||sqpgncbm.com^
 ||squallcircuit.com^
@@ -15998,6 +16010,7 @@ vkcdnservice.appspot.com^
 ||thfrrszqfhepv.com^
 ||thickbabysittinghandled.com^
 ||thidrump.net^
+||thieverthinner.com^
 ||thifinyfi.com^
 ||thigeeph.com^
 ||thighiny.com^
@@ -16546,6 +16559,7 @@ vkcdnservice.appspot.com^
 ||uldhukelpmet.co^
 ||uleqasfor.one^
 ||ulfewmgywwxs.xyz^
+||ulfsxurk.top^
 ||ulminicbawty.com^
 ||ulngtppm.com^
 ||uloprjcy.xyz^
@@ -16763,6 +16777,7 @@ vkcdnservice.appspot.com^
 ||vaebard.com^
 ||vafbmmsda.com^
 ||vagime.com^
+||vahfzpfyg.com^
 ||vaileeps.com^
 ||vaipsona.com^
 ||vaipsouw.com^
@@ -16802,6 +16817,7 @@ vkcdnservice.appspot.com^
 ||vasstycom.com^
 ||vastserved.com^
 ||vastshmast.com^
+||vatedquali.com^
 ||vatlodesim.com^
 ||vatname.info^
 ||vatodspocw.xyz^
@@ -20860,6 +20876,7 @@ vkcdnservice.appspot.com^
 ||bvr.ast.snva.jp^
 ||kantartns.lt^
 ||trk2-wtb.swaven.com^
+||firstpromoter.com^
 ||st.hbrd.io^
 ||sgtm.sefamerve.com^
 ||analytics-api.statvoo.com^
@@ -27497,6 +27514,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||z0uolej1qnxzub1.info^
 ||zhctrack.net^
 ||zippyfrog.co^
+||zononi.com^
 ||zoomhead.xyz^
 ! Third-party
 ||123stat.com^
@@ -27714,7 +27732,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fbgpnk.com^
 ||fdxstats.xyz^
 ||feathr.co^
-||firstpromoter.com^
 ||flaghit.com^
 ||flexlinkspro.com^
 ||flyspy.co^
@@ -28198,6 +28215,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wecantrack.com^
 ||wgsas.com^
 ||whizstats.com^
+||widebundle.com^
 ||wirewuss.com^
 ||withcubed.com^
 ||wmcdp.io^
@@ -35823,6 +35841,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||de-ads.de^
 ||def-platform.de^
 ||def-platform.net^
+||delmovip.com^
 ||dhads.net^
 ||digentu.de^
 ||dynamic-advertising.de^
@@ -35981,6 +36000,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yoomedia.de^
 ||z0a.de^
 ||za-ads.de^
+||zazufi.com^
 ||zieltracker.de^
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^
 ! Mobile
@@ -40378,6 +40398,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||hucy87.icu^
+||tahuixin.club^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
