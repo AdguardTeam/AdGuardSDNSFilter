@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-06T00:27:37.750Z
+! Last modified: 2022-02-06T06:07:32.598Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4970,6 +4970,7 @@ vkcdnservice.appspot.com^
 ||airconditiondescendent.com^
 ||airpush.com^
 ||airrrxggfafnbl.xyz^
+||airsaurd.com^
 ||airsoubs.com^
 ||aissoksu.net^
 ||aiwhamti.com^
@@ -13609,6 +13610,7 @@ vkcdnservice.appspot.com^
 ||ppfrlfe.com^
 ||ppomyzaheudlta.com^
 ||pppbrkwd.xyz^
+||ppqlnwavlmt.com^
 ||pprq7.com^
 ||ppscdnqkgj.com^
 ||ppxbsbluutiwc.xyz^
@@ -13913,6 +13915,7 @@ vkcdnservice.appspot.com^
 ||pttsite.com^
 ||ptulepti.net^
 ||ptusuhucho.com^
+||ptutchiz.com^
 ||ptwmjmp.com^
 ||ptystuthyglo.com^
 ||pu1.biz^
@@ -17890,6 +17893,7 @@ vkcdnservice.appspot.com^
 ||yeaonesad.com^
 ||yedikthslvl.xyz^
 ||yeegsxcwbnn.com^
+||yefbmjqdjkpr.com^
 ||yellowacorn.net^
 ||yemisleol.xyz^
 ||yempid.com^
@@ -20072,6 +20076,7 @@ vkcdnservice.appspot.com^
 ||d3a49eam5ump99.cloudfront.net^
 ||d3ahinqqx1dy5v.cloudfront.net^
 ||d3aiy6aqoa3ykz.cloudfront.net^
+||d3al52d8cojds7.cloudfront.net^
 ||d3asksgk2foh5m.cloudfront.net^
 ||d3b2hhehkqd158.cloudfront.net^
 ||d3c3uihon9kmp.cloudfront.net^
@@ -28024,6 +28029,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nakanohito.jp^
 ||natero.com^
 ||navigator.io^
+||nc0.co^
 ||ncaudienceexchange.com^
 ||ndf81.com^
 ||nejmqianyan.cn^
@@ -37466,10 +37472,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||jghklz.xyz^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
+||govqingdao.cn^
 ||00xvppy.cn^
 ||01fen.com^
 ||022aifang.com^
@@ -40522,6 +40530,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||rmdzsw.top^
+||hexin.city^
+||zuibandao.club^
+||cloudzhuge.cn^
+||zhiai.space^
+||wzjs.me^
+||rtreyyf.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -42120,7 +42135,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rjnjjin.cn^
 ||rktupt.cn^
 ||rl-mb90b39t.cn^
-||rmdzsw.top^
 ||rmpnhfu.cn^
 ||rngfavm.cn^
 ||rocm0c.site^
@@ -42476,7 +42490,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhentao.shop^
 ||zhenxinchicken.xyz^
 ||zhexnuq.cn^
-||zhiai.space^
 ||zhifoujiaoyu.xyz^
 ||zhihui.ink^
 ||zhonglutang.group^
