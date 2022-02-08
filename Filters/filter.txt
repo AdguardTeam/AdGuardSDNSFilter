@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-08T06:07:17.657Z
+! Last modified: 2022-02-08T12:07:41.188Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24263,6 +24263,7 @@ vkcdnservice.appspot.com^
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
 !
+||bedsberry.com^
 ||shrillspoon.com^
 ||fearlessfaucet.com^
 ||nondescriptnote.com^
@@ -28760,7 +28761,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||automaticairplane.com^
 ||averageamusement.com^
 ||beautifulhobbies.com^
-||bedsberry.com^
 ||begintrain.com^
 ||bouncyfront.com^
 ||burstblade.com^
@@ -40711,6 +40711,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||astep.info^
 ||geoparker.net^
 ||sphntyj.cn^
+||mhqx.store^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
