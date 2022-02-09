@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-08T19:29:30.722Z
+! Last modified: 2022-02-09T00:21:05.645Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -81,7 +81,6 @@
 ||olhkghhjxtomlq.xyz^
 ||jomtingi.net^
 ||refpanglbvyd.top^
-||d1lxhc4jvstzrp.cloudfront.net^
 ||lousebankroll.com^
 ||clenchedyouthmatching.com^
 ||pubpowerplatform.io^
@@ -193,7 +192,6 @@
 ||yestedjgrs.xyz^
 ||maritaltrousersidle.com^
 ||wearetopple.com^
-||d1t4ekjh9ps4ob.cloudfront.net^
 ||rinryesop.one^
 ||tingeffukec.one^
 ||br3azil334nutsz.com^
@@ -209,7 +207,6 @@
 ||cjtsnykfedv.top^
 ||ogmghzpyq.com^
 ||lifeimpressions.net^
-||d3a00ifauhjdp.cloudfront.net^
 ||puturebraving.com^
 ||helpmight.online^
 ||ationpeci.one^
@@ -577,7 +574,6 @@
 ||sinisterbatchoddly.com^
 ||3i1cx7b9nupt.com^
 ||ethnicbrotherhoodunmoved.com^
-||d3iih5w7xp5hdg.cloudfront.net^
 ||machogodynamis.com^
 ||thorpknubby.com^
 ||oncerensky.cam^
@@ -981,7 +977,6 @@
 ||compareproprietary.com^
 ||rasuridin.online^
 ||hotelfroma.fun^
-||d2sbzwmcg5amr3.cloudfront.net^
 ||speakswretch.com^
 ||pefyglafy.pro^
 ||injectlocum.com^
@@ -994,7 +989,6 @@
 ||cggeffgbbfgcefjhgbg.ru^
 ||zwyymwy.com^
 ||disturbedaccruesurfaces.com^
-||d3beefy8kd1pr7.cloudfront.net^
 ||venienceilo.fun^
 ||dellswhinyrank.com^
 ||bikesopden.com^
@@ -1025,12 +1019,10 @@
 ||highmaidfhr.com^
 ||betuuvhozpylo.com^
 ||dbecreativea.biz^
-||due5a6x777z0x.cloudfront.net^
 ||sidebyz.com^
 ||dosliggooor.com^
 ||loadsfalladz.casa^
 ||threecd.name^
-||d2v02itv0y9u9t.cloudfront.net^
 ||termadodad.com^
 ||meproductive.com^
 ||beigecombinedsniffing.com^
@@ -1066,7 +1058,6 @@
 ||irkfunkyformer.com^
 ||alasvow.com^
 ||temporarilybrancheshideous.com^
-||d1cykymlllue3h.cloudfront.net^
 ||st-n.pc5ads.com^
 ||b0f1d2.com^
 ||zaphakesleigh.com^
@@ -1074,7 +1065,6 @@
 ||getadfinity.com^
 ||cubanetestoon.com^
 ||adoto.net^
-||dggaenaawxe8z.cloudfront.net^
 ||cuisineenvoyadvertise.com^
 ||streakattempt.com^
 ||confidethirstyfrightful.com^
@@ -1384,7 +1374,6 @@
 ||airairgu.com^
 ||mobileoffers-bn-download.com^
 ||disappearanceherbalsixpence.com^
-||d1xkyo9j4r7vnn.cloudfront.net^
 ||fuherudo.xyz^
 ||umekian.pw^
 ||jumpnews.pro^
@@ -2281,7 +2270,6 @@
 ||popupme.net^
 ||yljiaoluo.com^
 ||newyorkwhil.com^
-||d2bj2texxib1qg.cloudfront.net^
 ||drakorindo.club^
 ||mobileoffers-a-download.com^
 ||piratepc.net^
@@ -2722,7 +2710,6 @@ www.llllllllllll.net^
 ||roxedltd.co.id^
 ||recallen.info^
 ||earnco.in^
-||d1qk9ujrmkucbl.cloudfront.net^
 ||ssraju3n.com^
 ||top-games.me^
 ||3l4r8d61yz.com^
@@ -2816,7 +2803,6 @@ www.llllllllllll.net^
 ||y6a7tqyr.com^
 ||caprofitx.com^
 ||tdblazing.com^
-||dvdsm0rlx65fo.cloudfront.net^
 ||topjlinks.com^
 ||webinstats.com^
 ||inxy.run^
@@ -3129,7 +3115,6 @@ www.llllllllllll.net^
 ||ddomb.com^
 ||delnapb.com^
 ||diamond88bet.com^
-||dk7rftbivnkgr.cloudfront.net^
 ||dpjtch.vestabalin.com^
 ||dubshub.com^
 ||e-n-t-e-r-n-e-x.com^
@@ -3391,6 +3376,22 @@ www.llllllllllll.net^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d2bj2texxib1qg.cloudfront.net^
+||d1qk9ujrmkucbl.cloudfront.net^
+||d1xkyo9j4r7vnn.cloudfront.net^
+||d1cykymlllue3h.cloudfront.net^
+||dggaenaawxe8z.cloudfront.net^
+||due5a6x777z0x.cloudfront.net^
+||d3beefy8kd1pr7.cloudfront.net^
+||d2v02itv0y9u9t.cloudfront.net^
+||d3iih5w7xp5hdg.cloudfront.net^
+||dvdsm0rlx65fo.cloudfront.net^
+||dk7rftbivnkgr.cloudfront.net^
+||d1t4ekjh9ps4ob.cloudfront.net^
+||d3a00ifauhjdp.cloudfront.net^
+||d1lxhc4jvstzrp.cloudfront.net^
+||d2sbzwmcg5amr3.cloudfront.net^
+||dnn4px252i5wx.cloudfront.net^
 ||d24g87zbxr4yiz.cloudfront.net^
 ||centent.stemplay.cc^
 ||d3pel2vlstnlu9.cloudfront.net^
