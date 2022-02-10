@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-10T06:06:29.476Z
+! Last modified: 2022-02-10T11:33:57.796Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||emisja.contentstream.pl^
+||lsrvvoqobu.com^
 ||ads.playground.xyz^
 ||truetruetruetruetruetruetruetruetrue.top^
 ||btjapxtpernyg.com^
@@ -4130,6 +4132,7 @@ vkcdnservice.appspot.com^
 ||65xps.com^
 ||6657f1d5a25b6.com^
 ||67frzna9e9.com^
+||68456d1a69.com^
 ||688de7b3822de.com^
 ||68d0d5e26bb0ae.com^
 ||69i.club^
@@ -5292,6 +5295,7 @@ vkcdnservice.appspot.com^
 ||arielpri2nce8ss09.com^
 ||arisonoping.club^
 ||arkalealb.site^
+||arliest.com^
 ||arlottencert.club^
 ||armedgroin.com^
 ||armlyemoan.com^
@@ -7208,6 +7212,7 @@ vkcdnservice.appspot.com^
 ||crocodilemounted.com^
 ||crocopop.com^
 ||crookedcareers.com^
+||croresh.com^
 ||crossrider.com^
 ||crowdgravity.com^
 ||crptentry.com^
@@ -7998,6 +8003,7 @@ vkcdnservice.appspot.com^
 ||e4b65f2ef47fb0.com^
 ||e4nglis56hcoo5nhou6nd.com^
 ||e5asyhilodice.com^
+||e5bbd2cdb0.com^
 ||e702fa7de9d35c37.com^
 ||e7594ca72746.com^
 ||e7e776c1a8bf677.com^
@@ -8533,6 +8539,7 @@ vkcdnservice.appspot.com^
 ||factinform.net^
 ||fadbell.com^
 ||fadedauntrainy.com^
+||fadedcovertrefuse.com^
 ||fadingamplify.com^
 ||fadsabs.com^
 ||fadsaltshey.com^
@@ -9108,6 +9115,7 @@ vkcdnservice.appspot.com^
 ||gardourd.com^
 ||garglesoon.com^
 ||garnetsnails.com^
+||garoagre.com^
 ||garristo.com^
 ||gastedidlemen.com^
 ||gatesbelievesgentlemen.com^
@@ -9620,6 +9628,7 @@ vkcdnservice.appspot.com^
 ||hadspmz.com^
 ||haftobso.net^
 ||haghalra.com^
+||hagqlhroomwjew.com^
 ||hairdosslitter.casa^
 ||hairdressercommentarydown.com^
 ||hairoak.com^
@@ -9851,6 +9860,7 @@ vkcdnservice.appspot.com^
 ||hjqkwjyu.com^
 ||hkbrrwxnijhnfg.com^
 ||hkeynjiwpgvfzr.com^
+||hkhnmasegg.com^
 ||hkhotpewfxr.com^
 ||hkoroalxgsnu.com^
 ||hkoxlirf.com^
@@ -11401,6 +11411,7 @@ vkcdnservice.appspot.com^
 ||lsariz.com^
 ||lsjne.com^
 ||lspzhtvstux.com^
+||lsrvvoqobu.top^
 ||lsxdcdnrrco.com^
 ||lsxrasthvajxx.xyz^
 ||ltassrv.com.s3.amazonaws.com^
@@ -12211,6 +12222,7 @@ vkcdnservice.appspot.com^
 ||namelyvulgarquote.com^
 ||namesakeoscilloscopemarquis.com^
 ||namol.xyz^
+||nan46ysangt28eec.com^
 ||nandlookfo.fun^
 ||napeau.com^
 ||napesropes.com^
@@ -12329,6 +12341,7 @@ vkcdnservice.appspot.com^
 ||newdisplayformats.com^
 ||newdomain.center^
 ||newjulads.com^
+||newlywedequilibrium.com^
 ||newmarads.com^
 ||newmayads.com^
 ||newnovads.com^
@@ -12529,6 +12542,7 @@ vkcdnservice.appspot.com^
 ||nowtrk.com^
 ||noy-95.com^
 ||npcad.com^
+||npecialukiz.com^
 ||nposition.club^
 ||npubzssuoini.com^
 ||npvos.com^
@@ -13168,6 +13182,7 @@ vkcdnservice.appspot.com^
 ||partouba.com^
 ||partoukfar.co^
 ||partssubquery.com^
+||partyguarantee.com^
 ||partypartners.com^
 ||parwrite.com^
 ||pas-rahav.com^
@@ -14481,6 +14496,7 @@ vkcdnservice.appspot.com^
 ||regionsparametersvacancy.com^
 ||regionstakeout.com^
 ||regislandery.club^
+||registeredbabbledrive.com^
 ||registeredsethey.com^
 ||registrybrotherinlawdots.com^
 ||registrytensesuffocate.com^
@@ -15715,6 +15731,7 @@ vkcdnservice.appspot.com^
 ||srcsmrtgs.com^
 ||srgev.com^
 ||srigbxxv.com^
+||srnrdeft.xyz^
 ||srodicham.com^
 ||srtk.net^
 ||srukdxvsk.com^
@@ -16585,6 +16602,7 @@ vkcdnservice.appspot.com^
 ||ttoc8ok.com^
 ||ttoyourteam.biz^
 ||ttqeackrnjnfd.com^
+||ttrailwaysint.com^
 ||ttspikbeglki.com^
 ||ttzmedia.com^
 ||tuateramiking.com^
@@ -17224,6 +17242,7 @@ vkcdnservice.appspot.com^
 ||vnr83.com^
 ||vnrherdsxr.com^
 ||vntsm.com^
+||vnuccenky.com^
 ||voapozol.com^
 ||voaroawo.net^
 ||voastauz.net^
@@ -36680,9 +36699,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Feb 2022 10:22 UTC+7
-! Version: 2202101022
-! Blocked: 1.072 rules
+! Last modified: 10 Feb 2022 16:01 UTC+7
+! Version: 2202101601
+! Blocked: 1.077 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -37358,6 +37377,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||casino86.club^
 ||casino888vn.com^
 ||choingay88.com^
+||choita88.club^
 ||comebetvn3.com^
 ||comebetvn9.com^
 ||dabet.me^
@@ -37587,6 +37607,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||v9bet.com^
 ||v9bet88.net^
 ||v9jvn.com^
+||vaorikvip.com^
 ||vic.fun^
 ||vic.win^
 ||vicwin.vip^
@@ -37634,6 +37655,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||x8.vin^
 ||x8vn.com^
 ||xemdabanh.club^
+||xingtou888.com^
 ||yo88.win^
 ||yo88vn.vip^
 ||yule12888.com^
@@ -37659,6 +37681,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ff-member-gazeza.com^
 ||ff-members-garena.vn^
 ||ff-membership-garena.com^
+||ff-membersship-garrena.com^
 ||ff-memnber-garena.com^
 ||ff.garena.memmbershipp.com^
 ||ff.member.garenae.vn^
@@ -37684,6 +37707,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||member-gaarena.com^
 ||member-garena.vn^
 ||memberr-garenaa.com^
+||membershipsgarenavn-ff.com^
 ||news-good.net^
 ||nhanquaffob31.com^
 ||qualienquan.vn^
@@ -44879,6 +44903,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/107168
+@@||netatmo.commander1.com^|
 ! https://github.com/easylist/easylist/pull/9904
 @@||clj.valuecommerce.com^|
 @@||vcentry3.valuecommerce.ne.jp^|
