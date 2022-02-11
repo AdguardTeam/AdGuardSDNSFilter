@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-11T00:21:40.518Z
+! Last modified: 2022-02-11T06:07:39.642Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -37742,6 +37742,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||mzya5718.xyz^
+||caomeixz10.xyz^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40802,12 +40804,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||ymdxxkj.icu^
-||huyc.info^
-||yaofaweb.xyz^
-||yakel.top^
-||awwlfb.cn^
-||ulxypyg.cn^
+||yikouxian.fun^
+||achu.wang^
+||mncvz.top^
+||awwlrd.cn^
+||weiiimt.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -41196,6 +41197,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||avvr.club^
 ||awleo.cn^
 ||awtks.com^
+||awwlfb.cn^
 ||awyys.com^
 ||ax329.cn^
 ||axbdlox.cn^
@@ -41999,6 +42001,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hulewangsi.cn^
 ||huobago.com^
 ||huofayu.com^
+||huyc.info^
 ||hvzlgyi.cn^
 ||hxclove.club^
 ||hxf1688.xyz^
@@ -42570,6 +42573,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||u5274.cn^
 ||ugmvoys.cn^
 ||uidndas.cn^
+||ulxypyg.cn^
 ||umhfrtu.cn^
 ||umihecd.cn^
 ||umis.top^
@@ -42717,8 +42721,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ya1vg3w.cn^
 ||yabqg.cn^
 ||yahekby.cn^
+||yakel.top^
 ||yancy.fun^
 ||yanliang.vip^
+||yaofaweb.xyz^
 ||yaznkj.cn^
 ||ybnndud.cn^
 ||ybsyyh.com^
@@ -42739,6 +42745,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yjwl.ltd^
 ||ykwh.store^
 ||yl04z4v.cn^
+||ymdxxkj.icu^
 ||ynbyutongdianqi.com^
 ||yncjsc.cn^
 ||yougouquanqiu.xyz^
