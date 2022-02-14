@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-14T06:07:43.451Z
+! Last modified: 2022-02-14T12:08:37.096Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3800,6 +3800,7 @@ vkcdnservice.appspot.com^
 ||0956228a2df97a.com^
 ||0azx1.com^
 ||0b9d84d93f1b.com^
+||0c6fb44787.com^
 ||0dbcf515975d.com^
 ||0dcdc74c3ca.com^
 ||0e6fc55ed3d4c2c2ba0.com^
@@ -4169,6 +4170,7 @@ vkcdnservice.appspot.com^
 ||8547459af5da02.com^
 ||8574b6a733f1de.com^
 ||85e954452d.com^
+||864db374c6.com^
 ||864feb57ruary.com^
 ||86a6b542l7.com^
 ||86b16730f8.com^
@@ -19123,6 +19125,8 @@ vkcdnservice.appspot.com^
 ||feature.fm^
 ||fireflyengagement.com^
 ||fireworkadservices.com^
+||fireworkapi.com^
+||fireworktv.com^
 ||firstimpression.io^
 ||fisari.com^
 ||fixionmedia.com^
@@ -40877,6 +40881,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||jiage.ink^
+||xianggouwu.vip^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -44776,7 +44782,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yzylm.com^
 ||yzyszy.com^
 ||zabxb.com^
-||zanghaihua.org^
 ||zazkkk.com^
 ||zbqmsc.com^
 ||zbzbzzz.top^
