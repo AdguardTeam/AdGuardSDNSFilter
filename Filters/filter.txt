@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-15T18:05:50.819Z
+! Last modified: 2022-02-16T00:21:15.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -25522,6 +25522,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||analytics.wondershare.cc^
+||log.newsbreak.jp^
 ||metcon.hulu.com^
 ||vortex.hulu.com^
 ||statistics.fppressa.ru^
@@ -40939,15 +40941,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||bnkpgjw.cn^
-||zxhstudy.online^
-||apio.ink^
-||zgwxt.vip^
-||capzo.cn^
-||lyautotech.club^
-||cb8lvgd.cn^
-||tienu.tech^
-||yiyuwl.cn^
+||51vs.club^
+||xjsq.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -41314,6 +41309,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||apainter.cn^
 ||apdingqian.com^
 ||api.abcxs.org^
+||apio.ink^
 ||apjiangte.com^
 ||applequan.com^
 ||appstreets.com^
@@ -41561,6 +41557,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bmuju.com^
 ||bnd-ybb.cn^
 ||bndbddt.top^
+||bnkpgjw.cn^
 ||bntxt.com^
 ||boassistant.com^
 ||bodapet.com^
@@ -41622,11 +41619,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||calvfk.cn^
 ||canalandco.com^
 ||caofta.cn^
+||capzo.cn^
 ||carlseb.xyz^
 ||carset.vip^
 ||cashnews.info^
 ||cathaycentury.com^
 ||caupdcloud.cn^
+||cb8lvgd.cn^
 ||cbctp.top^
 ||cbgyhe.cn^
 ||cbh365.club^
@@ -42347,6 +42346,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lxiu.shop^
 ||lxtxhxt.com^
 ||lxxy.xyz^
+||lyautotech.club^
 ||lyedssj.cn^
 ||lyjxwlkj.com^
 ||lzjc.shop^
@@ -42702,6 +42702,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ti863.cn^
 ||tianhenggo.xyz^
 ||tianlule.cn^
+||tienu.tech^
 ||timy.ink^
 ||tivfcaa.cn^
 ||tiyhxdd.cn^
@@ -42914,6 +42915,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yinan.tech^
 ||yingxunkeji.net^
 ||yini.link^
+||yiyuwl.cn^
 ||yizhanghaoquan.pw^
 ||yjplpck.cn^
 ||yjwl.ltd^
@@ -42958,6 +42960,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zengwx.cn^
 ||zfw.me^
 ||zgbtw.mobi^
+||zgwxt.vip^
 ||zgxieshou.com^
 ||zgyso.cn^
 ||zgystsd.com^
@@ -43016,6 +43019,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zuoyouyu.cn^
 ||zwdq.xyz^
 ||zxakeax.cn^
+||zxhstudy.online^
 ||zxyonlybelongstolym.xyz^
 ||zyam.club^
 ||zyezhz.cn^
