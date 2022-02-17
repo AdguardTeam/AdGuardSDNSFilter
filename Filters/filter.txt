@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-17T00:20:46.346Z
+! Last modified: 2022-02-17T06:07:37.830Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4222,6 +4222,7 @@ vkcdnservice.appspot.com^
 ||951e8b9cd72.com^
 ||96660970b05417.com^
 ||967rett6fzaf.com^
+||96e0993c2f.com^
 ||96e8abd9c4.com^
 ||976b97b6da.com^
 ||97d73lsi.com^
@@ -6326,6 +6327,7 @@ vkcdnservice.appspot.com^
 ||c61ec7314ee.com^
 ||c63d72a4022.com^
 ||c7e4d34b2afc3.com^
+||c8f502ed61.com^
 ||c90752b0b5.com^
 ||c9e5089374.com^
 ||c9emgwai66zi.com^
@@ -40980,6 +40982,17 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stunninglover.com^
 ||boomj.club^
 ||ljk.ink^
+||k67lxl.space^
+||hndshop.cn^
+||qdftsac.cn^
+||mlqq.store^
+||nmsl.ink^
+||npubvjw.cn^
+||lzls.ltd^
+||mugogfy.cn^
+||jyzag.cn^
+||pqsjb.cn^
+||readnos.com^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
