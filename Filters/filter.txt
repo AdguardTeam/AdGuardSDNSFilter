@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-17T12:08:17.198Z
+! Last modified: 2022-02-17T13:47:27.258Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||forarchenchan.com^
 ||kbdviyqhbhnd.com^
 ||dmfwniplqhnf.com^
 ||trk.nfl-online-streams.live^
@@ -36775,6 +36776,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||leoceran.pw^
 ||lokeriklan.com^
 ||lpaizureik.com^
+||lsgqlgoc.com^
 ||luven.xyz^
 ||masteriklan.net^
 ||mediab.uy^
@@ -45161,6 +45163,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/897
+! Blocked by CNAME affex.org
+@@||marketing.net.idealo-partner.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/107168
 @@||netatmo.commander1.com^|
 ! https://github.com/easylist/easylist/pull/9904
