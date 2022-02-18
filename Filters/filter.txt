@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-18T12:01:22.495Z
+! Last modified: 2022-02-18T18:01:19.453Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,15 @@
 !
 !
 !
+||pookawnratbite.com^
+||enablecherrysail.com^
+||easyads28.info^
+||df80k0z3fi8zg.cloudfront.net^
+||urbharat.xyz^
+||date4sex.pro^
+||instauser.tk^
+||1frozenthrone1.com^
+||uhelalusthguw.com^
 ||mvdkcfyhtsq.com^
 ||curupeymaceman.com^
 ||forarchenchan.com^
@@ -5765,6 +5774,7 @@ vkcdnservice.appspot.com^
 ||bedsideseller.com^
 ||bedsitetrypa.com^
 ||bedspursueclueless.com^
+||bedumbserugate.com^
 ||beeaimaid.com^
 ||beefymartpronunciation.com^
 ||beegmove.com^
@@ -14432,6 +14442,7 @@ vkcdnservice.appspot.com^
 ||qyxwfe.com^
 ||qzfrmewdbzkcsf.com^
 ||qzgbhuelut.com^
+||qzvlbjatsgzgn.com^
 ||r-tb.com^
 ||r023m83skv5v.com^
 ||r3adyt0download.com^
@@ -15380,6 +15391,7 @@ vkcdnservice.appspot.com^
 ||sflywdvzyh.com^
 ||sfoimvwyyf.com^
 ||sftapi.com^
+||sfzover.com^
 ||sg2rgnza7k9t.com^
 ||sgcsuscnyw.com^
 ||sgftrrs.com^
@@ -21307,6 +21319,15 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||pingmeter.com^
+||t.91syun.com^
+||track.mituo.cn^
+||tracksmart.se^
+||data.digitalks.az^
+||track.nopaperforms.com^
+||track.91app.io^
+||track.stat.pet^
+||cdn.teleportapi.com^
 ||api.rollbar.com^
 ||fouanalytics.com^
 ||analitits.com^
@@ -25594,6 +25615,9 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||d.email.forbes.com^
+||curiosity-seven.vercel.app^
+||track.eurogirlsescort.com^
 ||clickstream.cresendo.net^
 ||tj3rql9siwef.www.freecodecamp.org^
 ||analytics.wondershare.cc^
@@ -30931,6 +30955,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||realpush.digital^
+||rbthre.work^
+||catsnetwork.ru^
 ||zzfoms.com^
 ||5h3oyhv838.com^
 ||lwmoaf.com^
@@ -35370,6 +35397,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||vxhrhnvtucv.com^
+||stairtuy.com^
 ||vitrinler3.com^
 ||launchingonsetwhirlwind.com^
 ||tracking.ucreate.live^
@@ -37942,8 +37971,6 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ||00-gov.cn^
 ||000123456789.site^
-||77nnv9.xyz^
-||ud783c01.com^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
@@ -38136,6 +38163,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||77417.cn^
 ||7773180.com^
 ||7791.com.cn^
+||77nnv9.xyz^
 ||77power.com^
 ||78dx8t.com^
 ||7a096v.cn^
@@ -38573,7 +38601,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fanli.in^
 ||fanwoyang.com^
 ||farm-cn.plista.com^
-||fastable.com^
 ||fcheng.top^
 ||fd7c.com^
 ||feisia1.cn^
@@ -39515,6 +39542,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ubmcvideo.baidustatic.com^
 ||uc610.com^
 ||ucxgg.com^
+||ud783c01.com^
 ||ud783c02.com^
 ||ud783c08.com^
 ||ud831d2.com^
@@ -41020,20 +41048,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||xmwn.shop^
-||guji.store^
-||lega.store^
-||lo83cs.space^
-||mzy1.xyz^
-||wy8.wang^
-||vqlrwgj.cn^
-||quanwu.shop^
-||lpjgr.top^
-||gxhc.ink^
-||xije.ren^
-||tanshan.site^
-||haodiwh.top^
-||jiehe.me^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -42178,6 +42192,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||grours.cn^
 ||guangzhengtwo.top^
 ||guanxs.com^
+||guji.store^
 ||gunvn.cn^
 ||guolvhbb.cn^
 ||guxin.me^
@@ -42186,6 +42201,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gwmaajp.cn^
 ||gwmeinq.cn^
 ||gwyvvjj.cn^
+||gxhc.ink^
 ||gxms.vip^
 ||gyrenmai.icu^
 ||gywiqnmn.cn^
@@ -42195,6 +42211,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gzz123.com^
 ||haigou.life^
 ||haodazhizhuangzhuang.club^
+||haodiwh.top^
 ||haogame.me^
 ||haojun.info^
 ||happycastle.me^
@@ -42315,6 +42332,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jiameiyin.cn^
 ||jianyihang.com^
 ||jiazhenghangye.pw^
+||jiehe.me^
 ||jingshenhaixian.cn^
 ||jinlianchengwhcm.cn^
 ||jinxiangyu.ltd^
@@ -42416,6 +42434,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ldogre.top^
 ||ldsage.top^
 ||leelovelwj.com^
+||lega.store^
 ||lemmotx.cn^
 ||leqfgnb.cn^
 ||lf666.xyz^
@@ -42434,9 +42453,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lllfe.cn^
 ||lntskz.cn^
 ||lnwhh.com^
+||lo83cs.space^
 ||lofe.shop^
 ||log57.top^
 ||lonpoyf.cn^
+||lpjgr.top^
 ||lppwnue.cn^
 ||lpwx.xyz^
 ||lrqugqq.cn^
@@ -42467,6 +42488,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||maoxilucai.cn^
 ||marktang.love^
 ||mcix.cn^
+||mclseww.top^
 ||mebtc.cn^
 ||meshare.site^
 ||mexcel.info^
@@ -42519,6 +42541,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||myyuye.club^
 ||mzwfu.xyz^
 ||mzwfw.club^
+||mzy1.xyz^
 ||n258.cc^
 ||nbpyfog.cn^
 ||nbslx.mobi^
@@ -42653,6 +42676,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qqqmmm.top^
 ||qscwdv.top^
 ||qtrwwov.cn^
+||quanwu.shop^
 ||qujiawan.vip^
 ||quliushang.xyz^
 ||quqianlai.cn^
@@ -42796,6 +42820,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||taiztf.cn^
 ||tangxue.me^
 ||tanky.vip^
+||tanshan.site^
 ||taomovie.club^
 ||taopiaopiao.shop^
 ||taoyao.tech^
@@ -42884,6 +42909,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vnet.ink^
 ||vnlaqu.site^
 ||vnyqn.cn^
+||vqlrwgj.cn^
 ||vrhug.cn^
 ||vrtrdvx.cn^
 ||vsddtr.cn^
@@ -42948,6 +42974,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wwshxc.cn^
 ||wxkouem.cn^
 ||wxqcshgc.icu^
+||wy8.wang^
 ||wyykxyp.cn^
 ||wzjs.me^
 ||wzxzy.icu^
@@ -42984,6 +43011,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xiaozhige.xyz^
 ||xihua.me^
 ||xiituvt.top^
+||xije.ren^
+||xikaijz.top^
 ||xinchenyang.cn^
 ||xingtu.ltd^
 ||xingyou46.icu^
@@ -42996,6 +43025,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xjjkxcg.cn^
 ||xjsq.xyz^
 ||xmouxe.cn^
+||xmwn.shop^
 ||xpxmpf.cn^
 ||xqiyi.top^
 ||xqtzp.cn^
