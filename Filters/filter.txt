@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-17T18:07:03.609Z
+! Last modified: 2022-02-18T00:02:05.949Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4149,9 +4149,9 @@ vkcdnservice.appspot.com^
 ||7a8fe1c29493.com^
 ||7adea8620f.com^
 ||7b532401e9.com^
-||7ca78m3csgbrid7ge.com^
 ||7c0616849b.com^
 ||7c1e55606540.com^
+||7ca78m3csgbrid7ge.com^
 ||7cc70.com^
 ||7db0b2a0ee95f557904.com^
 ||7e233f1cc5320.com^
@@ -25592,6 +25592,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||clickstream.cresendo.net^
 ||tj3rql9siwef.www.freecodecamp.org^
 ||analytics.wondershare.cc^
 ||log.newsbreak.jp^
@@ -28085,7 +28086,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||btncdn.com^
 ||buildkiteanalytics.com^
 ||bunchbox.co^
-||byside.com^
 ||c212.net^
 ||cactusglobal.io^
 ||cactusmedia.com^
@@ -29894,6 +29894,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vortex.data.microsoft.com^
 ||wco.crownpeak.com^
 ||web1.51.la^
+||webcare.byside.com^
 ||weblog.livesport.eu^
 ||weblogger-dynamic-lb.playdom.com^
 ||webservices.websitepros.com^
@@ -37938,6 +37939,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ||00-gov.cn^
 ||000123456789.site^
+||77nnv9.xyz^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
@@ -41014,6 +41016,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||xmwn.shop^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
