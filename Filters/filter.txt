@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-19T06:01:15.343Z
+! Last modified: 2022-02-19T12:02:37.763Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,13 @@
 !
 !
 !
+||hsrvv.com^
+||instaflrt.com^
+||japanhotties.jp^
+||occustantwidity.com^
+||singlesgetmatched.com^
+||jsedeepuujv.com^
+||abjwkkabu.com^
 ||pookawnratbite.com^
 ||enablecherrysail.com^
 ||easyads28.info^
@@ -35760,13 +35767,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Yahoo
 ||promotionalads.yahoo.co.jp^
-||adserver.yahoo.co.jp^
-||smartads.mobile.yahoo.co.jp^
-||rd.yahoo.co.jp^
 ||ard.yahoo.co.jp^
 ||ov.yahoo.co.jp^
 ||yeas.yahoo.co.jp^
-||logoole.yahoo.co.jp^
 ||yads.yahoo.co.jp^
 ||yads.yjtag.yahoo.co.jp^
 !
@@ -35775,8 +35778,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Shinobi.jp
 ||adf.shinobi.jp^
 ||bar*.shinobi.jp^
-||ct1.shinobi.jp^
-||ct2.shinobi.jp^
 !
 ! Rakuten.co.jp
 ||affiliate.rakuten.co.jp^
@@ -35969,7 +35970,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aspm.jp^
 ||clickmedias.info^
 ||doubleclick.ne.jp^
-||inmobi-jp.com^
 ||j-a-net.jp^
 ||livead.jp^
 ||liveads.jp^
@@ -36003,12 +36003,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||9vad.com^
 ||agilemedia.jp^
 ||ad.duga.jp^
-||ad.floq.jp^
 ||ad.kau.li^
 ||ad.land.to^
 ||ad.net-tool.jp^
 ||ad.nicovideo.jp^
-||addclips.org^
 ||ads.metropolis.co.jp^
 ||ads.nicovideo.jp^
 ||affili.dmm.com^
@@ -38003,6 +38001,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||qsnyswg.cn^
+||5ibanma.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -41091,6 +41090,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mygqhvz.cn^
 ||jlyayxz.cn^
 ||dlvjmr.cn^
+||hxbylm.vip^
+||lingquanba.wang^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
