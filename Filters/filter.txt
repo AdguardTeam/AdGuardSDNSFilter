@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-21T12:01:15.197Z
+! Last modified: 2022-02-21T17:18:00.629Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,11 @@
 !
 !
 !
+||cima-club.club^
+||xekychacu.com^
+||lanopoon.net^
+||wftqsrpyqm.com^
+||slhoisgdhs.com^
 ||wpvktqejs.com^
 ||dissolvedhaunch.com^
 ||hsrvv.com^
@@ -107,7 +112,6 @@
 ||iocegdtpwmbg.top^
 ||rkllcrwtftx.com^
 ||olhkghhjxtomlq.xyz^
-||jomtingi.net^
 ||refpanglbvyd.top^
 ||lousebankroll.com^
 ||pubpowerplatform.io^
@@ -9420,6 +9424,7 @@ vkcdnservice.appspot.com^
 ||gloviphewhe.com^
 ||glowdot.com^
 ||glssp.net^
+||glucinafumose.com^
 ||gludraus.com^
 ||glugreez.com^
 ||glumpaul.net^
@@ -10463,6 +10468,7 @@ vkcdnservice.appspot.com^
 ||invisedspill.com^
 ||invitesuperstitiousadmire.com^
 ||invraisemblable.com^
+||inwardxenos.com^
 ||inwgamacuuv.xyz^
 ||iociley.com^
 ||iodideeyebath.cam^
@@ -10734,6 +10740,7 @@ vkcdnservice.appspot.com^
 ||jolic2.com^
 ||jollyfirmexterminate.com^
 ||jollytestpartying.com^
+||jomtingi.net^
 ||joneighbourlyisabella.com^
 ||jonquilpapered.com^
 ||joobuste.com^
@@ -19293,8 +19300,6 @@ vkcdnservice.appspot.com^
 ||feature.fm^
 ||fireflyengagement.com^
 ||fireworkadservices.com^
-||fireworkapi.com^
-||fireworktv.com^
 ||firstimpression.io^
 ||fisari.com^
 ||fixionmedia.com^
@@ -27520,6 +27525,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||event-search.jorte.com^
+||log-upload-os.hoyoverse.com^
 ||analytics.studiodesignapp.com^
 ||misc.api.snaptube.app^
 ||dig.bdurl.net^
@@ -38025,9 +38032,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||2022aaa.xyz^
-||bllbvv.xyz^
-||4gustis.xyz^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -38094,6 +38098,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||201071.com^
 ||2018haoyunlai.com^
 ||201n.com^
+||2022aaa.xyz^
 ||218.26.217.*.html
 ||21kk.cc^
 ||222im.com^
@@ -38161,6 +38166,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||40fenzhong.com^
 ||4480dy.net^
 ||47api.cn^
+||4gustis.xyz^
 ||4kyu.cn^
 ||50zera.com^
 ||51-tour.net^
@@ -38428,6 +38434,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bjytdqwx.com^
 ||bjzsyx.cn^
 ||bla01.com^
+||bllbvv.xyz^
 ||bllzgqbyp.com^
 ||blogdaka.cc^
 ||bmbaike.cn^
@@ -39309,6 +39316,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pzrj6.top^
 ||q4ee.top^
 ||qajypx.com^
+||qasqs.com^
 ||qbj8.com^
 ||qdchunyu.com^
 ||qdopportune.cn^
@@ -39508,6 +39516,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sytcyf.com^
 ||syzzhd.cn^
 ||szblcad.com^
+||szdxc.net^
 ||szdzbx.com^
 ||szfaq.com^
 ||szfhl99.com^
@@ -41109,17 +41118,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||zkjh.info^
-||zgfushi.mobi^
-||gxkj.ink^
-||icfy.xyz^
-||meitaolianmeng.ltd^
-||xubb.xyz^
-||qtywnoh.cn^
-||bjaiwb.cn^
-||xxdesi.top^
-||suoksm.cn^
-||eatncx.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -41220,6 +41218,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||3hbox.com^
 ||3line.tech^
 ||3yai2u.cn^
+||41cm.shop^
 ||4399.space^
 ||46rib.cn^
 ||4excel.cn^
@@ -41704,6 +41703,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bixuyao.com.cn^
 ||bizhixiang.cn^
 ||bizhub-cloud.cn^
+||bjaiwb.cn^
 ||bjark.com.cn^
 ||bjcgbc.cn^
 ||bjdianyue.com^
@@ -42158,6 +42158,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ea0jlu8jie.cn^
 ||ealcrrm.cn^
 ||easyjz.com.cn^
+||eatncx.cn^
 ||ebsxlpv.cn^
 ||ebuysolar.com^
 ||ecai.info^
@@ -42279,6 +42280,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gwmeinq.cn^
 ||gwyvvjj.cn^
 ||gxhc.ink^
+||gxkj.ink^
 ||gxms.vip^
 ||gyrenmai.icu^
 ||gywiqnmn.cn^
@@ -42366,6 +42368,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||i8023.icu^
 ||i9zkiqn.cn^
 ||ibdtjqn.cn^
+||icfy.xyz^
 ||idmee.cn^
 ||iehtzdq.cn^
 ||ih740.cn^
@@ -42576,6 +42579,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mcix.cn^
 ||mclseww.top^
 ||mebtc.cn^
+||meitaolianmeng.ltd^
 ||meshare.site^
 ||mexcel.info^
 ||mfagqah.cn^
@@ -42764,6 +42768,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qqqmmm.top^
 ||qscwdv.top^
 ||qtrwwov.cn^
+||qtywnoh.cn^
 ||quanwu.shop^
 ||qujiawan.vip^
 ||quliushang.xyz^
@@ -42886,6 +42891,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||studytest.icu^
 ||sunmartkj.cn^
 ||sunnysun.co^
+||suoksm.cn^
 ||surls.cn^
 ||svjxuba.cn^
 ||svvbrkk.cn^
@@ -43129,8 +43135,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xsdlt.top^
 ||xsgkjsb.cn^
 ||xsrypte.cn^
+||xubb.xyz^
 ||xujie.xyz^
 ||xvyvknl.cn^
+||xxdesi.top^
 ||xxw777.cn^
 ||xzcvfdwe.cn^
 ||xzjgzpw.cn^
@@ -43206,6 +43214,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zengwx.cn^
 ||zfw.me^
 ||zgbtw.mobi^
+||zgfushi.mobi^
 ||zgwxt.vip^
 ||zgxieshou.com^
 ||zgyso.cn^
@@ -43245,6 +43254,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zjzs.club^
 ||zkczbti.cn^
 ||zkit.club^
+||zkjh.info^
 ||zkrmeml.cn^
 ||zl856.cn^
 ||zlin.fun^
