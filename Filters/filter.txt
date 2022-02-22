@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-22T00:02:24.951Z
+! Last modified: 2022-02-22T06:01:04.768Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -38074,6 +38074,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
+||e5af61b2d8c19c16.online^
 ||01fen.com^
 ||022aifang.com^
 ||025suyu.com^
@@ -41155,6 +41156,21 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||jun01.oss-cn-beijing.aliyuncs.com^
+||jpg1.oss-cn-beijing.aliyuncs.com^
+||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
+||wxtp.cdn.bcebos.com^
+||wzjs1.oss-accelerate.aliyuncs.com^
+||htft.store^
+||zhaovip.site^
+||haohuisheng555.cn^
+||valarmorghulis.top^
+||xiaomifood.cn^
+||yyys.shop^
+||lwobol.cloud^
+||yrlfnyx.cn^
+||cmavfl.cn^
+||yangzheqing.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -42480,7 +42496,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jsqhh.cn^
 ||jttcbj.cn^
 ||juanbanji.biz^
-||jun01.oss-cn-beijing.aliyuncs.com^
 ||just-cnc.com^
 ||justwkj.xyz^
 ||jwvjcr.cn^
@@ -43849,7 +43864,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jnxz66.cn^
 ||jollyspring.com^
 ||jotrening.com^
-||jpg1.oss-cn-beijing.aliyuncs.com^
 ||jpqgxy.com^
 ||jsboom.cn^
 ||jskang.cn^
@@ -44487,7 +44501,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shanxige.com^
 ||shanyuebrowser.com^
 ||shaque.vip^
-||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||shenbianlaoshi.com^
 ||shengchaopiao.cn^
 ||shengdaoyiliao.com^
@@ -44883,7 +44896,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wxhdwy.com^
 ||wxkksk.com^
 ||wxskqy.cn^
-||wxtp.cdn.bcebos.com^
 ||wxtuoke.cn^
 ||wy95.xyz^
 ||wyafelk.cn^
@@ -44892,7 +44904,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wywna.cn^
 ||wyxcb6.top^
 ||wyzxn.cn^
-||wzjs1.oss-accelerate.aliyuncs.com^
 ||x18a1fmq74.cn^
 ||xabtx.com^
 ||xacqp.com^
