@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-24T06:01:06.281Z
+! Last modified: 2022-02-24T12:01:20.226Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||icqqjipv.com^
+||raptapee.com^
+||yvwrjfyxrdcvmq.com^
+||fireworkadservices1.com^
 ||seebait.com^
 ||mage98rquewz.com^
 ||cugiphepty.com^
@@ -21458,6 +21462,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||imzahrwl.xyz^
 ||karte.io^
 ||script.anura.io^
 ||collector-*.px-cloud.net^
@@ -28101,7 +28106,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||i218435.net^
 ||impactcdn.com^
 ||impactradius-event.com^
-||imzahrwl.xyz^
 ||innerskinresearch.com^
 ||instantfox.co^
 ||irs01.com^
@@ -41236,6 +41240,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shuai.love^
 ||dnk56q7h.cn^
 ||vlbvgtj.cn^
+||chnt.wang^
+||zzkj.biz^
+||g081fme.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
