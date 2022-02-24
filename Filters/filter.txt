@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-24T00:03:03.660Z
+! Last modified: 2022-02-24T06:01:06.281Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18566,6 +18566,7 @@ vkcdnservice.appspot.com^
 ||zelllwrite.com^
 ||zelrasty.net^
 ||zemqvlylmtu.com^
+||zenaps.com^
 ||zenkreka.com^
 ||zenoviaexchange.com^
 ||zenoviagroup.com^
@@ -31109,6 +31110,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||qeclsl.com^
 ||cdn.umh.ua^
 ||brinaltrak.com^
 ||jdmodr.com^
@@ -38131,6 +38133,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||00-gov.cn^
+||szmsao.com^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
@@ -41227,6 +41230,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||fuzhuyuan1688.xyz^
+||xingyou25.xyz^
+||qiyu.shop^
+||shuai.love^
+||dnk56q7h.cn^
+||vlbvgtj.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
