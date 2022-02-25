@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-25T12:01:20.903Z
+! Last modified: 2022-02-25T18:01:13.310Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,18 @@
 !
 !
 !
+||rquixwgrwvdcal.xyz^
+||dopjfbdvatxlhe.com^
+||uscnvdcxttnh.com^
+||9oi6khy9.xyz^
+||sybsybe.xyz^
+||ksgsjeix.xyz^
+||ffueys.xyz^
+||jehlenmen.xyz^
+||zonbon.xyz^
+||hastrenmon.xyz^
+||raigebro.xyz^
+||lkjei.xyz^
 ||gmwejhjxklvh.com^
 ||icqqjipv.com^
 ||raptapee.com^
@@ -415,7 +427,6 @@
 ||ethadepic.club^
 ||forzslodge.com^
 ||ptunogrywhy.pro^
-||sub.superxxxfree.com^
 ||news-back.org^
 ||beta-news.org^
 ||jqyde7msbro2.com^
@@ -425,7 +436,6 @@
 ||lajeshuru.pro^
 ||34pavouhj7.com^
 ||oldgyhogola.com^
-||loweredinflammable.com^
 ||flabbyyolkinfection.com^
 ||jillsclickcorner.com^
 ||cst.cstwpush.com^
@@ -4255,6 +4265,7 @@ vkcdnservice.appspot.com^
 ||adnigma.com^
 ||adnimo.com^
 ||adnoble.com^
+||adnsrv.name^
 ||adnxs-simple.com^
 ||adnxs.com^
 ||adnxs.net^
@@ -7398,6 +7409,7 @@ vkcdnservice.appspot.com^
 ||devaluationlimetreedeadly.com^
 ||devaluationobserve.com^
 ||devastatingallothallucinate.com^
+||deveincyanids.com^
 ||developingmansensitiveness.com^
 ||develsdrawal.xyz^
 ||devilspanmute.com^
@@ -8443,6 +8455,7 @@ vkcdnservice.appspot.com^
 ||fadspms.com^
 ||fadvindictive.com^
 ||fae46gussylvatica.com^
+||faggotsnulled.com^
 ||faggrim.com^
 ||faglollstwo.com^
 ||fagold.xyz^
@@ -11443,6 +11456,7 @@ vkcdnservice.appspot.com^
 ||lovedearringschoolmaster.com^
 ||lovemateforyou.com^
 ||loversagobearable.com^
+||loweredinflammable.com^
 ||lowestpendulousdistract.com^
 ||lowlifebadly.com^
 ||lowpox.xyz^
@@ -13022,6 +13036,7 @@ vkcdnservice.appspot.com^
 ||opekoobs.net^
 ||openedinfractructureilliterate.com^
 ||openerworryrecite.com^
+||opensrhinos.com^
 ||openx.net^
 ||openxadexchange.com^
 ||openxenterprise.com^
@@ -16184,6 +16199,7 @@ vkcdnservice.appspot.com^
 ||supernaturalcapricorn.com^
 ||superstriker.net^
 ||supertrackingz.com^
+||superxxxfree.com^
 ||suppermalignant.com^
 ||supperopeningturnstile.com^
 ||supplyglossailment.com^
@@ -19420,6 +19436,7 @@ vkcdnservice.appspot.com^
 ||evolvemediallc.com^
 ||evolvenation.com^
 ||exactdrive.com^
+||exitbee.com^
 ||exitexplosion.com^
 ||exmarketplace.com^
 ||exponential.com^
@@ -22071,7 +22088,6 @@ vkcdnservice.appspot.com^
 ||smartocto.com^
 ||baikalize.com^
 ||relevant-digital.com^
-||exitbee.com^
 ||log.cizion.com^
 ||statafun.ru^
 ||sc.lfeeder.com^
@@ -25804,6 +25820,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||log.suumo.jp^
 ||tracking.nw.de^
 ||trk.storyly.io^
 ||d.email.forbes.com^
