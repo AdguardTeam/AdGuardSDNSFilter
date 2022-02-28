@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-02-28T06:01:26.922Z
+! Last modified: 2022-02-28T12:02:21.516Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5575,6 +5575,7 @@ vkcdnservice.appspot.com^
 ||bephamema.com^
 ||bepiletussar.casa^
 ||beqyexeqof.com^
+||ber2g8e3keley.com^
 ||berningbegi.club^
 ||berryborrowing.com^
 ||bertekoa.net^
@@ -5851,6 +5852,7 @@ vkcdnservice.appspot.com^
 ||bondfondif.com^
 ||bonertraffic.info^
 ||bonertraffic.mobi^
+||bonertraffic.pro^
 ||bonertraffic12.info^
 ||bonertraffic12.pro^
 ||bonertraffic13.info^
@@ -13162,6 +13164,7 @@ vkcdnservice.appspot.com^
 ||ouphowor.com^
 ||oupushee.com^
 ||oureviewi.club^
+||ourl.link^
 ||ouropenin.club^
 ||ourseismol.biz^
 ||oursgorefreshing.com^
@@ -15337,6 +15340,7 @@ vkcdnservice.appspot.com^
 ||scmqhshjvgcw.xyz^
 ||scnd-tr.com^
 ||sconvtrk.com^
+||scornamentum.com^
 ||scotlandon.club^
 ||scoutdealingdrift.com^
 ||scowledmulticulturaldebauch.com^
@@ -16577,6 +16581,7 @@ vkcdnservice.appspot.com^
 ||thubyjemi.pro^
 ||thudywhamy.com^
 ||thughighjackcheesy.com^
+||thumpssleys.com^
 ||thurag.com^
 ||thurnflfant.com^
 ||thursdayfeeemployee.com^
@@ -16928,6 +16933,7 @@ vkcdnservice.appspot.com^
 ||tubemov.com^
 ||tudotecnologia.site^
 ||tuesdayfetidlit.com^
+||tuftingkuan.com^
 ||tugnote.com^
 ||tujestimater.pro^
 ||tuknelym.com^
@@ -21543,6 +21549,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||script-sh.d2cdm.jp^
+||browser-intake-datadoghq.com^
 ||cl*.k5a.io^
 ||analytics.superstructure.ai^
 ||cdn.raekdata.com^
@@ -31202,6 +31210,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||vyocqq.com^
 ||banganet.com^
 ||qeclsl.com^
 ||cdn.umh.ua^
@@ -38230,6 +38239,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||hjqsyyy.com^
+||wuxiann.top^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -41338,6 +41349,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||reyxif.cn^
 ||qagdczc.cn^
+||xhpqpq.cn^
+||sisihl.cn^
+||lejia.biz^
+||rushwei.ltd^
+||sngsn.fun^
+||tbscw.biz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
