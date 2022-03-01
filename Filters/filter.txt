@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-01T00:02:30.181Z
+! Last modified: 2022-03-01T06:01:11.498Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -37218,9 +37218,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Feb 2022 22:49 UTC+7
-! Version: 2202272249
-! Blocked: 1.098 rules
+! Last modified: 01 Mar 2022 10:30 UTC+7
+! Version: 2203011030
+! Blocked: 1.099 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -41383,6 +41383,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||hton.ren^
+||eqlidke.cn^
+||mdkjefq.cn^
+||tufsjnk.cn^
+||fyesqma.cn^
+||mwbsvh.cn^
+||dawwscr.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
