@@ -1,4 +1,5 @@
-
+! https://github.com/AdguardTeam/AdguardFilters/issues/111707
+@@||brm-core-*.brsrvr.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/897
 ! Blocked by CNAME affex.org
 @@||marketing.net.idealo-partner.com^|
