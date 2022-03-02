@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-02T12:01:20.211Z
+! Last modified: 2022-03-02T14:12:12.486Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -386,7 +386,6 @@
 ||horriblygeneratortwinkle.com^
 ||lyricslocusvaried.com^
 ||munchenviableski.com^
-||nightfallroad.com^
 ||numeralembody.com^
 ||purebushesprop.com^
 ||saggrowledetc.com^
@@ -12567,6 +12566,7 @@ vkcdnservice.appspot.com^
 ||nightceramicoutgoing.com^
 ||nighter.club^
 ||nightfallinquiredune.com^
+||nightfallroad.com^
 ||niholaev.com^
 ||nijegwiyiqc.xyz^
 ||nikkiexxxads.com^
@@ -45752,7 +45752,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
-
+! https://github.com/AdguardTeam/AdguardFilters/issues/111707
+@@||brm-core-*.brsrvr.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/897
 ! Blocked by CNAME affex.org
 @@||marketing.net.idealo-partner.com^|
