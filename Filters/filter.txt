@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-04T12:01:28.687Z
+! Last modified: 2022-03-04T18:01:20.163Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||clcknads.pro^
+||ksiywrjwvkmat.com^
 ||swottedfra.com^
 ||awigglespouter.cam^
 ||sinewedretore.casa^
@@ -292,7 +294,6 @@
 ||dustymural.com^
 ||naptaush.com^
 ||purebusts.com^
-||cawrlfug.com^
 ||berlipurplin.com^
 ||madriyelowd.com^
 ||yfetyg.com^
@@ -4822,6 +4823,7 @@ vkcdnservice.appspot.com^
 ||alternads.info^
 ||alternativecpmgate.com^
 ||alternativeprofitablegate.com^
+||alterupholdcinema.com^
 ||altitude-arena.com^
 ||altogethergreedy.com^
 ||altowriestwispy.com^
@@ -6289,6 +6291,7 @@ vkcdnservice.appspot.com^
 ||cavelyamun.com^
 ||cawbarthe.com^
 ||cawkyhouhere.com^
+||cawrlfug.com^
 ||cawsspjzhtgz.com^
 ||cba-fed-igh.com^
 ||cbba8228b1.com^
@@ -8946,6 +8949,7 @@ vkcdnservice.appspot.com^
 ||fremtlifo.casa^
 ||frenchequal.pro^
 ||fresh8.co^
+||freshintimate.com^
 ||frevi.net^
 ||freychang.fun^
 ||frhbrkjgerikm2f8mjek09.com^
@@ -11589,6 +11593,7 @@ vkcdnservice.appspot.com^
 ||lumaktoys.com^
 ||luminosoocchio.com^
 ||lumses.com^
+||lumxts.com^
 ||lunagyja.xyz^
 ||lunaticcrushedtogether.com^
 ||lunio.net^
@@ -13761,6 +13766,7 @@ vkcdnservice.appspot.com^
 ||plannto.com^
 ||plansabnormal.com^
 ||planscul.com^
+||plantapizzazz.com^
 ||plantationthrillednoncommittal.com^
 ||plantinscription.com^
 ||plardi.com^
@@ -13827,6 +13833,7 @@ vkcdnservice.appspot.com^
 ||pocrd.cc^
 ||pocrowpush.com^
 ||podhopfit.site^
+||podosupsurge.com^
 ||podsolnu9hi10.com^
 ||podwonclarity.com^
 ||poetryhonourable.com^
@@ -13848,6 +13855,7 @@ vkcdnservice.appspot.com^
 ||polarmobile.com^
 ||policemanciderpeeks.com^
 ||policityseriod.info^
+||polishrefreshment.com^
 ||polishshinyspectacles.com^
 ||polldenunciationdeveloping.com^
 ||pollscoopiffy.com^
@@ -17249,6 +17257,7 @@ vkcdnservice.appspot.com^
 ||umebiggestern.club^
 ||umehoars.club^
 ||umekana.ru^
+||umgangrubbler.com^
 ||umtnycoscl.xyz^
 ||unableincludingrow.com^
 ||unablewisdom.com^
@@ -17880,6 +17889,7 @@ vkcdnservice.appspot.com^
 ||waiwodemanila.com^
 ||wakanmounds.cam^
 ||walkinghonoured.com^
+||wallastopiary.com^
 ||wallpaper1.ru^
 ||wallpapersfacts.com^
 ||wallstrads.com^
@@ -21688,6 +21698,9 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||owtracking.us-east-1.elasticbeanstalk.com^
+||quantumdex.io^
+||thongke.vui.vn^
 ||cnt.trvdp.com^
 ||aghtag.tech^
 ||pahtgq.tech^
@@ -26006,6 +26019,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||als-svc.nytimes.com^
 ||grow.powerstep.com^
 ||log.suumo.jp^
 ||tracking.nw.de^
@@ -38392,6 +38406,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||00-gov.cn^
+||pjsxebh.com^
+||yiangds.com^
 ||bbgs888.top^
 ||000123456789.site^
 ||0024aaaa.com^
