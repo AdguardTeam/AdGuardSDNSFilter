@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-04T00:04:37.411Z
+! Last modified: 2022-03-04T06:01:21.835Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4272,6 +4272,7 @@ vkcdnservice.appspot.com^
 ||admenhost.com^
 ||admez.com^
 ||admob.com^
+||adnesia.com^
 ||adnetasia.com^
 ||adnetworkme.com^
 ||adnetworkperformance.com^
@@ -4916,6 +4917,7 @@ vkcdnservice.appspot.com^
 ||anglishreasts.site^
 ||angprobinsyano.su^
 ||anguishlonesome.com^
+||angularconstitution.com^
 ||angusmemor.info^
 ||anightsregalia.cam^
 ||animatedpopular.com^
@@ -5782,6 +5784,7 @@ vkcdnservice.appspot.com^
 ||blnclqnp.com^
 ||blockaddictioninterfere.com^
 ||blockadsnot.com^
+||blockchain-ads.com^
 ||blockchaintop.nl^
 ||blockingdarlingshrivel.com^
 ||blockscoolest.com^
@@ -5809,6 +5812,7 @@ vkcdnservice.appspot.com^
 ||bmkz57b79pxk.com^
 ||bmxg.xyz^
 ||bn5x.net^
+||bnbsagevcuca.com^
 ||bnbxwdkxccxfsn.com^
 ||bnc1m.com^
 ||bnc2m.com^
@@ -9786,6 +9790,7 @@ vkcdnservice.appspot.com^
 ||heighthouseworklizard.com^
 ||heiressplane.com^
 ||heirloomsupervisemanager.com^
+||hejeyoke.xyz^
 ||helessenge.club^
 ||helltraffic.com^
 ||helodesdhoni.com^
@@ -13191,6 +13196,7 @@ vkcdnservice.appspot.com^
 ||originalcharactercausing.com^
 ||originedreting.site^
 ||originhermichermicpros.com^
+||origunix.com^
 ||oriqgdrbqqcgn.com^
 ||orkonavariet.biz^
 ||ornament-i.com^
@@ -13976,6 +13982,7 @@ vkcdnservice.appspot.com^
 ||ppctrck.com^
 ||ppfrlfe.com^
 ||ppomyzaheudlta.com^
+||pppbr.com^
 ||pppbrkwd.xyz^
 ||ppqlnwavlmt.com^
 ||pprq7.com^
@@ -14016,6 +14023,7 @@ vkcdnservice.appspot.com^
 ||prefaceinventorgrouping.com^
 ||preferablycompletion.com^
 ||preferredain.com^
+||prefleks.com^
 ||pregamepluteal.com^
 ||pregnancyintuition.com^
 ||pregnantstrictlygot.com^
@@ -17438,6 +17446,7 @@ vkcdnservice.appspot.com^
 ||uvertauh.com^
 ||uvkdwmdcnwa.com^
 ||uwdtibwk.com^
+||uweyuqyc.xyz^
 ||uwgfmveth.top^
 ||uwoaptee.com^
 ||uxxfierq.xyz^
@@ -38383,6 +38392,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||00-gov.cn^
+||bbgs888.top^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
@@ -41499,6 +41509,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||machiyun.fun^
 ||bvuuv.com^
+||gaozhuang.xyz^
+||laoma.ltd^
+||lajimeiguo.top^
+||tanggoushequ.xyz^
+||dgjjkkla.cn^
+||hjgd.ltd^
+||svm6ryo.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
