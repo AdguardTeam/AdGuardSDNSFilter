@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-07T12:01:23.723Z
+! Last modified: 2022-03-07T18:01:19.931Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||rcqaxbyavaogomc.com^
+||dcesxdvixnrwlu.com^
 ||bakcgnxikkxw.com^
 ||selfishmourninhabitants.com^
 ||easyads29.pro^
@@ -7994,6 +7996,7 @@ vkcdnservice.appspot.com^
 ||easyad.com^
 ||easyads28.info^
 ||easyads28.mobi^
+||easyads28.pro^
 ||easyads29.info^
 ||easybrochurecinnamon.com^
 ||easydistrustuldistrustul.com^
@@ -18888,7 +18891,7 @@ vkcdnservice.appspot.com^
 ||zmuphhlienv.com^
 ||znaptag.com^
 ||znazlahbcu.com^
-||znqip.net^
+||znqip.net
 ||znurmlkkeltsb.com^
 ||znznrccyrcr.com^
 ||zo7gihmry2.com^
@@ -28809,6 +28812,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||m0mentum.net^
 ||m365log.com^
 ||mabipa.com^
+||madkudu.com^
 ||magicpixel.io^
 ||magnuum.com^
 ||marketperf.com^
@@ -28898,6 +28902,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||perljs.com^
 ||personalicanvas.com^
 ||peruse.ai^
+||phenompeople.com^
 ||pinpoll.com^
 ||pipfire.com^
 ||piratepx.com^
@@ -28937,6 +28942,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ravelin.click^
 ||rdcdn.com^
 ||reachlocalservices.com^
+||recapture.io^
 ||reciteme.com^
 ||recognified.net^
 ||recosenselabs.com^
@@ -30066,7 +30072,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metrixlablw.customers.luna.net^
 ||mlweb.dmlab.hu^
 ||mmi.bemobile.ua^
-||ms-trackingapi.phenompeople.com^
 ||mts.mansion.com^
 ||myscoop-tracking.googlecode.com^
 ||n.mailfire.io^
@@ -38433,7 +38438,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||dikematou.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -39001,6 +39005,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||di9qu.com.cn^
 ||dianwenwang.com^
 ||dibaiweiai.com^
+||dikematou.com^
 ||dilidd.com^
 ||diuling.com^
 ||dizhonghaihotel.com^
@@ -41555,15 +41560,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||flyleaf.biz^
-||violates.wang^
-||ksxb.ltd^
-||ubxqerc.cn^
-||uguhpfo.cn^
-||51niu.pro^
-||hnycwh.cn^
-||emotionally.wang^
-||netshare.ltd^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -41695,6 +41691,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||51foodsafe.cn^
 ||51gpt.com^
 ||51lx.ink^
+||51niu.pro^
 ||51showmy.com^
 ||51teach.club^
 ||51vs.club^
@@ -42660,6 +42657,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||elvfdnj.cn^
 ||elvx.top^
 ||emgwq.com^
+||emotionally.wang^
 ||engpeng.cn^
 ||enidie.cn^
 ||enihongo.cn^
@@ -42765,6 +42763,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fll007.com^
 ||flmcju.cn^
 ||flydog.club^
+||flyleaf.biz^
 ||flyly.cc^
 ||fmketang.cn^
 ||fnbocll.cn^
@@ -43143,6 +43142,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hnwjlhg.cn^
 ||hnxahz.com^
 ||hnxinkejg.com^
+||hnycwh.cn^
 ||hnyczs.club^
 ||hnylb8.cn^
 ||hnyoufan.com^
@@ -43634,6 +43634,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ks67.com^
 ||ksdr.xyz^
 ||ksvftk.cn^
+||ksxb.ltd^
 ||kszhmzp.cn^
 ||ktzte.cn^
 ||kuaidibiaoju.com^
@@ -44045,6 +44046,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ndusa.cn^
 ||nernv.com^
 ||netfix8.info^
+||netshare.ltd^
 ||neudata.cloud^
 ||newknowledge.cn^
 ||ngceq.cn^
@@ -44957,9 +44959,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||uaxyutpxh.xyz^
 ||ubt573.org^
 ||ububyiw6655.xyz^
+||ubxqerc.cn^
 ||uc4a.cn^
 ||ucaii.com^
 ||ugmvoys.cn^
+||uguhpfo.cn^
 ||uidndas.cn^
 ||uissm.com^
 ||ujiasm.com^
@@ -45015,6 +45019,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vicustom.cn^
 ||vik.cx^
 ||vinuxhome.com^
+||violates.wang^
 ||viphdk.xyz^
 ||vivi87.cn^
 ||vjptye.cn^
@@ -45769,6 +45774,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zncat.cn^
 ||zongjiangc.top^
 ||zongjiangd.top^
+||zonmxej.cn^
 ||zougg.com^
 ||zoujuhonglawyer.com^
 ||zouxinyan.xyz^
