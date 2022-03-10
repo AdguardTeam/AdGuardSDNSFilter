@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-10T06:01:24.984Z
+! Last modified: 2022-03-10T12:01:21.652Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4005,7 +4005,6 @@ vkcdnservice.appspot.com^
 ||a289f5f0f2c.com^
 ||a2c653c4d145fa5f96a.com^
 ||a2tw6yoodsag.com^
-||a2zapk.com^
 ||a31daecf420.com^
 ||a337b163a0bc.com^
 ||a353364ec1bd19a.com^
@@ -37355,6 +37354,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||epfcfhtjxqd.com^
 ||fkglkpkgkduh.top^
 ||flexterkita.com^
+||flurrylimmu.com^
 ||fnkyyrgraizy.com^
 ||frpiksdeygy.com^
 ||fryruejoust.cam^
@@ -38552,6 +38552,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ||00-gov.cn^
 ||000123456789.site^
+||gxlsjt.com^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
@@ -41681,6 +41682,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||shengxinrong.net^
 ||shjk.xyz^
+||kykcusq.cn^
+||hiba.club^
+||omzpbbz.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
