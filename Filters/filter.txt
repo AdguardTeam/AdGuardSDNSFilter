@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-11T06:01:20.200Z
+! Last modified: 2022-03-11T12:01:20.960Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5065,6 +5065,7 @@ vkcdnservice.appspot.com^
 ||armpitarticle.com^
 ||arnt.xyz^
 ||aroundmonth.com^
+||aroups.com^
 ||arousedskinnyspeeding.com^
 ||arrivaltroublesome.com^
 ||arrlnk.com^
@@ -8270,6 +8271,7 @@ vkcdnservice.appspot.com^
 ||enginsquawks.cam^
 ||englingedrxa.club^
 ||englishheadlight.com^
+||englutzydecos.com^
 ||enhichej.xyz^
 ||enicyvys.xyz^
 ||eniunifiiegma.xyz^
@@ -13943,6 +13945,7 @@ vkcdnservice.appspot.com^
 ||poifinsegg.com^
 ||poignantpersonnel.com^
 ||poignantsat.com^
+||pointeretards.com^
 ||pointroll.com^
 ||poirreleast.club^
 ||poisism.com^
@@ -17507,6 +17510,7 @@ vkcdnservice.appspot.com^
 ||up4u.me^
 ||updateongoingdiving.com^
 ||upgulpinon.com^
+||uphovelodha.com^
 ||upliftsearch.com^
 ||upolou.com^
 ||uponelectabuzzor.club^
@@ -31555,6 +31559,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||exaleprn.com^
 ||timefeathered.fun^
 ||my1homer.fun^
 ||kwtyuv.com^
@@ -41730,6 +41735,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mtbraqc.cn^
 ||mmoqgsl.cn^
 ||xshijie.xyz^
+||nnopp.website^
+||sthouw.vip^
+||xulilin.ltd^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
