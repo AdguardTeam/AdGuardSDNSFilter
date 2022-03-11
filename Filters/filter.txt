@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-10T18:01:27.865Z
+! Last modified: 2022-03-11T00:03:15.978Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -38594,6 +38594,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
+||njxyh66.cn^
 ||008844.cc^
 ||00xvppy.cn^
 ||01fen.com^
@@ -41720,6 +41721,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||kykcusq.cn^
+||cjhd.site^
+||daitianyu.vip^
+||9655128.vip^
+||ruwei.me^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -43826,7 +43832,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kuuhv.cn^
 ||kuzexinxi.com^
 ||kxapctq.cn^
-||kykcusq.cn^
 ||kykmuyi.cn^
 ||kyle.pub^
 ||kypntcw.cn^
