@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-12T00:02:12.798Z
+! Last modified: 2022-03-12T06:01:24.932Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6012,6 +6012,7 @@ vkcdnservice.appspot.com^
 ||brattyogor.com^
 ||bravelywade.com^
 ||bravenetmedianetwork.com^
+||bravotrk.com^
 ||brayerspenta.com^
 ||brazendistil.com^
 ||brazenserialsociety.com^
@@ -8494,6 +8495,7 @@ vkcdnservice.appspot.com^
 ||exhaustedgemini.com^
 ||exhibitedderivedremarkable.com^
 ||exi8ef83z9.com^
+||exists-mazard.icu^
 ||existsobey.com^
 ||exitjunction.com^
 ||exitsthapsia.com^
@@ -9182,6 +9184,7 @@ vkcdnservice.appspot.com^
 ||gamesims.ru^
 ||gamesrevenu24.com^
 ||gamesrevenue.com^
+||gammamkt.com^
 ||gandrad.org^
 ||gangidance.com^
 ||gangrelnougats.com^
@@ -17905,6 +17908,7 @@ vkcdnservice.appspot.com^
 ||vjnpoelbrhd.com^
 ||vk77lnizckm6.com^
 ||vkaofq64zz.com^
+||vkgtrack.com^
 ||vkjmljhcdn.com^
 ||vkkdkvydwrwr.com^
 ||vknrfwwxhxaxupqp.pro^
@@ -22152,7 +22156,6 @@ vkcdnservice.appspot.com^
 ||inistrack.net^
 ||fourier.taobao.com^
 ||omniconvert.com^
-||cdn.clerk.io^
 ||getaim.info^
 ||analytics.monetiza.co^
 ||repixel.co^
@@ -38643,6 +38646,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||ifdvlh.cn^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -41777,6 +41781,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hidanhao.vip^
 ||fmei.wang^
 ||duilin.me^
+||cdnuapn.cn^
+||zeoknxp.cn^
+||pdqgywt.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
