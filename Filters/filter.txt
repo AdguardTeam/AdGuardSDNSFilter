@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-12T12:00:59.638Z
+! Last modified: 2022-03-12T18:01:14.780Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||untvwqvrk.com^
 ||tomqcaljnjvge.com^
 ||knifecontributionproposition.com^
 ||fkxgmbooixbugd.com^
@@ -36448,6 +36449,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||affiliate.konibet.com^
+||hananokai.tv^
 ||ad.presco.asia^
 ||m-live.jp^
 ||ad-track.jp^
@@ -36524,7 +36527,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||reajyu.net^
 ||ads-lite.net^
 ||blogparts.gcolle.net^
-||affiliate.konibet.com^
 ||eisys-bcs.jp^
 ||congrab.com^
 ||ad-hatena.com^
@@ -37591,9 +37593,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Mar 2022 15:26 UTC+7
-! Version: 2203021526
-! Blocked: 1.099 rules
+! Last modified: 12 Mar 2022 22:27 UTC+7
+! Version: 2203122227
+! Blocked: 1.105 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -37892,6 +37894,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adx.xemvtv.net^
 ||adx.xtv.vn^
 ||ailamtrieuphu.com^
+||aj2393.online^
 ||ak9.6895588.com^
 ||an.dongphim.net^
 ||an.xemvtv.net^
@@ -38011,6 +38014,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.explus.vn^
 ||analytics.hub-js.com^
 ||analytics.mfocus.vn^
+||analytics.molistar.com^
 ||analytics.moneycat.vn^
 ||analytics.nhattao.com^
 ||analytics.rever.vn^
@@ -38442,6 +38446,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||playmanclub.vin^
 ||playv8.com^
 ||playv8.vip^
+||qq288.com^
 ||qq288jak.com^
 ||qq8788viet.com^
 ||r88.vn^
@@ -38531,6 +38536,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vngame66.com^
 ||vnloto.com^
 ||vnloto.vip^
+||vnq8.bet^
 ||vua1004.club^
 ||vua1005.club^
 ||vuabai9.com^
@@ -38631,6 +38637,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||thseaeing.fun^
 ||ucesreferre.club^
 ||uqoxh.icu^
+||vietnammoi.biz^
 ||vongquay-pubgmobilevn-zing.com^
 ||vongquaymienphi.net^
 ||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
@@ -38646,9 +38653,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||ifdvlh.cn^
-||jknrwe.cn^
-||yzmklm.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -39539,6 +39543,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||idoc58.com^
 ||idy666.com^
 ||ieecheng.com^
+||ifdvlh.cn^
 ||ifufen.com^
 ||ijir.cn^
 ||il8r.com^
@@ -39613,6 +39618,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jjz666.cn^
 ||jk939.com^
 ||jkmxy.com^
+||jknrwe.cn^
 ||jktopia.com^
 ||jl027.com^
 ||jljspx.com^
@@ -40576,6 +40582,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yzaosite.com^
 ||yzbqz.com^
 ||yzh360.com^
+||yzmklm.com^
 ||yzwr588.com^
 ||yzygo.com^
 ||yzytb.com^
@@ -41779,17 +41786,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||bendibao.site^
-||hidanhao.vip^
-||fmei.wang^
-||duilin.me^
-||cdnuapn.cn^
-||zeoknxp.cn^
-||pdqgywt.cn^
-||irsufth.cn^
-||vike.ink^
-||digrice.xyz^
-||jqad.vip^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -42355,6 +42351,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beizhoujt.cn^
 ||beizkw.cn^
 ||beiztw.cn^
+||bendibao.site^
 ||benfkw.cn^
 ||bensxw.cn^
 ||bentengcn.com^
@@ -42522,6 +42519,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cdlkzb.com^
 ||cdmcgw.cn^
 ||cdnfjz.com^
+||cdnuapn.cn^
 ||cdzimeijia.com^
 ||ceai.xyz^
 ||cehbf.com^
@@ -42783,6 +42781,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dianyingmi1.cn^
 ||diaoda.xyz^
 ||dibyc.com^
+||digrice.xyz^
 ||dingdian.shop^
 ||ditaow.cn^
 ||diuleilou.top^
@@ -42841,6 +42840,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||du9zgx.cn^
 ||duanyu1106.cn^
 ||duier.top^
+||duilin.me^
 ||duluoweiyu.com^
 ||duofulai.vip^
 ||duojixing.com^
@@ -43008,6 +43008,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||flydog.club^
 ||flyleaf.biz^
 ||flyly.cc^
+||fmei.wang^
 ||fmketang.cn^
 ||fnbocll.cn^
 ||fnggukz.cn^
@@ -43341,6 +43342,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hiba.club^
 ||hica.ren^
 ||hicpic.net.cn^
+||hidanhao.vip^
 ||highter.top^
 ||hihifenxiang.com^
 ||hiibcfr.cn^
@@ -43560,6 +43562,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iprpe.cn^
 ||ipxjps.cn^
 ||ir2aok.com^
+||irsufth.cn^
 ||iruad.com^
 ||irzeemn.cn^
 ||irzwlux.cn^
@@ -43726,6 +43729,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||joyceglobal.club^
 ||joyjour.xyz^
 ||jpqgxy.com^
+||jqad.vip^
 ||jqcfgnm.cn^
 ||jsboom.cn^
 ||jscvalves.me^
@@ -44472,6 +44476,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pd3a.cn^
 ||pdfmxsh.cn^
 ||pdkuai.com^
+||pdqgywt.cn^
 ||pdss.xyz^
 ||peiliao-china.com^
 ||pengjunjun.site^
@@ -44960,6 +44965,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||suoooi.cn^
 ||superbao.top^
 ||surls.cn^
+||svcwvx.cn^
 ||svfwer.top^
 ||sviss.top^
 ||svjxuba.cn^
@@ -45287,6 +45293,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||viccscxz.cn^
 ||vicustom.cn^
 ||vik.cx^
+||vike.ink^
 ||vinuxhome.com^
 ||violates.wang^
 ||viphdk.xyz^
@@ -45925,6 +45932,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zdzy.shop^
 ||zengwx.cn^
 ||zenwq.com^
+||zeoknxp.cn^
 ||zfood029.com^
 ||zfw.me^
 ||zgbtw.mobi^
