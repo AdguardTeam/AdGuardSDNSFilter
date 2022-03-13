@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-13T00:02:55.506Z
+! Last modified: 2022-03-13T06:03:30.852Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11676,6 +11676,7 @@ vkcdnservice.appspot.com^
 ||lqcdn.com^
 ||lqcqhkgoer.com^
 ||lqw.me^
+||lrlptkumwpcck.com^
 ||lrxlbekpmav.com^
 ||lsariz.com^
 ||lsjne.com^
@@ -37508,8 +37509,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lokeriklan.com^
 ||lpaizureik.com^
 ||lsgqlgoc.com^
-||luven.xyz^
 ||luckyads.pro^
+||luven.xyz^
 ||masteriklan.net^
 ||mediab.uy^
 ||mesiniklan.andipublisher.com^
@@ -41786,6 +41787,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||omduzge.cn^
+||hfcpa.top^
+||zuijin.wang^
+||rusu01.top^
+||yovkr.xyz^
+||aybe.me^
+||xs8888.vip^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
