@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-13T06:03:30.852Z
+! Last modified: 2022-03-13T12:01:15.379Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,25 @@
 !
 !
 !
+||eezoulru.com^
+||fxhpaoxqyajvmdg.
+||rgfftupf.
+||thatsouh.com^
+||fmnybwjmkfpoqdm.xyz^
+||hqlgixkuocvwhu.top^
+||hxmvequsbyv.xyz^
+||pakuvcgjdpqjjs.xyz^
+||qyysdkjcf.xyz^
+||vclpwxgae.xyz^
+||yjgghmmnoykj.top^
+||astcarbinkom.com^
+||nxwipuoybxc.com^
+||cwdlynbxh.top^
+||eblytohxbgvxt.xyz^
+||hocbdmaexoq.top^
+||nxwipuoybxc.top^
+||fmvliiinznfso.com^
+||zusepe.xyz^
 ||untvwqvrk.com^
 ||tomqcaljnjvge.com^
 ||knifecontributionproposition.com^
@@ -26918,8 +26937,13 @@ vkcdnservice.appspot.com^
 ||cmstrendslog.indiatimes.com^
 ||cmstrendslog.timesnow.tv^
 ||cnt.nicemix.com^
+||cnt.hd21.
+||cnt.proporn.
+||cnt.tubeon.
+||cnt.winporn.
+||cnt.yeptube.
 ||cnt.nuvid.
-||cnt.vivatube.com^
+||cnt.vivatube.
 ||collection.theaa.com^
 ||collector-cdn.github.com^
 ||collector-medium.lightstep.com^
@@ -41794,6 +41818,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yovkr.xyz^
 ||aybe.me^
 ||xs8888.vip^
+||iqn.world^
+||afx001.pw^
+||pcfdgc.cn^
+||pmdatabase.xyz^
+||neihan.co^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -46199,6 +46228,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analyzer52.fc2.com^
 ||clientlog.portal.office.com^
 ||cnt.nuvid.com^
+||cnt.vivatube.com^
 ||collect.sas.com^
 ||collect2.sas.com^
 ||log.optimizely.com^
