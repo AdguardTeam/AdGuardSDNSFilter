@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-15T06:01:05.573Z
+! Last modified: 2022-03-15T12:01:30.491Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3083,6 +3083,7 @@ www.llllllllllll.net^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||am.titsx.com^
 ||d119hs7863lat.cloudfront.net^
 ||d2bj2texxib1qg.cloudfront.net^
 ||d1qk9ujrmkucbl.cloudfront.net^
@@ -4720,6 +4721,7 @@ vkcdnservice.appspot.com^
 ||aipofeem.net^
 ||aiqruwinhkrxk.xyz^
 ||airconditiondescendent.com^
+||aircraftmighty.com^
 ||airpush.com^
 ||airrrxggfafnbl.xyz^
 ||airsaurd.com^
@@ -20696,9 +20698,6 @@ vkcdnservice.appspot.com^
 ! Yandex apps
 ||banners-slb.mobile.yandex.net^
 ||banners.mobile.yandex.net^
-!
-! Crypto-mining -- block completely on mobile (without third-party)
-||coinhive.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/54135
 ||adv0*.msa.cdn.mediaset.net^
 ! Micromax India
@@ -21433,6 +21432,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||adara.com^
+||adcontroll.com^
 ||log.medietall.no^
 ||uqd.io^
 ||dygassets.dygdigital.com^
@@ -28051,7 +28052,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Non-flagged (Generic blocks)
 ||520886.xyz^
 ||8672.site^
-||adcontroll.com^
 ||adnext.co^
 ||adrtx.net^
 ||affvantage.com^
@@ -28200,7 +28200,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||acxiomapac.com^
 ||adabra.com^
 ||adalyser.com^
-||adara.com^
 ||adblockrelief.com^
 ||addwish.com^
 ||adhslx.com^
@@ -41329,6 +41328,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kyvhxik.cn^
 ||hfawdgz.cn^
 ||ejghw.cn^
+||kkbb.top^
+||lqsw2.top^
+||sdhongjia.com^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
