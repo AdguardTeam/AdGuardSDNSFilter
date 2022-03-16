@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-15T18:01:12.911Z
+! Last modified: 2022-03-16T00:02:21.810Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8761,6 +8761,7 @@ vkcdnservice.appspot.com^
 ||flycheapen.com^
 ||flysoothingate.com^
 ||fmebili.info^
+||fmlodpskbybfu.xyz^
 ||fmpannkmn.xyz^
 ||fmpub.net^
 ||fmsads.com^
@@ -8832,6 +8833,7 @@ vkcdnservice.appspot.com^
 ||forwrdnow.com^
 ||forzubatr.com^
 ||fosiecajeta.com^
+||fossilreservoirincorrect.com^
 ||fosterhindtalent.com^
 ||fotsaulr.net^
 ||foughtrefusal.com^
@@ -12112,6 +12114,7 @@ vkcdnservice.appspot.com^
 ||moviestreamingonline.club^
 ||mowyappedbibs.com^
 ||mozgvya.com^
+||mozoo.com^
 ||mp3bars.com^
 ||mp3dance.today^
 ||mpanbroc.club^
@@ -15888,6 +15891,7 @@ vkcdnservice.appspot.com^
 ||springcorridorworking.com^
 ||springmild.com^
 ||sprkl.io^
+||sprngmnews.name^
 ||sproose.com^
 ||sproutstarbarnacle.com^
 ||sproutunfairprovisions.com^
@@ -19083,6 +19087,7 @@ vkcdnservice.appspot.com^
 ||aim4media.com^
 ||akavita.com^
 ||alimama.com^
+||allmediadesk.com^
 ||amobee.com^
 ||andbeyond.media^
 ||aniview.com^
@@ -27649,6 +27654,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||evt.mxplay.com^
+||log.geetest.com^
+||prod-clientlog.fastly.newssuite.sinfony.ne.jp^
+||track.hk01.com^
+||event*.hk01.com^
+||analytics.kaltura.com^
 ||eventgw.twilio.com^
 ||log.estand.jp^
 ||event-search.jorte.com^
@@ -29477,7 +29488,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.gvim.mobi^
 ||analytics.humanautomation.ai^
 ||analytics.inform.com^
-||analytics.kaltura.com^
 ||analytics.kapost.com^
 ||analytics.live.com^
 ||analytics.mailmunch.co^
@@ -41347,6 +41357,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||eeree.top^
+||benwang.love^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
