@@ -1,3 +1,6 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/113049
+@@||static-v*.trbo.com^|
+@@||api-v*.trbo.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/111707
 @@||brm-core-*.brsrvr.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/897
