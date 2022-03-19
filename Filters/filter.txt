@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-19T06:01:28.552Z
+! Last modified: 2022-03-19T12:01:22.972Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10379,6 +10379,7 @@ vkcdnservice.appspot.com^
 ||interfacewarrefrain.com^
 ||interferegamblingsir.com^
 ||interferingwittymovements.com^
+||intergient.com^
 ||interimmicroscope.com^
 ||interiorcrossalluded.com^
 ||intermediarypurchaser.com^
@@ -23526,7 +23527,6 @@ vkcdnservice.appspot.com^
 ||interaktiv-net.de^
 ||interceptum.com^
 ||intergid.ru^
-||intergient.com^
 ||interhits.de^
 ||intermundomedia.com^
 ||internetmap.info^
@@ -38354,9 +38354,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||bznxc6721.xyz^
 ||00-gov.cn^
 ||ripplestika.site^
 ||hzylhk.com^
+||xxsjsp.com^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
@@ -41371,6 +41373,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||feelbad.online^
 ||komplett.me^
+||aoyuegc.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
