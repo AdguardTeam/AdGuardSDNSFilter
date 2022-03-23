@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-23T12:01:11.204Z
+! Last modified: 2022-03-23T18:01:26.250Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||pushub.net^
+||p03try-c4t3g0ry.xyz^
 ||mambkooocango.com^
 ||mableyable.com^
 ||wwtrxjctjhhu.com^
@@ -1032,7 +1034,6 @@
 ||alifafdlnjeruif.com^
 ||gorskprof2it8og09.com^
 ||bestcontentcost.top^
-||pushub.net^
 ||pp.awmplus.com^
 ||crypub.com^
 ||rotate5url.com^
@@ -4607,6 +4608,7 @@ vkcdnservice.appspot.com^
 ||affbot3.com^
 ||affecteddetectrome.com^
 ||affectincentiveyelp.com^
+||affichmeles.com^
 ||affiliate-robot.com^
 ||affiliate-wg.com^
 ||affiliate.com^
@@ -11481,6 +11483,7 @@ vkcdnservice.appspot.com^
 ||loamauji.com^
 ||loanonionbidding.com^
 ||loaphour.com^
+||loatis.com^
 ||lobby-x.eu^
 ||lobhtwevnmgpxby.xyz^
 ||loboclick.com^
@@ -12168,6 +12171,7 @@ vkcdnservice.appspot.com^
 ||monadplug.com^
 ||monasterycashierrepellent.com^
 ||moncoerbb.com^
+||mondaysdoris.com^
 ||mondayunauthorized.com^
 ||mondialwering.com^
 ||moneycosmos.com^
@@ -14658,6 +14662,7 @@ vkcdnservice.appspot.com^
 ||rarelyassortpanel.com^
 ||rarseene.com^
 ||raspberryareaurge.com^
+||raspberrybenefactor.com^
 ||rategeisteryc.xyz^
 ||ratkalol.com^
 ||ratlinhisser.com^
@@ -14752,6 +14757,7 @@ vkcdnservice.appspot.com^
 ||recyclingbees.com^
 ||redads.biz^
 ||reddenmusician.com^
+||reddsdainful.com^
 ||redirect-ads.com^
 ||redirect2719.ws^
 ||redlele.com^
@@ -14786,6 +14792,7 @@ vkcdnservice.appspot.com^
 ||refraintupaiid.com^
 ||refunsiy.net^
 ||refutationexcessiveglamour.com^
+||refutationoverwhelming.com^
 ||regardedsaid.com^
 ||regardianpleast.site^
 ||regardpenguin.com^
@@ -15450,6 +15457,7 @@ vkcdnservice.appspot.com^
 ||sdrbxvpoglmbz.com^
 ||sdxqusoze.com^
 ||se42ade5e3son7ing.com^
+||seabedchita.com^
 ||seaboblit.com^
 ||seamchristmas.com^
 ||searchdatestoday.com^
@@ -16845,6 +16853,7 @@ vkcdnservice.appspot.com^
 ||touchycart.com^
 ||touglesy.net^
 ||touphipt.com^
+||tournamentplot.com^
 ||touroumu.com^
 ||tovespiquener.com^
 ||tovihhhyhe.xyz^
@@ -23844,7 +23853,6 @@ vkcdnservice.appspot.com^
 ||mmstat.com^
 ||mmtro.com^
 ||mobalyzer.net^
-||mobtop.ru^
 ||mobylog.jp^
 ||mochibot.com^
 ||modernus.is^
@@ -25989,6 +25997,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||sp.minds.com^
 ||event-action.popinfo.jp^
 ||log-stats.weathercn.com^
 ||download-stats.mozilla.org^
@@ -28309,7 +28318,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||briskpelican.io^
 ||brontops.com^
 ||bydst.com^
-||capturehighered.net^
 ||click360.io^
 ||cloudwp.io^
 ||cybba.solutions^
@@ -28541,6 +28549,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||campaignmonitor.com^
 ||canlytics.com^
 ||captora.com^
+||capturehighered.net^
 ||capturemedia.network^
 ||capturly.com^
 ||carambo.la^
@@ -31389,6 +31398,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||cagadgfihecfiigbgbc.ru^
 ||zslhmw.com^
 ||alsmdb.com^
 ||vjdciu.com^
@@ -38458,6 +38468,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||govheyuan.cn^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40683,6 +40694,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||mm.paizi.net^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -41489,6 +41501,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ctoabc.xyz^
 ||dxdx.shop^
 ||biexsite.net^
+||senmu123.com^
+||mzcd.xyz^
+||woqi.shop^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
