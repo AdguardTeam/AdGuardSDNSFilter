@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-24T06:01:00.954Z
+! Last modified: 2022-03-24T12:01:08.034Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||reflectedcockbegan.com^
 ||pushub.net^
 ||p03try-c4t3g0ry.xyz^
 ||mambkooocango.com^
@@ -3097,6 +3098,7 @@ www.llllllllllll.net^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ads.thetimes.co.uk^
 ||am.titsx.com^
 ||d119hs7863lat.cloudfront.net^
 ||d2bj2texxib1qg.cloudfront.net^
@@ -21692,6 +21694,7 @@ vkcdnservice.appspot.com^
 ||arvb.ewtcbedtmx.ru^
 ||trc.caravas.jp^
 ||track.adspire.io^
+||ucs.betwaygroup.com^
 ||cdn.ddmanager.ru^
 ||api.tomi.ai^
 ||dttrk.com^
@@ -31421,6 +31424,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||fuzvjy.com^
 ||cagadgfihecfiigbgbc.ru^
 ||zslhmw.com^
 ||alsmdb.com^
@@ -36089,6 +36093,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iyisayfa.net^
 ||kurulum.xyz^
 ||makroads.net^
+||makroo.com^
 ||metrics34.com^
 ||minireklam.com^
 ||mkazanc.com^
@@ -37282,6 +37287,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dearerfonder.info^
 ||dewsburg.info^
 ||digiads.co.id^
+||earn-bitcoins.net^
 ||edomz.com^
 ||edspectsm.fun^
 ||epfcfhtjxqd.com^
@@ -41524,6 +41530,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ejnjapw.cn^
 ||mk6n4ym.cn^
 ||haodong.site^
+||plastic-wood.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
