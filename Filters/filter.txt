@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-27T06:01:29.312Z
+! Last modified: 2022-03-27T12:01:30.532Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,11 @@
 !
 !
 !
+||dotchaudou.com^
+||jpjrkdtbnwc.com^
+||fpmaypyeegktq.com^
+||rrlafphbrpazu.com^
+||liveredwilton.com^
 ||cdtxqgal.xyz^
 ||cautiouscooperativegentlemen.com^
 ||ttevkibicgcetv.com^
@@ -11511,7 +11516,6 @@ vkcdnservice.appspot.com^
 ||littlecutelions.com^
 ||livecheersharder.com^
 ||livelihoodpracticaloperating.com^
-||liveredwilton.com^
 ||livezombymil.com^
 ||livwrite.com^
 ||liwhetsu.com^
@@ -38582,6 +38586,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ||00-gov.cn^
 ||excsyrv.cn^
+||lxiaoxin.com^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
@@ -41618,6 +41623,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||asukahan.xyz^
 ||smgjupy.cn^
 ||j6zh4g0.cn^
+||thundersoft.top^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
