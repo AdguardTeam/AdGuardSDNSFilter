@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-28T06:01:13.740Z
+! Last modified: 2022-03-28T12:01:19.703Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4030,7 +4030,6 @@ vkcdnservice.appspot.com^
 ||9cdce9983d.com^
 ||9content.com^
 ||9dc10beed2.com^
-||9desires.xyz^
 ||9dmnv9z0gtoh.com^
 ||9eb10b7a3d04a.com^
 ||9f3a91e76f.com^
@@ -4694,6 +4693,7 @@ vkcdnservice.appspot.com^
 ||againedam.com^
 ||againstperfectlywrench.com^
 ||agamagcargoan.com^
+||agatystuffs.com^
 ||agauxietor.com^
 ||agazev.com^
 ||agcdn.com^
@@ -5824,6 +5824,7 @@ vkcdnservice.appspot.com^
 ||bkembwdgujzp.com^
 ||bkl72.com^
 ||bksijiunc.com^
+||blaasopdive.com^
 ||blabhorol.com^
 ||blacil.com^
 ||blackcurrantfootballsimilarly.com^
@@ -5878,6 +5879,7 @@ vkcdnservice.appspot.com^
 ||bluestreak.com^
 ||blueswordksh.com^
 ||bluffrebuke.com^
+||blurredtiredom.com^
 ||bmcdn2.com^
 ||bmkz57b79pxk.com^
 ||bmxg.xyz^
@@ -6147,6 +6149,7 @@ vkcdnservice.appspot.com^
 ||buipovexhav.com^
 ||bukash2jf8jfpw09.com^
 ||bulgingfranklyphrase.com^
+||bulkybawler.com^
 ||bullads.net^
 ||bulletprofitads.com^
 ||bulletprofitpop.com^
@@ -6532,6 +6535,7 @@ vkcdnservice.appspot.com^
 ||chichayen.com^
 ||chichosebook.com^
 ||chickencashier.com^
+||chieferscored.com^
 ||chigloxixa.com^
 ||chiliadv.com^
 ||chimaerason.com^
@@ -7211,6 +7215,7 @@ vkcdnservice.appspot.com^
 ||currentlyse.com^
 ||curriculture.com^
 ||currietory.xyz^
+||curtainsimplicitycoast.com^
 ||curtisfrierson.com^
 ||curtlychit.com^
 ||curupeymaceman.com^
@@ -9870,6 +9875,7 @@ vkcdnservice.appspot.com^
 ||hegrem.com^
 ||hehraybryciyls.com^
 ||heighthouseworklizard.com^
+||heirchurchill.com^
 ||heiressplane.com^
 ||hejeyoke.xyz^
 ||helessenge.club^
@@ -10895,6 +10901,7 @@ vkcdnservice.appspot.com^
 ||junmediadirect.com^
 ||junotherome.com^
 ||jupaubsa.com^
+||jupied.com^
 ||jupozbjmq.com^
 ||jurehi.com^
 ||juricts.xyz^
@@ -11410,6 +11417,7 @@ vkcdnservice.appspot.com^
 ||letadnew.com^
 ||leucan3thegm6um.com^
 ||leukemianarrow.com^
+||leukemiarussianarmies.com^
 ||leveloped.club^
 ||leveryone.club^
 ||leviol.com^
@@ -13527,6 +13535,7 @@ vkcdnservice.appspot.com^
 ||pattentinevec.site^
 ||paula-secundinus.com^
 ||paurif.com^
+||paverscortaro.com^
 ||pawafrmhatg.com^
 ||pawheatyous.com^
 ||pawnprime.com^
@@ -17362,6 +17371,7 @@ vkcdnservice.appspot.com^
 ||unelekidan.com^
 ||unevencommendenhance.com^
 ||unfairliam.club^
+||unfaithfulmakeryearly.com^
 ||unfaithfulmakeryeary.com^
 ||unfinishedoverdose.com^
 ||unfitsickle.com^
@@ -18414,6 +18424,7 @@ vkcdnservice.appspot.com^
 ||wyfxgvxxi.xyz^
 ||wyliswbimeotllt.xyz^
 ||wynather.com^
+||wyorrmuftjp.com^
 ||wypovuwu.pro^
 ||wyrtaxbhappt.com^
 ||wysitewhe.com^
@@ -19031,6 +19042,7 @@ vkcdnservice.appspot.com^
 ||7search.com^
 ||888media.net^
 ||8s8.eu^
+||9desires.xyz^
 ||a-ads.com^
 ||a-static.com^
 ||a.raasnet.com^
@@ -21194,7 +21206,7 @@ vkcdnservice.appspot.com^
 ||restartad.com^
 ||appgiftwall.oss-us-west-1.aliyuncs.com^
 ||appgift.sinaapp.com^
-||ad.mail.ru^|
+||ad.mail.ru^
 ||servedby.o2.co.uk^
 ||amillionads.com^
 ||mcoreads.com^
@@ -26108,6 +26120,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||analytics.developer.riotgames.com^
 ||counter.mgronline.com^
 ||omapi.fangraphs.com^
 ||sp.minds.com^
@@ -29813,7 +29826,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.cynapse.com^
 ||analytics.dev.htmedia.in^
 ||analytics.dev.springboardvideo.com^
-||analytics.developer.riotgames.com^
 ||analytics.digitalpfizer.com^
 ||analytics.disneyinternational.com^
 ||analytics.dvidshub.net^
@@ -38586,11 +38598,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||yjrjmy.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
 ||wangzj.top^
+||wljj56.com^
+||byqxqhb.cn^
 ||00xvppy.cn^
 ||01fen.com^
 ||022aifang.com^
@@ -41627,6 +41642,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||usually.wang^
 ||bazhangda.shop^
 ||yaosahrmncc.top^
+||bigcity.ink^
+||yiotufp.cn^
+||zacao.wang^
+||mayie.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
