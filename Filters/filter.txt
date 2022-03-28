@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-27T18:01:10.168Z
+! Last modified: 2022-03-28T00:02:58.029Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -38585,12 +38585,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||00-gov.cn^
-||excsyrv.cn^
-||lxiaoxin.com^
-||rzjslm.com^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
+||wangzj.top^
 ||00xvppy.cn^
 ||01fen.com^
 ||022aifang.com^
@@ -39205,6 +39203,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||erdsyzb.com^
 ||ersfyt.xyz^
 ||ertongjiaju360.com^
+||excsyrv.cn^
 ||expo123.net^
 ||extremedirectness.com^
 ||eyd77s.com^
@@ -39694,6 +39693,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||luoyuanedu.cn^
 ||lvt1980.cn^
 ||lvylv.cn^
+||lxiaoxin.com^
 ||lyadu.com^
 ||lyaeccn.com^
 ||lyjiuban.com^
@@ -39918,6 +39918,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ruxianke.com^
 ||rwjfs.com^
 ||rywnvzd.cn^
+||rzjslm.com^
 ||s9w.cc^
 ||sadobo.com^
 ||safe555.xyz^
@@ -41619,12 +41620,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||iboxs.xyz^
-||untenable.wang^
-||asukahan.xyz^
-||smgjupy.cn^
-||j6zh4g0.cn^
-||thundersoft.top^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -41992,6 +41987,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||assistantrok.club^
 ||astep.info^
 ||astyk.cn^
+||asukahan.xyz^
 ||atomicfile.cn^
 ||attempted.wang^
 ||atuehome.cn^
@@ -43227,6 +43223,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iagc.com.cn^
 ||iahjoni.cn^
 ||ibdtjqn.cn^
+||iboxs.xyz^
 ||icdazoy.cn^
 ||icdxqn.xyz^
 ||icefog.xyz^
@@ -43304,6 +43301,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||izuis.com^
 ||j1ybkf.cn^
 ||j5sq8.com^
+||j6zh4g0.cn^
 ||j84nvmd.cn^
 ||j9wp6.cn^
 ||jacklm1.com^
@@ -44579,6 +44577,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||slshiye.cn^
 ||sltcp.cn^
 ||smallapp.club^
+||smgjupy.cn^
 ||smh.ink^
 ||smncden.cn^
 ||smsk.site^
@@ -44765,6 +44764,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||thinkphp.pro^
 ||this-is-living.cn^
 ||thjxwlkj.com^
+||thundersoft.top^
 ||ti863.cn^
 ||tiandihui9450.top^
 ||tianhenggo.xyz^
@@ -44904,6 +44904,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||unfzclg.cn^
 ||uni-king.cn^
 ||unimr0k7em.cn^
+||untenable.wang^
 ||uo12.com^
 ||uqakkye.cn^
 ||uqbmzwv.cn^
