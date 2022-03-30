@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-30T12:01:25.738Z
+! Last modified: 2022-03-30T18:01:18.467Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||ovwbobnyy.com^
+||lowtyruntor.com^
+||uywmpewouyqv.com^
+||dhjrjqgclb.com^
 ||dooloust.net^
 ||noesbsnt.com^
 ||batsdivannab.com^
@@ -11764,6 +11768,7 @@ vkcdnservice.appspot.com^
 ||lvntekpejrmtb.com^
 ||lvodomo.info^
 ||lwgadm.com^
+||lwjvyd.com^
 ||lx2rv.com^
 ||lxdrddeomww.com^
 ||lxgerdcitg.com^
@@ -21216,6 +21221,7 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||rossoad.com^
 ||athena.api.kwalee.com^
 ||mobondhrd.appspot.com^
 ||a.cookpad-ads.com^
@@ -25133,6 +25139,7 @@ vkcdnservice.appspot.com^
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
 !
+||teenytinyshirt.com^
 ||childlikeform.com^
 ||nappyattack.com^
 ||outstandingsnails.com^
@@ -26213,6 +26220,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||adc-js.nine.com.au^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pinterest.com^
 ||analytics-sg.tiktok.com^
@@ -29857,7 +29865,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||synonymousrule.com^
 ||tdzvm.pw^
 ||teenytinycellar.com^
-||teenytinyshirt.com^
 ||terrifictooth.com^
 ||therapeuticcars.com^
 ||thirstylettuce.com^
@@ -38702,6 +38709,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||01fen.com^
 ||d26yfyk0ym2k1u.cloudfront.net^
 ||tz88.store^
+||zhengxiaoliu.top^
+||limdarwin.top^
+||lm336.com^
+||favourablequickdelve.com^
 ||022aifang.com^
 ||025suyu.com^
 ||0451106.com^
