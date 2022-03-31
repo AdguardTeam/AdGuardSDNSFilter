@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-03-31T00:02:25.033Z
+! Last modified: 2022-03-31T06:01:18.909Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36825,7 +36825,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adotone.com^
 ||yitongfang.com^
 ||hnyishidengbao.com^
-||cnzz.yifenghuyu.com^
 ||remehealth.net^
 ||c6890.cn^
 ||ifc-edu.cn^
@@ -37673,9 +37672,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Mar 2022 10:37 UTC+7
-! Version: 2203151037
-! Blocked: 1.105 rules
+! Last modified: 31 Mar 2022 11:54 UTC+7
+! Version: 2203311154
+! Blocked: 1.114 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -38329,6 +38328,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||8live.top^
 ||8live.vip^
 ||8livevn.com^
+||92lottery.com^
 ||aa88.in^
 ||ae888.com^
 ||ae888i.com^
@@ -38359,6 +38359,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||choita88.club^
 ||comebetvn3.com^
 ||comebetvn9.com^
+||corona999.com^
 ||dabet.me^
 ||datcuoc247.com^
 ||debet.com^
@@ -38368,6 +38369,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dola88.info^
 ||ee66.com^
 ||eurofun88.com^
+||f8bet0.com^
 ||fa88.win^
 ||fabet.com^
 ||fabet.me^
@@ -38430,6 +38432,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jboviet.com^
 ||jbovietnam.com^
 ||jbovn.com^
+||jdb66.vip^
 ||k8dl08.cc^
 ||k8sport.com^
 ||k8vina17.com^
@@ -38541,6 +38544,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rikvipp.net^
 ||rio66qc.club^
 ||sbc31.com^
+||shbet0.com^
 ||sieubomtan.com^
 ||sieukeo.live^
 ||sin88.biz^
@@ -38581,8 +38585,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tipkeomoingay.club^
 ||top88.club^
 ||top88.fun^
+||top88.me^
 ||top88.uk^
 ||top88.us^
+||top88.vn^
 ||topcc88.me^
 ||trungso.vip^
 ||tt128.info^
@@ -38617,6 +38623,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vnloto.com^
 ||vnloto.vip^
 ||vnq8.bet^
+||vnq8.com^
 ||vua1004.club^
 ||vua1005.club^
 ||vuabai9.com^
@@ -38711,6 +38718,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qualienquan.vn^
 ||rituationscardb.info^
 ||sacchaeleduk.com^
+||simpliftsbefore.info^
 ||smilitygorb.club^
 ||tammenaa.com^
 ||thegioididong.me^
@@ -38733,6 +38741,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||igusoft.com^
+||yifenghuyu.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -41791,6 +41801,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mahao.xyz^
 ||shequn.online^
 ||mayif.xyz^
+||qfcdgy.cn^
+||taocangjituan.com^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
