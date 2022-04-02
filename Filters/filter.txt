@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-01T18:01:15.628Z
+! Last modified: 2022-04-02T00:02:17.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5825,7 +5825,6 @@ vkcdnservice.appspot.com^
 ||bikesopden.com^
 ||bikesseafoodchewing.com^
 ||bikrurda.net^
-||bildirim.eu^
 ||billionpops.com^
 ||billionstarads.com^
 ||billypub.com^
@@ -19684,6 +19683,7 @@ vkcdnservice.appspot.com^
 ||bidvertiser.com^
 ||bigpulpit.com^
 ||bigspyglass.com^
+||bildirim.eu^
 ||bin-layer.de^
 ||bingo4affiliates.com^
 ||binlayer.com^
@@ -41861,6 +41861,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||wulongqiyi.com^
 ||shenfagg.com^
+||huixiangdou.xyz^
+||twnb.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
