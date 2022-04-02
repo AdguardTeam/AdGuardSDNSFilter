@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-02T12:01:08.694Z
+! Last modified: 2022-04-02T18:00:55.745Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3130,7 +3130,6 @@ www.llllllllllll.net^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
-||d2klx87bgzngce.cloudfront.net^
 ||ads.thetimes.co.uk^
 ||am.titsx.com^
 ||d119hs7863lat.cloudfront.net^
@@ -20999,6 +20998,7 @@ vkcdnservice.appspot.com^
 ||d2kadvyeq051an.cloudfront.net^
 ||d2kd9y1bp4zc6.cloudfront.net^
 ||d2kk0o3fr7ed01.cloudfront.net^
+||d2klx87bgzngce.cloudfront.net^
 ||d2kz60b0gq4lg.cloudfront.net^
 ||d2l3f1n039mza.cloudfront.net^
 ||d2lp70uu6oz7vk.cloudfront.net^
