@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-03T00:02:39.282Z
+! Last modified: 2022-04-03T06:01:11.784Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||cistusbram.website^
+||dougale.com^
+||banibajury.website^
+||thecred.info^
 ||allprofitsurvey.top^
 ||unioch.com^
 ||dooloust.net^
@@ -64,7 +68,6 @@
 ||napsiguk.com^
 ||dubheteat.com^
 ||buzskyhoot.com^
-||banibajury.website^
 ||figgynudest.com^
 ||arrict.com^
 ||92291944cd.com^
@@ -7884,7 +7887,6 @@ vkcdnservice.appspot.com^
 ||doubtcigardug.com^
 ||doubtfirework.com^
 ||doufoacu.net^
-||dougale.com^
 ||douhooke.net^
 ||douoblelimpup.com^
 ||doupteju.com^
@@ -9392,6 +9394,7 @@ vkcdnservice.appspot.com^
 ||ggkgocbyhut.xyz^
 ||ggkk.xyz^
 ||gglx.me^
+||ggrywyonmyvh.com^
 ||ggsfq.com^
 ||ggunauhe.com^
 ||ggydofjoubxptm.xyz^
@@ -9613,6 +9616,7 @@ vkcdnservice.appspot.com^
 ||gotibetho.pro^
 ||gotjobbs.com^
 ||gotohouse1.club^
+||gousouse.com^
 ||govbusi.info^
 ||governessarson.com^
 ||governrecycling.com^
@@ -38810,6 +38814,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||d40.xyz^
+||yystzl.cn^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -41868,6 +41874,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||nxdfg.xyz^
+||preroot.xyz^
+||jnqiangzhi.xyz^
+||kgho.info^
+||yanguomedia.top^
+||dlevpmd.cn^
 ||wulongqiyi.com^
 ||shenfagg.com^
 ||huixiangdou.xyz^
