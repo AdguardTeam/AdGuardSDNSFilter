@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-05T12:01:29.964Z
+! Last modified: 2022-04-05T18:01:15.660Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,11 @@
 !
 !
 !
+||eiipskos.com^
+||prlmspfelvnsfx.com^
+||nvsviaujqqe.com^
+||ugewvoyijwy.com^
+||epcocmthiaam.com^
 ||umidqysrw.com^
 ||qstukqmsddqgs.com^
 ||cistusbram.website^
@@ -3785,6 +3790,7 @@ vkcdnservice.appspot.com^
 ||395e27cfc83ea88f.com^
 ||39785fe3f1.com^
 ||399a240ee2.com^
+||39bace7344.com^
 ||39d1d397c97730.com^
 ||3a57c13de7.com^
 ||3c76eee2407c7c1.com^
@@ -5789,6 +5795,7 @@ vkcdnservice.appspot.com^
 ||beyanmaan.com^
 ||bf-ad.net^
 ||bf1872dae47d.com^
+||bf640c8a78.com^
 ||bfast.com^
 ||bfe4e6d364be199.com^
 ||bff6b409f7.com^
@@ -8484,6 +8491,7 @@ vkcdnservice.appspot.com^
 ||erniphiq.com^
 ||ero-advertising.com^
 ||eroahaud.com^
+||erokimooki.com^
 ||erorib.com^
 ||erosyndc.com^
 ||erovation.com^
@@ -9390,6 +9398,7 @@ vkcdnservice.appspot.com^
 ||geoffreymailcollar.com^
 ||geoinventory.com^
 ||geometrycapitaleyeball.com^
+||georgh.com^
 ||geovideo.name^
 ||gepsuzogra.com^
 ||geras-con.com^
@@ -9833,6 +9842,7 @@ vkcdnservice.appspot.com^
 ||gyluheshy.com^
 ||gynax.com^
 ||gyofhxepanmkgx.com^
+||gyppedsquiss.com^
 ||gypsiedjilt.com^
 ||gyqevddwaha.com^
 ||gysapiny.com^
@@ -10004,6 +10014,7 @@ vkcdnservice.appspot.com^
 ||heirchurchill.com^
 ||heiressplane.com^
 ||hejeyoke.xyz^
+||hekowutus.com^
 ||helessenge.club^
 ||helic3oniusrcharithonia.com^
 ||helltraffic.com^
@@ -11044,6 +11055,7 @@ vkcdnservice.appspot.com^
 ||jumbln.com^
 ||jumboaffiliates.com^
 ||jumptap.com^
+||jumpvoobmi.com^
 ||jundtapl.com^
 ||junipe3rus4virginiana.com^
 ||junmediadirect.com^
@@ -11614,6 +11626,7 @@ vkcdnservice.appspot.com^
 ||lieutenantsaviourtones.com^
 ||lifestyleoptimisticsing.com^
 ||lifetimeactivatewasp.com^
+||lifetimeroyaltybestial.com^
 ||lifiads.com^
 ||lifrim.com^
 ||liftdna.com^
@@ -13014,6 +13027,7 @@ vkcdnservice.appspot.com^
 ||notorietycheerypositively.com^
 ||noughttrustthreshold.com^
 ||nounstrenuous.com^
+||nourishinghousehold.com^
 ||novadune.com^
 ||novelty.media^
 ||novembershopsconvene.com^
@@ -14766,6 +14780,7 @@ vkcdnservice.appspot.com^
 ||qactaggxwoyla.com^
 ||qadserve.com^
 ||qadservice.com^
+||qalvhnlgfhh.top^
 ||qatarchekmak.com^
 ||qavkqjndaqjbre.xyz^
 ||qaykb.com^
@@ -15962,6 +15977,7 @@ vkcdnservice.appspot.com^
 ||sheerprotocol.com^
 ||shenouth.com^
 ||shepeekr.net^
+||shepherdbetrayaldecoction.com^
 ||shermore.info^
 ||shevrinavis.website^
 ||shexawhy.net^
@@ -16095,6 +16111,7 @@ vkcdnservice.appspot.com^
 ||sitreleastme.info^
 ||sittingfoot.com^
 ||siutxxdk.com^
+||sivpnnmpppmor.xyz^
 ||siwhausy.net^
 ||sixft-apart.com^
 ||sixminutes.biz^
@@ -16821,6 +16838,7 @@ vkcdnservice.appspot.com^
 ||td563.com^
 ||td583.com^
 ||tdcbvxxhss.xyz^
+||tdcupijtgp.com^
 ||tdtxjhel.com^
 ||teads.tv^
 ||teakreese.com^
@@ -17027,6 +17045,7 @@ vkcdnservice.appspot.com^
 ||throposehodger.pro^
 ||throughlavish.com^
 ||thrustlumpypulse.com^
+||thuate.com^
 ||thubyjemi.pro^
 ||thudywhamy.com^
 ||thumpssleys.com^
@@ -36718,6 +36737,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||af.tosho-trading.co.jp^
 ||ad-web-ad.com^
 ||d1yt8zt4633tzi.cloudfront.net^
 ||affiliate.konibet.com^
@@ -38933,6 +38953,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||govshanghai.cn^
+||d32bug9eb0g0bh.cloudfront.net^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
