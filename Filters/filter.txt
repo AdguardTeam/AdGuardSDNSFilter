@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-07T12:01:21.897Z
+! Last modified: 2022-04-07T14:32:06.054Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22200,7 +22200,6 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
-||pinpoll.com^
 ||init.blackcrow.ai^
 ||taplytics.com^
 ||event-stream.spot.im^
@@ -26549,6 +26548,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||pa.pinpoll.com^
+||d2wu036mkcz52n.cloudfront.net^
 ||ts.delfi.lt^
 ||tracking.gvm.com.tw^
 ||metrics.beyondwords.io^
@@ -30995,7 +30996,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d2san7t27xb2pn.cloudfront.net^
 ||d2t77mnxyo7adj.cloudfront.net^
 ||d2tcg4i9q4js4a.cloudfront.net^
-||d2wu036mkcz52n.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d2zjlj1vewrxcj.cloudfront.net^
 ||d34qb8suadcc4g.cloudfront.net^
