@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-07T06:01:21.294Z
+! Last modified: 2022-04-07T12:01:21.897Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12414,6 +12414,7 @@ vkcdnservice.appspot.com^
 ||mlnyndkde.com^
 ||mlscmevlspljh.com^
 ||mlsys.xyz^
+||mm-cgnews.com^
 ||mm-syringe.com^
 ||mmadsgadget.com^
 ||mmctsvc.com^
@@ -21015,6 +21016,7 @@ vkcdnservice.appspot.com^
 ||escape.insites.eu^
 ||etrader.kalahari.com^
 ||etrader.kalahari.net^
+||expertsulfury.com^
 ||gateway.fortunelounge.com^
 ||geobanner.friendfinder.com^
 ||get.cryptobrowser.site^
@@ -22198,6 +22200,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||pinpoll.com^
 ||init.blackcrow.ai^
 ||taplytics.com^
 ||event-stream.spot.im^
@@ -29465,7 +29468,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||perljs.com^
 ||personalicanvas.com^
 ||peruse.ai^
-||pinpoll.com^
 ||pipfire.com^
 ||piratepx.com^
 ||plerdy.com^
@@ -37919,6 +37921,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mifsirnhvvrps.top^
 ||misxgkvnlf.com^
 ||naetoris.pw^
+||oardjnay.com^
 ||offerjuice.me^
 ||olenation.org^
 ||onigagalai.ru^
@@ -39071,6 +39074,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||hmjiayi.com^
+||synergyat.work^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
@@ -39379,7 +39383,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aishangcan.com^
 ||ajaxcdn.org^
 ||ajwssds.com^
-||ak0429.com^
+||huishunhang.net^
 ||akmh001.vip^
 ||akmh025.vip^
 ||akmhw.com^
@@ -40232,7 +40236,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mlddvji.cn^
 ||mlt01.com^
 ||mltp.com^
-||mm-cgnews.com^
 ||mngjrn.cn^
 ||mnxtu.com^
 ||moguozhi.com^
@@ -42147,6 +42150,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zzcyy.cn^
 ||yuuuxi.top^
 ||1w73a5d.cn^
+||3356534.work^
+||governments.wang^
+||sqvp.online^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
