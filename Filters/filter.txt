@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-11T06:01:16.985Z
+! Last modified: 2022-04-11T11:34:51.054Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||ad.mediaf.media^
 ||pushnott.com^
 ||chipmanksmochus.com^
 ||sduptpppm.com^
@@ -26641,6 +26642,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||montelena-rcv.gmarket.co.kr^
 ||alxc.addlv.smt.docomo.ne.jp^
 ||pa.pinpoll.com^
 ||d2wu036mkcz52n.cloudfront.net^
@@ -29393,6 +29395,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hospitality-optimizer.com^
 ||hotjar.io^
 ||hscta.net^
+||hsleadflows.net^
 ||hudb.pl^
 ||humanpresence.app^
 ||iaudienc.com^
@@ -39185,6 +39188,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||netkantu.com^
 ||carolinebeverly.com^
 ||calistabeverly.com^
+||kkjiaofei.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -42265,6 +42269,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pokeryun.site^
 ||jzdgn.cn^
 ||liuziqiu.cn^
+||sxjcnm.com^
+||wancai.shop^
+||zgyhw.mobi^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -46586,6 +46593,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/115247
+@@||stash.roistat.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/commit/84966d38a2f6d98e46df6998c6cacde1931e7bc1
 @@||measure.ic.tver.jp^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/113049
