@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-11T00:05:11.847Z
+! Last modified: 2022-04-11T06:01:16.985Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5079,6 +5079,7 @@ vkcdnservice.appspot.com^
 ||animatedpopular.com^
 ||animits.com^
 ||anizedglittledisco.info^
+||ankexper.fun^
 ||ankingwit.one^
 ||anlcld.com^
 ||anldnews.pro^
@@ -23185,7 +23186,6 @@ vkcdnservice.appspot.com^
 ||dcmn.com^
 ||bouncyproperty.com^
 ||adnz.co^
-||cloud.roistat.com^
 ||nrich.ai^
 ||adoric.com^
 ||stack-sonar.com^
@@ -27755,7 +27755,6 @@ vkcdnservice.appspot.com^
 ||tm.tradetracker.net^
 ||dct.mango-office.ru^
 ||cc.calltracking.ru^
-||collector.roistat.com^
 ||applog.ucdns.uc.cn^
 ||t.frtyi.com^
 ||ssp*.rtb.beeline.ru^
@@ -30502,7 +30501,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||clickthru.lefbc.com^
 ||clicktracker.iscan.nl^
 ||client.tahono.com^
-||cllctr.roistat.com^
 ||clouderrorreporting.googleapis.com^
 ||cloudfront-labs.amazonaws.com^
 ||cltgtstor001.blob.core.windows.net^
@@ -31495,6 +31493,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||r24-tech.com^
 ||retag.xyz^
 ||rnet.plus^
+||roistat.com^
 ||sarov.ws^
 ||sblftg.com^
 ||semantiqo.com^
@@ -42262,6 +42261,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wangye.icu^
 ||schlaftabletten.cn^
 ||ntwaafv.cn^
+||dk2323dk.xyz^
+||pokeryun.site^
+||jzdgn.cn^
+||liuziqiu.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
