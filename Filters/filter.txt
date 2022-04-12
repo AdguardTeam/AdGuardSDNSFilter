@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-12T06:01:07.089Z
+! Last modified: 2022-04-12T12:01:30.562Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||mrpecvqw.com^
+||zoutubephaid.com^
 ||sympna.com^
 ||significantoperativeclearance.com^
 ||furstraitsbrowse.com^
@@ -5167,8 +5169,8 @@ vkcdnservice.appspot.com^
 ||apyohotayvc.com^
 ||aqdkehbez.com^
 ||aqjdigkqvmakz.com^
-||aquabibchawed.website^
 ||aqmgnoik.com^
+||aquabibchawed.website^
 ||aratyr.com^
 ||arbaloseyepit.com^
 ||arbitrarydefectrightfully.com^
@@ -22334,6 +22336,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||wurfl.io^
 ||t.trsbf.com^
 ||t.powerreviews.com^
 ||analytics*.prezly.com^
@@ -26687,6 +26690,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||b.travel-assets.com^
 ||tracking.live.oe24.at^
 ||momowa.momoshop.com.tw^
 ||montelena-rcv.gmarket.co.kr^
@@ -32109,6 +32113,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||byevkj.com^
+||y8lsyibocd.ru^
 ||konxiarwcvyp.com^
 ||major-t-code.com^
 ||viaqoo.tech^
@@ -38147,9 +38153,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Apr 2022 23:00 UTC+7
-! Version: 2204082300
-! Blocked: 1.134 rules
+! Last modified: 12 Apr 2022 13:57 UTC+7
+! Version: 2204121357
+! Blocked: 1.140 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -38214,6 +38220,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||codon.vn^
 ||daleriki.com^
 ||donglogs.com^
+||dtadnetwork.com^
 ||eva-ad.24hstatic.com^
 ||flygame.io^
 ||fptad.com^
@@ -38533,7 +38540,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sharks.vn^
 ||shop.vnay.vn^
 ||static.adconnect.vn^
-||static.dtadnetwork.com^
 ||static.mvot.vn^
 ||stc-nas.nixcdn.com^
 ||stc.nas.nixcdn.com^
@@ -38694,6 +38700,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||s.kenh14.vn^
 ||s.soha.vn^
 ||s.tuoitre.vn^
+||sentry.dantri.com.vn^
 ||sentry.mediacdn.vn^
 ||sharefb.cnnd.vn^
 ||smetrics.kone.vn^
@@ -38814,6 +38821,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||8live.top^
 ||8live.vip^
 ||8livevn.com^
+||8xbet05.com^
 ||8xbet22.com^
 ||92lottery.com^
 ||aa88.in^
@@ -38855,6 +38863,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dk802.com^
 ||dola88.info^
 ||ee66.com^
+||ek883.com^
 ||eurofun88.com^
 ||f8bet0.com^
 ||fa88.win^
@@ -38910,11 +38919,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||happy9luck.com^
 ||happynb.com^
 ||hotlive8.vip^
+||i99906.com^
 ||ibet889.com^
 ||income88.com^
 ||interwinvn.com^
 ||iwin.club^
 ||jbo010.com^
+||jbo039.com^
 ||jbo064.com^
 ||jboviet.com^
 ||jbovietnam.com^
@@ -39033,6 +39044,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rikvip.us^
 ||rikvipp.net^
 ||rio66qc.club^
+||s9996.com^
 ||sbc31.com^
 ||shbet0.com^
 ||sieubomtan.com^
@@ -41511,6 +41523,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||a.llysc.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -42315,6 +42328,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||ccbiotech.co^
 ||pk331.cn^
+||fjjkq.cn^
+||yuanma.icu^
+||zhaixing.link^
+||haohud.cc^
+||cbcspace.xyz^
+||yishu.red^
+||yezkon.com^
+||ynd41r.online^
+||unpk41.online^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
