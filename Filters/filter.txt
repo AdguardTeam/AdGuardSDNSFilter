@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-11T18:01:08.304Z
+! Last modified: 2022-04-12T00:03:02.993Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -212,9 +212,7 @@
 ||getmackeepersoftpro.xyz^
 ||emisja.contentstream.pl^
 ||ads.playground.xyz^
-||truetruetruetruetruetruetruetruetrue.top^
 ||hetadinh.com^
-||truetruetruetruetruetruetruetruetruetrue.xyz^
 ||puscxnhsksnunxs.com^
 ||jsiwjgnq.com^
 ||refpaiwqkk.top^
@@ -1155,10 +1153,8 @@
 ||refpasrasw.world^
 ||yogar2ti8nf09.com^
 ||bulletprofitadclick.com^
-||tombspyelates.com^
 ||draydaisbitch.com^
 ||nwa88nx9uxzh.com^
-||developingstripes.com^
 ||traffic-go.com^
 ||cratertadcite.com^
 ||tk6if76q.ab1n.net^
@@ -32112,6 +32108,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||konxiarwcvyp.com^
+||major-t-code.com^
 ||viaqoo.tech^
 ||chicgar.info^
 ||iwe.ktvgv.com^
@@ -38006,6 +38004,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||frpiksdeygy.com^
 ||fryruejoust.cam^
 ||gbrrrxbodqdlq.com^
+||ghaahq.com^
 ||goingsilltrusty.com^
 ||groupiklan.com^
 ||grushashuka.pro^
