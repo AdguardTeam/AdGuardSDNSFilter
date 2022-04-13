@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-12T18:01:22.452Z
+! Last modified: 2022-04-13T00:03:20.794Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41562,7 +41562,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||a.llysc.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -41687,6 +41686,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a.icdol.com^
 ||a.imgso.cn^
 ||a.jing55.com^
+||a.llysc.cn^
 ||a.lz13.cn^
 ||a.mfcad.net^
 ||a.miyudaquan.top^
@@ -42365,18 +42365,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||ccbiotech.co^
-||pk331.cn^
-||fjjkq.cn^
-||yuanma.icu^
-||zhaixing.link^
-||haohud.cc^
-||cbcspace.xyz^
-||yishu.red^
-||yezkon.com^
-||ynd41r.online^
-||unpk41.online^
-||yunuo.online^
+||lhj.asia^
+||zgnz020.mobi^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -43046,9 +43036,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cathaycentury.com^
 ||caupdcloud.cn^
 ||cb8lvgd.cn^
+||cbcspace.xyz^
 ||cbctp.top^
 ||cbgyhe.cn^
 ||cbh365.club^
+||ccbiotech.co^
 ||cccfw.vip^
 ||ccfa.vip^
 ||ccgtime-gn.xyz^
@@ -43524,6 +43516,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fj95560.com^
 ||fjfymjm.cn^
 ||fjhanmei.com^
+||fjjkq.cn^
 ||fjmrxys.com^
 ||fjshxjs.cn^
 ||fjshxzyyxgs.cn^
@@ -43765,6 +43758,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||haodong.site^
 ||haoerer.cn^
 ||haogame.me^
+||haohud.cc^
 ||haohuisheng555.cn^
 ||haoinn.top^
 ||haojun.info^
@@ -45011,6 +45005,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pjbjzf.com^
 ||pjfrsc.cn^
 ||pjlcrab.top^
+||pk331.cn^
 ||pkbook.com.cn^
 ||plants.ink^
 ||plastic-wood.cn^
@@ -45745,6 +45740,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||unfzclg.cn^
 ||uni-king.cn^
 ||unimr0k7em.cn^
+||unpk41.online^
 ||untenable.wang^
 ||uo12.com^
 ||uqakkye.cn^
@@ -46218,6 +46214,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yema.shop^
 ||yemingxing.top^
 ||yeyushe.cn^
+||yezkon.com^
 ||yfygs.cn^
 ||yggkzs.cn^
 ||ygtnn.cn^
@@ -46250,6 +46247,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yiongminghan.xyz^
 ||yiotufp.cn^
 ||yiqima.xyz^
+||yishu.red^
 ||yitiaoyu.top^
 ||yituo-patibao.cn^
 ||yixiangzhan.cn^
@@ -46275,6 +46273,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ymxlm.cc^
 ||ynbyutongdianqi.com^
 ||yncjsc.cn^
+||ynd41r.online^
 ||ynevxkx.cn^
 ||ynhuya.cn^
 ||ynmpzs.cn^
@@ -46323,6 +46322,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ytmaitian.com^
 ||yu520o.top^
 ||yuandongoffice.com^
+||yuanma.icu^
 ||yuanqitu.com^
 ||yuanwei.ltd^
 ||yueduyy.com^
@@ -46347,6 +46347,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yunfeiyang.club^
 ||yunl1.com^
 ||yuntuiguang.co^
+||yunuo.online^
 ||yunwanjia.wang^
 ||yushengyuancaishui.com^
 ||yushuha.com^
@@ -46424,6 +46425,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zgyso.cn^
 ||zgystsd.com^
 ||zgzrmh.mobi^
+||zhaixing.link^
 ||zhangdujia.com^
 ||zhangjianlong.xyz^
 ||zhangjinfei.vip^
