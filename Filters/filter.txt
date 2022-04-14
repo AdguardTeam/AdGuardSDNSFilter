@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-14T00:02:31.518Z
+! Last modified: 2022-04-14T06:01:21.604Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -38223,9 +38223,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Apr 2022 13:57 UTC+7
-! Version: 2204121357
-! Blocked: 1.140 rules
+! Last modified: 14 Apr 2022 12:00 UTC+7
+! Version: 2204141200
+! Blocked: 1.148 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -38406,6 +38406,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||widget.chat.zalo.me^
 ||yeah1publishing.com^
 ||younetmedia.com^
+||za.zapps.vn^
 ||zalo-ads-240-td.zadn.vn^
 ||zalo-ads-240.zadn.vn^
 ||zalo-ads-480-td.zadn.vn^
@@ -38592,6 +38593,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qc.designervn.net^
 ||qc.japo.vn^
 ||qc.kqbd88.com^
+||qc.mhsolution.vn^
 ||qc.violet.vn^
 ||qctt24h.24h.com.vn^
 ||qcv5.blogtruyen.vn^
@@ -38609,6 +38611,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||serving-ad.tv24.vn^
 ||sharks.vn^
 ||shop.vnay.vn^
+||slm.dantri.com.vn^
 ||static.adconnect.vn^
 ||static.mvot.vn^
 ||stc-nas.nixcdn.com^
@@ -38631,6 +38634,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vietdorje.com^
 ||vinaads.vn^
 ||vlxx.host^
+||vnadssb.com^
 ||vnd247.vn^
 ||widget.headlines.pw^
 ||a.ladipage.com^
@@ -38665,6 +38669,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.vietnamfinance.vn^
 ||analytics.vnpt.vn^
 ||analytics.vnreview.vn^
+||analytics.zim.vn^
 ||api.ozui.vn^
 ||apiv2.tiin.vn^
 ||apl.headlines.pw^
@@ -38781,6 +38786,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||staticad.thethao247.vn^
 ||statis.dsp.vn^
 ||statistic.batdongsan.com.vn^
+||statistics-vov2.vov.vn^
 ||statistics.tapchimypham.com.vn^
 ||statistics.vov.vn^
 ||statistics.vov2.vn^
@@ -39008,7 +39014,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||keotot.net^
 ||kidslovemartialartsomahane.com^
 ||kingbet86.info^
+||ktokto.mobi^
 ||ktoviet.com^
+||ktovn.com^
 ||ku6110.net^
 ||kubet.biz^
 ||kubet.life^
@@ -42400,6 +42408,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xiaotong.pink^
 ||jiatu.co^
 ||weix.xyz^
+||llhhbb.top^
+||dhhpm.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
