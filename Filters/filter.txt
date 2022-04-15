@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-15T06:01:07.870Z
+! Last modified: 2022-04-15T12:01:34.492Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,10 +22,9 @@
 !
 !
 !
+||yotwok.xyz^
 ||advservert.com^
 ||luxope.com^
-||numbtoobly.com^
-||edstever.com^
 ||hllpiaaxwdv.com^
 ||ihjection.site^
 ||bepaabqwg.com^
@@ -3693,6 +3692,7 @@ vkcdnservice.appspot.com^
 ||10fbb07a4b0.se^
 ||1100i.com^
 ||110380d053f716c4.com^
+||111supjav.xyz^
 ||118bfe5b01.com^
 ||11hrcnll.com^
 ||1221e236c3f8703.com^
@@ -8116,6 +8116,7 @@ vkcdnservice.appspot.com^
 ||dtcstcltwzuno.com^
 ||dtmpub.com^
 ||dtnpyvmqqvvgq.com^
+||dtoo1.space^
 ||dtprofit.com^
 ||dtqkuzuhzwklm.com^
 ||dtscout.com^
@@ -8343,6 +8344,7 @@ vkcdnservice.appspot.com^
 ||edoqvecgbvn.xyz^
 ||edoumeph.com^
 ||edoutoam.net^
+||edstever.com^
 ||edstrastco.com^
 ||edstylistepro.xyz^
 ||edua29146y.com^
@@ -8872,6 +8874,7 @@ vkcdnservice.appspot.com^
 ||fannonglairin.com^
 ||fanumi.com^
 ||fanzinetautens.com^
+||fapcat.com^
 ||faqrdrkwdhqgug.com^
 ||faracoon.com^
 ||farcdnf.com^
@@ -13305,6 +13308,7 @@ vkcdnservice.appspot.com^
 ||numberspenguinveto.com^
 ||numbertrck.com^
 ||numbgradualassertive.com^
+||numbtoobly.com^
 ||nunailsum.com^
 ||nunhoefey.com^
 ||nuninz.com^
@@ -18240,6 +18244,7 @@ vkcdnservice.appspot.com^
 ||verticalperiodicdirectory.com^
 ||verycastle.com^
 ||verymerybery.com^
+||veryn1ce.com^
 ||vespymedia.com^
 ||vessoupy.com^
 ||vetdeberg.com^
@@ -19814,7 +19819,6 @@ vkcdnservice.appspot.com^
 ||adjuggler.com^
 ||adjuggler.net^
 ||adjungle.com^
-||adjust.com^
 ||adk2.co^
 ||adk2.com^
 ||adk2x.com^
@@ -22745,6 +22749,7 @@ vkcdnservice.appspot.com^
 ||analytics.chase.com^
 ||scripttags.jst.ai^
 ||trace21.dsb-ebusiness.com^
+||adjust.com^
 ||a.ddli.jp^
 ||b92.yahoo.co.jp^
 ||pub.toku-tag.jp^
@@ -39371,6 +39376,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||518yi.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -42451,7 +42457,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||weebly.shop^
+||qiaoxiaomiao.com^
 ||dailynews.wiki^
+||yxbyd.store^
+||xiongfengwang.com.cn^
+||liangdun.xyz^
+||syks.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
