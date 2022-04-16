@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-15T20:12:38.912Z
+! Last modified: 2022-04-16T00:03:25.352Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22635,7 +22635,6 @@ vkcdnservice.appspot.com^
 ||adg-data.kajicam.com^
 ||report.smartcount.net^
 ||bacon.getcarro.com^
-||t.unbounce.com^
 ||oremark.com^
 ||cbt.whatcounts.net^
 ||fireworkanalytics.com^
@@ -29238,10 +29237,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||loloclicks.biz^
 ||maggieeatstheangel.com^
 ||mdhv.io^
+||mm-api.agency^
 ||mors22.com^
 ||mt48.net^
 ||n0909.com^
 ||niblewren.co^
+||nigelmidnightrappers.com^
 ||nimblebird.co^
 ||nimbleswan.io^
 ||nxakpj4ac8gkd53.info^
@@ -29956,6 +29957,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tz284.com^
 ||ub-analytics.com^
 ||uciservice.com^
+||unbounce.com^
 ||upapi.net^
 ||uplift-platform.com^
 ||upsellit.com^
@@ -42476,6 +42478,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||weebly.shop^
 ||qiaoxiaomiao.com^
+||zmkj.club^
+||yangll.xin^
+||cdcd.ink^
+||vividly.site^
+||xzl200107151017.ltd^
+||ghl8.com^
+||lnque.xyz^
 ||dailynews.wiki^
 ||yxbyd.store^
 ||xiongfengwang.com.cn^
