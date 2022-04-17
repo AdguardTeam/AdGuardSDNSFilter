@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-16T18:01:31.722Z
+! Last modified: 2022-04-17T00:02:47.245Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3943,6 +3943,7 @@ vkcdnservice.appspot.com^
 ||602d76e204c032.com^
 ||6068a17eed25.com^
 ||606d891745.com^
+||60d4631eb3.com^
 ||615b68cc9c8528e.com^
 ||61739011039d41a.com^
 ||61b2a5278e6383b.com^
@@ -4009,6 +4010,7 @@ vkcdnservice.appspot.com^
 ||729dcbaa57e80c1e.com^
 ||746fyw2v.com^
 ||74adf02407.com^
+||74b1447c32.com^
 ||750industries.com^
 ||75bb9a4031.com^
 ||75f7e171e0.com^
@@ -9344,6 +9346,7 @@ vkcdnservice.appspot.com^
 ||ftklr.com^
 ||ftliokfhtyijhl.com^
 ||ftte.fun^
+||ftte.xyz^
 ||fttwin.icu^
 ||ftv-publicite.fr^
 ||ftwjubad.com^
@@ -30065,6 +30068,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||actirinius.com^
 ||aimtell.com^
 ||alertme.news^
+||altmetric.com^
 ||aswpsdkeu.com^
 ||aswpsdkus.com^
 ||bildirt.com^
@@ -30077,6 +30081,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cracataum.com^
 ||danorenius.com^
 ||dengage.com^
+||dimensions.ai^
 ||feedify.net^
 ||feraciumus.com^
 ||fernomius.com^
@@ -31117,6 +31122,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||telemetry.phenixrts.com^
 ||telemetry.reembed.com^
 ||telemetry.tableausoftware.com^
+||tkx.mp.lura.live^
 ||tm.vendemore.com^
 ||tms.fmm.io^
 ||tr-op.datatrics.com^
@@ -31639,7 +31645,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nokaut.link^
 ||refericon.pl^
 ||sare25.com^
-||snrbox.com^
 ||tagcdn.com^
 ! Portuguese
 ||ad5track.com^
@@ -42485,6 +42490,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||cjy200107152004.ltd^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
