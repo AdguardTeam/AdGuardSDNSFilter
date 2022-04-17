@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-17T12:01:13.396Z
+! Last modified: 2022-04-17T18:01:09.120Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22472,6 +22472,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||ac.prism-world.jp.net^
+||analytics.liveact.cri-mw.jp^
 ||sdtagging.azureedge.net^
 ||sd-tagging.azurefd.net^
 ||metrics.pico.tools^
@@ -30073,7 +30075,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||actirinius.com^
 ||aimtell.com^
 ||alertme.news^
-||altmetric.com^
 ||aswpsdkeu.com^
 ||aswpsdkus.com^
 ||bildirt.com^
@@ -30086,7 +30087,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cracataum.com^
 ||danorenius.com^
 ||dengage.com^
-||dimensions.ai^
 ||feedify.net^
 ||feraciumus.com^
 ||fernomius.com^
@@ -31986,7 +31986,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracy.sadv.dadapro.com^
 ||vppst.iltrovatore.it^
 ||ad-beacon-v01.uliza.jp^
-||analytics.liveact.cri-mw.jp^
 ||analyzer51.fc2.com^
 ||bvr.snva.jp^
 ||cookie.sync.usonar.jp^
@@ -37159,6 +37158,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||trigs-sockets.com^
 ||af.tosho-trading.co.jp^
 ||ad-web-ad.com^
 ||d1yt8zt4633tzi.cloudfront.net^
@@ -39415,6 +39415,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||tzxmhi.com^
+||tukkpixabay.com^
+||avased6.com^
+||nrxduw5.com^
+||sb6688.xyz^
+||celestebeverly.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
