@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-20T18:01:15.222Z
+! Last modified: 2022-04-21T00:02:55.973Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5738,6 +5738,7 @@ vkcdnservice.appspot.com^
 ||bb4cf48126aab4.com^
 ||bbaahc.com^
 ||bbaannrr03.com^
+||bbaannrr05.com^
 ||bbaannrr11.com^
 ||bbes.xyz^
 ||bbgomsvyyacndcf.xyz^
@@ -6075,6 +6076,7 @@ vkcdnservice.appspot.com^
 ||bnc4m.com^
 ||bnc5m.com^
 ||bncloudfl.com^
+||bngdyn.com^
 ||bnglzajikraz.com^
 ||bngpt.com^
 ||bngwlt.com^
@@ -7207,6 +7209,7 @@ vkcdnservice.appspot.com^
 ||continuedi.club^
 ||continuousprescription.com^
 ||contrastic.xyz^
+||contreel.com^
 ||contretaillames.site^
 ||contribusourcesyndication.com^
 ||contributiont.biz^
@@ -9929,6 +9932,7 @@ vkcdnservice.appspot.com^
 ||grayrecruitbrainwash.com^
 ||graziefootier.com^
 ||grbandhlitu.top^
+||greake.com^
 ||greatcpm.com^
 ||greatdexchange.com^
 ||greatmentef.club^
@@ -10774,6 +10778,7 @@ vkcdnservice.appspot.com^
 ||independentendure.com^
 ||independentqualitysandwich.com^
 ||index-markets.digital^
+||indexesport.com^
 ||indexww.com^
 ||indiads.com^
 ||indictmenthardilyhockey.com^
@@ -12762,6 +12767,7 @@ vkcdnservice.appspot.com^
 ||morgdm.ru^
 ||moritava.com^
 ||morninguglychampionship.com^
+||moronghumaner.com^
 ||moronsquacco.com^
 ||mororvaginas.com^
 ||morps.xyz^
@@ -14443,6 +14449,7 @@ vkcdnservice.appspot.com^
 ||plugs.co^
 ||plumbingcurlproximity.com^
 ||plumbscalpelprestigious.com^
+||plumbummoca.com^
 ||pluraldispersegranary.com^
 ||plusclick.biz^
 ||plutothejewel.com^
@@ -14700,6 +14707,7 @@ vkcdnservice.appspot.com^
 ||presumptuousreciprocal.com^
 ||pretencemassage.com^
 ||pretextexpertisedisappeared.com^
+||prettypasttime.com^
 ||prevailedballotcaution.com^
 ||previouslyawokestale.com^
 ||previsibilisais.website^
@@ -15678,6 +15686,7 @@ vkcdnservice.appspot.com^
 ||rgttoipdr.com^
 ||rgvqcsxqge.com^
 ||rh1hilm7j0ae.com^
+||rhagitegreeted.com^
 ||rhearthinkchlo.xyz^
 ||rhfgjld.com^
 ||rhiedy.com^
@@ -15807,6 +15816,7 @@ vkcdnservice.appspot.com^
 ||roikingdom.com^
 ||roilnks.net^
 ||roilsnadirink.com^
+||rokeewoozy.com^
 ||rokitokijoki.com^
 ||rolegu.com^
 ||rolerompchalked.com^
@@ -31175,6 +31185,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.curds.io^
 ||stats.datahjaelp.net^
 ||stats.edicy.com^
+||stats.esecured.net^
 ||stats.geegain.com^
 ||stats.gifs.com^
 ||stats.highwire.com^
@@ -32223,7 +32234,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Thai
 ||sal.isanook.com^
 ||stat.matichon.co.th^
-! Turkish
 ||st.tmgrup.com.tr^
 ! Ukranian
 ||informers.sinoptik.ua^
@@ -39579,10 +39589,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||00-gov.cn^
-||netdjs.net^
-||govlihu.cn^
-||xdw9.top^
-||daisycontroversy.com^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
@@ -40116,6 +40122,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||daikuanfanli.com^
 ||dailiqing.net^
 ||daimude.com^
+||daisycontroversy.com^
 ||dakang-energy.com^
 ||dalianhengtai.com^
 ||dameyuan.com^
@@ -40297,6 +40304,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||govhechi.cn^
 ||govheyuan.cn^
 ||govkunming.cn^
+||govlihu.cn^
 ||govqingdao.cn^
 ||govshanghai.cn^
 ||govshangxi.cn^
@@ -40787,6 +40795,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nchte.com^
 ||ndtzx.com^
 ||netcoretech.net^
+||netdjs.net^
 ||netkantu.com^
 ||newyiba.top^
 ||ni87.com^
@@ -41293,6 +41302,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xcsci.cn^
 ||xcy8.com^
 ||xdcqcyp.com^
+||xdw9.top^
 ||xfei.top^
 ||xflsj.com^
 ||xgxq518.com^
@@ -42673,11 +42683,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||mals.shop^
-||2613.store^
-||xiaomianao666.top^
-||arguments.wang^
-||d09.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -42730,6 +42735,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||23uuw3.com^
 ||258580w.cn^
 ||25917.shop^
+||2613.store^
 ||2886115.com^
 ||2999.store^
 ||2bssjsq.com^
@@ -43036,6 +43042,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||apsxm.cn^
 ||apxyz.com^
 ||aqbamjk.cn^
+||arguments.wang^
 ||arhat.io^
 ||arkn81.com^
 ||aroudy.cn^
@@ -43545,6 +43552,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||czxym168.cn^
 ||d-star.xyz^
 ||d03.xyz^
+||d09.xyz^
 ||d2robot.com.cn^
 ||d3zr5ye.cn^
 ||dacedsfa.cn^
@@ -44960,6 +44968,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||maicaoren.cn^
 ||maicv.cn^
 ||maimaias.cn^
+||mals.shop^
 ||mamababu.cn^
 ||manggo.fun^
 ||mao1.jsnovel.com^
@@ -46399,6 +46408,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xiaokenan.net^
 ||xiaoli.video^
 ||xiaolipc.cn^
+||xiaomianao666.top^
 ||xiaomifood.cn^
 ||xiaonengdou.vip^
 ||xiaoniu166.wang^
