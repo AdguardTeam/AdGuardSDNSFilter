@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-26T06:01:14.754Z
+! Last modified: 2022-04-26T11:28:48.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||hathyneglu.com^
+||freefiles23.xyz^
 ||monetiza.co^
 ||cirsepuh.net^
 ||vhjuoaoetdbxt.com^
@@ -5773,7 +5775,6 @@ vkcdnservice.appspot.com^
 ||billypub.com^
 ||bilsyndication.com^
 ||bimathyphy.com^
-||bimbim.com^
 ||bimlocal.com^
 ||bin-layer.ru^
 ||bin-tds.site^
@@ -20452,6 +20453,7 @@ vkcdnservice.appspot.com^
 ||bigpulpit.com^
 ||bigspyglass.com^
 ||bildirim.eu^
+||bimbim.com^
 ||bin-layer.de^
 ||bingo4affiliates.com^
 ||binlayer.com^
@@ -22097,8 +22099,6 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
-||alxm.addlv.smt.docomo.ne.jp^
-||alxd.addlv.smt.docomo.ne.jp^
 ||cdn.jampp.com^
 ||imgx.jampp.com^
 ||static.jampp.com^
@@ -27132,6 +27132,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||dnh523js9661q.cloudfront.net^
 ||tr.discuss.com.hk^
 ||ymprove.gmx.net^
 ||events.release.narrativ.com^
@@ -27144,7 +27145,6 @@ vkcdnservice.appspot.com^
 ||tracking.live.oe24.at^
 ||momowa.momoshop.com.tw^
 ||montelena-rcv.gmarket.co.kr^
-||alxc.addlv.smt.docomo.ne.jp^
 ||pa.pinpoll.com^
 ||d2wu036mkcz52n.cloudfront.net^
 ||ts.delfi.lt^
@@ -37465,6 +37465,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
+||addlv.smt.docomo.ne.jp^
 ||trigs-sockets.com^
 ||af.tosho-trading.co.jp^
 ||ad-web-ad.com^
@@ -39797,6 +39798,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||yhp4an7.cn^
+||qhlmb.com^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
@@ -42907,6 +42909,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||yangxu.store^
 ||288family.club^
+||chenwang.top^
+||habkjav.cn^
+||perfect999.site^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -47338,6 +47343,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/114908
+@@||torimochi.line-apps.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/937
 @@||oa.tr.line.me^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/115247
