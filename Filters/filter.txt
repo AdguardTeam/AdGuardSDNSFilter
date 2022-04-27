@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-04-27T06:01:16.592Z
+! Last modified: 2022-04-27T09:05:31.337Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24,7 +24,6 @@
 !
 ||oufteens.com^
 ||nyhhnfsjo.com^
-||vrqsvrnjrhdmek.com^
 ||hathyneglu.com^
 ||freefiles23.xyz^
 ||monetiza.co^
@@ -32,13 +31,9 @@
 ||vhjuoaoetdbxt.com^
 ||nabobketupa.com^
 ||egistonemes.com^
-||workroomsplittingtrashy.com^
 ||sobowapso.com^
 ||zygrophochi.com^
 ||knowhowlobe.com^
-||wwowww.xyz^
-||onpluslean.com^
-||unphionetor.com^
 ||interstitial-08.com^
 ||htxourpo.com^
 ||aahekppl.com^
@@ -47,7 +42,6 @@
 ||haxrddfxbdu.com^
 ||wqyipmakwh.com^
 ||gredraus.net^
-||epmwgmvtr.com^
 ||iutjyyujuqa.com^
 ||unblockia.com^
 ||mjyxblhdgmdnumq.com^
@@ -8535,6 +8529,7 @@ vkcdnservice.appspot.com^
 ||epicgameads.com^
 ||epigaeatoasty.com^
 ||epigonuncream.com^
+||epmwgmvtr.com^
 ||epnredirect.ru^
 ||epsesy.com^
 ||epsupuby.com^
@@ -13724,6 +13719,7 @@ vkcdnservice.appspot.com^
 ||onmarshtompor.com^
 ||onnnxftprfvm.xyz^
 ||onolinclosesr.club^
+||onpluslean.com^
 ||onsandam.biz^
 ||onsetoyour.fun^
 ||onshipsui.xyz^
@@ -18246,6 +18242,7 @@ vkcdnservice.appspot.com^
 ||unoblotto.net^
 ||unoseconomin.xyz^
 ||unpanchamon.com^
+||unphionetor.com^
 ||unpleasantconcrete.com^
 ||unpredictableshell.com^
 ||unpredictablewatchpenalty.com^
@@ -18747,6 +18744,7 @@ vkcdnservice.appspot.com^
 ||vr4031.com^
 ||vriwjpzvh.com^
 ||vrptgslcxm.com^
+||vrqsvrnjrhdmek.com^
 ||vrsshsdaa.com^
 ||vrtzads.com^
 ||vs001t.com^
@@ -19217,6 +19215,7 @@ vkcdnservice.appspot.com^
 ||workmanceremony.com^
 ||workplacehorse.com^
 ||workplacelimetree.com^
+||workroomsplittingtrashy.com^
 ||workshirty.club^
 ||worldfreshblog.com^
 ||worldsbestoffer.xyz^
@@ -19321,6 +19320,7 @@ vkcdnservice.appspot.com^
 ||wwnrdqxo.com^
 ||wwow.xyz^
 ||wwoww.xyz^
+||wwowww.xyz^
 ||wwpon365.ru^
 ||wwrpfevyca.com^
 ||wwsercher.biz^
@@ -29411,6 +29411,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api.analytics.omgpop.com^
 ||api.appsee.com^
 ||api.apptentive.com^
+||api.branch.io^
+||api2.branch.io^
 ||api.crittercism.com^
 ||api.gimbal.com^
 ||api.sec.miui.com^
@@ -30998,7 +31000,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bi.medscape.com^
 ||bmrg.reflected.net^
 ||botdetection.hbrsd.com^
-||branch.io^
 ||bs.yandex.ru^
 ||c.amazinglybrilliant.com.au^
 ||c.live.com^
@@ -39819,12 +39820,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||sun66387567606.site^
-||logoduoduo.com^
-||youzonggw.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
+||watsupmanu.com^
 ||008844.cc^
 ||00xvppy.cn^
 ||01fen.com^
@@ -40958,6 +40957,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lm995.com^
 ||loclog.cn^
 ||log.interest.mix.sina.com.cn^
+||logoduoduo.com^
 ||longbaojiachen.top^
 ||longchengtg.com^
 ||lotpt.top^
@@ -41309,6 +41309,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||suangtianw.com^
 ||sudahj.com^
 ||sufficient.cn^
+||sun66387567606.site^
 ||sundady.online^
 ||superhh.top^
 ||superli666.top^
@@ -41686,6 +41687,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yousee.com^
 ||youyouf.top^
 ||youyoumw.com^
+||youzonggw.com^
 ||ypmob.com^
 ||yqgjq.com^
 ||yqhlty.com^
@@ -42938,11 +42940,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||kejia.pw^
-||jinerxuebu.xyz^
-||vancuongthinh.com^
-||pnyllove.com^
-||langkefaye.top^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -43166,6 +43163,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||9y88.com^
 ||a2platinum.vip^
 ||a3vy69.cn^
+||a6vv9o.online^
 ||a7lrf.xyz^
 ||a8cd.com^
 ||a9324.cn^
@@ -44767,6 +44765,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jiese.fun^
 ||jieyixiu.com^
 ||jindowins.com^
+||jinerxuebu.xyz^
 ||jingcaiedc.cn^
 ||jingdayiyuan.com^
 ||jingdingjy.top^
@@ -44939,11 +44938,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||katelin.top^
 ||kauomod.cn^
 ||kawayiyi.icu^
+||kazigua.top^
 ||kbkilog.cn^
 ||kbstyn.com^
 ||kbtsogi.cn^
 ||ke94.com^
 ||kefan.info^
+||kejia.pw^
 ||kejiadoor.cn^
 ||kenxn.com^
 ||kenxq.com^
@@ -45037,6 +45038,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lajimeiguo.top^
 ||lalaaal.cn^
 ||langger76.site^
+||langkefaye.top^
 ||lanshiwan.cn^
 ||lantuyj.com^
 ||lanzuankeji.cn^
@@ -45645,6 +45647,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||plokr.com^
 ||pmdatabase.xyz^
 ||pndagz.com^
+||pnyllove.com^
 ||po*.877zw.com^
 ||poedlov.cn^
 ||poewage.top^
@@ -45878,6 +45881,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rngfavm.cn^
 ||rockcoke.cn^
 ||rocm0c.site^
+||rondo.fun^
 ||rongdingkeji.cn^
 ||rongedui.com^
 ||rongnews.com^
@@ -46409,6 +46413,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||v00yvd.xyz^
 ||v5levm1.com^
 ||valarmorghulis.top^
+||vancuongthinh.com^
 ||vasb.cn^
 ||vaxgyly.cn^
 ||vb7ojn.cn^
