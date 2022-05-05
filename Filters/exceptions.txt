@@ -70,10 +70,6 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/707
 @@||health.halodoc.com^|
 !
-! https://github.com/AdguardTeam/AdguardFilters/issues/99102
-! Blocked by CNAME ||customer.io^
-@@||email*.123formbuilder.com^|
-!
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/709
 @@||promo.gramedia.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81939
