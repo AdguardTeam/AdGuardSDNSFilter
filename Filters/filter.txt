@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-05-14T06:13:16.764Z
+! Last modified: 2022-05-14T12:01:20.739Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -26373,7 +26373,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
-||wa.gmx.net^
+||wa.mail.com^
+||wa.gmx.
 ||sfp.safe.baidu.com^
 ||revi.rcs.it^
 ||counter.megagroup.ru^
