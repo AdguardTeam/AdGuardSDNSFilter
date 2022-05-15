@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-05-15T12:01:28.336Z
+! Last modified: 2022-05-15T18:01:28.555Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -544,7 +544,6 @@
 ||driddleurease.com^
 ||cauntercanulae.com^
 ||d-ughwashes.ru^
-||hunter-hub.com^
 ||glixaing.com^
 ||adrokt.com^
 ||beatsightcab.com^
@@ -9711,6 +9710,7 @@ vkcdnservice.appspot.com^
 ||hunchmotherhooddefine.com^
 ||hungerundo.com^
 ||hunoso.com^
+||hunter-hub.com^
 ||huntingmutinousindiscreet.com^
 ||huppahshoras.com^
 ||hurapepy.com^
@@ -38389,6 +38389,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||uuwn7ho.cn^
+||yhbsk.cn^
+||fpvdxd5.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -41584,6 +41587,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||swml.xyz^
+||kxla.xyz^
 ||ixnrmco.com^
 ||4kddyfd.cn^
 ||000123456789.online^
