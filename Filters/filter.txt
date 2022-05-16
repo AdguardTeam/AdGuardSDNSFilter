@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-05-16T12:02:06.950Z
+! Last modified: 2022-05-16T18:01:17.752Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19630,6 +19630,7 @@ vkcdnservice.appspot.com^
 ||banner-rotation.com^
 ||bannerbank.ru^
 ||bannerbit.com^
+||bannerboo.com^
 ||bannerbridge.net^
 ||bannerconnect.com^
 ||bannerconnect.net^
@@ -21983,6 +21984,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||t.cotsta.ru^
+||0.code.cotsta.ru^
 ||adbp.online^
 ||sofire.bdstatic.com^
 ||gokwik.co^
@@ -31845,6 +31848,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||qhdhtd.com^
 ||fuyviz.com^
 ||ouo3ophlpm.ru^
 ||wcoeaykv78.ru^
@@ -32676,7 +32680,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wellbc6.website^
 ||vuwgt.com^
 ||4736.in^
-||bannerboo.com^
 ||prelstar.ru^
 ||dytupr.com^
 ||r5jpkacq.ru^
@@ -41553,6 +41556,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cggf.xyz^
 ||sinimb.top^
 ||mmhwxofnea.com^
+||niuhe.xyz^
+||vrzsw.com^
+||aihuihui.xyz^
 ||swml.xyz^
 ||kxla.xyz^
 ||520myjj.xyz^
