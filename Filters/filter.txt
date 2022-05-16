@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-05-16T06:01:11.574Z
+! Last modified: 2022-05-16T12:02:06.950Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11,6 +11,18 @@
 ! Source name: AdGuard Base filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
 !
+!
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+! The rules with hints are at the end of file.
+
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
+!
+!
+||adviad.com^
 ||cacoyymu.xyz^
 ||raqehufa.xyz^
 ||okytgxmxonxim.com^
@@ -21973,6 +21985,7 @@ vkcdnservice.appspot.com^
 !
 ||adbp.online^
 ||sofire.bdstatic.com^
+||gokwik.co^
 ||knowctr.com^
 ||px.mountain.com^
 ||gs.mountain.com^
@@ -31706,7 +31719,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||popunder.online^
 ||juicebarads.com^
 ||adcains.com^
-||rfkrgmpjvu.top^
 ||xfkkvjabbogciwl.top^
 ||cameracaseira.com^
 ||bloco.top^
@@ -31717,9 +31729,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adserver*.euroweeklynews.com^
 ||ads.enrt.eu^
 ||19bk5lo5q2.com^
-||pregnancydiscreditbee.com^
 ||videoo.tv^
-||mtecso.online^
 ||gyh1lh20owj.ru^
 ||25haich4342.ru^
 ||byfoongusor.com^
@@ -31727,28 +31737,19 @@ charlestownwyllie.oaklawnnonantum.com^
 ||widgets.informars.com^
 ||potu.xyz^
 ||ymonetize.com^
-||cowcash.net^
 ||nucleo.ml^
 ||c9p7at3pctmprvb5ecq66vvd.ml^
-||xstronger.com^
 ||subdo.torrentrapid.com^
 ||subdo.tumejortorrent.com^
 ||sunmedia.tv^
 ||redemw.com^
 ||grupoemidia.com.br^
 ||tckn-code.com^
-||m-aeti-bocieva.info^
-||s7kkpeo6e2.com^
 ||zona1.at.ua^
-||hitopadxdo.xyz^
 ||adw.sapo.pt^
-||dozcpc.com^
 ||midan.io^
-||myownads.space^
 ||lojapremio.com.br^
-||comandosfilmes.org^
 ||adsnetworkbr.ml^
-||regiobuscador.com^
 ||sworatio.co^
 ||waycash.net^
 ||actualtrade.eu^
@@ -31782,7 +31783,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||box.zap.com.br^
 ||buxim.com^
 ||cliquemidia.com^
-||codigobarras.net^
 ||contadorgratis.web-kit.org^
 ||controlsgc.prisacom.com^
 ||coolmobile.es^
@@ -31826,9 +31826,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||spublicidad.net^
 ||swi-adserver.com^
 ||templates.buscape.com^
-||tiozao.net^
 ||tracking.fsjmp.com^
-||tutonovip.com^
 ||ver-pelis.net^
 ||xclk-integracion.com^
 ||yestorrents.org^
@@ -35493,7 +35491,6 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ://r.reklam*.com^
 ://say.ac^
-||0638.info^
 ||1686607364.rsc.cdn77.org^
 ||aadserving.com^
 ||acxdyn.com^
@@ -35533,6 +35530,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adrequests.com^
 ||adrttt.com^
 ||ads.dogusdigital.com^
+||ads.usa-media.net^
 ||ads.web.tr^
 ||adsblok.com^
 ||adserver.tutkusunucu.com^
@@ -35543,22 +35541,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adzbaba.com^
 ||affiliateserver.hangikredi.com^
 ||afyonturkreklam.com^
-||albet400.com^
 ||api.adintext.net^
 ||api.adnsafe.org^
 ||app.gelirartisi.com^
-||areabet.net^
 ||ariyayin.com^
 ||artemisaffiliates.com^
 ||asdqweq.com^
 ||aspartos.com^
-||axbet20.com^
-||axbetb.com^
-||axbetb2.com^
 ||ayandns.com^
-||b6roqgi.com^
 ||bahisciler.co^
-||bambar.net^
 ||basvformu*.xyz^
 ||bcvc.mobi^
 ||bcvcrdr.xyz^
@@ -35566,23 +35557,19 @@ charlestownwyllie.oaklawnnonantum.com^
 ||betendads.com^
 ||betkanyon100.com^
 ||betwinnerpromo.com^
-||betzeplinreklam.com^
 ||bformu12.tk^
 ||bilink.xyz^
 ||binaryad.com^
 ||bo.facesbet.com^
-||bornobid.com^
 ||bultenler.klscdn.com^
 ||bumbook.xyz^
 ||buzzreklam.com^
 ||bwcdn.xyz^
 ||bwtsrv.com^
-||caliskankoylu.com^
 ||cdn.klasseo.com^
 ||cdn.marjmedya.com^
 ||cdn.smartclick.io^
 ||cdn.sportlabs.online^
-||cdnmerkezi.ninja^
 ||chaicdn.tk^
 ||citireklam.com^
 ||clickmerkez.com^
@@ -35593,7 +35580,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d1d8vn0fpluuz7.cloudfront.net^
 ||dogus-ads-cdn.dygdigital.com^
 ||dolarkurum.com^
-||dollarkurum.com^
 ||downads.com^
 ||erotiksfilmizle.com^
 ||files.pbgiris.com^
@@ -35607,14 +35593,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gndrglsn.com^
 ||gorselcdn.com^
 ||gorselpanel.com^
-||hev2ev.com^
-||hizlipop.com^
 ||htpanel.com^
-||hyprshr.com^
-||ifddigital.com^
 ||indirads.org^
 ||indirads.work^
-||indirdirek.org^
 ||inegolreklam.net^
 ||inrool.com^
 ||insankafa.cc^
@@ -35623,13 +35604,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||installads2.com^
 ||ivr.com.tr^
 ||iyisayfa.net^
-||jeoldkhy.com^
 ||jigolobasvuru.xyz^
 ||kalitereklam.com^
 ||knkyeterla.cc^
 ||kos.interseek.si^
 ||kralseo.info^
-||krmwbimfpndwui.top^
 ||kurulum.xyz^
 ||kuzeyinyeri.site^
 ||launchingonsetwhirlwind.com^
@@ -35640,28 +35619,22 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mkazanc.com^
 ||mobilpop.com^
 ||mobilup.com^
-||mobilure.com^
 ||mp.subservis.com^
 ||n69adserv.com^
 ||nativendo.com^
-||noblemagnition.com^
 ||noxaffiliates.com^
 ||numarapaneli.com^
 ||nutga.com^
 ||octffocdigiturk.cc^
-||oddsring555.com
-||parasino7.com^
 ||partner.superbahisaffiliates248.com^
 ||partners.betbooaffiliates.com^
 ||partnerx.bethub.io^
-||paykasasitesi.com^
 ||perabetads.com^
 ||performancenative.com^
 ||permato.com^
 ||piaads.com^
 ||pixenka.com^
 ||pmelon.com^
-||pornoizle-hd.com^
 ||pradma.com^
 ||promoviral.com^
 ||r20.club^
@@ -35677,7 +35650,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||reklamcdn.com^
 ||reklamfit.com^
 ||reklamnative.com^
-||reklamooz.com^
 ||reklampazar.com^
 ||reklampiksel.com^
 ||reklamstore.com^
@@ -35686,25 +35658,17 @@ charlestownwyllie.oaklawnnonantum.com^
 ||reviveservers.com^
 ||revotas.com^
 ||savoy.storage.cubecdn.net^
-||savoybettingcustomer.com^
 ||seldos.com.tr^
 ||sinefilmizlesen.com^
 ||slhgfdsir.com^
 ||smopy.com^
-||smrtbnr.club^
 ||smrtbnr.com^
 ||smrtbnr.info^
-||smrtbnr.net^
-||smrtbnr.org^
 ||smrtbnr.space^
 ||smrtbnr.top^
-||smrtbnr.xyz^
-||smrtcdn.club^
-||sohbetpaneli.xyz^
 ||static-ads.akamaized.net^
 ||stopblyat.tk^
 ||storj.cloud^
-||supertotobet736.com^
 ||sw1block.com^
 ||tagon.co^
 ||tarpitbar.com^
@@ -35714,19 +35678,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.redirect.pub^
 ||tracking.ucreate.live^
 ||trackocean.com^
-||tutkazan1.com^
 ||ucretsiz-indirin.online^
-||ukbet99.com^
-||usa-media.net^
 ||uzmanreklam.com^
 ||vegabet.net^
-||veracdn.xyz^
 ||videoustu.com^
 ||vitrinler3.com^
 ||vvhatsappsohbetim.site^
 ||vxhrhnvtucv.com^
 ||whatsapp-chat.xyz^
-||whatsappsohbetet.com^
 ||whatsappsohbetim.net^
 ||winaffiliates.com^
 ||wonoddgiris.com^
@@ -36179,6 +36138,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||cul.xunjiu.online^
 ||tp4sul.jwzd.com.cn^
 ||yinyouapp.com^
 ||adbottw.net^
@@ -41592,11 +41552,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||paohao.com^
 ||cggf.xyz^
 ||sinimb.top^
+||mmhwxofnea.com^
 ||swml.xyz^
 ||kxla.xyz^
 ||520myjj.xyz^
 ||ixnrmco.com^
 ||4kddyfd.cn^
+||ys9mw1u.cn^
+||kadkaxjfeh.com^
+||ayunzhizuo.ltd^
+||jiaxue.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
