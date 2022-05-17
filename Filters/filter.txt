@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-05-17T06:01:22.785Z
+! Last modified: 2022-05-17T12:01:33.106Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2494,10 +2494,6 @@
 ||bannery.navratdoreality.cz^
 ||report.seznamzpravy.cz^
 ||crystal-ad.ge^
-!---------------------------------------------------------------------
-!------------------------------ Hungarian ----------------------------
-!---------------------------------------------------------------------
-!
 ! https://github.com/AdguardTeam/AdguardFilters/issues/114260
 ||head-clickfusion.com^
 ||headerbidding.services^
@@ -26438,6 +26434,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||pix.boursorama.com^
 ||wa.mail.com^
 ||wa.gmx.
 ||sfp.safe.baidu.com^
@@ -28825,6 +28822,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||briskpelican.io^
 ||brontops.com^
 ||bydst.com^
+||ccm19.de^
 ||click360.io^
 ||cloudwp.io^
 ||cybba.solutions^
@@ -30801,6 +30799,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
 ||tracker.mrpfd.com^
+||tracker.ssl0d.com^
 ||tracker.timesgroup.com^
 ||tracker.twenga.
 ||tracker.wigzopush.com^
@@ -41612,6 +41611,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yungetongxun.xyz^
 ||ikjocef.cn^
 ||xgsx.club^
+||cloudroad.shop^
 ||swml.xyz^
 ||kxla.xyz^
 ||520myjj.xyz^
