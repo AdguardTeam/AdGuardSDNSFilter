@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-05-19T00:02:38.374Z
+! Last modified: 2022-05-19T06:01:27.196Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3402,6 +3402,7 @@ vkcdnservice.appspot.com^
 ||acloudvideos.com^
 ||acnqlsmfxf.xyz^
 ||acofrnsr44es3954b.com^
+||acquawes.xyz^
 ||acquirethem.com^
 ||acresupervision.com^
 ||acrhuqzewrius.com^
@@ -30049,6 +30050,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fangfeeling.com^
 ||fastenfather.com^
 ||fifthborder.com^
+||flowerstreatment.com^
 ||frailfruit.com^
 ||frantictrail.com^
 ||fronttoad.com^
@@ -30364,6 +30366,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
 ||collect.*.miui.com^
+||collect.cloudsponge.com^
 ||collect.iteam-dress.com^
 ||collect.rewardstyle.com^
 ||collector-*.px-client.net^
@@ -30428,6 +30431,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
+||ea.youmaker.com^
 ||ec.walkme.com^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
@@ -38420,6 +38424,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||eylqbeu.cn^
+||19719197.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -41627,6 +41632,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qgbtd.com^
 ||zqg315a.cn^
 ||xpizjd4.cn^
+||v3hu9iu.cn^
+||mynwct.xyz^
+||yjsituation.com^
+||n8kt7gf.cn^
+||lgl.ink^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
