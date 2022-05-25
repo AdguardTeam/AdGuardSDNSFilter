@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-05-25T00:02:23.182Z
+! Last modified: 2022-05-25T06:01:08.617Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21067,6 +21067,7 @@ vkcdnservice.appspot.com^
 ||rotabanner.kulichki.net^
 ||rotator.tradetracker.net^
 ||rubylife.go2cloud.org^
+||s.0cf.io^
 ||saambaa.com^
 ||sbhc.portalhc.com^
 ||secure.money.com^
@@ -28982,6 +28983,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Non-flagged (Generic blocks)
 ||2022welcome.com^
+||31daa5lnq.de^
 ||520886.xyz^
 ||8672.site^
 ||acsbapp.com^
@@ -28997,6 +28999,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ayc0zsm69431gfebd.xyz^
 ||azury.gg^
 ||bonne-terre-data-layer.com^
+||bqstreamer.com^
 ||briskeagle.io^
 ||briskpelican.io^
 ||brontops.com^
@@ -29059,6 +29062,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||innerskinresearch.com^
 ||instantfox.co^
 ||irs01.com^
+||jcpclick.com^
 ||k5a.io^
 ||ldnlyap.com^
 ||leadhit.io^
@@ -29823,6 +29827,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||volument.com^
 ||vprza.com^
 ||walmeric.com^
+||wazimo.com^
 ||wbdx.fr^
 ||wdfl.co^
 ||wdsvc.net^
@@ -30453,6 +30458,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.witglobal.net^
 ||analytics.worldtable.co^
 ||analytics.yext-static.com^
+||analytics.ynap.biz^
 ||analytics.yola.net^
 ||analytics.yolacdn.net^
 ||analytics.ziftsolutions.com^
@@ -30610,6 +30616,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
 ||eel.transistor.fm^
+||ele26126.jscrambler.com^
 ||errors.snackly.co^
 ||event-api.contactatonce.co.uk^
 ||event-api.contactatonce.com.au^
@@ -31146,6 +31153,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d3sbxpiag177w8.cloudfront.net^
 ||d3tglifpd8whs6.cloudfront.net^
 ||d3uvwl4wtkgzo1.cloudfront.net^
+||d761erxl2qywg.cloudfront.net^
 ||dbv0r7a702yve.cloudfront.net^
 ||dc8na2hxrj29i.cloudfront.net^
 ||ddrvjrfwnij7n.cloudfront.net^
@@ -31168,6 +31176,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dzbrr144kh0m6.cloudfront.net^
 ! taboola
 ||urc.taboolasyndication.com^
+! Fingerprinting
+||ascpqnj-oam.global.ssl.fastly.net^
 ||fyrsbckgi-c.global.ssl.fastly.net^
 ||mjca-yijws.global.ssl.fastly.net^
 ||ref.dealerinspire.com^
@@ -38558,6 +38568,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
+||670360.com^
 ||008844.cc^
 ||00xvppy.cn^
 ||01fen.com^
@@ -41787,6 +41798,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||325szdv.cn^
 ||shzuggo.cn^
 ||etrckeh.cn^
+||yidulu.cn^
+||jwdhoxw.cn^
+||ngwadzu.cn^
+||rqwnzbx.cn^
+||papbp.com^
+||hongbao456.ink^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
