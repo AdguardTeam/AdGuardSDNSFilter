@@ -1,5 +1,8 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/114908
 @@||torimochi.line-apps.com^|
+! Fixing crazyegg.com login page
+@@|core.crazyegg.com^|
+@@|app.crazyegg.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/937
 @@||oa.tr.line.me^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/115247
