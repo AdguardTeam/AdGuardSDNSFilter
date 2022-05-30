@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-05-30T00:03:10.878Z
+! Last modified: 2022-05-30T06:01:12.273Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -38725,7 +38725,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||tf111.xyz^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40347,6 +40346,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tencent.xn--io0a7i^
 ||tequanma.com^
 ||teresacd.cn^
+||tf111.xyz^
 ||tfw73.online^
 ||th-make.com^
 ||th21333.com^
@@ -41971,12 +41971,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||rhufmpa.cn^
-||eiyxjls.cn^
-||getibih.cn^
-||h5634t.site^
-||kzhtgnv.cn^
-||vyrhxfi.cn^
+||woka.cc^
+||hemkwnz.cn^
+||huoyun.site^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -43134,6 +43131,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eguo.info^
 ||eiasia.ltd^
 ||eidsign.com.cn^
+||eiyxjls.cn^
 ||ejd3q.life^
 ||ejghw.cn^
 ||ejnjapw.cn^
@@ -43362,6 +43360,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||geoidd.vip^
 ||geomon.top^
 ||geoparker.net^
+||getibih.cn^
 ||getsgroup.cn^
 ||gflcsiot.com^
 ||gfncg.cn^
@@ -43483,6 +43482,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||h08.xyz^
 ||h45pmx1.cn^
 ||h4kdxs.com^
+||h5634t.site^
 ||h728.cn^
 ||habkjav.cn^
 ||habtcng.cn^
@@ -44243,6 +44243,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kyqbifz.cn^
 ||kyvhxik.cn^
 ||kyxnz.cn^
+||kzhtgnv.cn^
 ||kzzs.shop^
 ||l4elb.cn^
 ||l570mb.cn^
@@ -45134,6 +45135,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rgks.net^
 ||rgt0hv5.cn^
 ||rh447.cn^
+||rhufmpa.cn^
 ||rhxshop.com^
 ||riccol.cn^
 ||richman100.ltd^
@@ -45789,6 +45791,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vvsbt.cn^
 ||vwb4p.cn^
 ||vxjvcwc.cn^
+||vyrhxfi.cn^
 ||vytxocb.cn^
 ||vzovmzc.cn^
 ||w25e.top^
