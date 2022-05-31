@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-05-30T18:01:05.981Z
+! Last modified: 2022-05-31T00:02:43.360Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -38763,9 +38763,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||bibotsays.com^
-||kyizzs.com^
-||ayhjukc.cn^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -39143,6 +39140,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||avtiaozhuan.com^
 ||aw21.top^
 ||ax21pics.org^
+||ayhjukc.cn^
 ||aztsefz.cn^
 ||azttxs.com^
 ||b588866.com^
@@ -39181,6 +39179,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||biandaosheng.com^
 ||biaoshipai.net^
 ||bibilm.com^
+||bibotsays.com^
 ||bigbrainker.top^
 ||bihaipack.com^
 ||billionfocus.com^
@@ -39891,6 +39890,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kuxinqi.com^
 ||kwntistyuogo.com^
 ||kxrxh.com^
+||kyizzs.com^
 ||kyouad.com^
 ||kyqcfj.com^
 ||kzxsrxf.cn^
@@ -42012,13 +42012,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||woka.cc^
-||hemkwnz.cn^
-||huoyun.site^
-||aabelle.com^
-||miaoche.cc^
-||huahuagoudc.com^
-||aioty.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -42271,6 +42264,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aa.wenxue6.com^
 ||aaan.xyz^
 ||aaaw.xyz^
+||aabelle.com^
 ||aau6.xyz^
 ||aau8.xyz^
 ||aau9.xyz^
@@ -42341,6 +42335,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aimer.love^
 ||aimiyz.com^
 ||aimto.cn^
+||aioty.cn^
 ||aiptu.cn^
 ||aitehao.top^
 ||aixuyoupin.cn^
@@ -43619,6 +43614,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||helloc.xyz^
 ||helpbeatlestribute.com^
 ||helpinfo.cn^
+||hemkwnz.cn^
 ||henanlinyu.cn^
 ||henduoqian.com^
 ||hengyisoft.vip^
@@ -43754,6 +43750,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hton.ren^
 ||htsj.vip^
 ||htvxjl.top^
+||huahuagoudc.com^
 ||huaisq.com^
 ||hualongyichuangkj.com^
 ||huangyeqing.cn^
@@ -43793,6 +43790,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||huojukk.com^
 ||huojutt.com^
 ||huosai.net.cn^
+||huoyun.site^
 ||hupneyv.cn^
 ||hushenqiquan.com^
 ||huyc.info^
@@ -44586,6 +44584,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mhi9da.cn^
 ||mhqx.store^
 ||mhtky.cn^
+||miaoche.cc^
 ||miaoyuan.work^
 ||micreative-china.cn^
 ||midenterprise.com^
@@ -45974,6 +45973,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wo1990.com^
 ||woaiseo.com.cn^
 ||wojv.club^
+||woka.cc^
 ||wokekk.com^
 ||wongds.top^
 ||woniu1314520.vip^
