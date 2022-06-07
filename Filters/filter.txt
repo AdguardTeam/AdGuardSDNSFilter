@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-06-07T06:01:16.614Z
+! Last modified: 2022-06-07T12:05:40.757Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32242,6 +32242,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||x9.shinobi.jp^
 ||xr.shinobi.jp^
 ||zucks.net.zimg.jp^
+||log.mofa.go.kr^
 ||megadata.co.kr^
 ||mtag.mman.kr^
 ||ngc1.nsm-corp.com^
@@ -39021,6 +39022,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||souyou.org^
 ||adtbcs.cn^
 ||apohki.cn^
+||xuebim.top^
 ||taoquan365.net^
 ||00-gov.cn^
 ||000123456789.site^
@@ -42289,6 +42291,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||dmcqs.club^
+||cuxiao.site^
+||macgigo.cn^
+||cb24g.site^
 ||zhw949.ltd^
 ||zxycxk.love^
 ||fsgsfaf6.com^
