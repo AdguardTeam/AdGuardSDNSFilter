@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-06-08T00:02:24.919Z
+! Last modified: 2022-06-08T06:01:19.900Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21665,6 +21665,7 @@ vkcdnservice.appspot.com^
 ||d3em0905j9y6sm.cloudfront.net^
 ||d3f1wcxz2rdrik.cloudfront.net^
 ||d3f4nuq5dskrej.cloudfront.net^
+||d3fkv551xkjrmm.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
 ||d3hitamb7drqut.cloudfront.net^
 ||d3hj4iyx6t1waz.cloudfront.net^
@@ -30591,6 +30592,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||calendarrate.com^
 ||carefuldolls.com^
 ||childlikecook.com^
+||chingovernment.com^
 ||circlelevel.com^
 ||clammytree.com^
 ||closedcows.com^
@@ -39040,6 +39042,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||9869936.com^
+||yangshengzu.cn^
+||jb2v9sv.shop^
+||qopeqi13913fjajba123nfd1344.top^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -42323,6 +42328,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fjyc.pw^
 ||gouqi.asia^
 ||xingyou69.asia^
+||qiaofu.shop^
+||zli.wang^
+||bestnfd.com^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
