@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-06-08T08:23:02.173Z
+! Last modified: 2022-06-08T08:56:40.071Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31993,7 +31993,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||contadordevisitas.es^
 ||contadorvisitasgratis.com^
 ||delidatax.net^
-||easysol.net^
 ||flags.es^
 ||mabaya.com^
 ! Swedish
@@ -32459,6 +32458,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||contadorgratis.web-kit.org^
 ||controlsgc.prisacom.com^
 ||coolmobile.es^
+||detectca.easysol.net^
 ||direcionando.baixedetudo.net^
 ||diximedia.es^
 ||epartner.es^
@@ -32518,6 +32518,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||mxzijg.com^
 ||jelfmtsr5i.ru^
 ||dibjaahejdaeejhhaacd.ru^
 ||fquqhe.com^
