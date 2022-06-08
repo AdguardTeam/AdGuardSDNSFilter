@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-06-08T08:56:40.071Z
+! Last modified: 2022-06-08T12:01:22.802Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3470,6 +3470,7 @@ vkcdnservice.appspot.com^
 ||achievablecpmrevenue.com^
 ||achievehardboiledheap.com^
 ||achingmercury.com^
+||achunogo.com^
 ||achyrepeatitchy.com^
 ||acidlikenessdejected.com^
 ||acinuf.com^
@@ -5387,6 +5388,7 @@ vkcdnservice.appspot.com^
 ||bokrelri.com^
 ||boldtur.xyz^
 ||bollroaches.com^
+||bolofoak.net^
 ||bolrookr.com^
 ||bolssc.com^
 ||bomudicy.com^
@@ -17387,6 +17389,7 @@ vkcdnservice.appspot.com^
 ||tljivh.com^
 ||tlngnashes.com^
 ||tlootas.org^
+||tlprxzujk.com^
 ||tlsessfomrq.com^
 ||tluumnjyrc.com^
 ||tmdn2015x9.com^
@@ -19351,6 +19354,7 @@ vkcdnservice.appspot.com^
 ||yawcoynag.com^
 ||yawnspuker.com^
 ||yazcash.com^
+||ybnggmnaxu.com^
 ||ycbetnqpnjwptu.com^
 ||yceml.net^
 ||yckussysvawiu.xyz^
@@ -31654,6 +31658,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hstrck.com^
 ||htm1.ch^
 ||ingenioustech.biz^
+||lokalleads-cci.com^
 ||mairdumont.com^
 ||md-nx.com^
 ||mps-gba.de^
@@ -32518,6 +32523,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||ouvyil.com^
+||stcvhf.com^
 ||mxzijg.com^
 ||jelfmtsr5i.ru^
 ||dibjaahejdaeejhhaacd.ru^
@@ -32542,7 +32549,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hdbcome.com^
 ||major-inpp-code.com^
 ||lenta.sparrow.ru^
-||stcvhf.com^
 ||xpuqrn.com^
 ||pmi1yarhxx.com^
 ||ztvzfq.com^
