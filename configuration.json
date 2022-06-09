@@ -209,6 +209,13 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "AdblockID adservers",
+      "source": "https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
       "name": "hostsVN ad servers",
       "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt",
       "type": "adblock",
