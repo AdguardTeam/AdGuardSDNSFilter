@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-06-09T18:01:10.015Z
+! Last modified: 2022-06-10T00:02:15.089Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36528,6 +36528,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||diseno.librogratis.info^
 ||best-lucky-cat.xyz^
 ||geotg.jp^
 ||adnwif.smt.docomo.ne.jp^
@@ -39093,14 +39094,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
-||666574.xyz^
-||dyzx6688.top^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
-||vue-js.cyou^
 ||01fen.com^
 ||022aifang.com^
 ||025613.com^
@@ -39286,6 +39284,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||643226.com^
 ||6438905.com^
 ||65tgh.com^
+||666574.xyz^
 ||666666666666.site^
 ||66996.top^
 ||66997.top^
@@ -39745,6 +39744,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dyssir.com^
 ||dyx0878.cn^
 ||dyxsmj.net^
+||dyzx6688.top^
 ||dzjzg.com^
 ||dzletao.com^
 ||dzxwnews.com^
@@ -40865,6 +40865,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||voocl.com^
 ||vt863.cn^
 ||vtfwgfo.cn^
+||vue-js.cyou^
 ||vxsnk.com^
 ||vyjhr.cn^
 ||w65p.com^
@@ -41568,7 +41569,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
-||cpro.zol.com.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -41895,6 +41895,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cp.qbaobei.com^
 ||cpro.bdrmb.cn^
 ||cpro.xixiliya.cn^
+||cpro.zol.com.cn^
 ||crayon.meishichina.com^
 ||cspb1.5w5w.com^
 ||css.juqingba.cn^
@@ -42379,13 +42380,17 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||haitaochen.xyz^
+||zhuomengwangluo.com^
+||yue78.online^
+||chenhao.name^
+||guoyu.link^
+||princesses.asia^
+||uniworldgroup.asia^
+||tianyao.site^
 ||edetlmb.cn^
 ||gzww.site^
-||uniworldgroup.asia^
-||guoyu.link^
-||chenhao.name^
-||princesses.asia^
-||haitaochen.xyz^
+||hdw0.top^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
