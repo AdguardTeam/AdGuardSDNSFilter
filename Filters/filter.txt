@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-06-10T18:01:26.761Z
+! Last modified: 2022-06-11T00:02:15.213Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -29512,6 +29512,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fastfinch.co^
 ||fastgull.io^
 ||fasttiger.io^
+||fleraprt.com^
 ||fn-pz.com^
 ||fpaux.net^
 ||fpavx.net^
@@ -30991,6 +30992,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beacon.thred.woven.com^
 ||beacon.viewlift.com^
 ||beam.mjhlifesciences.com^
+||bee.tc.easebar.com^
 ||bento.agoda.com^
 ||bi.medscape.com^
 ||bmrg.reflected.net^
@@ -31414,6 +31416,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sunlightmetrics.b-cdn.net^
 ||survey.interquest.com^
 ||surveywall-api.survata.com^
+||sv.aq.qq.com^
 ||sync.outbrain.com^
 ||systemmonitoring.badgeville.com^
 ||t-staging.powerreviews.com^
@@ -31455,6 +31458,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||telemetry.reembed.com^
 ||telemetry.tableausoftware.com^
 ||timber.sendtonews.com^
+||timejs.game.163.com^
 ||tm.vendemore.com^
 ||tms.fmm.io^
 ||tr-op.datatrics.com^
@@ -39240,6 +39244,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 ||jrhbhz.com^
+||opuik.com^
 ||awsxc.live^
 ||jtrgzj9.com^
 ||666576.xyz^
@@ -42524,9 +42529,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||gguuu.top^
 ||jianjianjiao.top^
 ||lwxqaq.club^
 ||haitaochen.xyz^
+||zhflodsix.cn^
+||666video.asia^
+||toutao.pro^
 ||a19cd.xyz^
 ||zhuomengwangluo.com^
 ||yue78.online^
@@ -42534,8 +42543,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||guoyu.link^
 ||princesses.asia^
 ||uniworldgroup.asia^
+||aak7.cn^
 ||merrrrrry.top^
 ||yping.online^
+||defenga.top^
+||jiedaibao.gs^
 ||myuosid.cn^
 ||tianyao.site^
 ||edetlmb.cn^
