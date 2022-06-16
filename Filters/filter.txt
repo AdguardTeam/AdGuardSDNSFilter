@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-06-16T00:02:33.841Z
+! Last modified: 2022-06-16T06:01:16.813Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16388,8 +16388,8 @@ vkcdnservice.appspot.com^
 ||sinatrakohens.com^
 ||sinaunrelean.info^
 ||sinceclairvoyant.com^
-||singerrespectfuljerk.com^
 ||sincerelyinnovationturner.com^
+||singerrespectfuljerk.com^
 ||singlerefresh.club^
 ||sinkboxphantic.com^
 ||sinkdeputyjudicious.com^
@@ -30851,6 +30851,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||calendarrate.com^
 ||carefuldolls.com^
 ||childlikecook.com^
+||childlikecrowd.com^
 ||chingovernment.com^
 ||circlelevel.com^
 ||clammytree.com^
@@ -39417,6 +39418,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bob4994.com^
 ||kkuuu.top^
 ||tangkai.ltd^
+||ijswq.com^
+||zhuomengwangluo.cn^
 ||zygkzytb.cn^
 ||kvkaa.com^
 ||kzeaa.com^
@@ -39464,9 +39467,43 @@ charlestownwyllie.oaklawnnonantum.com^
 ||u0057.com^
 ||u0065.com^
 ||u0071.com^
+||alimama.alicdn.com^
+||baiducom.bj.bcebos.com^
+||darren01.oss-cn-beijing.aliyuncs.com^
+||first-hufu.oss-cn-shanghai.aliyuncs.com^
+||foreveryoung.gz01.bdysite.com^
+||lu.sogou.com^
+||lu.sogoucdn.com^
 ||huazitupian.oss-cn-hongkong.aliyuncs.com^
 ||qwe0231141.bj.bcebos.com^
+||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
+||mgtv-bbqn.oss-cn-beijing.aliyuncs.com^
+||tttppp.oss-cn-guangzhou.aliyuncs.com^
+||ubmcvideo.baidustatic.com^
+||video231.oss-cn-beijing.aliyuncs.com^
+||7xi9g1.com1.z0.glb.clouddn.com^
+||a.youdao.com^
+||adrs.sdo.com^
+||ads.uc.cn^
+||aixuntupian.oss-cn-hongkong.aliyuncs.com^
+||cb.baidu.com^
+||cbjs.baidu.com^
+||cpro.baidustatic.com^
+||drmcmm.baidu.com^
+||duiwai.baidu.com^
+||eduad.baidu.com^
+||eiv.baidu.com^
+||farm-cn.plista.com^
+||g1.tagtic.cn^
+||gg.miued.com^
+||hiad.myweb.hinet.net^
+||re.taotaosou.com^
+||show.kc.taotaosou.com^
+||spcode.baidu.com^
+||static-cn.plista.com^
+||tad.suning.com^
+||ys2000.cdn.bcebos.com^
 ||3336672.com^
 ||3337729.com^
 ||3337751.com^
@@ -39530,7 +39567,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||3337735.com^
 ||3337736.com^
 ||3337780.com^
-||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||dietfd.com^
 ||qhdfxkj.com^
 ||qyqc4s.com^
@@ -39677,7 +39713,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||38taobao.com^
 ||397773.com^
 ||3c3c3.com^
-||3g.990.net^
 ||3gustis.xyz^
 ||3lga3.cn^
 ||3qsys.com^
@@ -39767,7 +39802,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||7gustis.xyz^
 ||7krvbn.com^
 ||7wen.cn^
-||7xi9g1.com1.z0.glb.clouddn.com^
 ||80sjw.com^
 ||810251.com^
 ||812633.com^
@@ -39825,7 +39859,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||9nwg9sib9e.com^
 ||9wlm.com^
 ||9wotuan.com^
-||a.youdao.com^
 ||a0b11.com^
 ||a0b22.com^
 ||a0b33.com^
@@ -39851,8 +39884,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adomv.com^
 ||adorazanna.com^
 ||adreal.cn^
-||adrs.sdo.com^
-||ads.uc.cn^
 ||adtbcs.cn^
 ||adx01.com^
 ||aeoprw.cn^
@@ -39880,7 +39911,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aijielang.cn^
 ||ailehui9149.com^
 ||aishangcan.com^
-||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||ajaxcdn.org^
 ||ajwssds.com^
 ||akmh001.vip^
@@ -39890,7 +39920,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||alexandraeden.com^
 ||alifixed.cn^
 ||alightin.com^
-||alimama.alicdn.com^
 ||alimb.top^
 ||alimc1.top^
 ||alisinak.com^
@@ -39930,7 +39959,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||baiapk.com^
 ||baidu-image-qqcom.com^
 ||baiduace.com^
-||baiducom.bj.bcebos.com^
 ||baidujavascript.com^
 ||baidulao.com^
 ||baidutuapi.com^
@@ -40012,9 +40040,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||captivias.site^
 ||carolinebeverly.com^
 ||catherinebeverly.com^
-||cb.baidu.com^
 ||cbhif.com^
-||cbjs.baidu.com^
 ||cc599.com^
 ||cccccd.com^
 ||cchvc.net^
@@ -40066,7 +40092,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cnpinzhuo.com^
 ||cnscdj.com^
 ||cnxad.net^
-||cnzz.com.so^
 ||code222.com^
 ||code668.com^
 ||coinever.net^
@@ -40074,7 +40099,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||coolbook.cc^
 ||coolfenxi.com^
 ||cppoc.com^
-||cpro.baidustatic.com^
 ||cpv6.com^
 ||cqdzjc.com^
 ||cqfangduan.com^
@@ -40125,7 +40149,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dami66.cn^
 ||damumu.xyz^
 ||daochengwowo.top^
-||darren01.oss-cn-beijing.aliyuncs.com^
 ||darwk.com^
 ||dashaowu.com^
 ||dashet.com^
@@ -40172,14 +40195,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dragoncent.com^
 ||dreamfull.cn^
 ||drebz4f.shop^
-||drmcmm.baidu.com^
 ||drmfslx.cn^
 ||dslenggui.com^
 ||dspxxy.com^
 ||dsqzk.cn^
 ||dszan.com^
 ||dt243100.com^
-||duiwai.baidu.com^
 ||duojlm.com^
 ||duoquyouhui.cn^
 ||dushiken.cn^
@@ -40212,9 +40233,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ecuc123.net^
 ||edenhermosa.com^
 ||edo5.com^
-||eduad.baidu.com^
 ||eduzzjy.com^
-||eiv.baidu.com^
 ||ejktj.com^
 ||ellenhilary.com^
 ||elsiehoney.com^
@@ -40240,7 +40259,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fanfanhuiben.com^
 ||fanli.in^
 ||fanwoyang.com^
-||farm-cn.plista.com^
 ||favourablequickdelve.com^
 ||fcheng.top^
 ||fd7c.com^
@@ -40251,7 +40269,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fensifuligo.com^
 ||fexiaen.com^
 ||fg-z.com^
-||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||fisher56.com^
 ||fjctlnn.top^
 ||fjdy.cc^
@@ -40262,7 +40279,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fnkjj.com^
 ||focusonus.top^
 ||forever-k.com.cn^
-||foreveryoung.gz01.bdysite.com^
 ||forrerri.com^
 ||fpvdxd5.com^
 ||fqtra.com^
@@ -40283,7 +40299,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fzbymy.com^
 ||fzdeng.com^
 ||fzglqyy.com^
-||g1.tagtic.cn^
 ||g1c5.com^
 ||g1f5.com^
 ||gaobata.com^
@@ -40301,7 +40316,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gezkdx7.com^
 ||gfd80.com^
 ||gfshfg.com^
-||gg.miued.com^
 ||gg570.com^
 ||ggdydz.com^
 ||ggweb.net^
@@ -40411,7 +40425,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hflwgg.xyz^
 ||hfoyjg.cn^
 ||hi760.com^
-||hiad.myweb.hinet.net^
 ||hikin.online^
 ||hivecn.cn^
 ||hjqsyyy.com^
@@ -40623,7 +40636,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||juuhe.com^
 ||juvbzle.cn^
 ||juyiqiche.com.cn^
-||jwl.hk.cn^
 ||jx118114.net^
 ||jxjzny.com^
 ||jxlqgs.com^
@@ -40761,7 +40773,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lm885.com^
 ||lm995.com^
 ||loclog.cn^
-||log.interest.mix.sina.com.cn^
 ||logoduoduo.com^
 ||longbaojiachen.top^
 ||longchengtg.com^
@@ -40773,8 +40784,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lsaeb.com^
 ||lsxmg.com^
 ||ltcprtc.com^
-||lu.sogou.com^
-||lu.sogoucdn.com^
 ||luassane.cn^
 ||luoyuanedu.cn^
 ||lvt1980.cn^
@@ -40811,7 +40820,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metmt.com^
 ||metro114.com^
 ||mezhai.net^
-||mgtv-bbqn.oss-cn-beijing.aliyuncs.com^
 ||miaolejieshui.cn^
 ||michael31lin.com^
 ||michaelianice.com^
@@ -40881,7 +40889,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nmpcdn.com^
 ||nmqbg.com^
 ||nnocsin.cn^
-||notice.uchome.manyou.com^
 ||npftmqv.cn^
 ||nphqw.cn^
 ||nr1234.com^
@@ -41004,7 +41011,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rdance.cn^
 ||rdlbkvo.cn^
 ||rdsvsh.com^
-||re.taotaosou.com^
 ||rebdy.com^
 ||reendian.cn^
 ||reliancevalve.com^
@@ -41081,7 +41087,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shixiaofei864.cn^
 ||shouwangba.cn^
 ||shouyouyou.com^
-||show.kc.taotaosou.com^
 ||shuake.ink^
 ||shuangshiyihightgo.top^
 ||shucaihangjia.com^
@@ -41119,7 +41124,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||soulplp.com^
 ||souyou.org^
 ||sparkyinchun.com^
-||spcode.baidu.com^
 ||sportsdream.top^
 ||spxnet.com^
 ||sq85.press^
@@ -41127,7 +41131,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sqyueda.com^
 ||srgwxvm.cn^
 ||ssdaili.com^
-||static-cn.plista.com^
 ||stgowan.com^
 ||stkexcy.cn^
 ||stn88.com^
@@ -41173,7 +41176,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t415n.cn^
 ||t58b.com^
 ||t70123.com^
-||tad.suning.com^
 ||tangyaols.com^
 ||taoguanda.com^
 ||taohanpai.com^
@@ -41229,7 +41231,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tsdlp.com^
 ||ttahsdu.top^
 ||ttayy.cn^
-||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||ttzhongbao.com^
 ||tuifish.com^
 ||tujzac.com^
@@ -41259,7 +41260,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tz88.store^
 ||tzxmhi.com^
 ||u-q.net.cn^
-||u.huoying666.com^
 ||u0056.com^
 ||u0067.com^
 ||u1n6ok.cn^
@@ -41267,7 +41267,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||uadsaa.com^
 ||ubalh.com^
 ||uballcc.com^
-||ubmcvideo.baidustatic.com^
 ||uc610.com^
 ||ucv3kq.com^
 ||ucxgg.com^
@@ -41301,7 +41300,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||verycleaner.cn^
 ||vhpxa.top^
 ||victorjx.com^
-||video231.oss-cn-beijing.aliyuncs.com^
 ||vmjjzk.cn^
 ||vnnv777.cn^
 ||vns3359.com^
@@ -41560,7 +41558,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yqhlty.com^
 ||yqw88.com^
 ||yrehdfer.com^
-||ys2000.cdn.bcebos.com^
 ||ysgsq.cn^
 ||ysjkbk.com^
 ||ysjwj.com^
@@ -42769,6 +42766,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||cnpask.com^
 ||jhrtgt.site^
 ||hellohang.love^
 ||hhppy.top^
@@ -42793,6 +42791,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tokay.pro^
 ||yyyyt.ltd^
 ||zhongmeigk.hk^
+||qskj.club^
 ||tianyuexing.run^
 ||ruslx.top^
 ||qoepkc.top^
@@ -42818,6 +42817,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhflodsix.cn^
 ||zhuomengwangluo.com^
 ||zwgege.cn^
+||ecmeilin.xyz^
+||prtgurh.cn^
+||g-day.design^
 ||nuqqcgb.cn^
 ||aa9q.cn^
 ||jzpx.ltd^
@@ -42849,8 +42851,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vz1m.com^
 ||bestnfq.com^
 ||kongbao.ren^
+||zhihuinongye.biz^
 ||52xs.live^
 ||whzshoes.com^
+||duihuan8.wang^
 ||cojwnb.com^
 ||hdw0.top^
 ||hpkqtd.com^
@@ -43772,7 +43776,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ddwant.cn^
 ||deskt.cn^
 ||desky.xyz^
-||destinyfree.hk^
 ||dewalt-sales.com^
 ||deya.ink^
 ||deyidesign.com^
@@ -43976,7 +43979,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ezqmrd9tl9.cn^
 ||f1t5pb.cn^
 ||f4082.cn^
-||f4hn9v.com^
 ||f8ij9.life^
 ||fafafa1.com^
 ||fajuer.xyz^
@@ -44586,7 +44588,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iodobo.xyz^
 ||ionia.pro^
 ||ioomb.cn^
-||iopreland.com^
 ||iprpe.cn^
 ||ipxjps.cn^
 ||iqn.world^
@@ -44619,7 +44620,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||j45.xyz^
 ||j46.xyz^
 ||j49.xyz^
-||j5sq8.com^
 ||j6zh4g0.cn^
 ||j84nvmd.cn^
 ||jacklm1.com^
@@ -45303,7 +45303,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mvlkvth.cn^
 ||mwbsvh.cn^
 ||mx98.xyz^
-||mxc87.org^
 ||mxhbkj.cn^
 ||mxxgs.cn^
 ||my2.life^
@@ -45704,7 +45703,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||r3sgtlt.cn^
 ||r3wd6.cn^
 ||r5rl5r.cn^
-||r890x3.com^
 ||raeqqe.cn^
 ||ranke.link^
 ||ranqibio.com^
@@ -45803,7 +45801,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rvpbdcf.cn^
 ||rylcbwg.cn^
 ||rzlib.net^
-||s28xvp.com^
 ||s4zqj3m.cn^
 ||sahara.work^
 ||sakuraquant.com^
@@ -45883,7 +45880,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shiguangyx.cn^
 ||shihualandun.cn^
 ||shilong.xyz^
-||shirleyyean.com^
 ||shiruru.cn^
 ||shishishiguixinfangfuzhuangshanghan.cn^
 ||shitao.xyz^
@@ -46000,7 +45996,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||svm6ryo.cn^
 ||svvbrkk.cn^
 ||svwsvn.top^
-||sw9t.ml^
 ||swaa.top^
 ||swml.xyz^
 ||swnptn.cn^
@@ -46215,10 +46210,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||u2c8.cn^
 ||u5274.cn^
 ||u8hexo5v.com^
-||u98ql6o.top^
 ||uater.cn^
 ||uaxyutpxh.xyz^
-||ubt573.org^
 ||ubxqerc.cn^
 ||uc4a.cn^
 ||udiy.club^
@@ -46339,7 +46332,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wangzibo.top^
 ||wansan66.top^
 ||wanshangyin.icu^
-||wantezy.cn^
 ||wanzikeji.com^
 ||watchhouse.cn^
 ||wayexiaofei.club^
@@ -46437,7 +46429,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||woquwaimai.vip^
 ||word168.cn^
 ||wordisgod.cn^
-||workbizs.com^
 ||woshiyunying.com^
 ||wotto.cn^
 ||woxts.cn^
@@ -46490,7 +46481,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||x18a1fmq74.cn^
 ||x3kxysp.cn^
 ||x56za02.cn^
-||xabtx.com^
 ||xacqp.com^
 ||xafengzhij.xyz^
 ||xafxs.cn^
@@ -46628,7 +46618,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xsspt.vip^
 ||xsvgpjl.cn^
 ||xtb.ink^
-||xtime.hk^
 ||xubb.xyz^
 ||xuchangmuying.com^
 ||xuenengyoujiaoyu.com^
@@ -46730,7 +46719,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yidcd.cn^
 ||yidiansurong.com^
 ||yidulu.cn^
-||yierheng.top^
 ||yigesi.top^
 ||yiiyo.top^
 ||yikebang.xyz^
