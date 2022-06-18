@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-06-18T00:02:16.913Z
+! Last modified: 2022-06-18T06:01:15.554Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -23360,7 +23360,6 @@ vkcdnservice.appspot.com^
 ||c-rings.net^
 ||t.felmat.net^
 ||k-analytix.com^
-||i.btg360.com.br^
 ||tracdelight.io^
 ||goatcounter.com^
 ||gc.zgo.at^
@@ -30938,6 +30937,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||futuristicapparatus.com^
 ||gripcorn.com^
 ||grouchypush.com^
+||handsomelyhealth.com^
 ||handyfireman.com^
 ||hauntlist.com^
 ||hesitanttoothpaste.com^
@@ -32217,6 +32217,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tagcdn.com^
 ! Portuguese
 ||ad5track.com^
+||bob-recs.com^
+||btg360.com.br^
 ||clearsale.com.br^
 ||denakop.com^
 ||enviou.com.br^
@@ -32478,6 +32480,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||i.imedia.cz^
 ||log.cpex.cz^
 ||log.idnes.cz^
+||pixel.biano.cz^
 ||pixel.cpex.cz^
 ||ssp.seznam.cz^
 ||stat.cncenter.cz^
@@ -42673,6 +42676,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||1kcx.hk^
+||slinindy.top^
 ||cfqc.me^
 ||cnpask.com^
 ||dalucm.xyz^
@@ -42749,6 +42753,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xuekalun.com^
 ||yping.online^
 ||zhrrrec.cn^
+||bptxcg.xyz^
 ||469716.top^
 ||blddnwt.cn^
 ||bnux.store^
@@ -42784,6 +42789,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hpkqtd.com^
 ||vgijoh.com^
 ||xinbici.com^
+||ienglish.ren^
 ||jsk.wang^
 ||readysugerfree.top^
 ||000123456789.online^
