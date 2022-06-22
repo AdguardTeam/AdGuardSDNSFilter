@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-06-22T12:01:31.051Z
+! Last modified: 2022-06-22T13:51:07.140Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||uapekkgmhjxponr.com^
+||sienns.com^
+||koudov.com^
 ||rareghoa.net^
 ||whoutsiy.net^
 ||brazenwholly.com^
@@ -27305,6 +27308,7 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+||events.getsitectrl.com^
 ||d90z5o386dhs7.cloudfront.net^
 ||events.mercadolibre.com^
 ||x.sexhd.pics^
@@ -39573,6 +39577,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xyxhtyy.cn^
 ||zhetoutiao.top^
 ||lhippac.cn^
+||zhangzhiyang01.cn^
+||gytty.top^
 ||readysugerfree.top^
 ||jrhbhz.com^
 ||1kcx.hk^
@@ -47313,6 +47319,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/977
+@@||anwb.webpower.eu^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/121419
 @@||eum-blue-saas.instana.io^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/959
