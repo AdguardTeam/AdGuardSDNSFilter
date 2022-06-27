@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-06-27T00:02:46.692Z
+! Last modified: 2022-06-27T06:01:03.350Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -14661,6 +14661,7 @@ vkcdnservice.appspot.com^
 ||raftcomposuremeals.com^
 ||rag3ca7t5amubr8eedffin.com^
 ||ragapa.com^
+||rageagainstthesoap.com^
 ||raglogripsa.com^
 ||railcowboy.com^
 ||railroadtomato.com^
@@ -38830,6 +38831,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dkxobcs.cn^
 ||gfvip06af.com^
 ||f05.xyz^
+||btaawy.cn^
+||lingke03.top^
+||yoqrbof.cn^
+||ltht.tech^
+||hbtyk.top^
+||666637.xyz^
 ||readysugerfree.top^
 ||jrhbhz.com^
 ||1kcx.hk^
@@ -45714,6 +45721,7 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||img.ads.tvb.com^
 @@||newad.mail.wo.cn^
 ||003store.com^
+||a.10tianqi.com^
 ||1.01fy.cn^
 ||1.07swz.com^
 ||1.1010pic.com^
