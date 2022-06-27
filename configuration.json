@@ -202,8 +202,8 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
-      "name": "ABPindo ad servers",
-      "source": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt",
+      "name": "ABPindo",
+      "source": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
@@ -211,6 +211,13 @@
     {
       "name": "AdblockID adservers",
       "source": "https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
+      "name": "AdblockID third-party",
+      "source": "https://github.com/realodix/AdBlockID/raw/master/src/thirdparty.adfl",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
