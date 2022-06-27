@@ -112,7 +112,7 @@
     },
     {
       "name": "AdGuard Annoyances filter push notification",
-      "source": "https://github.com/AdguardTeam/AdguardFilters/edit/master/AnnoyancesFilter/sections/push-notifications.txt",
+      "source": "https://github.com/AdguardTeam/AdguardFilters/raw/master/AnnoyancesFilter/sections/push-notifications.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
