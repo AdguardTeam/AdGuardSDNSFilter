@@ -58,6 +58,7 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/781
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/852
 ! Blocked by CNAME we-stats.com
+@@||cdnbc-wup.hsbc.com.hk^|
 @@||wup-7b4df495.santander.cl^|
 @@||contents*.00110.citi.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/759
