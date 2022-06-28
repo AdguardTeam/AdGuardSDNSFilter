@@ -105,28 +105,28 @@
     },
     {
       "name": "AdGuard Social Media filter social trackers",
-      "source": "https://github.com/AdguardTeam/AdguardFilters/raw/master/SocialFilter/sections/social_trackers.txt",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/social_trackers.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
       "name": "AdGuard Annoyances filter push notification",
-      "source": "https://github.com/AdguardTeam/AdguardFilters/raw/master/AnnoyancesFilter/sections/push-notifications.txt",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/push-notifications.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
       "name": "AdGuard Annoyances filter popups",
-      "source": "https://github.com/AdguardTeam/AdguardFilters/raw/master/AnnoyancesFilter/sections/popups.txt",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/popups.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
       "name": "AdGuard Annoyances filter widgets",
-      "source": "https://github.com/AdguardTeam/AdguardFilters/raw/master/AnnoyancesFilter/sections/widgets.txt",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/widgets.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
