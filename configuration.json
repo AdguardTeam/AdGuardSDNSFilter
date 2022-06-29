@@ -104,6 +104,13 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "AdGuard Social Media filter social trackers",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/social_trackers.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
       "name": "AdGuard Spanish/Portuguese filter ad servers",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt",
       "type": "adblock",
