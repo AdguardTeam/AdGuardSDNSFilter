@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-06-29T08:12:33.002Z
+! Last modified: 2022-06-29T12:01:30.979Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||zdywcdjoerv.com^
+||jjmdavj.com^
+||pelisnetwork.com^
 ||supatazo.xyz^
 ||ctengine.io^
 ||sacegryri.com^
@@ -22153,6 +22156,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||automizely-analytics.com^
+||metrics.dominos.com.tr^
 ||salesloft.com^
 ||ctags.cn^
 ||gridsumdissector.com^
@@ -28581,6 +28586,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||countly.globaldelight.net^
 ||log.game.qcplay.com^
 ||report-stats.ad.jiguang.cn^
 ||ab.servogram.io^
@@ -38996,6 +39002,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yeyuly.love^
 ||666642.xyz^
 ||kzecc.com^
+||kengi.top^
+||sliuindy.top^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
