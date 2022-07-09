@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-07-09T00:02:36.765Z
+! Last modified: 2022-07-09T06:01:19.594Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9131,6 +9131,7 @@ vkcdnservice.appspot.com^
 ||givekeeperstirring.com
 ||givenedere.xyz^
 ||givestment.club^
+||givewindowweather.buzz^
 ||givingsol.com^
 ||givirsou.net^
 ||gixiluros.com^
@@ -9378,6 +9379,7 @@ vkcdnservice.appspot.com^
 ||gravelringer.com^
 ||gravelycontainsstruggle.com^
 ||gravelyelectricthicket.com^
+||gravertoyons.com^
 ||graveuniversalapologies.com^
 ||gravidtrekker.com^
 ||grayrecruitbrainwash.com^
@@ -15355,6 +15357,7 @@ vkcdnservice.appspot.com^
 ||robsoaks.com^
 ||robspabah.com^
 ||rocexovo.com^
+||rockcloudspace.com^
 ||rocketyield.com^
 ||rockstorageplace.com^
 ||rockynoderearrange.com^
@@ -39460,6 +39463,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qingtian.love^
 ||666674.xyz^
 ||enrosr.cn^
+||melife.love^
+||fuigixk.cn^
+||edzyhx.cn^
+||15h3na0.xyz^
+||ekwibgl.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -46154,6 +46162,7 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 @@||newad.mail.wo.cn^
+||ahm.135320.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
