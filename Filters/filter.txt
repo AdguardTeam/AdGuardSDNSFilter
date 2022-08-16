@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-08-16T00:02:40.111Z
+! Last modified: 2022-08-16T06:01:01.445Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -13601,6 +13601,7 @@ vkcdnservice.appspot.com^
 ||ormationwi.xyz^
 ||ormome.com^
 ||orqsvaxn.com^
+||orquideassp.com^
 ||orthitepetrous.com^
 ||orthronsmatter.com^
 ||ortslucres.com^
@@ -30349,7 +30350,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pipfire.com^
 ||piratepx.com^
 ||pirsch.io^
-||pixels.ai^
 ||plerdy.com^
 ||pnstat.com^
 ||podfdch.com^
@@ -31193,6 +31193,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.paddle.com^
 ||analytics.pagefly.io^
 ||analytics.piksel.com^
+||analytics.pixels.ai^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
 ||analytics.qualityunit.com^
@@ -32232,7 +32233,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||clearsale.com.br^
 ||denakop.com^
 ||enviou.com.br^
-||orquideassp.com^
 ||percycle.com^
 ||pmweb.com.br^
 ||premiumads.com.br^
@@ -40543,6 +40543,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ehprnuo.cn^
 ||qorlsbls.cyou^
 ||yd1s.top^
+||tanyp.xyz^
+||21fsdf.com^
+||tierzf.xyz^
+||vivachina.co^
+||sxbexrv.cn^
+||zzyl.mobi^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
