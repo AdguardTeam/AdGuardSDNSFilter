@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-08-26T18:01:15.852Z
+! Last modified: 2022-08-26T19:12:46.564Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30688,7 +30688,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rumpelstiltskinhead.com^
 ||s7target.ru^
 ||safe-click.net^
-||sailthru.com^
 ||salemove.com^
 ||salesmanago.pl^
 ||salesviewer.com^
@@ -38285,6 +38284,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||darts-ads.telkom.co.id^
 ! ---
 ! Dihapus dalam beberapa bulan
+! Aug 2022
+||oagudole.net^
 ! Jul 2022
 ||fmjvsmavummyjnc.com^
 ||jqxqddvyw.com^
@@ -48130,10 +48131,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1018
-! Blocked by CNAME sailthru.com
-@@||link.androidauthority.com^|
-@@||stcblink.nypost.com^|
 ! https://old.reddit.com/r/Adguard/comments/wkcvpx/redirect_link_not_working_when_adguard_pro_ios_is/
 @@||link.morningbrew.com^|
 ! https://forum.adguard.com/index.php?threads/incorrect-extension-blocking.49177/#post-223130
