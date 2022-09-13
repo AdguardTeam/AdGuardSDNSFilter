@@ -1,0 +1,171 @@
+name: Bug Report
+description: File a bug report
+labels: ["A: Bug"]
+# labels: ["A: Bug", "A: By Design", "A: Cannot reproduce", "A: Closed", "A: In progress", "A: Invalid", "A: Problematic", "A: Rejected", "A: Resolved", "A: Won't fix", "Extra", "Extra (zmc)", "Infrastructure", "N: AdGuard Browser Extension", "N: AdGuard Content Blocker", "N: AdGuard DNS", "N: AdGuard for Android", "N: AdGuard for iOS", "N: AdGuard for Mac", "N: AdGuard for Safari", "N: AdGuard for Windows", "N: Other", "NSFW", "P1: Critical", "P2: High", "P3: Medium", "P4: Low", "T: Ads", "T: Annoyance", "T: Anti Adblock Script", "T: Incorrect Blocking", "T: Popups", "T: Social Widget", "T: Stealth Mode issue", "T: Tracker"]
+body:
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: |
+        To avoid invalid reports, please check and confirm following checkboxes.
+      options:
+        - label: This site DOES NOT contains sexually explicit material;
+          required: true
+        - label: Filters were updated before redroduced an issue;
+          required: false
+        - label: AdGuard product version is up-to-date;
+          required: false
+        - label: Browser version is up-to-date;
+          required: false
+        - label: If the site or app is broken, disabling AdGuard protection resolves an issue.
+          required: true
+
+  - type: dropdown
+    id: adguard-dns
+    attributes:
+      label: What DNS-related product do you use?
+      multiple: true
+      options:
+        - AdGuard public DNS
+        - AdGuard private DNS
+        - AdGuard Home
+    validations:
+      required: true
+
+  - type: dropdown
+    id: adguards
+    attributes:
+      label: What ad blocker do you use?
+      description: If you use an ad blocker, please specify its version in the next step
+      multiple: true
+      options:
+        - DNS only
+        - AdGuard Browser Extension
+        - AdGuard Content Blocker
+        - AdGuard for Android
+        - AdGuard for iOS
+        - AdGuard for Mac
+        - AdGuard for Safari
+        - AdGuard for Windows
+        - Other ad blocker
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: AdGuard version
+      description: What version of our software are you running?
+      placeholder: ex. 7.7
+    validations:
+      required: false
+
+  - type: dropdown
+    id: what-happened
+    attributes:
+      label: What type of problem have you encountered?
+      description: If the problem does not fall under any category that is listed here, please contact our tech support - support@adguard.com
+      multiple: true
+      options:
+        - Missed ads
+        - Missed analytics or tracker
+        - Website or app doesn't work properly
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browser is used?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+        - Opera
+        - Yandex Browser
+        - Other(specify in comment below)
+        - A problem is with an app or a device
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browsers_type
+    attributes:
+      label: Which device is used?
+      multiple: false
+      options:
+        - Desktop
+        - Mobile
+        - Other device
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Where did you encounter the problem?
+      description: Please enter address of the page or download link of the affected app.
+      placeholder: ex. https://example.com/
+    validations:
+      required: false
+
+  - type: textarea
+    id: filters
+    attributes:
+      label: What DNS filters do you have enabled?
+      description: Give a list of enabled DNS filters in the field below.
+      placeholder: |
+        * ex. AdGuard DNS filter
+        * ex. https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+    validations:
+      required: true
+  
+  - type: textarea
+    id: dns-upstreams
+    attributes:
+      label: What DNS upstream(s) do you use in AdGuard apps or AdGuard Home?
+      description: Give a list of public DNS upstreams in the field below.
+      placeholder: |
+        * ex. 94.140.14.140 - AdGuard non-filtered DNS
+        * ex. tls://unfiltered.adguard-dns.com - AdGuard non-filtered DNS over TLS
+    validations:
+      required: false
+
+  - type: textarea
+    id: comments
+    attributes:
+      label: Add your comment and screenshots
+      description: |
+        1. Please add screenshots of the problem. You can attach images by clicking this area to highlight it and then dragging files in or paste images from clipboard;
+           Use `<details> </details>` tag to hide screenshots under the spoiler; 
+        2. Please describe the issue extensively unless it is absolutely clear from the screenshot what the problem is;
+        You can also indicate any other information that you think the developers should know.
+
+        Warning: Please remove private info before upload screenshots!
+      placeholder: |
+        1. Your comment
+        2. Screenshots
+        <details> 
+        
+        paste screenshot here
+        
+        </details>
+        
+        <details>
+        
+        paste screenshot here
+        
+        </details>
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Privacy
+      description: By submitting this issue, you agree that report does not contain private info
+      options:
+        - label: I agree to follow this condition
+          required: true
