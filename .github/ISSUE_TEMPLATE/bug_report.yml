@@ -11,7 +11,7 @@ body:
       options:
         - label: This site DOES NOT contains sexually explicit material;
           required: true
-        - label: Filters were updated before redroduced an issue;
+        - label: DNS filters were updated before redroduced an issue;
           required: false
         - label: AdGuard product version is up-to-date;
           required: false
