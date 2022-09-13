@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-09-13T06:23:10.946Z
+! Last modified: 2022-09-13T12:01:17.254Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||colarak.com^
 ||guroshied.com^
 ||jooptibi.net^
 ||winnerprizezona.info^
@@ -9200,6 +9201,7 @@ vkcdnservice.appspot.com^
 ||fermentsinewencase.com^
 ||fermolo.info^
 ||feroffer.com^
+||ferritediener.tech^
 ||fertilitycommand.com^
 ||fertilityundergone.com^
 ||fertilizeranaemiaupcoming.com^
@@ -12144,6 +12146,7 @@ vkcdnservice.appspot.com^
 ||latuga.com^
 ||latury.com^
 ||latvianswived.com^
+||latvik.com^
 ||laufonie.net^
 ||lauhefoo.com^
 ||lauhoosh.net^
@@ -15911,6 +15914,7 @@ vkcdnservice.appspot.com^
 ||qqedrimwbe.com^
 ||qqgcxmviljcu.com^
 ||qqjfwixfiubkc.com^
+||qqrxvafepbjclcd.com^
 ||qrclevrfjw.com^
 ||qrctbsfk.com^
 ||qrlsx.com^
@@ -18682,6 +18686,7 @@ vkcdnservice.appspot.com^
 ||touphipt.com^
 ||tournamentplot.com^
 ||touroumu.com^
+||tovanillitechan.com^
 ||tovespiquener.com^
 ||tovihhhyhe.xyz^
 ||towardadvised.com^
@@ -19053,6 +19058,7 @@ vkcdnservice.appspot.com^
 ||ufeaqyzn.com^
 ||ufglrthrwrtguj.com^
 ||ufinkln.com^
+||ufmnrbbm.com^
 ||ufoomals.net^
 ||ufpcdn.com^
 ||ufvyywlrgpgpyl.com^
@@ -20549,6 +20555,7 @@ vkcdnservice.appspot.com^
 ||xtggpxfmyyfmeun.xyz^
 ||xthizbdwgebzqf.com^
 ||xthkusksqoree.com^
+||xtkyesxcnyra.com^
 ||xtmuasvldoiz.com^
 ||xtow.xyz^
 ||xtrackme.com^
@@ -24256,7 +24263,6 @@ vkcdnservice.appspot.com^
 ||analytics.churnzero.net^
 ||trk.reclameaqui.com.br^
 ||s.clickiocdn.com^
-||delivery.satr.jp^
 ||i-cmg-amlg-prod.appspot.com^
 ||capture-api.autopilotapp.com^
 ||s.autopilotapp.com^
@@ -28405,6 +28411,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||sdk.airbridge.io^
+||core.airbridge.io^
 ||metrics.biletino.com^
 ||analytics.afirstsoft.cn^
 ||analytics-api.dvdfab.co.jp^
@@ -39385,9 +39393,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Sep 2022 11:54 UTC+7
-! Version: 2209131154
-! Blocked: 1.550 rules
+! Last modified: 13 Sep 2022 14:51 UTC+7
+! Version: 2209131451
+! Blocked: 1.531 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -39676,7 +39684,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ads.careerbuilder.vn^
 ||ads.carmudi.vn^
 ||ads.chanhtuoi.com^
-||ads.conlatatca.vn^
 ||ads.cungcau.vn^
 ||ads.fptplay.net.vn^
 ||ads.gosu.vn^
@@ -39690,7 +39697,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ads.laodongnghean.vn^
 ||ads.markettimes.vn^
 ||ads.marry.vn^
-||ads.netlinkad.vn^
 ||ads.nghenhinvietnam.vn^
 ||ads.nhadatmoi.net^
 ||ads.phunuonline.com.vn^
@@ -39754,7 +39760,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api.boclinkads.com^
 ||api2.boclinkads.com^
 ||apia.headlines.pw^
-||as.gamevui.com^
 ||avoadsservices.com^
 ||banhtv.org^
 ||banner.5giay.vn^
@@ -39817,7 +39822,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qcv5.blogtruyen.vn^
 ||quangcao.24h.com.vn^
 ||quangcao.baovannghe.com.vn^
-||quangcao.eva.vn^
 ||quangcao.fff.com.vn^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
@@ -39857,7 +39861,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vinaads.vn^
 ||vlxx.host^
 ||vnadssb.com^
-||vnd247.vn^
 ||widget.headlines.pw^
 ||xads.joboko.com^
 ||xmadsapi.joboko.com^
@@ -39879,7 +39882,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.bkav.com.vn^
 ||analytics.bluemotionmedia.vn^
 ||analytics.diamondstarfinancial.com.vn^
-||analytics.explus.vn^
 ||analytics.fsoft.com.vn^
 ||analytics.hub-js.com^
 ||analytics.jamstackvietnam.com^
@@ -39891,7 +39893,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.rever.vn^
 ||analytics.sohatv.vn^
 ||analytics.teko.vn^
-||analytics.thethao247.org^
 ||analytics.tiki.vn^
 ||analytics.tintuc.vn^
 ||analytics.viblo.asia^
@@ -39911,7 +39912,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||btrack.homedy.com^
 ||campaign.gitiho.com^
 ||cdn.api-connect.io^
-||cdn.doke.app^
 ||clicker.chiaki.vn^
 ||clientinfo.phimmoizz.net^
 ||collect.ovp.vn^
@@ -39958,7 +39958,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.baodauthau.vn^
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
-||log.batdongsan.com.vn^
 ||log.beecost.com^
 ||log.beecost.vn^
 ||log.bizlive.vn^
@@ -40006,9 +40005,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logging.kinhtedothi.vn^
 ||logperf.vnexpress.net^
 ||logs.docnhanh.com.vn^
-||logs.giaoducthoidai.vn^
 ||logs.thethaovanhoa.vn^
-||logs1.reatimes.vn^
 ||logsbin.dantri.com.vn^
 ||logscafef.channelvn.net^
 ||marketing.itgeek.vn^
@@ -40027,7 +40024,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||report.mediahub.vn^
 ||report.vnay.vn^
 ||report2.mediahub.vn^
-||rsyslog.24h.com.vn^
 ||s.baomoi.xdn.vn^
 ||s.homedy.com^
 ||s.kenh14.vn^
@@ -40070,7 +40066,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track-srv.vietnamnet.vn^
 ||track.adshay.vn^
 ||track.icheck.com.vn^
-||track.ivymoda.com^
 ||track.kyna.vn^
 ||track.lapa.pub^
 ||track.lemonnovel.com^
@@ -40079,7 +40074,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.sendo.vn^
 ||track.vio.edu.vn^
 ||tracker.anime47.com^
-||tracker.bongngo.bar^
 ||tracker.edupia.vn^
 ||tracker.fado.vn^
 ||tracker.gigaphim.com^
@@ -40106,13 +40100,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
 ||tracking.vnncdn.net^
-||tracking.vtc.vn^
 ||tracking.vtcnew.com.vn^
-||tracking.yes24.vn^
 ||trackingapi.foody.vn^
 ||trackingvn.zingplay.com^
 ||trackity.tiki.vn^
-||trending.vn^
 ||trk.123c.vn^
 ||trk.staging.123c.vn^
 ||userstats.shopee.vn^
@@ -42367,6 +42358,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mxlidx.ink^
 ||aj4j.icu^
 ||bjqwllp.cn^
+||fangfeng002.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -48524,6 +48516,7 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||ad.szhsx.net^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
