@@ -10,7 +10,7 @@
 ### To avoid invalid pull requests, please check and confirm following terms
 
 - [ ] This is not an ad/bug report
-- [ ] My code follows [syntax](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists) of this project
+- [ ] My code follows [syntax](https://adguard-dns.io/kb/general/dns-filtering-syntax/) of this project
 - [ ] I have performed a self-review of my own changes
 - [ ] My changes do not break web sites, apps and files structure
 
