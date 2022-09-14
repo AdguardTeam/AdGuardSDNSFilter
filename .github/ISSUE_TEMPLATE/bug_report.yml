@@ -12,7 +12,7 @@ body:
           required: true
         - label: The problem occurs only when using AdGuard DNS or DNS filtering with AdGuard DNS filter, it is not caused by other ad blockers;
           required: true
-        - label: AdGuard DNS filter was updated before redroduced an issue (ex. AdGuard Home);
+        - label: You're using an up-to-date version of AdGuard DNS filter;
           required: false
         - label: Browser version is up-to-date;
           required: false
