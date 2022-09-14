@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-09-14T06:20:33.706Z
+! Last modified: 2022-09-14T10:16:46.914Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||paudaups.net^
+||ibcmwndkntf.com^
 ||mbiifzdvhexj.com^
 ||vbonyifq.com^
 ||tkrpdcjcdgucx.com^
@@ -28720,7 +28722,6 @@ vkcdnservice.appspot.com^
 ||api-analytics.rozetka.com.ua^
 ||api-stg.ensonhaber.com^
 ||api.calq.io^
-||api.data.ciceksepeti.com^
 ||api.exc.mob.com^
 ||api.flocktory.com^
 ||api.iterative.ly^
@@ -29185,6 +29186,7 @@ vkcdnservice.appspot.com^
 ||events*.cre.ma^
 ||eventstream.dodopizza.com^
 ||eventtracker.elitedaily.com^
+||evs.data.ciceksepeti.com^
 ||evt.houzz.com^
 ||exacttarget.api.mashery.com^
 ||exc.ns.nl^
@@ -32673,6 +32675,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||diagnose.igstatic.com^
 ||dig.ultimedia.com^
 ||djibeacon.djns.com^
+||doppler-beacons.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
@@ -37821,6 +37824,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||banlamaartikoce.ml^
 ||betstadyum.com^
 ||sportframe.org^
 ||cokemoke.cf^
@@ -39421,9 +39425,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Sep 2022 14:51 UTC+7
-! Version: 2209131451
-! Blocked: 1.531 rules
+! Last modified: 14 Sep 2022 16:25 UTC+7
+! Version: 2209141625
+! Blocked: 1.533 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -40340,6 +40344,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eurofun88.com^
 ||eurowin.top^
 ||f8bet0.com^
+||f8bet5.com^
 ||fa88.win^
 ||fabet.com^
 ||fabet.me^
@@ -40603,6 +40608,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ric.win^
 ||rik.vip^
 ||rik.win^
+||rikbet789.club^
 ||rikgame.live^
 ||rikkk.net^
 ||rikvip.uk^
@@ -42406,6 +42412,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cedon2bea.xyz^
 ||nxlidc.ink^
 ||furrnbb.cn^
+||ysstnh.com^
+||seallife.club^
+||duaoxbg.cn^
+||hehehe.buzz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
