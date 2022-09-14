@@ -24,7 +24,7 @@ body:
     attributes:
       label: What DNS server do you use?
       description: |
-        If used third-party product, select Other and add its name in the comment field below.
+        If you're using a third-party content blocker, please select "Other" and enter its name in the comment field below.
       multiple: true
       options:
         - AdGuard public DNS
