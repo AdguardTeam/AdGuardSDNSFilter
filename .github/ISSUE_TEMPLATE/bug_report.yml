@@ -16,7 +16,7 @@ body:
           required: false
         - label: Browser version is up-to-date;
           required: false
-        - label: If the site or app is broken, disabling AdGuard DNS resolves an issue.
+        - label: If a website or an app is broken, disabling AdGuard DNS filter resolves the issue.
           required: true
 
   - type: dropdown
