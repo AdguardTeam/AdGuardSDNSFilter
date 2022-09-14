@@ -10,7 +10,7 @@ body:
       options:
         - label: This site DOES NOT contains sexually explicit material;
           required: true
-        - label: The problem occurs only when using AdGaurd DNS or DNS filtering with AdGuard DNS filter, it does not depend on other ad blockers;
+        - label: The problem occurs only when using AdGuard DNS or DNS filtering with AdGuard DNS filter, it is not caused by other ad blockers;
           required: true
         - label: AdGuard DNS filter was updated before redroduced an issue (ex. AdGuard Home);
           required: false
