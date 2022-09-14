@@ -115,7 +115,7 @@ body:
       label: Where did you encounter the problem?
       description: |
         Please enter the page address or a download link of the affected app.
-        If the problem with other device, please write a comment below
+        If the issue is not with an app or a website, please describe it in detail in the comment field below.
       placeholder: ex. https://example.com/
     validations:
       required: false
