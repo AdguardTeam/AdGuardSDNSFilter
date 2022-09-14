@@ -87,7 +87,7 @@ body:
     attributes:
       label: Which device type is used?
       description: |
-        If the problem with other device, please write a comment below
+        If the problem occurs with a different type of device, please mention it in the comment field below.
       multiple: false
       options:
         - Desktop
