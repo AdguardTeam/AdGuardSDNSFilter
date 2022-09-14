@@ -69,7 +69,8 @@ body:
   - type: dropdown
     id: browsers
     attributes:
-      label: What browser is used?
+      label: What browser or app do you use?
+      description: If the issue is not about a website, please select "Other app" here.
       multiple: true
       options:
         - Firefox
