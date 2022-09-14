@@ -1,5 +1,5 @@
 name: Bug Report
-description: File a bug report
+description: Report an issue with AdGuard DNS filter (incorrect blocking or missed ad/tracker).
 labels: ["A: Bug"]
 body:
   - type: checkboxes
