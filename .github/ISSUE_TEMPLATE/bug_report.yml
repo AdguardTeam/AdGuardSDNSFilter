@@ -24,11 +24,13 @@ body:
     id: adguard-dns
     attributes:
       label: What DNS-related product do you use?
+      description: If used third-party product, select Other and add its name in the comment field
       multiple: true
       options:
         - AdGuard public DNS
         - AdGuard private DNS
         - AdGuard Home
+        - Other
     validations:
       required: true
 
