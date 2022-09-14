@@ -108,7 +108,7 @@ body:
     id: url
     attributes:
       label: Where did you encounter the problem?
-      description: Please enter address of the page or download link of the affected app.
+      description: Please enter the page address or a download link of the affected app.
       placeholder: ex. https://example.com/
     validations:
       required: false
