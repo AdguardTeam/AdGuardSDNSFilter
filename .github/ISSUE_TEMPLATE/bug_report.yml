@@ -85,7 +85,7 @@ body:
   - type: dropdown
     id: device_type
     attributes:
-      label: Which device type is used?
+      label: Which device type do you use?
       description: |
         If the problem occurs with a different type of device, please mention it in the comment field below.
       multiple: false
