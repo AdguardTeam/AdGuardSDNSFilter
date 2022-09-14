@@ -128,7 +128,7 @@ body:
     id: dns-upstreams
     attributes:
       label: What DNS upstream(s) do you use in AdGuard apps or AdGuard Home?
-      description: Give a list of public DNS upstreams in the field below.
+      description: If you're using AdGuard application or AdGuard Home with a custom DNS server, please provide the list of DNS upstreams that you have configured there.
       placeholder: |
         * ex. 94.140.14.140 - AdGuard non-filtered DNS
         * ex. tls://unfiltered.adguard-dns.com - AdGuard non-filtered DNS over TLS
