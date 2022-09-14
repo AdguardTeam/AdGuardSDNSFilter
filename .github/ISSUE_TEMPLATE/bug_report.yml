@@ -37,7 +37,7 @@ body:
   - type: input
     id: version
     attributes:
-      label: AdGuard or other DNS server version
+      label: Version
       description: What version of the DNS filtering software you're using (if applicable).
       placeholder: |
         ex. AdGuard Home v0.108.0-a.273+782de99a
