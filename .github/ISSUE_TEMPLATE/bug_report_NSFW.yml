@@ -1,5 +1,5 @@
 name: Bug report (NSFW)
-description: File a bug report (NSFW)
+description: Report an issue with AdGuard DNS filter (incorrect blocking or missed ad/tracker) (NSFW)
 labels: ["A: Bug", "NSFW"]
 body:
   - type: checkboxes
