@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-09-15T00:02:46.981Z
+! Last modified: 2022-09-15T06:15:33.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||mxdztgstli.com^
+||juunhkavj.com^
 ||odfnxnzrmvxw.com^
 ||wrfqraayuadve.com^
 ||nshynvupjnm.com^
@@ -22233,6 +22235,7 @@ vkcdnservice.appspot.com^
 ||powerteam-competitions.com^
 ||ppcwebspy.com^
 ||prebid.org^
+||prebidwrapper.com^
 ||promo-reklama.ru^
 ||proper.io^
 ||pub-fit.com^
@@ -31135,6 +31138,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||maggieeatstheangel.com^
 ||mcangelus.com^
 ||mdhv.io^
+||mediapxv.com^
 ||mm-api.agency^
 ||mors22.com^
 ||mrpdata.net^
@@ -31870,6 +31874,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trafficroots.com^
 ||transactionale.com^
 ||traq.li^
+||travelrobotflower.com^
 ||traversedlp.com^
 ||trbas.com^
 ||tribl.io^
@@ -32888,6 +32893,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||platform.iteratehq.com^
 ||plausibleio.workers.dev^
 ||pm.boostintegrated.com^
+||pmetrics.performancing.com^
 ||porpoise.azettl.net^
 ||pr.blogflux.com^
 ||prd-collector-auth.playbuzz.com^
@@ -42446,6 +42452,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ctuhn2cop.xyz^
 ||n7181.com^
 ||666832.xyz^
+||mxnr.xyz^
+||ewadakesw.cyou^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
