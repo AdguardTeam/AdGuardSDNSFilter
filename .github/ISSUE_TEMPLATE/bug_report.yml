@@ -1,0 +1,159 @@
+name: Bug Report
+description: Report an issue with AdGuard DNS filter (incorrect blocking or missed ad/tracker).
+labels: ["A: Bug"]
+body:
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: |
+        To avoid invalid reports, please check and confirm following checkboxes.
+      options:
+        - label: This site DOES NOT contains sexually explicit material;
+          required: true
+        - label: The problem occurs only when using AdGuard DNS or DNS filtering with AdGuard DNS filter, it is not caused by other ad blockers;
+          required: true
+        - label: You're using an up-to-date version of AdGuard DNS filter;
+          required: false
+        - label: Browser version is up-to-date;
+          required: false
+        - label: If a website or an app is broken, disabling AdGuard DNS filter resolves the issue.
+          required: true
+
+  - type: dropdown
+    id: adguard-dns
+    attributes:
+      label: What DNS server do you use?
+      description: |
+        If you're using a third-party content blocker, please select "Other" and enter its name in the comment field below.
+      multiple: true
+      options:
+        - AdGuard public DNS
+        - AdGuard private DNS
+        - AdGuard Home
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of the DNS filtering software you're using (if applicable).
+      placeholder: |
+        ex. AdGuard Home v0.108.0-a.273+782de99a
+    validations:
+      required: false
+
+  - type: textarea
+    id: dns-upstreams
+    attributes:
+      label: What DNS upstream(s) do you use in AdGuard apps or AdGuard Home?
+      description: |
+        If you're using AdGuard application or AdGuard Home with a custom DNS server, please provide the list of DNS upstreams that you have configured there.
+      placeholder: |
+        * ex. tls://unfiltered.adguard-dns.com - AdGuard non-filtered DNS over TLS
+    validations:
+      required: false
+
+  - type: textarea
+    id: filters
+    attributes:
+      label: What DNS filters do you have enabled?
+      description: If you're using multiple filters, please provide the list of enabled DNS filters in the field below.
+      placeholder: |
+        * ex. AdGuard DNS filter
+        * ex. https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browser or app do you use?
+      description: If the issue is not about a website, please select "Other app" here.
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+        - Opera
+        - Yandex Browser
+        - Other app
+    validations:
+      required: true
+
+  - type: dropdown
+    id: device_type
+    attributes:
+      label: Which device type do you use?
+      description: |
+        If the problem occurs with a different type of device, please mention it in the comment field below.
+      multiple: false
+      options:
+        - Desktop
+        - Mobile
+        - Other device
+    validations:
+      required: true
+
+  - type: dropdown
+    id: what-happened
+    attributes:
+      label: What type of problem have you encountered?
+      description: If the problem does not fall under any category that is listed here, please contact our tech support - support@adguard.com
+      multiple: true
+      options:
+        - Missed ads
+        - Missed analytics or tracker
+        - Website or app doesn't work properly
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Where did you encounter the problem?
+      description: |
+        Please enter the page address or a download link of the affected app.
+        If the issue is not with an app or a website, please describe it in detail in the comment field below.
+      placeholder: ex. https://example.com/
+    validations:
+      required: false
+
+  - type: textarea
+    id: comments
+    attributes:
+      label: Add your comment and screenshots
+      description: |
+        1. Please add screenshots of the problem. You can attach images by clicking this area to highlight it and then dragging files in or paste images from clipboard;
+          Use `<details> </details>` tag to hide screenshots under the spoiler; 
+        2. Please describe the issue extensively unless it is absolutely clear from the screenshot what the problem is;
+        You can also indicate any other information that you think the developers should know.
+
+        Warning: Please remove private info before upload screenshots!
+      placeholder: |
+        1. Your comment
+        2. Screenshots
+        <details> 
+        
+        paste screenshot here
+        
+        </details>
+        
+        <details>
+        
+        paste screenshot here
+        
+        </details>
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Privacy
+      description: By submitting this issue, you agree that report does not contain private info
+      options:
+        - label: I agree to follow this condition
+          required: true
