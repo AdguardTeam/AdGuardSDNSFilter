@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-10-05T00:04:43.758Z
+! Last modified: 2022-10-05T06:10:05.035Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -39086,9 +39086,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 04 Oct 2022 14:52 UTC+7
-! Version: 2210041452
-! Blocked: 1.534 rules
+! Last modified: 05 Oct 2022 11:12 UTC+7
+! Version: 2210051112
+! Blocked: 1.535 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -39208,6 +39208,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logen.vietnamplus.vn^
 ||loges.vietnamplus.vn^
 ||logfr.vietnamplus.vn^
+||logg4u.cnnd.vn^
 ||logkm.dantocmiennui.vn^
 ||logru.vietnamplus.vn^
 ||logv2.mp3.zing.vn^
@@ -39271,6 +39272,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sbz.vn^
 ||sdk.zadn.vn^
 ||service-api.accesstrade.vn^
+||sharefb.cnnd.vn^
 ||shop-cdn.coccoc.com^
 ||slimads.vn^
 ||smartadnetwork.net^
@@ -39305,6 +39307,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.tv.zing.vn^
 ||trk-pcweb.api.zaloapp.com^
 ||urekamedia.com^
+||v20.cnnd.vn^
 ||v9banners-com.cdn.ampproject.org^
 ||vads.net.vn^
 ||vads.vn^
@@ -40355,7 +40358,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.zamba.vn^
 ||log4x.nixcdn.com^
 ||logapi.misa.com.vn^
-||logg4u.cnnd.vn^
 ||logging.kinhtedothi.vn^
 ||logperf.vnexpress.net^
 ||logs.docnhanh.com.vn^
@@ -40430,7 +40432,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sda.tamdiem247.com^
 ||sentry-track.vietnamworks.com^
 ||serving-ad.tv24.vn^
-||sharefb.cnnd.vn^
 ||sharks.vn^
 ||shop.vnay.vn^
 ||simpliftsbefore.info^
@@ -42402,6 +42403,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ewwgqjn.cn^
 ||gisp6piot.cyou^
 ||dvmsmm.cn^
+||ks2g.top^
+||lanmeifeel.xyz^
+||erwgj.xyz^
+||geegg.wang^
+||vaxfpal.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
