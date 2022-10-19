@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-10-18T18:06:06.328Z
+! Last modified: 2022-10-19T00:05:41.860Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28041,6 +28041,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||event.csdn.net^
 ||telem.sre.gopuff.com^
 ||clarice.streema.com^
 ||mstm.motorsport.com^
@@ -29957,7 +29958,6 @@ vkcdnservice.appspot.com^
 ||ui.oix.net^
 ||uid.mavencoalition.io^
 ||uie.data.cbc.ca^
-||user-rating.burda-forward.de^
 ||ut.gamersyde.com^
 ||ut.o2.pl^
 ||uue2.destinia.ir^
@@ -32618,6 +32618,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.itweb.co.za^
 ||stats.lotlinx.com^
 ||stats.mituyu.com^
+||stats.mpthemes.net^
 ||stats.nebula.fi^
 ||stats.netbopdev.co.uk^
 ||stats.ozwebsites.biz^
@@ -42671,6 +42672,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zzpwwbf.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||lqrvkxk.cn^
+||yowbbxi.cyou^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
