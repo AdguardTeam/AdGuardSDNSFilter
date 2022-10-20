@@ -195,6 +195,13 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "Frellwits Swedish Filter",
+      "source": "https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
       "name": "EasyList Italy ad servers",
       "source": "https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt",
       "type": "adblock",
