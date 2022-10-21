@@ -93,7 +93,7 @@ The output is written to `Filters/filter.txt`.
 ###  Exception
 #### This list is used to exclude domains that cause serious site breakages
 
-* [Exclusions rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exclusions.txt)
+* [Exclusion rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exclusions.txt)
 * [Exception rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exceptions.txt)
 ###  News Exchange
 #### This list is used to block teaser advertisements
