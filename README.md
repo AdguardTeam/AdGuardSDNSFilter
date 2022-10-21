@@ -28,10 +28,6 @@ The output is written to `Filters/filter.txt`.
 * [AdGuard Base filter first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt)
     
 * [AdGuard Base filter foreign servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt)
-     
-* [EasyList](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt)
-    
-* [EasyList third-party servers](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt)
     
 * [AdGuard Mobile Ads filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt)
     
@@ -56,10 +52,16 @@ The output is written to `Filters/filter.txt`.
 * [AdGuard Dutch filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers.txt)
       
 * [AdGuard Dutch filter first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers_firstparty.txt)
+
+* [EasyList](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt)
+    
+* [EasyList third-party servers](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt)
     
 * [EasyList Germany](https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt)
     
 * [EasyList Italy](https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt)
+
+* [EasyList China](https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt)
     
 * [ABPindo](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt)
     
@@ -68,9 +70,7 @@ The output is written to `Filters/filter.txt`.
 * [AdblockID](https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl)
     
 * [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt)
-    
-* [EasyList China](https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt)
-###  Tracking servers
+    ###  Tracking servers
 #### These filter lists block domains that are used for tracking and analytics
     
 * [AdGuard Tracking Protection filter third-party trackers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt)
@@ -93,11 +93,12 @@ The output is written to `Filters/filter.txt`.
 ###  Exception
 #### This list is used to exclude domains that cause serious site breakages
 
+* [Exclusions rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exclusions.txt)
 * [Exception rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exceptions.txt)
 ###  News Exchange
 #### This list is used to block teaser advertisements
 * [AdGuard Russian filter news exchange servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt)
-###  Specific Language
+###  Regional lists
 #### These filter lists block various types of advertising, tracking, scams and malware on sites of a specific language group
 
 * [Frellwits Swedish Filter](https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt)
