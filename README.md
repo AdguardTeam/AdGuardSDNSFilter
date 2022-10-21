@@ -19,8 +19,8 @@ yarn run build
 
 The output is written to `Filters/filter.txt`.
 
-## DNS filter structure
-### Ad servers
+###  DNS filter structure
+###  Ad servers
 #### These filter lists block domains that are used to provide and show advertisements on websites
 
 * [AdGuard Base filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt)
@@ -70,7 +70,7 @@ The output is written to `Filters/filter.txt`.
 * [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt)
     
 * [EasyList China](https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt)
-### Tracking servers
+###  Tracking servers
 #### These filter lists block domains that are used for tracking and analytics
     
 * [AdGuard Tracking Protection filter third-party trackers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt)
@@ -86,21 +86,21 @@ The output is written to `Filters/filter.txt`.
 * [EasyPrivacy international trackers](https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt)
      
 * [EasyPrivacy third-party international](https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt)
-### Cryptominers
+###  Cryptominers
 #### These filter lists are used against cryptominers
 
 * [AdGuard Base filter cryptominers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt)
-### Exception
+###  Exception
 #### This list is used to exclude domains that cause serious site breakages
 
 * [Exception rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exceptions.txt)
-### News Exchange
+###  News Exchange
 #### This list is used to block teaser advertisements
 * [AdGuard Russian filter news exchange servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt)
-### Specific Language
+###  Specific Language
 #### These filter lists block various types of advertising, tracking, scams and malware on sites of a specific language group
 
 * [Frellwits Swedish Filter](https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt)
-### Others
+###  Others
 
 * [Additional rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/rules.txt)
