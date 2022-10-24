@@ -70,7 +70,7 @@ The output is written to `Filters/filter.txt`.
 * [AdblockID](https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl)
     
 * [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt)
-    ###  Tracking servers
+###  Tracking servers
 #### These filter lists block domains that are used for tracking and analytics
     
 * [AdGuard Tracking Protection filter third-party trackers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt)
