@@ -199,7 +199,7 @@
       "source": "https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt",
       "type": "hosts",
       "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["Validate", "RemoveModifiers", "Compress"]
+      "transformations": ["RemoveModifiers", "Validate", "Compress"]
     },
     {
       "name": "EasyList Italy ad servers",
