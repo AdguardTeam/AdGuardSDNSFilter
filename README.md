@@ -91,12 +91,12 @@ The output is written to `Filters/filter.txt`.
 
 * [AdGuard Base filter cryptominers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt)
 ###  Exception
-#### This list is used to exclude domains that cause serious site breakages
+#### These lists are used to exclude domains that cause serious site breakages
 
 * [Exclusion rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exclusions.txt)
 * [Exception rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exceptions.txt)
 ###  News Exchange
-#### This list is used to block teaser advertisements
+#### These lists are used to block teaser advertisements
 * [AdGuard Russian filter news exchange servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt)
 ###  Regional lists
 #### These filter lists block various types of advertising, tracking, scams and malware on sites of a specific language group
