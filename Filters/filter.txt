@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-10-26T12:01:46.243Z
+! Last modified: 2022-10-26T14:48:03.926Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||appalspowters.com^
+||htthereflewove.xyz^
 ||viaqoo.tech^
 ||hisurnhuh.com^
 ||scentedindication.com^
@@ -24016,6 +24018,10 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||tracking3.vnncdn.net^
+||analytics.dap-networks.de^
+||analytics.algolia.com^
+||t.360.audion.fm^
 ||withcabin.com^
 ||pixel.ipinfo.io^
 ||f4cebacks.com^
@@ -28489,6 +28495,10 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||lists.ccmbg.com^
+||track-srv.vietnamnet.vn^
+||stats.zone-telechargement.
+||stats.tirexo.blue^
 ||cnt.streamz.ws^
 ||intake-analytics.wikimedia.org^
 ||tracking.univtec.com^
@@ -30075,8 +30085,6 @@ vkcdnservice.appspot.com^
 ||stats.wwd.com^
 ||stats.ynet.co.il^
 ||stats.zmags.com^
-||stats.zone-telechargement.click^
-||stats.zone-telechargement.work^
 ||stats01.20min.ch^
 ||stats1.wpmudev.com^
 ||stats2.arstechnica.com^
@@ -33867,7 +33875,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats-dc1.frz.io^
 ||stats-factory.digitregroup.io^
 ||stats.ipmgroup.be^
-||t.360.audion.fm^
 ||t.ofsys.com^
 ||tag.goldenbees.fr^
 ||tag.leadplace.fr^
@@ -34112,7 +34119,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Vietnamese
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
-||tracking3.vnncdn.net^
 ||za.zdn.vn^
 
 !
@@ -41452,7 +41458,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||toppage.vn^
 ||tr.topdevvn.com^
 ||tracer.concung.com^
-||track-srv.vietnamnet.vn^
 ||track.adshay.vn^
 ||track.icheck.com.vn^
 ||track.kyna.vn^
