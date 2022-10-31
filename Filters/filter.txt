@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-10-31T12:01:21.986Z
+! Last modified: 2022-10-31T15:08:01.926Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5891,6 +5891,7 @@ vkcdnservice.appspot.com^
 ||cmnfybfjn.xyz^
 ||cmpgns.net^
 ||cmrdr.com^
+||cms100.xyz^
 ||cmtrsrlyyiche.com^
 ||cncflpfw.com^
 ||cndeccsqtmjyh.com^
@@ -16369,6 +16370,7 @@ vkcdnservice.appspot.com^
 ||rivulussati.com^
 ||rixaka.com^
 ||riycecerfpjreyx.xyz^
+||rjduwnkfxuumg.com^
 ||rjhbcghmln.com^
 ||rjoawidlneitc.com^
 ||rjstusbx.com^
@@ -39434,7 +39436,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||annonsera.kyrkanstidning.se^
 ||anonymousdemographics.com^
 ||api.getlevelten.com^
-||api.ipify.org^
 ||app.converdiant.com^
 ||apps.shareaholic.com^
 ||aquaplatform.com^
@@ -43959,6 +43960,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||oqshoyd.cn^
 ||jieshareme.xyz^
 ||vrmgwvz.cn^
+||ognlaigk.fun^
+||lpxmall.com^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
