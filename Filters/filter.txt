@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-09T00:03:43.589Z
+! Last modified: 2022-11-09T06:01:20.385Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||iigmlx.com^
 ||maturecodes.com^
 ||ojqbnqdwycws.com^
 ||mpmqqbinaakpsqu.xyz^
@@ -41902,8 +41903,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Nov 2022 23:28 UTC+7
-! Version: 2211082328
+! Last modified: 09 Nov 2022 11:50 UTC+7
+! Version: 2211091150
 ! Blocked: 1.553 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -41931,7 +41932,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adsbanner.game.zing.vn^
 ||adsota.com^
 ||adsplay.net^
-||adsplay.xyz^
 ||adstracking.apps.zing.vn^
 ||adtima-common.zadn.vn^
 ||adtima-common.zascdn.me^
@@ -42032,7 +42032,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logzh.dantocmiennui.vn^
 ||logzh.vietnamplus.vn^
 ||matomo.*.vn^
-||mautic.*.com.vn^
 ||mautic.*.vn^
 ||mautic.hubs.vn^
 ||mclick.mobi^
@@ -42291,6 +42290,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bigwinvietnam.com^
 ||bk8.live^
 ||bk8c.com^
+||bk8p.com^
 ||bk8vietnam.com^
 ||bk8vnd.com^
 ||bogcuoc.com^
@@ -42343,6 +42343,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dk8.games^
 ||dk8.link^
 ||dk802.com^
+||dk8815.com^
 ||dola88.info^
 ||ebet.com^
 ||eclbet02.com^
@@ -43411,6 +43412,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dsfhr.xyz^
 ||u09.xyz^
 ||516624.com^
+||i46.xyz^
+||renxingganwu.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
