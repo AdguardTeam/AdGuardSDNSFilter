@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-09T18:01:15.542Z
+! Last modified: 2022-11-10T00:03:04.927Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,17 @@
 !
 !
 !
+||tegronews.com^
+||guesswhatnews.com^
+||luronews.com^
+||deeginews.com^
+||gofenews.com^
+||jemonews.com^
+||rookinews.com^
+||sifenews.com^
+||huronews.com^
+||selornews.com^
+||loopanews.com^
 ||xymhdmqrjxwl.com^
 ||ujvidekck.com^
 ||facaltow.net^
@@ -22314,6 +22325,7 @@ vkcdnservice.appspot.com^
 ||xmsflzmygw.com^
 ||xmvusqpp.com^
 ||xmykvlmvbghko.com^
+||xn--r1a.website^
 ||xndcnnkygvd.com^
 ||xnnfchykwvgjmoh.com^
 ||xoalt.com^
@@ -43405,23 +43417,26 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||516624.com^
+||51fa.shop^
 ||678tktp.com^
 ||897263tqs.com^
 ||dinyqgv.cn^
-||riqnhxq.cn^
-||ygcn.ltd^
-||sqnggnsb.fun^
-||gfxjjpo.cn^
-||eqyzc.cyou^
-||kcmomkn.cn^
 ||dsfhr.xyz^
-||u09.xyz^
-||516624.com^
+||eqyzc.cyou^
+||gfxjjpo.cn^
 ||i46.xyz^
-||renxingganwu.com^
-||51fa.shop^
 ||iftjwuu.cn^
+||kcmomkn.cn^
 ||picnewsss.com^
+||renxingganwu.com^
+||riqnhxq.cn^
+||sqnggnsb.fun^
+||u09.xyz^
+||ygcn.ltd^
+||lpaysfr.cn^
+||eqnggnsw.fun^
+||xpdjsd.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -51052,6 +51067,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||baidujs.cnys.com^
 ||baj.fanwenzhan.com^
 ||bas.boshi.tv^
+||bchina-1.xsfaya.com^
 ||bd*-ys.km.com^
 ||bd-js1.2345.com^
 ||bd-s.baixing.net^
@@ -51579,7 +51595,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xinju.cc^
 ||xitongku.cc^
 ||xne1ocient87zxz.360doc.cn^
-||bchina-1.xsfaya.com^
 ||xue.zbyw.cn^
 ||xuexi.hydcd.com^
 ||y.photoint.net^
