@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-10T08:51:53.932Z
+! Last modified: 2022-11-10T10:24:33.516Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -51776,6 +51776,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/134172
+@@||api.docodoco.jp^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/133715
 @@||js.monitor.azure.com^|
 ! https://old.reddit.com/r/Adguard/comments/wkcvpx/redirect_link_not_working_when_adguard_pro_ios_is/
