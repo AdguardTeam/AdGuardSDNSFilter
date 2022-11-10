@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-10T10:24:33.516Z
+! Last modified: 2022-11-10T12:01:24.842Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30440,6 +30440,10 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||servo-report.dvdfab.at^
+||servo-report.dvdfab.cn^
+||servo-report.dvdfab.co.jp^
+||servo-report.dvdfab.fr^
 ||static.affiliatly.com^
 ||client-analytics.mts.ru^
 ||analytics-wcms.joins.net^
@@ -30504,8 +30508,6 @@ vkcdnservice.appspot.com^
 ||core.airbridge.io^
 ||metrics.biletino.com^
 ||analytics.afirstsoft.cn^
-||analytics-api.dvdfab.co.jp^
-||analytics-api.dvdfab.fr^
 ||ef.fanatical.com^
 ||analytics.kurocore.com^
 ||metricus.artlebedev.ru^
@@ -30661,6 +30663,9 @@ vkcdnservice.appspot.com^
 ||analytic.piri.net^
 ||analytic20.detik.com^
 ||analyticapi.piri.net^
+||analytics-api.dvdfab.at^
+||analytics-api.dvdfab.co.jp^
+||analytics-api.dvdfab.fr^
 ||analytics-api.dvdfab.cn^
 ||analytics-api.smzdm.com^
 ||analytics-ingress-global.bitmovin.com^
@@ -43491,6 +43496,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nypswiu.cn^
 ||828239sam.com^
 ||kvtlll.top^
+||myproteincn.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
