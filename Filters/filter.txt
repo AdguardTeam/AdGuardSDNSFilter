@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-16T00:03:01.480Z
+! Last modified: 2022-11-16T06:01:17.196Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42168,9 +42168,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Nov 2022 16:31 UTC+7
-! Version: 2211141631
-! Blocked: 1.552 rules
+! Last modified: 16 Nov 2022 09:20 UTC+7
+! Version: 2211160920
+! Blocked: 1.553 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -42709,6 +42709,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||i99906.com^
 ||i99908.com^
 ||i9bet102.com^
+||i9bet105.com^
 ||i9bet109.com^
 ||i9bet111.com^
 ||i9bet444.com^
@@ -43772,6 +43773,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jpai.xyz^
 ||itheq.xyz^
 ||gpsncbo.cn^
+||ljrot.icu^
+||ozngisyk.xyz^
+||pinkboy.fun^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
