@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-22T12:01:19.506Z
+! Last modified: 2022-11-22T16:43:03.457Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||ovalfunny.com^
 ||rubymillsnpro.com^
 ||itecoust.com^
 ||pasbaqxxact.com^
@@ -25575,6 +25576,10 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||dbankcloud.cn^
+||dbankcloud.ru^
+||dbankcloud.eu^
+||dbankcloud.asia^
 ||thecatmachine.com^
 ||blueduckredapple.com^
 ||cdn.mobilefuse.com^
@@ -30746,6 +30751,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||xp.apple.com^
 ||tracking.immobilienscout24.de^
 ||pclog.3u.com^
 ||udgrbq.malwarebytes.com^
@@ -32907,6 +32913,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||stat.gspaceteam.com^
 ||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
 ||ets.easybrain.com^
 ||tracking-widget.fillr.com^
@@ -43972,6 +43979,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tfaftemail.com^
 ||xiaohui.ink^
 ||iwqetbj.cn^
+||rgfqcly.cn^
+||renzw.xyz^
+||ubln.top^
+||luotuoma.xin^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -52259,6 +52270,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/easylist/easylist/pull/14208
+! Blocked by CNAME online-metrix.net
+@@||login.eki-net.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/134172
 @@||api.docodoco.jp^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/133715
