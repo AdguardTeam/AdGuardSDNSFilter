@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-25T12:01:22.845Z
+! Last modified: 2022-11-25T13:22:35.043Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30828,6 +30828,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.*.sky.com^
 ||analytics.htmedia.in^
 ||xp.apple.com^
 ||tracking.immobilienscout24.de^
@@ -44121,6 +44122,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yfue99.xyz^
 ||dbmcmhh.cn^
 ||xqcjfcb.cn^
+||056opui.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -52407,6 +52409,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1115
+! Blocked by CNAME tapfiliate.com
+@@||partner.everydays.de^|
 ! https://github.com/easylist/easylist/pull/14208
 ! Blocked by CNAME online-metrix.net
 @@||login.eki-net.com^|
