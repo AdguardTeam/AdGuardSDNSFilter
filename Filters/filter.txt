@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-26T00:02:41.308Z
+! Last modified: 2022-11-26T06:01:28.141Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42454,9 +42454,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Nov 2022 09:35 UTC+7
-! Version: 2211250935
-! Blocked: 1.496 rules
+! Last modified: 26 Nov 2022 09:58 UTC+7
+! Version: 2211260958
+! Blocked: 1.492 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -43468,7 +43468,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ads.home.vn^
 ||ads.homedy.net^
 ||ads.ictnews.vn^
-||ads.khoahocdoisong.vn^
 ||ads.kiemsat.vn^
 ||ads.lamchame.vn^
 ||ads.laodongbinhduong.org.vn^
@@ -43500,7 +43499,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adserver.muaban.net^
 ||adserver.trangphim.net^
 ||adsgo.nhipcaudautu.vn^
-||adsnetonline.work^
 ||adsplus.vn^
 ||adsv2.autodaily.vn^
 ||adsweb.vn^
@@ -43578,7 +43576,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||app.sbz.workers.dev^
 ||avoadsservices.com^
 ||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
-||banhtv.org^
 ||banner.5giay.vn^
 ||banner.etargeting.mobifone.vn^
 ||banner.thadaco.vn^
@@ -43587,7 +43584,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bgadx.com^
 ||bi.vhost.vn^
 ||bidgear-syndication.com^
-||bluemaulpuffs.com^
 ||btrack.homedy.com^
 ||campaign.gitiho.com^
 ||cdn-ads.thesaigontimes.vn^
@@ -44168,6 +44164,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pmcppla.cn^
 ||simi1234.com^
 ||lxrhw.xyz^
+||qganilgly.cyou^
+||hqqpw.mobi^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
