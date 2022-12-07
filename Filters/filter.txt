@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-07T06:01:11.688Z
+! Last modified: 2022-12-07T06:42:23.035Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -52031,6 +52031,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1131
+@@||surveymyopinion.researchnow.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1114
 ! Blocked by CNAME track.customer.io
 @@||e.customeriomail.com^|
