@@ -1,3 +1,6 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/136509
+! Blocked by CNAME c.msn.com
+@@||c.office.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1131
 @@||surveymyopinion.researchnow.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1114
