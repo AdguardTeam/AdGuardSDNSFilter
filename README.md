@@ -65,6 +65,8 @@ The output is written to `Filters/filter.txt`.
 
 * [EasyList China](https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt)
 
+* [EasyList Dutch](https://raw.githubusercontent.com/easylist/easylistdutch/master/easylistdutch/block_third_party_server.txt)
+
 * [ABPindo](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt)
 
 * [ABPindo — third-party servers](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/thirdparty.txt)
