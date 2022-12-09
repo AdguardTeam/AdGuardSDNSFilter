@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-09T12:01:14.748Z
+! Last modified: 2022-12-09T13:42:46.563Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||theupgradedata.com^
+||theloveapproach.com^
 ||neeladou.net^
 ||blfoddifghcmeyc.com^
 ||tauwoumo.net^
@@ -34073,7 +34075,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||direct-collect.dy-api.com^
 ||direct-collect.dy-api.eu^
 ||api.telemetry.watchabc.go.com^
-||browser.events.data.microsoft.com^
 ||analytics.rover.io^
 ||events-collector-api.viacom.tech^
 ||pipe.aria.microsoft.com^
@@ -37565,6 +37566,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||temporarympay.com^
 ||hjheaijhafgfgbaaaei.ru^
 ||hjcbehchdddcegcfaaei.ru^
 ||pb.plat.services^
@@ -37762,7 +37764,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zkbkat.com^
 ||uqystk.com^
 ||j1oxqq05ry.ru^
-||temporarympay.com^
 ||1qi.info^
 ||aomngb.com^
 ||q0mn5t187u.ru^
@@ -52256,6 +52257,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/136509
+! Blocked by CNAME c.msn.com
+@@||c.office.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1131
 @@||surveymyopinion.researchnow.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1114
