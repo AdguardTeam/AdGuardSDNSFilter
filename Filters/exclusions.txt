@@ -1,3 +1,5 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1148
+||mradx.net^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136509
 ||browser.events.data.microsoft.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1130
@@ -112,7 +114,7 @@
 ||remind.me^
 ! This rule blocked c.disquscdn.com by CNAME
 ||d231vab146qzfb.cloudfront.net^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/863 
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/863
 ||db-ip.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/101532
 ||threatbook.cn^
@@ -270,7 +272,7 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/418
 ||gm99.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344#issuecomment-673931103
-! Will be included in a more aggressive DNS configuration 
+! Will be included in a more aggressive DNS configuration
 ||telemetry.mozilla.org^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/416
 ||bytedance.com^
@@ -361,9 +363,9 @@
 ||sp-prod.net^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/226
 ||mybannermaker.com^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/222 
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/222
 ||marsflag.com^
-! Do not break clicks through the MS redirect service 
+! Do not break clicks through the MS redirect service
 ||click.engage.xbox.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/219
 ||dpbolvw.net^
