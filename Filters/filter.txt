@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-15T00:02:39.971Z
+! Last modified: 2022-12-15T06:01:05.087Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -13792,6 +13792,7 @@ vkcdnservice.appspot.com^
 ||pastaesthetictracks.com^
 ||pastimebeakjudgement.com^
 ||pastivapte.pro^
+||pastoupt.com^
 ||pastreflected.com^
 ||pasxfixs.com^
 ||patalogs.com^
@@ -32414,6 +32415,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gravitec.net^
 ||heroesdom.com^
 ||highfalutinhoney.com^
+||hrbpark.bid^
 ||jeeng.com^
 ||kattepush.com^
 ||master-push.com^
@@ -32424,6 +32426,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mypush.online^
 ||najva.com^
 ||nativesubscribe.pro^
+||netmera-web.com^
 ||notifadz.com^
 ||notify.solutions^
 ||notiks.io^
@@ -32439,6 +32442,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||push-ad.com^
 ||push-free.com^
 ||push-house.net^
+||push.delivery^
 ||push7.jp^
 ||pushalert.co^
 ||pushbird.com^
@@ -32462,11 +32466,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||unative.com^
 ||viapush.com^
 ||webpu.sh^
+||webpushs.com^
 ||whiteclick.biz^
 ||wonderpush.com^
 ||wpshsdk.com^
 ||wwclickserv.club^
 ||wwclicktm.club^
+||wwopenclick.space^
 ||xtremepush.com^
 ! Fingerprinting
 ||citrusad.net^
@@ -35315,7 +35321,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||torren.eu^
 ||svekolasg.pro^
 ||adtraf.pro^
-||wwopenclick.space^
 ||sghmho.com^
 ||xg2o402yyy.ru^
 ||oldrrb.bid^
@@ -40438,9 +40443,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Dec 2022 14:33 UTC+7
-! Version: 2212131433
-! Blocked: 799 rules
+! Last modified: 15 Dec 2022 11:23 UTC+7
+! Version: 2212151123
+! Blocked: 800 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -40838,6 +40843,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.diamondstarfinancial.com.vn^
 ||analytics.evgcdn.net^
 ||analytics.fsoft.com.vn^
+||analytics.hebela.vn^
 ||analytics.hub-js.com^
 ||analytics.jamstackvietnam.com^
 ||analytics.mfocus.vn^
@@ -41698,6 +41704,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kyrj.xyz^
 ||wyqwrfghj.live^
 ||hcdjy.xyz^
+||tsmirk.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
