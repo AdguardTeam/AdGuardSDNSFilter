@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-22T18:01:17.314Z
+! Last modified: 2022-12-23T00:02:51.320Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1424,6 +1424,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||creative.live7mm.tv^
 ||ad.petel.bg^
 ||d2o03z2xnyxlz5.cloudfront.net^
 ||rek5.savefrom.net^
@@ -3779,6 +3780,7 @@ vkcdnservice.appspot.com^
 ||angerawkwardstricken.com^
 ||angersteerpad.com^
 ||angeyokjoggle.com^
+||anginasallodge.com^
 ||angioidmodular.casa^
 ||anglebailiff.com^
 ||anglended.club^
@@ -5695,6 +5697,7 @@ vkcdnservice.appspot.com^
 ||canonch.pro^
 ||canstrm.com^
 ||cantdogblued.uno^
+||canteentangka.com^
 ||cantpastelli.one^
 ||canvassblanketjar.com^
 ||cap-cap-pop.com^
@@ -6632,6 +6635,7 @@ vkcdnservice.appspot.com^
 ||cristianonaldo.com^
 ||critariatele.pro^
 ||criticismheadphoneprinting.com^
+||critmistbow.com^
 ||crjpingate.com^
 ||crm4d.com^
 ||crocopop.com^
@@ -6847,6 +6851,7 @@ vkcdnservice.appspot.com^
 ||darghinruskin.com^
 ||dariolunus.com^
 ||darkerillegimateillegimateshade.com^
+||darkestfertil.com^
 ||darkoccasion.pro^
 ||darleygamball.cfd^
 ||darneluretic.com^
@@ -8247,6 +8252,7 @@ vkcdnservice.appspot.com^
 ||faa39957a3.com^
 ||fabrkrup.com^
 ||fabrouter.com^
+||facemanuptore.com^
 ||facesnotebook.com^
 ||facesrenaissanceconfirmed.com^
 ||facilitatevoluntarily.com^
@@ -8492,6 +8498,7 @@ vkcdnservice.appspot.com^
 ||filetarget.com^
 ||filetarget.net^
 ||filetedlawines.com^
+||filetstaipo.com^
 ||filippiwilled.uno^
 ||fillsitsy.cam^
 ||fimserve.com^
@@ -9423,6 +9430,7 @@ vkcdnservice.appspot.com^
 ||gripemail.com^
 ||gripetravel.com^
 ||grirault.net^
+||grirtouy.com^
 ||gristleupanaya.com^
 ||gritaware.com^
 ||grivupie.net^
@@ -9476,6 +9484,7 @@ vkcdnservice.appspot.com^
 ||gtructinde.xyz^
 ||gtsads.com^
 ||guabmobil.site^
+||guanscleeks.com^
 ||guardianamazedwireless.com^
 ||guardiandigitalcomparison.co.uk^
 ||guardianinvadecrept.com^
@@ -10709,6 +10718,7 @@ vkcdnservice.appspot.com^
 ||jolecyclist.com^
 ||jolic2.com^
 ||jollyembodyclassified.com^
+||jollyickysolely.com^
 ||jollykeg.com^
 ||jollytestpartying.com^
 ||jonaur.com^
@@ -12885,6 +12895,7 @@ vkcdnservice.appspot.com^
 ||nockerlpittite.website^
 ||noclef.com^
 ||noddingdilutionradish.com^
+||nodouslover.com^
 ||nodrmcxjevtuc.xyz^
 ||noelsdoc.cam^
 ||noerwe5gianfor19e4st.com^
@@ -13033,6 +13044,7 @@ vkcdnservice.appspot.com^
 ||nulez.xyz^
 ||null-point.com^
 ||nullsrefilliron.com^
+||nullusposolo.com^
 ||nultoaly.net^
 ||nulwhbbyfdxy.com^
 ||numberium.com^
@@ -18608,6 +18620,7 @@ vkcdnservice.appspot.com^
 ||vilith.com^
 ||villageeatable.com^
 ||villasquinttolerance.com^
+||vimfulmortis.com^
 ||vimmenced.club^
 ||vimohustu.com^
 ||vinalsmuffish.com^
@@ -27337,6 +27350,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||unagi*.amazon.
+||c.salon24.pl^
 ||pixel.archive.
 ||cl.t3n.de^
 ||st.bitban.com^
@@ -40359,6 +40374,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
 ||zzwzsic.cn^
+||vahdzbk.cn^
+||chlinb.xyz^
+||fmblph.xyz^
+||qeptzff.cn^
+||ddxs.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
