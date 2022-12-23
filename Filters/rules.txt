@@ -570,3 +570,10 @@
 ||torvind.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
+!
+! Special block section, requires explanation for the rule
+!
+! https://reddit.com/r/Adguard/comments/ztbv96/how_do_i_stop_this_my_phone_is_overheating_and/
+||api2.branch.io^$dnsrewrite=0.0.0.0
+0.0.0.0 api2.branch.io
+!
