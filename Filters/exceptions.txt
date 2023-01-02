@@ -1,6 +1,3 @@
-! TSB Bank mobile banking app - broken push notifications
-! Blocked by CNAME online-metrix.net
-@@||check2.tsb.co.uk^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136509
 ! Blocked by CNAME c.msn.com
 @@||c.office.com^|
@@ -12,9 +9,6 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1115
 ! Blocked by CNAME tapfiliate.com
 @@||partner.everydays.de^|
-! https://github.com/easylist/easylist/pull/14208
-! Blocked by CNAME online-metrix.net
-@@||login.eki-net.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/134172
 @@||api.docodoco.jp^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/133715
@@ -244,7 +238,5 @@
 @@||track.rutarget.ru^|
 ! Watson News App for iOS https://github.com/AdguardTeam/AdguardFilters/issues/4524
 @@||5471782.fls.doubleclick.net^|
-! https://github.com/AdguardTeam/AdguardFilters/issues/4405
-@@||h-sdk.online-metrix.net^|
 ! Fixing Walmart
 @@||omniture.walmart.com^|
