@@ -9,6 +9,6 @@
     "build": "hostlist-compiler -c configuration.json -o Filters/filter.txt --verbose"
   },
   "dependencies": {
-    "@adguard/hostlist-compiler": "1.0.12"
+    "@adguard/hostlist-compiler": "1.0.15"
   }
 }
