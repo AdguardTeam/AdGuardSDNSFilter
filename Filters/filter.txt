@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-09T08:04:03.699Z
+! Last modified: 2023-01-09T12:01:31.772Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -37426,13 +37426,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: AdGuard Russian filter news exchange servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt
 !
-!
-! This section contains the list of the base rules that block news teasers.
-!
-! Good: ||smi24.kz^$third-party
-! Bad:  ||smi24.kz/banners/ (should be in specific.txt)
-!
-!
 ||ini.sm-nat.com^
 ||smi24.kz^
 ||virtonnews.com^
@@ -39638,8 +39631,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Jan 2023 11:52 UTC+7
-! Version: 2301091152
+! Last modified: 09 Jan 2023 15:48 UTC+7
+! Version: 2301091548
 ! Blocked: 795 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -40469,6 +40462,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||595tuchuang.com^
 ||2aqr.net^
 ||3p8801.co^
+||yuqingby.fun^
+||kbbqwhf.cn^
+||felzfr.xyz^
+||vainews.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -47387,7 +47384,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tmea116.oss-cn-beijing.aliyuncs.com^
 ||tp.sgcn.com^
 ||u.63kc.com^
-||uc.zhuici.com^
 ||union.china.com.cn^
 ||union.yihaodian.com^
 ||untitled.dwstatic.com^
@@ -47419,6 +47415,7 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||yin1.zgpingshu.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
