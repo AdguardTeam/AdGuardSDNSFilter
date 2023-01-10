@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-09T18:01:25.857Z
+! Last modified: 2023-01-10T00:02:44.006Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -693,7 +693,6 @@
 ||pop.dojo.cc^
 ||delivery.sexyxxx.biz^
 ||red12flyw2.site^
-||cdn.vlyby.com^
 ||cdn.allsportsflix.best^
 ||calamityfortuneaudio.com^
 ||inedibleproductiveunbelievable.com^
@@ -2143,6 +2142,7 @@ vkcdnservice.appspot.com^
 ||35caec29d1.com^
 ||360popads.com^
 ||360protected.com^
+||360yield-basic.com^
 ||362b643a66026e.com^
 ||364a426c46.com^
 ||3688e59262.com^
@@ -4715,6 +4715,7 @@ vkcdnservice.appspot.com^
 ||baledenseabbreviation.com^
 ||baleiambwee.com^
 ||baletingo.com^
+||balkscaked.com^
 ||balldevelopedhangnail.com^
 ||balloonnails.com^
 ||ballroomexhibitionmid.com^
@@ -5625,6 +5626,7 @@ vkcdnservice.appspot.com^
 ||bukash2jf8jfpw09.com^
 ||buksaiss.net^
 ||bulcqmteuc.com^
+||bulgae.com^
 ||bulium.com^
 ||bulkybawler.com^
 ||bull3t.co^
@@ -7421,6 +7423,7 @@ vkcdnservice.appspot.com^
 ||disparagethence.com^
 ||disparitydegenerateconstrict.com^
 ||dispbaktun.com^
+||disperserepeatedly.com^
 ||displaycontentnetwork.com^
 ||displaycontentprofit.com^
 ||displayfly.com^
@@ -12013,6 +12016,7 @@ vkcdnservice.appspot.com^
 ||loxtk.com^
 ||lp-preview.net^
 ||lplimjxiyx.com^
+||lqcaznzllnrfh.com^
 ||lqcdn.com^
 ||lqgbqafvfga.xyz^
 ||lqw.me^
@@ -14696,6 +14700,7 @@ vkcdnservice.appspot.com^
 ||poetryintendedverdict.com^
 ||pogothere.xyz^
 ||poined.com^
+||poinsk.com^
 ||pointeretards.com^
 ||pointlimitedzen.online^
 ||pointroll.com^
@@ -18428,6 +18433,7 @@ vkcdnservice.appspot.com^
 ||troild.com^
 ||trokemar.com^
 ||trolleydryerfunds.com^
+||trollsvide.com^
 ||tromairiememasdaq.com^
 ||trombocrack.com^
 ||troncomelets.com^
@@ -19969,6 +19975,7 @@ vkcdnservice.appspot.com^
 ||xipheglipy.com^
 ||xissidearm.com^
 ||xkdijkdiefu.com^
+||xkesalwueyz.com^
 ||xkpbcd.com^
 ||xkpgguajr.com^
 ||xkybwner.xyz^
@@ -21908,6 +21915,7 @@ vkcdnservice.appspot.com^
 ||videoplaza.com^
 ||videoroll.net^
 ||vitalads.net^
+||vlyby.com^
 ||voodoo.com^
 ||vungle.com^
 ||vupulse.com^
@@ -32102,6 +32110,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a.getflowbox.com^
 ||a.hcaptcha.com^
 ||aan.amazon.com^
+||actioniq.mr-in.com^
 ||activity.wisepops.com^
 ||ad.aloodo.com^
 ||adfox.yandex.ru^
@@ -32273,6 +32282,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.sspinc.io^
+||commerce.bing.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||connect.idocdn.com^
 ||connext-cdn.azureedge.net^
@@ -32845,6 +32855,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d3bj8nkfly20uo.cloudfront.net^
 ||d3bo67muzbfgtl.cloudfront.net^
 ||d3cgm8py10hi0z.cloudfront.net^
+||d3gi6isrskhoq.cloudfront.net^
 ||d3iouejux1os58.cloudfront.net^
 ||d3m6sept6cnil5.cloudfront.net^
 ||d3mskfhorhi2fb.cloudfront.net^
@@ -40469,6 +40480,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zeipw.xyz^
 ||ztxstudy.club^
 ||zunnnh.xyz^
+||x3a88d.cn^
+||damhixs.cn^
+||dxgyl.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -48069,8 +48083,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qiyeb.iaskbus.com^
 ||qiyegongqiu1.qiyegongqiu.com^
 ||ql.uzuzuz.com^
-||qpb.sohu.com^
-||qpb0.sohu.com^
+||qpb*.sohu.com^
 ||qqhuhu.com^
 ||qqwwmm.com^
 ||qujishu.com^
