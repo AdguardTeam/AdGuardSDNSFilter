@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-11T12:01:28.710Z
+! Last modified: 2023-01-11T13:53:33.378Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -37957,6 +37957,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||more-followers.com^
 ||trigraff.com^
 ||threeate.jp^
 ||adplushome.com^
@@ -40631,6 +40632,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hibaby.ren^
 ||huihemou.com^
 ||banhui.xyz^
+||u25011.com^
+||u23022.com^
+||u23055.com^
+||u23011.com^
+||u25022.com^
+||u23033.com^
+||nypyzx.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -48479,6 +48487,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1181
+! Blocked by CNAME exponea.com
+@@||crm-cdn.peek-cloppenburg.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136509
 ! Blocked by CNAME c.msn.com
 @@||c.office.com^|
