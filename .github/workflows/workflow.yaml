@@ -11,11 +11,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3.3.0
       - name: Use Node.js
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3.6.0
         with:
-          node-version: 14.x
+          node-version: 19.x
 
       - name: yarn
         run: |
@@ -30,7 +30,7 @@ jobs:
           CI: true
 
       - name: deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v3.9.1
         if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
