@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-23T00:02:46.637Z
+! Last modified: 2023-01-23T06:01:20.389Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -29471,6 +29471,7 @@ vkcdnservice.appspot.com^
 ||sysmon.kakaku.com^
 ||t-ak.hulu.com^
 ||t.451.io^
+||t.arianelab.com^
 ||t.blinkist.com^
 ||t.channeladvisor.com^
 ||t.cinemablend.com^
@@ -30663,7 +30664,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||securedvisit.com^
 ||site24x7rum.eu^
 ||sitedataprocessing.com^
-||sixtrk.com^
 ||sjpf.io^
 ||snptrk.com^
 ||soapfighters.com^
@@ -30768,10 +30768,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aprtn.com^
 ||apsis1.com^
 ||apsislead.com^
-||apxy.io^
 ||aralego.net^
 ||ardalio.com^
-||arianelab.com^
 ||arrivalist.com^
 ||arsdev.net^
 ||ascend.ai^
@@ -31048,7 +31046,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||koji-analytics.com^
 ||kokos.click^
 ||konduit.me^
-||ktxtr.com^
 ||l2.io^
 ||leadberry.com^
 ||leadbi.com^
@@ -31297,7 +31294,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||squeezely.tech^
 ||ssm.codes^
 ||stackadapt.com^
-||stadsvc.com^
 ||star-cntr-5.com^
 ||stat-track.com^
 ||stat.social^
@@ -31629,7 +31625,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||g1thub.com^
 ||gay-hotvideo.net^
 ||googleanalytcs.com^
-||greengaming.de^
 ||gus.host^
 ||hashcoin.co^
 ||hashnest.com^
@@ -31704,7 +31699,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||usa.cc^
 ||verifypow.com^
 ||wasm.stream
-||wbmwss.beetv.net^
 ||webassembly.stream^
 ||webmine.pro^
 ||webxmr.com^
@@ -31846,7 +31840,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||placeframe.com^
 ||planesorder.com^
 ||plantrelation.com^
-||pluckytaste.com^
 ||pointlesspocket.com^
 ||pricklydebt.com^
 ||propertypotato.com^
@@ -31995,7 +31988,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.facebook.com^
 ||analytics.favcy.com^
 ||analytics.firespring.com^
-||analytics.googlepeer.cloud^
 ||analytics.gooogol.com^
 ||analytics.groupe-seb.com^
 ||analytics.gvim.mobi^
@@ -32300,7 +32292,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||loader-cdn.azureedge.net^
 ||loader.zeroform.com^
 ||log-*.previewnetworks.com^
-||log-global.aliyuncs.com^
 ||log.artipbox.net^
 ||log.cookieyes.com^
 ||log.kibboko.com^
@@ -32330,7 +32321,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metrics.readme.io^
 ||metrics.scribblelive.com^
 ||metrix.emagister.com^
-||metrixlablw.customers.luna.net^
 ||mlweb.dmlab.hu^
 ||mmi.bemobile.ua^
 ||mon.domdog.io^
@@ -32765,7 +32755,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||seal.godaddy.com^
 ||seal.networksolutions.com^
 ||seal.qualys.com^
-||seal.verisign.com^
 ||secure.trust-guard.com^
 ||securitymetrics.com^
 ||shield.sitelock.com^
@@ -32894,7 +32883,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cctvgb.com.cn^
 ||cdnmaster.cn^
 ||cr-nielsen.com^
-||elevenmedia.cn^
 ||emarbox.com^
 ||ggxt.net^
 ||gostats.cn^
@@ -33089,7 +33077,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gdeslon.ru^
 ||get4click.ru^
 ||gnezdo.ru^
-||hobbi.xyz^
 ||idntfy.ru^
 ||imrk.net^
 ||infox.sg^
@@ -33112,7 +33099,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||teletarget.ru^
 ||theactivetag.com^
 ||tophitbit.com^
-||tpm.pw^
 ||upravel.com^
 ||utraff.com^
 ||variti.net^
@@ -33169,7 +33155,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||artemis-cdn.ocdn.eu^
 ||beagle.prod.tda.link^
 ||blacktri-a.akamaihd.net^
-||cdntrf.de^
 ||cgicounter.onlinehome.de^
 ||collector.ozeex.com^
 ||com.econa.com^
@@ -33184,7 +33169,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||et.twyn.com^
 ||events.onet.pl^
 ||geo.mtvnn.com^
-||im.aol.de^
 ||info.elba.at^
 ||live.cxo.name^
 ||liveviewer.ez.no^
@@ -33410,7 +33394,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||neurotrack.neurolake.io^
 ||segmentor.snowfox-ai.com^
 ||tags.cmp.tail.digital^
-||track.e7r.com.br^
 ||tracker.tolvnow.com^
 ||visit-prod-us.occa.ocs.oraclecloud.com^
 ||webstats.sapo.pt^
@@ -38470,6 +38453,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||klick4u.de^
 ||klicktausch.com^
 ||komplads.net^
+||ktxtr.com^
 ||letvertise.com^
 ||liferd.de^
 ||lilaelefant.de^
