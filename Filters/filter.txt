@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-24T00:02:22.384Z
+! Last modified: 2023-01-24T06:01:15.432Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -1371,7 +1371,6 @@
 ||ad.petel.bg^
 ||d2o03z2xnyxlz5.cloudfront.net^
 ||rek5.savefrom.net^
-||creative.live.missav.com^
 ||ad.apl164.me^
 ||ad.mediaprimaplus.com.my^
 ||cdnads.geeksforgeeks.org^
@@ -1951,6 +1950,7 @@ vkcdnservice.appspot.com^
 ||21hn4b64m.de^
 ||21sexturycash.com^
 ||2276bf7413.com^
+||22f538366c.com^
 ||22lmsi1t5.de^
 ||23182b9851.com^
 ||23d097de11.com^
@@ -2016,6 +2016,7 @@ vkcdnservice.appspot.com^
 ||2e3f31faae.com^
 ||2e552e6db0.com^
 ||2e8dgn8n0e0l.com^
+||2f488993d1.com^
 ||2fb8or7ai.de^
 ||2fd8c0e9fc.com^
 ||2fe913d83a.com^
@@ -2395,6 +2396,7 @@ vkcdnservice.appspot.com^
 ||7f403e402a.com^
 ||7f59b515a6.com^
 ||7fb60feaa4.com^
+||7fc0966988.com^
 ||7fkm2r4pzi.com^
 ||7fva8algp45k.com^
 ||7hor9gul4s.com^
@@ -2489,6 +2491,7 @@ vkcdnservice.appspot.com^
 ||96a8b5ac22.com^
 ||96e0993c2f.com^
 ||97d73lsi.com^
+||97e4ef7bf5.com^
 ||986808cb44.com^
 ||98a54df250.com^
 ||9996777888.com^
@@ -3317,6 +3320,7 @@ vkcdnservice.appspot.com^
 ||afqdcfbgpaj.xyz^
 ||afqnhjsjmgcmhy.top^
 ||afr4g5.de^
+||afrant.com^
 ||africaewgrhdtb.com^
 ||africawin.com^
 ||afrier.com^
@@ -3809,6 +3813,7 @@ vkcdnservice.appspot.com^
 ||anguishleague.com^
 ||angularconstitution.com^
 ||anightsregalia.cam^
+||animated-button.pro^
 ||animated-company.pro^
 ||animatedbothervogue.com^
 ||animatedpopular.com^
@@ -3874,6 +3879,7 @@ vkcdnservice.appspot.com^
 ||anybodytoldsieve.com^
 ||anyideaho.fun^
 ||anymad.com^
+||anymautey.xyz^
 ||anymind360.com^
 ||anymoresentencevirgin.com^
 ||anyoneengravemighty.com^
@@ -6853,6 +6859,7 @@ vkcdnservice.appspot.com^
 ||d25ee3531d.com^
 ||d29gqcij.com^
 ||d2e48d0dce.com^
+||d2pdbggfzjbhzh.cloudfront.net^
 ||d2ship.com^
 ||d31c6d951c.com^
 ||d359wjs9dpy12d.cloudfront.net^
@@ -7840,6 +7847,7 @@ vkcdnservice.appspot.com^
 ||ecound.com^
 ||ecpmrocks.com^
 ||ecpms.net^
+||ecthymaalgodon.com^
 ||ectinhoratio.lol^
 ||ectresulto.com^
 ||ectuallyenitwas.info^
@@ -8290,6 +8298,7 @@ vkcdnservice.appspot.com^
 ||exarchykhu.store^
 ||exceedinglydiscovered.com^
 ||excellenceads.com^
+||excellent-closet.pro^
 ||exceph.com^
 ||exceptexchange.com^
 ||exchak.com^
@@ -9327,6 +9336,7 @@ vkcdnservice.appspot.com^
 ||glauvoob.com^
 ||glaxaukr.net^
 ||glazegha.com^
+||glazilyvenues.com^
 ||glbtrk.com^
 ||gleameddelightprosperity.com
 ||glebypraiss.com^
@@ -10252,6 +10262,7 @@ vkcdnservice.appspot.com^
 ||hydnoraraasch.tech^
 ||hydragrouge.com^
 ||hygieneretorted.com^
+||hykerewasn.xyz^
 ||hykrrersrl.com^
 ||hyloistmithan.com^
 ||hymenalwiring.com^
@@ -11799,6 +11810,7 @@ vkcdnservice.appspot.com^
 ||lndjj.com^
 ||lnk8j7.com^
 ||lnkrdr.com^
+||lnmbiooqvvjnnhy.com^
 ||lnwinopinion.click^
 ||lo8ve6ygour3pea4cee.com^
 ||loachesmanjeri.space^
@@ -12490,6 +12502,7 @@ vkcdnservice.appspot.com^
 ||misguidedstork.com^
 ||mishishoka.pro^
 ||misreputyso.xyz^
+||missav.com^
 ||missgrand.beauty^
 ||missionarymargaret.com^
 ||missiondues.com^
@@ -15368,6 +15381,7 @@ vkcdnservice.appspot.com^
 ||qwerfdx.com^
 ||qwertytracks.com^
 ||qxdeqrxsxbnqbm.com^
+||qxeemdpaerfjer.xyz^
 ||qydhjirz.com^
 ||qyxwfe.com^
 ||qz496amxfh87mst.com^
@@ -18540,6 +18554,7 @@ vkcdnservice.appspot.com^
 ||ucdn.website^
 ||ucheephu.com^
 ||uchkzmzehr.com^
+||ucrllagm.com^
 ||ucvscfrtrnbr.xyz^
 ||udarem.com^
 ||udbaa.com^
@@ -19003,6 +19018,7 @@ vkcdnservice.appspot.com^
 ||veessot.com^
 ||veesspot.com^
 ||veewhaiw.com^
+||vehead.com^
 ||vehese.com^
 ||veilsuccessfully.com^
 ||veinnotionmariner.com^
@@ -19151,6 +19167,7 @@ vkcdnservice.appspot.com^
 ||visualsteel.net^
 ||visuzh.com^
 ||vitcory.com^
+||vixmwnivtbqk.com^
 ||vixoafte.xyz^
 ||viyuzi.xyz^
 ||vjdciu.com^
@@ -19470,6 +19487,7 @@ vkcdnservice.appspot.com^
 ||wfnetwork.com^
 ||wg-aff.com^
 ||wgpsjcpdulptl.com^
+||whaavccifo.com^
 ||whackaggressive.com^
 ||whagrolt.com^
 ||whaidree.com^
@@ -22230,7 +22248,6 @@ vkcdnservice.appspot.com^
 ||d2nz8k4xyoudsx.cloudfront.net^
 ||d2o51l6pktevii.cloudfront.net^
 ||d2ojfulajn60p5.cloudfront.net^
-||d2pdbggfzjbhzh.cloudfront.net^
 ||d2pnacriyf41qm.cloudfront.net^
 ||d2pxbld8wrqyrk.cloudfront.net^
 ||d2q52i8yx3j68p.cloudfront.net^
@@ -40626,6 +40643,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gfqsded.cn^
 ||zlfthh.xyz^
 ||kiymowg.cn^
+||hellu.cyou^
+||nykoubk.cn^
+||saccac11.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
