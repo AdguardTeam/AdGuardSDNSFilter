@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-01T00:02:42.214Z
+! Last modified: 2023-02-01T06:01:32.176Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -39845,9 +39845,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 31 Jan 2023 11:10 UTC+7
-! Version: 2301311110
-! Blocked: 804 rules
+! Last modified: 01 Feb 2023 11:56 UTC+7
+! Version: 2302011156
+! Blocked: 808 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -39869,6 +39869,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ads.botbanhang.vn^
 ||ads.platform.zalo.me^
 ||ads.thanhnien.vn^
+||ads.vtc.vn^
 ||ads.zalo.me^
 ||ads.zaloapp.com^
 ||ads.zdn.vn^
@@ -39927,6 +39928,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||customers.fptad.com^
 ||daleriki.com^
 ||delivery.akadigital.vn^
+||delivery.vtc.vn^
+||delivery.vtcnew.com.vn^
+||delivery.vtcnews.vn^
 ||donglogs.com^
 ||dtadnetwork.com^
 ||elogs.vnexpress.net^
@@ -40082,6 +40086,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.playzing.g6.zing.vn^
 ||tracking.tv.zing.vn^
 ||tracking.vnncdn.net^
+||tracking.vtc.vn^
+||tracking.vtcnew.com.vn^
 ||tracking2.vnncdn.net^
 ||trk-pcweb.api.zaloapp.com^
 ||urekamedia.com^
@@ -40321,8 +40327,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cskh.onlinecrm.vn^
 ||csmads.gameclick.vn^
 ||delecpuzz.com^
-||delivery.vtc.vn^
-||delivery.vtcnew.com.vn^
 ||deltago.com^
 ||demopage.me^
 ||deqik.com^
@@ -40516,6 +40520,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me^
 ||ta.toprework.vn^
 ||tagging-qadkfoj6ha-as.a.run.app^
+||tech.zapps.me^
 ||thongke.arttimes.vn^
 ||thongke.baotintuc.vn^
 ||thongke.bookingcare.vn^
@@ -40560,7 +40565,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.vegaid.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
-||tracking.vtcnew.com.vn^
 ||trackingapi.foody.vn^
 ||trackingvn.zingplay.com^
 ||trackity.tiki.vn^
@@ -40957,6 +40961,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||knyjes.xyz^
 ||cwpbohx.cn^
 ||dbtojr.xyz^
+||lpncqju.cn^
+||94188.xyz^
+||kscly.com^
+||qtbzeey.cn^
+||gskbzle.cn^
+||afdplay.xyz^
+||zax01.com^
+||huijixian.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
