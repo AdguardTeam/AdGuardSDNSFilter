@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-03T00:02:25.003Z
+! Last modified: 2023-02-03T06:01:17.018Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -31982,6 +31982,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||screechingstove.com^
 ||seashoresociety.com^
 ||seatsmoke.com^
+||serpentshampoo.com^
 ||shaggytank.com^
 ||shinestuart.com^
 ||showstranger.com^
@@ -32224,6 +32225,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
 ||collect.*.miui.com^
+||collect.alphastream.io^
 ||collect.cloudsponge.com^
 ||collect.iteam-dress.com^
 ||collect.rebelmouse.io^
@@ -39537,9 +39539,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Feb 2023 10:01 UTC+7
-! Version: 2302021001
-! Blocked: 809 rules
+! Last modified: 03 Feb 2023 10:10 UTC+7
+! Version: 2302031010
+! Blocked: 811 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -39549,7 +39551,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ad.accesstrade.vn^
 ||ad.org.vn^
 ||ad.zing.vn^
-||zt1.me.zing.vn^
 ||adasiaholdings.com^
 ||adflex.vn^
 ||adfly.vn^
@@ -39805,6 +39806,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||za.zapps.vn^
 ||za.zingmp3.vn^
 ||za.zingnews.com.vn^
+||zads.me.zing.vn^
 ||zalo-ads-240-td.zadn.vn^
 ||zalo-ads-240.zadn.vn^
 ||zalo-ads-480-td.zadn.vn^
@@ -39816,6 +39818,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zlog.zingmp3.vn^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
+||zt.me.zing.vn^
+||zt1.me.zing.vn^
 ||12signup.com^
 ||360.anatic.net^
 ||a.ladipage.com^
@@ -40682,6 +40686,19 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
+||hppmy.cn^
+||ahclyq.xyz^
+||rtycgmz.cn^
+||tvxqdp.xyz^
+||xeiyt.cyou^
+||w80n.fun^
+||dfsd22.com^
+||dfzv25.com^
+||zczcvx.com^
+||qbd3.site^
+||jike001.top^
+||thlnbzi.cn^
+||tanghao.club^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
