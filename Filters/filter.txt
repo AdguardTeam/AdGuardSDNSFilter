@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-07T00:02:23.763Z
+! Last modified: 2023-02-07T06:01:15.025Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -39742,8 +39742,8 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Feb 2023 22:37 UTC+7
-! Version: 2302062237
+! Last modified: 07 Feb 2023 09:34 UTC+7
+! Version: 2302070934
 ! Blocked: 811 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -40507,6 +40507,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||045zxnm.com^
 ||0s6s0.top^
 ||100ytrf.com^
+||109218er.xyz^
 ||1129555.com^
 ||1134555.com^
 ||1190555.com^
@@ -40562,12 +40563,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||butaeit.cn^
 ||buttn.cyou^
 ||byzt8.top^
+||bzdntl.xyz^
 ||ccemqe.cn^
 ||cerfbup.xyz^
 ||creawww.top^
 ||cuwuqo.xyz^
 ||cwpbohx.cn^
 ||damhixs.cn^
+||darzkrx.cn^
 ||daspic.top^
 ||dbtojr.xyz^
 ||ddqhnjb.cn^
@@ -40577,12 +40580,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dfepm.xyz^
 ||dfghaqea.xyz^
 ||dfsd22.com^
+||dfvvx58.com^
 ||dfzv25.com^
 ||dgozp.com^
 ||doracms.cn^
 ||doublechen.online^
 ||doubleclicks.biz^
 ||dreanrh.cn^
+||dvrnszf.cn^
 ||dxgyl.xyz^
 ||dxwyt3p.cn^
 ||e5z14.icu^
@@ -40608,6 +40613,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fyfvaxi.cn^
 ||fyzbvwb.cn^
 ||fzbkgni.cn^
+||g2qb.top^
 ||gadscc.xyz^
 ||gaiqgs.xyz^
 ||geiaxbk.cn^
@@ -40659,13 +40665,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||inscan.cn^
 ||ionqv.cn^
 ||irygym.xyz^
+||isuiguk.cn^
 ||ituxzez.cn^
 ||iwjgwis.cn^
 ||ixelcpo.cn^
 ||jbuzacg.cn^
+||jcvty.cyou^
 ||jfmfmgj.cn^
 ||jike001.top^
 ||jishiben.info^
+||jjfopb.xyz^
 ||jkxvvv.xyz^
 ||jmqmbsn.cn^
 ||jojog.com^
@@ -40740,11 +40749,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nwrazu.cn^
 ||nykoubk.cn^
 ||nypyzx.xyz^
+||o87mnf.xyz^
 ||obmpp.com^
 ||ockuc.com^
 ||ofgysy.xyz^
 ||ohmpyq.xyz^
 ||omhoa.com^
+||oocie.cn^
 ||opeem.cyou^
 ||oronwg.xyz^
 ||oulibf.xin^
@@ -40776,6 +40787,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qsezjy.cn^
 ||qtbzeey.cn^
 ||qvfkiwf.cn^
+||qvkjkc.xyz^
 ||qwcqqw.xyz^
 ||qwrot.cyou^
 ||qycfqk.xyz^
@@ -40787,6 +40799,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||resumes.ren^
 ||rglctlo.cn^
 ||rooby.cyou^
+||rsmdlk.cn^
 ||rtcegcp.cn^
 ||rtycgmz.cn^
 ||ruyqiolnz.cyou^
@@ -40862,6 +40875,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wbqosw.xyz^
 ||wdasa.top^
 ||wdmdejd.cn^
+||weieo.cyou^
 ||weiqu.cyou^
 ||whrgsmi.cn^
 ||wjl58.icu^
@@ -40921,6 +40935,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zdrvtmj.cn^
 ||zeipw.xyz^
 ||zfykvns.cn^
+||zhiwan.club^
 ||zlfthh.xyz^
 ||zmdtcw.cn^
 ||znktkt.cn^
@@ -40931,20 +40946,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||bzdntl.xyz^
-||jcvty.cyou^
-||g2qb.top^
-||zhiwan.club^
-||darzkrx.cn^
-||o87mnf.xyz^
-||rsmdlk.cn^
-||dvrnszf.cn^
-||isuiguk.cn^
-||qvkjkc.xyz^
-||oocie.cn^
-||dfvvx58.com^
-||jjfopb.xyz^
-||weieo.cyou^
+||hevuabv.cn^
+||liyiyue.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -41787,6 +41790,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||autdjng.cn^
 ||autumnleaf.ltd^
 ||auwehnw.cn^
+||auwrtou.cn^
 ||avased6.com^
 ||avtej.com^
 ||avvr.club^
