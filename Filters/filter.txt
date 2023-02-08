@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-08T00:02:42.410Z
+! Last modified: 2023-02-08T06:01:18.289Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -21121,6 +21121,7 @@ vkcdnservice.appspot.com^
 ||cluep.com^
 ||cogocast.net^
 ||coguan.com^
+||coinads.io^
 ||coinmedia.co^
 ||cointraffic.io^
 ||coinzilla.io^
@@ -40560,6 +40561,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||375772rug.com^
 ||37tek.fun^
 ||3p8801.co^
+||3z7qn.cn^
 ||401aww.com^
 ||4jffu.cn^
 ||51gpiao.cn^
@@ -40643,6 +40645,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||evunmc.xyz^
 ||ewmvim.xyz^
 ||fangyaomin.site^
+||faunaships.com^
 ||fdbskb.cn^
 ||fdgem.com^
 ||fds-1230.cc^
@@ -40740,6 +40743,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||knyjes.xyz^
 ||koatkm.xyz^
 ||korydwf.cn^
+||kqwip.cyou^
 ||kscly.com^
 ||ktbelts.cn^
 ||kwivb.cn^
@@ -40812,6 +40816,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pddbtn.xyz^
 ||pic123.top^
 ||pj0z5.cn^
+||pkeog.cn^
 ||plyuwqq.cn^
 ||porjjhu.cn^
 ||ppltxv.xyz^
@@ -40847,6 +40852,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rooby.cyou^
 ||rsmdlk.cn^
 ||rtcegcp.cn^
+||rthmnj.xyz^
 ||rtycgmz.cn^
 ||ruyqiolnz.cyou^
 ||rzlp.xyz^
@@ -40918,6 +40924,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vokmhydy.xyz^
 ||w80n.fun^
 ||waterfairy.xyz^
+||wawqqfg.cn^
 ||wbqosw.xyz^
 ||wdasa.top^
 ||wdmdejd.cn^
@@ -40956,6 +40963,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yc444.cn^
 ||yemueii.cn^
 ||yffjqvq.cn^
+||yfmhik.xyz^
 ||yhjh04.com^
 ||yhsfsdv03.com^
 ||yhtuchuang.com^
