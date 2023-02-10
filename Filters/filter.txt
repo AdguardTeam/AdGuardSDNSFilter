@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-10T06:01:34.286Z
+! Last modified: 2023-02-10T12:01:20.686Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||rhoeomanid.space^
+||gervasdonatee.guru^
+||frocogue.store^
+||tembetachasmic.guru^
 ||lifesoonersoar.org^
 ||dpipel.com^
 ||biocdn.net^
@@ -24275,7 +24279,6 @@ vkcdnservice.appspot.com^
 ||retargeter.com.br^
 ||shopback.net^
 ||shopconvert.com.br^
-||neemu.com^
 ||prod-sb-appanalytics-us1.servicebus.windows.net^
 ||mci1.co.kr^
 ||analytics.sitewit.com^
@@ -37744,6 +37747,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||publisher-network.com^
 ||adcsh.cfd^
 ||yrstwbyl.xyz^
 ||gaiphaud.xyz^
