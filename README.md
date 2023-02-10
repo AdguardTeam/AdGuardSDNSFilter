@@ -117,6 +117,7 @@ The output is written to `Filters/filter.txt`.
 #### These filter lists block various types of advertising, tracking, scams and malware on sites of a specific language group
 
 * [Frellwits Swedish Filter](https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt)
+* [Persian Blocker Hosts](https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt)
 
 ### Others
 
