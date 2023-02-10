@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-10T12:01:20.686Z
+! Last modified: 2023-02-10T13:57:17.150Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -27011,6 +27011,7 @@ vkcdnservice.appspot.com^
 ||xtremline.com^
 ||xxxcounter.com^
 ||xyztraffic.com^
+||x.clearbit.com^
 ||y-track.com^
 ||yadro.ru^
 ||yamanoha.com^
@@ -28157,6 +28158,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tracking.ensonhaber.com^
 ||l.traxmag.com^
 ||pixel-*.rubiconproject.com^
 ||pixel.rubiconproject.com^
@@ -29069,6 +29071,7 @@ vkcdnservice.appspot.com^
 ||frog.yuanfudao.com^
 ||front.optimonk.com^
 ||funn.graphiq.com^
+||ga.clearbit.com^
 ||gak.webtoons.com^
 ||gather.donga.com^
 ||gdm1.toner.fr^
@@ -29552,6 +29555,7 @@ vkcdnservice.appspot.com^
 ||recs.atgsvcs.com^
 ||referrer.disqus.com^
 ||repdata.usatoday.com^
+||reveal.clearbit.com^
 ||revi.rcs.it^
 ||rps-uk.rockpapershotgun.com^
 ||rrss.abc.es^
@@ -31231,7 +31235,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cintnetworks.com^
 ||cityadstrack.com^
 ||clarium.io^
-||clearbit.com^
 ||clearbitjs.com^
 ||clickferret.com^
 ||clickguard.com^
