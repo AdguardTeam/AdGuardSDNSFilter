@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-13T19:23:28.363Z
+! Last modified: 2023-02-14T00:02:26.555Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -2642,6 +2642,7 @@ vkcdnservice.appspot.com^
 ||abburmyer.com^
 ||abclefabletor.com^
 ||abcporntube.com^
+||abdlnk.com^
 ||abdlnkjs.com^
 ||abdurantom.com^
 ||abedbudgetserenity.com^
@@ -2683,6 +2684,7 @@ vkcdnservice.appspot.com^
 ||abould.com^
 ||abouzune.net^
 ||aboveredirect.top^
+||abpjs23.com^
 ||abrasivematch.com^
 ||abridgeoverwhelmfireball.com^
 ||abrinchapper.com^
@@ -5650,6 +5652,7 @@ vkcdnservice.appspot.com^
 ||buoyantmanufacturer.pro^
 ||bupatp.com^
 ||buphoolo.net^
+||buqokcv.com^
 ||burbibape.com^
 ||burdiesfogyish.com^
 ||bureauxcope.casa^
@@ -6139,6 +6142,7 @@ vkcdnservice.appspot.com^
 ||chl7rysobc3ol6xla.com^
 ||chlibopi.xyz^
 ||chligh.com^
+||chlodd.com^
 ||cho7932105co3l2ate3covere53d.com^
 ||choahees.net^
 ||chobsang.net^
@@ -11363,6 +11367,7 @@ vkcdnservice.appspot.com^
 ||keterrehepren.xyz^
 ||ketobeparto.xyz^
 ||ketoo.com^
+||kettleheedless.com^
 ||kevelandean.com^
 ||kewhulawi.com^
 ||keydawnawe.com^
@@ -14349,6 +14354,7 @@ vkcdnservice.appspot.com^
 ||pathloaded.com^
 ||pathosacetals.com^
 ||patibe.com^
+||patienceboostboss.com^
 ||patioeasternopera.com^
 ||patiotheoretical.com^
 ||patithatspartal.pro^
@@ -14389,6 +14395,7 @@ vkcdnservice.appspot.com^
 ||pc20160301.com^
 ||pc2ads.com^
 ||pcbuqpdytqanufu.xyz^
+||pceepmcccvxxotg.com^
 ||pclk.name^
 ||pcmclks.com^
 ||pctlwm.com^
@@ -14634,6 +14641,7 @@ vkcdnservice.appspot.com^
 ||pickytime.com^
 ||picnicnorthernincompetent.com^
 ||picsofdream.today^
+||picsservices.info^
 ||picsti.com^
 ||pictela.net^
 ||pierisrapgae.com^
@@ -17982,6 +17990,7 @@ vkcdnservice.appspot.com^
 ||tarvemowhay.com^
 ||taryarguestio.com^
 ||taskproceduresseverely.com^
+||tasmok.com^
 ||tassed.com^
 ||tastingraise.com^
 ||tasty-election.com^
@@ -20526,6 +20535,7 @@ vkcdnservice.appspot.com^
 ||yuppads.com^
 ||yuppyads.com^
 ||yuqadu.xyz^
+||yvgqjswenws.com^
 ||yvmads.com^
 ||yvoria.com^
 ||yvzgazds6d.com^
@@ -31132,6 +31142,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mediamathrdrt.com^
 ||mediapvx.com^
 ||mediapxv.com^
+||mitour.de^
 ||mm-api.agency^
 ||mors22.com^
 ||mrpdata.net^
@@ -31486,7 +31497,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||giddyuptrk.com^
 ||gim.co.il^
 ||glassboxcdn.com^
-||glia.com^
 ||globalsiteanalytics.com^
 ||gnpge.com^
 ||go2link.net^
@@ -31755,7 +31765,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rumpelstiltskinhead.com^
 ||s7target.ru^
 ||safe-click.net^
-||salemove.com^
 ||salesviewer.com^
 ||salesviewer.org^
 ||san-spr-01.net^
@@ -32624,6 +32633,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||clicktale.pantherssl.com^
 ||clickthru.lefbc.com^
 ||clicktracker.iscan.nl^
+||client-logger.salemove.com^
 ||client.tahono.com^
 ||clouderrorreporting.googleapis.com^
 ||cloudfront-labs.amazonaws.com^
@@ -39128,8 +39138,8 @@ charlestownwyllie.oaklawnnonantum.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-02-11 08:52:56 CET
-# entries:        1043
+# last updated:   2023-02-13 20:45:34 CET
+# entries:        1044
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -39561,6 +39571,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.sodran.se^
 ||tracking.st.nu^
 ||tracking.sydsvenskan.se^
+||tracking.tailsweep.expressen.se^
 ||tracking.tidningenangermanland.se^
 ||tracking.tidningenharjedalen.se^
 ||tracking.tranastidning.se^
@@ -41313,6 +41324,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
+||ekcsqzo.cn^
+||hrecsxu.cn^
+||waoeou.xyz^
+||pojjtt.xyz^
+||vewdk.cyou^
+||wusuliriver.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
