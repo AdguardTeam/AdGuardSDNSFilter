@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-15T10:11:50.866Z
+! Last modified: 2023-02-15T12:01:22.953Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -1381,6 +1381,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||newrevive.detik.com^
 ||ad.serv1for.pro^
 ||cdn.aanetwork.vn^
 ||res.adx.opera.com^
@@ -28362,6 +28363,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||log.affiliate.rakuten.co.jp^
 ||analytics.dashboard.fingerprint.com^
 ||tracking.ensonhaber.com^
 ||l.traxmag.com^
@@ -37690,6 +37692,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||banner.kaktus.media^
 ||rtb.wedeo.ru^
 ||flowers.moex.com^
 ||delikatsov.com^
@@ -37962,6 +37965,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||noahilum.net^
+||hgijycxp.com^
 ||publisher-network.com^
 ||adcsh.cfd^
 ||yrstwbyl.xyz^
