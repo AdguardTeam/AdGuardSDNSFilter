@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-04T18:01:06.984Z
+! Last modified: 2023-03-05T00:02:46.179Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -35459,6 +35459,9 @@ cdn-settings.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+! NOTE: Copied to Cyrillic common-sections
+! NOTE: Will be obsolete after splitting the filter
+!
 ||clickwhitecode.com^
 ||ini.sm-nat.com^
 ||virtonnews.com^
@@ -38928,6 +38931,8 @@ cdn-settings.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+! NOTE: Copied to Cyrillic common-sections
+! NOTE: Will be obsolete after splitting the filter
 !
 ||ex.newsland.com^
 ||exchange.informer.ua^
@@ -42880,6 +42885,11 @@ cdn-settings.appsflyersdk.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
+||nnfeibao.cn^
+||gaoai.wang^
+||unevwe.xyz^
+||dacyh.cyou^
+||nbzabd.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
