@@ -35,9 +35,17 @@ The output is written to `Filters/filter.txt`.
 
 * [AdGuard Spanish/Portuguese filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt)
 
-* [AdGuard Russian filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt)
+* [AdGuard common Cyrillic filters ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/common-sections/adservers.txt)
 
-* [AdGuard Russian filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers_firstparty.txt)
+* [AdGuard common Cyrillic filters ad servers — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/common-sections/adservers_firstparty.txt)
+
+* [AdGuard Russian filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt)
+
+* [AdGuard Ukrainian filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/UkrainianFilter/sections/adservers_firstparty.txt)
+
+* [AdGuard Belarusian language ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/Belarusian/sections/filter.txt)
+
+* [AdGuard Kazakh language ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/Kazakh/sections/filter.txt)
 
 * [AdGuard Turkish filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt)
 
