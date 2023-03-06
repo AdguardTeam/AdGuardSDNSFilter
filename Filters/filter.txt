@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-06T06:01:21.553Z
+! Last modified: 2023-03-06T06:12:51.152Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -39132,10 +39132,6 @@ cdn-settings.appsflyersdk.com^
 ||vozer.voffka.com^
 ||vw.onlinia.net^
 
-!
-! Source name: AdGuard Russian filter news exchange servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt
-!
 !
 ! Source name: AdGuard Turkish filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
