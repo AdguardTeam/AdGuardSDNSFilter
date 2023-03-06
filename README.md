@@ -45,6 +45,8 @@ The output is written to `Filters/filter.txt`.
 
 * [AdGuard Belarusian language ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/Belarusian/sections/filter.txt)
 
+* [AdGuard Bulgarian language ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/Bulgarian/sections/filter.txt)
+
 * [AdGuard Kazakh language ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/Kazakh/sections/filter.txt)
 
 * [AdGuard Turkish filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt)
