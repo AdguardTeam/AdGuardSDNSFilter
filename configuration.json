@@ -125,13 +125,6 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
-      "name": "AdGuard Russian filter news exchange servers",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt",
-      "type": "adblock",
-      "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-    {
       "name": "AdGuard Turkish filter ad servers",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt",
       "type": "adblock",
