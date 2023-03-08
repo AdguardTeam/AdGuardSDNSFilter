@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-08T00:02:37.774Z
+! Last modified: 2023-03-08T06:01:34.553Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -6840,6 +6840,7 @@ vkcdnservice.appspot.com^
 ||ctubhxbaew.com^
 ||ctuklyeconnec.xyz^
 ||ctxoxmia.com^
+||cubbingrebbes.com^
 ||cubeclause.com^
 ||cubenliven.com^
 ||cubeslichees.com^
@@ -8257,6 +8258,7 @@ vkcdnservice.appspot.com^
 ||ellaysad.live^
 ||ellcurvth.com^
 ||ellpaniers.com^
+||elogiumtagmeme.com^
 ||elonreptiloid.com^
 ||eloquencer.com^
 ||eloquentformallyrelapse.com^
@@ -9103,6 +9105,7 @@ vkcdnservice.appspot.com^
 ||flongssecos.com^
 ||floodingonion.com^
 ||flopinclose.com^
+||floppytopo.com^
 ||flossyarrayal.life^
 ||flouralmighty.com^
 ||flowln.com^
@@ -10727,6 +10730,7 @@ vkcdnservice.appspot.com^
 ||hugfromoctopus.com^
 ||hughester.com^
 ||hugregregy.pro^
+||hugsgnome.com^
 ||huldeeelfwife.com^
 ||humble-green.pro^
 ||humbledleelang.com^
@@ -16485,6 +16489,7 @@ vkcdnservice.appspot.com^
 ||r66net.com^
 ||r66net.net^
 ||r932o.com^
+||rabfakfolksey.digital^
 ||rabidamoral.com^
 ||rablinhiphape.com^
 ||raccourir.xyz^
@@ -41502,9 +41507,9 @@ cdn-settings.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Mar 2023 10:29 UTC+7
-! Version: 2303021029
-! Blocked: 830 rules
+! Last modified: 08 Mar 2023 09:52 UTC+7
+! Version: 2303080952
+! Blocked: 831 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -42121,6 +42126,7 @@ cdn-settings.appsflyersdk.com^
 ||mto.cgv.vn^
 ||nct1.logging.nextsmarty.com^
 ||newlog.daidoanket.vn^
+||newlog.tapchitaichinh.vn^
 ||ng-vn-notice.gameitop.com^
 ||nstat.headlines.pw^
 ||offerwall.headlines.pw^
@@ -43110,6 +43116,9 @@ cdn-settings.appsflyersdk.com^
 ||nvwanyyds.com^
 ||dfvarz.xyz^
 ||kravma.xyz^
+||08088.top^
+||believer.ltd^
+||cj-sys.club^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
