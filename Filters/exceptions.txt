@@ -52,7 +52,6 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/107168
 @@||netatmo.commander1.com^|
 ! https://github.com/easylist/easylist/pull/9904
-@@||clj.valuecommerce.com^|
 @@||vcentry3.valuecommerce.ne.jp^|
 ! Fixing the issue with "Wi-Fi" connection mark when you configure private DNS on Android 9
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
