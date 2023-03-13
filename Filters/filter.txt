@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-13T18:01:20.814Z
+! Last modified: 2023-03-13T19:08:46.193Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -23654,7 +23654,6 @@ vkcdnservice.appspot.com^
 ||vadpay.com^
 ||validclick.com^
 ||valuead.com^
-||valuecommerce.com^
 ||vashoot.com^
 ||velti.com^
 ||vemba.com^
@@ -29862,6 +29861,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||trj.valuecommerce.com^
+||aml.valuecommerce.com^
 ||thoth.utyug.media^
 ||prod.fennec.atp.fox^
 ||analytics.data.visenze.com^
@@ -40157,6 +40158,9 @@ cdn-settings.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||ad.jp.ap.valuecommerce.com^
+||ad.jp.ap.g.valuecommerce.com^
+||ads.jp.ap.g.valuecommerce.com^
 ||valuecommerce.ne.jp^
 ||sgad.surfsnow.jp^
 ||mbadv.nan.co.jp^
@@ -50596,7 +50600,6 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/107168
 @@||netatmo.commander1.com^|
 ! https://github.com/easylist/easylist/pull/9904
-@@||clj.valuecommerce.com^|
 @@||vcentry3.valuecommerce.ne.jp^|
 ! Fixing the issue with "Wi-Fi" connection mark when you configure private DNS on Android 9
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
