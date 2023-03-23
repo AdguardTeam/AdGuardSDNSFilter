@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-23T00:02:37.040Z
+! Last modified: 2023-03-23T06:01:25.052Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -3436,6 +3436,7 @@ vkcdnservice.appspot.com^
 ||alezanlig.store^
 ||alfatraffic.com^
 ||alfonsino.top^
+||alfurtembe.com^
 ||algeriabruges.life^
 ||algothitaon.com^
 ||algovid.com^
@@ -7513,6 +7514,7 @@ vkcdnservice.appspot.com^
 ||dewcommode.space^
 ||dewiestsards.com^
 ||dewincubiatoll.com^
+||dewlessjacobin.com^
 ||dexchangeinc.com^
 ||dexessee.com^
 ||deximedia.com^
@@ -8538,6 +8540,7 @@ vkcdnservice.appspot.com^
 ||energeticholder.com^
 ||eneverthewin.xyz^
 ||enfarcearriero.uno^
+||enfeoffcaraipi.com^
 ||engagedthicketforeman.com^
 ||engagementpolicelick.com^
 ||enginedriverflexible.com^
@@ -13903,6 +13906,7 @@ vkcdnservice.appspot.com^
 ||muddyjustify.com^
 ||mudperipherd.club^
 ||mufflercypress.com^
+||mufflerlamia.com^
 ||mufucfdmrrf.com^
 ||mugleafly.com^
 ||mugpothop.com^
@@ -15202,6 +15206,7 @@ vkcdnservice.appspot.com^
 ||outensootier.guru^
 ||outgateniceish.com^
 ||outgivefaculae.store^
+||outgrinuntold.com^
 ||outhamto.xyz^
 ||outhitcooler.com^
 ||outhulem.net^
@@ -16241,6 +16246,7 @@ vkcdnservice.appspot.com^
 ||predominantleave.com^
 ||preeditpastes.website^
 ||preemiesurnap.com^
+||preezeaorist.com^
 ||preferablycompletion.com^
 ||preferenceforfeit.com^
 ||prefleks.com^
@@ -20721,6 +20727,7 @@ vkcdnservice.appspot.com^
 ||unflamewandoo.com^
 ||unforgivablegrowl.com^
 ||ungolbator.com^
+||ungracebaited.com^
 ||ungroudonchan.com^
 ||unhabi.com^
 ||unhaftcharing.com^
@@ -42263,8 +42270,8 @@ cdn-settings.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 20 Mar 2023 14:40 UTC+7
-! Version: 2303201440
+! Last modified: 23 Mar 2023 09:31 UTC+7
+! Version: 2303230931
 ! Blocked: 832 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -44050,6 +44057,11 @@ cdn-settings.appsflyersdk.com^
 ||zzxmcp.com^
 ||asdx55.com^
 ||rourouwu.uk^
+||dspczg.pw^
+||delamer.ltd^
+||ychuanyi.ltd^
+||zukddms.cn^
+||mzybirdnest.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
