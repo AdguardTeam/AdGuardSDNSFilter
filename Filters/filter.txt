@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-01T10:06:50.598Z
+! Last modified: 2023-04-01T12:01:24.687Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -43653,8 +43653,10 @@ inapps.appsflyersdk.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||zgm1.com^
-||guanjiabo.net^
+||aaaaa663.com^
+||aaaaa855.com^
+||aaaaa599.com^
+||jerrytom.xyz^
 ||003aldjads.xyz^
 ||045zxnm.com^
 ||053h94.com^
@@ -49475,6 +49477,10 @@ inapps.appsflyersdk.com^
 ||zzwzsic.cn^
 ||zzxedr.xyz^
 ||zzzhuoxiaqu.online^
+||zgm1.com^
+||guanjiabo.net^
+||xiaoshuoyun.cn^
+||06789.xyz^
 ||7xi9g1.com1.z0.glb.clouddn.com^
 ||a.youdao.com^
 ||adrs.sdo.com^
@@ -51163,6 +51169,9 @@ analytics-*.aasaam.com
 
 # https://github.com/Webamoozcom/warning-list/discussions/171
 ||mogo-crypto.net^
+# https://nitter.net/designbazzz/status/1641797300275036163?t=63Lj4RJ5U40VDwwV-fQpKA&s=19
+||fillvpn.com^
+||sharapako.com^
 
 !
 ! Source name: Additional rules
