@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-04T18:01:29.548Z
+! Last modified: 2023-04-05T00:02:37.347Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -31155,6 +31155,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ecsv2.roblox.com^
 ||volts.shopping.naver.com^
 ||analytics.grape.media^
 ||analytics.karakuri.ai^
@@ -31195,7 +31196,6 @@ vkcdnservice.appspot.com^
 ||mercury.coupang.com^
 ||client-telemetry.roblox.com^
 ||ephemeralcounters.api.roblox.com^
-||ecsv2.roblox.com^
 ||tracing.roblox.com^
 ||treatment.grammarly.com^
 ||rac.ruutu.fi^
@@ -43950,6 +43950,11 @@ inapps.appsflyersdk.com^
 ||yfohgo.xyz^
 ||yulingaa.xyz^
 ||zdlnhv.xyz^
+||9itan.cc^
+||gzsjym.xyz^
+||znnodl.xyz^
+||bekco.xyz^
+||huaweinnd.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
