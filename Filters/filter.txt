@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-17T18:01:41.990Z
+! Last modified: 2023-04-18T00:02:19.638Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||fdpfkdnpvpmb.com^
+||veyjdaswregbj.com^
 ||bgn.gg^
 ||hepsaign.com^
 ||rsodmwkxkioj.xyz^
@@ -9419,7 +9421,6 @@ vkcdnservice.appspot.com^
 ||fdiirjong.com^
 ||fdjigxyxstiu.xyz^
 ||fdlvnldfnyhicc.xyz^
-||fdpfkdnpvpmb.com^
 ||fe7qygqi2p2h.com^
 ||fe95a992e6afb.com^
 ||feadrope.net^
@@ -21419,7 +21420,6 @@ vkcdnservice.appspot.com^
 ||vexacion.com^
 ||vexevutus.com^
 ||vextjoexig.com^
-||veyjdaswregbj.com^
 ||vfbvcshnc.com^
 ||vfghc.com^
 ||vfgtg.com^
@@ -42891,7 +42891,6 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl
 !
 !
-||0.0.realodix^
 ||c303.pw^
 ! https://github.com/realodix/AdBlockID/issues/376
 ! XL Axiata
@@ -43905,6 +43904,13 @@ inapps.appsflyersdk.com^
 ||zrbabog.cn^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||szsbiw.xyz^
+||rtdxqq.com^
+||peishuning1.cn^
+||lnnjnv.xyz^
+||sisjwol.xyz^
+||moend.xyz^
+||iughyy7919.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
