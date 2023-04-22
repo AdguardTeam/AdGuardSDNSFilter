@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-22T00:02:29.421Z
+! Last modified: 2023-04-22T06:01:31.965Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -25058,6 +25058,7 @@ vkcdnservice.appspot.com^
 ||ads.sportradar.com^
 ||adsales.snidigital.com^
 ||adserving.unibet.com^
+||adtechvideo.s3.amazonaws.com^
 ||advast.sibnet.ru^
 ||aff.bstatic.com^
 ||affiliate.heureka.cz^
@@ -25730,6 +25731,7 @@ vkcdnservice.appspot.com^
 ||dmz3nd5oywtsw.cloudfront.net^
 ||dn0qt3r0xannq.cloudfront.net^
 ||dn3uy6cx65ujf.cloudfront.net^
+||dn6rwwtxa647p.cloudfront.net^
 ||dn9uzzhcwc0ya.cloudfront.net^
 ||dne6rbzy5csnc.cloudfront.net^
 ||dnf06i4y06g13.cloudfront.net^
@@ -44432,6 +44434,10 @@ inapps.appsflyersdk.com^
 ||zdyuoae.xyz^
 ||0776.red^
 ||iidjo.xyz^
+||hunlimd.cn^
+||xiaoliublog.icu^
+||kmlxlkz.cn^
+||wjaqc.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
