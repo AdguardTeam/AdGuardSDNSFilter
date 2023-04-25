@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-25T00:02:31.398Z
+! Last modified: 2023-04-25T06:01:41.827Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -34500,6 +34500,7 @@ inapps.appsflyersdk.com^
 ||mediapvx.com^
 ||mediapxv.com^
 ||mediaxpf.com^
+||mediaxpv.com^
 ||mitour.de^
 ||ml-sys.xyz^
 ||mm-api.agency^
@@ -42684,8 +42685,8 @@ inapps.appsflyersdk.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-04-21 09:46:27 CEST
-# entries:        1088
+# last updated:   2023-04-25 06:59:02 CEST
+# entries:        1095
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -42712,6 +42713,7 @@ inapps.appsflyersdk.com^
 ||ads.internet24.se^
 ||ads.kelkoo.com^
 ||ads.lektion.se^
+||ads.leovegas.com^
 ||ads.mainloop.net^
 ||ads.motorvarlden.se^
 ||ads.mrgreen.com^
@@ -42821,6 +42823,7 @@ inapps.appsflyersdk.com^
 ||cdn.maaw.io^
 ||cdn.myadmessenger.com^
 ||cdn.reaktion.se^
+||cdn.routy.app^
 ||cdn.shareaholic.net^
 ||cdn.userreport.com^
 ||cdn.yieldwrapper.com^
@@ -42899,6 +42902,8 @@ inapps.appsflyersdk.com^
 ||icarabatt.com^
 ||iconosquare.com^
 ||images.passendo.com^
+||images-ads.aland.com^
+||img.ascontentcloud.com^
 ||img06.en25.com^
 ||inov-8.com.se^
 ||insight.nikkasystems.com^
@@ -44698,6 +44703,10 @@ inapps.appsflyersdk.com^
 ||yegzkw.xyz^
 ||wyjbvoz.xyz^
 ||ledni.xyz^
+||cfxkluv.cn^
+||wyynike.cn^
+||mc3369.xyz^
+||mdqhyxe.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
