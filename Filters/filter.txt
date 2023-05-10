@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-10T12:01:31.749Z
+! Last modified: 2023-05-10T15:36:26.440Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||filgzukroj.com^
 ||bepqevudfoha.com^
 ||voadeezu.net^
 ||v.scurra.space^
@@ -5085,6 +5086,7 @@ vkcdnservice.appspot.com^
 ||bangingpunk.com^
 ||bangtopads.com^
 ||bangtyranclank.com^
+||bangute.xyz^
 ||banicywan.com^
 ||banisterspast.com^
 ||bankerconcludeshare.com^
@@ -7483,6 +7485,7 @@ vkcdnservice.appspot.com^
 ||cosmeticsgenerosity.com^
 ||cosmjs.com^
 ||costaquire.com^
+||costatevamped.com^
 ||costhandbookfolder.com^
 ||cosydrbrewing.com^
 ||cotalles.com^
@@ -9610,6 +9613,7 @@ vkcdnservice.appspot.com^
 ||eucleu.com^
 ||eudoxia-myr.com^
 ||euizhltcd6ih.com^
+||euonymcalvous.com^
 ||euosicjxjv.com^
 ||euouaeslurped.com^
 ||eupathyroching.store^
@@ -10056,6 +10060,7 @@ vkcdnservice.appspot.com^
 ||femin.online^
 ||femindexkilog.xyz^
 ||fenacheaverage.com^
+||fenchylsoonish.com^
 ||fenixm.com^
 ||fensough.xyz^
 ||fer2oxheou4nd.com^
@@ -10326,6 +10331,7 @@ vkcdnservice.appspot.com^
 ||foapsovi.net^
 ||fobeetch.net^
 ||focalex.com^
+||focath.com^
 ||foetusconductfold.com^
 ||fogayeown.com^
 ||foggytube.com^
@@ -11198,6 +11204,7 @@ vkcdnservice.appspot.com^
 ||gqubkbuinx.com^
 ||gr8y7z1xaq30.com^
 ||gracaiko.net^
+||gracedschelly.com^
 ||gracefulbayonetlukewarm.com^
 ||gracelessaffected.com^
 ||gracelesssolicitor.com^
@@ -12890,6 +12897,7 @@ vkcdnservice.appspot.com^
 ||jf71qh5v14.com^
 ||jfivafkigju.com^
 ||jgqskdjkorwvh.xyz^
+||jgszymcphwcege.com^
 ||jheelsplotch.com^
 ||jhoncj.com^
 ||jhxqfgbj.com^
@@ -16578,6 +16586,7 @@ vkcdnservice.appspot.com^
 ||overzubatan.com^
 ||ovfratlkxerv.xyz^
 ||ovibospeseta.com^
+||ovoordie.xyz^
 ||ovpekubdewm.com^
 ||ovsliqrcwqsqfxf.xyz^
 ||ovvwunawrt.com^
@@ -16705,6 +16714,7 @@ vkcdnservice.appspot.com^
 ||palama2.com^
 ||palasidesdoor.com^
 ||palaverpageboy.com^
+||palemanpathlet.com^
 ||palibs.tech^
 ||pallaliven.com^
 ||palpablefungussome.com^
@@ -17138,6 +17148,7 @@ vkcdnservice.appspot.com^
 ||phirgese.com^
 ||phirozeon.com^
 ||phloxsub73ulata.com^
+||phncdn.com^
 ||phoaglee.com^
 ||phoalard.net^
 ||phoapsoo.com^
@@ -17904,6 +17915,7 @@ vkcdnservice.appspot.com^
 ||psaisegn.net^
 ||psaithou.com^
 ||psaizeemit.com^
+||psaltard.net^
 ||psaltauw.net^
 ||psapsiph.net^
 ||psardaub.net^
@@ -20951,6 +20963,7 @@ vkcdnservice.appspot.com^
 ||sundersetrgh.site^
 ||sungarnonsane.com^
 ||sunglassesmentallyproficient.com^
+||sungzionism.com^
 ||sunnybluecoral.com^
 ||sunnyseries.com^
 ||sunsekrious.com^
@@ -24535,6 +24548,7 @@ vkcdnservice.appspot.com^
 ||zlink2.com^
 ||zlink6.com^
 ||zlinkm.com^
+||zljwhbuagdvl.com^
 ||zlx.com.br^
 ||zm232.com^
 ||zmenmuol.com^
@@ -34804,6 +34818,9 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||sia.internet.apps.samsung.com^
+||config-api.internet.apps.samsung.com^
+||terms.internet.apps.samsung.com^
 ||r.apkpure.net^
 ||analytics.zg-api.com^
 ||creative.bidease.com^
@@ -35882,7 +35899,6 @@ inapps.appsflyersdk.com^
 ||itrac.it^
 ||itracker360.com^
 ||itracmediav4.com^
-||izatcloud.net^
 ||janrain.xyz^
 ||journera.com^
 ||journity.com^
@@ -38095,6 +38111,7 @@ inapps.appsflyersdk.com^
 ||data.kameleoon.io^
 ||et.twyn.com^
 ||events.onet.pl^
+||fd.bawag.at^
 ||geo.mtvnn.com^
 ||info.elba.at^
 ||live.cxo.name^
