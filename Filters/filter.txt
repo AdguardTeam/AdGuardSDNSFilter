@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-10T06:01:22.063Z
+! Last modified: 2023-05-10T11:02:17.074Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||bepqevudfoha.com^
 ||voadeezu.net^
 ||v.scurra.space^
 ||usefulpush.com^
@@ -32445,6 +32446,8 @@ vkcdnservice.appspot.com^
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 !
+||rum-metrics.bunny.net^
+||analytics.ravanallc.com^
 ||track.buzzerilla.com^
 ||track.historictalk.com^
 ||track.juststarz.com^
@@ -42042,6 +42045,8 @@ inapps.appsflyersdk.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||oba.rus-km.ru^
+||dab.rus-km.ru^
 ||placeholder.treeum.net^
 ||ex.newsland.com^
 ||news.mirtesen.ru^
@@ -44586,8 +44591,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 May 2023 16:27 UTC+7
-! Version: 2305091627
+! Last modified: 10 May 2023 13:20 UTC+7
+! Version: 2305101320
 ! Blocked: 832 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -45866,6 +45871,7 @@ inapps.appsflyersdk.com^
 ||kcieo.xyz^
 ||chenyt.club^
 ||hbbxwan.cn^
+||nogff.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -52888,6 +52894,9 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/150038
+! Blocked by ||getblueshift.com^
+@@||clickattr.wayup.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1283
 ! Blocked by ||adperfect.com^
 @@||chathamdailynews.remembering.ca^|
