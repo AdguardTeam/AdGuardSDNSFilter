@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-11T18:01:19.336Z
+! Last modified: 2023-05-11T18:56:15.736Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -27881,6 +27881,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||stats.sprocketrocket.co^
 ||zcode11.me^
 ||mgtmod01.com^
 ||getlasso.co^
@@ -28521,7 +28522,6 @@ vkcdnservice.appspot.com^
 ||bb.lekumo.jp^
 ||promostats.ru^
 ||growingio.com^
-||datayi.cn^
 ||giocdn.com^
 ||rum.conde.io^
 ||ana.mediable.info^
@@ -28790,7 +28790,6 @@ vkcdnservice.appspot.com^
 ||eba-amadeus.netdna-ssl.com^
 ||ga-analytics.com^
 ||erandex.com^
-||recruitics.com^
 ||direct-events-collector.spot.im^
 ||metrics-logger.spot.im^
 ||adwstats.com^
@@ -36119,6 +36118,7 @@ inapps.appsflyersdk.com^
 ||recapture.io^
 ||recognified.net^
 ||recosenselabs.com^
+||recruitics.com^
 ||redfastlabs.com^
 ||remailtarget.com^
 ||report-uri.io^
