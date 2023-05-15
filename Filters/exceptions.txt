@@ -1,8 +1,10 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/150715
+@@||go.adjust.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150038
-! Blocked by ||getblueshift.com^
+! Blocked by CNAME getblueshift.com
 @@||clickattr.wayup.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1283
-! Blocked by ||adperfect.com^
+! Blocked by CNAME adperfect.com
 @@||chathamdailynews.remembering.ca^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1265
 @@||catchup.thisisdax.com^|
