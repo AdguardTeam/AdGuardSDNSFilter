@@ -35,6 +35,8 @@ The output is written to `Filters/filter.txt`.
 
 * [AdGuard Spanish/Portuguese filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt)
 
+* [AdGuard Spanish/Portuguese filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers_firstparty.txt)
+
 * [AdGuard common Cyrillic filters ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/common-sections/adservers.txt)
 
 * [AdGuard common Cyrillic filters ad servers — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/common-sections/adservers_firstparty.txt)
@@ -55,11 +57,17 @@ The output is written to `Filters/filter.txt`.
 
 * [AdGuard French filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers.txt)
 
+* [AdGuard French filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers_firstparty.txt)
+
 * [AdGuard Japanese filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt)
+
+* [AdGuard Japanese filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers_firstparty.txt)
 
 * [AdGuard German filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt)
 
 * [AdGuard Chinese filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt)
+
+* [AdGuard Chinese filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers_firstparty.txt)
 
 * [AdGuard Dutch filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers.txt)
 
