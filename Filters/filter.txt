@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-20T18:01:25.922Z
+! Last modified: 2023-05-21T00:02:37.265Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -3001,6 +3001,7 @@ vkcdnservice.appspot.com^
 ||adlane.info^
 ||adligature.com^
 ||adlogists.com^
+||adlserq.com^
 ||adltserv.com^
 ||admachina.com^
 ||admavvex.com^
@@ -9426,6 +9427,7 @@ vkcdnservice.appspot.com^
 ||ememoricane.info^
 ||ementwre.buzz^
 ||emeralddead.com^
+||emeraldhecticteapot.com^
 ||emerizeculler.com^
 ||emicalcove.xyz^
 ||emigrantfirearmcaliber.com^
@@ -10647,6 +10649,7 @@ vkcdnservice.appspot.com^
 ||frolnk.com^
 ||fromoffspringcaliber.com^
 ||frondewame.com^
+||fronthlpr.com^
 ||fronthlpric.com^
 ||frookshop-winsive.com^
 ||frooter.xyz^
@@ -14292,6 +14295,7 @@ vkcdnservice.appspot.com^
 ||lucidmedia.com^
 ||lucificassents.com^
 ||luckyads.pro^
+||luckypapa.xyz^
 ||luckypushh.com^
 ||lucretius-ada.com^
 ||lucrumvirga.life^
@@ -15360,6 +15364,7 @@ vkcdnservice.appspot.com^
 ||mycasinoaccounts.com^
 ||mycdn.co^
 ||mycdn2.co^
+||myckdom.com^
 ||myclickbankads.com^
 ||myclickpush.com^
 ||mycoolfeed.com^
@@ -16105,6 +16110,7 @@ vkcdnservice.appspot.com^
 ||obstaclebornevastly.com^
 ||obstanceder.pro^
 ||obstructcrucialcommander.com^
+||obstructdogcollarblockade.com^
 ||obstructionsaint.com^
 ||obstry.com^
 ||obtainadopteddeliberately.com^
@@ -16162,6 +16168,7 @@ vkcdnservice.appspot.com^
 ||oeckey.com^
 ||oedroughl.xyz^
 ||oedspoiletkni.xyz^
+||oeokfmroaiuwo.xyz^
 ||oetn.xyz^
 ||oeuvresvexable.com^
 ||oextraordu.one^
@@ -17451,6 +17458,7 @@ vkcdnservice.appspot.com^
 ||pinttalewag.com^
 ||pinwalerompers.com^
 ||pioneercomparatively.com^
+||pioneerhardshipfarewell.com^
 ||pioneersuspectedjury.com^
 ||pionwaney.com^
 ||piouscheers.com^
@@ -22689,6 +22697,7 @@ vkcdnservice.appspot.com^
 ||understoodreceivermisunderstand.com^
 ||underwards.site^
 ||underwearglossary.com^
+||underwearsourorb.com^
 ||undiesthumb.com^
 ||undimlyjewlike.com^
 ||undooptimisticsuction.com^
@@ -24206,6 +24215,7 @@ vkcdnservice.appspot.com^
 ||wunteetoco.com^
 ||wuombkpa.com^
 ||wupoughu.com^
+||wuqconn.com^
 ||wurstsmikael.life^
 ||wussucko.com^
 ||wutzibapqf.com^
@@ -26452,6 +26462,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
 ||1003454530.rsc.cdn77.org^
+||1035360789.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||1183537888.rsc.cdn77.org^
 ||1380535010.rsc.cdn77.org^
@@ -26459,6 +26470,7 @@ vkcdnservice.appspot.com^
 ||1675450967.rsc.cdn77.org^
 ||1698632923.rsc.cdn77.org^
 ||1728445846.rsc.cdn77.org^
+||1736253261.rsc.cdn77.org^
 ||a-delivery.rmbl.ws^
 ||a.ucoz.net^
 ||ad-serve.b-cdn.net^
@@ -37636,6 +37648,7 @@ inapps.appsflyersdk.com^
 ||pixel.sprinklr.com^
 ||pixel.videohub.tv^
 ||pixel.yola.com^
+||pixel2.realclever.com^
 ||pixels.afcdn.com^
 ||pl.connatix.com^
 ||platform.iteratehq.com^
@@ -46422,6 +46435,13 @@ inapps.appsflyersdk.com^
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||pingfang.icu^
+||lvy0.cn^
+||eqknlsw.xyz^
+||eaica.xyz^
+||xjnyjt.xyz^
+||ndruhz.xyz^
+||swandlb.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
