@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-24T00:02:25.980Z
+! Last modified: 2023-05-24T06:01:29.988Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -36334,6 +36334,7 @@ inapps.appsflyersdk.com^
 ||ep4p.com^
 ||escalated.io^
 ||esputnik.com^
+||ethyca.com^
 ||etp-prod.com^
 ||evorra.net^
 ||excited.me^
@@ -37729,7 +37730,6 @@ inapps.appsflyersdk.com^
 ||gtrk.s3.amazonaws.com^
 ||gu-pix.appspot.com^
 ||happen.spkt.io^
-||harpocrates.ethyca.com^
 ||hb.vhsrv.com^
 ||hello.staticstuff.net^
 ||hit.mybestpro.com^
@@ -45213,8 +45213,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 21 May 2023 23:01 UTC+7
-! Version: 2305212301
+! Last modified: 24 May 2023 10:05 UTC+7
+! Version: 2305241005
 ! Blocked: 833 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -46685,6 +46685,8 @@ inapps.appsflyersdk.com^
 ||blvnsgr.xyz^
 ||fatvzh.xyz^
 ||heiow.xyz^
+||euyvpgn.cn^
+||qm6ef.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
