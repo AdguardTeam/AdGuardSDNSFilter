@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-15T13:08:19.839Z
+! Last modified: 2023-06-15T15:20:18.598Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -11816,6 +11816,7 @@ vkcdnservice.appspot.com^
 ||handsenvious.com^
 ||handspiketha.xyz^
 ||handtub.com^
+||handwritingnomad.com^
 ||handy-tab.com^
 ||hangdogferfel.com^
 ||hangersbozal.com^
@@ -12998,6 +12999,7 @@ vkcdnservice.appspot.com^
 ||isanikcieontap.com.ua^
 ||isawthenews.com^
 ||isboost.co.jp^
+||iseatheadline.com^
 ||isegeowrvnxorj.com^
 ||ishedtotigai.info^
 ||ishinedmin.lol^
@@ -47346,6 +47348,8 @@ inapps.appsflyersdk.com^
 ||hbrmickt.com^
 ||thdidx.xyz^
 ||osancik.top^
+||u22aeey.xyz^
+||hpvl2kb.icu^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
