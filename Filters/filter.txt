@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-17T00:02:49.263Z
+! Last modified: 2023-06-17T06:01:23.286Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -36663,7 +36663,6 @@ inapps.appsflyersdk.com^
 ||convertcart.com^
 ||crazyclickstats.com^
 ||crtx.info^
-||cttracking02.com^
 ||cuberoot.co^
 ||customerlabs.co^
 ||cvtr.io^
@@ -36770,7 +36769,6 @@ inapps.appsflyersdk.com^
 ||glassboxcdn.com^
 ||globalsiteanalytics.com^
 ||gnpge.com^
-||go2link.net^
 ||goodmeasure.io^
 ||gostats.org^
 ||gotrk.net^
@@ -37127,7 +37125,6 @@ inapps.appsflyersdk.com^
 ||tp88trk.com^
 ||tracead.com^
 ||traceless.me^
-||tracer.jp^
 ||track-re01.com^
 ||track-server-100.com^
 ||trackadm.com^
@@ -37214,8 +37211,6 @@ inapps.appsflyersdk.com^
 ||womtp.com^
 ||wootric.com^
 ||worldflagcounter.com^
-||wtastats.com^
-||wtastats.ro^
 ||wts.one^
 ||wts2.one^
 ||xapkgame.com^
@@ -37434,7 +37429,6 @@ inapps.appsflyersdk.com^
 ||laferia.cr^
 ||lightminer.co^
 ||lmiutil.com^
-||mercy.ga^
 ||mi-de-ner-nis3.info^
 ||mine.nahnoji.cz^
 ||minerad.com^
@@ -38378,7 +38372,6 @@ inapps.appsflyersdk.com^
 ||tag.rightmessage.com^
 ||tag.rmp.rakuten.com^
 ||tags.cdn.circlesix.co^
-||tags.creativille.co.uk^
 ||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
 ||tagtracking.vibescm.com^
@@ -43737,6 +43730,7 @@ inapps.appsflyersdk.com^
 ||click-count.info^
 ||andhub.jp^
 ||cross-a.net^
+||tracer.jp^
 ||ds4sw9va5hc.com^
 ||addlv.smt.docomo.ne.jp^
 ||trigs-sockets.com^
@@ -47450,6 +47444,9 @@ inapps.appsflyersdk.com^
 ||mhysbwo.xyz^
 ||lsancil.top^
 ||jbhhxd.xyz^
+||gcqciiqk.com^
+||hhff111222.com^
+||1381a.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
