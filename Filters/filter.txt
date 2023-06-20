@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-20T00:02:41.542Z
+! Last modified: 2023-06-20T06:01:45.352Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -38793,24 +38793,24 @@ inapps.appsflyersdk.com^
 ||dy2xcjk8s1dbz.cloudfront.net^
 ! https://gist.github.com/tinogomes/c425aa2a56d289f16a1f4fcb8a65ea65
 ! Domains linking to 127.0.0.1
-||cefgo.com^
-||domaincontrol.com^
-||fbi.com^
-||lacolhost.com^
-||lndo.site^
-||local.computer^
-||local.qinlili.bid^
-||local.sisteminha.com^
-||localho.st^
-||localhost.direct^
-||localtest.me^
-||lvh.me^
-||netfinity.hostedrmm.com^
-||nip.io^
-||ssh.town^
-||supercalifragilisticexpialidocious.co.uk^
-||xip.io^
-||yoogle.com^
+!||cefgo.com^
+!||domaincontrol.com^
+!||fbi.com^
+!||lacolhost.com^
+!||lndo.site^$third-party
+!||local.computer^
+!||local.qinlili.bid^
+!||local.sisteminha.com^
+!||localho.st^
+!!||localhost.direct^
+!||localtest.me^
+!||lvh.me^
+!||netfinity.hostedrmm.com^
+!||nip.io^$third-party
+!||ssh.town^
+!||supercalifragilisticexpialidocious.co.uk^
+!||xip.io^
+!||yoogle.com^
 ! taboola
 ||urc.taboolasyndication.com^
 ! Fingerprinting
@@ -47701,6 +47701,10 @@ inapps.appsflyersdk.com^
 ||bljlrl.xyz^
 ||geiod.xyz^
 ||rfnenr.xyz^
+||yzcpgadw.icu^
+||vyye.cn^
+||afdunaui.com^
+||uo12.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
