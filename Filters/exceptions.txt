@@ -3,9 +3,9 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150038
 ! Blocked by CNAME getblueshift.com
 @@||clickattr.wayup.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1283
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1393
 ! Blocked by CNAME adperfect.com
-@@||chathamdailynews.remembering.ca^|
+@@||remembering.ca^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1265
 @@||catchup.thisisdax.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1239
