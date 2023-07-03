@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-03T12:01:42.295Z
+! Last modified: 2023-07-03T13:02:52.011Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20843,6 +20843,7 @@ vkcdnservice.appspot.com^
 ||ruperparverew.xyz^
 ||ruptionverst.space^
 ||rurate.com^
+||rurber.com^
 ||rurbie.com^
 ||rusenov.com^
 ||rusheemeso.digital^
@@ -24390,6 +24391,7 @@ vkcdnservice.appspot.com^
 ||untrk.xyz^
 ||untrol.com^
 ||untropiuson.com^
+||untroy.com^
 ||untruewring.com^
 ||unturfamini.store^
 ||untusthemailha.com.ua^
@@ -47353,6 +47355,7 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||dd778899dd.com^
 ||cix0wk.com^
 ||01v62.xyz^
 ||0776.red^
@@ -53823,6 +53826,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1411
+@@||gate.first-id.fr^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1401
 ! Blocked by CNAME bodis.com
 @@||leechers-paradise.org^|
