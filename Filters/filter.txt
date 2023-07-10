@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-10T00:03:03.612Z
+! Last modified: 2023-07-10T06:01:32.652Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||raferu.com^
+||bentonuncage.com^
 ||bt.yurokrelax.com^
 ||scenistgracy.life^
 ||mallettraumatize.com^
@@ -29091,6 +29093,7 @@ vkcdnservice.appspot.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
 !
+||veta.naver.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||leadc6.icu^
 ||pangolin16.sgsnssdk.com^
@@ -33179,6 +33182,7 @@ vkcdnservice.appspot.com^
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||blushingbread.com^
 ||muteknife.com^
 ||serpentshampoo.com^
 ||guidecent.com^
@@ -38458,7 +38462,6 @@ inapps.appsflyersdk.com^
 ||bleachbubble.com^
 ||bleachscarecrow.com^
 ||blesspizzas.com^
-||blushingbread.com^
 ||bouncyfront.com^
 ||broadborder.com^
 ||brotherslocket.com^
@@ -46717,8 +46720,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Jul 2023 23:07 UTC+7
-! Version: 2307092307
+! Last modified: 10 Jul 2023 10:45 UTC+7
+! Version: 2307101045
 ! Blocked: 848 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -47582,6 +47585,8 @@ inapps.appsflyersdk.com^
 ||ronbbf.xyz^
 ||lwide.xyz^
 ||pirxzl.xyz^
+||zfteiv.xyz^
+||uyq3ruf.icu^
 ||ymhyw6.lol^
 ||zerolcp.cn^
 ||zonyff.xyz^
