@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-15T18:01:06.688Z
+! Last modified: 2023-07-16T00:02:58.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||foliosedunlin.guru^
+||impunekotoite.com^
+||excellentvids.space^
 ||pariatonet.com^
 ||mqnrrawj.com^
 ||wchctzzkzkhx.com^
@@ -45880,8 +45883,8 @@ inapps.appsflyersdk.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-06-29 06:43:55 CEST
-# entries:        1113
+# last updated:   2023-07-15 20:37:05 CEST
+# entries:        1156
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -46320,6 +46323,48 @@ inapps.appsflyersdk.com^
 ||tracking.ditv.di.se^
 ||tracking.di.se^
 ||tracking.dn.se^
+||tracking.etidning.allehanda.se^
+||tracking.etidning.arbetarbladet.se^
+||tracking.etidning.avestatidning.com^
+||tracking.etidning.bblat.se^
+||tracking.etidning.borlangetidning.se^
+||tracking.etidning.dalademokraten.se^
+||tracking.etidning.di.se^
+||tracking.etidning.dn.se^
+||tracking.etidning.falkopingstidning.se^
+||tracking.etidning.falukuriren.se^
+||tracking.etidning.gd.se^
+||tracking.etidning.hd.se^
+||tracking.etidning.ht.se^
+||tracking.etidning.jp.se^
+||tracking.etidning.ljusdalsposten.se^
+||tracking.etidning.ljusnan.se^
+||tracking.etidning.ltz.se^
+||tracking.etidning.lt.se^
+||tracking.etidning.moratidning.se^
+||tracking.etidning.na.se^
+||tracking.etidning.norrteljetidning.se^
+||tracking.etidning.nyaludvikatidning.se^
+||tracking.etidning.nynashamnsposten.se^
+||tracking.etidning.op.se^
+||tracking.etidning.salaallehanda.com^
+||tracking.etidning.skaraborgslanstidning.se^
+||tracking.etidning.skd.se^
+||tracking.etidning.skovdenyheter.se^
+||tracking.etidning.smalandsdagblad.se^
+||tracking.etidning.smalanningen.se^
+||tracking.etidning.smt.se^
+||tracking.etidning.soderhamnskuriren.se^
+||tracking.etidning.sodran.se^
+||tracking.etidning.st.nu^
+||tracking.etidning.sydsvenskan.se^
+||tracking.etidning.tidningenangermanland.se^
+||tracking.etidning.tidningenharjedalen.se^
+||tracking.etidning.tranastidning.se^
+||tracking.etidning.vastgotabladet.se^
+||tracking.etidning.vetlandaposten.se^
+||tracking.etidning.vlt.se^
+||tracking.etidning.vn.se^
 ||tracking.falkopingstidning.se^
 ||tracking.falukuriren.se^
 ||tracking.fasab6f.se^
@@ -46363,6 +46408,7 @@ inapps.appsflyersdk.com^
 ||tracking.visitorsvoice.com^
 ||tracking.vlt.se^
 ||tracking.vn.se^
+||tracking.etidning.fagersta-posten.se^
 ||tracking.fagersta-posten.se^
 ||traffic.feedremedy.com^
 ||trafikstyrelsen.com^
@@ -47721,6 +47767,14 @@ inapps.appsflyersdk.com^
 ||zcvyzsyd.icu^
 ||zerolcp.cn^
 ||zfcdirf.icu^
+||dojyiu8.com^
+||btescs.fun^
+||rabuagc.cn^
+||dyeperd.icu^
+||xjzyhp.xyz^
+||ewfsef.com^
+||allcp.xyz^
+||nqdufv.xyz^
 ||zfteiv.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
