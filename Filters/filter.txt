@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-17T18:01:26.755Z
+! Last modified: 2023-07-18T00:02:52.710Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -46492,6 +46492,7 @@ inapps.appsflyersdk.com^
 !
 ||delosnetwork.it^
 ||eadv.it^
+||epeex.io^
 ||rtbuzz.net^
 ||shoppydoo.com^
 ||yobee.it^
@@ -46542,7 +46543,6 @@ inapps.appsflyersdk.com^
 ||easymarketcrs.it^
 ||ebuzzing.it^
 ||edinetadv.com^
-||epeex.io^
 ||evolutionadv.it^
 ||firebanner.com^
 ||guarda4k.online^
@@ -47831,9 +47831,16 @@ inapps.appsflyersdk.com^
 ||zcvyzsyd.icu^
 ||zerolcp.cn^
 ||zexfzson.icu^
+||ertgbme.com^
+||qezpjlp.cn^
+||yuifgh.fun^
+||vvwuqxp.icu^
+||ccnim.xyz^
+||fddxbn.xyz^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zifyeldq.top^
+||vxhtxt.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
