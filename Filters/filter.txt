@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-27T06:01:22.216Z
+! Last modified: 2023-07-27T09:03:23.178Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1318,6 +1318,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||adserver.pandora.com^
 ||zap.cdn.zynga.com^
 ||mv.outbrain.com^
 ||ads.sparkflow.net^
@@ -30407,7 +30408,6 @@ vkcdnservice.appspot.com^
 ||adsee.jp^
 ||adserver.goforandroid.com^
 ||adserver.kimia.es^
-||adserver.pandora.com^
 ||adserver.ubiyoo.com^
 ||adshost2.com^
 ||adsmo.ru^
@@ -40215,7 +40215,6 @@ inapps.appsflyersdk.com^
 ||px.spiceworks.com^
 ||pylon.micstatic.com^
 ||qubitanalytics.appspot.com^
-||r.stripe.com^
 ||reach-id.orbit.tm-awx.com^
 ||realm.hearst3pcc.com^
 ||recs.shareaholic.com^
@@ -48761,6 +48760,7 @@ inapps.appsflyersdk.com^
 ||ssnnn.net^
 ||hghjks2.com^
 ||a9able.com^
+||uxtruz.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
@@ -54929,6 +54929,8 @@ analytics-*.aasaam.com
 # >> E <<
 
 # >> F <<
+||vast.filmnet.ir^
+
 # https://github.com/MasterKia/PersianBlocker/issues/107
 ||analytics.football360.ir^
 
