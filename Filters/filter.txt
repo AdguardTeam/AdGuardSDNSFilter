@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-28T06:18:35.347Z
+! Last modified: 2023-07-28T09:07:23.603Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -47690,8 +47690,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 21 Jul 2023 23:23 UTC+7
-! Version: 2307212323
+! Last modified: 28 Jul 2023 15:33 UTC+7
+! Version: 2307281533
 ! Blocked: 835 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -48775,6 +48775,7 @@ inapps.appsflyersdk.com^
 ||statisfile.com^
 ||rtborp.xyz^
 ||nnqwe.xyz^
+||svarub.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
@@ -54984,6 +54985,7 @@ analytics-*.aasaam.com
 
 # >> N <<
 ||sentry.namava.ir^
+||ws.namava.ir^
 
 ||stc.ninisite.com^
 # >> O <<
@@ -55177,9 +55179,6 @@ analytics-*.aasaam.com
 
 # https://github.com/Webamoozcom/warning-list/discussions/171
 ||mogo-crypto.net^
-# https://nitter.net/designbazzz/status/1641797300275036163?t=63Lj4RJ5U40VDwwV-fQpKA&s=19
-||fillvpn.com^
-||sharapako.com^
 
 !
 ! Source name: Additional rules
