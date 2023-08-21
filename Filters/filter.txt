@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-21T00:02:36.794Z
+! Last modified: 2023-08-21T06:01:29.143Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -31855,6 +31855,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||agrvt.com^
 ||westats.dev^
 ||adsolutions.com^
 ||sdk.fra-*.braze.eu^
@@ -35271,6 +35272,7 @@ vkcdnservice.appspot.com^
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||stomachscience.com^
 ||ruralrobin.com^
 ||scaredsnakes.com^
 ||bleachscarecrow.com^
@@ -39459,7 +39461,6 @@ inapps.appsflyersdk.com^
 ||afterclick.co^
 ||agentanalytics.com^
 ||agilesrv.com^
-||agrvt.com^
 ||airserve.net^
 ||aivalabs.com^
 ||amnet.tw^
@@ -40772,7 +40773,6 @@ inapps.appsflyersdk.com^
 ||stereotypedsugar.com^
 ||stingsquirrel.com^
 ||stockingsneeze.com^
-||stomachscience.com^
 ||strangeclocks.com^
 ||strangersponge.com^
 ||stretchsneeze.com^
@@ -50174,6 +50174,8 @@ inapps.appsflyersdk.com^
 ||canser7.top^
 ||tlbjw.com^
 ||hthivr.xyz^
+||ltsubzgmw.xyz^
+||zgkvfu.xyz^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
