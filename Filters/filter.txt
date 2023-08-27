@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-27T00:02:30.199Z
+! Last modified: 2023-08-27T06:01:18.471Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -50162,6 +50162,9 @@ inapps.appsflyersdk.com^
 ||nbtfbb.xyz^
 ||danstr.fun^
 ||81wx.info^
+||sbcjahdc.com^
+||999pro.top^
+||l4efwdtg.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
@@ -55423,7 +55426,6 @@ inapps.appsflyersdk.com^
 ||jab88.com^
 ||jb.dianshu119.com^
 ||jb.ecar168.cn^
-||jc1.dayfund.cn^
 ||jc1.dayfund.com.cn^
 ||jddaw.com^
 ||jiaoben.eastday.com^
@@ -55597,10 +55599,8 @@ inapps.appsflyersdk.com^
 ||static*.365inews.com^
 ||static.gaomaer.cn^
 ||static.ichehome.com^
-||static.jiaquyi.com^
 ||static.meijiacun.com^
 ||static.rongkao.com^
-||t.cnscore.com^
 ||t1.612.com^
 ||t1.xuefen.com.cn^
 ||taobc.com^
