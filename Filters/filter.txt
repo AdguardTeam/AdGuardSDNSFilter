@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-27T18:01:26.314Z
+! Last modified: 2023-08-28T00:02:31.878Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||continentalaileendepict.com^
+||resentfulelsewherethoroughfare.com^
+||hideousactivelyparked.com^
+||pastfrolicpackage.com^
 ||ohkyxnjj.com^
 ||jezailmasking.com^
 ||xegmsox.com^
@@ -5885,6 +5889,7 @@ vkcdnservice.appspot.com^
 ||bmcdn4.com^
 ||bmcdn5.com^
 ||bmcdn6.com^
+||bmgipyr.com^
 ||bmhenchlyica.xyz^
 ||bmjlzyjwwmwaw.top^
 ||bmkz57b79pxk.com^
@@ -50183,6 +50188,12 @@ inapps.appsflyersdk.com^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
+||eltdeh.top^
+||hefei668.com^
+||x5hnj21.com^
+||nlvgxr.xyz^
+||bmyrihf.icu^
+||hkscldggm.xyz^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
