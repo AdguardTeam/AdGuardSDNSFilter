@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-07T00:02:32.426Z
+! Last modified: 2023-09-07T06:01:17.587Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -31109,7 +31109,6 @@ vkcdnservice.appspot.com^
 ||ad.wsod.com^
 ||adncdnend.azureedge.net^
 ||adrackpush.azurewebsites.net^
-||ads-api.twitter.com^
 ||ads-yallo-production.imgix.net^
 ||ads.betfair.com^
 ||ads.linkedin.com^
@@ -41743,7 +41742,6 @@ inapps.appsflyersdk.com^
 ||analytics.cincopa.com^
 ||analytics.cmn.com^
 ||analytics.convertlanguage.com^
-||analytics.dealer.com^
 ||analytics.dev.htmedia.in^
 ||analytics.dev.springboardvideo.com^
 ||analytics.disneyinternational.com^
@@ -42450,6 +42448,7 @@ inapps.appsflyersdk.com^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1f0tbk1v3e25u.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^
+||d1qbbgtcslwdbx.cloudfront.net^
 ||d1qnmu4nrib73p.cloudfront.net^
 ||d1r2sy6oc0ariq.cloudfront.net^
 ||d1r55yzuc1b1bw.cloudfront.net^
@@ -51224,6 +51223,7 @@ inapps.appsflyersdk.com^
 ||zcgqsd.icu^
 ||hwnod.xyz^
 ||solaron.top^
+||ttienli.top^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
