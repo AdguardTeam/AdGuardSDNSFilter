@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-14T18:01:32.579Z
+! Last modified: 2023-09-15T00:02:31.940Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -6083,6 +6083,7 @@ vkcdnservice.appspot.com^
 ||bodsoakr.xyz^
 ||bodyguardencouraged.com^
 ||boenedb.com^
+||boeneds.com^
 ||boeojpmxvwbgn.com^
 ||boffinsoft.com^
 ||boffoadsfeeds.com^
@@ -27723,6 +27724,7 @@ vkcdnservice.appspot.com^
 ||unhidemeets.com^
 ||unhorseaa.com^
 ||unhosepedalo.com^
+||unhrjzn.com^
 ||unicast.com^
 ||unicorndirtiness.com^
 ||unicornpride123.com^
@@ -52092,6 +52094,15 @@ inapps.appsflyersdk.com^
 ||54dbg.xyz^
 ||xybnfn.xyz^
 ||1jc5t.xyz^
+||tuhzjrr.cn^
+||lestv7.icu^
+||fsmhub.icu^
+||dektcvna.icu^
+||jkzbjv.xyz^
+||ceshi1.ink^
+||789peizi.com^
+||vktztp.xyz^
+||evb0gxo.icu^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
@@ -56539,6 +56550,8 @@ analytics-*.aasaam.com
 ||affiliate.digikala.com^
 
 # >> B <<
+||binoads.ir^
+||bl9.ir^
 ||backlink.ir^
 ||behtarinseo.ir^
 ||boorantech.com^
