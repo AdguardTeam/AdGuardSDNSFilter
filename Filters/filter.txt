@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-25T18:01:31.340Z
+! Last modified: 2023-09-26T00:02:28.967Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -38474,6 +38474,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||eu.pftk.temu.com^
+||eu.thtk.temu.com^
 ||trace.rememberapp.co.kr^
 ||asv.transsion.com^
 ||f459fdc403a6.78a5254f.ap-northeast-1.token.awswaf.com^
@@ -43418,6 +43420,7 @@ inapps.appsflyersdk.com^
 ||stats.netbopdev.co.uk^
 ||stats.ozwebsites.biz^
 ||stats.polldaddy.com^
+||stats.prebytes.com^
 ||stats.sa-as.com^
 ||stats.sawlive.tv^
 ||stats.screenresolution.org^
@@ -52596,6 +52599,14 @@ inapps.appsflyersdk.com^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
+||krjzxie.cn^
+||boats5.top^
+||asryrzpu.xyz^
+||imbikh.icu^
+||lniwe.xyz^
+||pvlnjwr.xyz^
+||rdpsht.xyz^
+||bzthxv.xyz^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
@@ -57526,6 +57537,10 @@ analytics-*.aasaam.com
 
 # https://github.com/Webamoozcom/warning-list/discussions/174
 ||tinancefa.org^
+
+# https://github.com/MasterKia/PersianBlocker/pull/201
+# https://webamooz.com/1402/06/25/%D9%84%D8%A7%DA%A9%D8%B3%D9%88%D9%86-laxxson-%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%BE%D8%A7%D9%86%D8%B2%DB%8C-%D8%A7%D8%B3%D8%AA/
+||laxsson.com^
 ||wibodir.com^
 ||eh-ra-z-se-na.org^
 ||ebl-hot.com^
