@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-04T12:01:31.434Z
+! Last modified: 2023-10-04T16:22:19.016Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||abbotpredicateemma.com^
+||bginrbancsr.com^
 ||lajouly.com^
 ||qxpwiqydg.com^
 ||hpaakmsumarzy.com^
@@ -38853,6 +38855,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||m.1gr.cz^
+||a.1gr.cz^
 ||pvnwap.zol.com.cn^
 ||analytics.ifanrusercontent.com^
 ||visit.oschina.net^
@@ -49447,7 +49451,7 @@ inapps.appsflyersdk.com^
 ||scadnet.com^
 ||search.jword.jp^
 ||seoparts.com^
-||trafficgate.net^
+||srv2.trafficgate.net^
 ||trustclick.ne.jp^
 ||tumabeni.com^
 ||webantenna.info^
@@ -52038,23 +52042,24 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
-||beste3.icu^
-||pexavfro.xyz^
-||bydcxdy.cn^
-||ldvnehc.xyz^
-||serda10.icu^
-||ddvoht.xyz^
-||tcgaqh.icu^
-||dhgfhedxx.xyz^
-||anhlnnm.cn^
 ||88lajs3.com^
+||anhlnnm.cn^
+||beste3.icu^
+||bydcxdy.cn^
+||ddvoht.xyz^
+||dhgfhedxx.xyz^
 ||jofknbpe.xyz^
+||ldvnehc.xyz^
 ||neeujqf.cn^
+||pexavfro.xyz^
 ||psroyx.icu^
 ||roxewwq.cn^
+||serda10.icu^
+||tcgaqh.icu^
 ||ulrvkee.xyz^
 ||vttqld.xyz^
 ||xkfigjh.cn^
+||xxkswdf.icu^
 ||01v62.xyz^
 ||023best.cn^
 ||0272aa.com^
@@ -57732,6 +57737,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/163141
+@@||api.karte.io^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1464
 @@||sponsor.nitropay.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157550
