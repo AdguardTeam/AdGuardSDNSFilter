@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-05T00:02:35.004Z
+! Last modified: 2023-10-05T06:01:21.504Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -32342,6 +32342,7 @@ vkcdnservice.appspot.com^
 ||starti.pl^
 ||statsperformdev.com^
 ||stocker.bonnint.net^
+||stratos.blue^
 ||streamate.com^
 ||streamdefence.com^
 ||strikead.com^
@@ -32596,7 +32597,6 @@ vkcdnservice.appspot.com^
 ||bidder.newspassid.com^
 ||bids.concert.io^
 ||bl.wavecdn.de^
-||bsc-dataseed1.binance.org^
 ||btr.domywife.com^
 ||c.bannerflow.net^
 ||c2shb.pubgw.yahoo.com^
@@ -52083,7 +52083,9 @@ inapps.appsflyersdk.com^
 ||vdggsd005.com^
 ||xvzfyra.xyz^
 ||lnxpdj.xyz^
+||xmvmir.icu^
 ||roxewwq.cn^
+||hwuogmusthxfpk.xyz^
 ||serda10.icu^
 ||tcgaqh.icu^
 ||ulrvkee.xyz^
@@ -57302,6 +57304,7 @@ analytics-*.aasaam.com
 ||yekbux.com^
 
 # >> Z <<
+||zarad.net^
 
 # >> A <<
 ||analytics.asiatech.ir^
@@ -57371,8 +57374,8 @@ analytics-*.aasaam.com
 # >> L <<
 
 # >> M <<
+||counter.musicsweb.ir^
 ||counter.mahanmusic.net^
-
 ||analytic.magland.ir^
 
 ||affiliate.malltina.com^
