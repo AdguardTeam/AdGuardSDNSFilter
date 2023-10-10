@@ -187,7 +187,8 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/428
 ! CNAME: paymaya.customlinks.appsflyer.com
 @@||official.paymaya.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/381
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1499
+@@||www.statcounter.com^|
 @@||gs.statcounter.com^|
 ! Blocked by exacttarget.com alias
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/333
