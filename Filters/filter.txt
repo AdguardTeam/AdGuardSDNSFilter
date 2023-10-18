@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-18T00:02:25.441Z
+! Last modified: 2023-10-18T06:01:27.692Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -37949,6 +37949,7 @@ vkcdnservice.appspot.com^
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||delicatecascade.com^
 ||dreamycanyon.com^
 ||whimsicalgrove.com^
 ||cozyhillside.com^
@@ -43156,7 +43157,6 @@ inapps.appsflyersdk.com^
 ||debonairtree.com^
 ||decisivebase.com^
 ||deerbeginner.com^
-||delicatecascade.com^
 ||delicateducks.com^
 ||desirebucket.com^
 ||differentcoat.com^
@@ -52519,6 +52519,8 @@ inapps.appsflyersdk.com^
 ||chrtds.xyz^
 ||mfnfylx.xyz^
 ||eht116.com^
+||wuyaw.cn^
+||qmoxxhc.cn^
 ||z91f4.top^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
