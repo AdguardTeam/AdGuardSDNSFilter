@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-21T00:02:41.020Z
+! Last modified: 2023-10-21T06:01:09.733Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -44791,6 +44791,7 @@ inapps.appsflyersdk.com^
 ||lentainform.com^
 ||mediatoday.ru^
 ||mobtop.ru^
+||netlog.ru^
 ||otclick-adv.ru^
 ||retag.xyz^
 ||rnet.plus^
@@ -44975,6 +44976,7 @@ inapps.appsflyersdk.com^
 ||imp.optaim.com^
 ||log.hiiir.com^
 ||log.tagtic.cn^
+||mcs.zijieapi.com^
 ||p.tencentmind.com^
 ||r.sax.sina.com.cn^
 ||report.meituan.com^
@@ -44990,6 +44992,7 @@ inapps.appsflyersdk.com^
 ||tracking.cat898.com^
 ||trail.71baomu.com^
 ||web-trace.ksapisrv.com^
+||webstat.qiumibao.com^
 ||wlog.kuaishou.com^
 ! Croatian
 ||tracking.vid4u.org^
@@ -45190,10 +45193,10 @@ inapps.appsflyersdk.com^
 ||analitik.bik.gov.tr^
 ! Ukranian
 ||informers.sinoptik.ua^
-! Vietnamese
 ||countervov.emitech.vn^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
+||za.zalo.me^
 
 !
 ! Source name: AdGuard Spanish/Portuguese filter ad servers first-party
@@ -51794,7 +51797,6 @@ inapps.appsflyersdk.com^
 ||pushdy.com^
 ||pushdy.vn^
 ||pushtimize.com^
-||px.za.zalo.me^
 ||qc-static.coccoc.com^
 ||qc.coccoc.com^
 ||qc.coccoc.vn^
@@ -52616,6 +52618,11 @@ inapps.appsflyersdk.com^
 ||zzyy20.top^
 ||asfybkiy.xyz^
 ||usxuyr.icu^
+||zzyy17.top^
+||bzvhgbr.xyz^
+||foizico.cn^
+||fptdxkm.com^
+||faxffjo.com^
 ||zchvyet.cn^
 ||zcpsc.top^
 ||zents2.top^
