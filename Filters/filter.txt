@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-07T18:01:06.898Z
+! Last modified: 2023-11-08T00:02:17.872Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -8334,6 +8334,7 @@ vkcdnservice.appspot.com^
 ||cpahmeokparn.com^
 ||cpalabtracking.com^
 ||cpaoffers.network^
+||cpaokhfmaccu.com^
 ||cpaspeed.online^
 ||cpaway.com^
 ||cpays.com^
@@ -12536,6 +12537,7 @@ vkcdnservice.appspot.com^
 ||gbfgvzfcjfs.com^
 ||gbfwqsakvaysygn.xyz^
 ||gblcdn.com^
+||gbpkmltxpcsj.xyz
 ||gckkxvpbhhlx.com^
 ||gcqaxqowifrf.com^
 ||gcruperparverew.xyz^
@@ -15339,6 +15341,7 @@ vkcdnservice.appspot.com^
 ||jaggiertridii.com^
 ||jagice.uno^
 ||jagqrhvcvoqjw.com^
+||jaigaivi.xyz^
 ||jailabridge.com^
 ||jainbagong.com^
 ||jaireehu.net^
@@ -27157,6 +27160,7 @@ vkcdnservice.appspot.com^
 ||thewowfeed.com^
 ||thewscozier.uno^
 ||theyenglory.guru^
+||theyunm.com^
 ||thgebtibfyry.com^
 ||thick-ruin.pro^
 ||thickbabysittinghandled.com^
@@ -31049,6 +31053,7 @@ vkcdnservice.appspot.com^
 ||yummy-gap.pro^
 ||yumomis.com^
 ||yunded.com^
+||yunmaue.com^
 ||yunshipei.com^
 ||yupfiles.net^
 ||yuppads.com^
@@ -51177,6 +51182,7 @@ inapps.appsflyersdk.com^
 ||delosnetwork.it^
 ||eadv.it^
 ||epeex.io^
+||hbagency.it^
 ||rtbuzz.net^
 ||shoppydoo.com^
 ||tjekscores.dk^
@@ -51231,7 +51237,6 @@ inapps.appsflyersdk.com^
 ||evolutionadv.it^
 ||firebanner.com^
 ||guarda4k.online^
-||hbagency.it^
 ||hubaffiliations.net^
 ||inaffiliago.it^
 ||ioladv.it^
@@ -52789,6 +52794,10 @@ inapps.appsflyersdk.com^
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
+||jqtkzuco.xyz^
+||lfhnzbj.xyz^
+||bzbopfh.cn^
+||ndbaxn.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
