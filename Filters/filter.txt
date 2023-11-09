@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-09T00:02:31.831Z
+! Last modified: 2023-11-09T06:01:14.900Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -52817,6 +52817,8 @@ inapps.appsflyersdk.com^
 ||sglahyea.xyz^
 ||nndytv.xyz^
 ||eshbqn.icu^
+||muyxmmz.cn^
+||xlam.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -58043,6 +58045,9 @@ analytics-*.aasaam.com
 ||zarad.net^
 
 # >> A <<
+# https://github.com/MasterKia/PersianBlocker/issues/210
+||ads.aftab.cc^
+
 ||analytics.asiatech.ir^
 ||dsp.aparat.com^
 
@@ -58107,6 +58112,8 @@ analytics-*.aasaam.com
 # >> J <<
 
 # >> K <<
+||kar-sentry.karnameh.com^
+
 # https://github.com/MasterKia/PersianBlocker/issues/101
 ||websocket.khanefootball.com^
 
