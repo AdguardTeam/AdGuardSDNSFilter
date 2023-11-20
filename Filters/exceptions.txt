@@ -1,3 +1,10 @@
+! Prevent possible blocking of AdGuard DNS by included third-party filters
+@@||adguard.io^
+@@||dns.adguard.com^
+@@||dns-family.adguard.com^
+@@||dns-unfiltered.adguard.com^
+@@||adguard-dns.com^
+@@||adguard-vpn.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164769
 @@||cdn.us*.exponea.com^|
 ! Blocked by CNAME data.adobedc.net
