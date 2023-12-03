@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-03T00:02:47.746Z
+! Last modified: 2023-12-03T06:01:15.237Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -33110,6 +33110,7 @@ vkcdnservice.appspot.com^
 ||adserving.unibet.com^
 ||adtechvideo.s3.amazonaws.com^
 ||advast.sibnet.ru^
+||adx-exchange.toast.com^
 ||aff.bstatic.com^
 ||affiliate.heureka.cz^
 ||affiliate.juno.co.uk^
@@ -41228,6 +41229,7 @@ inapps.appsflyersdk.com^
 ||dspx.tv^
 ||e1e.io^
 ||easycompute.systems^
+||ecn-ldr.de^
 ||ed-sys.net^
 ||efreecode.com^
 ||egoi.site^
@@ -41323,6 +41325,7 @@ inapps.appsflyersdk.com^
 ||mediamathrdrt.com^
 ||mirabelanalytics.com^
 ||mitour.de^
+||mitself.net^
 ||ml-sys.xyz^
 ||mm-api.agency^
 ||mobildev.in^
@@ -43667,6 +43670,7 @@ inapps.appsflyersdk.com^
 ||sillyscrew.com^
 ||simplesidewalk.com^
 ||simplisticstem.com^
+||simulateswing.com^
 ||sincerebuffalo.com^
 ||sincereseashore.com^
 ||singroot.com^
@@ -44118,6 +44122,7 @@ inapps.appsflyersdk.com^
 ||analytics.humanautomation.ai^
 ||analytics.jazel.net^
 ||analytics.kapost.com^
+||analytics.lemoolah.com^
 ||analytics.live.com^
 ||analytics.maikel.pro^
 ||analytics.mailmunch.co^
@@ -44797,6 +44802,7 @@ inapps.appsflyersdk.com^
 ||trx.zip.co^
 ||uid.mediacorp.sg^
 ||us-central1-markuphero.cloudfunctions.net^
+||usaoptimizedby.increasingly.co^
 ||user.userguiding.com^
 ||usersegment.wpdigital.net^
 ||vdrn.redplum.com^
@@ -45356,6 +45362,7 @@ inapps.appsflyersdk.com^
 ||advantage.digitalsunray.com^
 ||analytics.cnd-motionmedia.de^
 ||analytics.gameforge.de^
+||analytics.idfnet.net^
 ||analytics.loop-cloud.de^
 ||analytics.media-proweb.de^
 ||analytics.praetor.im^
@@ -51130,8 +51137,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-01 08:19:46 CET
-# entries:        1053
+# last updated:   2023-12-03 06:36:12 CET
+# entries:        1054
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -53612,6 +53619,9 @@ inapps.appsflyersdk.com^
 ||twlmq.space^
 ||uskoie.xyz^
 ||needqnv.xyz^
+||bepmrb.xyz^
+||motcmn.icu^
+||f23al.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
