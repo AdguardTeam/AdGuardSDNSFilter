@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-06T00:02:23.588Z
+! Last modified: 2023-12-06T06:01:15.479Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -52238,9 +52238,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Dec 2023 22:51 UTC+7
-! Version: 2312052251
-! Blocked: 850 rules
+! Last modified: 06 Dec 2023 10:27 UTC+7
+! Version: 2312061027
+! Blocked: 848 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -52375,7 +52375,7 @@ inapps.appsflyersdk.com^
 ||log.vietnamplus.vn^
 ||log.zalo.video^
 ||log.zingmp3.vn^
-||log.zingnews.com.vn^
+||log.znews.vn^
 ||logen.vietnamplus.vn^
 ||loges.vietnamplus.vn^
 ||logfr.vietnamplus.vn^
@@ -52529,7 +52529,6 @@ inapps.appsflyersdk.com^
 ||younetmedia.com^
 ||za.zapps.vn^
 ||za.zingmp3.vn^
-||za.zingnews.com.vn^
 ||zads.me.zing.vn^
 ||zalo-ads-240-td.zadn.vn^
 ||zalo-ads-240.zadn.vn^
@@ -53860,6 +53859,8 @@ inapps.appsflyersdk.com^
 ||epebuk.xyz^
 ||jspqhh.xyz^
 ||awareista.com^
+||zigyspv.icu^
+||linj.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
