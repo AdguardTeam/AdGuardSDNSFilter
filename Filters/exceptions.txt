@@ -1,3 +1,6 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/167622
+! Blocked by CNAME extole.com
+@@||refer.discover.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167320
 @@||cmp.inmobi.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164769
