@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-18T18:01:21.367Z
+! Last modified: 2023-12-19T00:02:26.768Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,13 @@
 !
 !
 !
+||ovkamwvdof.com^
+||groacoaz.com^
+||stepchateautolerance.com^
+||strandedpeel.com
+||evwmwnd.com^
+||eneverseen.org^
+||realiukzem.org^
 ||decbusi.com^
 ||jenwyrjbvvlrl.top^
 ||elwcchbwtnohia.com^
@@ -1283,6 +1290,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d39xdhxlbi0rlm.cloudfront.net^
 ||dvv009j588zal.cloudfront.net^
 ||d18ql5xgy7gz3p.cloudfront.net^
 ||d2f0ixlrgtk7ff.cloudfront.net^
@@ -32704,6 +32712,7 @@ vkcdnservice.appspot.com^
 ||offersquared.com^
 ||og-affiliate.com^
 ||okanjo.com^
+||onetag-sys.com^
 ||onlyalad.net^
 ||onscroll.com^
 ||onvertise.com^
@@ -37505,7 +37514,6 @@ vkcdnservice.appspot.com^
 ||on-line.lv^
 ||onefeed.co.uk^
 ||onestat.com^
-||onetag-sys.com^
 ||ongsono.com^
 ||onlinewebstat.com^
 ||onlinewebstats.com^
@@ -41931,10 +41939,7 @@ inapps.appsflyersdk.com^
 ||o-s.io^
 ||octomarket.com^
 ||ohayoo.io^
-||omtvxcle.com^
 ||ondu.ru^
-||oneimpress.io^
-||onetag.io^
 ||oniad.com^
 ||openlog.in^
 ||opstag.com^
@@ -54000,6 +54005,15 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||kuxfznnf.xyz^
+||bvnjeqa.xyz^
+||uckgqa.xyz^
+||n2faw.site^
+||iolsrikq.xyz^
+||ectyet.top^
+||vvlhrz.xyz^
+||demifa.top^
+||rsvvfx.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
