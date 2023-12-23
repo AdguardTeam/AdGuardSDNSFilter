@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-22T18:01:06.238Z
+! Last modified: 2023-12-23T00:02:25.437Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,19 @@
 !
 !
 !
+||elfnxscnmtao.com^
+||putfeablean.org^
+||oyoperseduca.com^
+||etxahpe.com^
+||kbadguhvqig.xyz^
+||gwjfwrzoevwt.com^
+||quxuejhcaz.com^
+||zzhyebbt.com^
+||ijrmafzydeieuo.com^
+||banners5html2.com^
+||ad.apl302.me^
+||jgfwbpquillzpw.com^
+||commastick.com^
 ||ynfsiosdt.com^
 ||poanouwy.net^
 ||clopembira.website^
@@ -1313,6 +1326,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d1zw8evbrw553l.cloudfront.net^
 ||d39xdhxlbi0rlm.cloudfront.net^
 ||dvv009j588zal.cloudfront.net^
 ||d18ql5xgy7gz3p.cloudfront.net^
@@ -21015,7 +21029,6 @@ vkcdnservice.appspot.com^
 ||oyi9f1kbaj.com^
 ||oyihoxw.com^
 ||oyopersed.info^
-||oyoperseduca.com^
 ||oysterexhalereview.com^
 ||oyxctgotabvk.com^
 ||oyyihttyklfwcgy.xyz^
@@ -23114,7 +23127,6 @@ vkcdnservice.appspot.com^
 ||putainalen.com^
 ||putate.com^
 ||putbid.net^
-||putfeablean.org^
 ||putfeableand.info^
 ||putfeepea.site^
 ||putrefyvarioushumorous.com^
@@ -33811,7 +33823,6 @@ vkcdnservice.appspot.com^
 ||d1zjr9cc2zx7cg.cloudfront.net^
 ||d1zrs4deyai5xm.cloudfront.net^
 ||d1zw85ny9dtn37.cloudfront.net^
-||d1zw8evbrw553l.cloudfront.net^
 ||d1zy4z3rd7svgh.cloudfront.net^
 ||d1zzcae3f37dfx.cloudfront.net^
 ||d200108c6x0w2v.cloudfront.net^
@@ -42058,6 +42069,7 @@ inapps.appsflyersdk.com^
 ||finalyticsdata.com^
 ||flaghit.com^
 ||flexlinkspro.com^
+||flockrocket.io^
 ||flyspy.co^
 ||fndrsp.net^
 ||fpjs.io^
@@ -54398,6 +54410,13 @@ inapps.appsflyersdk.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||cpddgcr.xyz^
+||unxuoag.cn^
+||hsi2i.fun^
+||pkfuxvbk.xyz^
+||twtfdd.xyz^
+||kekmhvbb.xyz^
+||qlcbeg.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
