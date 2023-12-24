@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-23T18:01:24.384Z
+! Last modified: 2023-12-24T00:03:07.067Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -42502,6 +42502,7 @@ inapps.appsflyersdk.com^
 ||sugodeku.com^
 ||sumo.com^
 ||sumome.com^
+||superspeedapp.com^
 ||surefire.link^
 ||synerise.com^
 ||tagdatax.com^
@@ -44586,6 +44587,7 @@ inapps.appsflyersdk.com^
 !
 ||100widgets.com^
 ||1558334541.rsc.cdn77.org^
+||3j0pw4ed7uac-a.akamaihd.net^
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
 ||51network.com^
@@ -51438,6 +51440,7 @@ inapps.appsflyersdk.com^
 ||affilixxl.de^
 ||agaso.de^
 ||allads4you.de^
+||alphaads.de^
 ||anzeigen-vor-ort.de^
 ||anzeigenlieferant.de^
 ||arcor-partner.de^
@@ -54453,6 +54456,10 @@ inapps.appsflyersdk.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||tf0.top^
+||kdsahkln.xyz^
+||udb3n.icu^
+||ohdvafp.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
