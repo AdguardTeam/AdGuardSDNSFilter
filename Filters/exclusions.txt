@@ -1,3 +1,7 @@
+! Excluding Admiral domains when blocking on the DNS level causes an anti-adblock detection that cannot be skipped
+! This is necessary only for cases when no ad blockers are used
+! Example: https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1586
+||eminentbubble.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/169684
 ||crashlytics.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1573
