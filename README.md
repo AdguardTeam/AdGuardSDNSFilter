@@ -93,6 +93,8 @@ The output is written to `Filters/filter.txt`.
 
 * [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt)
 
+* [hostsVN Threat](https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/filter.txt)
+
 ### Tracking servers
 
 #### These filter lists block domains that are used for tracking and analytics

@@ -300,6 +300,13 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "hostsVN Threat",
+      "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/filter.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
       "name": "EasyList China ad servers",
       "source": "https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt",
       "type": "adblock",
