@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-19T00:02:36.722Z
+! Last modified: 2024-01-19T06:01:13.697Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,20 @@
 !
 !
 !
+||auhpaewvbgwjr.com^
+||wokaptoa.com^
+||lambedbarbal.website^
+||jghjhtz.com^
+||ctrtrk.com^
+||mztqgmr.com^
+||ntlysearchingf.info^
+||etingplansfor.org^
+||uqpvrqplyqm.com^
+||wnwkzzzheca.com^
+||aysdsvtd.com^
+||sjmbwxnqz.com^
+||kxkqqycs.xyz^
+||psumainy.xyz^
 ||xhfvljklvq.com^
 ||moxuthoo.net^
 ||detergentkindlyrandom.com^
@@ -1350,6 +1364,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||dic9vgwbkxd8r.cloudfront.net^
 ||fentent.stre4mplay.one^
 ||d2s31asn9gp5vl.cloudfront.net^
 ||sponsor.imacdn.com^
@@ -57788,6 +57803,9 @@ inapps.appsflyersdk.com^
 ||bxnxdlb.xyz^
 ||1821z.website^
 ||sukneyu.com^
+||l7ghj.xyz^
+||xwlnhw.com^
+||stbwhln.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
