@@ -1,6 +1,18 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1583
 ! Blocked by CNAME go2jump.org
 @@||tr.rdrtr.com^|
+!
+! Blocked by CNAME exponea.com
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1604
+@@||media-consumer365.desigual.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/164769
+@@||cdn.us*.exponea.com^|
+@@||crm-cdn.peek-cloppenburg.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/992
+@@||public-cis.exponea.com^|
+! cdn.rozetka.com.ua is blocked by CNAME 'rozetka-cdn.exponea.com'
+@@||cdn.rozetka.com.ua^|
+!
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1569
 @@||recommender.scarabresearch.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167622
@@ -8,8 +20,6 @@
 @@||refer.discover.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167320
 @@||cmp.inmobi.com^|
-! https://github.com/AdguardTeam/AdguardFilters/issues/164769
-@@||cdn.us*.exponea.com^|
 ! Blocked by CNAME data.adobedc.net
 @@||data.digital.costco.ca^|
 @@||data.digital.costco.com^|
@@ -47,8 +57,6 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1181
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1344
 @@||cdn.duurzaam.greenchoice.nl^|
-! Blocked by CNAME exponea.com
-@@||crm-cdn.peek-cloppenburg.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136509
 ! Blocked by CNAME c.msn.com
 @@||c.office.com^|
@@ -68,8 +76,6 @@
 @@||link.morningbrew.com^|
 ! https://forum.adguard.com/index.php?threads/incorrect-extension-blocking.49177/#post-223130
 @@||click.appcast.io^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/992
-@@||public-cis.exponea.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/977
 @@||anwb.webpower.eu^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/121419
@@ -181,8 +187,6 @@
 @@||logentries.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/517
 @@||email.*.skyeng.ru^|
-! cdn.rozetka.com.ua is blocked by CNAME 'rozetka-cdn.exponea.com'
-@@||cdn.rozetka.com.ua^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/65326
 @@||go.scorptec.com.au^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/468
