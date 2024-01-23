@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-23T12:01:26.701Z
+! Last modified: 2024-01-23T14:37:06.953Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -7799,6 +7799,7 @@ vkcdnservice.appspot.com^
 ||coehornliebig.com^
 ||coelinepinal.website^
 ||coendouspare.com^
+||coercehiation.com^
 ||coercerwhuther.com^
 ||coeton.website^
 ||coevalscabbagy.com^
@@ -8454,6 +8455,7 @@ vkcdnservice.appspot.com^
 ||cthisismoych.com^
 ||cthkgodgy.com^
 ||ctiarbwaxam.com^
+||ctiascaqkn.com^
 ||cticalwhichhere.info^
 ||ctiotjobkfu.com^
 ||ctm-media.com^
@@ -19234,6 +19236,7 @@ vkcdnservice.appspot.com^
 ||nergyflexibilit.pics^
 ||nervous-touch.pro^
 ||nervousclangprobable.com^
+||nervoustolsel.com^
 ||nesefurthere.info^
 ||nesfspublicate.info^
 ||nesiotcusses.space^
@@ -33311,11 +33314,13 @@ vkcdnservice.appspot.com^
 ||1117977646.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1205020224.rsc.cdn77.org^
+||1413879490.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1692923857.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1915832424.rsc.cdn77.org^
+||1987292064.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -56586,6 +56591,7 @@ inapps.appsflyersdk.com^
 ||maoskk.com^
 ||xiwusn9982.top^
 ||xhubsxmg.xyz^
+||maqmix.icu^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -61477,6 +61483,18 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1583
 ! Blocked by CNAME go2jump.org
 @@||tr.rdrtr.com^|
+!
+! Blocked by CNAME exponea.com
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1604
+@@||media-consumer365.desigual.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/164769
+@@||cdn.us*.exponea.com^|
+@@||crm-cdn.peek-cloppenburg.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/992
+@@||public-cis.exponea.com^|
+! cdn.rozetka.com.ua is blocked by CNAME 'rozetka-cdn.exponea.com'
+@@||cdn.rozetka.com.ua^|
+!
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1569
 @@||recommender.scarabresearch.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167622
@@ -61484,8 +61502,6 @@ analytics-*.aasaam.com
 @@||refer.discover.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167320
 @@||cmp.inmobi.com^|
-! https://github.com/AdguardTeam/AdguardFilters/issues/164769
-@@||cdn.us*.exponea.com^|
 ! Blocked by CNAME data.adobedc.net
 @@||data.digital.costco.ca^|
 @@||data.digital.costco.com^|
@@ -61523,8 +61539,6 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1181
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1344
 @@||cdn.duurzaam.greenchoice.nl^|
-! Blocked by CNAME exponea.com
-@@||crm-cdn.peek-cloppenburg.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136509
 ! Blocked by CNAME c.msn.com
 @@||c.office.com^|
@@ -61544,8 +61558,6 @@ analytics-*.aasaam.com
 @@||link.morningbrew.com^|
 ! https://forum.adguard.com/index.php?threads/incorrect-extension-blocking.49177/#post-223130
 @@||click.appcast.io^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/992
-@@||public-cis.exponea.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/977
 @@||anwb.webpower.eu^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/121419
@@ -61656,8 +61668,6 @@ analytics-*.aasaam.com
 @@||logentries.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/517
 @@||email.*.skyeng.ru^|
-! cdn.rozetka.com.ua is blocked by CNAME 'rozetka-cdn.exponea.com'
-@@||cdn.rozetka.com.ua^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/65326
 @@||go.scorptec.com.au^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/468
