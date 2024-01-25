@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-24T18:01:06.364Z
+! Last modified: 2024-01-25T00:02:26.161Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1621,7 +1621,6 @@
 ||cdn.234doo.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58569
 ||a.b.napiszar.com^
-||api.lhkmedia.in^
 ||planner.tiscali.it^
 !
 !---------------------------------------------------------------------
@@ -4256,6 +4255,7 @@ vkcdnservice.appspot.com^
 ||anlhcenruea.com^
 ||anlytics.co^
 ||anmdr.link^
+||anmgaxrujfru.com^
 ||anncmq.com^
 ||anncquyaxns.com^
 ||annesuspense.com^
@@ -11049,6 +11049,7 @@ vkcdnservice.appspot.com^
 ||elbowfixes.com^
 ||elbowrevolutionary.com^
 ||elbowsmouldoral.com^
+||elcfdhbxyb.com^
 ||eldestcasualelements.com^
 ||eldestcontribution.com^
 ||eldestequivalentdrain.com^
@@ -12492,6 +12493,7 @@ vkcdnservice.appspot.com^
 ||fksnk.com^
 ||fktbwntpfoh.com^
 ||fkugzbngtla.com^
+||fkwkzlb.com^
 ||fkyhqtfiopfit.com^
 ||fla4n6ne7r8ydcohcojnnor.com^
 ||flabbyyolkinfection.com^
@@ -14171,7 +14173,6 @@ vkcdnservice.appspot.com^
 ||greezoob.net^
 ||grefutiwhe.com^
 ||gregariousflower.pro^
-||gregarpor-roundens-i-276.site^
 ||gregauunaided.com^
 ||grehtrsan.com^
 ||greisize.com^
@@ -15337,6 +15338,7 @@ vkcdnservice.appspot.com^
 ||hrtyc.com^
 ||hrtye.com^
 ||hrxjqyxvdqidpv.com^
+||hsdaknd.com^
 ||hskywgpickh.com^
 ||hsmrabnj.com^
 ||hsrvv.com^
@@ -34849,6 +34851,7 @@ vkcdnservice.appspot.com^
 ||lcwfabt1.com^
 ||lcwfabt2.com^
 ||lcwfabt3.com^
+||lhkmedia.in^
 ||lijit.com^
 ||linkexchangers.net^
 ||linkgrand.com^
@@ -35365,6 +35368,7 @@ vkcdnservice.appspot.com^
 ||1675450967.rsc.cdn77.org^
 ||1692923857.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1818027024.rsc.cdn77.org^
 ||1915832424.rsc.cdn77.org^
 ||1987292064.rsc.cdn77.org^
 ||360playvid.com^
@@ -58652,6 +58656,12 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||tajdad.cn^
+||ftdbtko.xyz^
+||yhnvgdkw.xyz^
+||abqdgu.xyz^
+||052db.website^
+||nszort.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
