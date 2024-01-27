@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-27T00:02:21.796Z
+! Last modified: 2024-01-27T06:01:06.816Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -36898,6 +36898,7 @@ vkcdnservice.appspot.com^
 ||d7jpk19dne0nn.cloudfront.net^
 ||d7po8h5dek3wm.cloudfront.net^
 ||d7tst6bnt99p2.cloudfront.net^
+||d85wutc1n854v.cloudfront.net^
 ||d8a69dni6x2i5.cloudfront.net^
 ||d8cxnvx3e75nn.cloudfront.net^
 ||d8dcj5iif1uz.cloudfront.net^
@@ -44965,6 +44966,7 @@ inapps.appsflyersdk.com^
 ||amplify.outbrain.com^
 ||ams-pageview-public.s3.amazonaws.com^
 ||analyse.bcovery.com^
+||analyse.lnearn.com^
 ||analytic.rollout.io^
 ||analytic.xingcloud.com^
 ||analyticcdn.globalmailer.com^
@@ -45712,6 +45714,7 @@ inapps.appsflyersdk.com^
 ||usersegment.wpdigital.net^
 ||vdrn.redplum.com^
 ||vercel-vitals.axiom.co^
+||verify.lnearn.com^
 ||vortex.data.microsoft.com^
 ||vst.sibnet.ru^
 ||vstat.borderlessbd.com^
@@ -59428,6 +59431,10 @@ inapps.appsflyersdk.com^
 ||qqainj.cn^
 ||yzmcok.xyz^
 ||4imk5.online^
+||niticl.icu^
+||chgpuxim.xyz^
+||dmdnlr.xyz^
+||kaurieseluxate.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
