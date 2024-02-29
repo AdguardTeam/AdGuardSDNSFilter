@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-29T06:01:22.693Z
+! Last modified: 2024-02-29T12:02:12.024Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||gvwdwrtzrs.com^
 ||guangzhuiyuan.com^
 ||agamaevascla.top^
 ||paasvalhall.top^
@@ -16107,6 +16108,7 @@ vkcdnservice.appspot.com^
 ||iddjpop.com^
 ||iddpop.com^
 ||ideahealkeeper.com^
+||idealintruder.com^
 ||idealmedia.io^
 ||idelpiyuagjxtk.xyz^
 ||idelv.net^
@@ -43481,6 +43483,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analysis.aws.locondo.jp^
 ||reports.tunein.com^
 ||event.platform.tunein.com^
 ||data.r.pl^
@@ -57515,6 +57518,13 @@ inapps.appsflyersdk.com^
 ||xsfajf.xyz^
 ||fefgvh.xyz^
 ||tduenkq839.shop^
+||execuri.com^
+||88lm06.com^
+||szmnl.cn^
+||sdjkbcjksbdsvv.com^
+||mlhtr.cn^
+||shanvezhu.com^
+||zhaweifeng.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zopuqv.icu^
@@ -62857,6 +62867,7 @@ inapps.appsflyersdk.com^
 ||zsjxwj.com^
 ||zuowen.hydcd.com^
 ||zx.docin.com^
+||d2un76zvb5mgzx.cloudfront.net^
 ||jpg1.oss-cn-beijing.aliyuncs.com^
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
