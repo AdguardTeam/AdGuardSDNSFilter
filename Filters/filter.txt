@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-11T12:01:21.694Z
+! Last modified: 2024-03-11T12:18:41.512Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -755,6 +755,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||rec.deezer.com^
 ||ads.greengeeks.com^
 ||d1rr5z16sjcy10.cloudfront.net^
 ||d2xupcbyjjjfoa.cloudfront.net^
@@ -40709,6 +40710,7 @@ vkcdnservice.appspot.com^
 ||t.adbr.io^
 ||cizion.com^
 ||analytics.iss.one^
+||reports-tsi.tangerine.io^
 ||analytics.partcommunity.com^
 ||lr-ingest.io^
 ||svibeacon.onezapp.com^
@@ -40773,7 +40775,6 @@ vkcdnservice.appspot.com^
 ||uplift-platform.com^
 ||lmepbq.com^
 ||cdn.rlets.com^
-||tangerine.io^
 ||b.sli-spark.com^
 ||tracker-rec.smart-bdash.com^
 ||perzonalization.com^
@@ -43869,6 +43870,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tracking.pennypublications.com^
 |c.blue.*.com^|
 ||apcdp.apnews.com^
 ||3p-udc.yahoo.com^
