@@ -136,7 +136,7 @@
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/common-sections/adservers.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "Validate"]
+      "transformations": ["Compress", "RemoveModifiers", "Validate"]
     },
     {
       "name": "AdGuard common Cyrillic filters ad servers first-party",
