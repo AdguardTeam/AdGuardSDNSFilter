@@ -7,6 +7,15 @@
 /(?:^\|\|?|^)(172\.(?:1[6-9]|2[0-9]|3[0-1])\.[\d\.*]+)\|{0,1}/
 ! 192.168.0.0 – 192.168.255.255
 /(?:^\|\|?|^)(192\.168\.[\d\.*]+)\|{0,1}/
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1645
+||tangerine.io^
+! https://github.com/easylist/easylist/commit/abaeb1ae5518324a10f469d2a40f96b31bd149a8
+||07c225f3.online^
+||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^
+||content-loader.com^
+||css-load.com^
+||f97ae142.online^
+||html-load.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1625
 ||uniconsent.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1610
