@@ -1,4 +1,4 @@
-! https://github.com/AdguardTeam/HostlistsRegistry/issues/463
+! Private IP address ranges
 ! 10.0.0.0 – 10.255.255.255
 /(?:^\|\|?|^)(10\.[\d\.*]+)\|{0,1}/
 ! 127.0.0.0 – 127.255.255.255
