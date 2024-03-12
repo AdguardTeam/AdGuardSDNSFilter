@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-12T00:02:39.989Z
+! Last modified: 2024-03-12T06:01:29.226Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -52026,8 +52026,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-03-03 12:10:52 CET
-# entries:        1077
+# last updated:   2024-03-12 04:49:38 CET
+# entries:        1085
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -52075,16 +52075,24 @@ inapps.appsflyersdk.com^
 ||alkemi.com.se^
 ||ambassador.referralhero.com^
 ||amd.sellingsimplified.net^
+||analytics.allas.se^
 ||analytics.apotekhjartat.se^
 ||analytics.ciseway.se^
+||analytics.elle.se^
+||analytics.femina.se^
 ||analytics.gen.shield.monitoringservice.co^
+||analytics.hant.se^
 ||analytics.hpscloud.se^
 ||analytics.icagruppen.se^
 ||analytics.ica.se^
 ||analytics.kb.se^
+||analytics.mabra.com^
+||analytics.motherhood.se^
 ||analytics.nikkasystems.com^
+||analytics.residencemagazine.se^
 ||analytics.smhi.se^
 ||analytics.sunet.se^
+||analytics.svenskdam.se^
 ||analytics.svt.se^
 ||analytics.undeco.se^
 ||analytics.vackertvader.se^
@@ -58149,6 +58157,9 @@ inapps.appsflyersdk.com^
 ||rcyzsh.icu^
 ||snifdlab.top^
 ||oppnfev.xyz^
+||0tq6ub.cn^
+||njhvalu.cn^
+||osisk.com^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
