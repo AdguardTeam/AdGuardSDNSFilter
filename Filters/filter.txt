@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-12T18:01:16.240Z
+! Last modified: 2024-03-13T00:02:45.737Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3085,6 +3085,7 @@ vkcdnservice.appspot.com^
 ||afootwitword.com^
 ||aforepayoffstutter.com^
 ||afosseel.net^
+||afpbuzfwyjri.com^
 ||afpjryqtnkctv.com^
 ||afqqnxifhgsaqab.com^
 ||afr4g5.de^
@@ -7788,6 +7789,7 @@ vkcdnservice.appspot.com^
 ||clcknads.pro^
 ||clcknipop.com^
 ||clckpbnce.com^
+||clcktrck.com^
 ||clckysudks.com^
 ||cldlr.com^
 ||cldlyuc.com^
@@ -10535,6 +10537,7 @@ vkcdnservice.appspot.com^
 ||dslsgbrckqshuep.com^
 ||dsmrnsngvnrc.xyz^
 ||dsnextgen.com^
+||dsnfeddmxnsfq.com^
 ||dsnkkjmxogwtpju.com^
 ||dsnr-affiliates.com^
 ||dsoodbye.xyz^
@@ -17843,6 +17846,7 @@ vkcdnservice.appspot.com^
 ||joblouder.com^
 ||jobmkewrymmvb.top^
 ||jobsngeilvxm.com^
+||jobsonationsing.com^
 ||jobsyndicate.com^
 ||jocauzee.net^
 ||jocelynrace.com^
@@ -18694,6 +18698,7 @@ vkcdnservice.appspot.com^
 ||kongry.com^
 ||konradsheriff.com^
 ||kontextua.com^
+||konupucy.net^
 ||kooboaphe.com^
 ||koocash.com^
 ||koochooy.net^
@@ -22469,6 +22474,7 @@ vkcdnservice.appspot.com^
 ||nongamemealman.guru^
 ||nonimoomi.com^
 ||nonotro.name^
+||nonremid.com^
 ||nonsensethingresult.com^
 ||nonspewpa.com^
 ||nonstoppartner.de^
@@ -57868,6 +57874,7 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||0940088.com^
 ||0j775d.cn^
+||0tq6ub.cn^
 ||0uvt8b.cn^
 ||0uyt5b.cn^
 ||0v1syj.cn^
@@ -57979,6 +57986,7 @@ inapps.appsflyersdk.com^
 ||hbjolp.xyz^
 ||hciwyv.icu^
 ||hdtedar126.shop^
+||hdvsrz.xyz^
 ||heapz.cyou^
 ||hexcvb.xyz^
 ||hgthpj.xyz^
@@ -58034,6 +58042,7 @@ inapps.appsflyersdk.com^
 ||ndthdte125.shop^
 ||ndthdtr586.shop^
 ||ngnxyub.cn^
+||njhvalu.cn^
 ||nkbkor.icu^
 ||nowhern.com^
 ||nplahh.xyz^
@@ -58047,6 +58056,8 @@ inapps.appsflyersdk.com^
 ||okwkaa.xyz^
 ||onagsc.xyz^
 ||oojjsa.com^
+||oppnfev.xyz^
+||osisk.com^
 ||ostjpig.cn^
 ||ovjlccs.xyz^
 ||p04qzl.cn^
@@ -58068,6 +58079,7 @@ inapps.appsflyersdk.com^
 ||qzalsk.xyz^
 ||rarcff.xyz^
 ||rbhunp.xyz^
+||rcyzsh.icu^
 ||rfnvqpo.xyz^
 ||riscil.com^
 ||rjhbjv.xyz^
@@ -58089,10 +58101,12 @@ inapps.appsflyersdk.com^
 ||sjaaquj.cn^
 ||skfda5.com^
 ||smallfo.com^
+||snifdlab.top^
 ||soffersk.com^
 ||spsfupq.cn^
 ||srzpsbf.xyz^
 ||svncowt.cn^
+||swsegi.xyz^
 ||szbhb.cn^
 ||szmnd.cn^
 ||szmnf.cn^
@@ -58175,14 +58189,12 @@ inapps.appsflyersdk.com^
 ||zhihucloud.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
-||hdvsrz.xyz^
-||swsegi.xyz^
-||rcyzsh.icu^
-||snifdlab.top^
-||oppnfev.xyz^
-||0tq6ub.cn^
-||njhvalu.cn^
-||osisk.com^
+||0r3tyg.cn^
+||ahtfzhs.xyz^
+||pnxtnp.xyz^
+||vmnlkr.icu^
+||enifdlaw.top^
+||eiqsky.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
@@ -62770,7 +62782,6 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
-||c81.ipanocloud.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
@@ -63070,6 +63081,7 @@ inapps.appsflyersdk.com^
 ||c1.china.cn^
 ||c1.czcol.cn^
 ||c6.friok.com^
+||c81.ipanocloud.com^
 ||ca.yangshengtv.com^
 ||car.qcmrjx.com^
 ||cbdm.weathercn.com^
