@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter for popup domains
-! Description: Filter comprising AdGuard Base filter, EasyList, and designed to enhance compatibility with popup blocking at the DNS level. It is crafted to provide the address of a blocking page in response to domain queries.
+! Description: A filter comprising elements from AdGuard filters, EasyList, ABPindo and designed to enhance compatibility with popup blocking at the DNS level. It is crafted to provide the address of a blocking page in response to domain queries.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-02T16:38:43.297Z
+! Last modified: 2024-04-02T18:04:21.658Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -389,6 +389,8 @@
 ||xszpuvwr7.com^$dnsrewrite=ad-block.dns.adguard.com
 ||yellow-resultsbidder.com^$dnsrewrite=ad-block.dns.adguard.com
 ||youradexchange.com^$dnsrewrite=ad-block.dns.adguard.com
+||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^$dnsrewrite=ad-block.dns.adguard.com
 !
 ! Source name: EasyList adult ad servers popup
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt
@@ -550,8 +552,6 @@
 ||dating-cart.com^$dnsrewrite=ad-block.dns.adguard.com
 ||linkmyc.com^$dnsrewrite=ad-block.dns.adguard.com
 ||retagapp.com^$dnsrewrite=ad-block.dns.adguard.com
-||runetki.tv^$dnsrewrite=ad-block.dns.adguard.com
-||rutube.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tubecontext.com^$dnsrewrite=ad-block.dns.adguard.com
 !
 ! Source name: AdGuard Russian filter ad servers first-party
@@ -560,7 +560,7 @@
 ||sharemefiles.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||partners.parimatch.net^$dnsrewrite=ad-block.dns.adguard.com
 !
-! Source name: Liste FR 
+! Source name: Liste FR
 ! Source: https://raw.githubusercontent.com/easylist/listefr/master/liste_fr.txt
 !
 ||1clic1don.fr^$dnsrewrite=ad-block.dns.adguard.com

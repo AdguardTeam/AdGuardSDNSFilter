@@ -149,7 +149,7 @@ The output is written to `Filters/filter.txt`.
 
 ## AdGuard DNS filter for popup domains
 
-A filter comprising elements from AdGuard filters, EasyList, ABPindo and designed to enhance compatibility with popup blocking at the DNS level. It is crafted to provide the address of a blocking page in response to domain queries.
+The filter is designed to provide a blocking page address in response to popup domain requests. For this purpose the modifiers all, popup and document are replaced by the modifier dnsrewrite with the value of blocking page.
 
 ## AdGuard DNS filter for popup domains structure
 

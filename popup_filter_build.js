@@ -14,7 +14,8 @@ const filterPath = './Filters/adguard_popup_filter.txt';
  * @returns {string} - Modified rule
  */
 const convertModifier = (rule, modifier, modifierValue) => {
-    const regex = /\$(popup|all|document)/;
+    // match all letters after the $ sign until the end of the line (modifier)
+    const regex = /\$[a-z,]{0,15}$/;
     return rule.replace(regex, `$${modifier}${modifierValue ? `=${modifierValue}` : ''}`);
 };
 
@@ -43,6 +44,7 @@ const convertFilterList = async (path) => {
         const fileContent = await getFileContent(path);
         const modifiedContent = fileContent.map((rule) => convertModifier(rule, 'dnsrewrite', 'ad-block.dns.adguard.com'));
         await fs.writeFile(path, modifiedContent.join('\n'));
+        console.log
     } catch (error) {
         console.error('Error converting file:', error);
     }
