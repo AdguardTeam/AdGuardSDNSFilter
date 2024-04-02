@@ -4,13 +4,13 @@ const { promises: fs } = require('fs');
  * Path to the filter file
  * @type {string}
  */
-const filterPath = './Filters/adguard_popup_filter.txt';
+const filterPath = process.argv[2];
 
 /**
  * Function to convert modifiers in a rule
  * @param {string} rule - The rule to modify
  * @param {string} modifier - The new modifier
- * @param {string} [modifierValue=''] - The value for the modifier
+ * @param {string} [modifierValue] - The value for the modifier
  * @returns {string} - Modified rule
  */
 const convertModifier = (rule, modifier, modifierValue) => {
