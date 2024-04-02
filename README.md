@@ -146,3 +146,21 @@ The output is written to `Filters/filter.txt`.
 ### Others
 
 * [Additional rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/rules.txt)
+
+## AdGuard DNS filter for popup domains
+
+A filter comprising elements from AdGuard filters, EasyList, ABPindo and designed to enhance compatibility with popup blocking at the DNS level. It is crafted to provide the address of a blocking page in response to domain queries.
+
+## AdGuard DNS filter for popup domains structure
+
+* [AdGuard Base filter ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt)
+* [AdGuard Base filter ad servers first-party](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt)
+* [AdGuard Base filter ad servers foreign](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt)
+* [EasyList ad servers](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt)
+* [EasyList adult ad servers popup](https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt)
+* [AdGuard Mobile Ads filter ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt)
+* [AdGuard common Cyrillic filters ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/common-sections/adservers.txt)
+* [AdGuard Russian filter ad servers first-party](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt)
+* [Liste FR](https://raw.githubusercontent.com/easylist/listefr/master/liste_fr.txt)
+* [ABPindo ad servers](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt)
+* [ABPindo ad servers third-party](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/thirdparty.txt)
