@@ -147,11 +147,17 @@ The output is written to `Filters/filter.txt`.
 
 * [Additional rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/rules.txt)
 
-## AdGuard DNS filter for popup domains
+## AdGuard DNS Popup Hosts filter
 
-The filter is designed to provide a blocking page address in response to popup domain requests. For this purpose the modifiers all, popup and document are replaced by the modifier dnsrewrite with the value of blocking page.
+DNS-level blocking is a crude method that makes a blocked website appear as if it were malfunctioning from the user's perspective. While this approach may suffice for blocking sub-requests to trackers, it is less effective when a user attempts to access a blocked domain directly.
 
-## AdGuard DNS filter for popup domains structure
+This filter blocks domains that the users tend to open (more precisely, they are opened against the users' will) and it redirects them to a designated "blocked page", which provides explanations regarding the reasons for blocking.
+
+Although redirecting to a different IP address is not the ideal solution, we are hopeful that the [Structured Errors proposal](https://datatracker.ietf.org/doc/draft-ietf-dnsop-structured-dns-error/) will gain momentum. This would allow us to implement a better solution.
+
+## AdGuard DNS Popup Hosts filter structure
+
+The AdGuard DNS Popup Hosts filter includes only rules that contain the modifiers `popup`, `all`, and `domain` from the lists provided. This selection effectively means that these rules are directed at sites that open in the main frame.
 
 * [AdGuard Base filter ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt)
 * [AdGuard Base filter ad servers first-party](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt)
