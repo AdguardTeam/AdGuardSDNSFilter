@@ -32,7 +32,7 @@ const getFileContent = async (path) => {
         const content = await fs.readFile(path, 'utf-8');
         return content.split('\n');
     } catch (error) {
-        throw new Error(`Error reading ${path}`)
+        throw new Error(`Error during reading the file '${path}' due to: ${error.message}`);
     }
 };
 
