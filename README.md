@@ -157,7 +157,7 @@ Although redirecting to a different IP address is not the ideal solution, we are
 
 ## AdGuard DNS Popup Hosts filter structure
 
-The AdGuard DNS Popup Hosts filter includes only rules that contain the modifiers `popup`, `all`, and `domain` from the lists provided. This selection effectively means that these rules are directed at sites that open in the main frame.
+The AdGuard DNS Popup Hosts filter includes only rules that contain the modifiers `popup`, `all`, and `document` from the lists provided. This selection effectively means that these rules are directed at sites that open in the main frame.
 
 * [AdGuard Base filter ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt)
 * [AdGuard Base filter ad servers first-party](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt)
