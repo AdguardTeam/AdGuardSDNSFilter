@@ -47,7 +47,7 @@ const convertFilterList = async (path) => {
         const modifiedContent = fileContent.map((rule) => convertModifier(rule, 'dnsrewrite', 'ad-block.dns.adguard.com'));
         await fs.writeFile(path, modifiedContent.join('\n'));
     } catch (error) {
-        throw new Error(`Error converting rules in ${path}`)
+        throw new Error(`Error during rules conversion due to: ${error.message}`);
     }
 };
 
