@@ -146,3 +146,27 @@ The output is written to `Filters/filter.txt`.
 ### Others
 
 * [Additional rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/rules.txt)
+
+## AdGuard DNS Popup Hosts filter
+
+DNS-level blocking is a crude method that makes a blocked website appear as if it were malfunctioning from the user's perspective. While this approach may suffice for blocking sub-requests to trackers, it is less effective when a user attempts to access a blocked domain directly.
+
+This filter blocks domains that the users tend to open (more precisely, they are opened against the users' will) and it redirects them to a designated "blocked page", which provides explanations regarding the reasons for blocking.
+
+Although redirecting to a different IP address is not the ideal solution, we are hopeful that the [Structured Errors proposal](https://datatracker.ietf.org/doc/draft-ietf-dnsop-structured-dns-error/) will gain momentum. This would allow us to implement a better solution.
+
+## AdGuard DNS Popup Hosts filter structure
+
+The AdGuard DNS Popup Hosts filter includes only rules that contain the modifiers `popup`, `all`, and `document` from the lists provided. This selection effectively means that these rules are directed at sites that open in the main frame.
+
+* [AdGuard Base filter ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt)
+* [AdGuard Base filter ad servers first-party](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt)
+* [AdGuard Base filter ad servers foreign](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt)
+* [EasyList ad servers](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt)
+* [EasyList adult ad servers popup](https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt)
+* [AdGuard Mobile Ads filter ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt)
+* [AdGuard common Cyrillic filters ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/common-sections/adservers.txt)
+* [AdGuard Russian filter ad servers first-party](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt)
+* [Liste FR](https://raw.githubusercontent.com/easylist/listefr/master/liste_fr.txt)
+* [ABPindo ad servers](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt)
+* [ABPindo ad servers third-party](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/thirdparty.txt)

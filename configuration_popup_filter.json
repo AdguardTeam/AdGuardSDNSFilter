@@ -1,0 +1,67 @@
+{
+  "name": "AdGuard DNS Popup Hosts filter",
+  "description": "Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.",
+  "homepage": "https://github.com/AdguardTeam/AdguardSDNSFilter",
+  "license": "https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE",
+  "sources": [
+    {
+      "name": "AdGuard Base filter ad servers",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "AdGuard Base filter ad servers first-party",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt",
+      "type": "adblock"
+
+    },
+    {
+      "name": "AdGuard Base filter ad servers foreign",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "EasyList ad servers",
+      "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "EasyList adult ad servers popup",
+      "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "AdGuard Mobile Ads filter ad servers",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "AdGuard common Cyrillic filters ad servers",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/common-sections/adservers.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "AdGuard Russian filter ad servers first-party",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "Liste FR ",
+      "source": "https://raw.githubusercontent.com/easylist/listefr/master/liste_fr.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "ABPindo ad servers",
+      "source": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "ABPindo ad servers third-party",
+      "source": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/thirdparty.txt",
+      "type": "adblock"
+    }
+  ],
+  "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^(\\$(popup|popup,document|document|document,popup|all))$/"],
+  "transformations": ["RemoveModifiers", "Compress", "Deduplicate"],
+  "exclusions_sources": ["Filters/exclusions.txt"]
+}

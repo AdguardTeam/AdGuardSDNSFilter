@@ -6,7 +6,7 @@
   "author": "AdGuard",
   "license": "GPL-3.0",
   "scripts": {
-    "build": "hostlist-compiler -c configuration.json -o Filters/filter.txt --verbose"
+    "build": "./scripts/build.sh"
   },
   "dependencies": {
     "@adguard/hostlist-compiler": "1.0.22"
