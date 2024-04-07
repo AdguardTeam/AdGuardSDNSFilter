@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-06T18:01:15.317Z
+! Last modified: 2024-04-07T00:02:52.465Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -579,6 +579,7 @@
 ||cloudgallery.net^$dnsrewrite=ad-block.dns.adguard.com
 ||cmvrclicks000.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cogleapad.com^$dnsrewrite=ad-block.dns.adguard.com
+||combofile4u.click^$dnsrewrite=ad-block.dns.adguard.com
 ||daftsex.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dailyreports.info^$dnsrewrite=ad-block.dns.adguard.com
 ||daitchest.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -618,11 +619,13 @@
 ||hipnoticrec.biz^$dnsrewrite=ad-block.dns.adguard.com
 ||hop.boutique^$dnsrewrite=ad-block.dns.adguard.com
 ||hotboys.biz^$dnsrewrite=ad-block.dns.adguard.com
+||huysoftzfile.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||hydrax.net^$dnsrewrite=ad-block.dns.adguard.com
 ||ilkmawgod.site^$dnsrewrite=ad-block.dns.adguard.com
 ||imzahrwl.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||incontro-veloce.com^$dnsrewrite=ad-block.dns.adguard.com
 ||infokz.com^$dnsrewrite=ad-block.dns.adguard.com
+||infossztech.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||investing1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||iqoption.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jewhouca.net^$dnsrewrite=ad-block.dns.adguard.com
