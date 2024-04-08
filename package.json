@@ -1,6 +1,6 @@
 {
   "name": "adguard-sdn-filter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AdGuard DNS filter. A filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.",
   "repository": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
   "author": "AdGuard",
@@ -9,6 +9,6 @@
     "build": "./scripts/build.sh"
   },
   "dependencies": {
-    "@adguard/hostlist-compiler": "1.0.22"
+    "@adguard/hostlist-compiler": "1.0.24"
   }
 }
