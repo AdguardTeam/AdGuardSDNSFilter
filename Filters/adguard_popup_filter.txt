@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-10T12:01:22.410Z
+! Last modified: 2024-04-10T18:01:26.979Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -14,10 +14,10 @@
 ||agamaevascla.top^$dnsrewrite=ad-block.dns.adguard.com
 ||paasvalhall.top^$dnsrewrite=ad-block.dns.adguard.com
 ||hauchiwu.com^$dnsrewrite=ad-block.dns.adguard.com
-||patakaendymal.top^$dnsrewrite=ad-block.dns.adguard.com
-||showoffmanifer.guru^$dnsrewrite=ad-block.dns.adguard.com
-||noopapnoeic.digital^$dnsrewrite=ad-block.dns.adguard.com
 ||meniscigox.digital^$dnsrewrite=ad-block.dns.adguard.com
+||patakaendymal.top^$dnsrewrite=ad-block.dns.adguard.com
+||noopapnoeic.digital^$dnsrewrite=ad-block.dns.adguard.com
+||showoffmanifer.guru^$dnsrewrite=ad-block.dns.adguard.com
 ||gaming001.site^$dnsrewrite=ad-block.dns.adguard.com
 ||fountaincheek.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wenoolgo.icu^$dnsrewrite=ad-block.dns.adguard.com
