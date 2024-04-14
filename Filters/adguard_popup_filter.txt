@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-14T06:18:33.670Z
+! Last modified: 2024-04-14T14:04:39.267Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -191,6 +191,7 @@
 ||adpointrtb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ads4trk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adskeeper.co.uk^$dnsrewrite=ad-block.dns.adguard.com
+||adspredictiv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adstreampro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adtelligent.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adverttulimited.biz^$dnsrewrite=ad-block.dns.adguard.com
@@ -225,6 +226,7 @@
 ||bunth.net^$dnsrewrite=ad-block.dns.adguard.com
 ||bxsk.site^$dnsrewrite=ad-block.dns.adguard.com
 ||canopusacrux.com^$dnsrewrite=ad-block.dns.adguard.com
+||cddtsecure.com^$dnsrewrite=ad-block.dns.adguard.com
 ||chainconnectivity.com^$dnsrewrite=ad-block.dns.adguard.com
 ||chattedhelio.top^$dnsrewrite=ad-block.dns.adguard.com
 ||check-tl-ver-12-3.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -436,6 +438,7 @@
 ||youradexchange.com^$dnsrewrite=ad-block.dns.adguard.com
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||4e55.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||4e68.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||657475b7-0095-478d-90d4-96ce440604f9.online^$dnsrewrite=ad-block.dns.adguard.com
 ||8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online^$dnsrewrite=ad-block.dns.adguard.com
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^$dnsrewrite=ad-block.dns.adguard.com
