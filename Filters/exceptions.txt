@@ -297,3 +297,9 @@
 @@||5471782.fls.doubleclick.net^|
 ! Fixing Walmart
 @@||omniture.walmart.com^|
+! Blocked by ||m.stripe.com^$third-party,domain=~stripe.network
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1674
+@@||m.stripe.com^|
+@@||js.stripe.com^|
+@@||m.stripe.network^|
+@@||q.stripe.com^|
