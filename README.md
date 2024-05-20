@@ -83,6 +83,8 @@ The output is written to `Filters/filter.txt`.
 
 * [EasyList Germany](https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt)
 
+* [EasyList Hebrew](https://raw.githubusercontent.com/easylist/EasyListHebrew/master/adguard_hosts.txt)
+
 * [EasyList Italy](https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt)
 
 * [EasyList China](https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt)

@@ -272,6 +272,13 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "EasyList Hebrew ad servers",
+      "source": "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/adguard_hosts.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
       "name": "Frellwits Swedish Filter",
       "source": "https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt",
       "type": "hosts",
