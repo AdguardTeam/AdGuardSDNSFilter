@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-24T00:03:40.175Z
+! Last modified: 2024-05-24T06:01:22.581Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -868,6 +868,7 @@
 ||feboni.info^$dnsrewrite=ad-block.dns.adguard.com
 ||findyourhalf.top^$dnsrewrite=ad-block.dns.adguard.com
 ||firstclick.pro^$dnsrewrite=ad-block.dns.adguard.com
+||fkourazirop.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||flixtab.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fr-dustreaming.com^$dnsrewrite=ad-block.dns.adguard.com
 ||freelovehere.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -909,6 +910,7 @@
 ||minently.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mobtrks.com^$dnsrewrite=ad-block.dns.adguard.com
 ||monetizer.co^$dnsrewrite=ad-block.dns.adguard.com
+||morinavotarius.top^$dnsrewrite=ad-block.dns.adguard.com
 ||mors22.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mozime.com^$dnsrewrite=ad-block.dns.adguard.com
 ||o000oo.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -955,6 +957,7 @@
 ||toponclick.com^$dnsrewrite=ad-block.dns.adguard.com
 ||topperformance.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||torrent09.uno^$dnsrewrite=ad-block.dns.adguard.com
+||tourpowouro.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||trackspecialdomain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||unltdentertainment.co^$dnsrewrite=ad-block.dns.adguard.com
 ||unnist.com^$dnsrewrite=ad-block.dns.adguard.com
