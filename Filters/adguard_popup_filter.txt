@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-25T00:02:45.049Z
+! Last modified: 2024-05-25T06:01:30.002Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -607,6 +607,7 @@
 ||05751c.site^$dnsrewrite=ad-block.dns.adguard.com
 ||07e197.site^$dnsrewrite=ad-block.dns.adguard.com
 ||1116c5.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||11c7a3.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||1350c3.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||1a1fb6.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||20519a.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -910,6 +911,7 @@
 ||lpg02.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lucky-bet.site^$dnsrewrite=ad-block.dns.adguard.com
 ||madamecam.com^$dnsrewrite=ad-block.dns.adguard.com
+||milksquadronsad.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mincethingsmarch.com^$dnsrewrite=ad-block.dns.adguard.com
 ||minently.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mobtrks.com^$dnsrewrite=ad-block.dns.adguard.com
