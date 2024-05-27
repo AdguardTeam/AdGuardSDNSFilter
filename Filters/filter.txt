@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-27T17:15:33.302Z
+! Last modified: 2024-05-27T18:01:06.030Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||rndskittytor.com^
+||waisheph.com^
 ||batch.com^
 ||flx2.pnl.agency^
 ||amon1.net^
@@ -30996,7 +30998,6 @@ vkcdnservice.appspot.com^
 ||rndhaunteran.com^
 ||rndmusharnar.com^
 ||rndnoibattor.com^
-||rndskittytor.com^
 ||rnfwyvgoxu.com^
 ||rnldustal.com^
 ||rnmd.net^
@@ -38237,7 +38238,6 @@ vkcdnservice.appspot.com^
 ||waihoz.xyz^
 ||wailedfrosty.com^
 ||waioowcadhw.xyz^
-||waisheph.com^
 ||waistcoataskeddone.com^
 ||waistdeafgeorgiana.com^
 ||waisttrustworthy.com^
