@@ -15,6 +15,8 @@
 ! 192.168.0.0 – 192.168.255.255
 /(?:^\|\|?|^)(192\.168\.?[\d\.*]+)\|{0,1}$/
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1690
+||api-ao-list.adison.co^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1645
 ||tangerine.io^
 ! https://github.com/easylist/easylist/commit/abaeb1ae5518324a10f469d2a40f96b31bd149a8
