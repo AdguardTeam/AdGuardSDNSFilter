@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-30T00:03:16.722Z
+! Last modified: 2024-05-30T06:01:18.829Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -195,6 +195,7 @@
 ||2ltm627ho.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ablecolony.com^$dnsrewrite=ad-block.dns.adguard.com
 ||acoudsoarom.com^$dnsrewrite=ad-block.dns.adguard.com
+||ad-adblock.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adblock-360.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adblocker-instant.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||adclickbyte.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -364,6 +365,7 @@
 ||improvebin.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||inbrowserplay.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ingablorkmetion.com^$dnsrewrite=ad-block.dns.adguard.com
+||install-adblockers.com^$dnsrewrite=ad-block.dns.adguard.com
 ||install-adblocking.com^$dnsrewrite=ad-block.dns.adguard.com
 ||install-extension.com^$dnsrewrite=ad-block.dns.adguard.com
 ||instant-adblock.xyz^$dnsrewrite=ad-block.dns.adguard.com
