@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-30T06:01:16.617Z
+! Last modified: 2024-05-30T10:12:50.350Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -42212,6 +42212,7 @@ vkcdnservice.appspot.com^
 ||ca9246.xyz^
 ||caa2c4.xyz^
 ||ce357c.xyz^
+||cfb98a.xyz^
 ||d84bc26d.site^
 ||d8b0a5.xyz^
 ||d980ed.xyz^
@@ -48383,6 +48384,26 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||v225.ksbw.com^
+||k030.koco.com^
+||u082.wapt.com^
+||f361.wvtm13.com^
+||t733.wjcl.com^
+||r255.wmtw.com^
+||j178.wmur.com^
+||p769.wgal.com^
+||v066.wxii12.com^
+||s811.ketv.com^
+||m886.kmbc.com^
+||w110.kcra.com^
+||u999.wcvb.com^
+||e459.kcci.com^
+||h019.wtae.com^
+||y000.wyff4.com^
+||q511.wpbf.com^
+||c677.wisn.com^
+||u578.wlwt.com^
+||e993.wlky.com^
 ||collect.biomedcentral.com^
 ||eproof.drudgereport.com^
 ||doppler-beacon.cbsivideo.com^
@@ -53184,6 +53205,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||isatonabench.com^
 ||lzbgeg.com^
 ||bestssrv.com^
 ||v.strosin.biz^
@@ -56923,8 +56945,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-05-23 16:08:45 CEST
-# entries:        1075
+# last updated:   2024-05-30 08:10:30 CEST
+# entries:        1076
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -57223,6 +57245,7 @@ inapps.appsflyersdk.com^
 ||petrk.com^
 ||pixel-profile-cloud.eniro.com^
 ||platform-api.sharethis.com^
+||plausible.webfokus.no^
 ||plus.sharedcount.com^
 ||pm.azerioncircle.com^
 ||popitunder.com^
@@ -69730,8 +69753,6 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1692
-@@||cloud.roistat.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1681
 ! Blocked by CNAME fp27ee.wac.systemcdn.net
 @@||secureimage.securedataimages.com^|
