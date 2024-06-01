@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-01T00:02:53.939Z
+! Last modified: 2024-06-01T06:01:02.279Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -57031,15 +57031,14 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-05-30 08:10:30 CEST
-# entries:        1076
+# last updated:   2024-06-01 06:19:43 CEST
+# entries:        1068
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
 ||a.zxcvads.com^
 ||ab.fastighetsvarlden.se^
 ||accesslnk.com^
-||adcell.io^
 ||addrevenue.io^
 ||addy.expressen.se^
 ||adeprimo.se^
@@ -57215,7 +57214,6 @@ inapps.appsflyersdk.com^
 ||doktor-se.onelink.me^
 ||driftt.com^
 ||dspk.kindredplc.com^
-||dynamic-83d822c6-3868940931.stat.truthlyanalytics.com^
 ||eas.mediekompaniet.com^
 ||edge.atmtd.com^
 ||embi-media.com^
@@ -57277,10 +57275,8 @@ inapps.appsflyersdk.com^
 ||libring.com^
 ||live.demand.supply^
 ||loader.wisepops.com^
-||loewe.com.se^
 ||log-api.newrelic.com^
 ||longchampstockholm.com.se^
-||low1sneakerssverige.com^
 ||m.extellio.com^
 ||m1.analytics.sitevision-cloud.se^
 ||markhor.organicfruitapps.com^
@@ -57303,7 +57299,6 @@ inapps.appsflyersdk.com^
 ||meltwater.com^
 ||metapic.se^
 ||micro.rubiconproject.com^
-||mindreskatt.se^
 ||missaffiliate.com^
 ||mmetrix.mobi^
 ||mraffiliate.com^
@@ -57393,7 +57388,6 @@ inapps.appsflyersdk.com^
 ||stat.torgen.se^
 ||stat03.stat.cliche.se^
 ||static.matchads.net^
-||static.stat.truthlyanalytics.com^
 ||static.step.dk^
 ||static.ws.apsis.one^
 ||static.zotabox.com^
@@ -63096,6 +63090,8 @@ inapps.appsflyersdk.com^
 ||vutjnt.xyz^
 ||mgmuye.xyz^
 ||zqgixxp.icu^
+||dssdfsf.cn^
+||cpgou.cn^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
