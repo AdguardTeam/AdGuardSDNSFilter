@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-02T00:02:59.206Z
+! Last modified: 2024-06-02T06:01:30.122Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -193,9 +193,12 @@
 ||1winpost.com^$dnsrewrite=ad-block.dns.adguard.com
 ||20trackdomain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||2ltm627ho.com^$dnsrewrite=ad-block.dns.adguard.com
+||67trackdomain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ablecolony.com^$dnsrewrite=ad-block.dns.adguard.com
+||accecmtrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||acoudsoarom.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ad-adblock.com^$dnsrewrite=ad-block.dns.adguard.com
+||ad-addon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adblock-360.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adblocker-instant.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||adclickbyte.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -210,12 +213,14 @@
 ||adpointrtb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adqit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ads4trk.com^$dnsrewrite=ad-block.dns.adguard.com
+||adscdn.net^$dnsrewrite=ad-block.dns.adguard.com
 ||adskeeper.co.uk^$dnsrewrite=ad-block.dns.adguard.com
 ||adspredictiv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adstreampro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adtelligent.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adtrk21.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adverttulimited.biz^$dnsrewrite=ad-block.dns.adguard.com
+||aferpush.com^$dnsrewrite=ad-block.dns.adguard.com
 ||affflow.com^$dnsrewrite=ad-block.dns.adguard.com
 ||affiliatestonybet.com^$dnsrewrite=ad-block.dns.adguard.com
 ||affpa.top^$dnsrewrite=ad-block.dns.adguard.com
@@ -224,6 +229,7 @@
 ||afre.guru^$dnsrewrite=ad-block.dns.adguard.com
 ||aistekso.net^$dnsrewrite=ad-block.dns.adguard.com
 ||alfa-track.info^$dnsrewrite=ad-block.dns.adguard.com
+||alfa-track2.site^$dnsrewrite=ad-block.dns.adguard.com
 ||algg.site^$dnsrewrite=ad-block.dns.adguard.com
 ||alpine-vpn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||anacampaign.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -239,7 +245,9 @@
 ||asstaraptora.com^$dnsrewrite=ad-block.dns.adguard.com
 ||aucoudsa.net^$dnsrewrite=ad-block.dns.adguard.com
 ||awecrptjmp.com^$dnsrewrite=ad-block.dns.adguard.com
+||awesomeprizedrive.co^$dnsrewrite=ad-block.dns.adguard.com
 ||ayga.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||baldo-toj.com^$dnsrewrite=ad-block.dns.adguard.com
 ||baseauthenticity.co.in^$dnsrewrite=ad-block.dns.adguard.com
 ||basicflownetowork.co.in^$dnsrewrite=ad-block.dns.adguard.com
 ||bayshorline.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -267,6 +275,7 @@
 ||caulisnombles.top^$dnsrewrite=ad-block.dns.adguard.com
 ||cddtsecure.com^$dnsrewrite=ad-block.dns.adguard.com
 ||chainconnectivity.com^$dnsrewrite=ad-block.dns.adguard.com
+||chambermaidthree.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||chattedhelio.top^$dnsrewrite=ad-block.dns.adguard.com
 ||chaunsoops.net^$dnsrewrite=ad-block.dns.adguard.com
 ||check-tl-ver-12-3.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -277,11 +286,13 @@
 ||chetchoa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||childishenough.com^$dnsrewrite=ad-block.dns.adguard.com
 ||choudairtu.net^$dnsrewrite=ad-block.dns.adguard.com
+||cleanmypc.click^$dnsrewrite=ad-block.dns.adguard.com
 ||clixwells.com^$dnsrewrite=ad-block.dns.adguard.com
 ||closeupclear.top^$dnsrewrite=ad-block.dns.adguard.com
 ||cloudvideosa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cn-rtb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cntrealize.com^$dnsrewrite=ad-block.dns.adguard.com
+||codebenmike.live^$dnsrewrite=ad-block.dns.adguard.com
 ||continue-installing.com^$dnsrewrite=ad-block.dns.adguard.com
 ||coolserving.com^$dnsrewrite=ad-block.dns.adguard.com
 ||coosync.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -307,20 +318,25 @@
 ||donkstar1.online^$dnsrewrite=ad-block.dns.adguard.com
 ||donkstar2.online^$dnsrewrite=ad-block.dns.adguard.com
 ||doostozoa.net^$dnsrewrite=ad-block.dns.adguard.com
+||download-adblock360.com^$dnsrewrite=ad-block.dns.adguard.com
 ||downloading-addon.com^$dnsrewrite=ad-block.dns.adguard.com
+||downloading-extension.com^$dnsrewrite=ad-block.dns.adguard.com
 ||downlon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dreamteamaffiliates.com^$dnsrewrite=ad-block.dns.adguard.com
 ||drsmediaexchange.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dsp5stero.com^$dnsrewrite=ad-block.dns.adguard.com
 ||earlinessone.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||eh0ag0-rtbix.top^$dnsrewrite=ad-block.dns.adguard.com
 ||emotot.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||emperilchilies.top^$dnsrewrite=ad-block.dns.adguard.com
 ||errolandtessa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||eventfulknights.com^$dnsrewrite=ad-block.dns.adguard.com
 ||excellingvista.com^$dnsrewrite=ad-block.dns.adguard.com
+||exclkplat.com^$dnsrewrite=ad-block.dns.adguard.com
 ||expdirclk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||expleteneeps.top^$dnsrewrite=ad-block.dns.adguard.com
 ||exploitpeering.com^$dnsrewrite=ad-block.dns.adguard.com
+||extension-ad.com^$dnsrewrite=ad-block.dns.adguard.com
 ||extension-install.com^$dnsrewrite=ad-block.dns.adguard.com
 ||externalfavlink.com^$dnsrewrite=ad-block.dns.adguard.com
 ||farciedfungals.top^$dnsrewrite=ad-block.dns.adguard.com
@@ -329,12 +345,14 @@
 ||femsoahe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||flyingadvert.com^$dnsrewrite=ad-block.dns.adguard.com
 ||foerpo.com^$dnsrewrite=ad-block.dns.adguard.com
+||forooqso.tv^$dnsrewrite=ad-block.dns.adguard.com
 ||freetrckr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||freshpops.net^$dnsrewrite=ad-block.dns.adguard.com
 ||fstsrv9.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fuse-cloud.com^$dnsrewrite=ad-block.dns.adguard.com
 ||galaxypush.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gb1aff.com^$dnsrewrite=ad-block.dns.adguard.com
+||get-gx.net^$dnsrewrite=ad-block.dns.adguard.com
 ||getmetheplayers.click^$dnsrewrite=ad-block.dns.adguard.com
 ||getnomadtblog.com^$dnsrewrite=ad-block.dns.adguard.com
 ||getsthis.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -346,10 +364,14 @@
 ||go2affise.com^$dnsrewrite=ad-block.dns.adguard.com
 ||go2offer-1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||goads.pro^$dnsrewrite=ad-block.dns.adguard.com
+||grfpr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gtbdhr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||guardedrook.cc^$dnsrewrite=ad-block.dns.adguard.com
+||hapedcongest.com^$dnsrewrite=ad-block.dns.adguard.com
 ||heavently7s1.com^$dnsrewrite=ad-block.dns.adguard.com
+||heptix.net^$dnsrewrite=ad-block.dns.adguard.com
 ||herma-tor.com^$dnsrewrite=ad-block.dns.adguard.com
+||hetapus.com^$dnsrewrite=ad-block.dns.adguard.com
 ||heweop.com^$dnsrewrite=ad-block.dns.adguard.com
 ||highcpmgate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hilarioustasting.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -371,17 +393,22 @@
 ||instant-adblock.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||internodeid.com^$dnsrewrite=ad-block.dns.adguard.com
 ||intothespirits.com^$dnsrewrite=ad-block.dns.adguard.com
+||jaclottens.live^$dnsrewrite=ad-block.dns.adguard.com
 ||jeroud.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jggegj-rtbix.top^$dnsrewrite=ad-block.dns.adguard.com
 ||jlodgings.com^$dnsrewrite=ad-block.dns.adguard.com
 ||js-check.com^$dnsrewrite=ad-block.dns.adguard.com
+||junmediadirect1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||kagodiwij.site^$dnsrewrite=ad-block.dns.adguard.com
 ||kiss88.top^$dnsrewrite=ad-block.dns.adguard.com
 ||ku42hjr2e.com^$dnsrewrite=ad-block.dns.adguard.com
+||lamplynx.com^$dnsrewrite=ad-block.dns.adguard.com
+||leoyard.com^$dnsrewrite=ad-block.dns.adguard.com
 ||link2thesafeplayer.click^$dnsrewrite=ad-block.dns.adguard.com
 ||litdeetar.live^$dnsrewrite=ad-block.dns.adguard.com
 ||lmdfmd.com^$dnsrewrite=ad-block.dns.adguard.com
 ||loadtime.org^$dnsrewrite=ad-block.dns.adguard.com
+||loazuptaice.net^$dnsrewrite=ad-block.dns.adguard.com
 ||locooler-ageneral.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lookup-domain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lylufhuxqwi.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -410,6 +437,7 @@
 ||moralitylameinviting.com^$dnsrewrite=ad-block.dns.adguard.com
 ||myjack-potscore.life^$dnsrewrite=ad-block.dns.adguard.com
 ||mylot.com^$dnsrewrite=ad-block.dns.adguard.com
+||mytiris.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nan0cns.com^$dnsrewrite=ad-block.dns.adguard.com
 ||naubatodo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nauwheer.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -418,6 +446,7 @@
 ||nindsstudio.com^$dnsrewrite=ad-block.dns.adguard.com
 ||niwluvepisj.site^$dnsrewrite=ad-block.dns.adguard.com
 ||noncepter.com^$dnsrewrite=ad-block.dns.adguard.com
+||noolt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||noopking.com^$dnsrewrite=ad-block.dns.adguard.com
 ||notoriouscount.com^$dnsrewrite=ad-block.dns.adguard.com
 ||novibet.partners^$dnsrewrite=ad-block.dns.adguard.com
@@ -427,8 +456,10 @@
 ||nutchaungong.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nxtpsh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nylonnickel.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||odebenmike.live^$dnsrewrite=ad-block.dns.adguard.com
 ||offergate-software6.com^$dnsrewrite=ad-block.dns.adguard.com
 ||offernow24.com^$dnsrewrite=ad-block.dns.adguard.com
+||offwardtendry.top^$dnsrewrite=ad-block.dns.adguard.com
 ||omgt3.com^$dnsrewrite=ad-block.dns.adguard.com
 ||omguk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||onclickperformance.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -439,16 +470,19 @@
 ||optimalscreen1.online^$dnsrewrite=ad-block.dns.adguard.com
 ||optnx.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ornismolal.top^$dnsrewrite=ad-block.dns.adguard.com
+||ossfloetteor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||otbackstage2.online^$dnsrewrite=ad-block.dns.adguard.com
 ||ovardu.com^$dnsrewrite=ad-block.dns.adguard.com
 ||paehceman.com^$dnsrewrite=ad-block.dns.adguard.com
 ||paid.outbrain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pamwrymm.live^$dnsrewrite=ad-block.dns.adguard.com
 ||panelerkingly.top^$dnsrewrite=ad-block.dns.adguard.com
+||pargodysuria.top^$dnsrewrite=ad-block.dns.adguard.com
 ||paulastroid.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pemsrv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||perfectflowing.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pertlouv.com^$dnsrewrite=ad-block.dns.adguard.com
+||pheniter.com^$dnsrewrite=ad-block.dns.adguard.com
 ||phrygiakodak.top^$dnsrewrite=ad-block.dns.adguard.com
 ||phumpauk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pisism.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -463,6 +497,7 @@
 ||popmyads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||popupblockernow.com^$dnsrewrite=ad-block.dns.adguard.com
 ||popupsblocker.org^$dnsrewrite=ad-block.dns.adguard.com
+||powerpushtrafic.space^$dnsrewrite=ad-block.dns.adguard.com
 ||ppqy.fun^$dnsrewrite=ad-block.dns.adguard.com
 ||preparedfile.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pretrackings.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -510,10 +545,12 @@
 ||runicforgecrafter.com^$dnsrewrite=ad-block.dns.adguard.com
 ||s0q260-rtbix.top^$dnsrewrite=ad-block.dns.adguard.com
 ||s3g6.com^$dnsrewrite=ad-block.dns.adguard.com
+||sahiwaldisform.top^$dnsrewrite=ad-block.dns.adguard.com
 ||savinist.com^$dnsrewrite=ad-block.dns.adguard.com
 ||score-feed.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sessfetchio.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sgad.site^$dnsrewrite=ad-block.dns.adguard.com
+||shapedcongest.com^$dnsrewrite=ad-block.dns.adguard.com
 ||shauladubhe.top^$dnsrewrite=ad-block.dns.adguard.com
 ||shoppinglifestyle.biz^$dnsrewrite=ad-block.dns.adguard.com
 ||shulugoo.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -521,16 +558,20 @@
 ||sitamedal2.online^$dnsrewrite=ad-block.dns.adguard.com
 ||sitamedal4.online^$dnsrewrite=ad-block.dns.adguard.com
 ||skated.co^$dnsrewrite=ad-block.dns.adguard.com
+||sloto.live^$dnsrewrite=ad-block.dns.adguard.com
 ||smallestgirlfriend.com^$dnsrewrite=ad-block.dns.adguard.com
 ||smartlphost.com^$dnsrewrite=ad-block.dns.adguard.com
 ||snadsfit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||solemik.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sourcecodeif.com^$dnsrewrite=ad-block.dns.adguard.com
+||sprinlof.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srvpcn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||streameventzone.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stt6.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||stvwell.online^$dnsrewrite=ad-block.dns.adguard.com
+||suptraf.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sxlflt.com^$dnsrewrite=ad-block.dns.adguard.com
+||tacopush.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||takemybackup.co^$dnsrewrite=ad-block.dns.adguard.com
 ||tertracks.site^$dnsrewrite=ad-block.dns.adguard.com
 ||theirbellsound.co^$dnsrewrite=ad-block.dns.adguard.com
@@ -540,10 +581,13 @@
 ||thubanoa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tidyllama.com^$dnsrewrite=ad-block.dns.adguard.com
 ||titaniumveinshaper.com^$dnsrewrite=ad-block.dns.adguard.com
+||toiletpaper.life^$dnsrewrite=ad-block.dns.adguard.com
 ||tolstoyclavers.top^$dnsrewrite=ad-block.dns.adguard.com
 ||toltooth.net^$dnsrewrite=ad-block.dns.adguard.com
 ||toopsoug.net^$dnsrewrite=ad-block.dns.adguard.com
+||topduppy.info^$dnsrewrite=ad-block.dns.adguard.com
 ||topnewsgo.com^$dnsrewrite=ad-block.dns.adguard.com
+||toptoys.store^$dnsrewrite=ad-block.dns.adguard.com
 ||torajaimbrium.top^$dnsrewrite=ad-block.dns.adguard.com
 ||totalab.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||touched35one.pro^$dnsrewrite=ad-block.dns.adguard.com
@@ -559,6 +603,7 @@
 ||traffoxx.uk^$dnsrewrite=ad-block.dns.adguard.com
 ||trckswrm.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trk72.com^$dnsrewrite=ad-block.dns.adguard.com
+||trkingthebest.net^$dnsrewrite=ad-block.dns.adguard.com
 ||trknext.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trksmorestreacking.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trpool.org^$dnsrewrite=ad-block.dns.adguard.com
@@ -578,6 +623,7 @@
 ||vetoembrace.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vezizey.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||vfgte.com^$dnsrewrite=ad-block.dns.adguard.com
+||viiiyskm.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viippugm.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viirkagt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viistroy.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -592,7 +638,9 @@
 ||webmedrtb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wewearegogogo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||whaurgoopou.com^$dnsrewrite=ad-block.dns.adguard.com
+||wheceelt.net^$dnsrewrite=ad-block.dns.adguard.com
 ||win-myprize.top^$dnsrewrite=ad-block.dns.adguard.com
+||winsimpleprizes.life^$dnsrewrite=ad-block.dns.adguard.com
 ||womadsmart.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wovensur.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wuujae.com^$dnsrewrite=ad-block.dns.adguard.com
