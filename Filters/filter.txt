@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-03T12:01:29.240Z
+! Last modified: 2024-06-03T15:02:29.153Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -41249,6 +41249,7 @@ vkcdnservice.appspot.com^
 ||1116c5.xyz^
 ||11c7a3.xyz^
 ||1350c3.xyz^
+||156fd4.xyz^
 ||1a1fb6.xyz^
 ||20519a.xyz^
 ||22dd31.xyz^
@@ -47472,6 +47473,9 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||collector-*.px-cloud.net^
+||collector-*.px-cdn.net^
+||collector-*.pxchk.net^
 ||v225.ksbw.com^
 ||k030.koco.com^
 ||u082.wapt.com^
@@ -68433,7 +68437,6 @@ analytics-*.aasaam.com
 ||soodland.com^
 
 # https://github.com/Webamoozcom/warning-list/discussions/86
-||minepi.com^
 
 # https://github.com/Webamoozcom/warning-list/discussions/87
 ||irancoinmine.com^
