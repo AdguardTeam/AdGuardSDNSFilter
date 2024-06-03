@@ -1,7 +1,7 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1693
 ||realwap.net^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1685
-||minepi.com^
+/^(?:\w+\.)*minepi\.com$/
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1686
 ||clearsale.com.br^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1661
