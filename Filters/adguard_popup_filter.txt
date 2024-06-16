@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-15T18:01:21.111Z
+! Last modified: 2024-06-16T00:02:52.002Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1026,6 +1026,7 @@
 ||oclasrv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ofgogoatan.com^$dnsrewrite=ad-block.dns.adguard.com
 ||opsktp.com^$dnsrewrite=ad-block.dns.adguard.com
+||origoclick.com^$dnsrewrite=ad-block.dns.adguard.com
 ||passion.com^$dnsrewrite=ad-block.dns.adguard.com
 ||performanceonclick.com^$dnsrewrite=ad-block.dns.adguard.com
 ||playhydrax.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -1040,6 +1041,7 @@
 ||ptapjmp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rencontreadultere.club^$dnsrewrite=ad-block.dns.adguard.com
 ||retiremely.com^$dnsrewrite=ad-block.dns.adguard.com
+||routinato.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||rtbbonline.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rtpdn11.com^$dnsrewrite=ad-block.dns.adguard.com
 ||schjmp.com^$dnsrewrite=ad-block.dns.adguard.com
