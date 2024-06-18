@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-18T00:02:55.180Z
+! Last modified: 2024-06-18T06:01:10.397Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1123,7 +1123,6 @@
 ||promo.stream-films.fr^$dnsrewrite=ad-block.dns.adguard.com
 ||promo.vador.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adbsys.icu^$dnsrewrite=ad-block.dns.adguard.com
-||clicks.pipaffiliates.com^$dnsrewrite=ad-block.dns.adguard.com
 ||compulsivehemisphere.com^$dnsrewrite=ad-block.dns.adguard.com
 ||luven.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||s2pops.club^$dnsrewrite=ad-block.dns.adguard.com
@@ -1153,7 +1152,6 @@
 ||furocmay.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gbrrrxbodqdlq.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hegarberetrof.pro^$dnsrewrite=ad-block.dns.adguard.com
-||highwaycpmrevenue.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hoegutvie.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ihqfiimrbcf.com^$dnsrewrite=ad-block.dns.adguard.com
 ||iwtserve.com^$dnsrewrite=ad-block.dns.adguard.com
