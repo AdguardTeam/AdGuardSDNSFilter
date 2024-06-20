@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-19T18:01:12.025Z
+! Last modified: 2024-06-20T00:02:57.633Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10233,6 +10233,7 @@ vkcdnservice.appspot.com^
 ||dairyworkjourney.com^
 ||daistii.com^
 ||daiteshu.net^
+||daithithapta.net^
 ||daiwheew.com^
 ||daizoode.com^
 ||dakjddjerdrct.online^
@@ -12328,6 +12329,7 @@ vkcdnservice.appspot.com^
 ||eensoans.com^
 ||eephaunou.com^
 ||eephaush.com^
+||eephoawaum.com^
 ||eepoawhe.xyz^
 ||eepsoumt.com^
 ||eepsukso.com^
@@ -12745,6 +12747,7 @@ vkcdnservice.appspot.com^
 ||engravetexture.com^
 ||enguis.com^
 ||enhalosecurer.digital^
+||enhalosubsea.com^
 ||enhancedweapon.com^
 ||enhanceinterestinghasten.com^
 ||enhancenephew.com^
@@ -24901,6 +24904,7 @@ vkcdnservice.appspot.com^
 ||oakenboubous.com^
 ||oaklesy.com^
 ||oakmostlyaccounting.com^
+||oakrirtorsy.xyz^
 ||oaksafta.com^
 ||oaksandtheircle.info^
 ||oalitoug.com^
@@ -26259,6 +26263,7 @@ vkcdnservice.appspot.com^
 ||packageeyeball.com^
 ||packmenappui.top^
 ||pacoaniy.net^
+||pacquetpusher.com^
 ||paddlediscovery.com^
 ||paddleniecehandicraft.com^
 ||padfungusunless.com^
@@ -28411,6 +28416,7 @@ vkcdnservice.appspot.com^
 ||psoaftob.xyz^
 ||psoageeb.com^
 ||psoageph.com^
+||psoansumt.net^
 ||psoanufi.com^
 ||psoasusteech.net^
 ||psockapa.net^
@@ -29884,6 +29890,7 @@ vkcdnservice.appspot.com^
 ||rejectionfundetc.com^
 ||rejoinedproof.com^
 ||rejoinedshake.com^
+||rejowhourox.com^
 ||rejslaq.com^
 ||rekfubzli.com^
 ||rekipion.com^
@@ -37248,6 +37255,7 @@ vkcdnservice.appspot.com^
 ||villcortege.top^
 ||vilpujzmyhu.com^
 ||vimpatace.digital^
+||vincentagrafes.top^
 ||vindexmesode.com^
 ||vindicosuite.com^
 ||vinegardaring.com^
@@ -41544,6 +41552,7 @@ vkcdnservice.appspot.com^
 ||28d591da.xyz^
 ||295c.site^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
+||2d8bc293.xyz
 ||3a2e.site^
 ||3ffa255f.xyz^
 ||420db600.xyz^
@@ -62536,6 +62545,12 @@ inapps.appsflyersdk.com^
 ||idoshbo.top^
 ||szdxw.cn^
 ||prtadf.xyz^
+||adbu.cn^
+||jdoshba.top^
+||wbgafrr.icu^
+||fpfbbn.xyz^
+||engwsq.xyz^
+||jdrlfn.xyz^
 ||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
