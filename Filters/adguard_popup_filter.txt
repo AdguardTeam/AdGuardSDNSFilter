@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-20T14:02:51.812Z
+! Last modified: 2024-06-20T18:02:07.253Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -185,6 +185,26 @@
 ||thnqemehtyfe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trafficholder.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trafficmagnates.com^$dnsrewrite=ad-block.dns.adguard.com
+||kmspico.ws^$dnsrewrite=ad-block.dns.adguard.com
+||kms-full.com^$dnsrewrite=ad-block.dns.adguard.com
+||Kmspico.io^$dnsrewrite=ad-block.dns.adguard.com
+||kms-tool.com^$dnsrewrite=ad-block.dns.adguard.com
+||Kmsauto.info^$dnsrewrite=ad-block.dns.adguard.com
+||officialkmspico.com^$dnsrewrite=ad-block.dns.adguard.com
+||Ultrasonica.info^$dnsrewrite=ad-block.dns.adguard.com
+||kmspicoofficial.com^$dnsrewrite=ad-block.dns.adguard.com
+||Kmspi.co^$dnsrewrite=ad-block.dns.adguard.com
+||Kms-pc.com^$dnsrewrite=ad-block.dns.adguard.com
+||Thewindowsactivator.com^$dnsrewrite=ad-block.dns.adguard.com
+||Get-kmspico.com^$dnsrewrite=ad-block.dns.adguard.com
+||getkmspico.com^$dnsrewrite=ad-block.dns.adguard.com
+||heukmsactivator.com^$dnsrewrite=ad-block.dns.adguard.com
+||Furykms.com^$dnsrewrite=ad-block.dns.adguard.com
+||kmsofficial.org^$dnsrewrite=ad-block.dns.adguard.com
+||Kmspico-official.org^$dnsrewrite=ad-block.dns.adguard.com
+||Yasir252.com^$dnsrewrite=ad-block.dns.adguard.com
+||karanpc.com^$dnsrewrite=ad-block.dns.adguard.com
+||getintopc.today^$dnsrewrite=ad-block.dns.adguard.com
 ||adrunnr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||d1cglulyxpv8sj.cloudfront.net^$dnsrewrite=ad-block.dns.adguard.com
 ||d3t3bxixsojwre.cloudfront.net^$dnsrewrite=ad-block.dns.adguard.com
