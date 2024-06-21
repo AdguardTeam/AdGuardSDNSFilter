@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-20T18:02:04.428Z
+! Last modified: 2024-06-21T00:02:47.757Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,14 @@
 !
 !
 !
+||wrrlidnlerx.com^
+||rmtckjzct.com^
+||ilaterdeallyighab.info^
+||iththinleldedallov.info^
+||gugletkvarner.top^
+||emigreehurty.top^
+||cufultahaur.com^
+||rcdjkdesdn.com^
 ||at.adtech.redventures.io^
 ||dcjeeqwrhg.com^
 ||bb.churchkhela.site^
@@ -52495,6 +52503,7 @@ inapps.appsflyersdk.com^
 ||counter.megaindex.ru^
 ||counter.photopulse.ru^
 ||counter.reddigital.ru^
+||counter.smotrim.ru^
 ||dbex-tracker-v2.driveback.ru^
 ||error.videonow.ru^
 ||events.auth.gid.ru^
@@ -62558,6 +62567,11 @@ inapps.appsflyersdk.com^
 ||ccccc66kkkkk.com^
 ||ccccc78kkkkk.com^
 ||ccccc88kkkkk.com^
+||qzehwg.xyz^
+||nzhzzd.xyz^
+||sggu.cn^
+||puwkcqp.icu^
+||kdoshbd.top^
 ||dvgjx.cn^
 ||ytqeavc.icu^
 ||adzo.cn^
