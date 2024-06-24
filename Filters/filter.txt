@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-23T18:01:12.082Z
+! Last modified: 2024-06-24T00:03:46.663Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -62669,6 +62669,15 @@ inapps.appsflyersdk.com^
 ||edoshbw.top^
 ||blciqbk.icu^
 ||ycgfdf.cn^
+||birtw.cn^
+||fmjjvb.xyz^
+||awyuge.xyz^
+||ddnzpr.xyz^
+||uessnah.icu^
+||wdoshbe.top^
+||663008888.com^
+||uutytp.com^
+||w0057.com^
 ||8878tp.com^
 ||ccccc66kkkkk.com^
 ||ccccc78kkkkk.com^
@@ -69292,12 +69301,7 @@ analytics-*.aasaam.com
 
 # https://github.com/Blockunity/Warning-List/discussions/44
 ||tradergpt.ai^
-||wibodir.com^
-||eh-ra-z-se-na.org^
-||ebl-hot.com^
-||iranuschsahm.sbs^
-||seownae.space^
-||maeshhtr.com^
+||meashstis.ir^
 
 !
 ! Source name: List-KR filter ad servers
