@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-03T06:01:11.221Z
+! Last modified: 2024-07-03T10:01:40.314Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -43249,6 +43249,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||revotas.com^
 ||track.fluffyfalcon.com^
 ||gojsmanager.com^
 ||adtrack.adleadevent.com^
@@ -43404,7 +43405,6 @@ vkcdnservice.appspot.com^
 ||carrick-ui.advoncommerce.com^
 ||smelel.icu^
 ||ea.epochbase.com^
-||f.revotas.com^
 ||1cpbac.ru^
 ||tracking.utlservice.com^
 ||analytics.myshoptago.com^
@@ -61732,6 +61732,10 @@ inapps.appsflyersdk.com^
 ||jbkqemk.icu^
 ||jdipsuma.top^
 ||fzllis.cn^
+||feofamdak.top^
+||askdlajfbv.top^
+||dajiahao17.top^
+||afqodjc.top^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -68861,6 +68865,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1720
+! Blocked by CNAME data.adobedc.net
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1717
 @@||sax.sina.com.cn^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1709
