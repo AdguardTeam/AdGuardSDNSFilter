@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-24T06:01:28.079Z
+! Last modified: 2024-07-24T12:01:36.857Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -582,6 +582,7 @@
 ||rigelbetelgeuse.top^$dnsrewrite=ad-block.dns.adguard.com
 ||rndskittytor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||roastoup.com^$dnsrewrite=ad-block.dns.adguard.com
+||rockingfolders.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rollads.live^$dnsrewrite=ad-block.dns.adguard.com
 ||roobetaffiliates.com^$dnsrewrite=ad-block.dns.adguard.com
 ||roundflow.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -668,6 +669,8 @@
 ||uncoverarching.com^$dnsrewrite=ad-block.dns.adguard.com
 ||unendlyyodeled.top^$dnsrewrite=ad-block.dns.adguard.com
 ||unitsympathetic.com^$dnsrewrite=ad-block.dns.adguard.com
+||unlocky.org^$dnsrewrite=ad-block.dns.adguard.com
+||unlocky.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||unpaledbooker.top^$dnsrewrite=ad-block.dns.adguard.com
 ||uphorter.com^$dnsrewrite=ad-block.dns.adguard.com
 ||utm-campaign.com^$dnsrewrite=ad-block.dns.adguard.com
