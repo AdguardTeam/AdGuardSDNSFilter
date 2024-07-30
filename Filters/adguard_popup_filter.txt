@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-30T06:01:29.617Z
+! Last modified: 2024-07-30T12:01:37.018Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -225,6 +225,7 @@
 ||d1cglulyxpv8sj.cloudfront.net^$dnsrewrite=ad-block.dns.adguard.com
 ||d3t3bxixsojwre.cloudfront.net^$dnsrewrite=ad-block.dns.adguard.com
 ||chiglees.com^$dnsrewrite=ad-block.dns.adguard.com
+||123-stream.org^$dnsrewrite=ad-block.dns.adguard.com
 ||1winpost.com^$dnsrewrite=ad-block.dns.adguard.com
 ||20trackdomain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||2ltm627ho.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -261,6 +262,7 @@
 ||adverttulimited.biz^$dnsrewrite=ad-block.dns.adguard.com
 ||adxproofcheck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||aferpush.com^$dnsrewrite=ad-block.dns.adguard.com
+||affcpatrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||affflow.com^$dnsrewrite=ad-block.dns.adguard.com
 ||affiliatestonybet.com^$dnsrewrite=ad-block.dns.adguard.com
 ||affpa.top^$dnsrewrite=ad-block.dns.adguard.com
