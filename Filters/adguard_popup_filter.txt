@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-03T06:01:33.870Z
+! Last modified: 2024-08-03T12:01:20.889Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -618,6 +618,7 @@
 ||sourcecodeif.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sprinlof.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srvpcn.com^$dnsrewrite=ad-block.dns.adguard.com
+||srvtrck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||streameventzone.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stt6.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||stvwell.online^$dnsrewrite=ad-block.dns.adguard.com
@@ -625,6 +626,7 @@
 ||sxlflt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tacopush.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||takemybackup.co^$dnsrewrite=ad-block.dns.adguard.com
+||tatrck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tbao684tryo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tertracks.site^$dnsrewrite=ad-block.dns.adguard.com
 ||theirbellsound.co^$dnsrewrite=ad-block.dns.adguard.com
