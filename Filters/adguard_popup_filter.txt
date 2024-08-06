@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-05T18:01:25.343Z
+! Last modified: 2024-08-06T00:03:09.452Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -290,6 +290,7 @@
 ||awecrptjmp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||awesomeprizedrive.co^$dnsrewrite=ad-block.dns.adguard.com
 ||ayga.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||bakabok.com^$dnsrewrite=ad-block.dns.adguard.com
 ||baldo-toj.com^$dnsrewrite=ad-block.dns.adguard.com
 ||baseauthenticity.co.in^$dnsrewrite=ad-block.dns.adguard.com
 ||basicflownetowork.co.in^$dnsrewrite=ad-block.dns.adguard.com
@@ -345,6 +346,7 @@
 ||ctosrd.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cybkit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||datatechdrift.com^$dnsrewrite=ad-block.dns.adguard.com
+||date-till-late.us^$dnsrewrite=ad-block.dns.adguard.com
 ||dc-feed.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ddkf.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||dealgodsafe.live^$dnsrewrite=ad-block.dns.adguard.com
@@ -376,6 +378,7 @@
 ||emotot.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||emperilchilies.top^$dnsrewrite=ad-block.dns.adguard.com
 ||errolandtessa.com^$dnsrewrite=ad-block.dns.adguard.com
+||escortlist.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||eventfulknights.com^$dnsrewrite=ad-block.dns.adguard.com
 ||excellingvista.com^$dnsrewrite=ad-block.dns.adguard.com
 ||exclkplat.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -493,6 +496,7 @@
 ||nauwheer.net^$dnsrewrite=ad-block.dns.adguard.com
 ||news-jivera.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nexaapptwp.top^$dnsrewrite=ad-block.dns.adguard.com
+||nightbesties.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nindsstudio.com^$dnsrewrite=ad-block.dns.adguard.com
 ||niwluvepisj.site^$dnsrewrite=ad-block.dns.adguard.com
 ||noncepter.com^$dnsrewrite=ad-block.dns.adguard.com
