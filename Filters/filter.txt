@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-15T18:02:12.123Z
+! Last modified: 2024-08-16T00:03:00.365Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -9316,6 +9316,7 @@ vkcdnservice.appspot.com^
 ||craharice.com^
 ||crajeon.com^
 ||crakbanner.com^
+||crakedquartin.com^
 ||crampcrossroadbaptize.com^
 ||crampincompetent.com^
 ||cranebecomingwindfall.com^
@@ -14065,6 +14066,7 @@ vkcdnservice.appspot.com^
 ||fuskoqvoaprjr.com^
 ||fusoidactuate.com^
 ||fussy-highway.pro^
+||futharcconny.shop^
 ||futileharrystephen.com^
 ||futilepreposterous.com^
 ||futilereposerefreshments.com^
@@ -16770,6 +16772,7 @@ vkcdnservice.appspot.com^
 ||idswinpole.casa^
 ||idthecharityc.info^
 ||idydlesswale.info^
+||idyllteapots.com^
 ||ie3wisa4.com^
 ||ie8eamus.com^
 ||iebsmqevw.com^
@@ -27364,6 +27367,7 @@ vkcdnservice.appspot.com^
 ||rashlyblowfly.com^
 ||raspberryamusingbroker.com^
 ||raspedexsculp.com^
+||rasurescaribou.com^
 ||ratcovertlicence.com^
 ||ratebilaterdea.com^
 ||ratesatrociousplans.com^
@@ -36847,6 +36851,7 @@ vkcdnservice.appspot.com^
 ||zaihxti.com^
 ||zaikasoatie.xyz^
 ||zailoanoy.com^
+||zaipousu.net^
 ||zaistaug.net^
 ||zajukrib.net^
 ||zaltaumi.net^
@@ -41269,6 +41274,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||collector-pxebumdlwe.px-cloud.net^
+||collector-pxebumdlwe.px-cdn.net^
 ||s2s.adjust.com^
 ||view.adjust.com^
 ||engagements.appsflyer.com^
@@ -52689,7 +52696,6 @@ inapps.appsflyersdk.com^
 ||mbadv.nan.co.jp^
 ||creative.live.tktube.com^
 ||ads.world-fusigi.net^
-||ad.inter-edu.com^
 ||ad.eloan.co.jp^
 ||ad.abema.io^
 ||ad-hatena.com^
