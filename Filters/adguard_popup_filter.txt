@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-05T18:01:06.279Z
+! Last modified: 2024-09-06T00:02:59.895Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -340,6 +340,7 @@
 ||dsp5stero.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dutydynamo.co^$dnsrewrite=ad-block.dns.adguard.com
 ||earlinessone.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||edpl9v.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||eetognauy.net^$dnsrewrite=ad-block.dns.adguard.com
 ||eh0ag0-rtbix.top^$dnsrewrite=ad-block.dns.adguard.com
 ||emotot.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -393,6 +394,7 @@
 ||hetapus.com^$dnsrewrite=ad-block.dns.adguard.com
 ||heweop.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hfr67jhqrw8.com^$dnsrewrite=ad-block.dns.adguard.com
+||hhju87yhn7.top^$dnsrewrite=ad-block.dns.adguard.com
 ||highcpmgate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hilarioustasting.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hnrgmc.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -679,6 +681,7 @@
 ||violationphysics.click^$dnsrewrite=ad-block.dns.adguard.com
 ||virusscanner.to^$dnsrewrite=ad-block.dns.adguard.com
 ||vizoalygrenn.com^$dnsrewrite=ad-block.dns.adguard.com
+||vnte9urn.click^$dnsrewrite=ad-block.dns.adguard.com
 ||volleyballachiever.site^$dnsrewrite=ad-block.dns.adguard.com
 ||voluumtrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vpn-offers.org^$dnsrewrite=ad-block.dns.adguard.com

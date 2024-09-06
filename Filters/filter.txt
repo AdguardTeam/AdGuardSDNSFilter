@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-05T18:01:03.601Z
+! Last modified: 2024-09-06T00:02:57.489Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -37676,11 +37676,13 @@ vkcdnservice.appspot.com^
 ||drop9-ether.su^
 ||dropnft.su^
 ||duuuyqiwqc.xyz^
+||edpl9v.pro^
 ||ether2-ethereum.su^
 ||ether3securityethereum-checker.su^
 ||ethersjs.com^
 ||findrpc.sh^
 ||gousy11.top^
+||hhju87yhn7.top^
 ||icwurxd9zaa47e.su^
 ||ii3qy2.su^
 ||ipjsonapi.com^
@@ -37694,6 +37696,8 @@ vkcdnservice.appspot.com^
 ||metamask.blog^
 ||modulejsreques.com^
 ||moralis-node.dev^
+||neogallery.xyz^
+||nerveheels.com^
 ||nesolam.com^
 ||next-done.website^
 ||nft-cryptosecurity.ru^
@@ -37721,6 +37725,7 @@ vkcdnservice.appspot.com^
 ||uniswaps.website^
 ||varnqeoan.com^
 ||verifyconnection.org^
+||vnte9urn.click^
 ||w14s58toxo.su^
 ||wallet-connect.ru^
 ||web3-analytic.ru^
@@ -45437,6 +45442,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||track2.tprg.ru^
 ||metrics.camsoda.com^
 ||to.torrentfreak.com^
 ||l.premium.naver.com^
@@ -60461,6 +60467,11 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||geddsashb3.fun^
+||grewash1b.fun^
+||kzcayec.icu^
+||tqbrnd.xyz^
+||udeias.xyz^
 ||wxmmji.xyz^
 ||orutvnck.top^
 ||gedxssashb8.fun^
