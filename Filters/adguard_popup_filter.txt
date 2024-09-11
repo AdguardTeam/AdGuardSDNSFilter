@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-10T18:01:10.858Z
+! Last modified: 2024-09-11T00:03:11.746Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -338,6 +338,7 @@
 ||downlon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dreamteamaffiliates.com^$dnsrewrite=ad-block.dns.adguard.com
 ||drsmediaexchange.com^$dnsrewrite=ad-block.dns.adguard.com
+||drumskilxoa.click^$dnsrewrite=ad-block.dns.adguard.com
 ||dsp5stero.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dutydynamo.co^$dnsrewrite=ad-block.dns.adguard.com
 ||earlinessone.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -421,6 +422,7 @@
 ||jaclottens.live^$dnsrewrite=ad-block.dns.adguard.com
 ||jeroud.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jggegj-rtbix.top^$dnsrewrite=ad-block.dns.adguard.com
+||jhsnshueyt.click^$dnsrewrite=ad-block.dns.adguard.com
 ||jlodgings.com^$dnsrewrite=ad-block.dns.adguard.com
 ||js-check.com^$dnsrewrite=ad-block.dns.adguard.com
 ||junmediadirect1.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -463,6 +465,7 @@
 ||mndlvr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||moadworld.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mobiletracking.ru^$dnsrewrite=ad-block.dns.adguard.com
+||modoodeul.com^$dnsrewrite=ad-block.dns.adguard.com
 ||moralitylameinviting.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mouthdistance.bond^$dnsrewrite=ad-block.dns.adguard.com
 ||myjack-potscore.life^$dnsrewrite=ad-block.dns.adguard.com
@@ -810,6 +813,7 @@
 ||70b927c8.live^$dnsrewrite=ad-block.dns.adguard.com
 ||72075223.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||72560514.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||72716408.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||74142961.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||75690049.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||7608d5.xyz^$dnsrewrite=ad-block.dns.adguard.com
