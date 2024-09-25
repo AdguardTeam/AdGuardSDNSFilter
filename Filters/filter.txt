@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-25T18:01:22.225Z
+! Last modified: 2024-09-25T18:08:43.524Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.28
 !
@@ -127,6 +127,8 @@ serve.bussyhunter.com^
 ||exinariuminix.info^
 ||chabadokor.com^
 ||truthfulsensor.com^
+||5.61.55.143^
+||37.1.213.100^
 ||loc.sexymilfspics.com^
 ||go2click.online^
 ||sibergy.com^
@@ -701,6 +703,9 @@ serve.bussyhunter.com^
 /^23\.109\.73\.\d{3}/
 /^188\.42\.84\.\d{1,3}/
 /^139\.45\.19[5-7]\.\d{1,3}/
+! Frequently changed domains with the same IP
+! For example: https://pornxp.com/videos/77778518360
+||188.72.219.36^
 !
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/142
 ||stripe.rs-1028-a.com^
@@ -1355,6 +1360,8 @@ serve.bussyhunter.com^
 .1.1.1.l80.js^
 .3.n.2.1.l50.js
 .3.n.2.2.l30.js
+!
+||109.123.233.251^
 ||gulf.moneroocean.stream^
 ||trustisimportant.fun^
 ||pool.supportxmr.com^
@@ -40618,6 +40625,7 @@ vkcdnservice.appspot.com^
 ||ufz.doesxyz.com^
 ||xdrig.com^
 ||usp1.baidu.com^
+||54.222.186.106^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 ! AfreecaTV
@@ -41032,6 +41040,7 @@ vkcdnservice.appspot.com^
 ://o0e.ru^
 ||1mp.mobi^
 ||247realmedia.com^
+||31.14.252.148^
 ||abtest.swrve.com^
 ||ad*.nexage.com^
 ||ad-brix.com^
@@ -42381,6 +42390,7 @@ vkcdnservice.appspot.com^
 ||log.perfecttitspics.com^
 ||analytics.mbga.jp^
 ||loginside.co.kr^
+||110.93.143.144^
 ||log002.commutil.kr^
 ||analy1.dtnnetwork.be^
 ||cerdmann.com^
@@ -42822,6 +42832,7 @@ vkcdnservice.appspot.com^
 ||123-counter.de^
 ||123compteur.com^
 ||123count.com^
+||180.76.2.18^
 ||1freecounter.com^
 ||1pel.com^
 ||200stran.ru^
@@ -42845,8 +42856,12 @@ vkcdnservice.appspot.com^
 ||4stats.de^
 ||50bang.org^
 ||55labs.com^
+||66.228.52.30^
+||67.228.151.70^
 ||6sc.co^
+||74.55.82.102^
 ||77tracking.com^
+||79.125.117.123^
 ||7bpeople.com^
 ||8020solutions.net^
 ||99counters.com^
@@ -49984,6 +49999,8 @@ inapps.appsflyersdk.com^
 ||midan.io^
 ||sworatio.co^
 ||waycash.net^
+||184.106.248.76^
+||200.72.40.46^
 ||actualtrade.eu^
 ||ad-pub.terra.com.br^
 ||ad.batanga.com^
@@ -50842,19 +50859,29 @@ inapps.appsflyersdk.com^
 ||24new.ru^
 ||2under.ru^
 ||34bogatirya.ru^
+||37.220.26.135^
+||37.220.26.136^
+||37.220.26.137^
 ||3file.info^
 ||3lucosy.com^
 ||3mtr.ru^
 ||468.vologdainfo.ru^
 ||69m.info^
 ||6likosy.com^
+||77.247.178.41^
 ||777-888.ru^
+||78.140.134.198^
+||78.140.149.216^
 ||7dvd.ru^
 ||7offers.ru^
 ||7out.ru^
 ||7porn.ru^
 ||7rtv.com^
+||88.85.75.147^
+||88.85.77.92^
 ||8coins.net^
+||91.207.192.31^
+||95.211.125.226^
 ||9fine.ru^
 ||a.fobos.tv^
 ||a.jurnalu.ru^
@@ -52071,6 +52098,8 @@ inapps.appsflyersdk.com^
 ||zorkabiz.ru^
 ||zqizn.com^
 ||zqmwf.xyz^
+||193.200.64.24^
+||206.54.181.250^
 !
 ||popvalk.com^
 !
@@ -52830,6 +52859,7 @@ inapps.appsflyersdk.com^
 !
 ! for Safari ('||' covers one sub-domain only)
 ||maillovelove.net^
+||185.161.248.253^
 
 !
 ! Source name: AdGuard Japanese filter ad servers first-party
@@ -53074,6 +53104,8 @@ inapps.appsflyersdk.com^
 ||d.6xw.com^
 ||mgzjin.cn^
 ||chinagcdxyjng.cn^
+||192.151.218.66^
+||23.224.89.2^
 ||ofd.meng-an.cn^
 ||qienews.cn^
 ||pv.dakawm.cc^
@@ -53085,6 +53117,7 @@ inapps.appsflyersdk.com^
 ||m.qhxcdmfj.cn^
 ||szjyfund.com^
 ||y.21haodianmt.com^
+||156.233.32.123^
 ||i3535.com^
 ||1990tu.com^
 ||web-ad.xyz^
