@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@adguard/hostlist-compiler@1.0.28":
-  version "1.0.28"
-  resolved "https://registry.yarnpkg.com/@adguard/hostlist-compiler/-/hostlist-compiler-1.0.28.tgz#bf1921c56efb6c742f9d8d0ae9f2ff9f80d92036"
-  integrity sha512-/SHWbKBS+bPIl1BNxU+d7AMLa5WdI7CxYTCWdEf0ZTnL0FXBWzcBW8Anm41QX37ZNIWj/qntD26RTCYYJEe8sA==
+"@adguard/hostlist-compiler@1.0.29":
+  version "1.0.29"
+  resolved "https://registry.yarnpkg.com/@adguard/hostlist-compiler/-/hostlist-compiler-1.0.29.tgz#838b79fe332e6fc7e52447740f5c4673a3567195"
+  integrity sha512-6psnrT9unsgjvU04ph3UWlKT4xDZRb5MGvyvdPEH7zppvWFf+CieFuCWYUHbiUGepFRkzrlc7QMPdv14dPiQyQ==
   dependencies:
     ajv "^6.12.0"
     ajv-errors "^1.0.1"
