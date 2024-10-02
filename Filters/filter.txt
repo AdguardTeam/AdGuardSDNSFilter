@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-02T12:01:37.921Z
+! Last modified: 2024-10-02T18:01:20.591Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||y.crazyporn.xxx^
 ||cdn2.sales-frontier.com^
 ||xxyrgvielmehx.com^
 ||emaxudrookrora.net^
@@ -2274,6 +2275,7 @@ vkcdnservice.appspot.com^
 ||8d1dce99ab.com^
 ||8d96fe2f01.com^
 ||8db4fde90b.com^
+||8de5d7e235.com^
 ||8ec9b7706a.com^
 ||8f2b4c98e7.com^
 ||8f72931b99.com^
@@ -15950,6 +15952,7 @@ vkcdnservice.appspot.com^
 ||hjvvk.com^
 ||hjxajf.com^
 ||hjyovlwtevwdjy.com^
+||hkaphqknkao.com^
 ||hkapicwuhvc.com^
 ||hkeibmpspxn.com^
 ||hkfgsxpnaga.xyz^
@@ -16481,6 +16484,7 @@ vkcdnservice.appspot.com^
 ||hzdfziaydqawar.com^
 ||hzoywchsp.com^
 ||hzr0dm28m17c.com^
+||hzychcvdmjo.com^
 ||i010b048d3e4a1e4b70aba72b169e70c90971f9.xyz^
 ||i4nstr1gm.com^
 ||i4rsrcj6.top^
@@ -16700,6 +16704,7 @@ vkcdnservice.appspot.com^
 ||ikonatozee.top^
 ||ikouthaupi.com^
 ||ikrvvsliwar.com^
+||ikssllnhrb.com^
 ||ikunselt.com^
 ||ikwiwnnofgpzq.com^
 ||ikwzrix.com^
@@ -18394,6 +18399,7 @@ vkcdnservice.appspot.com^
 ||jzokkejmqrbmq.top^
 ||jzokkejmqrkyw.top^
 ||jzpdjbpusgcbr.com^
+||jzplabcvvy.com^
 ||jzqbyykbrrbkq.top^
 ||jzqbyykbrrobw.top^
 ||jzqbyykbrrykz.top^
@@ -20280,6 +20286,7 @@ vkcdnservice.appspot.com^
 ||lywasnothycanty.info^
 ||lyzenoti.pro^
 ||lzjl.com^
+||lzoasvofvzw.com^
 ||lzukrobrykk.com^
 ||lzxdx24yib.com^
 ||m-rtb.com^
@@ -24250,6 +24257,7 @@ vkcdnservice.appspot.com^
 ||pacoaniy.net^
 ||pacquetpusher.com^
 ||paddlediscovery.com^
+||paddlemenu.com^
 ||paddleniecehandicraft.com^
 ||padfungusunless.com^
 ||padma-fed.com^
@@ -28673,6 +28681,7 @@ vkcdnservice.appspot.com^
 ||ruktllqjvsafr.com^
 ||rulahglsnzsx.com^
 ||rulovar.com^
+||rulrahed.com^
 ||rumimorigu.com^
 ||rummagemason.com^
 ||rummentaltheme.com^
@@ -55049,9 +55058,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Oct 2024 09:42 UTC+7
-! Version: 2410020942
-! Blocked: 924 rules
+! Last modified: 02 Oct 2024 22:03 UTC+7
+! Version: 2410022203
+! Blocked: 925 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -55649,6 +55658,7 @@ inapps.appsflyersdk.com^
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
+||log-video.baotintuc.vn^
 ||log.247post.vn^
 ||log.anninhthudo.vn^
 ||log.baobackan.com.vn^
@@ -60435,7 +60445,11 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||51tongji.trafficmanager.net^
+||cnzz.trafficmanager.net^
 ||znnfzx.xyz^
+||f5zv2.icu^
+||swurserb.top^
 ||veryt111.fun^
 ||az697jylm.cc^
 ||kwurserd.top^
