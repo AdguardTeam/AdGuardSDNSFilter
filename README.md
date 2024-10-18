@@ -101,9 +101,9 @@ The output is written to `Filters/filter.txt`.
 
 * [hostsVN Threat](https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/filter.txt)
 
-* [List-KR filter](https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/1st_domains.txt)
+* [List-KR filter](https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt)
 
-* [List-KR filter - third-party servers](https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/3rd_domains.txt)
+* [List-KR filter - third-party servers](https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/3rd_domains.txt)
 
 ### Tracking servers
 
