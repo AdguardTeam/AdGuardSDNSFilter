@@ -1,3 +1,7 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1771
+! Related to disguised tracker
+! https://github.com/AdguardTeam/AdguardFilters/blob/d77b4202c04486f0dc0488dbd56679cc586e5ad2/SpywareFilter/sections/tracking_servers.txt#L4110
+@@||acs-m.daraz.com.bd^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1768
 @@||f-gear.ec-optimizer.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1765
