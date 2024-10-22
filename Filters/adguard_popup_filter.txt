@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-22T12:01:40.415Z
+! Last modified: 2024-10-22T18:01:27.457Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -872,6 +872,7 @@
 ||46276192.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||466c4d0f.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||47296536.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||47415889.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||48304789.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||485728.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||48a16802.site^$dnsrewrite=ad-block.dns.adguard.com
@@ -1089,7 +1090,6 @@
 ||moradu.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mptentry.com^$dnsrewrite=ad-block.dns.adguard.com
 ||needlive.com^$dnsrewrite=ad-block.dns.adguard.com
-||njmaq.com^$dnsrewrite=ad-block.dns.adguard.com
 ||notimoti.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nyetm2mkch.com^$dnsrewrite=ad-block.dns.adguard.com
 ||passtechusa.com^$dnsrewrite=ad-block.dns.adguard.com
