@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-29T12:01:25.624Z
+! Last modified: 2024-10-29T18:01:12.800Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -8904,6 +8904,7 @@ vkcdnservice.appspot.com^
 ||detectedadvancevisiting.com^
 ||detectedpectoral.com^
 ||detectiveestrange.com^
+||detectivegrilled.com^
 ||detectivesbaseballovertake.com^
 ||detectivesexception.com^
 ||detectivespreferably.com^
@@ -12986,6 +12987,7 @@ vkcdnservice.appspot.com^
 ||goufldsbktds.com^
 ||gouheethsurvey.space^
 ||gounevou.net^
+||gounodogaptofok.net^
 ||gourgoldpieceso.com^
 ||gousouse.com^
 ||goutee.top^
@@ -19478,6 +19480,7 @@ vkcdnservice.appspot.com^
 ||novadune.com^
 ||novel-inevitable.com^
 ||novelcompliance.com^
+||novelslopeoppressive.com^
 ||novelty.media^
 ||noveltyensue.com^
 ||novemberadventures.com^
@@ -21292,6 +21295,7 @@ vkcdnservice.appspot.com^
 ||petrifacius.com^
 ||petrolgraphcredibility.com^
 ||petsavoury.com^
+||pettyachras.shop^
 ||pexkmaebfy.xyz^
 ||pexuvais.net^
 ||pezoomsekre.com^
@@ -26413,6 +26417,7 @@ vkcdnservice.appspot.com^
 ||statsforads.com^
 ||statsmobi.com^
 ||staubsuthil.com^
+||staugloobads.net^
 ||staukaul.com^
 ||staumersleep.com^
 ||staunchgenetwitch.com^
@@ -29923,6 +29928,7 @@ vkcdnservice.appspot.com^
 ||vuftouks.com^
 ||vufzuld.com^
 ||vugnubier.com^
+||vugpakba.com^
 ||vuhnvtrfj.com^
 ||vuiluaz.xyz^
 ||vujriahqyleveh.com^
@@ -29943,6 +29949,7 @@ vkcdnservice.appspot.com^
 ||vvehvch.com^
 ||vvpojbsibm.xyz^
 ||vvprcztaw.com^
+||vvvvdbrrt.com^
 ||vwagkipi.com^
 ||vwchbsoukeq.xyz^
 ||vwdtyjygxap.com^
@@ -36099,6 +36106,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||prodregistryv2.org^
 ||ads.mythad.com^
 ||ga2.getresponse.com^
 ||events.split.io^
@@ -39865,6 +39873,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||data-ingestion.flowgpt.com^
+||tianji.flowgpt.com^
 ||analytics-ingestion-production.tubitv.com^
 ||retail-client-events-service.internal.salsify.com^
 ||servo-report.keepstreams.*^
@@ -43157,6 +43167,7 @@ inapps.appsflyersdk.com^
 ||analytics.rogersmedia.com^
 ||analytics.salesanalytics.io^
 ||analytics.shorthand.com^
+||analytics.sleeknote.com^
 ||analytics.snidigital.com^
 ||analytics.strangeloopnetworks.com^
 ||analytics.supplyframe.com^
@@ -48698,8 +48709,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-10-09 05:49:09 CEST
-# entries:        1089
+# last updated:   2024-10-29 18:19:04 CET
+# entries:        1088
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -49047,7 +49058,6 @@ inapps.appsflyersdk.com^
 ||servedby.lintigroup.se^
 ||se-ads-microservice.ads.allermedia.io^
 ||sgtm.inet.se^
-||sleeknote.com^
 ||source.advisible.com^
 ||spel.expressen.se^
 ||sprinklecontent.com^
@@ -55074,6 +55084,8 @@ inapps.appsflyersdk.com^
 ||kemmars.com^
 ||sv5nm.icu^
 ||treferty33.fun^
+||coublif.top^
+||cadcc.icu^
 ||1gmzo.icu^
 ||crnmyrk.icu^
 ||hdxyj.icu^
@@ -60916,6 +60928,8 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter ad servers
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 !
+||mobon.net^
+||nhnace.com^
 ||middlepoint.co.kr^
 ||authanalysis.com^
 ||planmix.co.kr^
@@ -60928,7 +60942,6 @@ analytics-*.aasaam.com
 ||quantserve.com^
 ||marketingking.co.kr^
 ||catad5959.com^
-||mobon.net^
 ||thetopic.co.kr^
 ||msadsense.com^
 ||tadapi.info^
@@ -60970,7 +60983,6 @@ analytics-*.aasaam.com
 ||sv.govkorea24.com^
 ||static.bidrich.com^
 ||ad.tpmn.io^
-||cdn.nhnace.com^
 ||d23poh9wsma6va.cloudfront.net^
 ||ad1.missyusa.com^
 ||ads.motorgraph.com^
