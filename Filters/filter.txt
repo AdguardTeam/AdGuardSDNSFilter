@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-30T00:03:22.881Z
+! Last modified: 2024-10-30T12:01:24.596Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10189,6 +10189,7 @@ vkcdnservice.appspot.com^
 ||ehpvvxyp.com^
 ||ehpxmsqghx.xyz^
 ||ehqdzqi.com^
+||ehrmanoda.com^
 ||ehrydnmdoe.com^
 ||eicbgbnbvjf.com^
 ||eidoscruster.com^
@@ -15830,6 +15831,7 @@ vkcdnservice.appspot.com^
 ||judruwough.com^
 ||jugerfowells.com^
 ||juggleeducationfirearm.com^
+||juglarunioid.com^
 ||jugnepha.xyz^
 ||jugsmithecology.com^
 ||juhece.uno^
@@ -42483,6 +42485,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||events.swiftlycontent.net^
+||log.cleandesigner.live^
 ||mob2.healthapplines.com^
 ||client-telemetry.hingeprod.net^
 ||events-api.towneers.prod.data.krmt.io^
@@ -55083,6 +55087,9 @@ inapps.appsflyersdk.com^
 ||cnzz.trafficmanager.net^
 ||whrwlxg.icu^
 ||bdawrsi.icu^
+||houbliu.top^
+||6ft8a.icu^
+||aikkits.com^
 ||mzpecui.icu^
 ||chmueyv.icu^
 ||kemmars.com^
@@ -60932,6 +60939,8 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter ad servers
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 !
+||mobon.net^
+||nhnace.com^
 ||middlepoint.co.kr^
 ||authanalysis.com^
 ||planmix.co.kr^
@@ -60944,7 +60953,6 @@ analytics-*.aasaam.com
 ||quantserve.com^
 ||marketingking.co.kr^
 ||catad5959.com^
-||mobon.net^
 ||thetopic.co.kr^
 ||msadsense.com^
 ||tadapi.info^
@@ -60986,7 +60994,6 @@ analytics-*.aasaam.com
 ||sv.govkorea24.com^
 ||static.bidrich.com^
 ||ad.tpmn.io^
-||cdn.nhnace.com^
 ||d23poh9wsma6va.cloudfront.net^
 ||ad1.missyusa.com^
 ||ads.motorgraph.com^
