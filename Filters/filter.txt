@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-29T18:01:12.800Z
+! Last modified: 2024-10-30T00:03:22.881Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -16344,6 +16344,7 @@ vkcdnservice.appspot.com^
 ||kq272lw4c.com^
 ||kqbjdvighp.com^
 ||kqduogttdmryguw.com^
+||kqhgjmap.com^
 ||kqhi97lf.de^
 ||kqiivrxlal.xyz^
 ||kqjpipl.com^
@@ -19636,6 +19637,7 @@ vkcdnservice.appspot.com^
 ||nv3tosjqd.com^
 ||nvane.com^
 ||nvjgmugfqmffbgk.xyz^
+||nvlcnvyqvpjppi.xyz^
 ||nvtvssczb.com^
 ||nvuwqcfdux.xyz^
 ||nvzaezebhow.com^
@@ -20194,6 +20196,7 @@ vkcdnservice.appspot.com^
 ||onmanectrictor.com^
 ||onmantineer.com^
 ||onmarshtompor.com^
+||onoamoutsaitsy.net^
 ||onpluslean.com^
 ||onpsrrejx.com^
 ||onraltstor.com^
@@ -43850,7 +43853,6 @@ inapps.appsflyersdk.com^
 ||wds.weqs.me^
 ||web-tracker.smsbump.com^
 ||web1.51.la^
-||webcare.byside.com^
 ||webservices.websitepros.com^
 ||webstats.thaindian.com^
 ||webtracker.apicasystem.com^
@@ -55079,6 +55081,8 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||whrwlxg.icu^
+||bdawrsi.icu^
 ||mzpecui.icu^
 ||chmueyv.icu^
 ||kemmars.com^
@@ -60928,8 +60932,6 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter ad servers
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 !
-||mobon.net^
-||nhnace.com^
 ||middlepoint.co.kr^
 ||authanalysis.com^
 ||planmix.co.kr^
@@ -60942,6 +60944,7 @@ analytics-*.aasaam.com
 ||quantserve.com^
 ||marketingking.co.kr^
 ||catad5959.com^
+||mobon.net^
 ||thetopic.co.kr^
 ||msadsense.com^
 ||tadapi.info^
@@ -60983,6 +60986,7 @@ analytics-*.aasaam.com
 ||sv.govkorea24.com^
 ||static.bidrich.com^
 ||ad.tpmn.io^
+||cdn.nhnace.com^
 ||d23poh9wsma6va.cloudfront.net^
 ||ad1.missyusa.com^
 ||ads.motorgraph.com^
