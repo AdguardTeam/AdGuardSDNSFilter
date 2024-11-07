@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-07T00:03:06.651Z
+! Last modified: 2024-11-07T06:01:30.759Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -249,6 +249,7 @@
 ||alpenridge.top^$dnsrewrite=ad-block.dns.adguard.com
 ||alpine-vpn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||amnioteunteem.click^$dnsrewrite=ad-block.dns.adguard.com
+||amusementchillyforce.com^$dnsrewrite=ad-block.dns.adguard.com
 ||anacampaign.com^$dnsrewrite=ad-block.dns.adguard.com
 ||aneorwd.com^$dnsrewrite=ad-block.dns.adguard.com
 ||antaresarcturus.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -356,6 +357,7 @@
 ||degradationtransaction.com^$dnsrewrite=ad-block.dns.adguard.com
 ||delfsrld.click^$dnsrewrite=ad-block.dns.adguard.com
 ||deluxe-download.com^$dnsrewrite=ad-block.dns.adguard.com
+||demowebcode.online^$dnsrewrite=ad-block.dns.adguard.com
 ||di7stero.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dianomi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dipusdream.com^$dnsrewrite=ad-block.dns.adguard.com
