@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-07T12:01:20.635Z
+! Last modified: 2024-11-07T18:01:21.492Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||qkyojtlabrhy.com^
 ||neat-period.com^
 ||punctual-window.com^
 ||gtyjpiobza.com^
@@ -37042,6 +37043,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||api.amplitudeexperiment.com^
 ||analytics.ahrefs.
 ||montelena.gmarket.co.kr^
 ||stats.hitwebcloud.de^
@@ -44341,6 +44343,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||kops1.site^
 ||kingbaba.org^
 ||yelads2.life^
 ||dizimax2.com^
@@ -52306,6 +52309,7 @@ inapps.appsflyersdk.com^
 ||ipyhf.icu^
 ||cruhut.com^
 ||scoldak.com^
+||dkasffredf.xyz^
 ||stragmik.com^
 ||yxrmbjw.icu^
 ||gnyuhzd.icu^
