@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-18T13:14:52.405Z
+! Last modified: 2024-11-18T16:39:18.142Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4572,6 +4572,7 @@ vkcdnservice.appspot.com^
 ||avgads.space^
 ||avgive3431.fun^
 ||avhduwvirosl.com^
+||avhjzemp.com^
 ||avhtaapxml.com^
 ||aviatedrasure.top^
 ||aviationbe.com^
@@ -5216,6 +5217,7 @@ vkcdnservice.appspot.com^
 ||besidesparties.com^
 ||beskittyan.com^
 ||besmeargleor.com^
+||best-girls-around.com^
 ||best-offer-for-you.com^
 ||best-prize.life^
 ||best-protection4.me^
@@ -12197,6 +12199,7 @@ vkcdnservice.appspot.com^
 ||gomain.pro^
 ||gomain2.pro^
 ||gomnlt.com^
+||gomucreu.com^
 ||gonairoomsoo.xyz^
 ||goneawaytogy.info^
 ||gonoushauw.net^
@@ -12282,6 +12285,7 @@ vkcdnservice.appspot.com^
 ||gqfuf.com^
 ||gqjdweqs.com^
 ||gqjeqaqrxexmd.com^
+||gquwuefddojikxo.xyz^
 ||gr3hjjj.pics^
 ||graboverhead.com^
 ||gracefullisten.pro^
@@ -14906,6 +14910,7 @@ vkcdnservice.appspot.com^
 ||jxvilsjyrh.com^
 ||jxxnnhdgbfo.xyz^
 ||jxybgyu.com^
+||jybaekajjmqrz.top^
 ||jycrjkuspyv.fun^
 ||jyfirjqojg.xyz^
 ||jygcv.sbs^
@@ -17289,6 +17294,7 @@ vkcdnservice.appspot.com^
 ||moonrocketaffiliates.com^
 ||moonvids.online^
 ||moonvids.space^
+||mooptoasinudy.net^
 ||mooroore.xyz^
 ||mootermedia.com^
 ||mooxar.com^
@@ -19258,6 +19264,7 @@ vkcdnservice.appspot.com^
 ||outhulem.net^
 ||outkisslahuli.com^
 ||outlayomnipresentdream.com^
+||outlayreliancevine.com^
 ||outlineappearbar.com^
 ||outloginequity.com^
 ||outlookabsorb.com^
@@ -24545,6 +24552,7 @@ vkcdnservice.appspot.com^
 ||sptrkr.com^
 ||spuezain.com^
 ||spuncomplaintsapartment.com^
+||spunorientation.com^
 ||spuppeh.com^
 ||spurproteinopaque.com^
 ||spurryalgoid.top^
@@ -24723,6 +24731,7 @@ vkcdnservice.appspot.com^
 ||steeplederivedinattentive.com^
 ||steeplesaturday.com^
 ||steepto.com^
+||steepuleltou.xyz^
 ||steeringsunshine.com^
 ||steesamax.com^
 ||steessay.com^
@@ -33789,6 +33798,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||cts.vresp.com^
 ||logs.chatboost-cv.algoage.co.jp^
 ||p7cloud.net^
 ||kobel.services^
@@ -35741,7 +35751,6 @@ vkcdnservice.appspot.com^
 ||crwdcntrl.net^
 ||csdata1.com^
 ||cuntador.com^
-||curalate.com^
 ||customerconversio.com^
 ||cya1t.net^
 ||cya2.net^
@@ -40189,6 +40198,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||log.heartratepros.com^
 ||hw-sh-pcdn-*.biliapi.net^
 ||ali-bj-pcdn-*.biliapi.net^
 ||tatrack.thinkyeah.com^
@@ -41052,7 +41062,6 @@ inapps.appsflyersdk.com^
 ||ct.itbusinessedge.com^
 ||ct.thegear-box.com^
 ||cts.businesswire.com^
-||cts.vresp.com^
 ||curated.fieldtest.cc^
 ||customfingerprints.bablosoft.com^
 ||d.shareaholic.com^
@@ -42623,6 +42632,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||hfnuqljjnt.com^
 ||broredir*s.site^
 ||hhbehcahhajfffciaaef.world^
 ||suprion.ru^
@@ -52855,11 +52865,14 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||yrccils0spqnkc3.xyz^
+||z9uvpwarkk1mnpf.xyz^
 ||wsgnihbh.icu^
 ||iflucav.icu^
 ||ao1118kas.top^
 ||mhwy6.icu^
 ||uweisit.top^
+||oweisik.top^
 ||mlgowell.org^
 ||ge189.com^
 ||usgowell.com^
