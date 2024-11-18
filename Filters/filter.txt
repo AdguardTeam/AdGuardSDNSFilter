@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-18T12:01:27.101Z
+! Last modified: 2024-11-18T13:14:52.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -45976,7 +45976,6 @@ inapps.appsflyersdk.com^
 ||marketing-profis.net^
 ||maxi-ad.de^
 ||maxiad.de^
-||media-guides.de^
 ||mega-ad.de^
 ||megawerbung.de^
 ||mename.de^
@@ -59265,6 +59264,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1784
+@@||action.metaffiliation.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1773
 ! Blocked by CNAME s1search.co
 @@||www.dogpile.com^|
