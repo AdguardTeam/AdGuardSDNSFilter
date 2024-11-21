@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-20T18:01:39.525Z
+! Last modified: 2024-11-21T00:03:23.546Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -38190,6 +38190,7 @@ vkcdnservice.appspot.com^
 ||mcs-sg.tiktok.com^
 ||mssdk.bytedance.com^
 ||mssdk-sg.tiktok.com^
+||mssdk-*.tiktokw.us^
 ||mssdk-sg.byteoversea.com^
 ||tracker.smartseminar.jp^
 ||tracker.shanon-services.com^
@@ -41590,6 +41591,7 @@ inapps.appsflyersdk.com^
 ||tracker.myyschool.xyz^
 ||tracker.nocodelytics.com^
 ||tracker.novage.com.ua^
+||tracker.prod.ams3.k8s.hyperia.sk^
 ||tracker.services.vaix.ai^
 ||tracker.smartframe.io^
 ||tracker.ssl0d.com^
@@ -41841,6 +41843,7 @@ inapps.appsflyersdk.com^
 ||haymarketstat.de^
 ||hstrck.com^
 ||htm1.ch^
+||imcounter.com^
 ||ingenioustech.biz^
 ||ioam.de^
 ||lokalleads-cci.com^
@@ -52953,6 +52956,10 @@ inapps.appsflyersdk.com^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||nois5gj.xyz^
+||qhestrad.com^
+||vkbxaixl.icu^
+||daiitmk.cn^
+||syfgtby.cn^
 ||ilzies.com^
 ||cdlekgr.icu^
 ||cxvyk.com^
