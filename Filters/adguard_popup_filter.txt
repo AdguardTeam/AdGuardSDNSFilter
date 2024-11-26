@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-26T00:03:33.828Z
+! Last modified: 2024-11-26T06:01:23.980Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -474,7 +474,6 @@
 ||hugeedate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||icetechus.com^$dnsrewrite=ad-block.dns.adguard.com
 ||icubeswire.co^$dnsrewrite=ad-block.dns.adguard.com
-||ifsnickshriek.click^$dnsrewrite=ad-block.dns.adguard.com
 ||iginnis.site^$dnsrewrite=ad-block.dns.adguard.com
 ||ignals.com^$dnsrewrite=ad-block.dns.adguard.com
 ||improvebin.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -775,7 +774,6 @@
 ||traffoxx.uk^$dnsrewrite=ad-block.dns.adguard.com
 ||trckswrm.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trk72.com^$dnsrewrite=ad-block.dns.adguard.com
-||trkingthebest.net^$dnsrewrite=ad-block.dns.adguard.com
 ||trkless.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trknext.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trksmorestreacking.com^$dnsrewrite=ad-block.dns.adguard.com
