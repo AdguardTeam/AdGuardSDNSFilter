@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-11T18:01:36.128Z
+! Last modified: 2024-12-12T00:03:21.752Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -20637,6 +20637,7 @@ vkcdnservice.appspot.com^
 ||protectorincorporatehush.com^
 ||protectyourdevices.com^
 ||proteinfrivolousfertilised.com^
+||proteininnovationpioneer.com^
 ||protestgrove.com^
 ||protoawe.com^
 ||protocolgroupgroups.com^
@@ -21361,6 +21362,7 @@ vkcdnservice.appspot.com^
 ||quotumottetto.shop^
 ||quqliodl.com^
 ||qutejo.xyz^
+||quwsncrlcwjpj.com^
 ||quxsiraqxla.com^
 ||quxwpwcwmmx.xyz^
 ||quytsyru.com^
@@ -21593,6 +21595,7 @@ vkcdnservice.appspot.com^
 ||rdrtrk.com^
 ||rdsb2.club^
 ||rdtk.io^
+||rdtlnutu.com^
 ||rdtracer.com^
 ||rdtrck2.com^
 ||rdwmct.com^
@@ -37107,6 +37110,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||profile-api.amplitude.com^
 ||f793.inc.com^
 ||mytop.live.vkvideo.ru^
 ||f703.twincities.com^
@@ -41991,6 +41995,7 @@ inapps.appsflyersdk.com^
 ||statistic.audima.co^
 ||stats.gridmidia.com.br^
 ||tags.cmp.tail.digital^
+||tiktok.tray.com.br^
 ||track.zapimoveis.com.br^
 ||tracker.tolvnow.com^
 ||visit-prod-us.occa.ocs.oraclecloud.com^
@@ -52478,6 +52483,8 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||neldatsy.com^
+||yqlzccxn.icu^
 ||altolsqy.com^
 ||fkjdiefz.icu^
 ||x4d.icu^
