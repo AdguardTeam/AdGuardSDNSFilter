@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-15T00:04:08.586Z
+! Last modified: 2024-12-15T06:01:25.316Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1319,6 +1319,7 @@
 ||infossztech.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||investing1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jewhouca.net^$dnsrewrite=ad-block.dns.adguard.com
+||karissavip.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ladsats.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lenzmx.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lightrdr.best^$dnsrewrite=ad-block.dns.adguard.com
@@ -1399,6 +1400,7 @@
 ||xtraserp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xu2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||yggtorrent.com^$dnsrewrite=ad-block.dns.adguard.com
+||ztdog.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ad.adriver.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||ad.apps.fm^$dnsrewrite=ad-block.dns.adguard.com
 ||altusmediagroupinc.go2cloud.org^$dnsrewrite=ad-block.dns.adguard.com
