@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-20T18:01:24.516Z
+! Last modified: 2024-12-21T00:03:12.297Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12022,6 +12022,7 @@ vkcdnservice.appspot.com^
 ||grashaksoudry.net^
 ||grasshusk.com^
 ||grasutie.net^
+||gratataxis.shop^
 ||graterpatent.com^
 ||gratertwentieth.com^
 ||gratificationdesperate.com^
@@ -38953,7 +38954,6 @@ vkcdnservice.appspot.com^
 ||tracking.thehut.net^
 ||tracking.tidalhifi.com^
 ||tracking.times247.com^
-||tracking.tomshardware.co.uk^
 ||tracking.ukwm.co.uk^
 ||tracking.unrealengine.com^
 ||tracking.yourfilehost.com^
@@ -52081,6 +52081,8 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||rktjxj.icu^
+||orodsmnu.com^
 ||grmzwc.icu^
 ||ppio12200ios.top^
 ||ondraits.com^
