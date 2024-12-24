@@ -3,20 +3,11 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-24T12:01:34.096Z
+! Last modified: 2024-12-24T18:01:27.480Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 ||predictivadnetwork.com^$dnsrewrite=ad-block.dns.adguard.com
-||nearkillgift.life^$dnsrewrite=ad-block.dns.adguard.com
-||cbro.win^$dnsrewrite=ad-block.dns.adguard.com
-||punctual-window.com^$dnsrewrite=ad-block.dns.adguard.com
-||synchroparomologyauditable.monster^$dnsrewrite=ad-block.dns.adguard.com
-||webfreesave.monster^$dnsrewrite=ad-block.dns.adguard.com
-||senditfast.cloud^$dnsrewrite=ad-block.dns.adguard.com
-||quickshare.cfd^$dnsrewrite=ad-block.dns.adguard.com
-||zipitnow.cfd^$dnsrewrite=ad-block.dns.adguard.com
-||filerocket.link^$dnsrewrite=ad-block.dns.adguard.com
 ||tracking.pretrackings.com^$dnsrewrite=ad-block.dns.adguard.com
 ||my.toruftuiov.com^$dnsrewrite=ad-block.dns.adguard.com
 ||esvpnjdntgr.com^$dnsrewrite=ad-block.dns.adguard.com
