@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-26T18:01:34.145Z
+! Last modified: 2024-12-27T00:03:23.315Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -33077,6 +33077,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||k-words.io^
+||tlmtr.org^
 ||sentinelbi.com^
 ||ascendeummedia.com^
 ||agma-analytics.de^
@@ -42276,6 +42278,7 @@ inapps.appsflyersdk.com^
 ||adwile.com^
 ||mpuls.ru^
 ||newseek.org^
+.infox.sg^
 ||sv-pr.ru^
 ||svitnews.com^
 ||ferdarius.com^
@@ -52360,6 +52363,8 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||ncvwnp.icu^
+||sachaits.com^
 ||pzzedx.icu^
 ||owilmik.top^
 ||jy7.icu^
@@ -56313,6 +56318,7 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||a1.cyyangqiguan.com^
 ||jbdch1.appmobile.cn^
 ||lcd.aivote.com^
 ||cnbd1.appmobile.cn^
@@ -56445,7 +56451,6 @@ inapps.appsflyersdk.com^
 ||a.qinghua5.com^
 ||a.qncye.net^
 ||a.qsjiajiao.com^
-||a.quangushi.com^
 ||a.qunzou.com^
 ||a.rensheng5.com^
 ||a.shenchuang.com^
