@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-02T06:01:20.861Z
+! Last modified: 2025-01-02T12:01:27.738Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||tzegilo.com^
 ||expensivefire.com^
 ||hellerraucous.top^
 ||jhu8u9.pro^
@@ -26205,7 +26206,6 @@ vkcdnservice.appspot.com^
 ||tyuimln.net^
 ||tzaho.com^
 ||tzaqkp.com^
-||tzegilo.com^
 ||tzuhumrwypw.com^
 ||tzvpn.site^
 ||u-oxmzhuo.tech^
@@ -44493,6 +44493,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||ds.macellan.online^
 ||kops1.site^
 ||kingbaba.org^
 ||yelads2.life^
@@ -52483,6 +52484,8 @@ inapps.appsflyersdk.com^
 ||1tv.icu^
 ||uclimit.top^
 ||okpp01021.xyz^
+||xxss6677.com^
+||94x.icu^
 ||qeknikny.com^
 ||nnfbxz.icu^
 ||gmso01010oka.top^
