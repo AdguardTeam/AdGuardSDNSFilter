@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-02T12:01:30.427Z
+! Last modified: 2025-01-02T15:29:31.027Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1448,7 +1448,6 @@
 ||aopxnvrugx.com^$dnsrewrite=ad-block.dns.adguard.com
 ||auredzeon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bcajjtbzmdrl.com^$dnsrewrite=ad-block.dns.adguard.com
-||chitchooms.net^$dnsrewrite=ad-block.dns.adguard.com
 ||chqspuonctkgz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||d72gb9oukw3j.com^$dnsrewrite=ad-block.dns.adguard.com
 ||daero.pw^$dnsrewrite=ad-block.dns.adguard.com
@@ -1475,7 +1474,6 @@
 ||misxgkvnlf.com^$dnsrewrite=ad-block.dns.adguard.com
 ||motosal.net^$dnsrewrite=ad-block.dns.adguard.com
 ||naetoris.pw^$dnsrewrite=ad-block.dns.adguard.com
-||olenation.org^$dnsrewrite=ad-block.dns.adguard.com
 ||olkrzytv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||olmsoneenh.info^$dnsrewrite=ad-block.dns.adguard.com
 ||pheersie.com^$dnsrewrite=ad-block.dns.adguard.com
