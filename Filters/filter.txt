@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-04T18:01:17.659Z
+! Last modified: 2025-01-05T00:03:25.656Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -37071,6 +37071,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||intake-analytics.wikimedia.org^
 ||lgforbes.akamaized.net^
 ||event.wondershare.com^
 ||collector.abc.net.au^
@@ -37925,7 +37926,6 @@ vkcdnservice.appspot.com^
 ||track-srv.vietnamnet.vn^
 ||stats.zone-telechargement.
 ||stats.tirexo.blue^
-||intake-analytics.wikimedia.org^
 ||tracking.univtec.com^
 ||counter.sberbank.ru^
 ||mxpl.9gag.com^
@@ -39797,6 +39797,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||collect.4gtv.tv^
+||uaid.vtwenty.com^
 ||telemetry.codefusion.technology^
 ||events.watchtower.imdbtv.amazon.dev^
 ||mobile-production.content-square.net^
@@ -52553,6 +52555,8 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||lirretsn.com^
+||nmzbrd.icu^
 ||airakgyl.com^
 ||scjtfh.xyz^
 ||cdyurlif.top^
