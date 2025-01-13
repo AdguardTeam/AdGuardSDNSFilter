@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-13T12:01:39.848Z
+! Last modified: 2025-01-13T13:22:53.516Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -927,6 +927,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||sponsors.salesforceben.com^
 ||ads.cloudsight.ai^
 ||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||openx.tiesraides.lv^
@@ -58212,9 +58213,13 @@ analytics-*.aasaam.com
 @@||acs-m.daraz.com.bd^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1768
 @@||f-gear.ec-optimizer.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1765
+!
 ! Blocked by CNAME unbouncepages.com
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1765
 @@||hidive.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1817
+@@||learn.khanacademy.org^|
+!
 ! https://github.com/AdguardTeam/AdguardFilters/issues/187801
 @@||res.ads.nicovideo.jp^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1720
