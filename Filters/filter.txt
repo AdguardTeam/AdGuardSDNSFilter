@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-12T18:01:12.481Z
+! Last modified: 2025-01-13T00:03:29.518Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -29487,7 +29487,6 @@ vkcdnservice.appspot.com^
 ||adisfy.com^
 ||adisn.com^
 ||adit-media.com^
-||adition.com^
 ||aditize.com^
 ||aditude.io^
 ||adjal.com^
@@ -33092,6 +33091,7 @@ vkcdnservice.appspot.com^
 ||adhood.com^
 ||adinfo.tango.me^
 ||adinfuse.com^
+||adition.com^
 ||adkmob.com^
 ||adleads.com^
 ||adlibr.com^
@@ -44524,6 +44524,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||ad.cub.red^
 ||vst.videolink.host^
 ||exad.smi2.ru^
 ||tgb.hsmedia.ru^
@@ -52711,6 +52712,10 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||nxdefd.icu^
+||thonkoirs.com^
+||vftrfmia.icu^
+||hdomsiu.top^
 ||tndbnriz.icu^
 ||eisnaisv.com^
 ||puhmtt.icu^
