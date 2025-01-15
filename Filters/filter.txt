@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-15T12:01:25.103Z
+! Last modified: 2025-01-15T18:01:14.666Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -33477,6 +33477,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||log-auth.zztfly.com^
 ||adsave.co^
 ||analytics.bitchute.com^
 ||actiontracking.jp^
@@ -37295,6 +37296,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||s.c-ctrip.com^
+||ma-adx.ctrip.com^
 ||logs.mezmo.com^
 ||acr-*-prd.samsungcloud.tv^
 ||publictelemetry.tophat.com^
@@ -40033,6 +40036,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||tp2p.kg.qq.com^
+||twns.p2ptun.qq.com^
 ||nstool.netease.com^
 ||data.kuiniuca.com^
 ||clientlogsf.music.163.com^
@@ -52819,6 +52824,7 @@ inapps.appsflyersdk.com^
 ||btcili.top^
 ||04o.fun^
 ||nagvaxvy.com^
+||epxlt.xyz^
 ||lazzrv.icu^
 ||geinkroll.com^
 ||wusfa.xyz^
