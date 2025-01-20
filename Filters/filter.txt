@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-20T06:01:29.562Z
+! Last modified: 2025-01-20T12:01:31.557Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -21827,6 +21827,7 @@ vkcdnservice.appspot.com^
 ||reddockbedman.com^
 ||redeemforest.com^
 ||redetaailshiletteri.com^
+||redexamination.com^
 ||redfootcoclea.shop^
 ||redheadinfluencedchill.com^
 ||redheadpublicityjug.com^
@@ -29540,7 +29541,9 @@ vkcdnservice.appspot.com^
 ||try.opera.com^
 ||visualmirage.co^
 ||vpn-offers.org^
+||xml-v4.lensgard-3.online^
 ||xstalkx.ru^
+||zavirand.com^
 ! Third-party
 ||123date.me^
 ||2beon.co.kr^
@@ -33558,6 +33561,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||obseu.netgreencolumn.com^
 ||sygrip.info^
 ||log-auth.zztfly.com^
 ||adsave.co^
@@ -37379,6 +37383,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||clickstream-*.homedepot.com^
+||mr.homedepot.com^
 ||frontend-logger.flippback.com^
 ||analytics.nike.com^
 ||hikari.jiocinema.com^
@@ -52928,6 +52934,9 @@ inapps.appsflyersdk.com^
 ||ccokamif.top^
 ||saelphol.com^
 ||pfbmht.icu^
+||31y.fun^
+||hcokamiu.top^
+||sterkisg.com^
 ||lagzoids.com^
 ||njnhzh.icu^
 ||8u0.fun^
