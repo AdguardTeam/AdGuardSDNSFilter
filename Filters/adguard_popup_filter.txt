@@ -3,10 +3,11 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-28T12:01:32.000Z
+! Last modified: 2025-01-28T18:01:35.791Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
+||land.izuchai.dance^$dnsrewrite=ad-block.dns.adguard.com
 ||wobbly-birth.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pinco225.win^$dnsrewrite=ad-block.dns.adguard.com
 ||shortterm-damage^$dnsrewrite=ad-block.dns.adguard.com
