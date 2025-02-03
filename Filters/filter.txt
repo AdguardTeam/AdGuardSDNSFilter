@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-02T18:01:26.210Z
+! Last modified: 2025-02-03T00:03:19.729Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -6020,7 +6020,6 @@ vkcdnservice.appspot.com^
 ||bulky-battle.com^
 ||bulkyfriend.com^
 ||bull3t.co^
-||bullads.net^
 ||bulletinwarmingtattoo.com^
 ||bulletproxy.ch^
 ||bullfeeding.com^
@@ -37830,6 +37829,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||mega.mydealz.de^
 ||log-upload-os.hoyolab.com^
 ||log-upload-os.hoyoverse.com^
 ||analytics.avcdn.net^
@@ -53336,6 +53336,9 @@ inapps.appsflyersdk.com^
 ||rrxapb.icu^
 ||zkdefuiz.icu^
 ||gumnus.com^
+||krirkroins.com^
+||xutvbt.icu^
+||bctuapia.icu^
 ||tbbfdr.icu^
 ||oveakmqk.com^
 ||lsxvnzif.icu^
