@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-11T06:01:23.517Z
+! Last modified: 2025-02-11T12:01:37.508Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -474,7 +474,6 @@
 ||hoglinsu.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hoktrips.com^$dnsrewrite=ad-block.dns.adguard.com
 ||holdhostel.space^$dnsrewrite=ad-block.dns.adguard.com
-||hoofedpazend.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||hospitalsky.online^$dnsrewrite=ad-block.dns.adguard.com
 ||host-relendbrowseprelend.info^$dnsrewrite=ad-block.dns.adguard.com
 ||hubrisone.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -863,7 +862,6 @@
 ||xdownloadright.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xlivrdr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xml-clickurl.com^$dnsrewrite=ad-block.dns.adguard.com
-||xml-v4.lensgard-3.online^$dnsrewrite=ad-block.dns.adguard.com
 ||xoilactv123.gdn^$dnsrewrite=ad-block.dns.adguard.com
 ||xoilactvcj.cc^$dnsrewrite=ad-block.dns.adguard.com
 ||xstalkx.ru^$dnsrewrite=ad-block.dns.adguard.com
