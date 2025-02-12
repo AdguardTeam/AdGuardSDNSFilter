@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-11T18:01:23.298Z
+! Last modified: 2025-02-12T00:03:18.671Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -16540,6 +16540,7 @@ vkcdnservice.appspot.com^
 ||masculineillness.com^
 ||masklink.org^
 ||masonopen.com^
+||masonrycruor.shop^
 ||masqueradeentrustveneering.com^
 ||masqueradethousand.com^
 ||massacreintentionalmemorize.com^
@@ -33800,6 +33801,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||analytics.viture.dev^
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
 ||squeezely.tech^
@@ -37645,6 +37647,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||inf.miui.com^
 ||q.quora.com^
 ||mssdk*.capcutapi.com^
 ||evts.ecocart.io^
@@ -40434,6 +40437,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||log.ultimatecleaner.pro^
 ||impression.link^
 ||rm.aarki.net^
 ||use-cr.svr-algorix.com^
@@ -53157,6 +53161,9 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||traukvan.com^
+||20wx.com^
+||vitqzd.icu^
 ||fuuksew.com^
 ||xfxvpt.icu^
 ||s31u.com^
