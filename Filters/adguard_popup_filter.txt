@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-19T00:03:10.209Z
+! Last modified: 2025-02-19T06:01:31.780Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -482,7 +482,6 @@
 ||hetapus.com^$dnsrewrite=ad-block.dns.adguard.com
 ||heweop.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hfr67jhqrw8.com^$dnsrewrite=ad-block.dns.adguard.com
-||hhju87yhn7.top^$dnsrewrite=ad-block.dns.adguard.com
 ||highcpmgate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hiiona.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hilarioustasting.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -773,7 +772,6 @@
 ||srvpcn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srvqck3.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srvtrck.com^$dnsrewrite=ad-block.dns.adguard.com
-||starchoice-1.online^$dnsrewrite=ad-block.dns.adguard.com
 ||stellarmingle.store^$dnsrewrite=ad-block.dns.adguard.com
 ||streameventzone.com^$dnsrewrite=ad-block.dns.adguard.com
 ||strtgic.com^$dnsrewrite=ad-block.dns.adguard.com
