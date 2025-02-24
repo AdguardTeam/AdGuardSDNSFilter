@@ -274,7 +274,7 @@
     {
       "name": "EasyList Hebrew ad servers",
       "source": "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/adguard_hosts.txt",
-      "type": "hosts",
+      "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate", "Compress"]
     },
