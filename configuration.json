@@ -274,9 +274,9 @@
     {
       "name": "EasyList Hebrew ad servers",
       "source": "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/adguard_hosts.txt",
-      "type": "adblock",
+      "type": "hosts",
       "exclusions_sources": ["Filters/exclusions.txt"],
-      "transformations": ["RemoveModifiers", "Validate"]
+      "transformations": ["RemoveModifiers", "Validate", "Compress"]
     },
     {
       "name": "Frellwits Swedish Filter",
