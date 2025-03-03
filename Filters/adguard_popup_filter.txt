@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-03T06:01:34.858Z
+! Last modified: 2025-03-03T12:01:37.941Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -286,6 +286,7 @@
 ||awesomeprizedrive.co^$dnsrewrite=ad-block.dns.adguard.com
 ||axlikeoedipus.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||ayga.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||bahirasentto.top^$dnsrewrite=ad-block.dns.adguard.com
 ||bakabok.com^$dnsrewrite=ad-block.dns.adguard.com
 ||baldo-toj.com^$dnsrewrite=ad-block.dns.adguard.com
 ||baseauthenticity.co.in^$dnsrewrite=ad-block.dns.adguard.com
@@ -386,6 +387,7 @@
 ||delfsrld.click^$dnsrewrite=ad-block.dns.adguard.com
 ||deluxe-download.com^$dnsrewrite=ad-block.dns.adguard.com
 ||demowebcode.online^$dnsrewrite=ad-block.dns.adguard.com
+||detailsallaround.org^$dnsrewrite=ad-block.dns.adguard.com
 ||di7stero.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dianomi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dipusdream.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -691,6 +693,7 @@
 ||paehceman.com^$dnsrewrite=ad-block.dns.adguard.com
 ||paid.outbrain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pamwrymm.live^$dnsrewrite=ad-block.dns.adguard.com
+||paraodriki.com^$dnsrewrite=ad-block.dns.adguard.com
 ||parturemv.top^$dnsrewrite=ad-block.dns.adguard.com
 ||paulastroid.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pemsrv.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -858,6 +861,7 @@
 ||track.afrsportsbetting.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tracker-2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tracker-tds.info^$dnsrewrite=ad-block.dns.adguard.com
+||tracking-aws-5.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tracking.injoyalot.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trackingtraffo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tracktds.live^$dnsrewrite=ad-block.dns.adguard.com
@@ -872,6 +876,8 @@
 ||trkred.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trksmorestreacking.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trpool.org^$dnsrewrite=ad-block.dns.adguard.com
+||trumppig.work^$dnsrewrite=ad-block.dns.adguard.com
+||trumpsupport.help^$dnsrewrite=ad-block.dns.adguard.com
 ||try.opera.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tsyndicate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tt-px.com^$dnsrewrite=ad-block.dns.adguard.com
