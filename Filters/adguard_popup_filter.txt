@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-06T00:03:22.668Z
+! Last modified: 2025-03-06T06:01:34.014Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1366,6 +1366,7 @@
 ||producebreed.com^$dnsrewrite=ad-block.dns.adguard.com
 ||profitablecpmnetwork.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ptapjmp.com^$dnsrewrite=ad-block.dns.adguard.com
+||pulseadnetwork.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rencontreadultere.club^$dnsrewrite=ad-block.dns.adguard.com
 ||routinato.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||rtbbonline.com^$dnsrewrite=ad-block.dns.adguard.com
