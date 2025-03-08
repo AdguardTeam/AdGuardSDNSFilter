@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-08T06:01:43.193Z
+! Last modified: 2025-03-08T12:01:32.813Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -28,8 +28,6 @@
 ||directsnap.click^$dnsrewrite=ad-block.dns.adguard.com
 ||land.izuchai.dance^$dnsrewrite=ad-block.dns.adguard.com
 ||wobbly-birth.com^$dnsrewrite=ad-block.dns.adguard.com
-||pinco225.win^$dnsrewrite=ad-block.dns.adguard.com
-||shortterm-damage^$dnsrewrite=ad-block.dns.adguard.com
 ||bjjky.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||movies-watch-time.club^$dnsrewrite=ad-block.dns.adguard.com
 ||jhu8u9.pro^$dnsrewrite=ad-block.dns.adguard.com
@@ -180,7 +178,6 @@
 ||go.ero-advertising.com^$dnsrewrite=ad-block.dns.adguard.com
 ||z.cdn.braun634.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ext.movixhub.com^$dnsrewrite=ad-block.dns.adguard.com
-||go.onclasrv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||kms-full.com^$dnsrewrite=ad-block.dns.adguard.com
 ||Kmspico.io^$dnsrewrite=ad-block.dns.adguard.com
 ||kms-tool.com^$dnsrewrite=ad-block.dns.adguard.com
