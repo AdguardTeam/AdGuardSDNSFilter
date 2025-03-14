@@ -1,5 +1,8 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/199304
 @@||ap01.records.in.treasuredata.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1840
+! Blocked by EasyList's `||23.109.82.`
+@@||click.avs.io^|
 ! Link redirector - https://www.mydealz.de/visit/threadimg/2512771
 @@||link.sylikes.com^|
 @@||rd.bizrate.com^|
