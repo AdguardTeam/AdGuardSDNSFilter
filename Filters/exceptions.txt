@@ -1,3 +1,6 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/200033
+! Blocked by CNAME oasjs.kataweb.it
+@@||tlh.gedidigital.it^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1854
 ! Blocked by CNAME tracking.socketlabs.com
 @@||smtp.focusgroupresearch.com^|
