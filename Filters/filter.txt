@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-20T18:01:53.854Z
+! Last modified: 2025-03-21T00:03:32.108Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -36967,6 +36967,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||install*.zonastat.com^
 ||tags.pw.adn.cloud^
 ||api-notify.markarch.com^
 ||venatusmedia.com^
@@ -38352,6 +38353,7 @@ vkcdnservice.appspot.com^
 ||amc.yandex.ru^
 ||mc.yandex.ru^
 ||mc.yandex.com^
+||mc.yandex.md^
 ||track.segmentstream.com^
 ||vboro.de^
 ||barddfvgkhctch11.ru^
@@ -89904,6 +89906,7 @@ inapps.appsflyersdk.com^
 ||x.weather.com^
 ||xp2023-pix.s3.amazonaws.com^
 ||yoast-schema-graph.com^
+||yotrack.cdn.ybn.io^
 ! https://d3ward.github.io/toolz/adblock.html
 ||adsdk.yandex.ru^
 ||analytics.samsungknox.com^
@@ -101098,6 +101101,7 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||feernhuhe.com^
 ||spkh.cn^
 ||sodenneyg.com^
 ||zqntbc.top^
