@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-27T18:01:31.183Z
+! Last modified: 2025-03-28T00:03:33.545Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -19073,6 +19073,7 @@ vkcdnservice.appspot.com^
 ||kfeuewvbd.com^
 ||kffxyakqgbprk.xyz^
 ||kfjhd.com^
+||kflhwntytom.com^
 ||kfngvuu.com^
 ||kgdjphtbp.xyz^
 ||kgdvs9ov3l2aasw4nuts.com^
@@ -20578,6 +20579,7 @@ vkcdnservice.appspot.com^
 ||massesnieces.com^
 ||massifbramble.com^
 ||massiveanalyticssys.net^
+||massivebelieved.com^
 ||massivetreadsuperior.com^
 ||massiveunnecessarygram.com^
 ||mastinstungmoreal.com^
@@ -23098,6 +23100,7 @@ vkcdnservice.appspot.com^
 ||outfoxnapalms.com^
 ||outgratingknack.com^
 ||outhaushauviy.xyz^
+||outheelrelict.com^
 ||outhulem.net^
 ||outkisslahuli.com^
 ||outlayomnipresentdream.com^
@@ -31177,6 +31180,7 @@ vkcdnservice.appspot.com^
 ||vkebctjkr.com^
 ||vkgtrack.com^
 ||vkhrhbjsnypu.com^
+||vkmlabrjpppd.com^
 ||vknrfwwxhxaxupqp.pro^
 ||vkv2nodv.xyz^
 ||vlctorytime.net^
@@ -31290,6 +31294,7 @@ vkcdnservice.appspot.com^
 ||vpydjogaytpg.xyz^
 ||vqfumxea.com^
 ||vqonjcnsl.com^
+||vqrozzojjlwbz.top^
 ||vrcvuqtijiwgemi.com^
 ||vrfuznaicvxaj.life^
 ||vrgvugostlyhewo.info^
@@ -34631,6 +34636,7 @@ vkcdnservice.appspot.com^
 ||cdn.b2.ai^
 ||cdn22904910.ahacdn.me^
 ||cdn54405831.ahacdn.me^
+||cdn83753766.ahacdn.me^
 ||chandrabinduad.com^
 ||chicoryapp.com^
 ||cl-997764a8.gcdn.co^
@@ -89189,6 +89195,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||ulogs*.gifshow.com^
+||logapi-and.zhipin.com^
 ||hilton.data.adobedc.net^
 ||asanalytics.booking.com^
 ||counters.booking.com^
@@ -101872,6 +101880,7 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||eildralfl.com^
 ||vraataidz.com^
 ||fqnojp.top^
 ||wnvu.cn^
