@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-30T18:01:34.108Z
+! Last modified: 2025-03-31T00:04:23.319Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1439,29 +1439,19 @@
 ||auredzeon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bcajjtbzmdrl.com^$dnsrewrite=ad-block.dns.adguard.com
 ||chqspuonctkgz.com^$dnsrewrite=ad-block.dns.adguard.com
-||d72gb9oukw3j.com^$dnsrewrite=ad-block.dns.adguard.com
 ||daero.pw^$dnsrewrite=ad-block.dns.adguard.com
 ||dairouzy.net^$dnsrewrite=ad-block.dns.adguard.com
-||e7393e33565ce805.com^$dnsrewrite=ad-block.dns.adguard.com
-||epfcfhtjxqd.com^$dnsrewrite=ad-block.dns.adguard.com
-||fkglkpkgkduh.top^$dnsrewrite=ad-block.dns.adguard.com
-||fnkyyrgraizy.com^$dnsrewrite=ad-block.dns.adguard.com
-||frpiksdeygy.com^$dnsrewrite=ad-block.dns.adguard.com
-||fryruejoust.cam^$dnsrewrite=ad-block.dns.adguard.com
 ||furocmay.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gbrrrxbodqdlq.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hegarberetrof.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||hoegutvie.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ihqfiimrbcf.com^$dnsrewrite=ad-block.dns.adguard.com
 ||iwtserve.com^$dnsrewrite=ad-block.dns.adguard.com
-||jnwsrqxrdqct.top^$dnsrewrite=ad-block.dns.adguard.com
 ||kdbumyha.com^$dnsrewrite=ad-block.dns.adguard.com
 ||kozoysnsx.com^$dnsrewrite=ad-block.dns.adguard.com
-||l9tdhe6.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ld82ydd.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lpaizureik.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mifsirnhvvrps.top^$dnsrewrite=ad-block.dns.adguard.com
-||misxgkvnlf.com^$dnsrewrite=ad-block.dns.adguard.com
 ||motosal.net^$dnsrewrite=ad-block.dns.adguard.com
 ||naetoris.pw^$dnsrewrite=ad-block.dns.adguard.com
 ||olkrzytv.com^$dnsrewrite=ad-block.dns.adguard.com
