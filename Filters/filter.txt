@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-05T12:01:40.548Z
+! Last modified: 2025-04-05T18:01:40.476Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -93888,6 +93888,8 @@ inapps.appsflyersdk.com^
 !
 ! Banana ads
 ||207.148.44.179^
+! For DNS
+/^(mon|tue|wed|thu|fri|sat|sun)\d{1,2}\.\w{2}\d{1,6}\w{4}\.com$/
 !
 ! Source name: AdGuard Chinese filter ad servers first-party
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers_firstparty.txt
@@ -100775,6 +100777,7 @@ inapps.appsflyersdk.com^
 ||pvvxfh.top^
 ||ifqn.cn^
 ||anzeretp.com^
+||jeyd.cn^
 ||ilcq.cn^
 ||rptdhu.top^
 ||okikwul.icu^
