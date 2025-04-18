@@ -3,10 +3,11 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-18T00:03:45.137Z
+! Last modified: 2025-04-18T06:01:49.371Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
+||4bind2.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||splendlddate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tds.favbet.partners^$dnsrewrite=ad-block.dns.adguard.com
 ||pbl3citto.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -389,9 +390,7 @@
 ||domainparkingmanager.it^$dnsrewrite=ad-block.dns.adguard.com
 ||donationobliged.com^$dnsrewrite=ad-block.dns.adguard.com
 ||doostozoa.net^$dnsrewrite=ad-block.dns.adguard.com
-||download-adblock-bear.com^$dnsrewrite=ad-block.dns.adguard.com
 ||download-adblockgenius.com^$dnsrewrite=ad-block.dns.adguard.com
-||download-privacybear.com^$dnsrewrite=ad-block.dns.adguard.com
 ||downloading-addon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||downloading-extension.com^$dnsrewrite=ad-block.dns.adguard.com
 ||downlon.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -595,7 +594,6 @@
 ||moralitylameinviting.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mouthdistance.bond^$dnsrewrite=ad-block.dns.adguard.com
 ||my-hub.top^$dnsrewrite=ad-block.dns.adguard.com
-||mycloudreference.com^$dnsrewrite=ad-block.dns.adguard.com
 ||myjack-potscore.life^$dnsrewrite=ad-block.dns.adguard.com
 ||mylot.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mynutraresearch.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -848,7 +846,6 @@
 ||trumpsupport.help^$dnsrewrite=ad-block.dns.adguard.com
 ||try.opera.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tsyndicate.com^$dnsrewrite=ad-block.dns.adguard.com
-||tt-px.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tubecup.net^$dnsrewrite=ad-block.dns.adguard.com
 ||twigwisp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||twinrdsyte.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -874,7 +871,6 @@
 ||viidccdn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viifmuts.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viiiyskm.com^$dnsrewrite=ad-block.dns.adguard.com
-||viippugm.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viiyxefb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||violationphysics.click^$dnsrewrite=ad-block.dns.adguard.com
 ||visionvelvet.co^$dnsrewrite=ad-block.dns.adguard.com
