@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-17T18:01:30.352Z
+! Last modified: 2025-04-18T00:03:42.133Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6023,13 +6023,6 @@
 ||cdn.234doo.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58569
 ||a.b.napiszar.com^
-!---------------------------------------------------------------------
-!---------------------------------------------------------------------
-!------------------------------ Italian ------------------------------
-!---------------------------------------------------------------------
-!
-! NOTE: Italian
-!
 ||ad.citynews.it^
 ||planner.tiscali.it^
 !
@@ -86946,6 +86939,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||geo.justwatch.com^
 ||sspnm.emol.com^
 ||ssp.emol.com^
 ||stats.emol.com^
@@ -90671,6 +90665,7 @@ inapps.appsflyersdk.com^
 ||data.minute.ly^
 ||data.nexxt.com^
 ||data.queryly.com^
+||data.replo.app^
 ||data.woosmap.com^
 ||datadog-service.mvfglobal.com^
 ||dcinfos-cache.abtasty.com^
@@ -102342,6 +102337,8 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||afvrolvial.com^
+||jcfbgdbd.top^
 ||ewdk.cn^
 ||fflbpi.top^
 ||hbeafcac.top^
