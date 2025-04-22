@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-22T12:01:45.617Z
+! Last modified: 2025-04-22T15:59:03.140Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||semygruja.com^
 ||performoo.com^
 ||keethoostoaps.net^
 ||rneniibeiijmxeb.com^
@@ -22442,6 +22443,7 @@ vkcdnservice.appspot.com^
 ||opclumbcuqze.com^
 ||opcnflku.com^
 ||opcpicocja.com^
+||opcqrorr.com^
 ||opdomains.space^
 ||opdxpycrizuq.com^
 ||opeanresultanc.com^
@@ -22966,6 +22968,7 @@ vkcdnservice.appspot.com^
 ||pafiptuy.net^
 ||pagejunky.com^
 ||pagemystery.com^
+||pagerrentablespotlight.com^
 ||paginaewakens.shop^
 ||paginaltreitre.shop^
 ||pagnawhouk.net^
@@ -77468,8 +77471,8 @@ vkcdnservice.appspot.com^
 ||reach.ironmountain.com^
 ||response.xactware.com^
 ||results.news.marshmma.com^
+||secure.sw.broadcom.com^
 ||solutions.desertfinancial.com^
-||sw.broadcom.com^
 ||tp.lexisnexis.co.nz^
 ||tp.lexisnexis.com.au^
 ||tr.informabi.com^
@@ -102095,6 +102098,8 @@ inapps.appsflyersdk.com^
 ||qwerhao3.com^
 ||cholurd.com^
 ||dhimphits.com^
+||uypg.cn^
+||wucnwte.top^
 ||hgreils.com^
 ||lvqo.cn^
 ||jibtdn.top^
