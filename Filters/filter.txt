@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-23T12:01:46.377Z
+! Last modified: 2025-04-23T18:01:42.177Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||fluxtech.ai^
 ||semygruja.com^
 ||performoo.com^
 ||keethoostoaps.net^
@@ -7777,6 +7778,7 @@ vkcdnservice.appspot.com^
 ||affluentarmyequator.com^
 ||affluentretinueelegance.com^
 ||affluentshinymulticultural.com^
+||affluxtrowie.com^
 ||affmoneyy.com^
 ||affnamzwon.com^
 ||affordedseasick.com^
@@ -11493,6 +11495,7 @@ vkcdnservice.appspot.com^
 ||cleanatrocious.com^
 ||cleanbrowser.network^
 ||cleaneratwrinkle.com^
+||cleanerbest.online^
 ||cleanerultra.club^
 ||cleanflawlessredir.com^
 ||cleaningmaturegallop.com^
@@ -14604,6 +14607,7 @@ vkcdnservice.appspot.com^
 ||exoads.click^
 ||exobafrgdf.com^
 ||exoclick.com^
+||exodermrecepts.top^
 ||exodusjailhousetarantula.com^
 ||exofrwe.com^
 ||exomonyf.com^
@@ -16845,6 +16849,7 @@ vkcdnservice.appspot.com^
 ||handboyfriendomnipotent.com^
 ||handcoves.org^
 ||handcuffglare.com^
+||handgripknuckle.com^
 ||handshakesexyconquer.com^
 ||handsomebend.pro^
 ||handtub.com^
@@ -17203,6 +17208,7 @@ vkcdnservice.appspot.com^
 ||hijackscovido.top^
 ||hijaipootuk.net^
 ||hikbzyfwomky.com^
+||hikedwarfgipsy.com^
 ||hikestale.com^
 ||hikinghourcataract.com^
 ||hikrfneh.xyz^
@@ -18166,6 +18172,7 @@ vkcdnservice.appspot.com^
 ||interfacemotleyharden.com^
 ||intergient.com^
 ||interiorchalk.com^
+||interlik.co.in^
 ||intermediatebelownomad.com^
 ||internewsweb.com^
 ||internodeid.com^
@@ -18746,6 +18753,7 @@ vkcdnservice.appspot.com^
 ||jqueryoi.com^
 ||jqueryserve.org^
 ||jqueryserver.com^
+||jravekvyeyybj.top^
 ||jrbbavbvqmbzl.top^
 ||jrfngdrodrdop.icu^
 ||jriortnf.com^
@@ -26651,6 +26659,7 @@ vkcdnservice.appspot.com^
 ||saltsleaseholder.com^
 ||saltsupbrining.com^
 ||salutationpersecutewindows.com^
+||saluteenfold.com^
 ||salutetutortwiddling.com^
 ||salvagefloat.com^
 ||samage-bility.icu^
@@ -29933,6 +29942,7 @@ vkcdnservice.appspot.com^
 ||twevpgjeai.com^
 ||twewmykfe.com^
 ||twi-hjritecl.world^
+||twiddlepyrenes.com^
 ||twigwisp.com^
 ||twilightsuburbmill.com^
 ||twinadsrv.com^
@@ -32403,6 +32413,7 @@ vkcdnservice.appspot.com^
 ||yuruknalyticafr.com^
 ||yusiswensaidoh.info^
 ||yvdxhbuupndqo.love^
+||yvkdkwnoyafrs.com^
 ||yvmads.com^
 ||yvnjriyaqnt.com^
 ||yvoria.com^
@@ -87215,6 +87226,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||web-sdk-cdn.singular.net^
 ||tracking.ringieraxelspringer.tech^
 ||event.*.shoplive.cloud^
 ||aidsvc.netflix.com^
@@ -95093,6 +95105,8 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||mid-round.com^
+||ploud-crew.net^
 ||adandhub.com^
 ||getallmedia.com^
 ||ssdsp.smt.docomo.ne.jp^
@@ -95472,6 +95486,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||xn860wu.vlxue.cn^
 ||mernrza.com^
 ||xjwhtz10.com^
 ||xjwhtz2.com^
@@ -102632,6 +102647,9 @@ inapps.appsflyersdk.com^
 ||po18ad.com^
 ||qdasflqe.top^
 ||vrinqaell.com^
+||ewvz.cn^
+||xsrezl.icu^
+||tucnwti.top^
 ||grimoiksep.com^
 ||iutq.cn^
 ||lhdnba.top^
