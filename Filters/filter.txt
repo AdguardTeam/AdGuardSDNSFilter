@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-23T18:01:42.177Z
+! Last modified: 2025-04-24T00:03:45.111Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||yougetwhatyoupayfor.net^
+||sahqtibw.com^
 ||fluxtech.ai^
 ||semygruja.com^
 ||performoo.com^
@@ -34248,6 +34250,7 @@ vkcdnservice.appspot.com^
 ||c.j8jp.com^
 ||c.kkraw.com^
 ||c2shb.pubgw.yahoo.com^
+||cache.myth.dev^
 ||campaigns.williamhill.com^
 ||cdn.ad.page^
 ||cdn.b2.ai^
@@ -34308,6 +34311,7 @@ vkcdnservice.appspot.com^
 ||mktg.evvnt.com^
 ||mmwebhandler.888.com^
 ||monetize-static.viralize.tv^
+||mythdev.b-cdn.net^
 ||neural.myth.dev^
 ||newtabextension.com^
 ||ogads-pa.googleapis.com^
@@ -34498,6 +34502,7 @@ vkcdnservice.appspot.com^
 ||d1crt12zco2cvf.cloudfront.net^
 ||d1csp7vj6qqoa6.cloudfront.net^
 ||d1d7hwtv2l91pm.cloudfront.net^
+||d1dcnte8mfzkpv.cloudfront.net^
 ||d1dh1gvx7p0imm.cloudfront.net^
 ||d1diqetif5itzx.cloudfront.net^
 ||d1djrodi2reo2w.cloudfront.net^
@@ -36822,6 +36827,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||unalytics.top^
 ||aisiteanalytics.com^
 ||cdnlogs.org^
 ||pushd.netky.tech^
@@ -90709,6 +90715,7 @@ inapps.appsflyersdk.com^
 ||1558334541.rsc.cdn77.org^
 ||3j0pw4ed7uac-a.akamaihd.net^
 ||51network.com^
+||682a5845.b-cdn.net^
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
 ||a.emea01.idio.episerver.net^
 ||a.getflowbox.com^
@@ -91122,6 +91129,7 @@ inapps.appsflyersdk.com^
 ||mon.domdog.io^
 ||monitor-api.blackcrow.ai^
 ||monitor-frontend-collector.a.bybit-aws.com^
+||monitor.fraudblocker.com^
 ||monitoring.iraiser.eu^
 ||ms-trackingapi.phenompeople.com^
 ||msadsscale.azureedge.net^
@@ -91201,6 +91209,7 @@ inapps.appsflyersdk.com^
 ||pylon.micstatic.com^
 ||qubitanalytics.appspot.com^
 ||rampjs-cdn.system1.com^
+||raven.adeptmind.ai^
 ||reach-id.orbit.tm-awx.com^
 ||realm.hearst3pcc.com^
 ||recs-api.conde.digital^
@@ -91292,6 +91301,7 @@ inapps.appsflyersdk.com^
 ||stats.uscreen.io^
 ||stats.varrando.com^
 ||stats.viddler.com^
+||stats.vodlix.com^
 ||stats.webs.com^
 ||stats.webstarts.com^
 ||stats.zotabox.com^
@@ -102639,6 +102649,9 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||thaincoth.com^
+||etbh.cn^
+||pflwta.top^
 ||leirerspfz.com^
 ||ifje.cn^
 ||ngjcvn.top^
