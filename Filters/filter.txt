@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-26T18:01:35.420Z
+! Last modified: 2025-04-27T00:04:15.843Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -91739,6 +91739,7 @@ inapps.appsflyersdk.com^
 ||d21y75miwcfqoq.cloudfront.net^
 ||d241ujsiy3yht0.cloudfront.net
 ||d24cze5sab2jwg.cloudfront.net^
+||d24luoisenoi7j.cloudfront.net^
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2fj3s7h83rb61.cloudfront.net
 ||d2gbtcuv3w9qyv.cloudfront.net^
@@ -92001,6 +92002,7 @@ inapps.appsflyersdk.com^
 ||erate.co.il^
 ||fortvision.com^
 ||lead.im^
+||memcyco.com^
 ! Hungarian
 ||gpr.hu^
 ||p24.hu^
@@ -92483,6 +92485,7 @@ inapps.appsflyersdk.com^
 ||ave-caesar-mas.modivo.io^
 ||cmp.dreamlab.pl^
 ||dsg.interia.pl^
+||liquid.agora.pl^
 ||pixel.homebook.pl^
 ||pixel6.wp.pl^
 ||px.wp.pl^
@@ -102871,6 +102874,9 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||zbislaernv.com^
+||xebetp.icu^
+||jia6983.xyz^
 ||vrosqutsgh.com^
 ||rgme.cn^
 ||zofmhx.icu^
