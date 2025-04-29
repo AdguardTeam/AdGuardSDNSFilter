@@ -1,3 +1,6 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1876
+! Blocked by CNAME saymedia.com
+@@||taiga.maven.io^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/200033
 ! Blocked by CNAME oasjs.kataweb.it
 @@||tlh.gedidigital.it^|
