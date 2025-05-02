@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-01T18:01:46.879Z
+! Last modified: 2025-05-02T00:03:47.320Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8801,6 +8801,7 @@ vkcdnservice.appspot.com^
 ||arvigorothan.com^
 ||arvyxowwcay.com^
 ||arwobaton.com^
+||arxucrkpbihahy.com^
 ||as5000.com^
 ||asacdn.com^
 ||asadirectrestof.com^
@@ -18928,6 +18929,7 @@ vkcdnservice.appspot.com^
 ||jkajyrkqaoyjl.top^
 ||jkha742.xyz^
 ||jklpy.com^
+||jkuxishhikp.com^
 ||jkyawbabvjeq.top^
 ||jkzakzazlojbl.top^
 ||jl63v3fp1.com^
@@ -24012,6 +24014,7 @@ vkcdnservice.appspot.com^
 ||peartengrousy.top^
 ||peasbishopgive.com^
 ||pebbleoutgoing.com^
+||pebopseftep.net^
 ||pecantinglytripod.com^
 ||pecialukizeias.info^
 ||pecifyspacing.com^
@@ -33187,6 +33190,7 @@ vkcdnservice.appspot.com^
 ||zuqalzajno.com^
 ||zureiskedamyb.world^
 ||zuulo.xyz^
+||zuweestoftimoo.net^
 ||zuzodoad.com^
 ||zvetokr2hr8pcng09.com^
 ||zvvqprcjjnh.com^
@@ -88059,6 +88063,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||counter.asobeans.jp^
 ||intelligence.xnews.one^
 ||log.tosspayments.com^
 ||event.tosspayments.com^
@@ -103546,6 +103551,9 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||vldp.cn^
+||ghgietuthz.com^
+||qqosk05020llo.com^
 ||rgtghulduk.com^
 ||uaqe.cn^
 ||okpl05010ai.com^
