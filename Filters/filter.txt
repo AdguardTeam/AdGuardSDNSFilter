@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-03T18:01:33.252Z
+! Last modified: 2025-05-04T00:04:25.103Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -21940,6 +21940,7 @@ vkcdnservice.appspot.com^
 ||mysweetteam.com^
 ||mytdsnet.com^
 ||myteamdev.com^
+||mythad.com^
 ||mythicsallies.com^
 ||mythings.com^
 ||mythpointsatheism.com^
@@ -37641,7 +37642,6 @@ vkcdnservice.appspot.com^
 ||srvgl.com^
 ||webmaxlogger.net^
 ||prodregistryv2.org^
-||mythad.com^
 ||ga2.getresponse.com^
 ||analytics.wikitide.net^
 ||shgcdn3.com^
@@ -88204,6 +88204,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||pl.elements.video^
 ||sgtm.alfinans.dk^
 ||sgtm.aziendechesifinanzianodasole.com^
 ||sgtm.comprend.com^
@@ -93427,6 +93428,7 @@ inapps.appsflyersdk.com^
 ||dbex-tracker-v2.driveback.ru^
 ||error.videonow.ru^
 ||events.auth.gid.ru^
+||events.plus.yandex.net^
 ||ga-tracker-dot-detmir-bonus.appspot.com^
 ||ip.up66.ru^
 ||metrics.aviasales.ru^
@@ -103773,8 +103775,12 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||bebx.cn^
+||qqosk05040llo.com^
 ||ebroktean.com^
 ||ffxe.cn^
+||croqoltdp.com^
+||okpl05040ai.com^
 ||okpl05030ai.com^
 ||vtqhelleano.com^
 ||qqosk05030llo.com^
