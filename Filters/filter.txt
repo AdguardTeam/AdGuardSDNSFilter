@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-05T06:01:58.274Z
+! Last modified: 2025-05-05T12:01:49.182Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||awdeliverynet.com^
 ||bevfpfekwskzg.world^
 ||ebvvvnjesjgx.com^
 ||yrscfbbegumijt.com^
@@ -6084,8 +6085,6 @@
 !
 ||bsxmuny.wp.pl^
 ||fusion.sydsvenskan.se^
-!
-!
 ! https://github.com/AdguardTeam/AdguardFilters/issues/200270
 ||adsok.co^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/184497
@@ -91084,9 +91083,6 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
-!
-! NOTE: Regular rules
-!
 ||mob2.mymusic2025.com^
 ||mosspf.net^
 ||event-us.ssp.taxssp.com^
@@ -103818,6 +103814,7 @@ inapps.appsflyersdk.com^
 ||qiwqaagnaell.com^
 ||zibjls.top^
 ||snwucnb.top^
+||wlberlaiw.com^
 ||bebx.cn^
 ||qqosk05040llo.com^
 ||ebroktean.com^
