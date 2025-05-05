@@ -1,3 +1,6 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1879
+! Blocked by the rule, required for blocking Ingenious Technologies analytics
+@@||acs-m.daraz.pk^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1876
 ! Blocked by CNAME saymedia.com
 @@||taiga.maven.io^|
