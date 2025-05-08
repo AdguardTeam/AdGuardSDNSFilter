@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-08T12:01:51.187Z
+! Last modified: 2025-05-08T18:01:50.717Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6237,6 +6237,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
 !
 ! Non-flagged (Generic blocks)
+||0019x.com^
 ||00f8c4bb25.com^
 ||0127c96640.com^
 ||01counter.com^
@@ -10171,6 +10172,7 @@ vkcdnservice.appspot.com^
 ||boobausauhipsa.net^
 ||boodaisi.xyz^
 ||boodiecawquaw.top^
+||boodybasalt.com^
 ||boogopee.com^
 ||bookadil.com^
 ||bookbannershop.com^
@@ -16938,6 +16940,7 @@ vkcdnservice.appspot.com^
 ||highercldfrev.com^
 ||highercldfrevb.com^
 ||higheurest.com^
+||highlightattentions.com^
 ||highlypersevereenrapture.com^
 ||highmaidfhr.com^
 ||highmanapts.com^
@@ -18227,6 +18230,7 @@ vkcdnservice.appspot.com^
 ||jcafpiaqjoh.com^
 ||jclrwjceymgec.com^
 ||jcosjpir.com^
+||jcrgmcxyjnk.com^
 ||jd3j7g5z1fqs.com^
 ||jdeekqk-bjqt.fun^
 ||jdoqocy.com^
@@ -18610,6 +18614,7 @@ vkcdnservice.appspot.com^
 ||jyvkwqjremjbj.top^
 ||jyzkut.com^
 ||jzleekzaovelw.top^
+||jzleekzaovzez.top^
 ||jzokkejvjrvrb.top^
 ||jzokkejvjrvwj.top^
 ||jzplabcvvy.com^
@@ -22791,6 +22796,7 @@ vkcdnservice.appspot.com^
 ||outfoxnapalms.com^
 ||outgratingknack.com^
 ||outhaushauviy.xyz^
+||outheelrelict.com^
 ||outhulem.net^
 ||outlandish-pitch.pro^
 ||outlayomnipresentdream.com^
@@ -25048,6 +25054,7 @@ vkcdnservice.appspot.com^
 ||raufajoo.net^
 ||rauheestuma.xyz^
 ||raumipti.net^
+||raunoaptotoaw.com^
 ||raunooligais.net^
 ||raupasee.xyz^
 ||raupsica.net^
@@ -36163,6 +36170,7 @@ vkcdnservice.appspot.com^
 ! test for CNAME
 ||kib.hu^
 !
+||mrgr.me^
 ||analytics.turk.pro^
 ||metric-api.newrelic.com^
 ||conduit-beacon.mtvnservices.com^
@@ -95295,6 +95303,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||line-e.com^
 ||shindnx.site^
 ||ads-lite2.net^
 ||mid-round.com^
@@ -102861,6 +102870,7 @@ inapps.appsflyersdk.com^
 ||uuso05081qhs.xyz^
 ||qnwucny.top^
 ||uuso05082qhs.xyz^
+||vthruucceod.com^
 ||ebrid.cn^
 ||wtrotilloye.com^
 ||dnjxds.top^
