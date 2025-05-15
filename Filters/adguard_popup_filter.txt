@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-15T12:01:47.790Z
+! Last modified: 2025-05-15T18:01:38.441Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1036,6 +1036,7 @@
 ||1ts11.top^$dnsrewrite=ad-block.dns.adguard.com
 ||3questionsgetthegirl.com^$dnsrewrite=ad-block.dns.adguard.com
 ||9content.com^$dnsrewrite=ad-block.dns.adguard.com
+||access-the-website.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adextrem.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adultadworld.com^$dnsrewrite=ad-block.dns.adguard.com
 ||banners.cams.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -1044,6 +1045,7 @@
 ||cam4tracking.com^$dnsrewrite=ad-block.dns.adguard.com
 ||checkmy.cam^$dnsrewrite=ad-block.dns.adguard.com
 ||chokertraffic.com^$dnsrewrite=ad-block.dns.adguard.com
+||cityofsin3d.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ckrf1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||connexionsafe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cpng.lol.^$dnsrewrite=ad-block.dns.adguard.com
