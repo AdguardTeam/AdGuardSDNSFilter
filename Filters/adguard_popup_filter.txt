@@ -3,10 +3,11 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-16T06:01:37.594Z
+! Last modified: 2025-05-16T12:01:58.336Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
+||obnoljac.com^$dnsrewrite=ad-block.dns.adguard.com
 ||zipup.click^$dnsrewrite=ad-block.dns.adguard.com
 ||cpmemes.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||fileescd.cfd^$dnsrewrite=ad-block.dns.adguard.com
@@ -348,6 +349,7 @@
 ||choogeet.net^$dnsrewrite=ad-block.dns.adguard.com
 ||choudairtu.net^$dnsrewrite=ad-block.dns.adguard.com
 ||cleanmypc.click^$dnsrewrite=ad-block.dns.adguard.com
+||clearwatch.tv^$dnsrewrite=ad-block.dns.adguard.com
 ||clixwells.com^$dnsrewrite=ad-block.dns.adguard.com
 ||closeupclear.top^$dnsrewrite=ad-block.dns.adguard.com
 ||cloudvideosa.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -781,6 +783,7 @@
 ||srvqck5.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srvtrck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stellarmingle.store^$dnsrewrite=ad-block.dns.adguard.com
+||streamereasy.click^$dnsrewrite=ad-block.dns.adguard.com
 ||strtgic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stt6.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||stvwell.online^$dnsrewrite=ad-block.dns.adguard.com
