@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-17T00:04:04.054Z
+! Last modified: 2025-05-17T12:01:51.744Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -232,6 +232,7 @@
 ||adblockermax.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adclickbyte.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adfgetlink.net^$dnsrewrite=ad-block.dns.adguard.com
+||adflowtube.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adglare.net^$dnsrewrite=ad-block.dns.adguard.com
 ||aditms.me^$dnsrewrite=ad-block.dns.adguard.com
 ||adkmbc.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -412,6 +413,7 @@
 ||easelegbike.com^$dnsrewrite=ad-block.dns.adguard.com
 ||easyconverts.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ebigrooxoomsust.net^$dnsrewrite=ad-block.dns.adguard.com
+||ecomicrolab.com^$dnsrewrite=ad-block.dns.adguard.com
 ||edpl9v.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||eeco.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||eetognauy.net^$dnsrewrite=ad-block.dns.adguard.com
