@@ -25,53 +25,53 @@ The output is written to `Filters/filter.txt`.
 
 #### These filter lists block domains that are used to provide and show advertisements on websites
 
-* [AdGuard Base filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt)
+* [AdGuard Base filter](https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/adservers.txt)
 
-* [AdGuard Base filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt)
+* [AdGuard Base filter — first-party servers](https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/adservers_firstparty.txt)
 
-* [AdGuard Base filter — foreign servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt)
+* [AdGuard Base filter — foreign servers](https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/foreign.txt)
 
-* [AdGuard Mobile Ads filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt)
+* [AdGuard Mobile Ads filter](https://adguardteam.github.io/AdguardFilters/MobileFilter/sections/adservers.txt)
 
-* [AdGuard Spanish/Portuguese filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt)
+* [AdGuard Spanish/Portuguese filter](https://adguardteam.github.io/AdguardFilters/SpanishFilter/sections/adservers.txt)
 
-* [AdGuard Spanish/Portuguese filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers_firstparty.txt)
+* [AdGuard Spanish/Portuguese filter — first-party servers](https://adguardteam.github.io/AdguardFilters/FrenchFilter/sections/adservers_firstparty.txt)
 
-* [AdGuard common Cyrillic filters ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/common-sections/adservers.txt)
+* [AdGuard common Cyrillic filters ad servers](https://adguardteam.github.io/AdguardFilters/CyrillicFilters/common-sections/adservers.txt)
 
-* [AdGuard common Cyrillic filters ad servers — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/common-sections/adservers_firstparty.txt)
+* [AdGuard common Cyrillic filters ad servers — first-party servers](https://adguardteam.github.io/AdguardFilters/CyrillicFilters/common-sections/adservers_firstparty.txt)
 
-* [AdGuard Russian filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt)
+* [AdGuard Russian filter — first-party servers](https://adguardteam.github.io/AdguardFilters/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt)
 
-* [AdGuard Ukrainian filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/UkrainianFilter/sections/adservers_firstparty.txt)
+* [AdGuard Ukrainian filter — first-party servers](https://adguardteam.github.io/AdguardFilters/CyrillicFilters/UkrainianFilter/sections/adservers_firstparty.txt)
 
-* [AdGuard Belarusian language ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/Belarusian/sections/filter.txt)
+* [AdGuard Belarusian language ad servers](https://adguardteam.github.io/AdguardFilters/CyrillicFilters/Belarusian/sections/filter.txt)
 
-* [AdGuard Bulgarian language ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/Bulgarian/sections/filter.txt)
+* [AdGuard Bulgarian language ad servers](https://adguardteam.github.io/AdguardFilters/CyrillicFilters/Bulgarian/sections/filter.txt)
 
-* [AdGuard Kazakh language ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/Kazakh/sections/filter.txt)
+* [AdGuard Kazakh language ad servers](https://adguardteam.github.io/AdguardFilters/CyrillicFilters/Kazakh/sections/filter.txt)
 
-* [AdGuard Turkish filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt)
+* [AdGuard Turkish filter](https://adguardteam.github.io/AdguardFilters/TurkishFilter/sections/adservers.txt)
 
-* [AdGuard Turkish filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers_firstparty.txt)
+* [AdGuard Turkish filter — first-party servers](https://adguardteam.github.io/AdguardFilters/TurkishFilter/sections/adservers_firstparty.txt)
 
-* [AdGuard French filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers.txt)
+* [AdGuard French filter](https://adguardteam.github.io/AdguardFilters/FrenchFilter/sections/adservers.txt)
 
-* [AdGuard French filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers_firstparty.txt)
+* [AdGuard French filter — first-party servers](https://adguardteam.github.io/AdguardFilters/FrenchFilter/sections/adservers_firstparty.txt)
 
-* [AdGuard Japanese filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt)
+* [AdGuard Japanese filter](https://adguardteam.github.io/AdguardFilters/JapaneseFilter/sections/adservers.txt)
 
-* [AdGuard Japanese filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers_firstparty.txt)
+* [AdGuard Japanese filter — first-party servers](https://adguardteam.github.io/AdguardFilters/JapaneseFilter/sections/adservers_firstparty.txt)
 
-* [AdGuard German filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt)
+* [AdGuard German filter](https://adguardteam.github.io/AdguardFilters/GermanFilter/sections/adservers.txt)
 
-* [AdGuard Chinese filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt)
+* [AdGuard Chinese filter](https://adguardteam.github.io/AdguardFilters/ChineseFilter/sections/adservers.txt)
 
-* [AdGuard Chinese filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers_firstparty.txt)
+* [AdGuard Chinese filter — first-party servers](https://adguardteam.github.io/AdguardFilters/ChineseFilter/sections/adservers_firstparty.txt)
 
-* [AdGuard Dutch filter](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers.txt)
+* [AdGuard Dutch filter](https://adguardteam.github.io/AdguardFilters/DutchFilter/sections/adservers.txt)
 
-* [AdGuard Dutch filter — first-party servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers_firstparty.txt)
+* [AdGuard Dutch filter — first-party servers](https://adguardteam.github.io/AdguardFilters/DutchFilter/sections/adservers_firstparty.txt)
 
 * [EasyList](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt)
 
@@ -109,11 +109,11 @@ The output is written to `Filters/filter.txt`.
 
 #### These filter lists block domains that are used for tracking and analytics
 
-* [AdGuard Tracking Protection filter — third-party trackers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt)
+* [AdGuard Tracking Protection filter — third-party trackers](https://adguardteam.github.io/AdguardFilters/SpywareFilter/sections/tracking_servers.txt)
 
-* [AdGuard Tracking Protection filter — first-party trackers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt)
+* [AdGuard Tracking Protection filter — first-party trackers](https://adguardteam.github.io/AdguardFilters/SpywareFilter/sections/tracking_servers_firstparty.txt)
 
-* [AdGuard Tracking Protection filter — mobile trackers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt)
+* [AdGuard Tracking Protection filter — mobile trackers](https://adguardteam.github.io/AdguardFilters/SpywareFilter/sections/mobile.txt)
 
 * [EasyPrivacy](https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt)
 
@@ -127,7 +127,7 @@ The output is written to `Filters/filter.txt`.
 
 #### These filter lists are used against cryptominers
 
-* [AdGuard Base filter cryptominers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt)
+* [AdGuard Base filter cryptominers](https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/cryptominers.txt)
 
 ### Exception
 
@@ -135,12 +135,6 @@ The output is written to `Filters/filter.txt`.
 
 * [Exclusion rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exclusions.txt)
 * [Exception rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exceptions.txt)
-
-### News Exchange
-
-#### These lists are used to block teaser advertisements
-
-* [AdGuard Russian filter news exchange servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt)
 
 ### Regional lists
 
@@ -165,14 +159,14 @@ Although redirecting to a different IP address is not the ideal solution, we are
 
 The AdGuard DNS Popup Hosts filter includes only rules that contain the modifiers `popup`, `all`, and `document` from the lists provided. This selection effectively means that these rules are directed at sites that open in the main frame.
 
-* [AdGuard Base filter ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt)
-* [AdGuard Base filter ad servers first-party](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt)
-* [AdGuard Base filter ad servers foreign](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt)
+* [AdGuard Base filter ad servers](https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/adservers.txt)
+* [AdGuard Base filter ad servers first-party](https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/adservers_firstparty.txt)
+* [AdGuard Base filter ad servers foreign](https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/foreign.txt)
 * [EasyList ad servers](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt)
 * [EasyList adult ad servers popup](https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt)
-* [AdGuard Mobile Ads filter ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt)
-* [AdGuard common Cyrillic filters ad servers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/common-sections/adservers.txt)
-* [AdGuard Russian filter ad servers first-party](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt)
+* [AdGuard Mobile Ads filter ad servers](https://adguardteam.github.io/AdguardFilters/MobileFilter/sections/adservers.txt)
+* [AdGuard common Cyrillic filters ad servers](https://adguardteam.github.io/AdguardFilters/CyrillicFilters/common-sections/adservers.txt)
+* [AdGuard Russian filter ad servers first-party](https://adguardteam.github.io/AdguardFilters/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt)
 * [Liste FR](https://raw.githubusercontent.com/easylist/listefr/master/liste_fr.txt)
 * [ABPindo ad servers](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt)
 * [ABPindo ad servers third-party](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/thirdparty.txt)

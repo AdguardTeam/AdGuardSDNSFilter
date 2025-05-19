@@ -6,18 +6,18 @@
   "sources": [
     {
       "name": "AdGuard Base filter ad servers",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt",
+      "source": "https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/adservers.txt",
       "type": "adblock"
     },
     {
       "name": "AdGuard Base filter ad servers first-party",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt",
+      "source": "https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/adservers_firstparty.txt",
       "type": "adblock"
 
     },
     {
       "name": "AdGuard Base filter ad servers foreign",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt",
+      "source": "https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/foreign.txt",
       "type": "adblock"
     },
     {
@@ -32,17 +32,17 @@
     },
     {
       "name": "AdGuard Mobile Ads filter ad servers",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt",
+      "source": "https://adguardteam.github.io/AdguardFilters/MobileFilter/sections/adservers.txt",
       "type": "adblock"
     },
     {
       "name": "AdGuard common Cyrillic filters ad servers",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/common-sections/adservers.txt",
+      "source": "https://adguardteam.github.io/AdguardFilters/CyrillicFilters/common-sections/adservers.txt",
       "type": "adblock"
     },
     {
       "name": "AdGuard Russian filter ad servers first-party",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt",
+      "source": "https://adguardteam.github.io/AdguardFilters/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt",
       "type": "adblock"
     },
     {
