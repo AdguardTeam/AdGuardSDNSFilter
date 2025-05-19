@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-19T12:02:03.869Z
+! Last modified: 2025-05-19T16:44:59.586Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -782,12 +782,14 @@
 ||rtbix.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||rtbreachads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||s3g6.com^$dnsrewrite=ad-block.dns.adguard.com
+||safeonlinetips.com^$dnsrewrite=ad-block.dns.adguard.com
 ||savinist.com^$dnsrewrite=ad-block.dns.adguard.com
 ||schedulerationally.com^$dnsrewrite=ad-block.dns.adguard.com
 ||score-feed.com^$dnsrewrite=ad-block.dns.adguard.com
 ||searchresultsadblocker.com^$dnsrewrite=ad-block.dns.adguard.com
 ||seatrackingdomain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||secretarypleasure.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||securitycheckonline.com^$dnsrewrite=ad-block.dns.adguard.com
 ||serving-refor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||servsserverz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sessfetchio.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -952,6 +954,7 @@
 ||xstalkx.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||xszpuvwr7.com^$dnsrewrite=ad-block.dns.adguard.com
 ||youradexchange.com^$dnsrewrite=ad-block.dns.adguard.com
+||yoursecurity-suggestion.com^$dnsrewrite=ad-block.dns.adguard.com
 ||zarosnap.com^$dnsrewrite=ad-block.dns.adguard.com
 ||zavirand.com^$dnsrewrite=ad-block.dns.adguard.com
 ||zrlqm.com^$dnsrewrite=ad-block.dns.adguard.com
