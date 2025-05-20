@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-20T00:04:06.822Z
+! Last modified: 2025-05-20T12:01:52.701Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -726,6 +726,7 @@
 ||propellerclick.com^$dnsrewrite=ad-block.dns.adguard.com
 ||proscholarshub.com^$dnsrewrite=ad-block.dns.adguard.com
 ||protected-redirect.click^$dnsrewrite=ad-block.dns.adguard.com
+||protection-suggestion.com^$dnsrewrite=ad-block.dns.adguard.com
 ||provenpixel.com^$dnsrewrite=ad-block.dns.adguard.com
 ||prwave.info^$dnsrewrite=ad-block.dns.adguard.com
 ||psockapa.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -789,6 +790,8 @@
 ||searchresultsadblocker.com^$dnsrewrite=ad-block.dns.adguard.com
 ||seatrackingdomain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||secretarypleasure.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||security-suggestion.com^$dnsrewrite=ad-block.dns.adguard.com
+||security-u.com^$dnsrewrite=ad-block.dns.adguard.com
 ||securitycheckonline.com^$dnsrewrite=ad-block.dns.adguard.com
 ||serving-refor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||servsserverz.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -824,6 +827,7 @@
 ||srvqck5.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srvtrck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stableflowconnection.co.in^$dnsrewrite=ad-block.dns.adguard.com
+||staysafeonlinetoday.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stikroltiltoowi.net^$dnsrewrite=ad-block.dns.adguard.com
 ||storage.dev^$dnsrewrite=ad-block.dns.adguard.com
 ||streamereasy.click^$dnsrewrite=ad-block.dns.adguard.com
@@ -954,6 +958,7 @@
 ||xstalkx.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||xszpuvwr7.com^$dnsrewrite=ad-block.dns.adguard.com
 ||youradexchange.com^$dnsrewrite=ad-block.dns.adguard.com
+||yourprotection-suggestion.com^$dnsrewrite=ad-block.dns.adguard.com
 ||yoursecurity-suggestion.com^$dnsrewrite=ad-block.dns.adguard.com
 ||zarosnap.com^$dnsrewrite=ad-block.dns.adguard.com
 ||zavirand.com^$dnsrewrite=ad-block.dns.adguard.com
