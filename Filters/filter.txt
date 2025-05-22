@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-22T17:05:32.162Z
+! Last modified: 2025-05-22T18:01:34.142Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -15253,6 +15253,7 @@ vkcdnservice.appspot.com^
 ||fntvloqdmf.com^
 ||fnximdpycveod.com^
 ||fnyaynma.com^
+||fnyfiexpectth.org^
 ||foaglaid.xyz^
 ||foamingjessant.shop^
 ||foapsovi.net^
@@ -17710,6 +17711,7 @@ vkcdnservice.appspot.com^
 ||ihiptootchouds.xyz^
 ||ihkxhjqjfhmhtpe.com^
 ||ihkybtde.com^
+||ihplpjyy.com^
 ||ihpsthaixd.com^
 ||ii9g0qj9.de^
 ||iicheewi.com^
@@ -21159,6 +21161,7 @@ vkcdnservice.appspot.com^
 ||msrehcmpeme.com^
 ||msstavby.cz^
 ||msvobeuhec.com^
+||mszddprapuziw.vip^
 ||mt34iofvjay.com^
 ||mtburn.com^
 ||mtkgyrzfygdh.com^
@@ -21706,6 +21709,7 @@ vkcdnservice.appspot.com^
 ||nmanateex.top^
 ||nmcdn.us^
 ||nmevhudzi.com^
+||nmewagagqofg.com^
 ||nmgwoawuwbnsj.space^
 ||nmimatrme.com^
 ||nmkli.com^
@@ -23888,6 +23892,7 @@ vkcdnservice.appspot.com^
 ||pounamudrossel.com^
 ||poundswarden.com^
 ||pounti.com^
+||pouyyonlgw.com^
 ||povsefcrdj.com^
 ||powerad.ai^
 ||poweradblocker.com^
@@ -30091,6 +30096,7 @@ vkcdnservice.appspot.com^
 ||wct.link^
 ||wcwijbtqgajxf.global^
 ||wdcwmeklhgnfc.xyz^
+||wdibwgllvzies.love^
 ||wdnkjctmnhqui.com^
 ||wdohhlagnjzi.com^
 ||wdoyouknowsai.org^
@@ -108961,6 +108967,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter ad servers
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 !
+||veta.naver.com^
 ||planad.net^
 ||aedi.ai^
 ||mobon.net^
