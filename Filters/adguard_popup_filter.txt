@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-24T00:03:55.143Z
+! Last modified: 2025-05-24T06:01:47.359Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -355,6 +355,7 @@
 ||choathaugla.net^$dnsrewrite=ad-block.dns.adguard.com
 ||choogeet.net^$dnsrewrite=ad-block.dns.adguard.com
 ||choudairtu.net^$dnsrewrite=ad-block.dns.adguard.com
+||chpadblock.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cleanmypc.click^$dnsrewrite=ad-block.dns.adguard.com
 ||clearwatch.tv^$dnsrewrite=ad-block.dns.adguard.com
 ||clicksyncflow.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -1159,6 +1160,7 @@
 ||needlive.com^$dnsrewrite=ad-block.dns.adguard.com
 ||notimoti.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nyetm2mkch.com^$dnsrewrite=ad-block.dns.adguard.com
+||otieu.com^$dnsrewrite=ad-block.dns.adguard.com
 ||passtechusa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pinkberrytube.com^$dnsrewrite=ad-block.dns.adguard.com
 ||playgirl.com^$dnsrewrite=ad-block.dns.adguard.com
