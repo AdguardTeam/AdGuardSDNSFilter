@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-30T10:06:57.389Z
+! Last modified: 2025-05-30T10:43:25.764Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -33359,7 +33359,6 @@ vkcdnservice.appspot.com^
 ||adncdnend.azureedge.net^
 ||ads-api.production.nebula-drupal.stuff.co.nz^
 ||ads-yallo-production.imgix.net^
-||ads.betfair.com^
 ||ads.kelkoo.com^
 ||ads.linkedin.com^
 ||ads.scored.co^
@@ -38624,7 +38623,6 @@ vkcdnservice.appspot.com^
 ||livestats.fr^
 ||livewebstats.dk^
 ||lloogg.com^
-||load.sumome.com^
 ||localytics.com^
 ||lockview.cn^
 ||logaholic.com^
@@ -94284,7 +94282,6 @@ inapps.appsflyersdk.com^
 ||webstat.qiumibao.com^
 ||wlog.kuaishou.com^
 ! Croatian
-||tracking.vid4u.org^
 ||a.centrum.cz^
 ||bisko.mall.tv^
 ||c.seznam.cz^
@@ -96304,7 +96301,6 @@ inapps.appsflyersdk.com^
 ||partners.agoda.com^
 ||partners.vsemayki.ru^
 ||pay-hit.com^
-||pbid.iforex.com^
 ||pbnet.ru^
 ||pcads.ru^
 ||pelckw.qjudpxkisv.xyz^
@@ -104612,6 +104608,89 @@ inapps.appsflyersdk.com^
 ||zvietcombank.com^
 ||zvietnakello.weebly.com^
 ||zywjpypco.7hujk.de^
+!
+! Source name: hufilter adservers
+! Source: https://raw.githubusercontent.com/hufilter/hufilter/master/sections/ads.txt
+!
+||adserver.raceonline.hu^
+||ad*.gyaloglo.hu^
+||ad*.mellesleg.hu^
+||ad.depo.hu^
+||ad.gyermekevek.hu^
+||ad.hirekmedia.hu^
+||ad.kapos.hu^
+||ad.love.hu^
+||ad.napilapcsoport.hu^
+||ad.onadozo.hu^
+||ad.parom.hu^
+||ad.pphungary.hu^
+||ad.szexneked.hu^
+||adfair.hu^
+||adfree-stat.p3g.hu^
+||admanager.magyarhirlap.hu^
+||ads.geeks.hu^
+||adv.forpsi.hu^
+||adv.hu^
+||adverbs.napilapcsoport.hu^
+||advert*.ultraweb.hu^
+||adverticum.*.hu^
+||app.livechatoo.com^
+||as*.prog.hu^
+||avatraffic.com^
+||banner.webtar.hu^
+||bannerzone.agroinform.hu^
+||brostraffic.com^
+||campaign-remp.444.hu^
+||cdn-dynamic.optimonk.com^
+||daserver.ultraweb.hu^
+||etargetnet.*.hu^
+||fourtwentytradingcompany.net^
+||iofferphoto.com^
+||loading-delivery2.com^
+||media.netpositive.hu^
+||netadclick.com^
+||netexs.com^
+||pixel.blog.hu^
+||rc.rc.hu^
+||rc.rootclick.com^
+||redwolfmoon.com^
+||rehs.*.hu^
+||related.hu^
+||sher.*.hu^
+||smartcj.com^
+||stats.badoostats.com^
+||up-banner.wavecdn.de^
+||vid4u.org^
+||widget.block4d.com^
+||ad.hu^
+||ad4mat.net^
+||ads.sg.hu^
+||advantage.as^
+||affiliate.hu^
+||banner.aqua.hu^
+||betfair.com^
+||calivary.com^
+||clicksure.com^
+||data.bookline.hu^
+||hitelkereso.hu^
+||iforex.com^
+||iitech.dk^
+||ingatlannet.hu^
+||klix.hu^
+||link.adaptivemedia.hu^
+||mytarget.hu^
+||out.pladform.ru^
+||po.st^
+||pornedup.com^
+||premads.info^
+||sexchat.hu^
+||shortlink.sex^
+||statsector.hu^
+||streameye.net^
+||sumome.com^
+||tripod.com^
+||tripod.lycos.com^
+||tulajdonostol.com^
 !
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
