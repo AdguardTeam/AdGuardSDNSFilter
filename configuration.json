@@ -328,6 +328,13 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "hufilter adservers",
+      "source": "https://raw.githubusercontent.com/hufilter/hufilter/master/sections/ads.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
       "name": "EasyList China ad servers",
       "source": "https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt",
       "type": "adblock",
