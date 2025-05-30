@@ -48,8 +48,15 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
-      "name": "EasyList adult ad servers third-party",
+      "name": "EasyList adult ad servers",
       "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
+      "name": "EasyList adult ad servers third-party",
+      "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
