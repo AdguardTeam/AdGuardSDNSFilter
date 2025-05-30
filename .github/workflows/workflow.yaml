@@ -3,7 +3,8 @@ name: Build AdGuard DNS filter
 on:
   push:
   schedule:
-    - cron: '0 */6 * * *' # Every 6th hour
+    - cron: '0 */2 * * *' # Every 2nd hour
+  workflow_dispatch:
 
 env:
   NODE_VERSION: 18.x
