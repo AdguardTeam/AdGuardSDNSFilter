@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-30T06:01:44.182Z
+! Last modified: 2025-05-30T08:46:50.540Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9670,6 +9670,7 @@ vkcdnservice.appspot.com^
 ||bathepoliteness.com^
 ||batheunits.com^
 ||baticalfelixstown.org^
+||batomqsmoocc.com^
 ||battepush.com^
 ||battiesnarras.com^
 ||battleautomobile.com^
@@ -25687,6 +25688,7 @@ vkcdnservice.appspot.com^
 ||resultlinks.com^
 ||resultsz.com^
 ||resurrectionincomplete.com^
+||retagcoppet.top^
 ||retagro.com^
 ||retainedpotential.com^
 ||retaliatepoint.com^
@@ -25793,6 +25795,7 @@ vkcdnservice.appspot.com^
 ||rhoawnzfiaz.com^
 ||rhombicsomeday.com^
 ||rhrim.com^
+||rhtpbupf.com^
 ||rhubarbmasterpiece.com^
 ||rhudsplm.com^
 ||rhvdsplm.com^
@@ -26091,6 +26094,7 @@ vkcdnservice.appspot.com^
 ||rqwel.com^
 ||rqwvvtsvnu.com^
 ||rqzolelelmaea.top^
+||rrbzvmklrzwmk.top^
 ||rreftyonkak.com^
 ||rregahfuk.com^
 ||rrentlysearchi.org^
@@ -29633,6 +29637,7 @@ vkcdnservice.appspot.com^
 ||unwontcajun.top^
 ||unwoobater.com^
 ||unwritmirific.com^
+||unxmlkgwrslom.com^
 ||unylgxxmrsbb.com^
 ||uod2quk646.com^
 ||uoenkcbxwumqh.xyz^
@@ -30275,6 +30280,7 @@ vkcdnservice.appspot.com^
 ||vsftsyriv.com^
 ||vsgyfixkbow.com^
 ||vstserv.com^
+||vsxgrrjvgerjdtb.com^
 ||vtabnalp.net^
 ||vtfwwilv.com^
 ||vtpyvbwtldlvl.site^
@@ -30303,6 +30309,7 @@ vkcdnservice.appspot.com^
 ||vuzhzlzswecvc.global^
 ||vv8h9vyjgnst.com^
 ||vvaywbqwuo.com^
+||vvkbpshrzoy.com^
 ||vvmkzawomeywq.top^
 ||vvprcztaw.com^
 ||vvsalar.top^
@@ -31360,6 +31367,7 @@ vkcdnservice.appspot.com^
 ||yflexibilitukydt.com^
 ||yfrnkmcdeurmk.top^
 ||yfueuktureukwo.org^
+||yfveranuqguoc.love^
 ||yfypfpfmcfvmi.top^
 ||ygblpbvojzq.com^
 ||ygimeqcpvbtci.rocks^
@@ -35969,6 +35977,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||smb-ecommerce-upsell.rokt.com^
 ||trueprofit.io^
 ||reco.target2sell.com^
 ||t.tnafpt.com^
@@ -89118,6 +89127,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||statistics-collector-api.listglobally.com^
 ||telegraph.prd.api.bleacherreport.com^
 ||gmss.use1.prd.api.discomax.com^
 ||events.shoplift.ai^
