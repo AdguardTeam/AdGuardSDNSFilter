@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-02T04:13:40.800Z
+! Last modified: 2025-06-02T06:09:38.851Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -461,6 +461,7 @@
 ||frostykitten.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fstsrv16.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fstsrv9.com^$dnsrewrite=ad-block.dns.adguard.com
+||fuck-ads.vercel.app^$dnsrewrite=ad-block.dns.adguard.com
 ||fuse-cloud.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fuwin.sbs^$dnsrewrite=ad-block.dns.adguard.com
 ||fzev75-rtbix.top^$dnsrewrite=ad-block.dns.adguard.com
@@ -545,6 +546,7 @@
 ||jwalkin.com^$dnsrewrite=ad-block.dns.adguard.com
 ||kagonst.com^$dnsrewrite=ad-block.dns.adguard.com
 ||kaminari.systems^$dnsrewrite=ad-block.dns.adguard.com
+||kbmljxm.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ker2clk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||kiss88.top^$dnsrewrite=ad-block.dns.adguard.com
 ||koafaimoor.net^$dnsrewrite=ad-block.dns.adguard.com
