@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-04T22:05:48.013Z
+! Last modified: 2025-06-05T00:27:18.230Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9111,6 +9111,7 @@ vkcdnservice.appspot.com^
 ||arleavannya.com^
 ||armaturereadiness.com^
 ||armedtidying.com^
+||armilmacusi.com^
 ||arminius.io^
 ||armmabbi.com^
 ||armsfulpageant.top^
@@ -9393,6 +9394,7 @@ vkcdnservice.appspot.com^
 ||atpansagean.com^
 ||atpawniarda.com^
 ||atraff.com^
+||atrem.site^
 ||atriahatband.com^
 ||atris.xyz^
 ||atrkmankubf.com^
@@ -10873,6 +10875,7 @@ vkcdnservice.appspot.com^
 ||brinkprovenanceamenity.com^
 ||brioletredeyes.com^
 ||brionyamanist.com^
+||bristlechurch.com^
 ||brithungown.com^
 ||britishfinestarrangement.com^
 ||britishinquisitive.com^
@@ -12668,6 +12671,7 @@ vkcdnservice.appspot.com^
 ||crazylead.com^
 ||crazylovepartners.com^
 ||crbbgate.com^
+||crbrdwegmonc.com^
 ||crcgrilses.com^
 ||crcwmxyhc.com^
 ||crdefault.link^
@@ -13505,6 +13509,7 @@ vkcdnservice.appspot.com^
 ||deymalaise.com^
 ||deypersonalreco.com^
 ||dezna.online^
+||dfaazrxihm.com^
 ||dfaobxanhdfa.com^
 ||dfd55780d6.com^
 ||dfdgfruitie.xyz^
@@ -13558,6 +13563,7 @@ vkcdnservice.appspot.com^
 ||dictumstortil.com^
 ||diddestrewinds.top^
 ||didesthanger.com^
+||didsaurtez.net^
 ||diedpractitionerplug.com^
 ||dieehxgtp.com^
 ||diegoinurn.shop^
@@ -15459,6 +15465,7 @@ vkcdnservice.appspot.com^
 ||fermistychism.shop^
 ||fermolo.info^
 ||feroffer.com^
+||ferritemegapod.shop^
 ||ferukentaspects.com^
 ||fervcbytncxaj.icu^
 ||fessedpyropen.shop^
@@ -19658,6 +19665,7 @@ vkcdnservice.appspot.com^
 ||kjyytxyetnueu.club^
 ||kkeichcdm.xyz^
 ||kkeugrilxgql.com^
+||kkgrttfmi.com^
 ||kkieeoxcjpqah.vip^
 ||kkmacsqsbf.info^
 ||kknkcyrkvoqsqa.com^
@@ -20660,6 +20668,7 @@ vkcdnservice.appspot.com^
 ||lpjkwklc.com^
 ||lpmcr1h7z.com^
 ||lpmugcevks.com^
+||lpnikgpqxuyrjm.com^
 ||lptrak.com^
 ||lptrck.com^
 ||lptyuosfcv.com^
@@ -21651,6 +21660,7 @@ vkcdnservice.appspot.com^
 ||molikrebaumt.xyz^
 ||mollesscar.top^
 ||molokerpterion.shop^
+||molpewere.top^
 ||molttenglobins.casa^
 ||molypsigry.pro^
 ||momclumsycamouflage.com^
@@ -22689,6 +22699,7 @@ vkcdnservice.appspot.com^
 ||nvuzubaus.tech^
 ||nvxbjvswajhug.space^
 ||nwabcuwugact.com^
+||nwarktriynwek.store^
 ||nwemnd.com^
 ||nweztoovg.com^
 ||nwjdldsfzszkp.rocks^
@@ -25053,6 +25064,7 @@ vkcdnservice.appspot.com^
 ||ptekuwiny.pro^
 ||ptelastaxo.com^
 ||pteleaspiring.top^
+||ptemsoaksol.net^
 ||ptichoolsougn.net^
 ||ptidsezi.com^
 ||ptifaustounsaz.com^
@@ -25152,6 +25164,7 @@ vkcdnservice.appspot.com^
 ||punosy.com^
 ||punrbligpisll.life^
 ||punslemmas.shop^
+||puntingdeg.com^
 ||puntistbitless.shop^
 ||pupilarouranos.com^
 ||puppyderisiverear.com^
@@ -28353,6 +28366,7 @@ vkcdnservice.appspot.com^
 ||stvbiopr.net^
 ||stvkr.com^
 ||stvwell.online^
+||styldiaasarone.com^
 ||styletrackstable.com^
 ||stylf.com^
 ||stylish-airport.com^
@@ -31595,6 +31609,7 @@ vkcdnservice.appspot.com^
 ||wyglyvaso.com^
 ||wyhifdpatl.com^
 ||wyidsbopxpifd.love^
+||wylin.ai^
 ||wylmzwklkljav.top^
 ||wylmzwklkljwr.top^
 ||wylmzwklklyaz.top^
@@ -32241,6 +32256,7 @@ vkcdnservice.appspot.com^
 ||zogrepsili.com^
 ||zoiefwqhcaczun.com^
 ||zoilusdoping.top^
+||zokqlomemmzbw.top^
 ||zombyfairfax.com^
 ||zonealta.com^
 ||zoneremeriti.top^
@@ -89899,7 +89915,6 @@ vkcdnservice.appspot.com^
 ||img.sct.eu1.usercentrics.eu^
 ||segapi.splice.com^
 ||t.illuma-tech.com^
-||experiment-variant.baemin.com^
 ||cdp.yna.co.kr^
 ||ingestion.webanalytics.italia.it^
 ||njoevqi1nx.hockerty.com^
@@ -105447,6 +105462,14 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||uteeo5018.com^
+||yki9xpcuc.com^
+||hgo06050uyi.com^
+||conyz.cn^
+||afcgcq.icu^
+||qvzabbhovve.com^
+||txre.cn^
+||rdbgxi.top^
 ||def2g1kz2t.top^
 ||tpuo.cn^
 ||ruqneakyp.com^
