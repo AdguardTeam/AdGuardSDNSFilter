@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-08T22:05:45.744Z
+! Last modified: 2025-06-09T00:29:27.638Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -240,7 +240,6 @@
 ||aiphotomania.com^$dnsrewrite=ad-block.dns.adguard.com
 ||aistekso.net^$dnsrewrite=ad-block.dns.adguard.com
 ||ak-is2.net^$dnsrewrite=ad-block.dns.adguard.com
-||alamodewabuma.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||albonsa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||alexatracker.com^$dnsrewrite=ad-block.dns.adguard.com
 ||alfa-track2.site^$dnsrewrite=ad-block.dns.adguard.com
@@ -398,7 +397,6 @@
 ||endivestlr.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||endlessloveonline.online^$dnsrewrite=ad-block.dns.adguard.com
 ||enframement.pics^$dnsrewrite=ad-block.dns.adguard.com
-||enhanceconnection.co.in^$dnsrewrite=ad-block.dns.adguard.com
 ||enrtx.com^$dnsrewrite=ad-block.dns.adguard.com
 ||equides.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||errolandtessa.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -472,7 +470,6 @@
 ||highcpmgate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hiiona.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hilarioustasting.com^$dnsrewrite=ad-block.dns.adguard.com
-||hiphaltlauroyl.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||hnrgmc.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hoadaphagoar.net^$dnsrewrite=ad-block.dns.adguard.com
 ||hoglinsu.com^$dnsrewrite=ad-block.dns.adguard.com
