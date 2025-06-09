@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-09T20:07:14.750Z
+! Last modified: 2025-06-09T22:06:35.144Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -33,7 +33,6 @@
 ||dramaticsalad.com^$dnsrewrite=ad-block.dns.adguard.com
 ||debridleech.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trckkkk.com^$dnsrewrite=ad-block.dns.adguard.com
-||fastorfar.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hopgp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||loowhujoom.net^$dnsrewrite=ad-block.dns.adguard.com
 ||glugherg.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -179,7 +178,6 @@
 ||getkmspico.com^$dnsrewrite=ad-block.dns.adguard.com
 ||heukmsactivator.com^$dnsrewrite=ad-block.dns.adguard.com
 ||Furykms.com^$dnsrewrite=ad-block.dns.adguard.com
-||kmsofficial.org^$dnsrewrite=ad-block.dns.adguard.com
 ||getintopc.today^$dnsrewrite=ad-block.dns.adguard.com
 ||d3t3bxixsojwre.cloudfront.net^$dnsrewrite=ad-block.dns.adguard.com
 ||0i0i0i0.com^$dnsrewrite=ad-block.dns.adguard.com
