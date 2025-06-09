@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-09T16:07:38.958Z
+! Last modified: 2025-06-09T18:08:59.574Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1148,7 +1148,6 @@
 ||1463.info^$dnsrewrite=ad-block.dns.adguard.com
 ||prestich.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||www.mir-stalkera.ru^$dnsrewrite=ad-block.dns.adguard.com
-||armablek.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||pianis.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||go.17r.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||nachalos.shopo^$dnsrewrite=ad-block.dns.adguard.com
@@ -1160,7 +1159,6 @@
 ||b.we-are-anon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sofq.site^$dnsrewrite=ad-block.dns.adguard.com
 ||iceprogs.ru^$dnsrewrite=ad-block.dns.adguard.com
-||coml.be^$dnsrewrite=ad-block.dns.adguard.com
 ||news-molixo.cc^$dnsrewrite=ad-block.dns.adguard.com
 ||go.xl.ua^$dnsrewrite=ad-block.dns.adguard.com
 ||go.zdos.ru^$dnsrewrite=ad-block.dns.adguard.com
@@ -1169,7 +1167,6 @@
 ||1qi.info^$dnsrewrite=ad-block.dns.adguard.com
 ||naucaish.net^$dnsrewrite=ad-block.dns.adguard.com
 ||popadon.com^$dnsrewrite=ad-block.dns.adguard.com
-||couptoug.net^$dnsrewrite=ad-block.dns.adguard.com
 ||refpahrwzjlv.top^$dnsrewrite=ad-block.dns.adguard.com
 ||betemolgar.com^$dnsrewrite=ad-block.dns.adguard.com
 ||z.cdn.trafficdok.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -1177,7 +1174,6 @@
 ||rtb.trade^$dnsrewrite=ad-block.dns.adguard.com
 ||deeppquiz.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||virnews.club^$dnsrewrite=ad-block.dns.adguard.com
-||basenews7.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bestdealfor1.life^$dnsrewrite=ad-block.dns.adguard.com
 ||click.zmctrack.net^$dnsrewrite=ad-block.dns.adguard.com
 ||ec2-44-233-143-239.us-west-2.compute.amazonaws.com^$dnsrewrite=ad-block.dns.adguard.com
