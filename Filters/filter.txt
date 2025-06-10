@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-10T00:27:23.081Z
+! Last modified: 2025-06-10T02:37:53.569Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2717,7 +2717,6 @@
 ||056a4cfad3.67f02fed6f.com^
 ||0600abfc6e.7ec3ad2512.com^
 ||060f670359.77cae4574b.com^
-||0fd597b40a.2377192920.com^
 ||12159c9c0b.3009e36989.com^
 ||1386bd6fb0.52fa059b20.com^
 ||1d36243653.ef1dd1776c.com^
@@ -2983,7 +2982,6 @@
 ||e71b1091d6.a33ec2c3da.com^
 ||e792462996.034b9fd2c9.com^
 ||e91ab5975e.623efad9ac.com^
-||eb94f6dbe1.a8aebc73ca.com^
 ||ed956f23ae.23cc6cc4e9.com^
 ||edb6b4f82b.21b90dc4f5.com^
 ||ef65c623b2.1c9ef7b121.com^
@@ -6659,6 +6657,7 @@ vkcdnservice.appspot.com^
 ||22lmsi1t5.de^
 ||22media.world^
 ||22yy6.com^
+||2377192920.com^
 ||23hssicm9.de^
 ||24-sportnews.com^
 ||2443march2024.com^
@@ -7266,6 +7265,7 @@ vkcdnservice.appspot.com^
 ||a717b6d31e.com^
 ||a760b56379.com^
 ||a85d43cd02.com^
+||a8aebc73ca.com^
 ||a8bea9eb5d.com^
 ||a8e8c59504.com^
 ||a91e9c75f8.com^
@@ -8277,6 +8277,7 @@ vkcdnservice.appspot.com^
 ||ahkjuekgpccmj.world^
 ||ahlefind.com^
 ||ahomsoalsoah.net^
+||ahongbityite.com^
 ||ahporntube.com^
 ||ahqnijgiga.com^
 ||ahqovxli.com^
@@ -15275,6 +15276,7 @@ vkcdnservice.appspot.com^
 ||fa77756437.com^
 ||faaof.com^
 ||fableanno.shop^
+||fabricforrel.com^
 ||fabricwaffleswomb.com^
 ||fabulouscasualdate.life^
 ||faceliftluminancetill.com^
@@ -19068,6 +19070,7 @@ vkcdnservice.appspot.com^
 ||jagnoans.com^
 ||jaifeeveely.com^
 ||jaimirozadair.net^
+||jaivoapsaiji.com^
 ||jaiwhaiglovo.com^
 ||jakseegrutso.net^
 ||jalapicundelve.top^
@@ -19132,6 +19135,7 @@ vkcdnservice.appspot.com^
 ||jbtul.com^
 ||jbucljxqgbgzk.icu^
 ||jbvoejzmaqqjj.top^
+||jbvywxnvqgqwwes.com^
 ||jbzmwqmwqyejw.top^
 ||jc32arlvqpv8.com^
 ||jcadamsu.com^
@@ -23601,6 +23605,7 @@ vkcdnservice.appspot.com^
 ||orcnakokt.com^
 ||orcpfawzuvfe.com^
 ||ordciqczaox.com^
+||orderlycash.com^
 ||orderlydividepawn.com^
 ||ordinaleatersouls.com^
 ||ordinarilycomedyunload.com^
@@ -24513,6 +24518,7 @@ vkcdnservice.appspot.com^
 ||pierianphellum.shop^
 ||pierisrapgae.com^
 ||pierlinks.com^
+||piestprevot.com^
 ||pifnrihu.com^
 ||pifpanobkox.com^
 ||piggiepepo.xyz^
@@ -25596,6 +25602,7 @@ vkcdnservice.appspot.com^
 ||pzeorwxt.com^
 ||pzjndhdke.com^
 ||pzmeblamivop.world^
+||pzmwfmovjmqib.site^
 ||pzvai.site^
 ||q1-tdsge.com^
 ||q2i8kd5n.de^
@@ -26629,6 +26636,7 @@ vkcdnservice.appspot.com^
 ||ringaunsoordoo.net^
 ||ringersidewaysapiece.com^
 ||ringsconsultaspirant.com^
+||ringtawstodgy.com^
 ||ringtonepartner.com^
 ||rinninghandful.shop^
 ||rinryesopertyva.org^
@@ -28069,6 +28077,7 @@ vkcdnservice.appspot.com^
 ||smooth-street.pro^
 ||smothercontinuingsnore.com^
 ||smotherpeppermint.com^
+||smotternumber.top^
 ||smowtion.com^
 ||smpgfx.com^
 ||smrt-cdn.com^
@@ -30134,6 +30143,7 @@ vkcdnservice.appspot.com^
 ||tumblehisswitty.com^
 ||tumblepoet.com^
 ||tumordied.com^
+||tumorskyar.com^
 ||tumri.net^
 ||tunefatigueclarify.com^
 ||tunitytostara.org^
@@ -31243,6 +31253,7 @@ vkcdnservice.appspot.com^
 ||vryosxnm.com^
 ||vs3.com^
 ||vsdiz.xyz^
+||vseilglebuoaj.space^
 ||vsftsyriv.com^
 ||vsgyfixkbow.com^
 ||vstserv.com^
@@ -32361,6 +32372,7 @@ vkcdnservice.appspot.com^
 ||yawltelurgy.shop^
 ||yazuda.xyz^
 ||ybhyziittfg.com^
+||ybpaykjd.com^
 ||ybs2ffs7v.com^
 ||ybsqqegmkdonc.life^
 ||ybtkzjm.com^
@@ -37086,6 +37098,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||replay.reviews.io^
+||ads-alpha.ewscloud.com^
 ||anonymised.io^
 ||m6ulblxep4.execute-api.us-east-1.amazonaws.com^
 ||api.instant.one^
@@ -89985,6 +89999,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||t.danielwellington.com^
 ||analytics.emforce.co.kr^
 ||track.ssg.com^
 ||c2-eu.piano.io^
@@ -104988,6 +105003,8 @@ dlsdk.appsflyer.com^
 ||raspberry55o.com^
 ||4e9ynqm47d.com^
 ||colkarneh.com^
+||xftsjv.top^
+||vvd68pv6lj.com^
 ||80ms6831o.com^
 ||sghcj5pnb.com^
 ||vgnyli.top^
