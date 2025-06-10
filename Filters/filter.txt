@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-10T14:06:46.928Z
+! Last modified: 2025-06-10T16:07:38.328Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||hurarwjrirti.com^
 ||pahtpw.tech^
 ||livestt.co^
 ||skypie.info^
@@ -743,6 +744,94 @@
 ! https://github.com/AdguardTeam/FiltersRegistry/pull/937
 ! To fix the issue with the CNAME trackers, add problematic domains here:
 ! https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/exclusions.txt
+!
+! RealBig : park.realbig.online disguised advertising networks
+!
+! Company name: RealBig
+||1.vakuumnyy-stimulyator.ru^
+||a.rb-ya.ru^
+||a.resr.ru^
+||a.ridd.ru^
+||a.vanvok.ru^
+||ads.wattpadru.ru^
+||adsrealpublic.ru^
+||autorekrb.bid^
+||b1.rbighouse.ru^
+||b10.rbighouse.ru^
+||b11.rbighouse.ru^
+||b3.rbighouse.ru^
+||b5.rbighouse.ru^
+||bo.zymorico.store^
+||cdn.zamunda.ru^
+||da.zilovaro.ru^
+||dlyarecnew.me^
+||downnora.me^
+||ecomedtorg.ru^
+||elpushnot.com^
+||fft.delovoemesto.ru^
+||gaz-help.ru^
+||he.zymorico.ru^
+||liveislive.bid^
+||media.rabbit.click^
+||mu.zilovaro.store^
+||my.rbpsh.ru^
+||newrotatormarch23.bid^
+||news.unsere-news.ru^
+||newup.bid^
+||noradown.bid^
+||nservw.net^
+||onemontay.ru^
+||owmedia.rabbit.click^
+||owpush.rabbit.click^
+||p.netork.ru^
+||par.moyslovar.ru^
+||po.zolivexo.ru^
+||push.rabbit.click^
+||pushche.rabbit.click^
+||r.hjj.pw^
+||rb.slova-accordy.ru^
+||rb.sveto-sharik.ru^
+||rb.umspecrek.ru^
+||rbbutton.bid^
+||rbfive.bid^
+||rbfour.bid^
+||rbig.pcyk.ru^
+||rbone.link^
+||rbthre.work^
+||realrb.bid^
+||rott.mazlspqnn.ru^
+||servw.bid^
+||sub.fastgnmx.com^
+||truenat.bid^
+||tryonline.bid^
+||tuesdaysale.bid^
+||vi.zolivexo.store^
+||workerhome.click^
+||www.5738.ru^
+||www.allworldinfo4.store^
+||www.aviator-game.info^
+||www.eshii.ru^
+||www.fasder12.ru^
+||www.fasder12.store^
+||www.gorrio.ru^
+||www.horpush.ru^
+||www.pc-download.ru^
+||www.pushrb.pro^
+||www.raelb2.ru^
+||www.rbdomain.ru^
+||www.rbmcnf.pro^
+||www.rbp1.ru^
+||www.rbp2.ru^
+||www.rbp2.site^
+||www.rbp3.ru^
+||www.rbp63841.ru^
+||www.rbpark1.site^
+||www.rbpark1.website^
+||www.rbpark2.ru^
+||www.rbpark3.ru^
+||www.rbprk91645.ru^
+||www.rlrt.ru^
+||www.siterec.site^
 !
 ! GoAdserver : go.goadserver.com disguised advertising networks
 !
@@ -11416,6 +11505,7 @@ vkcdnservice.appspot.com^
 ||cbkcsbearrwj.com^
 ||cbkyaepzyibsx.click^
 ||cbro.win^
+||cbtxlvpoczxxr.space^
 ||cbyqzt.xy^
 ||cc-dt.com^
 ||cc33b86bbf.com^
@@ -12578,6 +12668,7 @@ vkcdnservice.appspot.com^
 ||coucalhidated.com^
 ||couchedbliny.top^
 ||coudswamper.com^
+||couijnmkgjdim.site^
 ||couldmisspell.com^
 ||couledochemy.net^
 ||councernedasesi.com^
@@ -14062,7 +14153,6 @@ vkcdnservice.appspot.com^
 ||downloadoffice2010.org^
 ||downloadyt.com^
 ||downlon.com^
-||downnora.me^
 ||downparanoia.com^
 ||downright-administration.pro^
 ||downwardstreakchar.com^
@@ -14654,6 +14744,7 @@ vkcdnservice.appspot.com^
 ||ekmas.com^
 ||ekont.site^
 ||ekrpjrrovubka.club^
+||eksqtfco.com^
 ||ekvalqwmly.com^
 ||ekxyrwvoegb.xyz^
 ||eladove.com^
@@ -16457,8 +16548,8 @@ vkcdnservice.appspot.com^
 ||gavearsonistclever.com^
 ||gayadpros.com^
 ||gaytwddahpave.com^
-||gaz-help.ru^
 ||gazati.com^
+||gazedatthewon.com^
 ||gazeroelet.space^
 ||gazetteavaunt.shop^
 ||gazettemisrun.click^
@@ -18229,7 +18320,6 @@ vkcdnservice.appspot.com^
 ||hunyakkelder.top^
 ||hupot.site^
 ||huqbeiy.com^
-||hurarwjrirti.com^
 ||hurdlesomehowpause.com^
 ||hurkarubypaths.com^
 ||hurlcranky.com^
@@ -21097,6 +21187,7 @@ vkcdnservice.appspot.com^
 ||lzoasvofvzw.com^
 ||lzolanahk.com^
 ||lzoorgpta.com^
+||lzqmjakwllbrj.top^
 ||lztjczymishqn.com^
 ||lzukrobrykk.com^
 ||lzvwybvvyrqyk.top^
@@ -22517,7 +22608,6 @@ vkcdnservice.appspot.com^
 ||newosama.com^
 ||newpartnerlover.com^
 ||newregazedatth.com^
-||newrotatormarch23.bid^
 ||newrrb.bid^
 ||newrtbside.com^
 ||news-bbipasu.today^
@@ -26127,7 +26217,6 @@ vkcdnservice.appspot.com^
 ||rbqlbokvorwoa.top^
 ||rbrightscarletcloaksan.org^
 ||rbtfit.com^
-||rbthre.work^
 ||rbtwo.bid^
 ||rbvgaetqsk.love^
 ||rbweljjbvvbrj.top^
@@ -27633,7 +27722,6 @@ vkcdnservice.appspot.com^
 ||servingsurroundworldwide.com^
 ||servsserverz.com^
 ||servtraff97.com^
-||servw.bid^
 ||sessfetchio.com^
 ||sestimold.top^
 ||setafawo.pro^
@@ -28357,6 +28445,7 @@ vkcdnservice.appspot.com^
 ||spasmodictripscontemplate.com^
 ||spatteramazeredundancy.com^
 ||spdate.com^
+||spearunurn.shop^
 ||special-offers.online^
 ||special-promotions.online^
 ||specialistrequirement.com^
@@ -31303,6 +31392,7 @@ vkcdnservice.appspot.com^
 ||vpbpb.com^
 ||vpico.com^
 ||vpipi.com^
+||vpldfujttsdfj.com^
 ||vplgggd.com^
 ||vplxmpagryjvl.space^
 ||vpn-defend.com^
@@ -31568,6 +31658,7 @@ vkcdnservice.appspot.com^
 ||wdoyouknowsai.org^
 ||wdptconiwu.com^
 ||wdtyl.xyz^
+||wdxffvpqzthwt.store^
 ||weakcompromise.com^
 ||weakermumrespect.com^
 ||wealthextend.com^
@@ -32635,6 +32726,7 @@ vkcdnservice.appspot.com^
 ||yrrgghsnq.com^
 ||yrwqquykdja.com^
 ||yrzkvwrrpampg.online^
+||yrzmxrasdhwbq.store^
 ||ysesials.net^
 ||yshfyhfhzvcik.club^
 ||ytdut.online^
@@ -32778,6 +32870,7 @@ vkcdnservice.appspot.com^
 ||zhtiqbietjwhb.fun^
 ||zhtndfplsmcqt.global^
 ||zi8ivy4b0c7l.com^
+||zibethsroguy.shop^
 ||ziblo.cloud^
 ||zidojrol.com^
 ||zigoulraugnechu.net^
@@ -95711,7 +95804,6 @@ dlsdk.appsflyer.com^
 ||stteeruptowind.com^
 ||s.cummerata.link^
 ||fnasmpygwa.com^
-||fft.delovoemesto.ru^
 ||xhivjkfghj.com^
 ||tlxjuj.com^
 ||dpjrba.com^
@@ -95729,7 +95821,6 @@ dlsdk.appsflyer.com^
 ||istmvh.com^
 ||bzgmcqqfxd.com^
 ||all-audio.pro^
-||rbfive.bid^
 ||nwhoxwpuj6.com^
 ||trackclicksplz.site^
 ||b.we-are-anon.com^
@@ -95738,7 +95829,6 @@ dlsdk.appsflyer.com^
 ||voidnetwork.cloud^
 ||tds.bid^
 ||sarafan.fun^
-||rbfour.bid^
 ||prft1pub.com^
 ||wishesen.com^
 ||hhooyivpxq.com^
@@ -96134,7 +96224,6 @@ dlsdk.appsflyer.com^
 ||quantumpers.com^
 ||luckyads.tech^
 ||advgalaxy.com^
-||truenat.bid^
 ||pkqeg5z3xffs.info^
 ||edugrampromo.com^
 ||flipflap.pro^
@@ -96182,7 +96271,6 @@ dlsdk.appsflyer.com^
 ||cdn.hunteryvely.com^
 ||skwstat.ru^
 ||kinoaction.ru^
-||onemontay.ru^
 ||sm-ini.ru^
 ||kipyn.com^
 ||gold-mir.com^
@@ -99542,8 +99630,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Jun 2025 23:08 UTC+7
-! Version: 2506082308
+! Last modified: 10 Jun 2025 21:57 UTC+7
+! Version: 2506102157
 ! Blocked: 879 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -100364,8 +100452,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 08 Jun 2025 23:08 UTC+7
-! Version: 2506082308
+! Last modified: 10 Jun 2025 21:56 UTC+7
+! Version: 2506102156
 ! Blocked: 4.759 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
