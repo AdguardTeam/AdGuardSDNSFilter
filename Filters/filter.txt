@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-11T20:06:11.587Z
+! Last modified: 2025-06-11T22:06:12.659Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6199,7 +6199,6 @@
 ||d2o8i1jpfoso49.cloudfront.net^
 ||d1r3ddyrqrmcjv.cloudfront.net^
 ||d1i64ia3gj0ol1.cloudfront.net^
-||ads.digital.disneyadvertising.com^
 ||d2trpg4l6gqit0.cloudfront.net^
 ||dppaivsn6f9dy.cloudfront.net^
 ||dv663fc06d35i.cloudfront.net^
@@ -12471,6 +12470,7 @@ vkcdnservice.appspot.com^
 ||complainttattooshy.com^
 ||complementinstancesvarying.com^
 ||completeminimum.pro^
+||complex-burn.pro^
 ||complex-nasty.pro^
 ||complexastare.shop^
 ||complicated-scale.pro^
@@ -13242,6 +13242,7 @@ vkcdnservice.appspot.com^
 ||dajytkby.com^
 ||dakotasboreens.top^
 ||daksenskied.top^
+||daleanomala.top^
 ||dalecta.com^
 ||daleelerah.info^
 ||daleperceptionpot.com^
@@ -19645,6 +19646,7 @@ vkcdnservice.appspot.com^
 ||jqtfoe92.com^
 ||jqtqoknktzy.space^
 ||jqtree.com^
+||jqtxivlqbntspc.com^
 ||jqueryoi.com^
 ||jqueryserve.org^
 ||jqueryserver.com^
@@ -22713,6 +22715,7 @@ vkcdnservice.appspot.com^
 ||nenectedithcon.info^
 ||neniicjwpnvsgsr.com^
 ||nentawolf.shop^
+||nentsyshruggl.com^
 ||neoftheownouncillo.info^
 ||neousaunce.com^
 ||nepitasianic.shop^
@@ -28320,6 +28323,7 @@ vkcdnservice.appspot.com^
 ||skyscraperearnings.com^
 ||skyscrapertowel.com^
 ||skytraf.xyz^
+||skzljadgwjh.com^
 ||slabshookwasted.com^
 ||slackensuddeneat.com^
 ||slahpxqb6wto.com^
@@ -29447,6 +29451,7 @@ vkcdnservice.appspot.com^
 ||tame-discount.pro^
 ||tamedilks.com^
 ||tameti.com^
+||tamisbestock.shop^
 ||tamperdepreciate.com^
 ||tanagersavor.click^
 ||tanbarshenh.org^
@@ -31983,6 +31988,7 @@ vkcdnservice.appspot.com^
 ||wesmallproclaim.com^
 ||westcoa.com^
 ||westernwhetherowen.com^
+||wet-hurt.com^
 ||wet-maybe.pro^
 ||wetnesstommer.com^
 ||wetrackgames.com^
@@ -32494,6 +32500,7 @@ vkcdnservice.appspot.com^
 ||wyaoormajveqk.top^
 ||wyaoormajvwqj.top^
 ||wyaoormajvykm.top^
+||wydiguefvjpn.com^
 ||wyeosamxhgqwt.world^
 ||wyglyvaso.com^
 ||wyhifdpatl.com^
@@ -33171,6 +33178,7 @@ vkcdnservice.appspot.com^
 ||zmmlllpjxvxl.buzz^
 ||zmonei.com^
 ||zmqyzjlzooqbz.top^
+||zmrrjyyqeavzw.top^
 ||zmvcbfmrdgner.club^
 ||zmysashrep.com^
 ||zmytkaoh.com^
@@ -33944,6 +33952,7 @@ vkcdnservice.appspot.com^
 ||digitalkites.com^
 ||digitalpush.org^
 ||digitalthrottle.com^
+||disneyadvertising.com^
 ||disqusads.com^
 ||dl-protect.net^
 ||dochase.com^
@@ -90722,7 +90731,6 @@ vkcdnservice.appspot.com^
 ||pixel-static.spotify.com^
 ||pixel-config.reddit.com^
 ||tracker.curama.jp^
-||beacons.digital.disneyadvertising.com^
 ||telegraph.prd.api.discomax.com^
 ||telegraph.prd.api.max.com^
 ||trk.joinrs.com^
