@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-12T16:07:29.251Z
+! Last modified: 2025-06-12T20:07:33.498Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -67,10 +67,8 @@
 ||s.pemsrv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||primeleech.com^$dnsrewrite=ad-block.dns.adguard.com
 ||malikiresids.com^$dnsrewrite=ad-block.dns.adguard.com
-||compassionatecheek.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dlmonitize.com^$dnsrewrite=ad-block.dns.adguard.com
 ||beyourxfriend.com^$dnsrewrite=ad-block.dns.adguard.com
-||dating.service2u.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||a.labadena.com^$dnsrewrite=ad-block.dns.adguard.com
 ||whiteforwardlines.com^$dnsrewrite=ad-block.dns.adguard.com
 ||exinariuminix.info^$dnsrewrite=ad-block.dns.adguard.com
