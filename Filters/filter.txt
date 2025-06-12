@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-12T00:27:12.050Z
+! Last modified: 2025-06-12T02:36:54.873Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13215,6 +13215,7 @@ vkcdnservice.appspot.com^
 ||daffaite.com^
 ||daffishrenky.shop^
 ||daffodilnotifyquarterback.com^
+||dagabamanei.shop^
 ||dagnar.com^
 ||dagnurgihjiz.com^
 ||dagpwuavho.com^
@@ -15533,6 +15534,7 @@ vkcdnservice.appspot.com^
 ||fajukc.com^
 ||fake-square.com^
 ||fakesorange.com^
+||fakirhobbism.top^
 ||falcatasestina.top^
 ||falcatayamalka.com^
 ||falkag.net^
@@ -19172,6 +19174,7 @@ vkcdnservice.appspot.com^
 ||isboost.co.jp^
 ||isbycgqyhsze.world^
 ||isgost.com^
+||ishedbritings.com^
 ||isisomeoneintheworld.org^
 ||isiu0w9gv.com^
 ||iskxbcplvw.com^
@@ -19992,6 +19995,7 @@ vkcdnservice.appspot.com^
 ||kgdvs9ov3l2aasw4nuts.com^
 ||kgfjrb711.com^
 ||kgfrstw.com^
+||kggrybngbdwedsg.com^
 ||kgiponbnqwo.com^
 ||kgiulbvj.com^
 ||kglbvcvuqpl.com^
@@ -21375,6 +21379,7 @@ vkcdnservice.appspot.com^
 ||machmayhavedesc.org^
 ||machogodynamis.com^
 ||machreemudless.shop^
+||macrlisubnet.com^
 ||madadsmedia.com^
 ||madcheddar.net^
 ||madcpms.com^
@@ -21881,6 +21886,7 @@ vkcdnservice.appspot.com^
 ||mghkpg.com^
 ||mgisrlyu.xyz^
 ||mgladthereisso.com^
+||mgrrprhkhmwj.com^
 ||mgtcouucmfjmowr.com^
 ||mgxbwylia.com^
 ||mgyccfrshz.com^
@@ -22919,6 +22925,7 @@ vkcdnservice.appspot.com^
 ||nitridslah.com^
 ||niveausatan.shop^
 ||niveauultion.shop^
+||niwinn.com^
 ||niwooghu.com^
 ||niyeobmjpg.com^
 ||niyimu.xyz^
@@ -23796,6 +23803,7 @@ vkcdnservice.appspot.com^
 ||ooloptou.net^
 ||oomaugnaps.net^
 ||oomougnoltaifto.net^
+||oompahmoniker.com^
 ||oonsouque.com^
 ||oopatet.com^
 ||ooqtjsubfcppe.life^
@@ -25742,6 +25750,7 @@ vkcdnservice.appspot.com^
 ||pugsgivehugs.com^
 ||puhtml.com^
 ||puitaexb.com^
+||pujhysvxfpf.com^
 ||puldhukelpmet.com^
 ||pullovereugenemistletoe.com^
 ||pulpix.com^
@@ -26121,6 +26130,7 @@ vkcdnservice.appspot.com^
 ||qrealqezjqvrj.top^
 ||qrgip.xyz^
 ||qrifhajtabcy.com^
+||qrkwvooljbmov.top^
 ||qrkwvoomrbroo.top^
 ||qrlsx.com^
 ||qrprobopassor.com^
@@ -27170,6 +27180,7 @@ vkcdnservice.appspot.com^
 ||rooptawu.net^
 ||roosterbelime.shop^
 ||rootderideflex.com^
+||rootithoatooglu.net^
 ||rootoadoop.net^
 ||roots.baby^
 ||rootzaffiliates.com^
@@ -32626,6 +32637,7 @@ vkcdnservice.appspot.com^
 ||xijgedjgg5f55.com^
 ||ximybkpxwu.com^
 ||xineday.com^
+||xiphiidbachel.com^
 ||xipteq.com^
 ||xisrzoruhmr.com^
 ||xityonatallcolumn.com^
@@ -90441,6 +90453,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||kamp.daum.net^
 ||netmarbleslog.netmarble.com^
 ||slf.fugu-it.com^
 ||ukadh.livelyroot.com^
@@ -93293,6 +93306,12 @@ dlsdk.appsflyer.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+!
+! NOTE: Regular rules
+!
+||data-detect.nie.easebar.com^
+||mgbsdk*.matrix.easebar.com^
+||applog*.matrix.easebar.com^
 ||hz-telemetry.adobe.io^
 ||smartcard.apps.coloros.com^
 ||fp-it.fengkongcloud.com^
@@ -105442,6 +105461,8 @@ dlsdk.appsflyer.com^
 ||vbjm.cn^
 ||bmelkellv.com^
 ||river49xx.org^
+||xsvyvr.top^
+||fo0qofhtaw.com^
 ||jikklfexh.com^
 ||nrephihe.com^
 ||4rcajmf0m.com^
