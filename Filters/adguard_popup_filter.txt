@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-13T04:12:14.474Z
+! Last modified: 2025-06-13T06:09:19.315Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -535,6 +535,7 @@
 ||luntedepsom.top^$dnsrewrite=ad-block.dns.adguard.com
 ||lust-burning.rest^$dnsrewrite=ad-block.dns.adguard.com
 ||lust-goddess.buzz^$dnsrewrite=ad-block.dns.adguard.com
+||luxq8.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lwnbts.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lxkzcss.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||lylufhuxqwi.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -711,6 +712,7 @@
 ||recommended-twice.com^$dnsrewrite=ad-block.dns.adguard.com
 ||redaffil.com^$dnsrewrite=ad-block.dns.adguard.com
 ||redirectingat.com^$dnsrewrite=ad-block.dns.adguard.com
+||reebr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||relevefr.top^$dnsrewrite=ad-block.dns.adguard.com
 ||remv43-rtbix.top^$dnsrewrite=ad-block.dns.adguard.com
 ||resentreaccotia.com^$dnsrewrite=ad-block.dns.adguard.com

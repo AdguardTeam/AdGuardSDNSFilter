@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-13T04:12:11.681Z
+! Last modified: 2025-06-13T06:09:16.805Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8725,6 +8725,7 @@ vkcdnservice.appspot.com^
 ||altronopubacc.com^
 ||altvyogbvycvy.fun^
 ||altynamoan.com^
+||altynnfxkfaal.space^
 ||aluminumoutageprovince.com^
 ||alumniheadfirstshamrock.com^
 ||alvanhaybox.com^
@@ -12001,6 +12002,7 @@ vkcdnservice.appspot.com^
 ||ciiecknd.com^
 ||ciizxsdr.com^
 ||cijoorsairgusa.com^
+||cijoyfhiacneg.online^
 ||ciksolre.net^
 ||ciksoophuxabsie.net^
 ||cilon.site^
@@ -17467,6 +17469,7 @@ vkcdnservice.appspot.com^
 ||groumaux.net^
 ||groundinquiryoccupation.com^
 ||groundlesscobwebmiller.com^
+||grounsaubsoalt.net^
 ||groupian.io^
 ||groutaissou.net^
 ||groutoazikr.net^
@@ -21356,6 +21359,7 @@ vkcdnservice.appspot.com^
 ||luxins.net^
 ||luxlnk.com^
 ||luxope.com^
+||luxq8.com^
 ||luxup.ru^
 ||luxup2.ru^
 ||luxupadva.com^
@@ -23768,6 +23772,7 @@ vkcdnservice.appspot.com^
 ||omphantumpom.com^
 ||omshedinjaor.com^
 ||omwawgzi.com^
+||omwlngxvedebeb.com^
 ||omwovzodgck.com^
 ||omzal.com^
 ||omzatbos.com^
@@ -26245,6 +26250,7 @@ vkcdnservice.appspot.com^
 ||qrlsx.com^
 ||qrprobopassor.com^
 ||qrredraws.com^
+||qrrtvqws.com^
 ||qruatazgwctro.fun^
 ||qrubv.buzz^
 ||qrwoayzjybzkz.top^
@@ -26688,6 +26694,7 @@ vkcdnservice.appspot.com^
 ||redundancymail.com^
 ||redvil.co.in^
 ||redwingmagazine.com^
+||reebr.com^
 ||reecegrita.com^
 ||reedpraised.com^
 ||reedsbullyingpastel.com^
@@ -29093,6 +29100,7 @@ vkcdnservice.appspot.com^
 ||stesywijy.com^
 ||stethathehadsto.com^
 ||stethepsartopo.com^
+||steuydghhvkink.com^
 ||stevbade2.online^
 ||stgcdn.com^
 ||stgowan.com^
@@ -32042,6 +32050,7 @@ vkcdnservice.appspot.com^
 ||wbkokfwzpfuai.life^
 ||wboptim.online^
 ||wboux.com^
+||wbpiaqaqnqlmc.space^
 ||wbspvfabxpuear.com^
 ||wbygrybvjjksf.site^
 ||wcbxugtfk.com^
@@ -34381,6 +34390,7 @@ vkcdnservice.appspot.com^
 ||mixi.media^
 ||mobday.com^
 ||mobile-10.com^
+||monetano.com^
 ||monetixads.com^
 ||monsy.com^
 ||multiview.com^
@@ -36714,7 +36724,6 @@ vkcdnservice.appspot.com^
 ||creative.live.javdock.com^
 ||creative.nudelive.store^
 ||creative.ohmycams.com^
-||creative.reebr.com^
 ||creative.strip.chat^
 ||creative.stripchat.com^
 ||creative.stripchat.global^
@@ -93471,6 +93480,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||*-datareceiver.aki-game.net^
 ||data-detect.nie.easebar.com^
 ||mgbsdk*.matrix.easebar.com^
 ||applog*.matrix.easebar.com^
@@ -100059,9 +100069,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Jun 2025 21:57 UTC+7
-! Version: 2506102157
-! Blocked: 879 rules
+! Last modified: 13 Jun 2025 11:35 UTC+7
+! Version: 2506131135
+! Blocked: 886 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -100156,6 +100166,7 @@ dlsdk.appsflyer.com^
 ||combo-omni.haravan.com^
 ||customers.fptad.com^
 ||daleriki.com^
+||dantocmiennui-log.baotintuc.vn^
 ||delivery.akadigital.vn^
 ||delivery.vtc.vn^
 ||delivery.vtcnew.com.vn^
@@ -100163,6 +100174,8 @@ dlsdk.appsflyer.com^
 ||distinctrobin.com^
 ||donglogs.com^
 ||elogs.vnexpress.net^
+||en-log.vietnamplus.vn^
+||es-log.vietnamplus.vn^
 ||eva-ad.24hstatic.com^
 ||ezca.asia^
 ||facebook-ads.hara.vn^
@@ -100170,6 +100183,7 @@ dlsdk.appsflyer.com^
 ||ff.imacdn.com^
 ||fly-ads.net^
 ||flygame.io^
+||fr-log.vietnamplus.vn^
 ||gammassp.com^
 ||genmonet.com^
 ||google-ads.hara.vn^
@@ -100279,6 +100293,7 @@ dlsdk.appsflyer.com^
 ||quangcao.tuoitre.vn^
 ||realclick.vn^
 ||rec.aiservice.vn^
+||ru-log.vietnamplus.vn^
 ||s-logperf.vnexpress.net^
 ||s.tuoitre.vn^
 ||sbbanner-com.cdn.ampproject.org^
@@ -100365,6 +100380,7 @@ dlsdk.appsflyer.com^
 ||zalo-ads-td.zadn.vn^
 ||zalo-ads.zadn.vn^
 ||zaloads-480.zdn.vn^
+||zh-log.vietnamplus.vn^
 ||zlog.mp3.zing.vn^
 ||zlog.zingmp3.vn^
 ||zminer.zaloapp.com^
@@ -100633,6 +100649,7 @@ dlsdk.appsflyer.com^
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
 ||log.baogialai.com.vn^
+||log.baohatinh.vn^
 ||log.baolaocai.vn^
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
@@ -100881,8 +100898,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 10 Jun 2025 21:56 UTC+7
-! Version: 2506102156
+! Last modified: 13 Jun 2025 11:34 UTC+7
+! Version: 2506131134
 ! Blocked: 4.759 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -105611,6 +105628,7 @@ dlsdk.appsflyer.com^
 ||1lqw75ogo.com^
 ||haole1xx.top^
 ||xldyxnzo6.com^
+||n0usvkb1x.com^
 ||zrbnte.top^
 ||c21x8nmdak.com^
 ||hvmdu6macy.com^
