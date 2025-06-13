@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-13T16:07:39.329Z
+! Last modified: 2025-06-13T18:08:15.341Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -38,7 +38,6 @@
 ||glugherg.net^$dnsrewrite=ad-block.dns.adguard.com
 ||feckurteg.net^$dnsrewrite=ad-block.dns.adguard.com
 ||speedybytes.cfd^$dnsrewrite=ad-block.dns.adguard.com
-||sikoip.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||directsnap.click^$dnsrewrite=ad-block.dns.adguard.com
 ||land.izuchai.dance^$dnsrewrite=ad-block.dns.adguard.com
 ||wobbly-birth.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -50,7 +49,6 @@
 ||my.toruftuiov.com^$dnsrewrite=ad-block.dns.adguard.com
 ||esvpnjdntgr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||countabledawdlerunaudited.com^$dnsrewrite=ad-block.dns.adguard.com
-||worthwhile-wash.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vg876yuj.click^$dnsrewrite=ad-block.dns.adguard.com
 ||lmj8i.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||ytru4.pro^$dnsrewrite=ad-block.dns.adguard.com
@@ -1180,10 +1178,8 @@
 ||debitcrebit669.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tirsmile.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||go.ukrleads.com^$dnsrewrite=ad-block.dns.adguard.com
-||adfill.me^$dnsrewrite=ad-block.dns.adguard.com
 ||apytrc.com^$dnsrewrite=ad-block.dns.adguard.com
 ||awesomeredirector.com^$dnsrewrite=ad-block.dns.adguard.com
-||dating-cart.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tubecontext.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sharemefiles.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||partners.parimatch.net^$dnsrewrite=ad-block.dns.adguard.com
