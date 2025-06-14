@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-14T02:35:24.107Z
+! Last modified: 2025-06-14T04:08:24.927Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9698,6 +9698,7 @@ vkcdnservice.appspot.com^
 ||avvzamazdpa.com^
 ||avwjyvwqyymm.top^
 ||avwjyvzeymmb.top^
+||avzwkkmoearrj.top^
 ||avzwkkmoearyr.top^
 ||awaepqjjkcua.com^
 ||awaidxotovdoe.online^
@@ -23478,6 +23479,7 @@ vkcdnservice.appspot.com^
 ||nvxbjvswajhug.space^
 ||nwabcuwugact.com^
 ||nwarktriynwek.store^
+||nweligduicngw.site^
 ||nwemnd.com^
 ||nweztoovg.com^
 ||nwjdldsfzszkp.rocks^
@@ -30033,6 +30035,7 @@ vkcdnservice.appspot.com^
 ||thatmonkeybites3.com^
 ||thaudray.com^
 ||thaugnaixi.net^
+||thaumsetchy.net^
 ||thautsie.net^
 ||thaveksi.net^
 ||thawbootsamplitude.com^
@@ -31897,6 +31900,7 @@ vkcdnservice.appspot.com^
 ||vkv2nodv.xyz^
 ||vlctorytime.net^
 ||vldrztpyzwrwi.xyz^
+||vlipbmtcvus.com^
 ||vlitag.com^
 ||vlnk.me^
 ||vloahkelmykyd.top^
@@ -32005,6 +32009,7 @@ vkcdnservice.appspot.com^
 ||vrgvugostlyhewo.info^
 ||vrilledsummat.shop^
 ||vrizead.com^
+||vrmkbggikfhkpx.com^
 ||vrqdzfzzlyalb.space^
 ||vrtzads.com^
 ||vruaskogjsu.com^
@@ -33433,6 +33438,7 @@ vkcdnservice.appspot.com^
 ||zakruxxita.com^
 ||zaksmeqp.com^
 ||zaltaumi.net^
+||zalvmkislxc.com^
 ||zambiandirexit.top^
 ||zamiasbrass.top^
 ||zamioculcas2.org^
@@ -90813,7 +90819,6 @@ vkcdnservice.appspot.com^
 |piwik.
 !
 ||stats.anime-go.cc^
-||kamp.daum.net^
 ||netmarbleslog.netmarble.com^
 ||slf.fugu-it.com^
 ||ukadh.livelyroot.com^
@@ -99491,8 +99496,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-06-13 05:40:30 CEST
-# entries:        1125
+# last updated:   2025-06-14 05:01:37 CEST
+# entries:        1129
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -99570,6 +99575,7 @@ dlsdk.appsflyer.com^
 ||analytics-wpt.smhi.se^
 ||analytics.ci-360.se^
 ||angry-golick-2a96e5.netlify.app^
+||annons.fiskesnack.com^
 ||annons.svenskjakt.se^
 ||annons.turist.se^
 ||annonsserver.se^
@@ -99627,6 +99633,8 @@ dlsdk.appsflyer.com^
 ||cdn.advisible.com^
 ||cdn.amplitude.com^
 ||cdn.appsmav.com^
+||cdn.brevo.com^
+||cdn.by.wonderpush.com^
 ||cdn.convertbox.com^
 ||cdn.foxpush.net^
 ||cdn.gravitec.net^
@@ -105807,6 +105815,8 @@ dlsdk.appsflyer.com^
 ||mikka.app^
 ||bqdhrr.top^
 ||einothepz.com^
+||dtqs84i8bq.com^
+||w0yg6igaoz.com^
 ||yui06131shga.com^
 ||uahivaqettl.com^
 ||ojxr.cn^
