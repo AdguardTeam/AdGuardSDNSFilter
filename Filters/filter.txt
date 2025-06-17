@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-17T12:11:20.112Z
+! Last modified: 2025-06-17T12:37:22.903Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10420,6 +10420,7 @@ vkcdnservice.appspot.com^
 ||betpupitarr.com^
 ||betrayalmakeoverinstruct.com^
 ||betriolua.com^
+||betrothfrison.com^
 ||betshucklean.com^
 ||bett2you.net^
 ||bett2you.org^
@@ -10483,6 +10484,7 @@ vkcdnservice.appspot.com^
 ||bhqvi.com^
 ||bhwfvfevnqg.com^
 ||biancasunlit.com^
+||biaqghckapnum.online^
 ||biaseddocumentationacross.com^
 ||biasedpushful.com^
 ||biaxalstiles.com^
@@ -18919,6 +18921,7 @@ vkcdnservice.appspot.com^
 ||idydlesswale.info^
 ||idyllteapots.com^
 ||ie8eamus.com^
+||ieccuxwjccmcw.com^
 ||iedtothema.org^
 ||iegrozrmvgjfp.online^
 ||ieluqiqttdwv.com^
@@ -20192,6 +20195,7 @@ vkcdnservice.appspot.com^
 ||jygotubvpyguak.com^
 ||jyhlgpkn.com^
 ||jynginefoldy.shop^
+||jyozavobzrekb.top^
 ||jyozavobzrlkz.top^
 ||jyqekzzlmymab.top^
 ||jyqekzzlmymzy.top^
@@ -26224,6 +26228,7 @@ vkcdnservice.appspot.com^
 ||ptawhood.net^
 ||ptbrdg.com^
 ||ptcdwm.com^
+||pteefoagha.com^
 ||pteelooger.net^
 ||pteemsoansouthe.net^
 ||pteemsolrirgegi.com^
@@ -111633,6 +111638,9 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1911
+! Blocked by CNAME grsm.io
+@@|affiliate.notion.so^|
 ! Popular anti-adblock bait
 @@|www3.doubleclick.net^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1879
