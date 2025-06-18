@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-18T16:07:51.473Z
+! Last modified: 2025-06-18T18:08:28.084Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9986,6 +9986,7 @@ vkcdnservice.appspot.com^
 ||bagfulswhitely.top^
 ||baggageconservationcaught.com^
 ||bagglqkjkvvvj.top^
+||baggy-physics.pro^
 ||bagmenunhaunt.top^
 ||bagpipemonogamypercent.com^
 ||baguettefactornervous.com^
@@ -13263,6 +13264,7 @@ vkcdnservice.appspot.com^
 ||cupoabie.net^
 ||cupriteshivas.shop^
 ||cupswiss.com^
+||curbashheroess.shop^
 ||curdierbefit.top^
 ||curfsaracana.shop^
 ||curioushingefast.com^
@@ -14337,6 +14339,7 @@ vkcdnservice.appspot.com^
 ||dogt.xyz^
 ||dogwrite.com^
 ||dokondigit.quest^
+||dokrithauw.net^
 ||dolatiaschan.com^
 ||dolatiosom.com^
 ||dolcinopararek.com^
@@ -16841,6 +16844,7 @@ vkcdnservice.appspot.com^
 ||fyresumefo.com^
 ||fyrjrdkk.com^
 ||fytwvougnijsn.store^
+||fyzpcrqqernqr.site^
 ||fzamtef.com^
 ||fzcbgedizbt.click^
 ||fzev75-rtbix.top^
@@ -19035,6 +19039,7 @@ vkcdnservice.appspot.com^
 ||ifigent.com^
 ||ifinbjyvqxytr.world^
 ||ifindsoul.com^
+||ifirsjqydbkb.com^
 ||ifont.site^
 ||ifsjqcqja.xyz^
 ||ifulasaweatherc.info^
@@ -20173,6 +20178,7 @@ vkcdnservice.appspot.com^
 ||jscdn.online^
 ||jscloud.org^
 ||jscount.com^
+||jsddaojwiqgfjps.com^
 ||jsdelvr.com^
 ||jsfeedadsget.com^
 ||jsfir.cyou^
@@ -22633,6 +22639,7 @@ vkcdnservice.appspot.com^
 ||mjnkcdmjryvz.click^
 ||mjpvukdc.com^
 ||mjxlfwvirjmt.com^
+||mjyuiqbmukbg.com^
 ||mkegukqhao.com^
 ||mkehcocw.com^
 ||mkenativji.com^
@@ -24604,6 +24611,7 @@ vkcdnservice.appspot.com^
 ||ordciqczaox.com^
 ||orderlycash.com^
 ||orderlydividepawn.com^
+||ordgoverytr.com^
 ||ordinaleatersouls.com^
 ||ordinarilycomedyunload.com^
 ||ordinarilyrehearsenewsletter.com^
@@ -25446,6 +25454,7 @@ vkcdnservice.appspot.com^
 ||phasmidaiawong.top^
 ||phastoag.com^
 ||phaulsomtounel.com^
+||phauthunourto.net^
 ||phburwtzjusbh.site^
 ||phechiptupti.pro^
 ||phee1oci.com^
@@ -26858,6 +26867,7 @@ vkcdnservice.appspot.com^
 ||qpexrabravma.com^
 ||qpezuwdhaf.com^
 ||qpfyoire.com^
+||qpgbxpuoepxyb.online^
 ||qpigulofbwah.com^
 ||qpnbfkjkg.com^
 ||qppq166n.de^
@@ -26897,6 +26907,7 @@ vkcdnservice.appspot.com^
 ||qskxpvncyjly.com^
 ||qsmnt.online^
 ||qspneixlf.com^
+||qspylmhnisdrq.space^
 ||qsrdqwujtvxcf.vip^
 ||qsrvzbuhumwow.website^
 ||qsuchbth.com^
@@ -28052,6 +28063,7 @@ vkcdnservice.appspot.com^
 ||rpuapxwq.com^
 ||rqazepammrl.com^
 ||rqejawwjlazlv.top^
+||rqgiwrjyicatp.site^
 ||rqnvci.com^
 ||rqr97sfd.xyz^
 ||rqsaxxdbt.com^
@@ -33665,6 +33677,7 @@ vkcdnservice.appspot.com^
 ||xiphiidbachel.com^
 ||xipteq.com^
 ||xisrzoruhmr.com^
+||xissattah.com^
 ||xityonatallcolumn.com^
 ||xiupynbp.life^
 ||xivfusotcqw.com^
@@ -91620,6 +91633,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||stats.pixeldrain.com^
 ||dd.reuters.com^
 ||nexus.uniten.io^
 ||rusty-heartbeat.services.ps.axelspringer.de^
@@ -95864,7 +95878,6 @@ dlsdk.appsflyer.com^
 ||stats.netbopdev.co.uk^
 ||stats.netdriven.com^
 ||stats.ozwebsites.biz^
-||stats.pixeldrain.com^
 ||stats.polldaddy.com^
 ||stats.prebytes.com^
 ||stats.pushloop.io^
