@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-18T10:06:58.067Z
+! Last modified: 2025-06-18T12:11:07.417Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||buoydeparturediscontent.com^
+||vazdatbfutc.com^
+||app.189tutors.com^
 ||tiz-cc95ue-309.com^
 ||wgkulhwedxlpq.website^
 ||tinyadz.com^
@@ -6080,6 +6083,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||chuchle.all-usanomination.com^
 ||bundle.ppas.monster^
 ||adf.underhentai.net^
 ||donasi.lk21.de^
@@ -11308,7 +11312,6 @@ vkcdnservice.appspot.com^
 ||bunth.net^
 ||bunzamxbtj.space^
 ||buoyant-quote.pro^
-||buoydeparturediscontent.com^
 ||bupatp.com^
 ||bupnjndj.com^
 ||buqkrzbrucz.com^
@@ -11387,6 +11390,7 @@ vkcdnservice.appspot.com^
 ||bybastiodoner.com^
 ||bycarver.com^
 ||bycathyhough.org^
+||byelawlasters.shop^
 ||byfoongusor.com^
 ||bygliscortor.com^
 ||bygonearabin.top^
@@ -19295,6 +19299,7 @@ vkcdnservice.appspot.com^
 ||inexperienced-end.pro^
 ||inexplicablecarelessfairly.com^
 ||infatuated-difference.pro^
+||infaunageosid.shop^
 ||infectedrepentearl.com^
 ||inferiorkate.com^
 ||infestpunishment.com^
@@ -20608,6 +20613,7 @@ vkcdnservice.appspot.com^
 ||kmyunderthf.info^
 ||kmyunderthf.org^
 ||kmzzygkjhysbr.online^
+||knappantonish.com^
 ||knawelknosped.top^
 ||knbobfcgrbm.xyz^
 ||kncecafvdeu.info^
@@ -21531,6 +21537,7 @@ vkcdnservice.appspot.com^
 ||longingarsonistexemplify.com^
 ||longinghospitalsurveyed.com^
 ||longmansuchcesu.info^
+||loobaiptegip.net^
 ||loobilysubdebs.com^
 ||loobyfleyed.com^
 ||loodauni.com^
@@ -22148,6 +22155,7 @@ vkcdnservice.appspot.com^
 ||maudau.com^
 ||maulupoa.com^
 ||mausolemiskal.top^
+||mavamuwwnkksn.store^
 ||mavq.net^
 ||mawkggrbhsknuw.com^
 ||mawlaybob.com^
@@ -23547,10 +23555,12 @@ vkcdnservice.appspot.com^
 ||nmyfedath.com^
 ||nncdtquddmjjb.site^
 ||nnkjgbdsiq.com^
+||nnlnoklsrwbuljf.com^
 ||nnowa.com^
 ||nnwuqexsuz.com^
 ||no2veeamggaseber.com^
 ||noafooshejoot.com^
+||noahicvidonia.com^
 ||noapsovochu.net^
 ||noarefocoush.com^
 ||noavoahevugrib.com^
@@ -23970,6 +23980,7 @@ vkcdnservice.appspot.com^
 ||obzzasbupo.com^
 ||oc2tdxocb3ae0r.com^
 ||ocardoniel.com^
+||ocbakhpcuz.com^
 ||ocbmpyoqma.com^
 ||ocbnihhu.com^
 ||ocbrawagcat.com^
@@ -24034,6 +24045,7 @@ vkcdnservice.appspot.com^
 ||odqdkealzr.com^
 ||odqwrumpini.com^
 ||odqxukovk.com^
+||odvazhfsnswns.online^
 ||oecdupuvlbvjs.space^
 ||oeciyalb.top^
 ||oedipalchuppah.shop^
@@ -27638,6 +27650,7 @@ vkcdnservice.appspot.com^
 ||rfinidtirz.com^
 ||rfity.com^
 ||rftslb.com^
+||rganizationsuch.com^
 ||rgavvimsecmbo.life^
 ||rgbnqmz.com^
 ||rgddist.com^
@@ -27981,6 +27994,7 @@ vkcdnservice.appspot.com^
 ||royalcactus.com^
 ||royaltyfig.com^
 ||rozamimo9za10.com^
+||rpbielpssuigs.space^
 ||rpbntwsarxb.com^
 ||rpfytkt.com^
 ||rpkqrutejizju.space^
@@ -29307,6 +29321,7 @@ vkcdnservice.appspot.com^
 ||sociocast.com^
 ||sociomantic.com^
 ||socketbuild.com^
+||socmooksaiheel.net^
 ||sodallay.com^
 ||sodefender.pro^
 ||sodiumcupboard.com^
@@ -30471,6 +30486,7 @@ vkcdnservice.appspot.com^
 ||tenzoneinput.shop^
 ||tepid-ability.pro^
 ||tepirhdbauahk.com^
+||tepsmyvnxfssq.space^
 ||teqdutdxiwzwd.one^
 ||teracent.net^
 ||teracreative.com^
@@ -32130,7 +32146,6 @@ vkcdnservice.appspot.com^
 ||vawk0ap3.xyz^
 ||vax-boost.com^
 ||vax-now.com^
-||vazdatbfutc.com^
 ||vazshojt.com^
 ||vazticlkivi.com^
 ||vazypteke.pro^
@@ -32956,6 +32971,7 @@ vkcdnservice.appspot.com^
 ||wfexxzpmengpk.today^
 ||wffbdim.com^
 ||wffnhpcsenwviw.com^
+||wfgcaeoechdds.online^
 ||wfhahspcye.com^
 ||wfjkzgbcjnezi.fun^
 ||wfnetwork.com^
@@ -33479,6 +33495,7 @@ vkcdnservice.appspot.com^
 ||wylin.ai^
 ||wylmzwklkljav.top^
 ||wylmzwklkljwr.top^
+||wylmzwklkllyk.top^
 ||wylmzwklklyaz.top^
 ||wylmzwklklywm.top^
 ||wynather.com^
@@ -33688,6 +33705,7 @@ vkcdnservice.appspot.com^
 ||xtremeviewing.com^
 ||xtrgqmnflnfnj.buzz^
 ||xtroglobal.com^
+||xtsmqupefbsq.com^
 ||xttaff.com^
 ||xtxjyxtvcwuam.site^
 ||xubcnzfex.com^
@@ -91545,6 +91563,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||uac.mk.co.kr^
 ||sp.stapecdn.com^
 ||cdn.powerinboxedge.com^
 ||tracker.ris.promo^
