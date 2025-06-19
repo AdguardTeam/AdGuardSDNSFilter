@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-19T00:27:41.195Z
+! Last modified: 2025-06-19T02:37:40.853Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2795,7 +2795,6 @@
 ||58c19941c7.78af853196.com^
 ||5e37c0d1cf.772f4bba41.com^
 ||6306c7a8c8.cde90a5fb0.com^
-||63b0b46d2b.a46d7a5579.com^
 ||656fe3805b.b0edf74166.com^
 ||669baa8973.3a434abae1.com^
 ||76b61c25b1.c8dd7cddbb.com^
@@ -6788,6 +6787,7 @@ vkcdnservice.appspot.com^
 ||2e5e4544c4.com^
 ||2f44166f35.com^
 ||2f5de272ff.com^
+||2f7f58d605.com^
 ||2f8a651b12.com^
 ||2fb8or7ai.de^
 ||2ffabf3b1d.com^
@@ -7319,6 +7319,7 @@ vkcdnservice.appspot.com^
 ||a3b2c775eb.com^
 ||a3yqjsrczwwp.com^
 ||a41ffeba4a.com^
+||a46d7a5579.com^
 ||a4f074a2f8.com^
 ||a51f200d7e.com^
 ||a5ddb5cd30.com^
@@ -10446,6 +10447,7 @@ vkcdnservice.appspot.com^
 ||bfeajfakcvik.com^
 ||bfeisqaluv.com^
 ||bfeoktgty.com^
+||bfheqpdd.com^
 ||bfjhhdmznjh.club^
 ||bfnsnehjbkewk.com^
 ||bfraircymryuh.xyz^
@@ -13214,6 +13216,7 @@ vkcdnservice.appspot.com^
 ||curtiserosetta.shop^
 ||curvedtobies.shop^
 ||curvyalpaca.cc^
+||curyrentattri.com^
 ||curyrentattributo.org^
 ||cusecwhitten.com^
 ||cushoussie.net^
@@ -17839,6 +17842,7 @@ vkcdnservice.appspot.com^
 ||habutaeirisate.com^
 ||hackiecausson.shop^
 ||hackmanboats.shop^
+||hacmukouwhauglo.com^
 ||hactifawlgro.com^
 ||hadronid.net^
 ||hadsans.com^
@@ -18382,6 +18386,7 @@ vkcdnservice.appspot.com^
 ||hmttqrrwtxf.com^
 ||hmxg5mhyx.com^
 ||hmxoufchteecf.world^
+||hnchrbjicjcxq.space^
 ||hnejuupgblwc.com^
 ||hnmikeloarp.com^
 ||hnrgmc.com^
@@ -18584,6 +18589,7 @@ vkcdnservice.appspot.com^
 ||hqpass.com^
 ||hqplhqectwrp.com^
 ||hqscene.com^
+||hqvxjjjldyoc.com^
 ||hqwa.xyz^
 ||hrahdmon.com^
 ||hramb.site^
@@ -23069,6 +23075,7 @@ vkcdnservice.appspot.com^
 ||nceyeykhnltr.com^
 ||ncipledeclinerybel.org^
 ||ncojkokhi.com^
+||ncovakia.shop^
 ||ncqhgmxnpywal.website^
 ||ncubadmavfp.com^
 ||ncwabgl.com^
@@ -26447,6 +26454,7 @@ vkcdnservice.appspot.com^
 ||pyxiscablese.com^
 ||pzalcikh.com^
 ||pzamujowtod.com^
+||pzbxnlourkdrv.site^
 ||pzeazqbkuti.com^
 ||pzeorwxt.com^
 ||pzjndhdke.com^
@@ -30101,6 +30109,7 @@ vkcdnservice.appspot.com^
 ||talesapricot.com^
 ||talkedexpense.com^
 ||talkstewmisjudge.com^
+||tall-north.pro^
 ||tallinitial.com^
 ||talmudconcher.shop^
 ||talsauve.com^
@@ -31471,6 +31480,7 @@ vkcdnservice.appspot.com^
 ||uliafpsf.tattoo^
 ||ulisxyz.store^
 ||ulmoyc.com^
+||ulmqfhgfjrxbj.site^
 ||ulnhz.site^
 ||ulteriorthemselves.com^
 ||ultimatefatiguehistorical.com^
@@ -33142,6 +33152,7 @@ vkcdnservice.appspot.com^
 ||worldtimes2.xyz^
 ||worldtraffic.trade^
 ||wornshoppingenvironment.com^
+||worralgeylies.shop^
 ||worrisomedifference.com^
 ||worritsmahra.com^
 ||worritsyogic.top^
@@ -33466,12 +33477,14 @@ vkcdnservice.appspot.com^
 ||xmlppcbuzz.com^
 ||xmlrtb.com^
 ||xmlwiz.com^
+||xmpoiotsmpkro.website^
 ||xms.lol^
 ||xmsflzmygw.com^
 ||xmzobmxrvemuh.fun^
 ||xnerivlyclrak.site^
 ||xnoztzcdyawlx.love^
 ||xnrhqmdsluqld.tech^
+||xnwncknejempg.website^
 ||xnwtugzfknrtr.store^
 ||xoalt.com^
 ||xohtwtrsswju.com^
@@ -33866,6 +33879,7 @@ vkcdnservice.appspot.com^
 ||yyjvimo.com^
 ||yyselrqpyu.com^
 ||yytxgghgvtwfp.icu^
+||yzcebhfvytfuhw.com^
 ||yzfjlvqa.com^
 ||yzmeapcexbe.com^
 ||yzxbdzrnsyscx.rocks^
