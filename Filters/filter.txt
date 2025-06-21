@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-21T10:06:07.604Z
+! Last modified: 2025-06-21T12:09:23.831Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11019,6 +11019,7 @@ vkcdnservice.appspot.com^
 ||bpazidzib.com^
 ||bpbcrmlecauhdo.com^
 ||bpeovknslhuqy.online^
+||bpltqydasflff.online^
 ||bpmlhyvnxjbm.com^
 ||bpoiscqmwxej.buzz^
 ||bpoyceyrj.com^
@@ -12929,6 +12930,7 @@ vkcdnservice.appspot.com^
 ||coucalhidated.com^
 ||couchedbliny.top^
 ||coudswamper.com^
+||cougawhauw.com^
 ||couijnmkgjdim.site^
 ||couldmisspell.com^
 ||couledochemy.net^
@@ -13305,6 +13307,7 @@ vkcdnservice.appspot.com^
 ||cuwlmupz.com^
 ||cuwmurbpabc.com^
 ||cuwocqnt.com^
+||cuydvpvdnvuxla.com^
 ||cuzqazdi.com^
 ||cuzrkugucdu.com^
 ||cvaetfspprbnt.com^
@@ -15725,6 +15728,7 @@ vkcdnservice.appspot.com^
 ||exxaygm.com^
 ||ey43.com^
 ||eyauknalyticafra.info^
+||eybrgoggcjkyl.website^
 ||eyeballdisquietstronghold.com^
 ||eyebrowscrambledlater.com^
 ||eyebrowsneardual.com^
@@ -16379,6 +16383,7 @@ vkcdnservice.appspot.com^
 ||fmversing.shop^
 ||fmvrilqsboddt.space^
 ||fmxyiqdivnhin.store^
+||fmzgdiqzamnrn.website^
 ||fnbauniukvi.com^
 ||fnelqqh.com^
 ||fnkbfrqhwmjzj.xyz^
@@ -24384,6 +24389,7 @@ vkcdnservice.appspot.com^
 ||omjqukadtolg.com^
 ||omjrzojitc.com^
 ||omlcwooxhw.com^
+||omnarzoz.com^
 ||omnatuor.com^
 ||omnhugquv.com^
 ||omni-ads.com^
@@ -25889,6 +25895,7 @@ vkcdnservice.appspot.com^
 ||polairdookoo.net^
 ||polanders.com^
 ||polarcdn-terrax.com^
+||polarisexpt.shop^
 ||polarmobile.com^
 ||poledgrenier.top^
 ||policeair.com^
@@ -26791,6 +26798,7 @@ vkcdnservice.appspot.com^
 ||qazrvobkmqvmr.top^
 ||qazrvoyayvawv.top^
 ||qazrvoyayvrjj.top^
+||qbbalffoo.com^
 ||qbkraweaoemer.top^
 ||qbkraweaoemzb.top^
 ||qbkraweaoeoew.top^
@@ -28530,6 +28538,7 @@ vkcdnservice.appspot.com^
 ||saucebuttons.com^
 ||sauceheirloom.com^
 ||sauchaihoo.net^
+||saucingdispart.top^
 ||saukaivounoa.xyz^
 ||saukndaspiratio.com^
 ||saumoupsaug.com^
@@ -29211,6 +29220,7 @@ vkcdnservice.appspot.com^
 ||sinwebads.com^
 ||sionscormation.org^
 ||sipaqdzu.com^
+||sipggbxeykgq.com^
 ||siphdcwglypz.tech^
 ||sipibowartern.com^
 ||siporsoflr.com^
@@ -29671,6 +29681,7 @@ vkcdnservice.appspot.com^
 ||speraspace.com^
 ||spheredkapas.com^
 ||sphericalproposal.pro^
+||sphericalsmoke.pro^
 ||spice-sugar.net^
 ||spiceethnic.com^
 ||spickbricole.top^
@@ -31213,6 +31224,7 @@ vkcdnservice.appspot.com^
 ||totlnkbn.com^
 ||totlnkcl.com^
 ||totlov.com^
+||totncgkfrvsje.site^
 ||totogetica.com^
 ||touched35one.pro^
 ||tougaipteehuboo.xyz^
@@ -91837,6 +91849,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||reqstat.api.mega.co.nz^
 ||tracker.projektn.sk^
 ||stats.pixeldrain.com^
 ||dd.reuters.com^
@@ -95931,6 +95944,7 @@ dlsdk.appsflyer.com^
 ||nr.static.mmcdn.com^
 ||ns.rvmkitt.com^
 ||o9tt6h08li.execute-api.eu-west-1.amazonaws.com^
+||obs.system1onesource.com^
 ||observe-nexus.pointandplace.com^
 ||octopart-analytics.com^
 ||oda.markitondemand.com^
