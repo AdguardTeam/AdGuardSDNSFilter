@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-23T16:07:41.045Z
+! Last modified: 2025-06-23T18:08:38.187Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7027,6 +7027,7 @@ vkcdnservice.appspot.com^
 ||abovethecityo.com^
 ||abpancvun.com^
 ||abpbacdislf.com^
+||abpcziams.com^
 ||abpicsrc.com^
 ||abpjs23.com^
 ||abpnow.xyz^
@@ -8643,6 +8644,7 @@ vkcdnservice.appspot.com^
 ||aohdlcbh.xyz^
 ||aojhtyvd.com^
 ||aomxqfcj.global^
+||aoqbhvxdxnm.com^
 ||aorgqidmcrtyl.space^
 ||aortasneerer.top^
 ||aortismbutyric.com^
@@ -12046,6 +12048,7 @@ vkcdnservice.appspot.com^
 ||cm65.com^
 ||cmadserver.de^
 ||cmbestsrv.com^
+||cmccymjawtcpd.space^
 ||cmclean.club^
 ||cmdrogqpxvxtr.online^
 ||cmfads.com^
@@ -19752,6 +19755,7 @@ vkcdnservice.appspot.com^
 ||jmyqivmk.com^
 ||jmyrmuozbor.com^
 ||jnhjpdayvpzj.com^
+||jnlzxpnxynucc.com^
 ||jnnjthg.com^
 ||jnrtavp2x66u.com^
 ||jnxm2.com^
@@ -21519,6 +21523,7 @@ vkcdnservice.appspot.com^
 ||luckyads.pro^
 ||luckyforbet.com^
 ||luckypapa.xyz^
+||luckyprocedure.pro^
 ||luckypushh.com^
 ||lucnxzoylxmvu.love^
 ||lucrinearraign.com^
@@ -22189,6 +22194,7 @@ vkcdnservice.appspot.com^
 ||metatrckpixel.com^
 ||metavertising.com^
 ||metavertizer.com^
+||metchauloutch.com^
 ||meteorclashbailey.com^
 ||meteordentproposal.com^
 ||meteorvitalboundary.com^
@@ -25327,6 +25333,7 @@ vkcdnservice.appspot.com^
 ||phiwheegnis.xyz^
 ||phkucgq.com^
 ||phloxsub73ulata.com^
+||phmdwcoqokplm.store^
 ||phoackoangu.com^
 ||phoalsoagy.net^
 ||phoaphoxsurvey.space^
@@ -26341,6 +26348,7 @@ vkcdnservice.appspot.com^
 ||puhtml.com^
 ||puitaexb.com^
 ||pujhysvxfpf.com^
+||pujmwiwmrupghe.com^
 ||puldhukelpmet.com^
 ||pullovereugenemistletoe.com^
 ||pulpix.com^
@@ -29061,6 +29069,7 @@ vkcdnservice.appspot.com^
 ||sjonkhydb.com^
 ||sjqgmtyxlrjlc.top^
 ||sjqlmtpekbytv.website^
+||sjqvpjbcffhbv.site^
 ||sjrejapufeaixvr.com^
 ||sjsabb.com^
 ||sjtactic.com^
@@ -30550,6 +30559,7 @@ vkcdnservice.appspot.com^
 ||tfazuhaxfxre.com^
 ||tfb7jc.de^
 ||tffkroute.com^
+||tfhnrjsxaoo.com^
 ||tfjqlenfcqnfnes.com^
 ||tfkyucxml.com^
 ||tfla.xyz^
@@ -33731,6 +33741,7 @@ vkcdnservice.appspot.com^
 ||xfojwohar.com^
 ||xfpjhwejhicwc.website^
 ||xfpmwkxcdzpdy.website^
+||xfvslsqqtyeeb.store^
 ||xfwblpomxc.com^
 ||xfxssqakis.com^
 ||xg-jbpmnru.online^
@@ -33851,6 +33862,7 @@ vkcdnservice.appspot.com^
 ||xtdztyiqyhmet.global^
 ||xterukyxnwkdp.com^
 ||xtmscjvenpyb.com^
+||xtrarwhxlxbry.website^
 ||xtraserp.com^
 ||xtremeviewing.com^
 ||xtrgqmnflnfnj.buzz^
@@ -91019,6 +91031,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||agent-server.sc-api.seaart.ai^
 ||reqstat.api.mega.co.nz^
 ||tracker.projektn.sk^
 ||stats.pixeldrain.com^
