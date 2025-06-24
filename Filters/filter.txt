@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-24T10:07:06.822Z
+! Last modified: 2025-06-24T12:10:51.431Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -19157,7 +19157,6 @@ vkcdnservice.appspot.com^
 ||inspectcol.com^
 ||inspectorstrongerpill.com^
 ||inspikon.com^
-||inspxtrc.com^
 ||instaflrt.com^
 ||install-adblockers.com^
 ||install-adblocking.com^
@@ -19941,6 +19940,7 @@ vkcdnservice.appspot.com^
 ||jssearch.net^
 ||jstqzfovctwms.com^
 ||jstzvtmgiybkd.xyz^
+||jtcgeriv.com^
 ||jtegqwmjfxu.site^
 ||jtiasfkkg.xyz^
 ||jtjyywpkxbsqx.online^
@@ -20177,6 +20177,7 @@ vkcdnservice.appspot.com^
 ||kcggmyeag.com^
 ||kcgkiumubea.com^
 ||kczu-ohhuf.site^
+||kdisbgxtxiyru.online^
 ||kdlktswsqhpd.com^
 ||kdmyatytentionia.com^
 ||kdpxksukngrg.com^
@@ -22389,6 +22390,7 @@ vkcdnservice.appspot.com^
 ||miscellaneousheartachehunter.com^
 ||mischiefrealizationbraces.com^
 ||misdeedtucked.shop^
+||miserable-disaster.pro^
 ||miserable-physical.com^
 ||miserable-thing.pro^
 ||miserdiscourteousromance.com^
@@ -24233,6 +24235,7 @@ vkcdnservice.appspot.com^
 ||onaugan.com^
 ||onautcatholi.xyz^
 ||onblixch.com^
+||onbmzifwioh.com^
 ||oncavst.com^
 ||oncesets.com^
 ||onclarck.com^
@@ -27838,6 +27841,7 @@ vkcdnservice.appspot.com^
 ||rlrsfxkewwgww.site^
 ||rmahmighoogg.com^
 ||rmaticalacycurated.info^
+||rmbalnswelwcp.online^
 ||rmervvomrowwy.top^
 ||rmgujvailde.com^
 ||rmhfrtnd.com^
@@ -28338,6 +28342,7 @@ vkcdnservice.appspot.com^
 ||sairvecitable.shop^
 ||saishook.com^
 ||saiteejoudoreep.com^
+||sakellswati.top^
 ||sakura-traffic.com^
 ||salalromansh.com^
 ||salamus1.lol^
@@ -28815,6 +28820,7 @@ vkcdnservice.appspot.com^
 ||sfixretarum.com^
 ||sftapi.com^
 ||sfulylydeveloped.org^
+||sfwwzmtlhrajx.website^
 ||sgad.site^
 ||sgbkvcoqlrnqt.com^
 ||sgfinery.com^
@@ -30279,6 +30285,7 @@ vkcdnservice.appspot.com^
 ||sydneygfpink.com^
 ||syeniteexodoi.com^
 ||syfrvkuuzsjkc.one^
+||syhhlxnyzltmu.site^
 ||syinga.com^
 ||syjkcdmwgqwrm.top^
 ||syllabusbastardchunk.com^
@@ -33861,6 +33868,7 @@ vkcdnservice.appspot.com^
 ||xktxemf.com^
 ||xkxljewabtyoxy.com^
 ||xkzwtowhkmrav.site^
+||xlgcgebyppj.com^
 ||xliirdr.com^
 ||xlirdr.com^
 ||xlivesex.com^
@@ -34030,6 +34038,7 @@ vkcdnservice.appspot.com^
 ||y1zoxngxp.com^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
 ||yaamsptzttes.com^
+||yaangmfhbml.com^
 ||yabbymosette.top^
 ||yackedcuttage.com^
 ||yahdrctswmvax.space^
@@ -36134,6 +36143,9 @@ vkcdnservice.appspot.com^
 ||158.247.208.
 ||23.109.82.
 ||23.109.87.
+! Altice / Optimum / CableVision injects ads
+! https://github.com/ryanbr/fanboy-adblock/issues/816
+|167.206.10.148^
 !
 ! Source name: EasyList ad servers third-party
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
