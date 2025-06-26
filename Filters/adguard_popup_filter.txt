@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-26T20:07:07.294Z
+! Last modified: 2025-06-26T22:06:26.022Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -86,19 +86,16 @@
 ||vlcdownloads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||theupgradedata.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ckl.fbmedia-ckl.com^$dnsrewrite=ad-block.dns.adguard.com
-||vpnsafebrowsing.com^$dnsrewrite=ad-block.dns.adguard.com
 ||uoutube.com^$dnsrewrite=ad-block.dns.adguard.com
 ||searchmarquis.com^$dnsrewrite=ad-block.dns.adguard.com
 ||updatemobilee.com^$dnsrewrite=ad-block.dns.adguard.com
 ||impreslvedate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||brazzerssurvey.com^$dnsrewrite=ad-block.dns.adguard.com
-||guroshied.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hot-dating-here.life^$dnsrewrite=ad-block.dns.adguard.com
 ||idreamed.com^$dnsrewrite=ad-block.dns.adguard.com
 ||facevideosc.com^$dnsrewrite=ad-block.dns.adguard.com
 ||familialsimulation.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clickcanoe.com^$dnsrewrite=ad-block.dns.adguard.com
-||user-shield-check.com^$dnsrewrite=ad-block.dns.adguard.com
 ||affforce.com^$dnsrewrite=ad-block.dns.adguard.com
 ||see-what-is-trending.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wonderful-day.club^$dnsrewrite=ad-block.dns.adguard.com
