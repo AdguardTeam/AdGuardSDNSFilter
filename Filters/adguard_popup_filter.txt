@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-26T16:08:10.127Z
+! Last modified: 2025-06-26T18:08:44.942Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -59,7 +59,6 @@
 ||crmentjg.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crmtt.livejasmin.com^$dnsrewrite=ad-block.dns.adguard.com
 ||patakaendymal.top^$dnsrewrite=ad-block.dns.adguard.com
-||noopapnoeic.digital^$dnsrewrite=ad-block.dns.adguard.com
 ||gaming001.site^$dnsrewrite=ad-block.dns.adguard.com
 ||wenoolgo.icu^$dnsrewrite=ad-block.dns.adguard.com
 ||s.pemsrv.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -123,7 +122,6 @@
 ||movies-flix.club^$dnsrewrite=ad-block.dns.adguard.com
 ||centent.slreamplay.cc^$dnsrewrite=ad-block.dns.adguard.com
 ||claring-loccelkin.com^$dnsrewrite=ad-block.dns.adguard.com
-||loveofffer.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adp13a.com^$dnsrewrite=ad-block.dns.adguard.com
 ||admozartxml.com^$dnsrewrite=ad-block.dns.adguard.com
 ||z.cdn.adpool.bet^$dnsrewrite=ad-block.dns.adguard.com
