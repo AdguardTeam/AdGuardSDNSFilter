@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-26T10:07:03.102Z
+! Last modified: 2025-06-26T12:10:40.984Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10574,6 +10574,7 @@ vkcdnservice.appspot.com^
 ||borschtinurns.shop^
 ||borshtselemis.top^
 ||bortschtinea.top^
+||borylsamaj.top^
 ||borzjournal.ru^
 ||boseyphossy.top^
 ||boshaulr.net^
@@ -19984,6 +19985,7 @@ vkcdnservice.appspot.com^
 ||joycreatorheader.com^
 ||joyous-housing.pro^
 ||joyous-north.pro^
+||joyousburn.pro^
 ||joyrodetoment.com^
 ||jpalmowraat.com^
 ||jpaolbtfyoh.com^
@@ -20521,6 +20523,7 @@ vkcdnservice.appspot.com^
 ||kllastroad.com^
 ||kllpelaa.net^
 ||klltoghtuhydo.club^
+||kllwynbybjlyb.top^
 ||klmainprost.com^
 ||klmmnd.com^
 ||klonedaset.org^
@@ -22431,6 +22434,7 @@ vkcdnservice.appspot.com^
 ||mghkpg.com^
 ||mgisrlyu.xyz^
 ||mgladthereisso.com^
+||mgmaringpoli.org^
 ||mgptijzevfuxj.space^
 ||mgrrprhkhmwj.com^
 ||mgtcouucmfjmowr.com^
@@ -22982,6 +22986,7 @@ vkcdnservice.appspot.com^
 ||mufrjyufslkcp.space^
 ||mugglesskyfte.com^
 ||mugpothop.com^
+||mukasrvm.com^
 ||mukindwouldm.org^
 ||mulecleared.com^
 ||mulesto.com^
@@ -25690,6 +25695,7 @@ vkcdnservice.appspot.com^
 ||pinprickverificationdecember.com^
 ||pinprickwinconfirm.com^
 ||pinttalewag.com^
+||pinturaanglers.com^
 ||pinworkbegoud.top^
 ||pioneercomparatively.com^
 ||piouslylagurus.shop^
@@ -26978,6 +26984,7 @@ vkcdnservice.appspot.com^
 ||qlfqkjluvz.com^
 ||qljqpnbsbggh.com^
 ||qlnkt.com^
+||qlsafdvwwmlw.com^
 ||qlsaqtqd.tattoo^
 ||qlyywnxpk.com^
 ||qmaarqazxcki.com^
@@ -27293,6 +27300,7 @@ vkcdnservice.appspot.com^
 ||randomignitiondentist.com^
 ||rangepositively.com^
 ||rangfool.com^
+||rankestcalili.top^
 ||ranketsorbic.top^
 ||rankonefoldonefold.com^
 ||rankpeers.com^
@@ -29053,6 +29061,7 @@ vkcdnservice.appspot.com^
 ||sf-ads.io^
 ||sf960.com^
 ||sfavfyct.com^
+||sfddepjbsz.com^
 ||sfdsplvyphk.com^
 ||sfeodrqh.com^
 ||sffsdvc.com^
@@ -29370,6 +29379,7 @@ vkcdnservice.appspot.com^
 ||siteoid.com^
 ||sitesdesbloqueados.com^
 ||sitewithg.com^
+||sithensunprest.top^
 ||sitymirableabo.org^
 ||siversbesomer.space^
 ||sixft-apart.com^
@@ -29917,6 +29927,7 @@ vkcdnservice.appspot.com^
 ||spruetyrr.top^
 ||sprungencase.com^
 ||spry-cat.com^
+||spsiqdfdkjgqv.space^
 ||sptrck.com^
 ||sptrkr.com^
 ||spujbior.com^
@@ -31104,6 +31115,7 @@ vkcdnservice.appspot.com^
 ||tic-tic-toc.com^
 ||ticaframeofm.xyz^
 ||ticielongsuched.com^
+||ticismovernemen.org^
 ||ticketpantomimevirus.com^
 ||ticketsfrustratingrobe.com^
 ||ticketswinning.com^
@@ -31951,6 +31963,7 @@ vkcdnservice.appspot.com^
 ||ubesykrmo.xyz^
 ||ubgneblgrosii.site^
 ||ubilinkbin.com^
+||ublasklnrnifs.site^
 ||ublmkftdnu.com^
 ||ubmnuasuojrock.com^
 ||ubpfmjciogkvq.website^
@@ -33035,6 +33048,7 @@ vkcdnservice.appspot.com^
 ||vqrozzojjlwbz.top^
 ||vqxtrttx.com^
 ||vqzbmjexsbscb.store^
+||vrfdcwhyaodng.store^
 ||vrfuznaicvxaj.life^
 ||vrgvugostlyhewo.info^
 ||vrhbjtileufmv.website^
@@ -33119,6 +33133,7 @@ vkcdnservice.appspot.com^
 ||vxhyjwgvpc.com^
 ||vxo-protect.co.in^
 ||vxpcarcapffdp.global^
+||vxqfsuwnda.com^
 ||vxtehkhkv.com^
 ||vxwmkbtkhtpru.today^
 ||vydfergcp.com^
@@ -33720,6 +33735,7 @@ vkcdnservice.appspot.com^
 ||wleallwqybqqk.top^
 ||wlglvllmgmoyz.top^
 ||wllebozbzjjbj.top^
+||wllebozbzjlbz.top^
 ||wllebozbzjljm.top^
 ||wllebozbzjybk.top^
 ||wlrkcefll.com^
@@ -91459,6 +91475,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||collector.fullxh.com^
+||collector.xhamster.com^
 ||ss.samolet.ru^
 ||agent-server.sc-api.seaart.ai^
 ||reqstat.api.mega.co.nz^
@@ -111610,7 +111628,6 @@ analytics-*.aasaam.com
 ||collector.shopstream.co^
 ||collector.shorte.st^
 ||collector.tescocompare.com^
-||collector.xhamster.com^
 ||count.livetv.ru^
 ||count.livetv.sx^
 ||count.prx.org^
