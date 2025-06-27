@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-27T20:06:49.025Z
+! Last modified: 2025-06-27T22:06:47.241Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -73,7 +73,6 @@
 ||truthfulsensor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||5.61.55.143^$dnsrewrite=ad-block.dns.adguard.com
 ||37.1.213.100^$dnsrewrite=ad-block.dns.adguard.com
-||go2click.online^$dnsrewrite=ad-block.dns.adguard.com
 ||ak.oalsauwy.net^$dnsrewrite=ad-block.dns.adguard.com
 ||efully.info^$dnsrewrite=ad-block.dns.adguard.com
 ||big-loads.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -93,7 +92,6 @@
 ||brazzerssurvey.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hot-dating-here.life^$dnsrewrite=ad-block.dns.adguard.com
 ||idreamed.com^$dnsrewrite=ad-block.dns.adguard.com
-||facevideosc.com^$dnsrewrite=ad-block.dns.adguard.com
 ||familialsimulation.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clickcanoe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||affforce.com^$dnsrewrite=ad-block.dns.adguard.com
