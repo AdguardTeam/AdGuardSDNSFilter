@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-28T08:07:44.197Z
+! Last modified: 2025-06-28T10:06:26.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -67,7 +67,6 @@
 ||dlmonitize.com^$dnsrewrite=ad-block.dns.adguard.com
 ||beyourxfriend.com^$dnsrewrite=ad-block.dns.adguard.com
 ||a.labadena.com^$dnsrewrite=ad-block.dns.adguard.com
-||whiteforwardlines.com^$dnsrewrite=ad-block.dns.adguard.com
 ||exinariuminix.info^$dnsrewrite=ad-block.dns.adguard.com
 ||chabadokor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||truthfulsensor.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -127,7 +126,6 @@
 ||paychat.fuse-cloud.com^$dnsrewrite=ad-block.dns.adguard.com
 ||click.hooligapps.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ukoffzeh.com^$dnsrewrite=ad-block.dns.adguard.com
-||prltmz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||look.flowln.com^$dnsrewrite=ad-block.dns.adguard.com
 ||1ts18.top^$dnsrewrite=ad-block.dns.adguard.com
 ||s.zlink2.com^$dnsrewrite=ad-block.dns.adguard.com
