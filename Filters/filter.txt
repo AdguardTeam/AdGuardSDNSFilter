@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-30T04:15:34.999Z
+! Last modified: 2025-06-30T06:09:36.047Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -610,6 +610,8 @@
 !+ NOT_OPTIMIZED
 ||vipads.live^
 !+ NOT_OPTIMIZED
+! Required for apps, because on some sites it's not blocked when there is "$third-party" modifier
+||netpub.media^
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/201620
 ||154.199.255.184^
@@ -7986,6 +7988,7 @@ vkcdnservice.appspot.com^
 ||al5sm.com^
 ||alackzokor.com^
 ||alagaodealing.com^
+||alainchug.com^
 ||alargeredrubygsw.info^
 ||alarming-rule.com^
 ||alas4kanmfa6a4mubte.com^
@@ -13056,6 +13059,7 @@ vkcdnservice.appspot.com^
 ||digzjnuguwwxr.online^
 ||diingsinspiringtg.com^
 ||dikasomywnqww.website^
+||dikcmpgwemomx.space^
 ||dikeaxillas.com^
 ||dikkoplida.cam^
 ||dilatenine.com^
@@ -15268,6 +15272,7 @@ vkcdnservice.appspot.com^
 ||foazauwhemi.net^
 ||foccqbujbfcyj.love^
 ||focsleacor.top^
+||focusedmurrine.com^
 ||focwcuj.com^
 ||fodderpracticable.com^
 ||fodsoack.com^
@@ -15424,6 +15429,7 @@ vkcdnservice.appspot.com^
 ||fpukmwpb.top^
 ||fpukxcinlf.com^
 ||fpwshgkud.com^
+||fpxpobaudkjzu.site^
 ||fpyf8.com^
 ||fqcsflsvlxvnk.store^
 ||fqertokpt.com^
@@ -17429,6 +17435,7 @@ vkcdnservice.appspot.com^
 ||hotswoman-online.com^
 ||hottercensorbeaker.com^
 ||hotwords.com^
+||houcedqscszcu.space^
 ||houeisbb.com^
 ||houkejetoulauk.com^
 ||houptaupaiho.net^
@@ -17484,6 +17491,7 @@ vkcdnservice.appspot.com^
 ||hramb.site^
 ||hrenbjkdas.com^
 ||hreso.site^
+||hrhuvkhcir.com^
 ||hrihfiocc.com^
 ||hrijiqwroalg.com^
 ||hrmdw8da.net^
@@ -27071,6 +27079,7 @@ vkcdnservice.appspot.com^
 ||saylnk.com^
 ||sb-stat1.com^
 ||sb89347.com^
+||sbbkpsusvjakw.com^
 ||sbboppwsuocy.com^
 ||sbfhasljwreqcu.com^
 ||sbfsdvc.com^
@@ -28389,6 +28398,7 @@ vkcdnservice.appspot.com^
 ||steepto.com^
 ||steerensout.net^
 ||steeringsunshine.com^
+||steerypoojah.shop^
 ||stejikjc.com^
 ||stella-nova.click^
 ||stelsarg.net^
@@ -33616,7 +33626,6 @@ vkcdnservice.appspot.com^
 ||netinsight.co.kr^
 ||netizen.co^
 ||netliker.com^
-||netpub.media^
 ||netseer.com^
 ||netshelter.net^
 ||netsolads.com^
