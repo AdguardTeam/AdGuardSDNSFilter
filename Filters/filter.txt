@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-30T16:07:38.932Z
+! Last modified: 2025-06-30T18:08:30.571Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10659,6 +10659,7 @@ vkcdnservice.appspot.com^
 ||byjmlkkvgjyna.top^
 ||bylawrite.com^
 ||bylbnayqajjjb.top^
+||bylinyboe.top^
 ||bynix.xyz^
 ||byoxxapgnfhdt.site^
 ||bypassduehardly.com^
@@ -18714,6 +18715,7 @@ vkcdnservice.appspot.com^
 ||jhcccvxqnkdit.website^
 ||jhcnvrqljibffep.com^
 ||jhhedhxltvfe.com^
+||jhifuwzpaqm.com^
 ||jhiihllo.com^
 ||jhijlgudshd.com^
 ||jhkfd.com^
@@ -18801,6 +18803,7 @@ vkcdnservice.appspot.com^
 ||jmnktmmkiitir.site^
 ||jmpmedia.club^
 ||jmrnews.pro^
+||jmrpcwkkaptlr.store^
 ||jmt7mbwce.com^
 ||jmuhezmkgsn.com^
 ||jmvdpupdkzoktb.com^
@@ -20524,6 +20527,7 @@ vkcdnservice.appspot.com^
 ||ltassrv.com^
 ||ltengronsa.com^
 ||ltetrailwaysint.org^
+||ltetrrtktqrst.website^
 ||ltewtuwushec.xyz^
 ||ltingcoempa.org^
 ||ltmuzcp.com^
@@ -22637,6 +22641,7 @@ vkcdnservice.appspot.com^
 ||nvyhlkbvtoifv.site^
 ||nwabcuwugact.com^
 ||nwarktriynwek.store^
+||nwcsofuuicvxdx.com^
 ||nweligduicngw.site^
 ||nwemnd.com^
 ||nweztoovg.com^
@@ -24740,6 +24745,7 @@ vkcdnservice.appspot.com^
 ||ppshh.rocks^
 ||pptnuhffs.love^
 ||ppwknzdoicgkd.website^
+||ppyqwlqlupoew.com^
 ||pq-mzfusgpzt.xyz^
 ||pqblsaiiyjcokfo.com^
 ||pqgmffwsmboy.com^
@@ -25497,6 +25503,7 @@ vkcdnservice.appspot.com^
 ||qguusmmvndeor.website^
 ||qgwgweoxulrb.com^
 ||qgxbluhsgad.com^
+||qhffqlklvclza.website^
 ||qhiatcfrywgse.click^
 ||qhixhrkrviekq.store^
 ||qhkflvounmbrq.site^
@@ -25926,6 +25933,7 @@ vkcdnservice.appspot.com^
 ||raymondcarryingordered.com^
 ||razzlebuyer.com^
 ||rbejwzfebcxaz.world^
+||rbjnuporihrye.store^
 ||rbmigxiog.com^
 ||rbnxgaugxdd.com^
 ||rboyqkyojrelk.top^
@@ -31577,6 +31585,7 @@ vkcdnservice.appspot.com^
 ||wenog.com^
 ||wenoolgo.icu
 ||weownthetraffic.com^
+||weqbzrzjpzkds.online^
 ||werecatfumaric.shop^
 ||weredthechildre.com^
 ||weremoiety.com^
@@ -37041,6 +37050,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||ana.uhyou.com^
 ||analytics.ticimax.cloud^
 ||youseasky.com^
 ||sra-px.cdn-fileserver.com^
@@ -92489,6 +92499,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||tracking.trackchecker.net^
 ||mon*-misc.fqnovel.com^
 ||clientlog.perfectworldgames.com^
 ||log1.perfectworldgames.com^
