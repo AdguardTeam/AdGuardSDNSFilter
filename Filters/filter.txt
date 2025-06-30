@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-06-30T08:09:32.182Z
+! Last modified: 2025-06-30T10:07:26.059Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3091,7 +3091,6 @@
 ||cdn.fegivja.com^
 ||cdn.fqkwn.com^
 ||cdn.ftwpcn.com^
-||cdn.gocolow.com^
 ||cdn.iople.com^
 ||cdn.jandaqwe.com^
 ||cdn.jeckear.com^
@@ -14289,6 +14288,7 @@ vkcdnservice.appspot.com^
 ||envious-low.com^
 ||enviousinevitable.com^
 ||environmental3x.fun^
+||enwgkdbgbzwil.online^
 ||enwoveveneer.com^
 ||eobrndvhdrf.com^
 ||eocxfdzi.com^
@@ -16285,6 +16285,7 @@ vkcdnservice.appspot.com^
 ||gobletauxiliary.com^
 ||gobmodfoe.com^
 ||gobreadthpopcorn.com^
+||gocolow.com^
 ||godforsakensubordinatewiped.com^
 ||godfreyapocarp.top^
 ||godkc.com^
@@ -16608,6 +16609,7 @@ vkcdnservice.appspot.com^
 ||gtbbgjo.art^
 ||gtbdhr.com^
 ||gtghsgrneexou.website^
+||gthduwvnqrq.com^
 ||gthecoastand.org^
 ||gthin.site^
 ||gtjlmypr.com^
@@ -18868,6 +18870,7 @@ vkcdnservice.appspot.com^
 ||jrvrkzrjrmoyy.top^
 ||jrvvpbggu.com^
 ||jrxccqmxg.com^
+||jrxgcthoussjz.store^
 ||jrzrqi0au.com^
 ||js-check.com^
 ||js2json.com^
@@ -19359,6 +19362,7 @@ vkcdnservice.appspot.com^
 ||kmfkiwghhe.xyz^
 ||kmhmmhmj.com^
 ||kmjveezxebpqs.website^
+||kmlnllmoajnwa.top^
 ||kmmrukqrphix.com^
 ||kmodukuleqasfo.info^
 ||kmrstdqeptom.com^
@@ -20263,6 +20267,7 @@ vkcdnservice.appspot.com^
 ||loftyeliteseparate.com^
 ||logicdate.com^
 ||logicschort.com^
+||logilycathop.shop^
 ||loginlockssignal.com^
 ||logriamorels.shop^
 ||loijtoottuleringv.info^
@@ -21137,6 +21142,7 @@ vkcdnservice.appspot.com^
 ||mfrgfuaq.com^
 ||mfuodmpu.com^
 ||mfuotcojjowsa.website^
+||mfwdigbir.com^
 ||mfyavsmiha.com^
 ||mfyktikuvq.com^
 ||mfylalov.com^
@@ -29540,6 +29546,7 @@ vkcdnservice.appspot.com^
 ||toffeebigot.com^
 ||toffiesinsecta.top^
 ||toforebhut.top^
+||togefaeuxdrbvq.xyz^
 ||togemantedious.top^
 ||togenron.com^
 ||togerspas.com^
@@ -30643,6 +30650,7 @@ vkcdnservice.appspot.com^
 ||uxgopmreteyrybb.com^
 ||uxmyqylrghrlmor.com^
 ||uxnrnsfybjmxgw.com^
+||uxwinyafloqfy.store^
 ||uxzqnsss.com^
 ||uydyqlnebqlwe.global^
 ||uyiteasacomsys.info^
@@ -31758,6 +31766,7 @@ vkcdnservice.appspot.com^
 ||wmeqoborqbkjw.top^
 ||wmeqoborqboyv.top^
 ||wmgtr.com^
+||wmlollmkvjoev.top^
 ||wmlollmkvybzm.top^
 ||wmmrbwiyztgeg.top^
 ||wmnfqywhoauuo.website^
@@ -89174,6 +89183,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||count.ing.de^
 ||d30qdagvt44524.cloudfront.net^
 ||tracker-beam.aktuality.sk^
 ||collector.fullxh.com^
