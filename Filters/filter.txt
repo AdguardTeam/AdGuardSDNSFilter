@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-08T04:13:30.161Z
+! Last modified: 2025-07-08T06:09:19.995Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3134,12 +3134,10 @@
 ||cdn.jkpes.com^
 ||cdn.karpatzi.com^
 ||cdn.kizan.cloud^
-||cdn.mafyak.com^
 ||cdn.mtinsqq.com^
 ||cdn.nuqwe.com^
 ||cdn.ovqds.com^
 ||cdn.ptomw.com^
-||cdn.puyjjq.com^
 ||cdn.spnut.com^
 ||cdn.tazlo.cloud^
 ||cdn.tsepyk.com^
@@ -5680,6 +5678,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ads-service.api.linkme.global^
 ||d3m6crjuedf6o.cloudfront.net^
 ||chuchle.all-usanomination.com^
 ||bundle.ppas.monster^
@@ -8475,6 +8474,7 @@ vkcdnservice.appspot.com^
 ||angrilydiameterscarcity.com^
 ||angrilyinclusionminister.com^
 ||angryheadlong.com^
+||anguished-phone.pro^
 ||anguishmotto.com^
 ||anguishworst.com^
 ||angularpoppyrobbing.com^
@@ -9607,6 +9607,7 @@ vkcdnservice.appspot.com^
 ||basicflownetowork.co.in^
 ||basictreadcontract.com^
 ||basicwhenpear.com^
+||basiltweezes.shop^
 ||basindecisive.com^
 ||basisvoting.com^
 ||baskdisk.com^
@@ -10067,6 +10068,7 @@ vkcdnservice.appspot.com^
 ||biphic.com^
 ||biptoakrolaimte.xyz^
 ||biqxarzky.com^
+||birlerconvite.top^
 ||birlingtriced.top^
 ||biroads.com^
 ||birsleunhired.com^
@@ -10880,6 +10882,7 @@ vkcdnservice.appspot.com^
 ||bylawrite.com^
 ||bylbnayqajjjb.top^
 ||bylinyboe.top^
+||bynamesquinols.top^
 ||bynix.xyz^
 ||byoxxapgnfhdt.site^
 ||bypassduehardly.com^
@@ -11322,6 +11325,7 @@ vkcdnservice.appspot.com^
 ||cepokraithignie.net^
 ||cer43asett2iu5m.com^
 ||ceramicalienate.com^
+||cerclemorice.top^
 ||cerealshane.shop^
 ||ceremonyjogglecling.com^
 ||cermetdynamos.top^
@@ -11613,6 +11617,7 @@ vkcdnservice.appspot.com^
 ||cimtaiphos.com^
 ||cincherdatable.com^
 ||cinderycandor.com^
+||cintercandiru.top^
 ||cinujikroptjl.com^
 ||cinuraarrives.com^
 ||cinvetica.com^
@@ -13630,6 +13635,7 @@ vkcdnservice.appspot.com^
 ||djquevquroth.com^
 ||djrsvwtt.com^
 ||djtsgzireukxr.online^
+||djxejkswghqlq.site^
 ||dkdipdowi.com^
 ||dkdrkwmlhud.com^
 ||dkeakszrup.com^
@@ -13812,6 +13818,7 @@ vkcdnservice.appspot.com^
 ||doubleview.online^
 ||doubtcigardug.com^
 ||doubtedprompts.com^
+||doubtersickles.com^
 ||doubtfulaviationhostility.com^
 ||doubtslutecia.com^
 ||doubtsuseless.com^
@@ -13877,6 +13884,7 @@ vkcdnservice.appspot.com^
 ||dratetillage.com^
 ||dratingmaject.com^
 ||drawingwheels.com^
+||drawntips.shop^
 ||drawx.xyz^
 ||draystownet.com^
 ||drctcldff.com^
@@ -15445,6 +15453,7 @@ vkcdnservice.appspot.com^
 ||fhsmtrnsfnt.com^
 ||fhuwsmjjijivj.top^
 ||fhv00rxa2.com^
+||fhvtbljpedhhtq.com^
 ||fhyazslzuaw.com^
 ||fhyoxmapv.com^
 ||fiatgrabbed.com^
@@ -16585,6 +16594,7 @@ vkcdnservice.appspot.com^
 ||girlwallpaper.pro^
 ||girnalnemean.com^
 ||girreyres.com^
+||gisantsondeli.shop^
 ||gishejuy.com^
 ||giswygovfhdym.online^
 ||gitajwl.com^
@@ -20617,6 +20627,7 @@ vkcdnservice.appspot.com^
 ||lcydaqakhdm.com^
 ||lcyfzulih.com^
 ||lcyyiadh.com^
+||ldgkmuiegih.com^
 ||ldipootizo.com^
 ||ldjcteyoq.com^
 ||ldjudcpc-qxm.icu^
@@ -21545,6 +21556,7 @@ vkcdnservice.appspot.com^
 ||mafroad.com^
 ||mafuracozener.top^
 ||mafurraceibos.top^
+||mafyak.com^
 ||magazinenews1.xyz^
 ||maggotyfumeuse.com^
 ||maghoutwell.com^
@@ -22127,6 +22139,7 @@ vkcdnservice.appspot.com^
 ||minorcrown.com^
 ||minorityspasmodiccommissioner.com^
 ||minotaur107.com^
+||minsxgvkokxgu.site^
 ||mintclick.xyz^
 ||mintmanunmanly.com^
 ||minutedeplorable.com^
@@ -22627,6 +22640,7 @@ vkcdnservice.appspot.com^
 ||muptarsaungi.com^
 ||muqltwovf.com^
 ||muragetunnel.com^
+||murakhvupnk.com^
 ||murallyhuashi.casa^
 ||murderassuredness.com^
 ||muricidmartins.com^
@@ -23447,6 +23461,7 @@ vkcdnservice.appspot.com^
 ||ntygtomuj.com^
 ||ntyhibosjsza.com^
 ||ntyqsqypwtbrij.com^
+||nubbycoolly.com^
 ||nubileforward.com^
 ||nubseech.com^
 ||nucascjut.com^
@@ -26358,6 +26373,7 @@ vkcdnservice.appspot.com^
 ||puwhoughaugn.com^
 ||puxajggibaw.com^
 ||puxokvda.com^
+||puyjjq.com^
 ||puysis.com^
 ||puyyyifbmdh.com^
 ||puzna.com^
@@ -27471,6 +27487,7 @@ vkcdnservice.appspot.com^
 ||retsifergoumti.net^
 ||rettornrhema.com^
 ||reukandthisany.com^
+||reusevoyages.shop^
 ||rev-stripe.com^
 ||rev2pub.com^
 ||revampcdn.com^
@@ -28789,6 +28806,7 @@ vkcdnservice.appspot.com^
 ||shewingcudeigh.shop^
 ||shewninneity.shop^
 ||shfsdvc.com^
+||shhfxzcywzdnt.space^
 ||shikarsfrecket.top^
 ||shikroux.net^
 ||shilfamush.shop^
@@ -29070,6 +29088,7 @@ vkcdnservice.appspot.com^
 ||slackensuddeneat.com^
 ||slagsreamass.com^
 ||slahpxqb6wto.com^
+||slakearzan.top^
 ||slakinggules.top^
 ||slantdecline.com^
 ||slaqandsan.xyz^
@@ -29810,6 +29829,7 @@ vkcdnservice.appspot.com^
 ||stouwhoafap.com^
 ||stovearmpitagreeable.com^
 ||stpd.cloud^
+||stqkeaazcuzga.website^
 ||stquality.org^
 ||straight-shift.pro^
 ||straightenchin.com^
@@ -30283,6 +30303,7 @@ vkcdnservice.appspot.com^
 ||tapestrymob.com^
 ||tapetimider.top^
 ||tapioni.com^
+||tapitanerly.top^
 ||tapixesa.pro^
 ||tapjoyads.com^
 ||taposalett.top^
@@ -33760,6 +33781,7 @@ vkcdnservice.appspot.com^
 ||xqwrdegbmdfrv.top^
 ||xqxgcdhfkccgg.site^
 ||xritipdme.com^
+||xrjeesxalurbym.com^
 ||xroabnrze.com^
 ||xrrdi.com^
 ||xsaheqapygdykxq.com^
@@ -34232,6 +34254,7 @@ vkcdnservice.appspot.com^
 ||zidojrol.com^
 ||zidwjopspizot.site^
 ||zigoulraugnechu.net^
+||zigzag-hall.pro^
 ||zigzt.com^
 ||ziidgugyfrbvf.website^
 ||zikpwr.com^
@@ -91294,6 +91317,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics-service.api.linkme.global^
 ||athena-event-provider.n11.com^
 ||hepsiads-gw.hepsiburada.com^
 ||tag.panorama.ai^
@@ -106231,6 +106255,7 @@ dlsdk.appsflyer.com^
 ||sunflowers66.top^
 ||vasz.cn^
 ||hqluu46i3a.com^
+||fiu07081kl.com^
 ||07pv7k61z.com^
 ||ryvvzl.icu^
 ||gdmxjbjjo.com^
