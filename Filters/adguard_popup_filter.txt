@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-14T04:22:04.344Z
+! Last modified: 2025-07-14T06:10:31.031Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -243,6 +243,7 @@
 ||bashfulleadsock.com^$dnsrewrite=ad-block.dns.adguard.com
 ||basicflownetowork.co.in^$dnsrewrite=ad-block.dns.adguard.com
 ||bayshorline.com^$dnsrewrite=ad-block.dns.adguard.com
+||bbmoe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||beamobserver.com^$dnsrewrite=ad-block.dns.adguard.com
 ||behim.click^$dnsrewrite=ad-block.dns.adguard.com
 ||bemobtrcks.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -454,6 +455,7 @@
 ||itstuffnews.com^$dnsrewrite=ad-block.dns.adguard.com
 ||iyfbodn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||izeeto.com^$dnsrewrite=ad-block.dns.adguard.com
+||jegiopad.top^$dnsrewrite=ad-block.dns.adguard.com
 ||jeroud.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jiuwert.online^$dnsrewrite=ad-block.dns.adguard.com
 ||joastaca.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -512,6 +514,7 @@
 ||me4track.com^$dnsrewrite=ad-block.dns.adguard.com
 ||medfoodsafety.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mediahell.world^$dnsrewrite=ad-block.dns.adguard.com
+||meetflirtmatch.com^$dnsrewrite=ad-block.dns.adguard.com
 ||meetwebclub.com^$dnsrewrite=ad-block.dns.adguard.com
 ||menews.org^$dnsrewrite=ad-block.dns.adguard.com
 ||metabatted.com^$dnsrewrite=ad-block.dns.adguard.com
