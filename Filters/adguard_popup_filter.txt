@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-23T16:08:21.921Z
+! Last modified: 2025-07-23T18:08:46.261Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -231,6 +231,7 @@
 ||argrowlitheor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||asstaraptora.com^$dnsrewrite=ad-block.dns.adguard.com
 ||astjigglypuffchan.com^$dnsrewrite=ad-block.dns.adguard.com
+||atp.revistamuchomas.com^$dnsrewrite=ad-block.dns.adguard.com
 ||atsg.me^$dnsrewrite=ad-block.dns.adguard.com
 ||auroraveil.bid^$dnsrewrite=ad-block.dns.adguard.com
 ||awalesglower.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -497,6 +498,7 @@
 ||making.party^$dnsrewrite=ad-block.dns.adguard.com
 ||maquiags.com^$dnsrewrite=ad-block.dns.adguard.com
 ||maredpt.com^$dnsrewrite=ad-block.dns.adguard.com
+||marketingthing.click^$dnsrewrite=ad-block.dns.adguard.com
 ||maxconvtrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||maxickedpantents.com^$dnsrewrite=ad-block.dns.adguard.com
 ||maxidefender.xyz^$dnsrewrite=ad-block.dns.adguard.com
