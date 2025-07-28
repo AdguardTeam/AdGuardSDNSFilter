@@ -1,3 +1,5 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/209715
+@@||app-*.marketo.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1911
 ! Blocked by CNAME grsm.io
 @@|affiliate.notion.so^|
