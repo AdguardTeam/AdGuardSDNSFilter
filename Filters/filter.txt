@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-28T08:10:28.513Z
+! Last modified: 2025-07-28T09:19:58.338Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11861,6 +11861,7 @@ vkcdnservice.appspot.com^
 ||chshcms.net^
 ||chsrkred.com^
 ||chtntr.com^
+||chtntwgyhixef.website^
 ||chtztjfzdcryy.site^
 ||chubbnitered.top^
 ||chubbydistrict.pro^
@@ -11967,6 +11968,7 @@ vkcdnservice.appspot.com^
 ||cjtomemtcgdwq.click^
 ||cjuzydnvklnq.today^
 ||cjvdfw.com^
+||cjwulibidm.com^
 ||cjxomyilmv.com^
 ||ckdehawsbpulg.xyz^
 ||ckdibfchthrg.com^
@@ -12795,6 +12797,7 @@ vkcdnservice.appspot.com^
 ||crevicedepressingpumpkin.com^
 ||crgtrqoevq.com^
 ||crianthowdahs.com^
+||criblebyepath.cyou^
 ||criesplucker.top^
 ||criesstarch.com^
 ||crimeagc.com^
@@ -18389,6 +18392,7 @@ vkcdnservice.appspot.com^
 ||hjgyvykaybgrq.com^
 ||hjklq.com^
 ||hjmawbrxzq.space^
+||hjnottmlecpex.store^
 ||hjoddysekhmji.site^
 ||hjrzuojyxuewm.global^
 ||hjssinfmxyioe.space^
@@ -22364,6 +22368,7 @@ vkcdnservice.appspot.com^
 ||marcherfilippo.com^
 ||marchesleys.shop^
 ||marchshotgun.com^
+||marciretold.help^
 ||maredpt.com^
 ||margaritapowerclang.com^
 ||mariadock.com^
@@ -25735,6 +25740,7 @@ vkcdnservice.appspot.com^
 ||passwordslayoutvest.com^
 ||passwordssaturatepebble.com^
 ||past-concern.pro^
+||pastamia.help^
 ||pastelperformance.pro^
 ||pastelspittle.com^
 ||pastilsdisbind.rest^
@@ -27208,6 +27214,7 @@ vkcdnservice.appspot.com^
 ||purchaselock.com^
 ||purchasertormentscoundrel.com^
 ||purganismprop.com^
+||purgedkantry.world^
 ||purgeregulation.com^
 ||purlingdugouts.click^
 ||purpleads.io^
@@ -40751,6 +40758,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||attribution.airbridge.io^
+||event.airbridge.io^
 ||analytics.loadweb.com^
 ||mellowtel.com^
 ||datastat.me^
@@ -42309,7 +42318,6 @@ vkcdnservice.appspot.com^
 ||counter*.freecounter.ovh^
 ||analytics.logsss.com^
 ||tnative.ru^
-||marketo.com^
 ||bd4travel.com^
 ||prvsz4pe.micpn.com^
 ||analytics.servogram.io^
@@ -106992,6 +107000,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||nlog.shinhan.com^
 ||cdn.js.fpaudience.com^
 ||lg3.media.net^
 ||navvy.media.net^
