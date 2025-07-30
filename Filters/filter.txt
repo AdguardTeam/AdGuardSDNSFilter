@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-07-30T08:09:13.938Z
+! Last modified: 2025-07-30T08:40:52.437Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6825,6 +6825,7 @@ vkcdnservice.appspot.com^
 ||99d5318452.com^
 ||99ef859a06.com^
 ||99gt8.com^
+||99rdd.com^
 ||9a4f937e0f.com^
 ||9a71b08258.com^
 ||9a8f641701.com^
@@ -10463,6 +10464,7 @@ vkcdnservice.appspot.com^
 ||bnbybybmvlvmo.top^
 ||bnbybybmvlvnn.top^
 ||bncloudfl.com^
+||bndofpoupil.com^
 ||bngdin.com^
 ||bngdyn.com^
 ||bngmadjd.de^
@@ -19775,6 +19777,7 @@ vkcdnservice.appspot.com^
 ||isabellagodpointy.com^
 ||isabellalive.cfd^
 ||isajj.com^
+||isatinsshins.digital^
 ||isawthenews.com^
 ||isbbxlbduuhec.com^
 ||isbnrs.com^
@@ -23198,6 +23201,7 @@ vkcdnservice.appspot.com^
 ||mirkilysheria.shop^
 ||mirthbeat.com^
 ||mirthconfidence.com^
+||mirzaluteway.cfd^
 ||misaglam.com^
 ||misazbog.com^
 ||misbiasthalami.top^
@@ -25769,6 +25773,7 @@ vkcdnservice.appspot.com^
 ||outwitssolan.com^
 ||ouvertrenewed.com^
 ||ouweessougleji.net^
+||ouwszkswhujxz.online^
 ||ouy3.site^
 ||ouyflgaswts.xyz^
 ||ovardu.com^
@@ -26750,6 +26755,7 @@ vkcdnservice.appspot.com^
 ||plotafb.com^
 ||plotfuldharma.shop^
 ||ploughplbroch.com^
+||ploughsgagers.click^
 ||plowboyblossom.rest^
 ||plowerswamped.world^
 ||plowh.com^
@@ -29566,6 +29572,7 @@ vkcdnservice.appspot.com^
 ||rukkyydtqyzgp.online^
 ||rukskijruza.com^
 ||ruktaslhu.com^
+||ruledharshly.shop^
 ||rullockmilles.cyou^
 ||rulroompaulooth.net^
 ||rum39bxk.fun^
@@ -30496,6 +30503,7 @@ vkcdnservice.appspot.com^
 ||shrill-beginning.pro^
 ||shrill-definition.com^
 ||shrillbighearted.com^
+||shrillbirlie.cfd^
 ||shrimpgenerator.com^
 ||shriviands.click^
 ||shrubshyloid.cfd^
@@ -31606,6 +31614,7 @@ vkcdnservice.appspot.com^
 ||strodeintended.com^
 ||strollfondnesssurround.com^
 ||strongbarnacleenemy.com^
+||strowedkazak.shop^
 ||strowsareolae.shop^
 ||strtgic.com^
 ||strvvmpu.com^
@@ -31710,6 +31719,7 @@ vkcdnservice.appspot.com^
 ||suksuksumeedro.com^
 ||sukultingecauyuk.org^
 ||sulfidegranth.click^
+||sulfidssortie.cyou^
 ||sulidesglop.shop^
 ||suliotebacking.shop^
 ||sulkvulnerableexpecting.com^
@@ -34096,6 +34106,7 @@ vkcdnservice.appspot.com^
 ||vague-key.com^
 ||vaguiomammati.top^
 ||vaigowoa.com^
+||vaijiwauglajaur.net^
 ||vaikijie.net^
 ||vaimucuvikuwu.net^
 ||vainanalyst.com^
@@ -42179,7 +42190,7 @@ vkcdnservice.appspot.com^
 ||brandlock.io^
 ||track.storm.mg^
 ||track.unidata.ai^
-||bentonow.com^
+||track.bentonow.com^
 ||sdk.51.la^
 ||adtriba.com^
 ||count.ly^
@@ -105090,7 +105101,6 @@ dlsdk.appsflyer.com^
 ||hits.gokwik.co^
 ||hits.informer.com^
 ||hydro-ma-proxy.akamaized.net^
-||i.posthog.com^
 ||iddu1vvb7sk8-a.akamaihd.net^
 ||identification.hotmart.com^
 ||ihi.flowplayer.com^
