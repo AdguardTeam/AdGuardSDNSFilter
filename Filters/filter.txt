@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-01T02:53:34.561Z
+! Last modified: 2025-08-01T04:28:37.116Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9368,6 +9368,7 @@ vkcdnservice.appspot.com^
 ||avvodmjpabin.com^
 ||avvzamazdpa.com^
 ||avwjyvwqyzma.top^
+||avwjyvwqyzor.top^
 ||avynavqwmvkv.top^
 ||avzwkkmoeaqbm.top^
 ||avzwkkmoearrj.top^
@@ -21411,6 +21412,7 @@ vkcdnservice.appspot.com^
 ||kqwcvenj.com^
 ||kra18.com^
 ||kraftsregears.top^
+||kraftsunmixed.click^
 ||kragreparel.top^
 ||krankenwagenmotor.com^
 ||kreanlmiba.com^
@@ -23543,6 +23545,7 @@ vkcdnservice.appspot.com^
 ||mkjsqrpmxqdf.com^
 ||mkounjuehhkhn.store^
 ||mkqkqslq.com^
+||mkysuerau.com^
 ||ml314.com^
 ||mladedda.net^
 ||mlapifxkewalg.space^
@@ -23991,6 +23994,7 @@ vkcdnservice.appspot.com^
 ||multisetup.pro^
 ||multiwall-ads.shop^
 ||multstorage.com^
+||multumakepiro.help^
 ||mummershaha.help^
 ||mummersmahaly.top^
 ||mummifiedpatienceunknowing.com^
@@ -26166,6 +26170,7 @@ vkcdnservice.appspot.com^
 ||owvhheaq.com^
 ||owvobdogd.com^
 ||owwmbcdlguyke.store^
+||owxxcdgbhhcb.com^
 ||oxado.com^
 ||oxamateborrel.shop^
 ||oxbbzxqfnv.com^
@@ -28166,6 +28171,7 @@ vkcdnservice.appspot.com^
 ||qanqizywghyna.xyz^
 ||qaqaiyvbmuilh.site^
 ||qaqhmmyex.com^
+||qaquujyeov.xyz^
 ||qarewien.com^
 ||qaroucprldfi.com^
 ||qatarsarkit.top^
@@ -28396,6 +28402,7 @@ vkcdnservice.appspot.com^
 ||qoclick.com^
 ||qoduruwkddheq.site^
 ||qoeytyfgtvfione.com^
+||qogcteumntijn.site^
 ||qoicyijenvvc.com^
 ||qolemambyxqib.site^
 ||qophnumbs.com^
@@ -28432,6 +28439,7 @@ vkcdnservice.appspot.com^
 ||qqeadugfccgya.space^
 ||qqgjvgudcntvw.online^
 ||qqgspelswxiok.website^
+||qqjxklfhoosftj.com^
 ||qqkyhkfakl.xyz^
 ||qqobcemksiob.com^
 ||qqqdsrjovklsr.today^
@@ -33647,6 +33655,7 @@ vkcdnservice.appspot.com^
 ||ttgmjfgldgv9ed10.com^
 ||ttguipcjxxdja.com^
 ||ttgusdjqnudcp.site^
+||ttikombrmmygx.store^
 ||ttlhwufpaqwkw.site^
 ||ttmfaxiuifrfb.xyz^
 ||ttoc8ok.com^
@@ -110957,8 +110966,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Jul 2025 16:02 UTC+7
-! Version: 2507301602
+! Last modified: 01 Aug 2025 11:10 UTC+7
+! Version: 2508011110
 ! Blocked: 888 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
