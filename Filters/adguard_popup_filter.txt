@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-07T10:07:16.268Z
+! Last modified: 2025-08-07T12:12:08.217Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -274,6 +274,7 @@
 ||boxthis.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||brainberries.co^$dnsrewrite=ad-block.dns.adguard.com
 ||brationalfilarded.com^$dnsrewrite=ad-block.dns.adguard.com
+||brujoshooch.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||bunth.net^$dnsrewrite=ad-block.dns.adguard.com
 ||c3j7rk-rtbix.top^$dnsrewrite=ad-block.dns.adguard.com
 ||calcatesituate.top^$dnsrewrite=ad-block.dns.adguard.com
@@ -476,6 +477,7 @@
 ||lamplynx.com^$dnsrewrite=ad-block.dns.adguard.com
 ||land.pixelsee.app^$dnsrewrite=ad-block.dns.adguard.com
 ||landerhq.com^$dnsrewrite=ad-block.dns.adguard.com
+||leadgainz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||leadshurriedlysoak.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lehemhavita.club^$dnsrewrite=ad-block.dns.adguard.com
 ||leoyard.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -562,6 +564,7 @@
 ||nontraditionally.rest^$dnsrewrite=ad-block.dns.adguard.com
 ||noohapou.com^$dnsrewrite=ad-block.dns.adguard.com
 ||noolt.com^$dnsrewrite=ad-block.dns.adguard.com
+||northauthority.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||northdownload.com^$dnsrewrite=ad-block.dns.adguard.com
 ||northrtbads.top^$dnsrewrite=ad-block.dns.adguard.com
 ||nothingfairnessdemonstrate.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -602,6 +605,7 @@
 ||permanentillnessclever.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pewyophic.top^$dnsrewrite=ad-block.dns.adguard.com
 ||pexorise.com^$dnsrewrite=ad-block.dns.adguard.com
+||phazashabu.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||pheniter.com^$dnsrewrite=ad-block.dns.adguard.com
 ||phgotof2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pilotstracking.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -797,6 +801,7 @@
 ||unlocky.org^$dnsrewrite=ad-block.dns.adguard.com
 ||unlocky.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||unoptedcoupe.top^$dnsrewrite=ad-block.dns.adguard.com
+||unrolltougher.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||unseaminoax.click^$dnsrewrite=ad-block.dns.adguard.com
 ||upodaitie.net^$dnsrewrite=ad-block.dns.adguard.com
 ||upuplets.com^$dnsrewrite=ad-block.dns.adguard.com
