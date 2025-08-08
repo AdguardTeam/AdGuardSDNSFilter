@@ -1,3 +1,6 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/210955
+! Blocked by CNAME publisher1st.com
+@@||cdn.atmedia.hu^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/210652
 ! Blocked by CNAME bluecore.com
 @@||trk.ecomm.lenovo.com^|
