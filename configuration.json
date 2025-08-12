@@ -111,6 +111,13 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "EasyPrivacy Admiral tracking servers",
+      "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_admiral.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
       "name": "EasyPrivacy international tracking servers",
       "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt",
       "type": "adblock",
