@@ -119,6 +119,8 @@ The output is written to `Filters/filter.txt`.
 
 * [EasyPrivacy — third-party trackers](https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt)
 
+* [EasyPrivacy — Admiral trackers](https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_admiral.txt)
+
 * [EasyPrivacy — international trackers](https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt)
 
 * [EasyPrivacy — third-party international](https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt)
