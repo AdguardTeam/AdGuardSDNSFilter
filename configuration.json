@@ -125,6 +125,13 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "EasyPrivacy Admiral tracking servers",
+      "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_admiral.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
       "name": "AdGuard Spanish/Portuguese filter ad servers first-party",
       "source": "https://adguardteam.github.io/AdguardFilters/SpanishFilter/sections/adservers_firstparty.txt",
       "type": "adblock",
