@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-18T22:06:11.670Z
+! Last modified: 2025-08-19T00:27:14.520Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -383,6 +383,7 @@
 ||fomalhautgacrux.com^$dnsrewrite=ad-block.dns.adguard.com
 ||forooqso.tv^$dnsrewrite=ad-block.dns.adguard.com
 ||freetrckr.com^$dnsrewrite=ad-block.dns.adguard.com
+||frequentjam.com^$dnsrewrite=ad-block.dns.adguard.com
 ||freshpops.net^$dnsrewrite=ad-block.dns.adguard.com
 ||frostykitten.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fstsrv16.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -555,6 +556,7 @@
 ||nontraditionally.rest^$dnsrewrite=ad-block.dns.adguard.com
 ||noohapou.com^$dnsrewrite=ad-block.dns.adguard.com
 ||noolt.com^$dnsrewrite=ad-block.dns.adguard.com
+||north-verification.com^$dnsrewrite=ad-block.dns.adguard.com
 ||northauthority.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||northdownload.com^$dnsrewrite=ad-block.dns.adguard.com
 ||northrtbads.top^$dnsrewrite=ad-block.dns.adguard.com
@@ -586,6 +588,7 @@
 ||optvz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||otoadom.com^$dnsrewrite=ad-block.dns.adguard.com
 ||outoctillerytor.com^$dnsrewrite=ad-block.dns.adguard.com
+||ouzalruksengung.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ovardu.com^$dnsrewrite=ad-block.dns.adguard.com
 ||oversolosisor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ovret.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -601,6 +604,7 @@
 ||pilotstracking.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pisism.com^$dnsrewrite=ad-block.dns.adguard.com
 ||playmmogames.com^$dnsrewrite=ad-block.dns.adguard.com
+||playonlinegames.space^$dnsrewrite=ad-block.dns.adguard.com
 ||playstretch.host^$dnsrewrite=ad-block.dns.adguard.com
 ||plinksplanet.com^$dnsrewrite=ad-block.dns.adguard.com
 ||plorexdry.com^$dnsrewrite=ad-block.dns.adguard.com
