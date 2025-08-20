@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-20T14:06:41.414Z
+! Last modified: 2025-08-20T16:07:31.504Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8617,6 +8617,7 @@ vkcdnservice.appspot.com^
 ||anedukerationpeci.com^
 ||anentsyshrug.com^
 ||aneorwd.com^
+||aneurinnoddles.digital^
 ||anewfeedliberty.com^
 ||anflcwigejplk.website^
 ||anfzdatekjeck.space^
@@ -9645,6 +9646,7 @@ vkcdnservice.appspot.com^
 ||babun.club^
 ||babyboomboomads.com^
 ||babyish-uncle.pro^
+||babyishcommission.com^
 ||babyniceshark.com^
 ||babzbvhowzvfa.site^
 ||bacaobrember.rest^
@@ -16957,6 +16959,7 @@ vkcdnservice.appspot.com^
 ||fspgifxkdoabnr.xyz^
 ||fsrnigoryaufd.website^
 ||fssahbltmoqyg.site^
+||fssupsajxmygv.xyz^
 ||fstmshtlaurzt.store^
 ||fstsrv16.com^
 ||fstsrv9.com^
@@ -24062,6 +24065,7 @@ vkcdnservice.appspot.com^
 ||mvjigogkqlgxo.icu^
 ||mvmzlg.xyz^
 ||mvpffsgcpoug.com^
+||mvuvpwcm.com^
 ||mvvlsvwtgoxlj.space^
 ||mvyeirpipobhxpr.com^
 ||mwaewcjql.xyz^
@@ -25108,6 +25112,7 @@ vkcdnservice.appspot.com^
 ||oansadsolr.net^
 ||oansoughaums.net^
 ||oaocrxsgsemdg.love^
+||oaotguvkw.com^
 ||oapauphoaltaje.net^
 ||oaphoace.net^
 ||oaphogekr.com^
@@ -26136,6 +26141,7 @@ vkcdnservice.appspot.com^
 ||oybvvlmskh.xyz^
 ||oybyaojyylzmm.top^
 ||oyen3zmvd.com^
+||oyfhajieql.com^
 ||oyi9f1kbaj.com^
 ||oyjudvyimkzzu.space^
 ||oykqvhduikwta.site^
@@ -28495,6 +28501,7 @@ vkcdnservice.appspot.com^
 ||quwboxegtikte.com^
 ||quwsabdw.com^
 ||quyiucbigjgng.site^
+||qvafkzqojrhbl.online^
 ||qvamqtypgwgp.xyz^
 ||qvbnjnsodshaj.site^
 ||qvcnveqlnmrcg.click^
@@ -30104,6 +30111,7 @@ vkcdnservice.appspot.com^
 ||saptorge.com^
 ||saqadbnupmk.com^
 ||sarcasmadvisor.com^
+||sarcastic-location.com^
 ||sarcasticnotarycontrived.com^
 ||sarcasticproject.pro^
 ||sardineabstract.com^
@@ -33190,6 +33198,7 @@ vkcdnservice.appspot.com^
 ||tombaltiled.top^
 ||tombsspinner.com^
 ||tomdsfpeyrsoo.vip^
+||tomejkwjlqyoz.site^
 ||tomekas.com^
 ||tomizizingeel.net^
 ||tomladvert.com^
@@ -35843,6 +35852,7 @@ vkcdnservice.appspot.com^
 ||wguqjqreoxaa.com^
 ||wgvqa.club^
 ||whackclumsiness.com^
+||whacmargooxu.net^
 ||whacmoltibsay.net^
 ||whadraissog.net^
 ||whagrolt.com^
@@ -36360,6 +36370,7 @@ vkcdnservice.appspot.com^
 ||wrestforsake.com^
 ||wretched-confusion.com^
 ||wretchnavelpotent.com^
+||wreulqbszdpjf.site^
 ||wrevenuewasadi.com^
 ||wrierhaviour.shop^
 ||wrinklyfortune.qpon^
@@ -36852,6 +36863,7 @@ vkcdnservice.appspot.com^
 ||xxcyyocinlkv.com^
 ||xxdfexbwv.top^
 ||xxgpbltsufglu.website^
+||xxhfbovuicd.com^
 ||xxioelflyiggv.site^
 ||xxivzamarra.shop^
 ||xxltr.com^
@@ -37581,6 +37593,7 @@ vkcdnservice.appspot.com^
 ||zoagremo.net^
 ||zoajoathee.com^
 ||zoawufoy.net^
+||zobsobudaja.net^
 ||zocfdghtctsux.online^
 ||zochitukeesaux.com^
 ||zodiacdinner.com^
@@ -37679,6 +37692,7 @@ vkcdnservice.appspot.com^
 ||zucks.net^
 ||zuekohojehjsx.space^
 ||zuforqaglos.com^
+||zughidrujave.com^
 ||zugloocmilsim.net^
 ||zugo.com^
 ||zuhempih.com^
@@ -41949,6 +41963,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||smct.co^
 ||ub-analytics.com^
 ||t.usermaven.com^
 ||onetag.co.kr^
@@ -107056,6 +107071,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||pixel.spotify.com^
 ||gtmserverside.eluniversal.com.mx^
 ||ym-tack.b-cdn.net^
 ||icu.newsroom.bi^
