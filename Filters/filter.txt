@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-21T02:35:39.211Z
+! Last modified: 2025-08-21T04:07:45.883Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -16993,6 +16993,7 @@ vkcdnservice.appspot.com^
 ||ftdiiaqjutw.com^
 ||ftertheyhagete.com^
 ||ftfglaklfoyov.space^
+||ftglucawrkfb.com^
 ||ftgprtrhfntks.today^
 ||ftheusysianeduk.com^
 ||ftheusysianeduk.org^
@@ -24025,6 +24026,7 @@ vkcdnservice.appspot.com^
 ||muddyjunior.pro^
 ||mudejarforches.qpon^
 ||mudlessryme.click^
+||muenqeogbvcuj.store^
 ||mufpamrilrdfr.site^
 ||mufrjyufslkcp.space^
 ||muggilyenties.rest^
@@ -24393,6 +24395,7 @@ vkcdnservice.appspot.com^
 ||ndroundhertouc.com^
 ||ndtheyeiedm.info^
 ||ndvqhobnheivh.club^
+||ndvyaowfbmveek.xyz^
 ||ndwsqexojpuka.online^
 ||ndxpzpoheustt.store^
 ||ndymehnthakuty.com^
@@ -27758,6 +27761,7 @@ vkcdnservice.appspot.com^
 ||psilsophulsich.net^
 ||psipausaix.net^
 ||psipsustuwe.com^
+||psiravinsastouw.net^
 ||psisbrach.digital^
 ||pskuagktarplq.space^
 ||psma02.com^
@@ -117674,8 +117678,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-08-20 18:18:36 CEST
-# entries:        1149
+# last updated:   2025-08-21 05:12:15 CEST
+# entries:        1151
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -117903,6 +117907,7 @@ dlsdk.appsflyer.com^
 ||fusion.bonniertidskrifter.se^
 ||gamblingsyndication.com^
 ||gameanalytics.com^
+||go.affiliationcloud.com^
 ||gtm.ekonomifakta.se^
 ||gtm.findroommate.dk^
 ||gtm.stampenmedia.se^
@@ -124019,6 +124024,7 @@ dlsdk.appsflyer.com^
 ||obaivrek.com^
 ||budl.cn^
 ||oa88s0gb8.com^
+||bjk08211ip.com^
 ||pa026n1waq.com^
 ||k1s3u1dtpc.com^
 ||jazppd.icu^
