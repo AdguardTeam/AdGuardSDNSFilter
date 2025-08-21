@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-21T16:07:11.896Z
+! Last modified: 2025-08-21T18:08:37.292Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -5741,6 +5741,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||micro.rubiconproject.com^
 ||promo.evvnt.com^
 ||id-msp.newsbreak.com
 ||msp.newsbreak.com^
@@ -8641,6 +8642,7 @@ vkcdnservice.appspot.com^
 ||anguished-phone.pro^
 ||angularpoppyrobbing.com^
 ||angularrustly.world^
+||anhangchyack.world^
 ||anhingawabble.world^
 ||anhtrxiyxgy.com^
 ||aniccawimpled.top^
@@ -19099,6 +19101,7 @@ vkcdnservice.appspot.com^
 ||hoeyelm.shop^
 ||hoggeeagalma.life^
 ||hoggetforfend.com^
+||hogglermylodei.click^
 ||hoghookies.top^
 ||hoglinooth.net^
 ||hoglinsu.com^
@@ -19530,6 +19533,7 @@ vkcdnservice.appspot.com^
 ||ibutheptesitrew.com^
 ||ibvbljkpgfjke.online^
 ||ibvfzddfxqwqg.love^
+||ibyhdkkcdkkii.site^
 ||icafzttxirztu.space^
 ||icalnormaticalacyc.info^
 ||icandotech.in^
@@ -20178,6 +20182,7 @@ vkcdnservice.appspot.com^
 ||iqgblqeihwhvw.website^
 ||iqgrerrkcwdxj.store^
 ||iqizfdgzqigjo.website^
+||iqjijcxxohzcc.space^
 ||iqnlxzueadjrg.website^
 ||iqtest365.online^
 ||iramb.site^
@@ -25375,6 +25380,7 @@ vkcdnservice.appspot.com^
 ||odldzgdjzbksz.site^
 ||odmktbwk.com^
 ||odnaknopka.ru^
+||odntaztu.com^
 ||odnvveujy.com^
 ||odohwkoeujvpc.site^
 ||odologyelicit.com^
@@ -26254,6 +26260,7 @@ vkcdnservice.appspot.com^
 ||owndata.network^
 ||ownthmorningb.org^
 ||owomjmknjoova.top^
+||owougoodoom.net^
 ||owrkwilxbw.com^
 ||owrtlcegkq.xyz^
 ||owtanza.xyz^
@@ -26438,6 +26445,7 @@ vkcdnservice.appspot.com^
 ||pantobit.life^
 ||pantraidgeometry.com^
 ||pantsaxils.cfd^
+||panyarbafyot.cyou^
 ||panymaute.com^
 ||panyofhisow.org^
 ||paoailpcwnnhd.life^
@@ -26693,6 +26701,7 @@ vkcdnservice.appspot.com^
 ||penaikaucmu.net^
 ||penapne.xyz^
 ||pendeddjinni.cfd^
+||pendentxylenes.cyou^
 ||pendingshrewd.com^
 ||pengobyzant.com^
 ||penguest.xyz^
@@ -26834,6 +26843,7 @@ vkcdnservice.appspot.com^
 ||pggzlqoefgycx.store^
 ||pghoker.cyou^
 ||pgjt26tsm.com^
+||pglyxopexs.com^
 ||pgmcdn.com^
 ||pgmediaserve.com^
 ||pgnttloll.world^
@@ -26901,6 +26911,7 @@ vkcdnservice.appspot.com^
 ||phoobautups.net^
 ||phoobsaghauh.net^
 ||phoohacmoosh.com^
+||phoolreekrowobs.com^
 ||phooltutoopoo.com^
 ||phoompoukoaltin.net^
 ||phoongaulsoocma.net^
@@ -31290,6 +31301,7 @@ vkcdnservice.appspot.com^
 ||slivmux.com^
 ||slloidjg.com^
 ||sllqlohjenqyg.site^
+||slobsotidium.qpon^
 ||slockertummies.com^
 ||sloddeburse.shop^
 ||sloeri.com^
@@ -33111,6 +33123,7 @@ vkcdnservice.appspot.com^
 ||thoakeet.net^
 ||thoamsixaizi.net^
 ||thofteert.com^
+||thogroagnowi.net^
 ||tholedridings.shop^
 ||tholor.com^
 ||thomasalthoughhear.com^
@@ -33326,6 +33339,7 @@ vkcdnservice.appspot.com^
 ||tlysearchingforanop.com^
 ||tm5kpprikka.com^
 ||tmb5trk.com^
+||tmivcgvspkpj.com^
 ||tmjoiwvxiufhlcq.xyz^
 ||tmlnorawiq.xyz^
 ||tmrjmp.com^
@@ -34670,6 +34684,7 @@ vkcdnservice.appspot.com^
 ||uquhuahi.com^
 ||uqzoyikxsfhdr.space^
 ||uralicchatot.com^
+||uraliteiodin.life^
 ||uranianfulgora.shop^
 ||uranousendures.com^
 ||urauvipsidu.com^
@@ -110243,6 +110258,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||event.*.karrotmarket.com^
 ||beacons.ads.fubo.tv^
 ||s3-ca-liveops.easybrain.com^
 ||trackers.fubo.tv^
@@ -118126,7 +118142,6 @@ dlsdk.appsflyer.com^
 ||mega.vk.se^
 ||meltwater.com^
 ||metapic.se^
-||micro.rubiconproject.com^
 ||missaffiliate.com^
 ||mraffiliate.com^
 ||mrporter-creative.prf.hn^
