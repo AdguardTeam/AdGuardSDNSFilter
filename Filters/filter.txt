@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-08-22T14:06:19.143Z
+! Last modified: 2025-08-22T16:07:13.794Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -721,6 +721,14 @@
 ! This section contains the list of the rules are against CNAME disguised advertising networks.
 ! We include rules from AdGuard's cname-tracker repo here, and add some additional rules,
 ! which will be used during the optimization by /optimizeDomainBlockingRules option.
+!
+! TODO: Check for CNAME ad servers
+! Don't add monetag.com here
+||amaerodactylon.com^
+||cdn.aucey.com^
+||zk1w.com^
+||g4nd.com^
+||2ddq.com^
 !
 ! https://github.com/AdguardTeam/FiltersRegistry/pull/937
 ! To fix the issue with the CNAME trackers, add problematic domains here:
@@ -10142,6 +10150,7 @@ vkcdnservice.appspot.com^
 ||bereaveencodefestive.com^
 ||berendburghs.life^
 ||berideoestrin.cyou^
+||berinseosmetic.com^
 ||berkshiretoday.xyz^
 ||berlipurplin.com^
 ||bermudaprimero.com^
@@ -10664,6 +10673,7 @@ vkcdnservice.appspot.com^
 ||bnserving.com^
 ||bnsirwpidbpao.online^
 ||bnvavriytks.com^
+||bnywlkaklqago.top^
 ||bnywlkaklqaqn.top^
 ||bo2ffe45ss4gie.com^
 ||boaboudoatauzur.com^
@@ -13568,6 +13578,7 @@ vkcdnservice.appspot.com^
 ||dailyhealthvita.com^
 ||dainouluph.net^
 ||daintyinternetcable.com^
+||daipheefona.com^
 ||dairabibb.life^
 ||dairamasooka.click^
 ||daiwazumoawhy.net^
@@ -13950,6 +13961,7 @@ vkcdnservice.appspot.com^
 ||demandedrucksackprivate.com^
 ||demanding-juice.pro^
 ||demandingoverdriveunthread.com^
+||demeanaffeer.com^
 ||demencydisrate.qpon^
 ||demidogrudloff.click^
 ||demiseskill.com^
@@ -14249,6 +14261,7 @@ vkcdnservice.appspot.com^
 ||discriminationseizebananas.com^
 ||discusscompetencecallous.com^
 ||disdainplayedbluster.com^
+||diseadkp.com^
 ||disguised-confidence.pro^
 ||disguised-dad.com^
 ||disguisesmashdisappearing.com^
@@ -15590,6 +15603,7 @@ vkcdnservice.appspot.com^
 ||entaildault.world^
 ||entangleversatile.com^
 ||entertainment3x.fun^
+||enthaitingshospic.org^
 ||enthroneunborn.com^
 ||enthusiasticfibreassembly.com^
 ||entia.site^
@@ -19225,6 +19239,7 @@ vkcdnservice.appspot.com^
 ||hoodboth.com^
 ||hoodentangle.com^
 ||hoodingluster.com^
+||hoodlumbragget.com^
 ||hookawep.net^
 ||hookerszimmis.cfd^
 ||hookups-hots-searchs.com^
@@ -19938,6 +19953,7 @@ vkcdnservice.appspot.com^
 ||incendlaser.qpon^
 ||incentivenebulous.com^
 ||inchasebouget.cyou^
+||inchesrecognize.com^
 ||inchxwsrq.com^
 ||incidenttrumpremittance.com^
 ||inclinedenemiesastray.com^
@@ -22443,6 +22459,7 @@ vkcdnservice.appspot.com^
 ||lixstownrusisedpriv.org^
 ||lizaitsuds.net^
 ||ljbiynvyhfteq.rocks^
+||ljbwzlmlzvmoq.top^
 ||ljbwzlmlzvmvj.top^
 ||ljbwzlmlzzezq.top^
 ||ljbzgjymlbqzv.top^
@@ -22810,6 +22827,7 @@ vkcdnservice.appspot.com^
 ||ltingcoempa.org^
 ||ltnchfmuwmltz.space^
 ||ltrac4vyw.com^
+||ltvpyvhih.xyz^
 ||luagyywwmuq.xyz^
 ||luationiamcu.org^
 ||lubesnicobar.rest^
@@ -25530,6 +25548,7 @@ vkcdnservice.appspot.com^
 ||offergate-software11.com^
 ||offergate-software6.com^
 ||offerimage.com^
+||offeringcanvassfuzzy.com^
 ||offeringsurvey.com^
 ||offerlink.co^
 ||offersbid.net^
@@ -25637,6 +25656,7 @@ vkcdnservice.appspot.com^
 ||oilcontainsdisaster.com^
 ||oileddipper.cyou^
 ||oilmvlnrgpdw.com^
+||oilstrgqtqne.com^
 ||oilycoat.com^
 ||oilyishbabbage.cfd^
 ||oinkedbowls.com^
@@ -26149,6 +26169,7 @@ vkcdnservice.appspot.com^
 ||otdalxhhiah.com^
 ||othakegaes.click^
 ||otherwallowssheh.com^
+||otherwiserustyvenomous.com^
 ||otjealxropxrlsi.com^
 ||otkhotqdwhehp.space^
 ||otlppkoshnh.com^
@@ -30547,6 +30568,7 @@ vkcdnservice.appspot.com^
 ||scaridcheths.cfd^
 ||scaridmasora.world^
 ||scarofnght.com^
+||scarvesrepaid.com^
 ||scashwl.com^
 ||scattedoutjut.world^
 ||scatteredhecheaper.com^
@@ -31797,6 +31819,7 @@ vkcdnservice.appspot.com^
 ||space-pulsar.com^
 ||spacecatholicpalmful.com^
 ||spacemancreativedom.net^
+||spacepoetic.com^
 ||spacetraff.com^
 ||spadelack.com^
 ||spaderonium.com^
@@ -34181,6 +34204,7 @@ vkcdnservice.appspot.com^
 ||tvprocessing.com^
 ||tvqvugxsojzgi.site^
 ||tvrqlfdtfxtsh.space^
+||tvwxwboysflvt.website^
 ||tvxzuiiddkbqy.online^
 ||tvybcxdxyi.com^
 ||twaglurtuh.xyz^
@@ -34748,6 +34772,7 @@ vkcdnservice.appspot.com^
 ||unwisepariet.world^
 ||unwisewithdrawalroad.com^
 ||unwitting-milk.com^
+||unwomanallude.com^
 ||unwoobater.com^
 ||unworthsodio.qpon^
 ||unwovencoving.top^
@@ -34838,6 +34863,7 @@ vkcdnservice.appspot.com^
 ||upzmuerwksotm.site^
 ||upznliourhwyz.fun^
 ||uqbcz.today^
+||uqbqarpuytxzd.site^
 ||uqdqljuukwa.xyz^
 ||uqecqpnnzt.online^
 ||uqkcroib.com^
@@ -35080,6 +35106,7 @@ vkcdnservice.appspot.com^
 ||valid-dad.com^
 ||validbid.pro^
 ||validcombine.com^
+||validcounter.com^
 ||valleylouisadick.com^
 ||valpeiros.com^
 ||valuablelayoutgodless.com^
@@ -35348,6 +35375,7 @@ vkcdnservice.appspot.com^
 ||vgtevnzhlujfv.website^
 ||vgtmxobdwdxh.com^
 ||vgvaggkdte.xyz^
+||vgxmagbsctvdf.online^
 ||vgzglvykuyclh.store^
 ||vhbhlkkaixibch.xyz^
 ||vhfeerzufoebx.site^
@@ -36777,6 +36805,7 @@ vkcdnservice.appspot.com^
 ||wqvwqxstgqjyk.fun^
 ||wqzqoobqpubx.com^
 ||wqzyxxrrep.com^
+||wrathfulletter.com^
 ||wrathyblesmol.com^
 ||wraxledbesort.qpon^
 ||wraxqfgl.com^
@@ -37311,6 +37340,7 @@ vkcdnservice.appspot.com^
 ||xylenesoaker.shop^
 ||xylinalehuas.world^
 ||xylitecessant.qpon^
+||xylonleagued.rest^
 ||xylzwamxxshgw.click^
 ||xympumihvhkkv.online^
 ||xyntqqrtdrjzk.online^
@@ -39663,6 +39693,7 @@ vkcdnservice.appspot.com^
 ||w9l4tr4013tn5mo27t0w.xyz^
 ||worthequally.com^
 ||wqq881m8uwq1k5m-4p7lv7.xyz^
+||yippeewhenever.com^
 ! ad-shield https://github.com/List-KR/List-KR/pull/892
 ||img-load.com^
 ! Samsung/LG/Philips smart-TV ad domains
