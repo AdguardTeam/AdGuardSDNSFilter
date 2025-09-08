@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-08T18:08:49.633Z
+! Last modified: 2025-09-08T20:06:40.192Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12630,6 +12630,7 @@ vkcdnservice.appspot.com^
 ||chaubsivensaux.net^
 ||chauckee.net^
 ||chauffeurreliancegreek.com^
+||chauhoowhautchi.net^
 ||chaussew.net^
 ||chautcho.com^
 ||chauvinevomit.life^
@@ -20279,6 +20280,7 @@ vkcdnservice.appspot.com^
 ||hdbkell.com^
 ||hdbkome.com^
 ||hdbtop.com^
+||hdexwslkxekj.net^
 ||hdfnsoytorpam.click^
 ||hdhjlhkmhxkjm.website^
 ||hdkokhzvalbxn.tech^
@@ -21522,6 +21524,7 @@ vkcdnservice.appspot.com^
 ||ilqtskaqbxdrj.website^
 ||ilshiletterismype.org^
 ||ilumtoux.net^
+||ilvumbonf.net^
 ||ilyaoipntdyol.space^
 ||ilyf4amifh.com^
 ||imageadvantage.net^
@@ -27805,6 +27808,7 @@ vkcdnservice.appspot.com^
 ||nvtsxcitcvalyml.com^
 ||nvtvssczb.com^
 ||nvtyjnbs.com^
+||nvueqrqnansqq.com^
 ||nvuzubaus.tech^
 ||nvxbjvswajhug.space^
 ||nvyasegpumln.com^
@@ -29053,6 +29057,7 @@ vkcdnservice.appspot.com^
 ||ovyyszfod.fun^
 ||ow5a.net^
 ||owagawjgamgmy.top^
+||owagawjgamjon.top^
 ||owaicoobsoog.com^
 ||owajwdyuesrbl.space^
 ||owascryingforthem.com^
@@ -33209,6 +33214,7 @@ vkcdnservice.appspot.com^
 ||roundaboutpoisonousglobe.com^
 ||roundcow.pro^
 ||rounddescribe.com^
+||rounderica.help^
 ||roundflow.net^
 ||roundpush.com^
 ||roundsnocturn.help^
@@ -36764,6 +36770,7 @@ vkcdnservice.appspot.com^
 ||tfucpfobpwbemcd.com^
 ||tfwjtrkuueobz.online^
 ||tfxeqwjygeoty.space^
+||tfxswxtxcickc.space^
 ||tfystjhfaqwosic.xyz^
 ||tgankgcp.com^
 ||tgel2ebtx.ru^
@@ -38897,6 +38904,7 @@ vkcdnservice.appspot.com^
 ||uwhejegrep.net^
 ||uwhevailoo.net^
 ||uwhootofaugrep.net^
+||uwhothoofaci.net^
 ||uwmsywuekjbcr.site^
 ||uwnqfhnsmveti.icu^
 ||uwnytpkxxpueh.club^
@@ -39500,6 +39508,7 @@ vkcdnservice.appspot.com^
 ||vjlakwgjnokv.top^
 ||vjlklyblqmvqj.top^
 ||vjlocpypzmhzr.website^
+||vjlyljbylmbez.top^
 ||vjlyljbylmymq.top^
 ||vjmmwgkymznzq.top^
 ||vjmmwgkymzwmz.top^
@@ -41338,6 +41347,7 @@ vkcdnservice.appspot.com^
 ||xggkcsmizhqbs.store^
 ||xgiiioziwwayu.store^
 ||xgolyqyfjuuwn.online^
+||xgozhrjmwwgxf.site^
 ||xgraph.net^
 ||xgsanpyn.xyz^
 ||xgsxkzscxapvj.online^
@@ -41961,6 +41971,7 @@ vkcdnservice.appspot.com^
 ||ympdqivbciqnniw.com^
 ||ymqlrkznenfcd.world^
 ||ymqtjikcys.com^
+||ymrghezhbhfie.website^
 ||ymvmsuqjukrrv.online^
 ||ynbgjroxqcyrr.site^
 ||ynfanslkhrdtn.space^
@@ -46057,6 +46068,8 @@ vkcdnservice.appspot.com^
 !
 ! ||mobileapptracking.com^ - don't block this domain with all subdomains. https://forum.adguard.com/index.php?threads/23917/
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/212569
+||*.libaishuo.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/171494
 ||adx-open-service.youku.com^
 ||ad.youku.com^
