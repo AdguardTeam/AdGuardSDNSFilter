@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-10T20:07:08.254Z
+! Last modified: 2025-09-10T22:06:05.788Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -290,6 +290,7 @@
 ||camliveshow.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||camptrck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||candyai.love^$dnsrewrite=ad-block.dns.adguard.com
+||casinobonusdeals.io^$dnsrewrite=ad-block.dns.adguard.com
 ||cautommityring.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cddtsecure.com^$dnsrewrite=ad-block.dns.adguard.com
 ||chambermaidthree.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -660,6 +661,7 @@
 ||pushub.net^$dnsrewrite=ad-block.dns.adguard.com
 ||qnp16tstw.com^$dnsrewrite=ad-block.dns.adguard.com
 ||qualiclicks.com^$dnsrewrite=ad-block.dns.adguard.com
+||quixoticzest.com^$dnsrewrite=ad-block.dns.adguard.com
 ||qwikln.com^$dnsrewrite=ad-block.dns.adguard.com
 ||racunn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rbtfit.com^$dnsrewrite=ad-block.dns.adguard.com
