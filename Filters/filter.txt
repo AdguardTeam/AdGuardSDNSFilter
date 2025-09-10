@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-10T14:06:11.289Z
+! Last modified: 2025-09-10T16:07:25.423Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13345,6 +13345,7 @@ vkcdnservice.appspot.com^
 ||codedexchange.com^
 ||codefund.io^
 ||codeinscarat.click^
+||codensmilax.com^
 ||codeonclick.com^
 ||coderformylife.info^
 ||codettafrazil.help^
@@ -13646,6 +13647,7 @@ vkcdnservice.appspot.com^
 ||contingentsolemnlykettle.com^
 ||continuation423.fun^
 ||contradiction2.fun^
+||contributionabdicatemoral.com^
 ||contributorshaveangry.com^
 ||controlaffliction.com^
 ||controlclickflow.com^
@@ -17499,6 +17501,7 @@ vkcdnservice.appspot.com^
 ||fargwyn.com^
 ||farleudeinos.shop^
 ||farmmandatehaggard.com^
+||farphrasedirect.com^
 ||farteniuson.com^
 ||fartmoda.com^
 ||fasceshelped.life^
@@ -113446,6 +113449,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ek-tracker.ekitan.com^
 ||logstash-*.radio-canada.ca^
 ||leo.hepsiburada.com^
 ||rainbow-prod-jdlog.ldoverseas.com^
@@ -130382,6 +130386,7 @@ dlsdk.appsflyer.com^
 ||joi09101pt.com^
 ||nio09101lt.com^
 ||mtmvrulutr.com^
+||rxoi.cn^
 ||kkbnzz.cn^
 ||joi09090pt.com^
 ||whistle35.com^
