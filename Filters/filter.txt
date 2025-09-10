@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-10T00:25:08.760Z
+! Last modified: 2025-09-10T02:30:27.320Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2258,7 +2258,6 @@
 ||58c19941c7.78af853196.com^
 ||5e37c0d1cf.772f4bba41.com^
 ||669baa8973.3a434abae1.com^
-||6f8583cd03.8a41766c30.com^
 ||76b61c25b1.c8dd7cddbb.com^
 ||8472fcb80c.cb57b3bd09.com^
 ||92ac005936.7958bd57cc.com^
@@ -2342,7 +2341,6 @@
 ||2a1b482343.1e55308a88.com^
 ||2ce7a79e64.f2a2ddbb84.com^
 ||2d91ee1fa3.7a53b9303c.com^
-||2de0750b36.3807bf7acf.com^
 ||2e4ad8cce9.d39274b315.com^
 ||2e8c13c9c8.b6ccb3f833.com^
 ||30a431b26a.e1bf915283.com^
@@ -6642,6 +6640,7 @@ vkcdnservice.appspot.com^
 ||366378fd1d.com^
 ||367p.com^
 ||376vn.com^
+||3807bf7acf.com^
 ||382be190f4.com^
 ||388533c5eb.com^
 ||3890e014d2.com^
@@ -6996,6 +6995,7 @@ vkcdnservice.appspot.com^
 ||88eq7spm.de^
 ||88hmh.com^
 ||89sa.com^
+||8a41766c30.com^
 ||8a53b29c07.com^
 ||8ab16250fe.com^
 ||8bfc9cbcbe.com^
@@ -10174,6 +10174,7 @@ vkcdnservice.appspot.com^
 ||banateblacky.shop^
 ||banatpaxes.click^
 ||banclip.com^
+||bancospilgrim.click^
 ||bancusshai.shop^
 ||bandboxclew.shop^
 ||banddisordergraceless.com^
@@ -11778,6 +11779,7 @@ vkcdnservice.appspot.com^
 ||bulochka.xyz^
 ||bulrev.com^
 ||bulserv.com^
+||bultellchais.cyou^
 ||bultowbrowden.qpon^
 ||bulyiel.com^
 ||bumaqblyqviw.fun^
@@ -12805,6 +12807,7 @@ vkcdnservice.appspot.com^
 ||chiveraccede.com^
 ||chiviesmildest.rest^
 ||chivnrrupntrz.online^
+||chizzorlage.click^
 ||chjesusdgbfgl.website^
 ||chl7rysobc3ol6xla.com^
 ||chmtriplet.qpon^
@@ -14912,6 +14915,7 @@ vkcdnservice.appspot.com^
 ||derideskid.com^
 ||dermagrumphy.shop^
 ||derningalright.com^
+||deroutsliver.digital^
 ||derowalius.com^
 ||derthurnyjkomp.com^
 ||dertralycosa.qpon^
@@ -15947,6 +15951,7 @@ vkcdnservice.appspot.com^
 ||dwztkzptvisct.site^
 ||dxakvollzguju.tech^
 ||dxaobbhcuiech.online^
+||dxbbxfsjgco.net^
 ||dxbyvgsd.com^
 ||dxbzufvkoahib.space^
 ||dxelsudieastk.store^
@@ -16144,6 +16149,7 @@ vkcdnservice.appspot.com^
 ||ecaiapclxayu.com^
 ||ecarteslimbers.com^
 ||ecchkens.shop^
+||ecchqokl.com^
 ||eccvwnwjayrqyeo.xyz^
 ||eceefutchee.net^
 ||eceepsoograirtu.net^
@@ -16828,6 +16834,7 @@ vkcdnservice.appspot.com^
 ||epwbtoqakgixx.site^
 ||epwlfmllsm.com^
 ||epwmnrpoqjut.xyz^
+||epxylbgnynfrhnu.com^
 ||eqads.com^
 ||eqbjnkjrgfgh.com^
 ||eqceidtikngos.space^
@@ -20404,6 +20411,7 @@ vkcdnservice.appspot.com^
 ||hearepingle.shop^
 ||hearsaypappyri.world^
 ||hearsedalumna.world^
+||hearstbodiced.digital^
 ||heart4man.net^
 ||heartachegrabbedlaunching.com^
 ||heartbreakslotserpent.com^
@@ -25733,6 +25741,7 @@ vkcdnservice.appspot.com^
 ||maxidownload.com^
 ||maxigamma.com^
 ||maxim.pub^
+||maximsclown.life^
 ||maximtoaster.com^
 ||maximumductpictorial.com^
 ||maxonclick.com^
@@ -27099,6 +27108,7 @@ vkcdnservice.appspot.com^
 ||naoofdiujjiec.space^
 ||naos.ink^
 ||nappedbrashly.help^
+||nappersboorga.digital^
 ||nappertroughy.cfd^
 ||nappieoxbows.com^
 ||nappyonsetstiffness.com^
@@ -31907,6 +31917,7 @@ vkcdnservice.appspot.com^
 ||qrusrgtonipih.store^
 ||qrvaygwbxg.net^
 ||qrwoayzjybvjj.top^
+||qrwoayzjybvmr.top^
 ||qrytnvspqpkip.com^
 ||qrzjmjrblqzbo.top^
 ||qsbfglhmfunlq.store^
@@ -35916,6 +35927,7 @@ vkcdnservice.appspot.com^
 ||stekanenv.help^
 ||stekpyarmba.com^
 ||stelabarm.com^
+||stelarkickers.qpon^
 ||steleprecure.world^
 ||stella-nova.click^
 ||stellataryba.digital^
@@ -38189,6 +38201,7 @@ vkcdnservice.appspot.com^
 ||twinboutjuly.com^
 ||twinedshoval.click^
 ||twinelandlord.com^
+||twinerindure.help^
 ||twinfill.com^
 ||twinkle-fun.net^
 ||twinklygrusian.digital^
@@ -38611,6 +38624,7 @@ vkcdnservice.appspot.com^
 ||uncotorture.com^
 ||uncramcappagh.life^
 ||uncunyblari.com^
+||uncutblamer.shop^
 ||undandinterp.org^
 ||undaymidydle.com^
 ||undecylupsends.com^
@@ -40641,6 +40655,7 @@ vkcdnservice.appspot.com^
 ||wghaqpnupaxmj.space^
 ||wgiuboquccyxe.site^
 ||wgknjngzmakzq.top^
+||wglqvwknwzyjg.top^
 ||wglqvwknwzynn.top^
 ||wgmenxpvnxnbs.space^
 ||wgocbdohwumvo.site^
@@ -41273,6 +41288,7 @@ vkcdnservice.appspot.com^
 ||wreathabble.com^
 ||wreckbargaininghers.com^
 ||wreckcentigradecleared.com^
+||wreckerthirst.rest^
 ||wrenchannel.xyz^
 ||wrestforsake.com^
 ||wretched-confusion.com^
@@ -41808,6 +41824,7 @@ vkcdnservice.appspot.com^
 ||xtdztyiqyhmet.global^
 ||xtfhdrcs.com^
 ||xtibyjlyqzyqv.store^
+||xtidentinhp.xyz^
 ||xtirtlpvihklp.site^
 ||xtiswsoofbtcod.com^
 ||xtitjpiaoedam.space^
@@ -47232,6 +47249,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||bridged.media^
 ||cdn.dfsdk.com^
 ||cdn.deviceinf.com^
 ||cdn.seonintelligence.com^
