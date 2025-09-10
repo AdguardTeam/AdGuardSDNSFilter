@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-10T02:30:27.320Z
+! Last modified: 2025-09-10T04:06:57.661Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6654,6 +6654,7 @@ vkcdnservice.appspot.com^
 ||3ad2ae645c.com^
 ||3b15e41dab.com^
 ||3b374de2ee.com^
+||3b3e638ac2.com^
 ||3b687a4e49.com^
 ||3c241b2b3e.com^
 ||3ca9dc59cc.com^
@@ -8476,6 +8477,7 @@ vkcdnservice.appspot.com^
 ||akvvltgfzmxvj.website^
 ||akximhhcunr.com^
 ||akzawlyyllbwj.top^
+||akzawlyyllzmm.top^
 ||akzkcfkabl.com^
 ||al-adtech.com^
 ||al5sm.com^
@@ -19228,6 +19230,7 @@ vkcdnservice.appspot.com^
 ||glacierwaist.com^
 ||glackoaneels.net^
 ||gladlyconceitcucumbers.com^
+||gladredooch.net^
 ||glaftedroag.net^
 ||glaghuckudou.net^
 ||glaicmolry.net^
@@ -24278,6 +24281,7 @@ vkcdnservice.appspot.com^
 ||lbmznmoboxffo.online^
 ||lbobcqsbvmmjko.com^
 ||lbozwmllmmjwg.top^
+||lbozwmllmmovv.top^
 ||lbpodurp.cam^
 ||lbszsbzuupnoe.online^
 ||lbumpethohbsp.online^
@@ -24756,6 +24760,7 @@ vkcdnservice.appspot.com^
 ||ljoblgmqkkgoa.top^
 ||ljoblgmqkkngz.top^
 ||ljqefskxsiek.com^
+||ljseecmh.com^
 ||ljsr-ijbcxvq.online^
 ||ljun8zm9.com^
 ||ljvmokwyrovjy.top^
@@ -32783,6 +32788,7 @@ vkcdnservice.appspot.com^
 ||representhostilemedia.com^
 ||reprtqemdf.com^
 ||republicandegrademeasles.com^
+||repulsiveformerlydevaluation.com^
 ||repulsivepair.com^
 ||reputerepublic.com^
 ||reqnmwfkoy.com^
@@ -38174,6 +38180,7 @@ vkcdnservice.appspot.com^
 ||tuttisdazedly.help^
 ||tutvp.com^
 ||tuyexdwuboyuw.top^
+||tvcbvfwdj.net^
 ||tvcusptktzlsa.website^
 ||tvgfejqoilwcu.store^
 ||tvkfxtoydfqtf.online^
@@ -40265,6 +40272,7 @@ vkcdnservice.appspot.com^
 ||wampishbelly.world^
 ||wanderingbloke.com^
 ||wandlbbeuwauj.store^
+||wangerstabile.com^
 ||wangfenxi.com^
 ||wangledreactor.world^
 ||waningsyrians.click^
@@ -113333,6 +113341,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||logstash-*.radio-canada.ca^
 ||leo.hepsiburada.com^
 ||rainbow-prod-jdlog.ldoverseas.com^
 ||posthog.lingvanex.com^
@@ -130259,8 +130268,8 @@ dlsdk.appsflyer.com^
 ||oylblokar.com^
 ||amusementt3.top^
 ||tejr.cn^
+||0sg1gx04is.com^
 ||kkbnzz.cn^
-||dr7dsx6u9.com^
 ||joi09090pt.com^
 ||whistle35.com^
 ||nio09090lt.com^
@@ -130281,6 +130290,7 @@ dlsdk.appsflyer.com^
 ||wu2088-603.shop^
 ||xdoriq.cn^
 ||cekdew.icu^
+||dr7dsx6u9.com^
 ||gru07o6y3.com^
 ||rfilmalmz.com^
 ||tthrirgud.com^
