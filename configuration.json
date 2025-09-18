@@ -364,14 +364,14 @@
     },
     {
       "name": "List-KR filter ad servers",
-      "source": "https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt",
+      "source": "https://raw.githubusercontent.com/List-KR/List-KR/refs/heads/master/adblocking/filters-share/1st_domains.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
       "name": "List-KR filter third-party ad servers",
-      "source": "https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/3rd_domains.txt",
+      "source": "https://raw.githubusercontent.com/List-KR/List-KR/refs/heads/master/adblocking/filters-share/3rd_domains.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
