@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-19T08:08:32.108Z
+! Last modified: 2025-09-19T08:29:10.377Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -14995,6 +14995,7 @@ vkcdnservice.appspot.com^
 ||datingtop-flirtses.com^
 ||datingtopgirls.com^
 ||datiscamammodi.help^
+||datismchirino.com^
 ||datjwuqifa.com^
 ||datkirsu.com^
 ||datklurgklvo.com^
@@ -27455,6 +27456,7 @@ vkcdnservice.appspot.com^
 ||mkschjudt.com^
 ||mkybbjaracrvh.online^
 ||mkysuerau.com^
+||mkyxrljdjoawi.site^
 ||ml314.com^
 ||mladedda.net^
 ||mlapifxkewalg.space^
@@ -29071,6 +29073,7 @@ vkcdnservice.appspot.com^
 ||nrfkdtepyfkay.website^
 ||nrfksddymxplir.com^
 ||nrgefbqyzsxid.space^
+||nriceukwater.org^
 ||nrnma.com^
 ||nrnmbyjsyxgr.xyz^
 ||nrotuzagll.com^
@@ -33321,6 +33324,7 @@ vkcdnservice.appspot.com^
 ||qnesnufjs.com^
 ||qnhuxyqjv.com^
 ||qnmesegceogg.com^
+||qnnomoxfmeqlr.com^
 ||qnp16tstw.com^
 ||qnpuinwkrqmyy.online^
 ||qnravllmrkpdo.space^
@@ -138144,9 +138148,11 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150038
 ! Blocked by CNAME getblueshift.com
 @@||clickattr.wayup.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/213677
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1393
 ! Blocked by CNAME adperfect.com
 @@||remembering.ca^|
+@@||obituaries.thestar.com^|
 @@||obituaries.therecord.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1265
 @@||catchup.thisisdax.com^|
