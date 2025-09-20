@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-19T22:06:41.176Z
+! Last modified: 2025-09-20T00:24:18.515Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1290,10 +1290,12 @@
 ||64p3am9x95ct.com^$dnsrewrite=ad-block.dns.adguard.com
 ||9eb10b7a3d04a.com^$dnsrewrite=ad-block.dns.adguard.com
 ||a63t9o1azf.com^$dnsrewrite=ad-block.dns.adguard.com
+||adbsys.icu^$dnsrewrite=ad-block.dns.adguard.com
 ||auredzeon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dairouzy.net^$dnsrewrite=ad-block.dns.adguard.com
 ||iwtserve.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pheersie.com^$dnsrewrite=ad-block.dns.adguard.com
+||shqbsdjatunl.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ueuodgnrhb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||zukxd6fkxqn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||track.aptitudemedia.co^$dnsrewrite=ad-block.dns.adguard.com
