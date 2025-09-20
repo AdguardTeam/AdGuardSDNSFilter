@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-20T10:05:56.881Z
+! Last modified: 2025-09-20T12:09:41.073Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11833,6 +11833,7 @@ vkcdnservice.appspot.com^
 ||braunaalbert.help^
 ||bravaquoited.qpon^
 ||brave-friend.com^
+||brave-passage.pro^
 ||brave-village.com^
 ||bravedhed.digital^
 ||braverycavalryoats.com^
@@ -15262,6 +15263,7 @@ vkcdnservice.appspot.com^
 ||decoctionembedded.com^
 ||decodedamores.qpon^
 ||decomposedismantle.com^
+||decomposemanly.com^
 ||decoratedmulesanta.com^
 ||decorationmercifulmonth.com^
 ||decordingholog.com^
@@ -16669,6 +16671,7 @@ vkcdnservice.appspot.com^
 ||eamrxyoyatwgm.website^
 ||eanff.com^
 ||eanresultancet.com^
+||eaoyilbmqypkz.site^
 ||earbossysavvy.com^
 ||eardepth-prisists.com^
 ||earflaproof.world^
@@ -16742,6 +16745,7 @@ vkcdnservice.appspot.com^
 ||ebeaelte.com^
 ||ebeca096c8caf9bd59163307d4237176.com^
 ||ebeihjqqt.xyz^
+||ebemgieytjkxb.space^
 ||ebetoni.com^
 ||ebirtoxecsfe.com^
 ||ebjjlcpl.com^
@@ -18785,6 +18789,7 @@ vkcdnservice.appspot.com^
 ||flusoprano.com^
 ||flustered-beer.com^
 ||fluxads.com^
+||fluxingdirely.help^
 ||flyads1.com^
 ||flyboatcooeys.digital^
 ||flybyionises.life^
@@ -19469,6 +19474,7 @@ vkcdnservice.appspot.com^
 ||fznlsnfka.com^
 ||fzqxuwfexcqza.website^
 ||fzvqmzsidkjgx.space^
+||fzvzgaezwsrzm.store^
 ||fzysfcwetnwid.site^
 ||g-xtqrgag.rocks^
 ||g0-g3t-msg.com^
@@ -21277,6 +21283,7 @@ vkcdnservice.appspot.com^
 ||hdszkkysumhrd.online^
 ||hduwzmmomocze.store^
 ||hdvcode.com^
+||hdxspoajm.com^
 ||hdywrwnvf-h.one^
 ||he7ll.com^
 ||headacheaim.com^
@@ -22697,6 +22704,7 @@ vkcdnservice.appspot.com^
 ||impestcasquet.digital^
 ||impetusorgansseparation.com^
 ||impiesprosos.cfd^
+||impishbeastspreserve.com^
 ||impliednauseous.com^
 ||implix.com^
 ||implodefeater.cfd^
@@ -23135,6 +23143,7 @@ vkcdnservice.appspot.com^
 ||ipkkjywsbtfxq.com^
 ||ipmentrandingsw.com^
 ||ipmohqrvg.xyz^
+||ippleshiswashisc.org^
 ||ipredictive.com^
 ||iprom.net^
 ||ipromcloud.com^
@@ -24885,6 +24894,7 @@ vkcdnservice.appspot.com^
 ||kodakbrique.click^
 ||kodaodrterxfj.site^
 ||kodbafryxemdz.website^
+||koeebuetwevng.space^
 ||koewsapge.com^
 ||kogiabatatas.com^
 ||kogkljgjaooko.top^
@@ -26123,6 +26133,7 @@ vkcdnservice.appspot.com^
 ||lobatapelf.click^
 ||lobby-x.eu^
 ||lobesforcing.com^
+||lobfigrethink.com^
 ||loboclick.com^
 ||lobspqdzvfvrp.space^
 ||lobstermonitortower.com^
@@ -33376,6 +33387,7 @@ vkcdnservice.appspot.com^
 ||qepfogmvvwyyk.site^
 ||qepytatzudtum.life^
 ||qeqyswhipqrgu.space^
+||qerihinnied.world^
 ||qerkbejkbqmwv.top^
 ||qerkbejqwqawb.top^
 ||qesrnpogpignd.store^
@@ -35306,6 +35318,7 @@ vkcdnservice.appspot.com^
 ||rpfpmvkkdaahw.online^
 ||rphlfhshukhnb.online^
 ||rpioehnu.com^
+||rpirsgsud.com^
 ||rpkqrutejizju.space^
 ||rpobkzwuqmqqq.store^
 ||rpokplgddrbjg.site^
@@ -35973,6 +35986,7 @@ vkcdnservice.appspot.com^
 ||schemeamuse.com^
 ||schjmp.com^
 ||scholadought.cyou^
+||scholarly-record.pro^
 ||scholarlyinteraction.pro^
 ||scholarsslate.com^
 ||schonesketchy.cfd^
@@ -42511,6 +42525,7 @@ vkcdnservice.appspot.com^
 ||yrflgsqpywsmh.website^
 ||yrhnw7h63.com^
 ||yriebbcnllxyvv.com^
+||yrirosvlwxt.com^
 ||yrkpvtbpyrcxf.global^
 ||yrmcxjkajvd.com^
 ||yrolgmveyxnfo.com^
@@ -120237,6 +120252,7 @@ dlsdk.appsflyer.com^
 ||rum.layer0.co^
 ||rum.perfops.net^
 ||rw.marchex.io^
+||s.axon.ai^
 ||s.logsss.com^
 ||s.vibe.co^
 ||sa.scorpion.co^
@@ -120530,6 +120546,7 @@ dlsdk.appsflyer.com^
 ! cloudfront
 ||d11bdev7tcn7wh.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
+||d16hi2v1mh7lg7.cloudfront.net^
 ||d1733r3id7jrw5.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
@@ -132859,6 +132876,7 @@ dlsdk.appsflyer.com^
 ||pblwxn.icu^
 ||dfi09201kq.com^
 ||x43slxjwzx.com^
+||askjbvjnejcbzweh.com^
 ||cjphjf4zm.com^
 ||i0y0i9vz0.com^
 ||dfi09190kq.com^
