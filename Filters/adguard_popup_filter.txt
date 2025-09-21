@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-21T00:28:11.642Z
+! Last modified: 2025-09-21T02:35:32.610Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -174,7 +174,6 @@
 ||1asb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||367p.com^$dnsrewrite=ad-block.dns.adguard.com
 ||3ckz.com^$dnsrewrite=ad-block.dns.adguard.com
-||554koaylwga7.top^$dnsrewrite=ad-block.dns.adguard.com
 ||5wzgtq8dpk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||65spy7rgcu.com^$dnsrewrite=ad-block.dns.adguard.com
 ||7flies12.de^$dnsrewrite=ad-block.dns.adguard.com
@@ -197,7 +196,6 @@
 ||admeking.com^$dnsrewrite=ad-block.dns.adguard.com
 ||admobe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adoni-nea.com^$dnsrewrite=ad-block.dns.adguard.com
-||adqit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ads4trk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adscdn.net^$dnsrewrite=ad-block.dns.adguard.com
 ||adsco.re^$dnsrewrite=ad-block.dns.adguard.com
@@ -232,7 +230,6 @@
 ||animeloundry.com^$dnsrewrite=ad-block.dns.adguard.com
 ||antcixn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||antiadblocksystems.com^$dnsrewrite=ad-block.dns.adguard.com
-||antjgr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||appointeeivyspongy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||approved.website^$dnsrewrite=ad-block.dns.adguard.com
 ||appslime.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -246,8 +243,6 @@
 ||auroraveil.bid^$dnsrewrite=ad-block.dns.adguard.com
 ||awalesglower.com^$dnsrewrite=ad-block.dns.adguard.com
 ||awecrptjmp.com^$dnsrewrite=ad-block.dns.adguard.com
-||bakabok.com^$dnsrewrite=ad-block.dns.adguard.com
-||baldo-toj.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bashfulleadsock.com^$dnsrewrite=ad-block.dns.adguard.com
 ||basicflownetowork.co.in^$dnsrewrite=ad-block.dns.adguard.com
 ||bayshorline.com^$dnsrewrite=ad-block.dns.adguard.com
