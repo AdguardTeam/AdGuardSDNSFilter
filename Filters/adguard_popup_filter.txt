@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-26T04:07:56.376Z
+! Last modified: 2025-09-26T06:09:32.617Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -328,8 +328,6 @@
 ||datesassistant.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dateyou2024.com^$dnsrewrite=ad-block.dns.adguard.com
 ||datingforyour4.site^$dnsrewrite=ad-block.dns.adguard.com
-||dc-rotator.com^$dnsrewrite=ad-block.dns.adguard.com
-||ddbhm.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||debaucky.com^$dnsrewrite=ad-block.dns.adguard.com
 ||deepsathegoh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||defandoar.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -354,7 +352,6 @@
 ||dpuppers.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dreamteamaffiliates.com^$dnsrewrite=ad-block.dns.adguard.com
 ||drsmediaexchange.com^$dnsrewrite=ad-block.dns.adguard.com
-||drumskilxoa.click^$dnsrewrite=ad-block.dns.adguard.com
 ||dsb68d.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dsp5stero.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dutydynamo.co^$dnsrewrite=ad-block.dns.adguard.com
