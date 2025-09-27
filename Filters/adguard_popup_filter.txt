@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-27T02:29:24.293Z
+! Last modified: 2025-09-27T04:07:11.220Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -394,7 +394,6 @@
 ||freetrckr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||frequentjam.com^$dnsrewrite=ad-block.dns.adguard.com
 ||freshpops.net^$dnsrewrite=ad-block.dns.adguard.com
-||fstsrv16.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fstsrv9.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fuck-ads.vercel.app^$dnsrewrite=ad-block.dns.adguard.com
 ||fuse-cloud.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -428,7 +427,6 @@
 ||haveameet.com^$dnsrewrite=ad-block.dns.adguard.com
 ||helicient.com^$dnsrewrite=ad-block.dns.adguard.com
 ||heptix.net^$dnsrewrite=ad-block.dns.adguard.com
-||herma-tor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hetapus.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hfr67jhqrw8.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hiasor.com^$dnsrewrite=ad-block.dns.adguard.com
