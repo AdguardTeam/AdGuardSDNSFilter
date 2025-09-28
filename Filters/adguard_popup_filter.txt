@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-28T18:07:49.498Z
+! Last modified: 2025-09-28T20:06:32.206Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -294,6 +294,7 @@
 ||chambermaidthree.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||checkcdn.net^$dnsrewrite=ad-block.dns.adguard.com
 ||choogeet.net^$dnsrewrite=ad-block.dns.adguard.com
+||choosingoffer.lol^$dnsrewrite=ad-block.dns.adguard.com
 ||chpadblock.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clearwatch.tv^$dnsrewrite=ad-block.dns.adguard.com
 ||clickblitzo.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -308,6 +309,7 @@
 ||coastalbloom.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||colleem.com^$dnsrewrite=ad-block.dns.adguard.com
 ||colorsealprosper.co^$dnsrewrite=ad-block.dns.adguard.com
+||colossal-pathway.life^$dnsrewrite=ad-block.dns.adguard.com
 ||conestreshow.com^$dnsrewrite=ad-block.dns.adguard.com
 ||controlclickflow.com^$dnsrewrite=ad-block.dns.adguard.com
 ||coolserving.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -377,6 +379,7 @@
 ||expdirclk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||extension-ad-stopper.com^$dnsrewrite=ad-block.dns.adguard.com
 ||extsoft.info^$dnsrewrite=ad-block.dns.adguard.com
+||exxtended-access.com^$dnsrewrite=ad-block.dns.adguard.com
 ||eyewondermedia.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fascespro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fastdntrk.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -665,6 +668,7 @@
 ||realtime-bid.com^$dnsrewrite=ad-block.dns.adguard.com
 ||recommended-twice.com^$dnsrewrite=ad-block.dns.adguard.com
 ||redaffil.com^$dnsrewrite=ad-block.dns.adguard.com
+||redirecting.online^$dnsrewrite=ad-block.dns.adguard.com
 ||redirectingat.com^$dnsrewrite=ad-block.dns.adguard.com
 ||reebr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||resentreaccotia.com^$dnsrewrite=ad-block.dns.adguard.com
