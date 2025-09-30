@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-09-30T06:09:55.355Z
+! Last modified: 2025-09-30T08:09:08.124Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10118,6 +10118,7 @@ vkcdnservice.appspot.com^
 ||bcluksfhyquqp.space^
 ||bcnonwgwntvpv.website^
 ||bcombdmnoidze.online^
+||bcpbtqpumbarw.online^
 ||bcprm.com^
 ||bcrhbyfufuub.xyz^
 ||bcrwvqildpn.com^
@@ -11797,6 +11798,7 @@ vkcdnservice.appspot.com^
 ||canthiupsring.life^
 ||cantonlobbies.click^
 ||canyonsvav.life^
+||canzosdropman.cyou^
 ||caokvepcdzeha.site^
 ||cap-cap-pop.com^
 ||capabilitylusciousinstances.com^
@@ -20740,6 +20742,7 @@ vkcdnservice.appspot.com^
 ||iiqetnbmcls.net^
 ||iirgaldxwrzgb.site^
 ||iisatylcrskde.store^
+||iisclmekykjjr.store^
 ||iitazqaajeeui.site^
 ||ijbaawqolrhpd.site^
 ||ijbkiwuopcluyiy.com^
@@ -23231,6 +23234,7 @@ vkcdnservice.appspot.com^
 ||krzovyae.work^
 ||ksbxthpfiyrrg.online^
 ||ksdnqhfgmmhbx.website^
+||ksdudtpvsqo.com^
 ||ksehinkitw.hair^
 ||ksekoqnggw.com^
 ||kseseemyresum.org^
@@ -23306,6 +23310,7 @@ vkcdnservice.appspot.com^
 ||kunmiutmazily.life^
 ||kunvertads.com^
 ||kunwplqhsgodx.space^
+||kuolkoola.com^
 ||kupefoarsadseer.com^
 ||kuqpdxek.today^
 ||kuqsxxqeen.com^
@@ -24570,6 +24575,7 @@ vkcdnservice.appspot.com^
 ||louzensp.com^
 ||lovable-scale.com^
 ||lovableerror.com^
+||lovablephilosophy.pro^
 ||lovableprofile.com^
 ||lovableswing.pro^
 ||lovableteas.qpon^
@@ -28277,6 +28283,7 @@ vkcdnservice.appspot.com^
 ||ofdalslf.com^
 ||ofdittor.com^
 ||offalakazaman.com^
+||offbeatstill.pro^
 ||offchatotor.com^
 ||offenceseemshy.com^
 ||offenderprolific.com^
@@ -30496,6 +30503,7 @@ vkcdnservice.appspot.com^
 ||pjymxkdv.xyz^
 ||pk0grqf29.com^
 ||pk910324e.com^
+||pkahpynblcscu.space^
 ||pkazbknklrjtj.website^
 ||pkbujwbslc.com^
 ||pkcetjql.net^
@@ -31553,6 +31561,7 @@ vkcdnservice.appspot.com^
 ||ptawe.com^
 ||ptawehex.net^
 ||ptawidoohun.net^
+||ptbiksimhxegf.online^
 ||ptbrdg.com^
 ||ptcdw.com^
 ||ptcdwm.com^
@@ -31691,6 +31700,7 @@ vkcdnservice.appspot.com^
 ||pugsgivehugs.com^
 ||puhibeemashie.net^
 ||puhtml.com^
+||puhyjyf.com^
 ||puitaexb.com^
 ||pukisharmor.click^
 ||pukt.cloud^
@@ -38388,6 +38398,7 @@ vkcdnservice.appspot.com^
 ||tvrqlfdtfxtsh.space^
 ||tvsvmmik.com^
 ||tvuaaetfx.com^
+||tvvydeysyzwnl.site^
 ||tvwxwboysflvt.website^
 ||tvxzuiiddkbqy.online^
 ||twaeppdjvb.com^
@@ -41323,6 +41334,7 @@ vkcdnservice.appspot.com^
 ||xcaffqfmgwyor.space^
 ||xccawavf.com^
 ||xcdkxayfqe.com^
+||xcebawedhllzp.website^
 ||xcec.ru^
 ||xcecsvhlqkydg.online^
 ||xcellojapanelmon.org^
@@ -41951,6 +41963,7 @@ vkcdnservice.appspot.com^
 ||ympdqivbciqnniw.com^
 ||ympgpaldtpie.com^
 ||ymqlrkznenfcd.world^
+||ymqzwqoqkudq.com^
 ||ymrghezhbhfie.website^
 ||ymrhukgr.com^
 ||ymuzuvrb.com^
@@ -42083,6 +42096,7 @@ vkcdnservice.appspot.com^
 ||ysesials.net^
 ||yshfyhfhzvcik.club^
 ||ysjllgyoodrjkb.com^
+||yslsymovnkkjl.site^
 ||yssdksdk.com^
 ||ystationalhed.com^
 ||ysuqeruyrdwbn.com^
@@ -46104,6 +46118,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||app-ads-services.com^
 ||adtmonetize.com^
 ||rugfrfji.win^
 ||ads-cdn.hopper.com^
@@ -114552,6 +114567,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||error-analytics-sessions-production.shopifysvc.com^
 ||analytics.pesktop.com^
 ||cloudmetrics.xenforo.com^
 ||api-analytics.pelikan.sk^
@@ -118666,7 +118682,6 @@ dlsdk.appsflyer.com^
 ||eq.userneeds.com^
 ||era.easyvoyage.com^
 ||error-analytics-production.shopifysvc.com^
-||error-analytics-sessions-production.shopifysvc.com^
 ||errors.snackly.co^
 ||et.educationdynamics.com^
 ||etl.springbot.com^
@@ -119227,6 +119242,7 @@ dlsdk.appsflyer.com^
 ||analytics.samsungknox.com^
 ||extmaps-api.yandex.net^
 ||metrics-dra.dt.hicloud.com^
+! https://coveryourtracks.eff.org/ Cover your tracks test
 ! cloudfront
 ||d11bdev7tcn7wh.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
@@ -131567,6 +131583,8 @@ dlsdk.appsflyer.com^
 ||vzia.cn^
 ||u4jlr6f6n2.com^
 ||jqs77n9x.xyz^
+||ixug0amgtn.com^
+||nzl09301oa.com^
 ||ytv7335mt.com^
 ||dftraanudh.com^
 ||ecbwemnff3.com^
