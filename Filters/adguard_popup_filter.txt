@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-04T14:06:16.925Z
+! Last modified: 2025-10-04T16:06:35.309Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -231,6 +231,7 @@
 ||alibabatraffic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||alpenridge.top^$dnsrewrite=ad-block.dns.adguard.com
 ||alpine-vpn.com^$dnsrewrite=ad-block.dns.adguard.com
+||amichi.info^$dnsrewrite=ad-block.dns.adguard.com
 ||aneorwd.com^$dnsrewrite=ad-block.dns.adguard.com
 ||animeloundry.com^$dnsrewrite=ad-block.dns.adguard.com
 ||antcixn.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -608,6 +609,7 @@
 ||pagelivekeylearnbestz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||paid.outbrain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||paulastroid.com^$dnsrewrite=ad-block.dns.adguard.com
+||peaktrck.uno^$dnsrewrite=ad-block.dns.adguard.com
 ||pemsrv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||permanentillnessclever.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pexorise.com^$dnsrewrite=ad-block.dns.adguard.com
