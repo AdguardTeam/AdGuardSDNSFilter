@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-10T10:07:17.530Z
+! Last modified: 2025-10-10T12:10:39.742Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -259,6 +259,7 @@
 ||behim.click^$dnsrewrite=ad-block.dns.adguard.com
 ||bemobtrcks.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bemobtrk.com^$dnsrewrite=ad-block.dns.adguard.com
+||bemoonunbroid.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||bestchainconnection.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bestcleaner.online^$dnsrewrite=ad-block.dns.adguard.com
 ||bestreceived.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -715,6 +716,7 @@
 ||security-suggestion.com^$dnsrewrite=ad-block.dns.adguard.com
 ||security-u.com^$dnsrewrite=ad-block.dns.adguard.com
 ||securitycheckonline.com^$dnsrewrite=ad-block.dns.adguard.com
+||sentimentalflight.com^$dnsrewrite=ad-block.dns.adguard.com
 ||servsserverz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sessfetchio.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sexemulator.tube-sexs.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -815,6 +817,7 @@
 ||unseaminoax.click^$dnsrewrite=ad-block.dns.adguard.com
 ||upodaitie.net^$dnsrewrite=ad-block.dns.adguard.com
 ||upuplets.com^$dnsrewrite=ad-block.dns.adguard.com
+||usedownloads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||utm-campaign.com^$dnsrewrite=ad-block.dns.adguard.com
 ||validcombine.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vasstycom.com^$dnsrewrite=ad-block.dns.adguard.com
