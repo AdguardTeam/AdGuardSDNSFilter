@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-13T18:08:20.960Z
+! Last modified: 2025-10-13T20:07:23.829Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -20552,6 +20552,7 @@ vkcdnservice.appspot.com^
 ||harboralloyed.life^
 ||hardaiwhoo.net^
 ||hardcoretrayversion.com^
+||hardenteiid.com^
 ||harderjuniormisty.com^
 ||hardiereuglena.help^
 ||hardnessanything.com^
@@ -22495,6 +22496,7 @@ vkcdnservice.appspot.com^
 ||ioghwshry.com^
 ||iogjhbnoypg.com^
 ||iogpjkoewnxuh.site^
+||iohsoavvddvmo.store^
 ||iohwhojtnmyql.com^
 ||iojzzlodyluyl.online^
 ||iokyzmpkwtepa.space^
@@ -26339,6 +26341,7 @@ vkcdnservice.appspot.com^
 ||mb104.com^
 ||mb38.com^
 ||mb57.com^
+||mbbgbxpvaymmw.store^
 ||mbddip.com^
 ||mbdippex.com^
 ||mbeamnqagxc.com^
@@ -27977,6 +27980,7 @@ vkcdnservice.appspot.com^
 ||nckojcploecia.online^
 ||nclehfpupenne.store^
 ||ncmeojlrybcza.online^
+||ncoyercwrriqc.website^
 ||ncqfppkwczjal.site^
 ||ncqhgmxnpywal.website^
 ||ncusbbcoxgyxq.com^
@@ -28676,6 +28680,7 @@ vkcdnservice.appspot.com^
 ||noxiousinvestor.com^
 ||noxiousrecklesssuspected.com^
 ||noxiousrequirement.pro^
+||noxiouswear.pro^
 ||noyauoutsum.digital^
 ||nozoakamsaun.net^
 ||nozzlesoutlled.shop^
@@ -33539,6 +33544,7 @@ vkcdnservice.appspot.com^
 ||qgzutjiaoqagq.online^
 ||qhchh.com^
 ||qhcsdqeebhabl.online^
+||qhezeajxmklcy.store^
 ||qhffqlklvclza.website^
 ||qhgryaocaxulj.online^
 ||qhiatcfrywgse.click^
@@ -37316,6 +37322,7 @@ vkcdnservice.appspot.com^
 ||sinderchenica.qpon^
 ||sinecartes.qpon^
 ||sinful-bad.pro^
+||sinfultown.pro^
 ||sing-tracker.com^
 ||singaporetradingchallengetracker1.com^
 ||singelstodate.com^
@@ -37611,6 +37618,7 @@ vkcdnservice.appspot.com^
 ||smljmp.com^
 ||smlypotr.net^
 ||smmivcxq.xyz^
+||smmnclhggakto.website^
 ||smmqhjwwrjred.store^
 ||smoggy-construction.com^
 ||smoggy-twist.pro^
@@ -37746,6 +37754,7 @@ vkcdnservice.appspot.com^
 ||softpopads.com^
 ||softresumesuperserver.com^
 ||sogeramides.qpon^
+||soghdcywujoxe.store^
 ||sogropidy.com^
 ||sohiudhpgslgb.space^
 ||soholfit.com^
@@ -39633,6 +39642,7 @@ vkcdnservice.appspot.com^
 ||tkpmulayvctzq.site^
 ||tkqjtaurqpltn.store^
 ||tksfsnyuismxd.store^
+||tktdqqmjajqlr.com^
 ||tl2go.com^
 ||tlfhuinwmfrism.com^
 ||tlhbzimbrhqbg.online^
@@ -42063,6 +42073,7 @@ vkcdnservice.appspot.com^
 ||vmwnwgoqkmqkv.top^
 ||vmwstioeqlpnbxn.com^
 ||vmxckyomhbtcz.space^
+||vmyzsntquxfav.space^
 ||vmzjmjzgqzmqq.top^
 ||vnaymmzomvkqj.top^
 ||vnaytmsucryispu.net^
@@ -43192,6 +43203,7 @@ vkcdnservice.appspot.com^
 ||wkwqppvboxjgf.com^
 ||wkwzgjyvykbg.top^
 ||wkyhnmaroqmeu.online^
+||wkyiuxvfusxqp.space^
 ||wkyiwsiryjrke.space^
 ||wkzmxixgjobkf.site^
 ||wl-cornholio.com^
@@ -43824,6 +43836,7 @@ vkcdnservice.appspot.com^
 ||xiwswnbsjalpi.site^
 ||xjdkccwyttuqj.website^
 ||xjdyxfskzgdsr.store^
+||xjeoqltyxlqtho.com^
 ||xjfqqyrcz.com^
 ||xjfyqwxgikffik.com^
 ||xjhmuyvufdesh.space^
@@ -118942,6 +118955,9 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||uac.kyeongin.com^
+||clogger.nocutnews.co.kr^
+||reports.omegacommerce.com^
 ||pvdpix.com^
 ||collector-sbanking.shb-pelib.com^
 ||uac.etnews.com^
@@ -128346,6 +128362,7 @@ dlsdk.appsflyer.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||mdznads.pages.dev^
 ||reklam.ibrahimyurttapan.com.tr^
 ||reklam.arailetisim.com^
 ||mdznads.com^
