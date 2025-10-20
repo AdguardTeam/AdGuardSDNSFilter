@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-20T06:09:41.824Z
+! Last modified: 2025-10-20T08:08:56.484Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6112,6 +6112,10 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/68502
 ||widget.tippebannere.no^
 ||adc.interia.pl^
+! https://github.com/AdguardTeam/AdguardFilters/issues/215666
+! https://github.com/MajkiIT/polish-ads-filter/issues/23114
+! TODO: remove when it's fixed in Official Polish filters for AdBlock, uBlock Origin & AdGuard
+||pl.ua^$badfilter
 !+ PLATFORM(ext_chromium_mv3)
 ||linksprf.com^$badfilter
 ||c2c24.pl^
@@ -8886,6 +8890,7 @@ vkcdnservice.appspot.com^
 ||amvbwlerkyejb.top^
 ||amvbwlerkyezv.top^
 ||amvndrcsfxevr.site^
+||amwgisnagixqe.store^
 ||amwjroqdaffedh.com^
 ||amwoukrkskillso.com^
 ||amxvtyhhyciw.com^
@@ -14462,6 +14467,7 @@ vkcdnservice.appspot.com^
 ||curyrentattributo.org^
 ||cushoussie.net^
 ||cuspiroid.click^
+||cussersimmure.click^
 ||customads.co^
 ||customernormallyseventh.com^
 ||customslongest.com^
@@ -14636,6 +14642,7 @@ vkcdnservice.appspot.com^
 ||d603b6ccf0.com^
 ||d71194ad75.com^
 ||d77155313b.com^
+||d79dcdbf0a.com^
 ||d8b03d6392.com^
 ||d8c04a25e8.com^
 ||d8c9bf3664.com^
@@ -15089,6 +15096,7 @@ vkcdnservice.appspot.com^
 ||delaybagelblur.com^
 ||delayeddisputecommotion.com^
 ||delectable-earth.com^
+||delectable-gate.pro^
 ||delectableliving.pro^
 ||delectabletown.com^
 ||deleteorlo.com^
@@ -16604,6 +16612,7 @@ vkcdnservice.appspot.com^
 ||ectsofcukorpor.com^
 ||ectuklyeconen.com^
 ||ectypalbelard.shop^
+||ecudcejxxmnpv.store^
 ||ecuryrentattribut.org^
 ||ecvnsycct.xyz^
 ||ecxjncetxiila.space^
@@ -19277,6 +19286,7 @@ vkcdnservice.appspot.com^
 ||fvssmssxn.net^
 ||fvssmssxn.xyz^
 ||fvtyvvrrzpmep.website^
+||fvuhjhguxtytn.space^
 ||fvuwdaaimjtgv.space^
 ||fvvpekpy.com^
 ||fvvyndmujhviq.store^
@@ -20162,6 +20172,7 @@ vkcdnservice.appspot.com^
 ||gmzdaily.com^
 ||gnashesfanfare.com^
 ||gnawreclaim.com^
+||gnaymrzznfqhv.website^
 ||gnazorian.help^
 ||gncesebtgiyeoot.net^
 ||gnewcwuaertoo.com^
@@ -20522,6 +20533,7 @@ vkcdnservice.appspot.com^
 ||grievedvicerecord.com^
 ||griftswhereas.cfd^
 ||grignetheronry.shop^
+||griinqddauwbc.website^
 ||grikenullary.world^
 ||grikevoltes.cyou^
 ||griksoorgaultoo.xyz^
@@ -21657,6 +21669,7 @@ vkcdnservice.appspot.com^
 ||hlinit.com^
 ||hlkwshtzpeuma.space^
 ||hlmiq.com^
+||hlnylqalpqei.com^
 ||hloontleulrrx.site^
 ||hlserve.com^
 ||hlufsqadxupgr.website^
@@ -22129,6 +22142,7 @@ vkcdnservice.appspot.com^
 ||huxitsaise.net^
 ||huzewljtygd.com^
 ||huzytgmqsnecd.website^
+||hvannredmdtvn.com^
 ||hvaxpkbykuj.com^
 ||hvdponfpbcgyr.site^
 ||hvdzdrovccwom.site^
@@ -34443,6 +34457,7 @@ vkcdnservice.appspot.com^
 ||qcgzvywnvubee.online^
 ||qchmlmtkpbswf.buzz^
 ||qchrargdlvstl.site^
+||qcindqvlzsndz.store^
 ||qcjgyhgwtzlzv.space^
 ||qcjyyaiabhmrn.store^
 ||qckwwrbyjejwi.website^
@@ -40257,6 +40272,7 @@ vkcdnservice.appspot.com^
 ||tbguudxflcfub.site^
 ||tbgwyrxwtmfrh.site^
 ||tbimsmdlxsiam.website^
+||tbjjmbokxshqc.store^
 ||tbjrtcoqldf.site^
 ||tblnreehmapc.com^
 ||tbogujbgj.net^
@@ -41595,6 +41611,7 @@ vkcdnservice.appspot.com^
 ||tunitytostara.org^
 ||tunkatrampot.com^
 ||tunneljig.shop^
+||tunnerypiques.click^
 ||tunneryrimpled.shop^
 ||tunobwjyfcoad.online^
 ||tunosrxqt.xyz^
@@ -43681,6 +43698,7 @@ vkcdnservice.appspot.com^
 ||vxddydruqitjl.space^
 ||vxfgdhyjprlhx.store^
 ||vxgvqcxghgtqe.site^
+||vxiearhzvtdtv.website^
 ||vxmgwfvl.net^
 ||vxo-protect.co.in^
 ||vxpcarcapffdp.global^
@@ -44631,6 +44649,7 @@ vkcdnservice.appspot.com^
 ||wmlollmkvjkaj.top^
 ||wmlollmkvjkww.top^
 ||wmlwqrqma.com^
+||wmmiyrophemnl.store^
 ||wmmrbwiyztgeg.top^
 ||wmnfqywhoauuo.website^
 ||wmober.com^
@@ -45454,6 +45473,7 @@ vkcdnservice.appspot.com^
 ||xtaooroiinxo.com^
 ||xtbwgddclwklu.store^
 ||xtcpooexxvutu.xyz^
+||xtdcuxjkh.com^
 ||xtdztyiqyhmet.global^
 ||xtidentinhp.net^
 ||xtidentinhp.xyz^
@@ -45575,6 +45595,7 @@ vkcdnservice.appspot.com^
 ||xyhpackzyvrzq.space^
 ||xyhyieyyqljos.site^
 ||xykkbchewuhah.website^
+||xylfkrzggfybfy.com^
 ||xylitecessant.qpon^
 ||xylmdfsjjpwer.site^
 ||xylogencollery.qpon^
