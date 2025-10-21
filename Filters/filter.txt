@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-21T02:34:57.980Z
+! Last modified: 2025-10-21T04:07:57.745Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7299,6 +7299,7 @@ vkcdnservice.appspot.com^
 ||abjvzpgzbrbyn.space^
 ||abkajbvlykeam.top^
 ||abkajbvlykemj.top^
+||abkajbvlykkkw.top^
 ||abkajbvlykmab.top^
 ||abkajbvlymjor.top^
 ||abkxyinpiffsk.site^
@@ -10078,6 +10079,7 @@ vkcdnservice.appspot.com^
 ||azeleiljkpywl.vip^
 ||azenka.one^
 ||azeriondigital.com^
+||azgftoymwpszx.online^
 ||azilianmazy.click^
 ||azimechgirosol.top^
 ||azjmp.com^
@@ -15518,6 +15520,7 @@ vkcdnservice.appspot.com^
 ||directtrck.com^
 ||direeyesightstray.com^
 ||diregun.digital^
+||dirgesimious.com^
 ||dirgyjimson.qpon^
 ||dirtharvestnickel.com^
 ||dirtilyvirago.cfd^
@@ -16549,6 +16552,7 @@ vkcdnservice.appspot.com^
 ||easternepoch.life^
 ||eastfeukufu.info^
 ||eastfeukufu.org^
+||eastingnepeta.qpon^
 ||eastmanpedal.life^
 ||eastrk-dn.com^
 ||eastrk-lg.com^
@@ -16863,6 +16867,7 @@ vkcdnservice.appspot.com^
 ||egroatodoam.com^
 ||egtgkxhjb.com^
 ||egvmppvtammxw.site^
+||egxpwpfkyilxtyo.com^
 ||egxuyvgdhwrzv.space^
 ||egyptbullsavoury.com^
 ||egypxwseuiqahr.com^
@@ -17713,6 +17718,7 @@ vkcdnservice.appspot.com^
 ||ewrjbdxbysngd.online^
 ||ewruuqe5p8ca.com^
 ||ewutoxapaffqc.site^
+||ewvywlqn.net^
 ||ewyjmkgvvtoxy.space^
 ||ewyvuznndlmrk.online^
 ||ewzjbeqw.com^
@@ -29949,6 +29955,7 @@ vkcdnservice.appspot.com^
 ||nwljjhhbtofbtc.com^
 ||nwlsdjumwhghtr.com^
 ||nwmnd.com^
+||nwnncnbipamso.website^
 ||nwntsabmagdqn.xyz^
 ||nwnxyebilknrv.com^
 ||nwpwfyhnvqmxd.website^
@@ -31153,6 +31160,7 @@ vkcdnservice.appspot.com^
 ||ortwaukthwaeals.com^
 ||oruxdwhatijun.info^
 ||oruxmvyydrvkr.website^
+||orvgpjjyagvfn.site^
 ||orwefwjjaugwi.com^
 ||orwrpyxus.com^
 ||orzukuzorpxvp.online^
@@ -32841,6 +32849,7 @@ vkcdnservice.appspot.com^
 ||pkwsgshf.com^
 ||pkwyscreaks.qpon^
 ||pkxaeqqq.com^
+||pkzxulxtgggxz.space^
 ||placcolionic.com^
 ||placedscutta.qpon^
 ||placedwhangam.com^
@@ -34500,6 +34509,7 @@ vkcdnservice.appspot.com^
 ||qa-vatote.icu^
 ||qa24ljic4i.com^
 ||qabbalacurval.world^
+||qadwmyxqi.com^
 ||qaebaywbvvjqz.top^
 ||qaebaywwzvmyw.top^
 ||qaebaywwzvwvb.top^
@@ -37963,6 +37973,7 @@ vkcdnservice.appspot.com^
 ||seasideextinguishprinciples.com^
 ||seaskydvd.com^
 ||seatangcaranga.top^
+||seataverna.rest^
 ||seatedsaintinsist.com^
 ||seatslaurelblemish.com^
 ||sebaitkelvins.world^
@@ -38670,6 +38681,7 @@ vkcdnservice.appspot.com^
 ||sizzling-camp.pro^
 ||sizzpalamae.rest^
 ||sjbnwzwwmcubf.site^
+||sjdmwgcwihq.com^
 ||sjdmwvfw.com^
 ||sjetnf-oizyo.buzz^
 ||sjfyupmvpazsj.store^
@@ -119199,6 +119211,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||leo.tridge.com^
 ||haystack.wavve.com^
 ||user-event-log.aminer.cn^
 ||pixel.dashfi.dev^
@@ -130712,8 +130725,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 20 Oct 2025 16:16 UTC+7
-! Version: 2510201616
+! Last modified: 21 Oct 2025 10:30 UTC+7
+! Version: 2510211030
 ! Blocked: 889 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -131545,9 +131558,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 20 Oct 2025 16:16 UTC+7
-! Version: 2510201616
-! Blocked: 4.776 rules
+! Last modified: 21 Oct 2025 10:29 UTC+7
+! Version: 2510211029
+! Blocked: 4.777 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -135211,6 +135224,7 @@ dlsdk.appsflyer.com^
 ||tx55.vip^
 ||txclmomo.club^
 ||ucesreferre.club^
+||udavsofi.dvfrz.de^
 ||ugvietnam.net^
 ||uhy89mb.com^
 ||ukzdcnzp.bdtrjklaz.de^
@@ -136296,6 +136310,7 @@ dlsdk.appsflyer.com^
 ||nidckjnc.com^
 ||75rakcovr.com^
 ||bftvpp.icu^
+||aqftgalqig.com^
 ||ulwzinqlh0.com^
 ||9swovqnp52.com^
 ||zsy10200yok.com^
