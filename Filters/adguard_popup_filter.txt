@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-21T04:08:01.075Z
+! Last modified: 2025-10-21T06:10:09.433Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -546,7 +546,6 @@
 ||mobile-ads.gaygalls.net^$dnsrewrite=ad-block.dns.adguard.com
 ||mobile-ads.wycc.porn^$dnsrewrite=ad-block.dns.adguard.com
 ||mobiletracking.ru^$dnsrewrite=ad-block.dns.adguard.com
-||modoodeul.com^$dnsrewrite=ad-block.dns.adguard.com
 ||momotrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||movie-tv-free.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mylot.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -572,9 +571,7 @@
 ||nontraditionally.rest^$dnsrewrite=ad-block.dns.adguard.com
 ||noohapou.com^$dnsrewrite=ad-block.dns.adguard.com
 ||noolt.com^$dnsrewrite=ad-block.dns.adguard.com
-||north-verification.com^$dnsrewrite=ad-block.dns.adguard.com
 ||northauthority.xyz^$dnsrewrite=ad-block.dns.adguard.com
-||northdownload.com^$dnsrewrite=ad-block.dns.adguard.com
 ||northrtbads.top^$dnsrewrite=ad-block.dns.adguard.com
 ||nothingfairnessdemonstrate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||novibet.partners^$dnsrewrite=ad-block.dns.adguard.com
@@ -627,7 +624,6 @@
 ||playstretch.host^$dnsrewrite=ad-block.dns.adguard.com
 ||plinksplanet.com^$dnsrewrite=ad-block.dns.adguard.com
 ||plorexdry.com^$dnsrewrite=ad-block.dns.adguard.com
-||pnouting.com^$dnsrewrite=ad-block.dns.adguard.com
 ||podbex.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pooksys.site^$dnsrewrite=ad-block.dns.adguard.com
 ||popblockergold.com^$dnsrewrite=ad-block.dns.adguard.com
