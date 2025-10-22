@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-22T16:08:11.963Z
+! Last modified: 2025-10-22T18:09:39.816Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -702,6 +702,7 @@
 ||rtbix.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||rtbreachads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||s3g6.com^$dnsrewrite=ad-block.dns.adguard.com
+||sabasadara.com^$dnsrewrite=ad-block.dns.adguard.com
 ||safeonlinetips.com^$dnsrewrite=ad-block.dns.adguard.com
 ||savinist.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sawd.cloud^$dnsrewrite=ad-block.dns.adguard.com
@@ -732,6 +733,7 @@
 ||slcuse.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sloto.live^$dnsrewrite=ad-block.dns.adguard.com
 ||smrtmnk2.com^$dnsrewrite=ad-block.dns.adguard.com
+||socialdate.me^$dnsrewrite=ad-block.dns.adguard.com
 ||sodefender.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||sp03k.sbs^$dnsrewrite=ad-block.dns.adguard.com
 ||spareforads.top^$dnsrewrite=ad-block.dns.adguard.com
