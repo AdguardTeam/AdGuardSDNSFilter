@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-23T06:09:44.132Z
+! Last modified: 2025-10-23T08:09:00.947Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6906,6 +6906,7 @@ vkcdnservice.appspot.com^
 ||6bgaput9ullc.com^
 ||6c32ad026d.com^
 ||6ca9278a53.com^
+||6cfc27c30d.com^
 ||6d092bcd12.com^
 ||6d7486ee46.com^
 ||6dbc7ad876.com^
@@ -10480,6 +10481,7 @@ vkcdnservice.appspot.com^
 ||bctuafpdwarbm.site^
 ||bcusuopfexyrv.net^
 ||bcwpdvigokzca.space^
+||bcybkxcpo.com^
 ||bcybxygvbsyuv.website^
 ||bcydxusraikpu.online^
 ||bczmrdfjkesgf.online^
@@ -12851,6 +12853,7 @@ vkcdnservice.appspot.com^
 ||chacolieutopia.shop^
 ||chaerel.com^
 ||chafinguhuru.help^
+||chafteerano.com^
 ||chaghets.net^
 ||chaibsoacmo.com^
 ||chaidroughee.com^
@@ -31588,6 +31591,7 @@ vkcdnservice.appspot.com^
 ||pasirechose.click^
 ||paslrdcizpgdw.online^
 ||paslsa.com^
+||passantsunsets.com^
 ||passctydvkqvi.space^
 ||passeltotery.digital^
 ||passengercomprehend.com^
@@ -34382,6 +34386,7 @@ vkcdnservice.appspot.com^
 ||qwlbvlyeqlvjv.top^
 ||qwlmacbmwmtum.online^
 ||qwoeuhoeav.com^
+||qwpjtmwidhjijk.com^
 ||qwpsgqyzrzcr.life^
 ||qwrvyvheoqh.com^
 ||qwrwawwlrlkyr.top^
@@ -40730,6 +40735,7 @@ vkcdnservice.appspot.com^
 ||ueqjychtgl.net^
 ||ueuodgnrhb.com^
 ||uevarchbpdw.com^
+||uevazhxacchp.com^
 ||uexteqwr.com^
 ||ueykjfltxqsb.space^
 ||ufaexpert.com^
@@ -43075,6 +43081,7 @@ vkcdnservice.appspot.com^
 ||wftcsnpjgdmna.store^
 ||wftobyorotnmx.site^
 ||wftoukfy.net^
+||wfukhinw.com^
 ||wfuymjaziioj.com^
 ||wfvjthtb.com^
 ||wfvuctrttrdwk.global^
@@ -43965,6 +43972,7 @@ vkcdnservice.appspot.com^
 ||wylmzwklklqyz.top^
 ||wylmzwkywlwyj.top^
 ||wymdgrewpljln.online^
+||wymuxgvyjwmraqn.net^
 ||wynather.com^
 ||wynvalur.com^
 ||wyptjqwxif.com^
@@ -44847,6 +44855,7 @@ vkcdnservice.appspot.com^
 ||ymqzwqoqkudq.com^
 ||ymrghezhbhfie.website^
 ||ymrhukgr.com^
+||ymtalmmfysdee.online^
 ||ymufgwkbhzygn.online^
 ||ymuzuvrb.com^
 ||ymvcapbwcgsqw.space^
@@ -117962,6 +117971,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ins.oberpfalzmedien.de^
 ||hbrcv.adobe.com^
 ||hbrt.adobe.com^
 ||leo.tridge.com^
@@ -135066,6 +135076,9 @@ dlsdk.appsflyer.com^
 ||wravorzt.com^
 ||8yuwd5lpj.com^
 ||fllilr.icu^
+||4bo5t8fzd.com^
+||zsy10231yok.com^
+||zdh10231lo.com^
 ||musicallv.top^
 ||7jf3kxi6bq.com^
 ||ojrgbc6kfz.com^
