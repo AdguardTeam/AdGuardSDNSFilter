@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-23T12:11:04.691Z
+! Last modified: 2025-10-23T14:07:34.554Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -17133,6 +17133,7 @@ vkcdnservice.appspot.com^
 ||ellahcudmjpvi.space^
 ||ellickwide.cyou^
 ||elliptical-schedule.com^
+||ellipticalfishing.pro^
 ||ellipticaltrack.com^
 ||ellipticalwalk.pro^
 ||elmersasine.shop^
@@ -19796,6 +19797,7 @@ vkcdnservice.appspot.com^
 ||gcxqfqykhnzai.online^
 ||gcydzxkkrkpfb.space^
 ||gcyxdcpedyn.xyz^
+||gczgokoxvplfc.com^
 ||gczhqusagsfps.space^
 ||gdajuytgupptx.world^
 ||gdbwnirqfyhwk.website^
@@ -21879,6 +21881,7 @@ vkcdnservice.appspot.com^
 ||hkfwgdlnmjwwb.online^
 ||hkgkuppsnxhnq.online^
 ||hkgrrrscwssqq.website^
+||hkhepvdhopxflu.com^
 ||hkichmshwxfgz.site^
 ||hkikvxqlbyylq.store^
 ||hkilops.com^
@@ -22185,6 +22188,7 @@ vkcdnservice.appspot.com^
 ||hpjyqjdnm.com^
 ||hpk42r7a.de^
 ||hpkgotrfjkccm.site^
+||hpkqulblm.com^
 ||hpkuxkhsulgtf.space^
 ||hplclkfhxbzqc.site^
 ||hpmstr.com^
@@ -24245,6 +24249,7 @@ vkcdnservice.appspot.com^
 ||joinedvalerin.shop^
 ||joinhitched.cyou^
 ||joinpropeller.com^
+||jojobacircar.shop^
 ||jokiestlamin.cyou^
 ||jokingsummonyuri.com^
 ||jolecyclist.com^
@@ -25046,6 +25051,7 @@ vkcdnservice.appspot.com^
 ||kirombocurine.digital^
 ||kirschflabra.top^
 ||kirteexe.tv^
+||kirtlestunka.shop^
 ||kirtookroaz.net^
 ||kirujh.com^
 ||kisaighairda.net^
@@ -28920,6 +28926,7 @@ vkcdnservice.appspot.com^
 ||narkalignevil.com^
 ||narkyleaguer.click^
 ||narrowmaidroyal.com^
+||nasadenize.help^
 ||nashdopiest.rest^
 ||nasosettoourm.com^
 ||nastycomfort.pro^
@@ -34635,6 +34642,7 @@ vkcdnservice.appspot.com^
 ||rathaenwoven.top^
 ||rationalhungerthicket.com^
 ||rationalizeinadequatecomedian.com^
+||rationalizeoverwhelmendeavour.com^
 ||rationallyagreement.com^
 ||rationfoothot.life^
 ||ratlinbuhr.cfd^
@@ -35490,6 +35498,7 @@ vkcdnservice.appspot.com^
 ||ringeddrama.com^
 ||ringersidewaysapiece.com^
 ||ringsconsultaspirant.com^
+||ringtawstodgy.com^
 ||ringtonepartner.com^
 ||rinidraichiglo.com^
 ||rinlfeppahke.com^
@@ -37725,6 +37734,7 @@ vkcdnservice.appspot.com^
 ||soaneefooy.net^
 ||soapajowhou.net^
 ||soapsaichoakeem.net^
+||soaredcoolung.cfd^
 ||soareddeeping.shop^
 ||soavoosumautow.net^
 ||sobakenchmaphk.com^
@@ -40483,6 +40493,7 @@ vkcdnservice.appspot.com^
 ||turbulent-divide.com^
 ||turbulentconformityhomes.com^
 ||turbulentobject.com^
+||turbulentoriginally.com^
 ||turbulentstructure.com^
 ||turdoidknape.click^
 ||tureukworektob.info^
@@ -40543,6 +40554,7 @@ vkcdnservice.appspot.com^
 ||tvwxwboysflvt.website^
 ||tvxzuiiddkbqy.online^
 ||twaeppdjvb.com^
+||twainrather.com^
 ||twanamatha.cfd^
 ||twangedspitter.cyou^
 ||twbschithgosa.space^
@@ -41048,6 +41060,7 @@ vkcdnservice.appspot.com^
 ||undrabtotient.shop^
 ||undullcervid.help^
 ||unearthfilii.qpon^
+||uneasinessresurrection.com^
 ||unelectsiwens.qpon^
 ||unelekidan.com^
 ||unequaledchair.com^
@@ -41603,6 +41616,7 @@ vkcdnservice.appspot.com^
 ||uyqwpnspgadkq.site^
 ||uyrolbvqcbrot.site^
 ||uyuvcqrvyatpc.website^
+||uyvnrwfpxnwksb.com^
 ||uyxkuxvgpuu.com^
 ||uyxvaaxtiehnfn.com^
 ||uz-kqtecqs.space^
@@ -127443,6 +127457,7 @@ dlsdk.appsflyer.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||testrole.care^
 ||mdznads.pages.dev^
 ||reklam.ibrahimyurttapan.com.tr^
 ||reklam.arailetisim.com^
