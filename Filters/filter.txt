@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-23T02:34:20.188Z
+! Last modified: 2025-10-23T04:07:58.511Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -5760,7 +5760,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
-||two-gun-volley.pages.dev^
+||the-two-gun-volley.pages.dev^
 ||micro.rubiconproject.com^
 ||promo.evvnt.com^
 ||id-msp.newsbreak.com
@@ -7249,6 +7249,7 @@ vkcdnservice.appspot.com^
 ||abadit5rckd.com^
 ||abantesstudded.cyou^
 ||abaolokyjmlvj.top^
+||abaolokyjmqra.top^
 ||abaolokyjmqyw.top^
 ||abaolokyjmrrb.top^
 ||abaolokyjmryv.top^
@@ -10127,6 +10128,7 @@ vkcdnservice.appspot.com^
 ||azsqyupwulmgx.site^
 ||azulcw7.com^
 ||azulenejuchart.qpon^
+||azumydmuetbbp.site^
 ||azurestealth.com^
 ||azursikseebie.net^
 ||azvgaolvnmkmk.top^
@@ -17217,6 +17219,7 @@ vkcdnservice.appspot.com^
 ||emptinessabjure.com^
 ||empty-advantage.pro^
 ||emqokltbiegez.space^
+||emriplqbed.com^
 ||emrockckkqyyk.website^
 ||emslskcwvhzhx.tech^
 ||emsservice.de^
@@ -17399,6 +17402,7 @@ vkcdnservice.appspot.com^
 ||enwgkdbgbzwil.online^
 ||enwombssighing.com^
 ||enwoveveneer.com^
+||eoaemmvtasnsi.online^
 ||eobcprmwiilkwdl.com^
 ||eobysuugjotmw.space^
 ||eoejzyqfdmidn.space^
@@ -21488,6 +21492,7 @@ vkcdnservice.appspot.com^
 ||heepopinion.cyou^
 ||heercuffs.qpon^
 ||heesturoushepe.com^
+||heethoageel.com^
 ||heezedbasions.shop^
 ||heflewrounda.org^
 ||heflewroundandr.com^
@@ -28297,6 +28302,7 @@ vkcdnservice.appspot.com^
 ||mortypush.com^
 ||moschusrale.com^
 ||moseygraph.click^
+||moslpjvdh.com^
 ||mosquenests.cfd^
 ||mosqueventure.com^
 ||mosqueworking.com^
@@ -29515,6 +29521,7 @@ vkcdnservice.appspot.com^
 ||nopalealawlike.life^
 ||nope.xn--ngbcrg3b.com^
 ||nopeparticles.com^
+||noqpgamv.net^
 ||norciliary.com^
 ||norentisol.com^
 ||noretia.com^
@@ -30166,6 +30173,7 @@ vkcdnservice.appspot.com^
 ||odourtaste.com^
 ||odpgponumrw.com^
 ||odqqtpfcatzbl.website^
+||odqyipiucyi.com^
 ||odspjksksgqxx.website^
 ||oduauledfalmc.online^
 ||oduquxdpahcgt.com^
@@ -32762,6 +32770,7 @@ vkcdnservice.appspot.com^
 ||ppimdog.com^
 ||ppjcreatfqaxg.com^
 ||ppjnpqqmxp.com^
+||ppktmdbtodigk.online^
 ||ppmdretch.rest^
 ||pponixtkecj.com^
 ||ppoqidindvqxz.website^
@@ -34527,6 +34536,7 @@ vkcdnservice.appspot.com^
 ||ramousturco.qpon^
 ||rampcreeper.com^
 ||rampionyeta.world^
+||ramplanet.qpon^
 ||ramplorboardly.click^
 ||ramplorbugan.digital^
 ||ramracetamales.top^
@@ -42179,6 +42189,7 @@ vkcdnservice.appspot.com^
 ||vjnzknmvnmyny.top^
 ||vjojjdird.com^
 ||vjqefkvhrjyor.store^
+||vjrfganpnqmn.com^
 ||vjtbgysqkmngz.website^
 ||vjtpmzsmcwfko.online^
 ||vjuenyeckagkz.site^
