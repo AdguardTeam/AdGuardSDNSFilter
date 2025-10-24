@@ -1,3 +1,6 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/215941
+! Blocked by CNAME servedbyadbutler.com
+@@||ref.rbauction.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/215116
 @@||puzzles-games-api.gp-prod.conde.digital^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/212351
