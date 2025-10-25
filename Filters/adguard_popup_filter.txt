@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-25T06:08:20.935Z
+! Last modified: 2025-10-25T08:07:55.589Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -728,6 +728,7 @@
 ||singaporetradingchallengetracker1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||singelstodate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||singledatetime.com^$dnsrewrite=ad-block.dns.adguard.com
+||singlegirlsfinder.com^$dnsrewrite=ad-block.dns.adguard.com
 ||skated.co^$dnsrewrite=ad-block.dns.adguard.com
 ||skylindo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||skywardjourneys.co^$dnsrewrite=ad-block.dns.adguard.com
