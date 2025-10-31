@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-31T14:06:53.099Z
+! Last modified: 2025-10-31T16:07:22.501Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -5803,6 +5803,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||cdn.empower.net^
 ||*two-gun-volley.pages.dev^
 ||micro.rubiconproject.com^
 ||promo.evvnt.com^
@@ -8769,6 +8770,7 @@ vkcdnservice.appspot.com^
 ||androidfilehost.cfd^
 ||anedukerationpeci.com^
 ||aneguftwymwfg.store^
+||anelewakas.com^
 ||aneorwd.com^
 ||aneurinnoddles.digital^
 ||anewfeedliberty.com^
@@ -9294,6 +9296,7 @@ vkcdnservice.appspot.com^
 ||asunderfacilitydealt.com^
 ||aswevesquirl.shop^
 ||asxmxoncntczg.website^
+||asxvejeojwajf.online^
 ||atableofcup.com^
 ||atafterpiquing.cfd^
 ||ataiyalstrays.com^
@@ -11704,6 +11707,7 @@ vkcdnservice.appspot.com^
 ||canstrm.com^
 ||cantaraawingly.com^
 ||canteenelixate.rest^
+||canterkenmark.qpon^
 ||cantingpropels.click^
 ||canzosdropman.cyou^
 ||caokvepcdzeha.site^
@@ -15426,6 +15430,7 @@ vkcdnservice.appspot.com^
 ||e04ab2ef0e.com^
 ||e088b80df3.com^
 ||e0b2d6a445.com^
+||e121curmecn9ug47fcum.cfd^
 ||e19533834e.com^
 ||e1d56c0a5f.com^
 ||e25b585b36.com^
@@ -20425,6 +20430,7 @@ vkcdnservice.appspot.com^
 ||hlhguzuidislw.site^
 ||hlhuihrzbebkv.one^
 ||hlinit.com^
+||hljxxtruxkptc.com^
 ||hlkwshtzpeuma.space^
 ||hlmiq.com^
 ||hlnylqalpqei.com^
@@ -21350,6 +21356,7 @@ vkcdnservice.appspot.com^
 ||ijbkiwuopcluyiy.com^
 ||ijcnmbygtjhhv.website^
 ||ijemtogharse.net^
+||ijfilqxkgrchg.space^
 ||ijgqiqnlhwjch.fun^
 ||ijhoicwqgtyfz.store^
 ||ijhxe.com^
@@ -25480,6 +25487,7 @@ vkcdnservice.appspot.com^
 ||lqiluiaowvudcse.com^
 ||lqjfhehcrkatj.xyz^
 ||lqkkoozmakakk.top^
+||lqkkoozmakmky.top^
 ||lqljgkcjsuzer.store^
 ||lqllisdlizrix.site^
 ||lqnupcqij.com^
@@ -25533,6 +25541,7 @@ vkcdnservice.appspot.com^
 ||lssocybaoqyeu.online^
 ||lsugcsazapixa.com^
 ||lsupvtyjffooymb.xyz^
+||lsvfzskgudyyr.site^
 ||lswteiiyfccwt.site^
 ||lsxpzalzmioxq.online^
 ||lsykbtaljztxr.online^
@@ -25845,6 +25854,7 @@ vkcdnservice.appspot.com^
 ||lzpiozkcngklw.site^
 ||lzqmjakwllwry.top^
 ||lzsjauqvbc.com^
+||lzucubrffoc59x.rest^
 ||lzvwybvvyroav.top^
 ||lzvwybvvyroqj.top^
 ||lzvwybvvyrqyk.top^
@@ -34568,6 +34578,7 @@ vkcdnservice.appspot.com^
 ||rgskrmtckgwwl.online^
 ||rgtirdhtvixql.online^
 ||rgtteakmumqha.website^
+||rgubidzwowcpf.space^
 ||rgverkqcpahaqcqtmpksxicmtno.com^
 ||rgvxfkrhnovqp.store^
 ||rgwxqakkddxuq.com^
@@ -34824,6 +34835,7 @@ vkcdnservice.appspot.com^
 ||rmpvsnsyr.com^
 ||rmpywaamvfwfa.store^
 ||rmqbrtgsqqo.com^
+||rmqtqrtxhwilx.store^
 ||rmshqa.com^
 ||rmtagvivdrbwd.icu^
 ||rmtpouusuokbh.space^
@@ -35698,6 +35710,7 @@ vkcdnservice.appspot.com^
 ||savoypodtia.digital^
 ||sawanincreaseinp.org^
 ||sawd.cloud^
+||sawivnxxaegne.site^
 ||sawlikewrester.cfd^
 ||sawneywigger.top^
 ||sawnieepiural.shop^
@@ -37874,6 +37887,7 @@ vkcdnservice.appspot.com^
 ||stvkr.com^
 ||stvteaoyr.com^
 ||stvufegajgpzy.online^
+||stwdqkalzbqfg.online^
 ||stwqypztbwbhj.store^
 ||stwwdyowpkzof.website^
 ||stxmumxjxbeud.store^
@@ -43155,6 +43169,7 @@ vkcdnservice.appspot.com^
 ||wnt-some-push.net^
 ||wnujsatapndbq.today^
 ||wnxfoabyufkbv.com^
+||wnxwlhkynnc.com^
 ||wnydnxop.com^
 ||wo0f-w0of.com^
 ||wo0f-woof.com^
