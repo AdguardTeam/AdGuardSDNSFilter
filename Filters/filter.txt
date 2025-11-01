@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-01T16:06:11.649Z
+! Last modified: 2025-11-01T18:07:43.502Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10738,6 +10738,7 @@ vkcdnservice.appspot.com^
 ||blspqefzfmazg.site^
 ||bltwuvetubnqt.space^
 ||blu5fdclr.com^
+||blubbae.shop^
 ||blubberrowan.com^
 ||blubberspoiled.com^
 ||bludgeentraps.com^
@@ -10801,6 +10802,7 @@ vkcdnservice.appspot.com^
 ||bngwlt.com^
 ||bnhkwgjr.com^
 ||bnhtml.com^
+||bnjpcnply.com^
 ||bnmkl.com^
 ||bnmqtggqjoqic.buzz^
 ||bnofjtuewcnca.site^
@@ -13512,6 +13514,7 @@ vkcdnservice.appspot.com^
 ||cruncherpatiencestoreroom.com^
 ||crunchysheathstruck.com^
 ||crupkokum.rest^
+||crusetbaffy.click^
 ||crushedshakechasing.com^
 ||crushingaspect.pro^
 ||crushingaspirin.com^
@@ -14830,6 +14833,7 @@ vkcdnservice.appspot.com^
 ||dmadehimalowb.com^
 ||dmatzeelpqsqr.space^
 ||dmavtliwh.global^
+||dmdhvynfbh.com^
 ||dmfletnofbgay.site^
 ||dmfnwurs.xyz^
 ||dmgfqmltttogq.space^
@@ -20695,6 +20699,7 @@ vkcdnservice.appspot.com^
 ||horrifychamma.qpon^
 ||horselyyauper.cfd^
 ||hortestoz.com^
+||hoselsoyapock.cfd^
 ||hosierypressed.com^
 ||hospicaladapto.org^
 ||hospitable-effort.pro^
@@ -20824,6 +20829,7 @@ vkcdnservice.appspot.com^
 ||hrahdmon.com^
 ||hrahpnhrlf.com^
 ||hramb.site^
+||hrauspaeyoul.com^
 ||hrcqvcyf.com^
 ||hrdartsdtrmqu.site^
 ||hreso.site^
@@ -24121,6 +24127,7 @@ vkcdnservice.appspot.com^
 ||kqhi97lf.de^
 ||kqimbdcogx.net^
 ||kqiuernncywj.xyz^
+||kqjctnfolquejs.com^
 ||kqjfsebp.com^
 ||kqlpkabisdvslqa.net^
 ||kqmmlqbuwmksm.store^
@@ -29438,6 +29445,7 @@ vkcdnservice.appspot.com^
 ||ohgcvhcbhe.com^
 ||ohgriforkvan.com^
 ||ohiaschavel.world^
+||ohjmhuoknq.com^
 ||ohkdsplu.com^
 ||ohldsplu.com^
 ||ohmcasting.com^
@@ -31194,6 +31202,7 @@ vkcdnservice.appspot.com^
 ||phauthunourto.net^
 ||phauzoochim.com^
 ||phburwtzjusbh.site^
+||phecdacushier.qpon^
 ||pheegopt.xyz^
 ||pheelsouptathoo.net^
 ||pheergokraiz.net^
@@ -34273,6 +34282,7 @@ vkcdnservice.appspot.com^
 ||reeptuthaithe.com^
 ||reeqqkeamaaay.top^
 ||reeqqkeamaomk.top^
+||reestale.help^
 ||refacedpearlet.qpon^
 ||refbanners.com^
 ||refbanners.website^
@@ -36568,6 +36578,7 @@ vkcdnservice.appspot.com^
 ||shoodfarand.digital^
 ||shoofabhalu.com^
 ||shoofatartish.life^
+||shoofosteltutch.com^
 ||shoogleckorgoat.net^
 ||shooltuca.net^
 ||shoordaird.com^
@@ -39173,6 +39184,7 @@ vkcdnservice.appspot.com^
 ||tilaghwpas.com^
 ||tillinextricable.com^
 ||tillstayhereab.org^
+||tillysices.rest^
 ||tiltgardenheadlight.com^
 ||tilthsaustere.shop^
 ||tilttrk.com^
@@ -120908,6 +120920,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ipm.adblockplus.dev^
 ||log1.wanmei.com^
 ||log2.wanmei.com^
 ||stats.externulls.com^
