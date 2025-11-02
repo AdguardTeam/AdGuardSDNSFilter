@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-01T22:05:40.538Z
+! Last modified: 2025-11-02T00:28:59.678Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6720,6 +6720,7 @@ vkcdnservice.appspot.com^
 ||3qfe1gfa.de^
 ||3wr110.net^
 ||3zap7emt4.com^
+||3zltpzb1o9zegmchtyzfophg.cfd^
 ||4058e46800.com^
 ||4088846d50.com^
 ||40ceexln7929.com^
@@ -7072,6 +7073,7 @@ vkcdnservice.appspot.com^
 ||8f74a52456.com^
 ||8fbfeb27e6.com^
 ||8ffea74ec5.com^
+||8ikjb4oml4krljl2y1knrm5.rest^
 ||8iqi14tk4hqyw9pkcvc68inpl32vub.rest^
 ||8j1f0af5.de^
 ||8jfbt5va3r.com^
@@ -10043,6 +10045,7 @@ vkcdnservice.appspot.com^
 ||bb2d37b777.com^
 ||bb2r.com^
 ||bb63136099.com^
+||bb75d99ef0.com^
 ||bbad91e014.com^
 ||bbatkopeyuogn.website^
 ||bbbckumkbc.com^
@@ -15494,6 +15497,7 @@ vkcdnservice.appspot.com^
 ||e548899712.com^
 ||e55a2001b9.com^
 ||e56706706b.com^
+||e578f839f9.com^
 ||e59a2ad79a.com^
 ||e5ce73abf6.com^
 ||e5f1418a7a.com^
@@ -19356,6 +19360,7 @@ vkcdnservice.appspot.com^
 ||grouchystructure.pro^
 ||groufwarmth.shop^
 ||groumpepsouckoo.net^
+||groundedpatience.com^
 ||groundinquiryoccupation.com^
 ||groundlesscobwebmiller.com^
 ||groundssoapimagination.com^
@@ -21453,6 +21458,7 @@ vkcdnservice.appspot.com^
 ||ikeizcfipfius.site^
 ||ikengoti.com^
 ||ikewrcpm.com^
+||ikhsyfdiovnpmld.com^
 ||ikiioyufzmxlj.store^
 ||ikjidyskgvovd.store^
 ||ikjwrhsktdtye.space^
@@ -33741,6 +33747,7 @@ vkcdnservice.appspot.com^
 ||qwvqbeqorrzvo.top^
 ||qwvqbeqorrzyw.top^
 ||qwvvoamqyqvo.top^
+||qwvvoamqyvvv.top^
 ||qwvvoamqyvyz.top^
 ||qwwgofjgyrtyv.website^
 ||qwyumelrlvq.xyz^
@@ -37490,6 +37497,7 @@ vkcdnservice.appspot.com^
 ||spicy-purpose.com^
 ||spicy-two.com^
 ||spicyram.com^
+||spieledcalking.shop^
 ||spieredcrotal.help^
 ||spiffyboy.com^
 ||spijmwsbvc.net^
@@ -37928,6 +37936,7 @@ vkcdnservice.appspot.com^
 ||stognanes.click^
 ||stoitersurfacy.digital^
 ||stolecutting.com^
+||stompoanaghoodi.com^
 ||stonierteddy.com^
 ||stonkstime.com^
 ||stonysuingtartness.com^
@@ -38500,6 +38509,7 @@ vkcdnservice.appspot.com^
 ||taarducape.cyou^
 ||tabici.com^
 ||tabidhooroo.cyou^
+||tablasapotype.com^
 ||tablhtwrkoo.xyz^
 ||tabloidincapable.com^
 ||tabloidsuggest.com^
@@ -41116,6 +41126,7 @@ vkcdnservice.appspot.com^
 ||uroxintyphons.cfd^
 ||urrtydeeenhcz.site^
 ||urrzeegpcpfbs.rocks^
+||ursamonel.com^
 ||ursvgeoaweeli.love^
 ||urtirepor.com^
 ||urtzxcchcdzhw.space^
@@ -41850,6 +41861,7 @@ vkcdnservice.appspot.com^
 ||viiyxefb.com^
 ||vijkc.top^
 ||vikejacaufous.net^
+||vikovcwud.com^
 ||vikuhiaor.com^
 ||vilerebuffcontact.com^
 ||villagerhurricane.com^
@@ -42665,6 +42677,7 @@ vkcdnservice.appspot.com^
 ||wcmcs.net^
 ||wcmiixdckrtoa.com^
 ||wcmkjlmmaxplo.online^
+||wcpgduaxnigmfow.com^
 ||wcpgtxpzhpdgy.website^
 ||wcqgeapsygmtvi.com^
 ||wct.link^
@@ -47100,6 +47113,7 @@ vkcdnservice.appspot.com^
 ||chainstayornerypsstgeez.com^
 ||cinemaonceoddlyfatal.com^
 ||deeplypishtennisscale.com^
+||distinctdearly.com^
 ||dratbeyond.com^
 ||dratblissfully.com^
 ||dwelllestcatch.com^
@@ -48490,8 +48504,10 @@ vkcdnservice.appspot.com^
 ||dzupi9b81okew.cloudfront.net^
 ||dzv1ekshu2vbs.cloudfront.net^
 ||dzxr711a4yw31.cloudfront.net^
+||d13i9p5451i433.cloudfront.net^
 ||d1ly453dyhh7xf.cloudfront.net^
 ||d2flxwxbgh2er.cloudfront.net^
+||d37j8pfxu2iogi.cloudfront.net^
 ||dzqsslysklwgo.cloudfront.net^
 ||anti-adblock.herokuapp.com^
 !
@@ -138088,6 +138104,14 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||fdi1rg6ihs.com^
+||i7mfm1hl44.com^
+||reflection67.top^
+||caitlinagathami.com^
+||uzurliev.com^
+||bcjhlhuhq.icu^
+||zdh11020lo.com^
+||vpvq.cn^
 ||5h3wnuhr8.com^
 ||dz3tfc2m9.com^
 ||meituancdn.cc^
