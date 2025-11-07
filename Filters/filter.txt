@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-07T10:07:28.010Z
+! Last modified: 2025-11-07T10:38:42.755Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -20101,6 +20101,7 @@ vkcdnservice.appspot.com^
 ||gwpkpiodcnobu.online^
 ||gwrsyyrghwnuo.space^
 ||gwsmvqwyvkzfg.website^
+||gwynorxqqcqxg.site^
 ||gwywwiscavk.com^
 ||gx101.com^
 ||gxacvwmzfos.com^
@@ -24150,6 +24151,7 @@ vkcdnservice.appspot.com^
 ||kbfizeskyyfkt.store^
 ||kbgsexngfwkhk.com^
 ||kbhgnyiogmrcl.store^
+||kbhskcsiawspn.store^
 ||kbhykduvjlpnl.site^
 ||kbibdkkdqgm.com^
 ||kbjfdelxcyofihn.com^
@@ -29233,6 +29235,7 @@ vkcdnservice.appspot.com^
 ||nluxeeplqnzyb.website^
 ||nlvivttoarwqp.online^
 ||nlvkkmososyji.website^
+||nlxpsparlszfu.space^
 ||nlyhovtjoknoo.site^
 ||nlyvcmyicrhkv.online^
 ||nlztpmhcxyzwh.vip^
@@ -32803,6 +32806,7 @@ vkcdnservice.appspot.com^
 ||portswaving.com^
 ||portunitytostar.org^
 ||porzhbcbxgdsu.space^
+||poscaazotine.click^
 ||poschaygazebo.shop^
 ||poseunprofessionalspecific.com^
 ||posewardenreligious.com^
@@ -37578,6 +37582,7 @@ vkcdnservice.appspot.com^
 ||shitcustody.com^
 ||shivermarchingchance.com^
 ||shiveyhoers.cfd^
+||shkocgkgtmsq.com^
 ||shlyapapodplesk.site^
 ||shnooksaviour.digital^
 ||shoackoazilee.net^
@@ -51327,6 +51332,7 @@ vkcdnservice.appspot.com^
 ||monitoring.hackle.io^
 ||event-api.hackle.io^
 ||tracking-api.g2.com^
+||litix.io^
 ||audiencelab.io^
 ||openpanel.dev^
 ||alphaupsell.s3.ap-northeast-2.amazonaws.com^
