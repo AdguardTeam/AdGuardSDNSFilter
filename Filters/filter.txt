@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-06T22:06:27.250Z
+! Last modified: 2025-11-07T00:27:23.765Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6581,6 +6581,7 @@ vkcdnservice.appspot.com^
 ||28c15cf09c.com^
 ||28f810077f.com^
 ||291hkcido.de^
+||2997fa5a20.com^
 ||29a7397be5.com^
 ||29acdc6212.com^
 ||29apfjmg2.de^
@@ -6681,6 +6682,7 @@ vkcdnservice.appspot.com^
 ||3192a7tqk.de^
 ||31aceidfj.de^
 ||31aqn13o6.de^
+||31b0f03f5b.com^
 ||31bqljnla.de^
 ||31cm5fq78.de^
 ||31d6gphkr.de^
@@ -7115,6 +7117,7 @@ vkcdnservice.appspot.com^
 ||8eabd9b030.com^
 ||8ec3bf7cbd.com^
 ||8ecc2aee4f.com^
+||8eepytp71qm2hbo1cfw6fjk.rest^
 ||8f4c607ea0.com^
 ||8f74a52456.com^
 ||8fbfeb27e6.com^
@@ -9774,6 +9777,7 @@ vkcdnservice.appspot.com^
 ||awtunmmlmobnq.site^
 ||awumnf.com^
 ||awutephoksousou.net^
+||awwqatjip.com^
 ||awxczwwsrlkxm.online^
 ||awxdlwbxqjnoi.online^
 ||awxeumltonpwpec.net^
@@ -9852,6 +9856,7 @@ vkcdnservice.appspot.com^
 ||azbjjbwvqozvj.top^
 ||azbtyfvqjuiyc.store^
 ||azcvyexndzpvl.online^
+||azdojrxsn.com^
 ||azegraigroako.net^
 ||azeleiljkpywl.vip^
 ||azenka.one^
@@ -10214,6 +10219,7 @@ vkcdnservice.appspot.com^
 ||bctuafpdwarbm.site^
 ||bcusuopfexyrv.net^
 ||bcwpdvigokzca.space^
+||bcxauquczqgci.site^
 ||bcybkxcpo.com^
 ||bcybxygvbsyuv.website^
 ||bcydxusraikpu.online^
@@ -10935,6 +10941,7 @@ vkcdnservice.appspot.com^
 ||bmkz57b79pxk.com^
 ||bmmads.com^
 ||bmnhbrjuekejj.site^
+||bmogruisjnfdn.site^
 ||bmqzsaqomgymv.site^
 ||bmqzxvqvglexy.site^
 ||bmrfhnnhozbff.site^
@@ -15892,6 +15899,7 @@ vkcdnservice.appspot.com^
 ||ebeihjqqt.xyz^
 ||ebemgieytjkxb.space^
 ||ebetoni.com^
+||ebhcankfg.com^
 ||ebjzywqbpkbbi.online^
 ||eblastengine.com^
 ||ebonizerebake.com^
@@ -16506,6 +16514,7 @@ vkcdnservice.appspot.com^
 ||enlvbrhejiami.online^
 ||enneobmbavxlw.store^
 ||ennhtjzkuhjjw.online^
+||enolsmosser.shop^
 ||enormous-god.pro^
 ||enormousgrievedsquall.com^
 ||enosistraunge.help^
@@ -16939,6 +16948,7 @@ vkcdnservice.appspot.com^
 ||ewremaelholqz.online^
 ||ewrjbdxbysngd.online^
 ||ewruuqe5p8ca.com^
+||ewtivoqxdqmta.online^
 ||ewutoxapaffqc.site^
 ||ewvywlqn.net^
 ||ewyjmkgvvtoxy.space^
@@ -22800,6 +22810,7 @@ vkcdnservice.appspot.com^
 ||iuvqtanktfhbs.online^
 ||iuwzdf.com^
 ||iuyzugzuy.com^
+||iuzvusqotkhad.online^
 ||iuzxfjpxvgkco.online^
 ||iv-akuifxp.love^
 ||iv3x9cqtgu4h1fhtoehomr578w8t124.cfd^
@@ -23913,6 +23924,7 @@ vkcdnservice.appspot.com^
 ||jxpieseudktcy.site^
 ||jxrceejdygfap.site^
 ||jxrnqabgwojaa.store^
+||jxtzwthmfqppv.website^
 ||jxugdfaghqmdh.store^
 ||jy6hyc7e34c5y2h3h8r2tg4q8pzg.rest^
 ||jybaekajjmawl.top^
@@ -25675,6 +25687,7 @@ vkcdnservice.appspot.com^
 ||lindychat.com^
 ||lineaniente.shop^
 ||linearengineer.pro^
+||linearstomach.com^
 ||lineodtpdajrz.store^
 ||linerstusche.qpon^
 ||linfagystbxyr.xyz^
@@ -29205,6 +29218,7 @@ vkcdnservice.appspot.com^
 ||nnffiadgg.com^
 ||nngccqpcpimwejs.com^
 ||nnhghmknpmph.xyz^
+||nnkkwfcnwkzud.space^
 ||nnknzxxqlzmxf.space^
 ||nnmtrlmrfgftm.site^
 ||nnoulqmhxrskm.store^
@@ -31321,6 +31335,7 @@ vkcdnservice.appspot.com^
 ||p35h.space^
 ||p40rlh4k.xyz^
 ||p42roqq4uzt3qi1.rest^
+||p4pl7u8vqerw6gn7nwzc9vyi.cfd^
 ||p5eqkpzvrfnhbbnrr8.cfd^
 ||p5x4wcong1pih4yrxnflnprkn.cfd^
 ||p8wj9zko.com^
@@ -33907,6 +33922,7 @@ vkcdnservice.appspot.com^
 ||qax1a3si.uno^
 ||qazjpdzhatxaw.vip^
 ||qazrvoyayvbjo.top^
+||qazrvoyayvbmz.top^
 ||qazrvoyayvemw.top^
 ||qbbfzbynyrvfv.site^
 ||qbcqlchttikmdv.xyz^
@@ -36231,6 +36247,7 @@ vkcdnservice.appspot.com^
 ||rrbzvmklrzwmk.top^
 ||rrchydcezpwia.site^
 ||rrentlysearchi.org^
+||rretmobueggyz.site^
 ||rrfgppmkjmffz.store^
 ||rrftgpblshzq.com^
 ||rrmlejqaevvy.top^
@@ -39389,6 +39406,7 @@ vkcdnservice.appspot.com^
 ||sxgqqsngkzozy.website^
 ||sxidblabmvaod.site^
 ||sxjvnyieakqua.website^
+||sxknohdvtxwur.site^
 ||sxlflt.com^
 ||sxmxwmuvoi.com^
 ||sxqxvcymtiwxo.space^
@@ -39397,6 +39415,7 @@ vkcdnservice.appspot.com^
 ||sybilevolver.shop^
 ||sybillice.world^
 ||sycockpeelers.cfd^
+||sydcabegidwsg.store^
 ||sydneygfpink.com^
 ||sydpcomnbrfbhhy.com^
 ||syeniteexodoi.com^
@@ -39912,6 +39931,7 @@ vkcdnservice.appspot.com^
 ||tgrxyxvvlyfww.net^
 ||tgtontbctdvfx.site^
 ||tguyxzkrxgzqt.online^
+||tgvotkmiszagu.site^
 ||tgydwegepfmtj.store^
 ||thaftoapsoabsou.com^
 ||thagrals.net^
@@ -42864,6 +42884,7 @@ vkcdnservice.appspot.com^
 ||vicesus.com^
 ||vichovaulr.net^
 ||vicknovelet.cyou^
+||viclvemrw.com^
 ||vicoitegustoso.cfd^
 ||victimenmesh.life^
 ||victimmammatitanic.com^
@@ -43462,6 +43483,7 @@ vkcdnservice.appspot.com^
 ||vyecpfypnwu.net^
 ||vyfrxuytzn.com^
 ||vygwmjgwwjvnz.top^
+||vyhkgfmvqkxflm.com^
 ||vyhxugizkaktg.tech^
 ||vyignfjyiuznx.online^
 ||vyiqsohuuoziu.store^
@@ -44040,6 +44062,7 @@ vkcdnservice.appspot.com^
 ||whasewasabi.qpon^
 ||whatisuptodaynow.com^
 ||whatsupp25.biz^
+||whaudrurdoals.net^
 ||whaudsur.net^
 ||whaukaixoargouh.net^
 ||whaunsoast.net^
@@ -45101,6 +45124,7 @@ vkcdnservice.appspot.com^
 ||xerahhhwhpcey.online^
 ||xeuesswygmuso.site^
 ||xexuchkq.com^
+||xezyjwujbe.com^
 ||xfalmawladvew.site^
 ||xfbjiyqezmwew.space^
 ||xfcdayydgavdqmg.com^
@@ -141290,6 +141314,13 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||zoologist00.com^
+||6p2g1kk03.com^
+||4yl3e3fmv.com^
+||zdh11070lo.com^
+||hrxphjcj.icu^
+||uzrtgekpw.com^
+||vzorzilmf.com^
 ||workshop39.top^
 ||svhk4bt874.com^
 ||xuwmylm697.com^
