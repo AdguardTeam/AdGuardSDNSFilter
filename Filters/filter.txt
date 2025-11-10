@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-10T12:11:33.362Z
+! Last modified: 2025-11-10T12:48:55.955Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6867,6 +6867,7 @@ vkcdnservice.appspot.com^
 ||52588314e4.com^
 ||526d43cc6c.com^
 ||52992ea523.com^
+||52p6hwntc3b2u42wpx9.cfd^
 ||5308675c79.com^
 ||536435ba94.com^
 ||538d99dc8d.com^
@@ -16268,6 +16269,7 @@ vkcdnservice.appspot.com^
 ||eelboatunseams.shop^
 ||eeldamage.com^
 ||eelsawheedi.net^
+||eelsnquk.com^
 ||eelwgpubhnjxv.website^
 ||eemaibsemtushaz.net^
 ||eemghktkqbkic.net^
@@ -24365,6 +24367,7 @@ vkcdnservice.appspot.com^
 ||jyzkut.com^
 ||jyzzwozoamjnj.top^
 ||jzbhqlgvsxdwb.store^
+||jzbvwqeowvemz.top^
 ||jzbvwqeowveyl.top^
 ||jzbvwqeowvlqw.top^
 ||jzeimirchegdf.site^
@@ -25168,6 +25171,7 @@ vkcdnservice.appspot.com^
 ||kqiuernncywj.xyz^
 ||kqjctnfolquejs.com^
 ||kqjfsebp.com^
+||kqkt2ypeembpyquqrrh.rest^
 ||kqlpkabisdvslqa.net^
 ||kqmmlqbuwmksm.store^
 ||kqmvitmyx.com^
@@ -31515,6 +31519,7 @@ vkcdnservice.appspot.com^
 ||oulsools.com^
 ||oumpackoordailt.net^
 ||oumteestumpoa.net^
+||oumtichemseelsy.net^
 ||oumtirsu.com^
 ||oundandround.com^
 ||oundaymitools.org^
@@ -44344,6 +44349,7 @@ vkcdnservice.appspot.com^
 ||vziafpfir.com^
 ||vzigttqgqx.com^
 ||vziwnogpwvjra.website^
+||vzkdglcastwka.store^
 ||vzldnxgdbhyle.website^
 ||vzmilkdaptnug.online^
 ||vzoqn.buzz^
@@ -44598,6 +44604,7 @@ vkcdnservice.appspot.com^
 ||wbozjnwyzzglq.top^
 ||wbpiaqaqnqlmc.space^
 ||wbrgeoldclybx.online^
+||wbrihpfkpgujh.space^
 ||wbrqciwtf.com^
 ||wbsgerise.com^
 ||wbsisvslth.com^
@@ -45640,6 +45647,7 @@ vkcdnservice.appspot.com^
 ||wrximymp.com^
 ||wry-boss.com^
 ||wryabmekmukxp.site^
+||wryzkeaxx.com^
 ||wrzujfwoxnoi.com^
 ||ws5ujgqkp.com^
 ||ws67eqwwp.pro^
@@ -135767,6 +135775,7 @@ dlsdk.appsflyer.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||api.moonanime.art^
 ||stat.hdvbua.pro^
 ||exchange.informer.ua^
 !
@@ -149129,6 +149138,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1976
+@@||go.redirectingat.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/215941
 ! Blocked by CNAME servedbyadbutler.com
 @@||ref.rbauction.com^|
