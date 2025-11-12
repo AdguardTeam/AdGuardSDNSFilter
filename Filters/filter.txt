@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-12T12:11:51.613Z
+! Last modified: 2025-11-12T14:07:34.916Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||recommendedcasualtymysterious.com^
 ||leadstar.com.pl^
 ||szubtepzaka.com^
 ||admaster.cz^
@@ -52629,6 +52630,7 @@ vkcdnservice.appspot.com^
 ! ||lr-ingest.com^
 ! ||api.instabug.com^
 ! ||launchdarkly.com^
+! ||cdn.trackjs.com^
 !
 !
 ! ||ensighten.com^$third-party - not a tracker
@@ -55918,7 +55920,6 @@ vkcdnservice.appspot.com^
 ||trackedweb.net^
 ||tracking202.com^
 ||trackinglabs.com^
-||trackjs.com^
 ||trackkas.com^
 ||trackmyweb.net^
 ||trackset.it^
@@ -126771,6 +126772,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||usage.trackjs.com^
 ||coll.lovense.com^
 ||bilog.lovense-api.com^
 ||log.lovense-api.com^
@@ -130847,6 +130849,7 @@ dlsdk.appsflyer.com^
 ||camel.headfarming.com^
 ||capture-api.ap3prod.com^
 ||capture.condenastdigital.com^
+||capture.trackjs.com^
 ||caspionlog.appspot.com^
 ||castify-trk.playitviral.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
@@ -143986,6 +143989,7 @@ dlsdk.appsflyer.com^
 ||rkoi.cn^
 ||b1zftjhtwb.com^
 ||lls11121ko.com^
+||hmtqtokulp.com^
 ||2r1jqii2c.com^
 ||oqcw1f9yw.com^
 ||lls11110ko.com^
