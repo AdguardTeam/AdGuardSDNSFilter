@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-12T22:06:48.772Z
+! Last modified: 2025-11-13T00:27:22.014Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2456,7 +2456,6 @@
 ||4ef69e5814.c7b419036b.com^
 ||58c19941c7.78af853196.com^
 ||669baa8973.3a434abae1.com^
-||84432dc5dc.124d138eac.com^
 ||92ac005936.7958bd57cc.com^
 ||aa682509b0.f11631d24c.com^
 ||afae561ed5.3165de3ff8.com^
@@ -6399,6 +6398,7 @@ vkcdnservice.appspot.com^
 ||11ssq.com^
 ||12112336.pix-cdn.org^
 ||122cafc086.com^
+||124d138eac.com^
 ||125700.shop^
 ||12aksss.xyz^
 ||12ezo5v60.com^
@@ -6613,6 +6613,7 @@ vkcdnservice.appspot.com^
 ||2beno.com^
 ||2bps53igop02.com^
 ||2c4rrl8pe.de^
+||2c6ee0a58a.com^
 ||2cba2742a4.com^
 ||2cjlj3c15.de^
 ||2cnjuh34jbman.com^
@@ -6764,6 +6765,7 @@ vkcdnservice.appspot.com^
 ||3g25ko2.de^
 ||3gbqdci2.de^
 ||3j8c56p9.de^
+||3jwgygnq3t6rlyiunymyx.cfd^
 ||3lift.com^
 ||3nbf4.com^
 ||3ng6p6m0.de^
@@ -6852,6 +6854,7 @@ vkcdnservice.appspot.com^
 ||4hp2qtu8b43y43385xikr.cfd^
 ||4iazoa.xyz^
 ||4kpuqcwu4tyqguktzkut.cfd^
+||4l27fhfq6zz8k5wjqq3t7i9fq8o.rest^
 ||4p74i5b6.de^
 ||4pplewvhhgy6wbughr81.rest^
 ||4rabettraff.com^
@@ -8557,6 +8560,7 @@ vkcdnservice.appspot.com^
 ||ajetzqkqdvfgd.website^
 ||ajewzcsnmnjex.site^
 ||ajfnee.com^
+||ajgnivaxka.com^
 ||ajgsadialtyzq.store^
 ||ajhcxism.xyz^
 ||ajhyuhsyzvjxd.online^
@@ -13640,6 +13644,7 @@ vkcdnservice.appspot.com^
 ||coosync.com^
 ||coosynci.com^
 ||cootheewigauk.net^
+||cootiefermail.rest^
 ||cootlogix.com^
 ||cootyringlet.rest^
 ||coovesumoujashy.net^
@@ -13811,6 +13816,7 @@ vkcdnservice.appspot.com^
 ||cqcaoltqtarmz.space^
 ||cqcofdmqdahnp.com^
 ||cqcpazetvhaso.website^
+||cqcpgsvcsd.com^
 ||cqctbfwacshol.store^
 ||cqeorasldxsbw.store^
 ||cqjgztejpzvkd.space^
@@ -16247,6 +16253,7 @@ vkcdnservice.appspot.com^
 ||eceefutchee.net^
 ||eceepsoograirtu.net^
 ||eceunutlxxfha.website^
+||eceuvtsjfoauc.site^
 ||ecgxugvhmrwqm.com^
 ||echarjutka.shop^
 ||echgrrnrjfqm.net^
@@ -21633,6 +21640,7 @@ vkcdnservice.appspot.com^
 ||homeycommemorate.com^
 ||hommerunfolerewer.com^
 ||homzpacwnosnk.online^
+||honablfpyik.com^
 ||honanssolon.cyou^
 ||hondaskashga.shop^
 ||honedtotem.shop^
@@ -23277,6 +23285,7 @@ vkcdnservice.appspot.com^
 ||isletarods.shop^
 ||islylyxhgtmex.online^
 ||ismlks.com^
+||ismwmovapolli.website^
 ||ismycheiist.com^
 ||ismypersonalreco.org^
 ||isoamidtrusion.com^
@@ -24050,6 +24059,7 @@ vkcdnservice.appspot.com^
 ||jlqnbbbvjoqzj.top^
 ||jlqxvvcgataae.com^
 ||jltczmewqabda.online^
+||jlvcrwggkmalp.site^
 ||jlvgqlyyooamz.top^
 ||jlvsspddgklhp.space^
 ||jlwerkvl.com^
@@ -24223,6 +24233,7 @@ vkcdnservice.appspot.com^
 ||joywnxixpjyrx.website^
 ||jozchgyqfzqcf.online^
 ||jozvfaesigdre.site^
+||jpcjzcrkrugie.online^
 ||jpfaicir.com^
 ||jpfdmqerbcglr.website^
 ||jpfwvcdbbdcwnc.com^
@@ -25431,6 +25442,7 @@ vkcdnservice.appspot.com^
 ||kraitbauld.cyou^
 ||krankenwagenmotor.com^
 ||kraonwbi.com^
+||krdtvkoyuhwjs.site^
 ||krenkzfiuzryw.store^
 ||kreomfoq.com^
 ||kreps.xyz^
@@ -29588,6 +29600,7 @@ vkcdnservice.appspot.com^
 ||needyscarcasserole.com^
 ||neegreez.com^
 ||neekstore.com^
+||neeltskoqvanu.site^
 ||neephougroo.net^
 ||neeptumeebaimop.net^
 ||neeseocrea.cyou^
@@ -29936,6 +29949,7 @@ vkcdnservice.appspot.com^
 ||njsxourgkanks.online^
 ||njtbmyyhwjaxo.online^
 ||njtfrcwtnlxuhr.com^
+||njugpndojhbzv.store^
 ||njvhktxvqdrcj.xyz^
 ||njwfhenr.xyz^
 ||njzhrrgrkjsrl.space^
@@ -34993,6 +35007,7 @@ vkcdnservice.appspot.com^
 ||qerihinnied.world^
 ||qerkbejkbqmwv.top^
 ||qerkbejkbqojj.top^
+||qerkbejkbqomr.top^
 ||qerkbejqwqawb.top^
 ||qernnbahzjdjf.online^
 ||qerubbomxxfhw.com^
@@ -39750,6 +39765,7 @@ vkcdnservice.appspot.com^
 ||sqgvbkabphxzi.website^
 ||sqhkrgqhothkm.store^
 ||sqhqtvnvfzfne.store^
+||sqlaikkurihuc.website^
 ||sqlick.com^
 ||sqmwvjiqhvh.com^
 ||sqpcjfvdgnemlhf.net^
@@ -40207,6 +40223,7 @@ vkcdnservice.appspot.com^
 ||stugsoda.com^
 ||stulophovedsy.net^
 ||stulrenady.com^
+||stultesougloup.net^
 ||stummedperca.top^
 ||stumpsbaited.world^
 ||stumpsmug.com^
@@ -41614,6 +41631,7 @@ vkcdnservice.appspot.com^
 ||tmjrmpkkgatjh.website^
 ||tmjwaxuxtpszs.space^
 ||tmjxwswigxms.com^
+||tmmunzeyobwst.online^
 ||tmnxgwkstnqrc.website^
 ||tmopcaxczgrgb.store^
 ||tmpqccktfymwv.online^
@@ -44532,6 +44550,7 @@ vkcdnservice.appspot.com^
 ||voluumtrk3.com^
 ||volyze.com^
 ||vomitosanax.digital^
+||vomlkfeesl.com^
 ||vonkol.com^
 ||voochoafodoa.net^
 ||vooculok.com^
@@ -46303,6 +46322,7 @@ vkcdnservice.appspot.com^
 ||wwqsvldq.work^
 ||wwqtpcmsikcab.net^
 ||wwrioiackkiwpy.com^
+||wwtpoatihpdg.com^
 ||wwubgxrmxgskt.com^
 ||wwvqboerllrej.top^
 ||wwvqboerllrzm.top^
@@ -144064,6 +144084,11 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||0h9yewgei.com^
+||xxts11130zs.com^
+||rf10b9mq8.com^
+||lls11130ko.com^
+||airline49.top^
 ||9r0v0go0el.com^
 ||f6jd4k4xgo.com^
 ||lls11120ko.com^
