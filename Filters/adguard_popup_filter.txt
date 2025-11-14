@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-14T06:09:54.746Z
+! Last modified: 2025-11-14T08:08:53.186Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -244,7 +244,6 @@
 ||approved.website^$dnsrewrite=ad-block.dns.adguard.com
 ||appslime.com^$dnsrewrite=ad-block.dns.adguard.com
 ||appthe.click^$dnsrewrite=ad-block.dns.adguard.com
-||ardssandshrewon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||argrowlitheor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||astjigglypuffchan.com^$dnsrewrite=ad-block.dns.adguard.com
 ||atp.revistamuchomas.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -420,7 +419,6 @@
 ||go.betobet.net^$dnsrewrite=ad-block.dns.adguard.com
 ||go2affise.com^$dnsrewrite=ad-block.dns.adguard.com
 ||go2bdmbet.com^$dnsrewrite=ad-block.dns.adguard.com
-||go2linktrack.com^$dnsrewrite=ad-block.dns.adguard.com
 ||go2offer-1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||goads.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||godkc.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -598,7 +596,6 @@
 ||optvz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||otoadom.com^$dnsrewrite=ad-block.dns.adguard.com
 ||outoctillerytor.com^$dnsrewrite=ad-block.dns.adguard.com
-||ouzalruksengung.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ovardu.com^$dnsrewrite=ad-block.dns.adguard.com
 ||oversolosisor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ovret.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -720,7 +717,6 @@
 ||shotgunchancecruel.com^$dnsrewrite=ad-block.dns.adguard.com
 ||shulugoo.net^$dnsrewrite=ad-block.dns.adguard.com
 ||signamentswithd.com^$dnsrewrite=ad-block.dns.adguard.com
-||singaporetradingchallengetracker1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||singelstodate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||singledatetime.com^$dnsrewrite=ad-block.dns.adguard.com
 ||singlegirlsfinder.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -806,7 +802,6 @@
 ||typical-hub.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tyqwjh23d.com^$dnsrewrite=ad-block.dns.adguard.com
 ||u7do.sbs^$dnsrewrite=ad-block.dns.adguard.com
-||ungiblechan.com^$dnsrewrite=ad-block.dns.adguard.com
 ||unlocky.org^$dnsrewrite=ad-block.dns.adguard.com
 ||unlocky.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||unrolltougher.shop^$dnsrewrite=ad-block.dns.adguard.com
