@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-19T02:36:48.668Z
+! Last modified: 2025-11-19T04:08:29.416Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9857,6 +9857,7 @@ vkcdnservice.appspot.com^
 ||ayads.co^
 ||ayagirbxqzmkt.global^
 ||ayarkkbmakkja.top^
+||ayarkkbmakzew.top^
 ||ayarkkyjrmqzw.top^
 ||aycompleted.com^
 ||aycppoqxhnhp.net^
@@ -17682,6 +17683,7 @@ vkcdnservice.appspot.com^
 ||ferukentaspects.com^
 ||fervcbytncxaj.icu^
 ||ferziendfljud.site^
+||fesaugaibs.com^
 ||fespnfwrcdgpv.website^
 ||fessauksap.net^
 ||fessoovy.com^
@@ -18023,6 +18025,7 @@ vkcdnservice.appspot.com^
 ||flexibilitukydtea.com^
 ||flexlinks.com^
 ||flgacawxvxozr.space^
+||flgch4eegy54z5czrzy.cfd^
 ||flgdaoepeuiqs.store^
 ||flhqfdjmltoue.site^
 ||flickerbridge.com^
@@ -18574,6 +18577,7 @@ vkcdnservice.appspot.com^
 ||ftvmvbzsaqizd.space^
 ||ftvsgjbdbzwip.site^
 ||ftwawfsjadhjm.online^
+||ftwrmmayxkopu.space^
 ||ftyspctyrjenw.space^
 ||fu-nu-ra.com^
 ||fuaeamtdwbodj.website^
@@ -20116,6 +20120,7 @@ vkcdnservice.appspot.com^
 ||gtlykyvizfrui.space^
 ||gtosmdjgn.xyz^
 ||gtprmwvtduybm.online^
+||gtraiqgaqwlrk.website^
 ||gtrem.site^
 ||gtrlhbeizihyy.site^
 ||gtrnxmkt.net^
@@ -32870,6 +32875,7 @@ vkcdnservice.appspot.com^
 ||qqmcsrexbarfk.site^
 ||qqmjemgacovkh.online^
 ||qqmljpfmgzdxu.store^
+||qqomtxcdgx.com^
 ||qqqajygpfmdea.space^
 ||qqqdsrjovklsr.today^
 ||qqqmakecfnvuh.site^
@@ -41744,6 +41750,7 @@ vkcdnservice.appspot.com^
 ||wllhjebhtcrjz.space^
 ||wllwdfvaudnhi.space^
 ||wlntzdjktaskn.website^
+||wlpwqszmuwomc.site^
 ||wlsovvgfniqn.com^
 ||wlvdgaltrh.com^
 ||wlvkzwqmyjwoz.top^
@@ -42183,6 +42190,7 @@ vkcdnservice.appspot.com^
 ||wzsngrewfjjqq.site^
 ||wzuarqzexkjiy.website^
 ||wzutebvjpxwwu.site^
+||wzvthohdheobm.site^
 ||wzvuzbcwcarnx.site^
 ||x-jmezfjpjt.today^
 ||x-zjxfhysb.love^
@@ -42582,6 +42590,7 @@ vkcdnservice.appspot.com^
 ||xudpnwjiprcmy.site^
 ||xuenpasqvdt.net^
 ||xuiljwjwyfkuo.store^
+||xukxbsbanmxsq.com^
 ||xulixnionnxrs.website^
 ||xulnvruig.net^
 ||xunwrvhdblxsc.store^
@@ -42987,6 +42996,7 @@ vkcdnservice.appspot.com^
 ||ymqlrkznenfcd.world^
 ||ymrghezhbhfie.website^
 ||ymribxcnsfjqm.store^
+||ymswfhmhxxaum.online^
 ||ymtalmmfysdee.online^
 ||ymufgwkbhzygn.online^
 ||ymvcapbwcgsqw.space^
@@ -100662,6 +100672,7 @@ dlsdk.appsflyer.com^
 ||calltrack.co^
 ||calvera-telemetry.polaris.me^
 ||camel.headfarming.com^
+||campaign.fbot.me^
 ||capture-api.ap3prod.com^
 ||capture.condenastdigital.com^
 ||capture.trackjs.com^
