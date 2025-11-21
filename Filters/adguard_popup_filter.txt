@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-21T00:27:13.320Z
+! Last modified: 2025-11-21T02:36:13.799Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -947,7 +947,6 @@
 ||desklks.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dirty-messenger.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dirty-tinder.com^$dnsrewrite=ad-block.dns.adguard.com
-||dumbpop.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ero-advertising.com^$dnsrewrite=ad-block.dns.adguard.com
 ||eroge.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ertya.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -961,7 +960,6 @@
 ||get-partner.life^$dnsrewrite=ad-block.dns.adguard.com
 ||girls.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||global-trk.com^$dnsrewrite=ad-block.dns.adguard.com
-||go-route.com^$dnsrewrite=ad-block.dns.adguard.com
 ||grtyv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hkl4h1trk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hpyrdr.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -971,7 +969,6 @@
 ||jizzy.org^$dnsrewrite=ad-block.dns.adguard.com
 ||jsmjmp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||kaizentraffic.com^$dnsrewrite=ad-block.dns.adguard.com
-||libedgolart.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mptentry.com^$dnsrewrite=ad-block.dns.adguard.com
 ||needlive.com^$dnsrewrite=ad-block.dns.adguard.com
 ||notimoti.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -993,7 +990,6 @@
 ||sexintheuk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sexpennyauctions.com^$dnsrewrite=ad-block.dns.adguard.com
 ||slut2fuck.net^$dnsrewrite=ad-block.dns.adguard.com
-||snapcheat.app^$dnsrewrite=ad-block.dns.adguard.com
 ||socialsex.biz^$dnsrewrite=ad-block.dns.adguard.com
 ||socialsex.com^$dnsrewrite=ad-block.dns.adguard.com
 ||targetingnow.com^$dnsrewrite=ad-block.dns.adguard.com
