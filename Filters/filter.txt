@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-21T14:06:54.037Z
+! Last modified: 2025-11-21T16:07:58.765Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||hostk.cfd^
+||loadmypath.click^
+||jumpfiledoor.click^
 ||oysterspottery.com^
 ||dsxlez.com^
 ||iionads.com^
@@ -6422,6 +6425,7 @@ vkcdnservice.appspot.com^
 ||1dtdsln1j.de^
 ||1ep.co^
 ||1ep2l1253.de^
+||1ernp861b3zio6i.rest^
 ||1f26db4741.com^
 ||1f3912cb04.com^
 ||1f63b94163.com^
@@ -14547,6 +14551,7 @@ vkcdnservice.appspot.com^
 ||dcmbaescepqsq.space^
 ||dcmdquudzpmkc.store^
 ||dcmrnstqdbgvn.website^
+||dcpbbslafiwpx.online^
 ||dcsakxvzsdiaz.space^
 ||dcslnqezlxyte.website^
 ||dcssptrack.com^
@@ -16861,6 +16866,7 @@ vkcdnservice.appspot.com^
 ||environtermes.digital^
 ||envlepcmsvhww.online^
 ||envoymusicianpaid.com^
+||envoysalaamnimmed.cfd^
 ||envqhrcdyxkwi.website^
 ||envzbsbokoqtm.space^
 ||enwgkdbgbzwil.online^
@@ -18172,6 +18178,7 @@ vkcdnservice.appspot.com^
 ||flgdaoepeuiqs.store^
 ||flhqfdjmltoue.site^
 ||flickerbridge.com^
+||flickering-brick.pro^
 ||flickering-buy.com^
 ||flickeringbuy.pro^
 ||flightglancing.com^
@@ -19531,6 +19538,7 @@ vkcdnservice.appspot.com^
 ||gjqghspetwnkz.store^
 ||gjqlxuffmatsp.online^
 ||gjrlcxthtkeab.site^
+||gjwkufnkofzgj.online^
 ||gjwmlhzgzucfn.website^
 ||gjwos.org^
 ||gjxoqgdozssvh.website^
@@ -19646,6 +19654,7 @@ vkcdnservice.appspot.com^
 ||glizauvo.net^
 ||glkbqoypclywz.space^
 ||glkomasf.com^
+||glnlhdmefbfaudr.com^
 ||glo-glo-oom.com^
 ||gloabsechukru.net^
 ||gloacmug.net^
@@ -20157,6 +20166,7 @@ vkcdnservice.appspot.com^
 ||groinfont.com^
 ||groleegni.net^
 ||gromamacros.cfd^
+||groodaucaisha.com^
 ||grookilteepsou.net^
 ||groomsepursegn.net^
 ||grooperclopped.digital^
@@ -22963,6 +22973,7 @@ vkcdnservice.appspot.com^
 ||ixljkceobvgqy.website^
 ||ixmcdnqobyecu.website^
 ||ixmelvjeev.net^
+||ixnatpsdzezjr.online^
 ||ixnow.xyz^
 ||ixnp.com^
 ||ixpaecojilsoj.space^
@@ -23748,6 +23759,7 @@ vkcdnservice.appspot.com^
 ||junoniahorsier.cyou^
 ||juomsawqzkdqo.space^
 ||juomudsjlmert.online^
+||jupdyvbotqwhw.site^
 ||jupit.xyz^
 ||juponrerope.com^
 ||jupteshoofah.net^
@@ -24354,6 +24366,7 @@ vkcdnservice.appspot.com^
 ||klxlhanifrrzx.site^
 ||klzoyvykizjye.store^
 ||km-kryxqvt.site^
+||km4jv7pzgm1i7u9h.cfd^
 ||kmbjerbaafdn.global^
 ||kmebhqgd.com^
 ||kmevwkkqe.com^
@@ -24884,6 +24897,7 @@ vkcdnservice.appspot.com^
 ||laphagrito.com^
 ||lappedstanged.qpon^
 ||lapqigwuzasp.com^
+||laptemfomdxzo.site^
 ||laptopwhews.help^
 ||laptweakbriefly.com^
 ||larchesrotates.com^
@@ -25449,6 +25463,7 @@ vkcdnservice.appspot.com^
 ||ljqjjhduntckb.site^
 ||ljsr-ijbcxvq.online^
 ||ljun8zm9.com^
+||ljvmokwyrolyj.top^
 ||ljwaerigtjrxe.store^
 ||ljybpjbp.xyz^
 ||ljybybyerzoev.top^
@@ -30603,6 +30618,7 @@ vkcdnservice.appspot.com^
 ||palaungsoupy.life^
 ||palecount.com^
 ||palelotwars.com^
+||paleoladeface.com^
 ||palermooperand.cfd^
 ||paletta.cc^
 ||palibs.tech^
@@ -33160,6 +33176,7 @@ vkcdnservice.appspot.com^
 ||qlpuc8le9xn4etqx3t.rest^
 ||qlpwodpqwzqcc.website^
 ||qlqdpobqnlrsd.store^
+||qlqdtgamhhnfe.site^
 ||qlsaqtqd.tattoo^
 ||qlsejdfqiqsvq.space^
 ||qlstwuvnfjpry.website^
@@ -40502,6 +40519,7 @@ vkcdnservice.appspot.com^
 ||uxbygjzvingbv.online^
 ||uxetbckbptdba.space^
 ||uxffgxaqqkiha.site^
+||uxhcfiafdlmj.com^
 ||uxibgyftvdzyr.site^
 ||uxihlrtlkmdow.website^
 ||uxkrauhjb.net^
@@ -40721,6 +40739,7 @@ vkcdnservice.appspot.com^
 ||vcvbogndkwheb.space^
 ||vcvncewkfhtmp.website^
 ||vcxetmvjdgggi.store^
+||vcxykfsvfmpmck.com^
 ||vcxzp.com^
 ||vczfcmaxnqkby.club^
 ||vdbaa.com^
