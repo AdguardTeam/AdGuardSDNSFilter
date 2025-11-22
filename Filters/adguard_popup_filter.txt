@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-22T02:34:08.159Z
+! Last modified: 2025-11-22T04:07:37.964Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -663,6 +663,7 @@
 ||redirecting.online^$dnsrewrite=ad-block.dns.adguard.com
 ||redirectingat.com^$dnsrewrite=ad-block.dns.adguard.com
 ||reebr.com^$dnsrewrite=ad-block.dns.adguard.com
+||rel-s.com^$dnsrewrite=ad-block.dns.adguard.com
 ||resentreaccotia.com^$dnsrewrite=ad-block.dns.adguard.com
 ||revertsskimmia.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||rexsrv.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -721,6 +722,7 @@
 ||sodefender.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||sp03k.sbs^$dnsrewrite=ad-block.dns.adguard.com
 ||spareforads.top^$dnsrewrite=ad-block.dns.adguard.com
+||sperebnf.click^$dnsrewrite=ad-block.dns.adguard.com
 ||spin83qr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sprinlof.com^$dnsrewrite=ad-block.dns.adguard.com
 ||spuppeh.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -803,9 +805,11 @@
 ||viidccdn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viifwfyo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viigetxc.com^$dnsrewrite=ad-block.dns.adguard.com
+||viikuhhs.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viiyutty.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viiyxefb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vilytaku.com^$dnsrewrite=ad-block.dns.adguard.com
+||vinstigo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||violationphysics.click^$dnsrewrite=ad-block.dns.adguard.com
 ||viralnewsbd.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||virelon.com^$dnsrewrite=ad-block.dns.adguard.com
