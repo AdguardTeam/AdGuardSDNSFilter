@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-23T00:31:25.397Z
+! Last modified: 2025-11-23T02:44:29.829Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -490,6 +490,7 @@
 ||litteracywing.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||livespacelivekeyrealclub.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lmdfmd.com^$dnsrewrite=ad-block.dns.adguard.com
+||loaditfile.com^$dnsrewrite=ad-block.dns.adguard.com
 ||loadtime.org^$dnsrewrite=ad-block.dns.adguard.com
 ||loazuptaice.net^$dnsrewrite=ad-block.dns.adguard.com
 ||locooler-ageneral.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -659,6 +660,7 @@
 ||reallyzills.top^$dnsrewrite=ad-block.dns.adguard.com
 ||realsh.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||realtime-bid.com^$dnsrewrite=ad-block.dns.adguard.com
+||recesstransport.icu^$dnsrewrite=ad-block.dns.adguard.com
 ||redaffil.com^$dnsrewrite=ad-block.dns.adguard.com
 ||redirecting.online^$dnsrewrite=ad-block.dns.adguard.com
 ||redirectingat.com^$dnsrewrite=ad-block.dns.adguard.com
