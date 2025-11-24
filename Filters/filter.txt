@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-23T22:06:20.364Z
+! Last modified: 2025-11-24T00:29:49.543Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6717,6 +6717,7 @@ vkcdnservice.appspot.com^
 ||3b374de2ee.com^
 ||3b3e638ac2.com^
 ||3b687a4e49.com^
+||3bc2a6115d.com^
 ||3bqx2pce7b67cfcnt.rest^
 ||3c241b2b3e.com^
 ||3ca9dc59cc.com^
@@ -7094,6 +7095,7 @@ vkcdnservice.appspot.com^
 ||7lyonline.com^
 ||7me0ssd6.de^
 ||7mjnjh98kfc7ol.rest^
+||7myg12irizuzf72q251tlbkeh97hy.rest^
 ||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||7nt9p4d4.de^
 ||7pnixbig5b4xmxkhw74.rest^
@@ -9392,6 +9394,7 @@ vkcdnservice.appspot.com^
 ||artwareshambu.com^
 ||aruranmbqiyus.store^
 ||arvigorothan.com^
+||arwdcrdpiwinc.site^
 ||arxrozanvbjde.website^
 ||arxxbyffdtqxlqx.net^
 ||aryxxbmhzigyk.website^
@@ -10385,6 +10388,7 @@ vkcdnservice.appspot.com^
 ||be33c66794.com^
 ||be51586160.com^
 ||be880990f9.com^
+||be9nr64m9rgl9m.cfd^
 ||bea7r.com^
 ||beach-vacation.site^
 ||beachinfinitegag.com^
@@ -13136,6 +13140,7 @@ vkcdnservice.appspot.com^
 ||clixcrafts.com^
 ||clixsense.com^
 ||clixwells.com^
+||cljoawvdgjzsjl.com^
 ||clkepd.com^
 ||clkfcteoocvvy.site^
 ||clkrev.com^
@@ -16565,6 +16570,7 @@ vkcdnservice.appspot.com^
 ||egxuyvgdhwrzv.space^
 ||egyptbullsavoury.com^
 ||egysligybtgo.net^
+||egyydcehpdilj.site^
 ||ehasnoconversat.org^
 ||ehcdtcvzycdcy.website^
 ||ehceericjysgh.space^
@@ -17553,6 +17559,7 @@ vkcdnservice.appspot.com^
 ||eybrgoggcjkyl.website^
 ||eycokjjtixrlg.website^
 ||eydnpidfomjhw.online^
+||eydqpkyrr.com^
 ||eyeballdisquietstronghold.com^
 ||eyebeamkaph.click^
 ||eyebrowcohabit.com^
@@ -19073,6 +19080,7 @@ vkcdnservice.appspot.com^
 ||fxawjrcpzkyvd.online^
 ||fxbojoywozehj.website^
 ||fxbprfogjabel.online^
+||fxchparw.com^
 ||fxddxjbctnvce.site^
 ||fxdepo.com^
 ||fxdmnmsna.space^
@@ -19545,6 +19553,7 @@ vkcdnservice.appspot.com^
 ||gf0c0qtw080425z7.cfd^
 ||gfbxsoxbywqvp.store^
 ||gffoycbmmfptr.space^
+||gfglsjrfdxvte.website^
 ||gfhgxmczmrcda.site^
 ||gfkfqilsulylx.website^
 ||gfnpfbalgsfgw.space^
@@ -20011,6 +20020,7 @@ vkcdnservice.appspot.com^
 ||godroonrefrig.com^
 ||godwardunhusks.shop^
 ||goegcygrphial.site^
+||goegesdfnnewf.site^
 ||gogglechivari.cfd^
 ||gogglednaps.help^
 ||gogoga.xyz^
@@ -20503,6 +20513,7 @@ vkcdnservice.appspot.com^
 ||gtwmxqiknbhg.com^
 ||gtxqpbsbnci.net^
 ||gtylgblgbpudu.net^
+||gtylmyzwova.com^
 ||guaiolmrs.qpon^
 ||guanaentasia.help^
 ||guanasilique.click^
@@ -23672,6 +23683,7 @@ vkcdnservice.appspot.com^
 ||jlccmbmeeuuxq.space^
 ||jlcdpxvbrjxgk.online^
 ||jlfdfodxejpxt.space^
+||jlhmxduyftkae.site^
 ||jllimjvotxwvk.website^
 ||jllxkqvoecigv.online^
 ||jlmgzsrxtmuce.online^
@@ -29057,6 +29069,7 @@ vkcdnservice.appspot.com^
 ||nosilynursle.qpon^
 ||nossairt.net^
 ||nostrilquarryprecursor.com^
+||nostrilswallpaper.com^
 ||nosyfuze.cyou^
 ||notablefaxfloss.com^
 ||notaealunyoung.rest^
@@ -33378,6 +33391,7 @@ vkcdnservice.appspot.com^
 ||qcwnfoqtqgvau.icu^
 ||qcxavhaxbsdie.space^
 ||qcyqkirxrhidh.site^
+||qdbqdirohipeb.space^
 ||qdbsewwvrrqug.site^
 ||qdbsjlwldjudty.com^
 ||qdfscelxyyem.club^
@@ -33575,6 +33589,7 @@ vkcdnservice.appspot.com^
 ||qlfqkjluvz.com^
 ||qlgggpbrssyxq.online^
 ||qlheptjsvwnrr.space^
+||qlhsbddkyapyf.space^
 ||qljytcmigkfxc.website^
 ||qlkwfp11222wifeenq.cfd^
 ||qloekmmsuwjlq.website^
@@ -33974,6 +33989,7 @@ vkcdnservice.appspot.com^
 ||qyromjlyvzwoj.top^
 ||qysruufmtjpvu.online^
 ||qyusgj.xyz^
+||qyvklvjbvebaw.top^
 ||qyvklvjbveear.top^
 ||qyvklvjbveroj.top^
 ||qyvokukhvvflu.online^
@@ -35989,6 +36005,7 @@ vkcdnservice.appspot.com^
 ||saptiledispatch.com^
 ||saptorge.com^
 ||saqrusmmylc.com^
+||saqztkldkrmlf.site^
 ||sarcasmadvisor.com^
 ||sarcastic-location.com^
 ||sarcasticenforcement.com^
@@ -37583,6 +37600,7 @@ vkcdnservice.appspot.com^
 ||spinoffabonne.cyou^
 ||spinoffevirato.cfd^
 ||spintrytherial.shop^
+||spiraebiggy.click^
 ||spiritdeserted.com^
 ||spirited-degree.pro^
 ||spiritualslower.com^
@@ -38494,6 +38512,7 @@ vkcdnservice.appspot.com^
 ||system-notify.app^
 ||systeme-business.online^
 ||systemleadb.com^
+||syubszsbsgtqo.com^
 ||sywvuzbzlfpuv.space^
 ||sywxrvcisdjxe.store^
 ||syyynjvgdbmtj.online^
@@ -40982,6 +41001,7 @@ vkcdnservice.appspot.com^
 ||uucirqufdaer.net^
 ||uudckenzwdhvj.online^
 ||uufjxnfitxtvt.website^
+||uufrhwutgdgxe.com^
 ||uugfvrpccibuj.website^
 ||uuhnjutdqxnac.space^
 ||uuidksinc.net^
@@ -41096,6 +41116,7 @@ vkcdnservice.appspot.com^
 ||vaatmetu.net^
 ||vaazarqvkjyq.top^
 ||vabrlvkalgzaq.site^
+||vabustoami.com^
 ||vacaneedasap.com^
 ||vacantazon.com^
 ||vacantborder.com^
@@ -41552,6 +41573,7 @@ vkcdnservice.appspot.com^
 ||viijxyqp.com^
 ||viikqoye.com^
 ||viikuhhs.com^
+||viiokavr.com^
 ||viiqkzqv.com^
 ||viiuwecw.com^
 ||viiwgrhk.com^
