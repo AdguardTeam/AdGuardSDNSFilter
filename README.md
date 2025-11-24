@@ -1,4 +1,11 @@
-# AdGuard DNS filter
+blank_issues_enabled: false
+contact_links:
+  - name: Filters documentation
+    url: https://adguard-dns.io/kb/general/dns-filtering-syntax/
+    about: How to create your own hosts blocklists.
+  - name: Report an issue using AdGuard
+    url: https://kb.adguard.com/technical-support/reporting-tool
+    about: The simplest and right way to report us about missed ads, broken sites etc.# AdGuard DNS filter
 
 Formerly *AdGuard Simplified Domain names filter*.
 
