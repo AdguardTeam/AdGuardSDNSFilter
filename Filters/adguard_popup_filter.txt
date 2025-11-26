@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-26T10:07:36.768Z
+! Last modified: 2025-11-26T12:11:43.296Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -374,6 +374,7 @@
 ||emancytal.com^$dnsrewrite=ad-block.dns.adguard.com
 ||endlessloveonline.online^$dnsrewrite=ad-block.dns.adguard.com
 ||enframement.pics^$dnsrewrite=ad-block.dns.adguard.com
+||enield.com^$dnsrewrite=ad-block.dns.adguard.com
 ||enrtx.com^$dnsrewrite=ad-block.dns.adguard.com
 ||equides.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||escortlist.pro^$dnsrewrite=ad-block.dns.adguard.com
@@ -386,6 +387,7 @@
 ||extsoft.info^$dnsrewrite=ad-block.dns.adguard.com
 ||exxtended-access.com^$dnsrewrite=ad-block.dns.adguard.com
 ||eyewondermedia.com^$dnsrewrite=ad-block.dns.adguard.com
+||fantabro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fascespro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fastdntrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fbpqvs.com^$dnsrewrite=ad-block.dns.adguard.com
