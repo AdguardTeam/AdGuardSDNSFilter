@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Filters documentation
-    url: https://adguard-dns.io/kb/general/dns-filtering-syntax/
+    url:https://d.adguard-dns.com/dns-query/e1f26198 https://adguard-dns.io/kb/general/dns-filtering-syntax/
     about: How to create your own hosts blocklists.
   - name: Report an issue using AdGuard
     url: https://kb.adguard.com/technical-support/reporting-tool
