@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-27T22:06:26.611Z
+! Last modified: 2025-11-28T00:26:54.262Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -394,6 +394,7 @@
 ||finalice.net^$dnsrewrite=ad-block.dns.adguard.com
 ||finanvideos.com^$dnsrewrite=ad-block.dns.adguard.com
 ||finder2024.com^$dnsrewrite=ad-block.dns.adguard.com
+||flowldsf.online^$dnsrewrite=ad-block.dns.adguard.com
 ||flowworksfivesphere.com^$dnsrewrite=ad-block.dns.adguard.com
 ||flyingadvert.com^$dnsrewrite=ad-block.dns.adguard.com
 ||foerpo.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -545,6 +546,7 @@
 ||mobile-ads.wycc.porn^$dnsrewrite=ad-block.dns.adguard.com
 ||mobiletracking.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||momotrk.com^$dnsrewrite=ad-block.dns.adguard.com
+||moontrkr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mosved.com^$dnsrewrite=ad-block.dns.adguard.com
 ||movie-tv-free.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mylot.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -594,6 +596,7 @@
 ||omzal.com^$dnsrewrite=ad-block.dns.adguard.com
 ||onclckpop.com^$dnsrewrite=ad-block.dns.adguard.com
 ||onclickperformance.com^$dnsrewrite=ad-block.dns.adguard.com
+||onlidex.com^$dnsrewrite=ad-block.dns.adguard.com
 ||opengalaxyapps.monster^$dnsrewrite=ad-block.dns.adguard.com
 ||openrtb-banner.com^$dnsrewrite=ad-block.dns.adguard.com
 ||optnx.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -603,6 +606,7 @@
 ||ovardu.com^$dnsrewrite=ad-block.dns.adguard.com
 ||oversolosisor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ovret.com^$dnsrewrite=ad-block.dns.adguard.com
+||pacha-wui.com^$dnsrewrite=ad-block.dns.adguard.com
 ||paehceman.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pagelivekeylearnbestz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||paid.outbrain.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -786,6 +790,7 @@
 ||trakit20.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trakzon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trasupr.com^$dnsrewrite=ad-block.dns.adguard.com
+||trckqq.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trckswrm.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trknovi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trkpostback.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -834,6 +839,7 @@
 ||volleyballachiever.site^$dnsrewrite=ad-block.dns.adguard.com
 ||voluumtrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vpn-offers.org^$dnsrewrite=ad-block.dns.adguard.com
+||vstwerxerbc.top^$dnsrewrite=ad-block.dns.adguard.com
 ||vulnerableimmigrateaboveaverage.com^$dnsrewrite=ad-block.dns.adguard.com
 ||w0we.com^$dnsrewrite=ad-block.dns.adguard.com
 ||waisheph.com^$dnsrewrite=ad-block.dns.adguard.com
