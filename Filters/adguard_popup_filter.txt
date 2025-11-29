@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-29T00:26:26.724Z
+! Last modified: 2025-11-29T02:36:15.910Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -279,6 +279,7 @@
 ||bmmads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||boardpress-b.online^$dnsrewrite=ad-block.dns.adguard.com
 ||bobgames-prolister.com^$dnsrewrite=ad-block.dns.adguard.com
+||bonusgew.com^$dnsrewrite=ad-block.dns.adguard.com
 ||boredhippie.com^$dnsrewrite=ad-block.dns.adguard.com
 ||boskodating.com^$dnsrewrite=ad-block.dns.adguard.com
 ||boxthis.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -394,6 +395,7 @@
 ||finalice.net^$dnsrewrite=ad-block.dns.adguard.com
 ||finanvideos.com^$dnsrewrite=ad-block.dns.adguard.com
 ||finder2024.com^$dnsrewrite=ad-block.dns.adguard.com
+||flowldsb.online^$dnsrewrite=ad-block.dns.adguard.com
 ||flowldsf.online^$dnsrewrite=ad-block.dns.adguard.com
 ||flowworksfivesphere.com^$dnsrewrite=ad-block.dns.adguard.com
 ||flyingadvert.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -433,6 +435,7 @@
 ||grfpr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gtbdhr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hagech.com^$dnsrewrite=ad-block.dns.adguard.com
+||harmo-woe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||haveameet.com^$dnsrewrite=ad-block.dns.adguard.com
 ||helicient.com^$dnsrewrite=ad-block.dns.adguard.com
 ||heptix.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -773,12 +776,14 @@
 ||toiletpaper.life^$dnsrewrite=ad-block.dns.adguard.com
 ||tomlldahehun.org^$dnsrewrite=ad-block.dns.adguard.com
 ||toopsoug.net^$dnsrewrite=ad-block.dns.adguard.com
+||top-best.com^$dnsrewrite=ad-block.dns.adguard.com
 ||topnewsgo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||toptoys.store^$dnsrewrite=ad-block.dns.adguard.com
 ||toroexoclk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tourukaustoglee.net^$dnsrewrite=ad-block.dns.adguard.com
 ||tr-bouncer.com^$dnsrewrite=ad-block.dns.adguard.com
 ||track.afrsportsbetting.com^$dnsrewrite=ad-block.dns.adguard.com
+||track.bwclk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tracker-2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tracker-tds.info^$dnsrewrite=ad-block.dns.adguard.com
 ||tracking-aws-5.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -815,6 +820,7 @@
 ||validcombine.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vasstycom.com^$dnsrewrite=ad-block.dns.adguard.com
 ||verdepromo.info^$dnsrewrite=ad-block.dns.adguard.com
+||veret-fqv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vfgte.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viiadaof.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viibslav.com^$dnsrewrite=ad-block.dns.adguard.com
