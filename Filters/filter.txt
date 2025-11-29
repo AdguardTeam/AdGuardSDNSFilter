@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-28T22:06:14.015Z
+! Last modified: 2025-11-29T00:26:23.016Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6941,6 +6941,7 @@ vkcdnservice.appspot.com^
 ||5ryg6hwrmcy9jj9hiz5wm2h1bpfokr2.rest^
 ||5t1jqutv8lj8364uoe11ki1uh.cfd^
 ||5toft8or7on8tt.com^
+||5u7gwkwm9m9e5f29ygy4ej4ikzge.rest^
 ||5vbs96dea.com^
 ||5vpbnbkiey24.com^
 ||5wuefo9haif3.com^
@@ -7205,6 +7206,7 @@ vkcdnservice.appspot.com^
 ||8iqi14tk4hqyw9pkcvc68inpl32vub.rest^
 ||8j1f0af5.de^
 ||8jfbt5va3r.com^
+||8jp5zpz5rl7ix1wq5q.cfd^
 ||8kj1ldt1.de^
 ||8lp23wktrwi5rhuh2tf.cfd^
 ||8n67t.com^
@@ -7544,6 +7546,7 @@ vkcdnservice.appspot.com^
 ||ac28816960.com^
 ||ac359edaf2.com^
 ||ac3fc8f2a5.com^
+||ac674aa453.com^
 ||aca4f6c07c.com^
 ||acacdn.com^
 ||acaciagrownborrowing.com^
@@ -14732,6 +14735,7 @@ vkcdnservice.appspot.com^
 ||daphnews.com^
 ||dappedbarege.cyou^
 ||dapper.net^
+||darbybrewer.click^
 ||dardoachaughe.com^
 ||dardohaxee.net^
 ||dardzeglhpsqv.tech^
@@ -14867,6 +14871,7 @@ vkcdnservice.appspot.com^
 ||dbuq47t160425b.cfd^
 ||dbwmzcj-r.click^
 ||dbxkgduf.xyz^
+||dbxuxbhoeewnhc.com^
 ||dbyherslenderwai.com^
 ||dbzaiectsuekw.website^
 ||dc3f10eee9.com^
@@ -16483,6 +16488,7 @@ vkcdnservice.appspot.com^
 ||e7e34b16ed.com^
 ||e8370630f3.com^
 ||e8656a9f30.com^
+||e86ee537fe.com^
 ||e8853962d1.com^
 ||e8en2w59c76pt7e4qbo.rest^
 ||e910e94be7.com^
@@ -19910,6 +19916,7 @@ vkcdnservice.appspot.com^
 ||germinatethick.com^
 ||germinatewishesholder.com^
 ||germlesslukewarmmold.com^
+||gervoboepcykxn.com^
 ||gescudfkjbzzt.online^
 ||gesticfuril.shop^
 ||gesturasmirkly.qpon^
@@ -20923,6 +20930,7 @@ vkcdnservice.appspot.com^
 ||gttaints.com^
 ||gtthvpzlnmueh.store^
 ||gttpqreoakted.space^
+||gtuduqaklah.com^
 ||gtuetxpyzuaeg.website^
 ||gtusaexrlpab.world^
 ||gtuvywciklpid.online^
@@ -22546,6 +22554,7 @@ vkcdnservice.appspot.com^
 ||i1g55rb4pk8xof9zqy54t5x.rest^
 ||i2ij7inr7kbiw8423rwiticev1xbzjo6jxh.cfd^
 ||i3ppkm9wjy5zmz79hffp1euclp.cfd^
+||i4lhjtnzrpug65vp5nhn6m18hel4.cyou^
 ||i4lx3jb2tpfrn751j8z12.cfd^
 ||i8gvqybn8q6uwrw.cfd^
 ||i8xkjci7nd.com^
@@ -29354,6 +29363,7 @@ vkcdnservice.appspot.com^
 ||newoffertops.info^
 ||newosama.com^
 ||newpartnerlover.com^
+||newportferisonyutu.cyou^
 ||newrtbside.com^
 ||news-bfujufa.cc^
 ||news-bnubiko.cc^
@@ -34447,6 +34457,7 @@ vkcdnservice.appspot.com^
 ||qlgggpbrssyxq.online^
 ||qlheptjsvwnrr.space^
 ||qlhsbddkyapyf.space^
+||qlixifytxlakqv.com^
 ||qljytcmigkfxc.website^
 ||qlkwfp11222wifeenq.cfd^
 ||qloekmmsuwjlq.website^
@@ -34478,6 +34489,7 @@ vkcdnservice.appspot.com^
 ||qmlrmarmalebo.top^
 ||qmlrmarmalyvb.top^
 ||qmpkrtpeynvmk.store^
+||qmrelvevwllzb.top^
 ||qmrelvevwlwlw.top^
 ||qmryzbpwvcodw.website^
 ||qmvujqpcnwkma.website^
@@ -38239,6 +38251,7 @@ vkcdnservice.appspot.com^
 ||sneezedeplorebackache.com^
 ||sneezegridtasting.com^
 ||snehkjlheanqj.website^
+||snhlihundatr.com^
 ||snickforfeit.com^
 ||snieshurdies.life^
 ||sniffingtransient.com^
@@ -42886,6 +42899,7 @@ vkcdnservice.appspot.com^
 ||voaganaich.net^
 ||voamogroag.net^
 ||voanerehazim.net^
+||voaptoaduzeeco.net^
 ||voastoastoabu.net^
 ||voawhoowhapooth.net^
 ||vocabularypotsate.com^
@@ -115980,6 +115994,14 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||rnvwzd0t9.com^
+||d7ynwsj5l.com^
+||xjx11290ts.com^
+||performance89.com^
+||kliy.cn^
+||jqbhtv.icu^
+||exclamatory77.top^
+||oagirlodug.com^
 ||98k0ocqaf6.com^
 ||zc13uyyok7.com^
 ||manifest97.com^
