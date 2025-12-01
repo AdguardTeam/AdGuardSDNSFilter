@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-01T14:07:33.681Z
+! Last modified: 2025-12-01T14:53:52.295Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12486,6 +12486,7 @@ vkcdnservice.appspot.com^
 ||caublarlpwmsn.site^
 ||caudexintrine.com^
 ||cauditcommernal.com^
+||caujastozi.com^
 ||cauliflowertoaster.com^
 ||caulisbacile.qpon^
 ||caulishanker.qpon^
@@ -31143,6 +31144,7 @@ vkcdnservice.appspot.com^
 ||ojuvjqymmcyos.site^
 ||ojvpumediuoxs.online^
 ||ojxpntdsgtcgb.store^
+||ojyneijlxlekv.site^
 ||ojyqnnqnlnqgy.top^
 ||ojznfnfxuaztb.site^
 ||okaawvmyobnm.top^
@@ -43607,6 +43609,7 @@ vkcdnservice.appspot.com^
 ||vqsegqrwefymp.space^
 ||vquhshiqyqudr.space^
 ||vqzbmjexsbscb.store^
+||vqzjymqxasrht.site^
 ||vqzoqqnjolnbl.site^
 ||vrcdpoaciecoj.online^
 ||vrcjgvxwjmepr.website^
@@ -46087,6 +46090,7 @@ vkcdnservice.appspot.com^
 ||yohocrummer.cfd^
 ||yojbiagdemrac.buzz^
 ||yokeeroud.com^
+||yokematchesdashboard.com^
 ||yolvyzasxyojr.space^
 ||yomeno.xyz^
 ||yomxt.icu^
@@ -123011,6 +123015,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1985
+@@||itoya.ec-optimizer.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1976
 @@||go.redirectingat.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/215941
