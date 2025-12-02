@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-02T08:09:55.590Z
+! Last modified: 2025-12-02T10:07:47.377Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -963,14 +963,11 @@
 ||1ts11.top^$dnsrewrite=ad-block.dns.adguard.com
 ||access-the-website.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adextrem.com^$dnsrewrite=ad-block.dns.adguard.com
-||adultadworld.com^$dnsrewrite=ad-block.dns.adguard.com
 ||banners.cams.com^$dnsrewrite=ad-block.dns.adguard.com
 ||c4tracking01.com^$dnsrewrite=ad-block.dns.adguard.com
-||cam4tracking.com^$dnsrewrite=ad-block.dns.adguard.com
 ||chokertraffic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cityofsin3d.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ckrf1.com^$dnsrewrite=ad-block.dns.adguard.com
-||connexionsafe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crdefault2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crentexgate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crlcw.link^$dnsrewrite=ad-block.dns.adguard.com
@@ -984,14 +981,12 @@
 ||dirty-tinder.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ero-advertising.com^$dnsrewrite=ad-block.dns.adguard.com
 ||eroge.com^$dnsrewrite=ad-block.dns.adguard.com
-||ertya.com^$dnsrewrite=ad-block.dns.adguard.com
 ||flagads.net^$dnsrewrite=ad-block.dns.adguard.com
 ||fpctraffic2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||freecamsexposed.com^$dnsrewrite=ad-block.dns.adguard.com
 ||friendfinder.com^$dnsrewrite=ad-block.dns.adguard.com
 ||frtyi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||funkydaters.com^$dnsrewrite=ad-block.dns.adguard.com
-||gambol.link^$dnsrewrite=ad-block.dns.adguard.com
 ||get-partner.life^$dnsrewrite=ad-block.dns.adguard.com
 ||girls.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||global-trk.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -1000,10 +995,8 @@
 ||hpyrdr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hrtya.com^$dnsrewrite=ad-block.dns.adguard.com
 ||indianfriendfinder.com^$dnsrewrite=ad-block.dns.adguard.com
-||irtye.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jizzy.org^$dnsrewrite=ad-block.dns.adguard.com
 ||jsmjmp.com^$dnsrewrite=ad-block.dns.adguard.com
-||kaizentraffic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mptentry.com^$dnsrewrite=ad-block.dns.adguard.com
 ||needlive.com^$dnsrewrite=ad-block.dns.adguard.com
 ||notimoti.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -1023,8 +1016,6 @@
 ||sexemulator.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sexflirtbook.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sexintheuk.com^$dnsrewrite=ad-block.dns.adguard.com
-||sexpennyauctions.com^$dnsrewrite=ad-block.dns.adguard.com
-||slut2fuck.net^$dnsrewrite=ad-block.dns.adguard.com
 ||socialsex.biz^$dnsrewrite=ad-block.dns.adguard.com
 ||socialsex.com^$dnsrewrite=ad-block.dns.adguard.com
 ||targetingnow.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -1035,7 +1026,6 @@
 ||trkbc.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viensvoircesite.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vlexokrako.com^$dnsrewrite=ad-block.dns.adguard.com
-||watchmygf.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xdtraffic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xmatch.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xxxjmp.com^$dnsrewrite=ad-block.dns.adguard.com
