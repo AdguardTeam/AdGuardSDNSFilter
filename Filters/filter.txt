@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-02T14:07:50.914Z
+! Last modified: 2025-12-02T15:51:53.717Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12550,6 +12550,7 @@ vkcdnservice.appspot.com^
 ||cbcwkippxgbxa.com^
 ||cbdbda0256.com^
 ||cbdedibles.site^
+||cbdfjelmkjele.website^
 ||cbdsrltmmlbnu.space^
 ||cbfb239585.com^
 ||cbfxilexavemz.space^
@@ -21854,6 +21855,7 @@ vkcdnservice.appspot.com^
 ||herbousabutted.cfd^
 ||herdpiteousextensive.com^
 ||herebygreedyrivers.com^
+||heredeshatt.click^
 ||herediadentata.cfd^
 ||heremployeesihi.info^
 ||hereoftumps.cfd^
@@ -25569,6 +25571,7 @@ vkcdnservice.appspot.com^
 ||klzoyvykizjye.store^
 ||km-kryxqvt.site^
 ||km4jv7pzgm1i7u9h.cfd^
+||km8l4r8mtrv6my7.cfd^
 ||kmbjerbaafdn.global^
 ||kmebhqgd.com^
 ||kmevwkkqe.com^
@@ -27158,6 +27161,7 @@ vkcdnservice.appspot.com^
 ||lqbvjmkoozmry.top^
 ||lqbvjmkoozveq.top^
 ||lqbvjmkoozvjj.top^
+||lqbzvmmojkvk.top^
 ||lqbzvmmojwoq.top^
 ||lqclick.com^
 ||lqcngjecijy.rocks^
@@ -33494,6 +33498,7 @@ vkcdnservice.appspot.com^
 ||pooksys.site^
 ||poolgmsd.com^
 ||poolpool.biz^
+||poomeqsnwrlkxbc.com^
 ||poorcommiserateexists.com^
 ||poorfish.pro^
 ||poorlytanrubbing.com^
@@ -34596,6 +34601,7 @@ vkcdnservice.appspot.com^
 ||pvdbkr.com^
 ||pvgbwckgrfmic.site^
 ||pvgcedbveetxz.website^
+||pvhz2jnbpzkxu3p22.rest^
 ||pvkc285hj2xbwhp5zitzv.rest^
 ||pvlmkccoimeqpx.com^
 ||pvmgbqxqylpi.com^
@@ -41961,6 +41967,7 @@ vkcdnservice.appspot.com^
 ||tzgwi3cw17pgjqx1ue6l.cfd^
 ||tzifafpdvzcxl.website^
 ||tzmupfzuwoqtl.space^
+||tzremprgecyje.website^
 ||tzsxqxxjvzfeq.one^
 ||tzugpyowtnpkw4w.cyou^
 ||tzvpn.site^
@@ -46427,6 +46434,7 @@ vkcdnservice.appspot.com^
 ||yucksoutshow.life^
 ||yucpihodztolh.space^
 ||yucvgdirvufyw.space^
+||yudrrrrerqovu.site^
 ||yugjguhlnfotlz.com^
 ||yugtmwazhqpoh.space^
 ||yugzxuplswhpp.website^
@@ -46483,6 +46491,7 @@ vkcdnservice.appspot.com^
 ||ywmmcmkctsuyf.com^
 ||ywqaplahuhtsd.com^
 ||ywronwasthetron.com^
+||ywroovnsgyftl.site^
 ||ywtwvfuwgxnpe.space^
 ||ywusfyjhnpflr.top^
 ||ywzehjepmwcbe.website^
@@ -47089,6 +47098,7 @@ vkcdnservice.appspot.com^
 ||zupee.cim^
 ||zuqxuomhfipor.space^
 ||zureiskedamyb.world^
+||zurgnkluzowya.store^
 ||zurlitefulvous.com^
 ||zusgorphsbeny.site^
 ||zuwufag.com^
@@ -63635,7 +63645,6 @@ vkcdnservice.appspot.com^
 ||data.service.hibdontiresplus.com^
 ||data.service.nordea.fi^
 ||data.service.ohra.nl^
-||data.service.paypal.com^
 ||data.services.chowtaifook.com^
 ||data.servicing2.key.com^
 ||data.sg-guest.princess.com^
@@ -99867,6 +99876,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||advancedanalytics-websocket-pri-001.hexaglobe.net^
 ||htm*.hepsiburada.com^
 ||valencia-beacons.xumo.com^
 ||sync.getpublica.com^
