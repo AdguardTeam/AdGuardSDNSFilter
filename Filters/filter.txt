@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-03T06:09:56.654Z
+! Last modified: 2025-12-03T08:09:35.212Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11121,6 +11121,7 @@ vkcdnservice.appspot.com^
 ||bk-xctgdnf.life^
 ||bkbliifnzrjmn.space^
 ||bkbndrcharry.rest^
+||bkdlmujfobbk.com^
 ||bkgdacepots.help^
 ||bkgljnppwxjat.icu^
 ||bkgzynoggdslv.website^
@@ -18179,6 +18180,7 @@ vkcdnservice.appspot.com^
 ||eztomplopxvqp.site^
 ||ezumpoasaug.net^
 ||ezvijslewvvhu.store^
+||ezvtfyjvrdbzx.site^
 ||ezxkarybihqoo.space^
 ||f-hgwmesh.buzz^
 ||f07a0277a7.com^
@@ -20749,6 +20751,7 @@ vkcdnservice.appspot.com^
 ||goodiesproctor.help^
 ||goodmanmuggily.qpon^
 ||goodnaturedinside.com^
+||goodnaturedtradition.pro^
 ||goodnesstamper.com^
 ||goodnightpawnmossy.com^
 ||goodsdunelocated.com^
@@ -21040,6 +21043,7 @@ vkcdnservice.appspot.com^
 ||gripping-mountain.pro^
 ||gripping-refrigerator.pro^
 ||grippingexpert.com^
+||gripsalrebsoali.net^
 ||gripspigyard.com^
 ||griwourtadoothe.net^
 ||grizzled-doctor.pro^
@@ -23550,6 +23554,7 @@ vkcdnservice.appspot.com^
 ||inflationreliable.com^
 ||inflectionoverdorenovate.com^
 ||infles.com^
+||influemeecesavants.cyou^
 ||infnexhjihlxyhf.xyz^
 ||infonewsz.care^
 ||informalfoundation.pro^
@@ -24056,6 +24061,7 @@ vkcdnservice.appspot.com^
 ||ivcajmpbwmrat.online^
 ||ivcnkhedxpigg.site^
 ||ivcsmrt.com^
+||ivcymdknugpjt.site^
 ||ivemjdir-g.top^
 ||ivgjsutqwoehq.online^
 ||ivgnjvefi.com^
@@ -26070,6 +26076,7 @@ vkcdnservice.appspot.com^
 ||kygwbcvevmaoz.store^
 ||kylgonjyyhk.net^
 ||kyloyeelin.help^
+||kymdogvcnyj.com^
 ||kynvilbobptfc.com^
 ||kypjzznihczh.online^
 ||kyqmbxxxmjw.net^
@@ -29101,6 +29108,7 @@ vkcdnservice.appspot.com^
 ||mpsajeuafqofa.website^
 ||mpsfwrurozogw.space^
 ||mpsuadv.ru^
+||mpsxqpeqnfjck.site^
 ||mptentry.com^
 ||mptgate.com^
 ||mpuzpejtefw.com^
@@ -33831,6 +33839,7 @@ vkcdnservice.appspot.com^
 ||pqnusvmrtxmtq.space^
 ||pqooztnzwrtbk.store^
 ||pqouwxvnbjkjm.space^
+||pqsjujuhicwrx.online^
 ||pqt6ttp1ygnrcw2x6.cfd^
 ||pqthctoaotsik.online^
 ||pquxfhiajtase.online^
@@ -34414,6 +34423,7 @@ vkcdnservice.appspot.com^
 ||ptmnd.com^
 ||ptmodqtcnxjeut.com^
 ||ptnbwptw.com^
+||ptnjphvurekdw.space^
 ||ptnmmhicosg.net^
 ||ptoafauz.net^
 ||ptoagnoovudsuh.net^
@@ -35058,10 +35068,12 @@ vkcdnservice.appspot.com^
 ||qhxtrmbxmcirh.onlin^
 ||qhxtrmbxmcirh.online^
 ||qibiamaqtdu.xyz^
+||qibjptkwyhudx.site^
 ||qibxejrjfqvzs.online^
 ||qidfamogebcku.space^
 ||qidtvppexvwqf.online^
 ||qifwxledejkod.online^
+||qihegkxiytaah.online^
 ||qihnajipjpmii.online^
 ||qihpwojcazrje.website^
 ||qilwa.com^
@@ -37564,6 +37576,7 @@ vkcdnservice.appspot.com^
 ||sabutanjirble.com^
 ||sacbttgnxaklv.store^
 ||sacdnssedge.com^
+||sacgsgtawtzb.com^
 ||sachemtody.help^
 ||sackbagjampan.rest^
 ||sackedphil.com^
@@ -46295,6 +46308,7 @@ vkcdnservice.appspot.com^
 ||yizghfwqrbhgy.space^
 ||yj9nivgqulr6pgz.rest^
 ||yjcckvcaln.net^
+||yjdaxcnfowbji.com^
 ||yjdzqszsqttiy.store^
 ||yjepztzvncndf.tech^
 ||yjgkufrdloaih.space^
@@ -51606,7 +51620,6 @@ vkcdnservice.appspot.com^
 ||l5id.com^
 ||evorra.net^
 ||yext.com^
-||hackle.io^
 ||track.aimroas.com^
 ||upsellit.com^
 ||assetsconfigcdn.org^
@@ -51635,6 +51648,8 @@ vkcdnservice.appspot.com^
 ||conviva.com^
 ||gau.groobee.io^
 ||gre.groobee.io^
+||monitoring.hackle.io^
+||event-api.hackle.io^
 ||tracking-api.g2.com^
 ||litix.io^
 ||audiencelab.io^
@@ -101008,6 +101023,7 @@ vkcdnservice.appspot.com^
 ||tracking.fortnite.com^
 ||log.znews.vn^
 ||cellar-analytics.mapion.co.jp^
+||event.hackle.io^
 ||r.aachener-zeitung.de^
 ||analytics.dealmoon.com^
 ||tagmanager.yodobashi.com^
@@ -117382,6 +117398,7 @@ dlsdk.appsflyer.com^
 ||stubborn80.top^
 ||dtrinzael.com^
 ||4wbvq8yl2.com^
+||niuk12031gi.com^
 ||vbgyniffuy.com^
 ||j4s12kfavg.com^
 ||niuk12020gi.com^
