@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-04T02:38:32.596Z
+! Last modified: 2025-12-04T04:13:12.100Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -26,7 +26,6 @@
 ||mossfast.com^
 ||ad-host-backup-*.aliyuncs.com^
 ||cleartag.run^
-||44x.io^
 ||adopsboost.com^
 ||adunblock.static-cloudflare.workers.dev^
 ||pasfox.co^
@@ -8642,6 +8641,7 @@ vkcdnservice.appspot.com^
 ||ajhyuhsyzvjxd.online^
 ||ajillionmax.com^
 ||ajimezcox.help^
+||ajjkmozrrvam.top^
 ||ajjkmozrrvmj.top^
 ||ajjlasruwwrlt.store^
 ||ajjwutdytigzg.rocks^
@@ -22879,6 +22879,7 @@ vkcdnservice.appspot.com^
 ||hximmwzkmhwhf.website^
 ||hxkeammfkgejm.space^
 ||hxkivgrszuolf.site^
+||hxkppxedfmggz.online^
 ||hxlcunmryxpzq.space^
 ||hxmcaugiqijkz.store^
 ||hxoewq.com^
@@ -24817,6 +24818,7 @@ vkcdnservice.appspot.com^
 ||jomistress.com^
 ||jomoukrebsoxy.net^
 ||jomphoelubekg.site^
+||jomsourgigh.net^
 ||jomygpawwvjjvjo.com^
 ||jonahshoddy.qpon^
 ||joniilvkwqxaq.online^
@@ -26095,6 +26097,7 @@ vkcdnservice.appspot.com^
 ||kussebsaiksolt.net^
 ||kutyigeegikcp.space^
 ||kuvirixa.com^
+||kuvybwjxozbws.website^
 ||kvaaa.com^
 ||kvarcureeny.com^
 ||kvaurjynazce.com^
@@ -26162,6 +26165,7 @@ vkcdnservice.appspot.com^
 ||kxiobdzb.com^
 ||kxlchruxc.com^
 ||kxlgkqlkjpseo.site^
+||kxlraxeanprcj.space^
 ||kxmebjwzwynks.space^
 ||kxnyzhnchempm.store^
 ||kxqdayzmwcoox.website^
@@ -33401,6 +33405,7 @@ vkcdnservice.appspot.com^
 ||pjmthqtzhvzyk.online^
 ||pjmublecgilcr.space^
 ||pjnkltaayvde.xyz^
+||pjom9pp463bwuznxnci.rest^
 ||pjpworowzxmci.space^
 ||pjqchcfwtw.com^
 ||pjsos.xyz^
@@ -37279,6 +37284,7 @@ vkcdnservice.appspot.com^
 ||rqhrkeqlybjdy.website^
 ||rqialsrmwwxbx.website^
 ||rqitcbzevctjq.space^
+||rqjpfdlsv.com^
 ||rqkrzjtqpbdmr.store^
 ||rqlehijuiaoff.website^
 ||rqmfspdplqzmxu.com^
@@ -43031,6 +43037,7 @@ vkcdnservice.appspot.com^
 ||uqbcz.today^
 ||uqbqarpuytxzd.site^
 ||uqecqpnnzt.online^
+||uqgsqijiej.com^
 ||uqjaqoywisrmq.website^
 ||uqjtqvzdujsjh.online^
 ||uqmgqhhhutssb.online^
@@ -44189,6 +44196,7 @@ vkcdnservice.appspot.com^
 ||vtpyvbwtldlvl.site^
 ||vttooqksrnhun.rocks^
 ||vtuowmzjyyavc.site^
+||vtuqviwcbeuhr.site^
 ||vtxnfezsswgbq.website^
 ||vu-kgxwyxpr.online^
 ||vuainqkmjdiqp.site^
@@ -44780,6 +44788,7 @@ vkcdnservice.appspot.com^
 ||wfnjnkazgfzax.store^
 ||wfqzesdbrvoje.space^
 ||wfredir.net^
+||wfswtsmposrvd.com^
 ||wftbeecaebmmr.online^
 ||wftcsnpjgdmna.store^
 ||wftobyorotnmx.site^
@@ -44997,6 +45006,7 @@ vkcdnservice.appspot.com^
 ||wiganstannaic.world^
 ||wigetmedia.com^
 ||wigglergaveler.digital^
+||wiggly-bathroom.pro^
 ||wiggly-spend.pro^
 ||wigkswxmurpfn.website^
 ||wiglikeleve.help^
@@ -45021,6 +45031,7 @@ vkcdnservice.appspot.com^
 ||wiltaustaug.com^
 ||wiltedmember.pro^
 ||wilucuwzvc88g6vr9c7rr.cfd^
+||wimncpthrdfmk.com^
 ||wimpidsausujeje.com^
 ||wimxvpcbsfhyz.store^
 ||win-bidding.com^
@@ -45760,6 +45771,7 @@ vkcdnservice.appspot.com^
 ||xcipwuoft.com^
 ||xciqipcutzra.com^
 ||xcjwtxhmtvjf.com^
+||xckuincrlohcm.online^
 ||xcmhaurthhfar.online^
 ||xcougdnhiixge.site^
 ||xcowuheclvwryh.com^
@@ -46269,6 +46281,7 @@ vkcdnservice.appspot.com^
 ||y1zoxngxp.com^
 ||y397mbugo5xvge5l2o2u6zh6wwi9x.rest^
 ||y88tt85w8vumeqzr4uuc.rest^
+||y8uvpyb1euyvci7h9.cfd^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
 ||yachtedoxymel.help^
 ||yacsvdpiqyrza.site^
@@ -46767,6 +46780,7 @@ vkcdnservice.appspot.com^
 ||ysrsfqapnqjuno.com^
 ||ystationalhed.com^
 ||ystxjinibaqch.online^
+||ysvbwjejfwmwd.online^
 ||yswebkrszlbzs.space^
 ||yswpcoftefaes.site^
 ||ysxyrcojiqvwj.store^
@@ -46879,6 +46893,7 @@ vkcdnservice.appspot.com^
 ||yxtwurrbxqifz.website^
 ||yxunqfhyuwrxt.online^
 ||yxuytpfe-t.icu^
+||yxwwyxmpowqnm.space^
 ||yxyrblnpmtahz.world^
 ||yy9s51b2u05z.com^
 ||yyatpfkjgcclyc.com^
@@ -52771,7 +52786,6 @@ vkcdnservice.appspot.com^
 ||danv01ao0kdr2.cloudfront.net^
 ||p.placed.com^
 ||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz^
-||stat.onemob.mobi^
 ||ip.prvtx.net^
 ||avo.app^
 ||pix.hyj.mobi^
@@ -100255,6 +100269,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||i.go.sohu.com^
 ||tagbridge.vlp.cz^
 ||advancedanalytics-websocket-pri-001.hexaglobe.net^
 ||htm*.hepsiburada.com^
@@ -110576,6 +110591,7 @@ dlsdk.appsflyer.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||onemob.mobi^
 ||tp.suppercacheimages.top^
 ||9867.org^
 ||njhlvz.icu^
