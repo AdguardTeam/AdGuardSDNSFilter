@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-07T00:31:08.789Z
+! Last modified: 2025-12-07T02:44:01.378Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -564,7 +564,6 @@
 ||nbo-protect.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||nersionitsumpute.com^$dnsrewrite=ad-block.dns.adguard.com
 ||newmytrp.com^$dnsrewrite=ad-block.dns.adguard.com
-||newoffertops.info^$dnsrewrite=ad-block.dns.adguard.com
 ||next-lust.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||nextpointkaynersave.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nexusbloom.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -591,7 +590,6 @@
 ||offergate-software11.com^$dnsrewrite=ad-block.dns.adguard.com
 ||offergate-software20.com^$dnsrewrite=ad-block.dns.adguard.com
 ||offergate-software6.com^$dnsrewrite=ad-block.dns.adguard.com
-||offertops.info^$dnsrewrite=ad-block.dns.adguard.com
 ||oglalavoodoo.world^$dnsrewrite=ad-block.dns.adguard.com
 ||olopruy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||omegaadblock.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -656,7 +654,6 @@
 ||pubtrky.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pulsivecerebra.top^$dnsrewrite=ad-block.dns.adguard.com
 ||pupspu.com^$dnsrewrite=ad-block.dns.adguard.com
-||push-news.click^$dnsrewrite=ad-block.dns.adguard.com
 ||push-sense.com^$dnsrewrite=ad-block.dns.adguard.com
 ||push1000.top^$dnsrewrite=ad-block.dns.adguard.com
 ||push1005.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -671,7 +668,6 @@
 ||racunn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rbtfit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rcdn-web.com^$dnsrewrite=ad-block.dns.adguard.com
-||reallyzills.top^$dnsrewrite=ad-block.dns.adguard.com
 ||realsh.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||realtime-bid.com^$dnsrewrite=ad-block.dns.adguard.com
 ||recesstransport.icu^$dnsrewrite=ad-block.dns.adguard.com
@@ -856,7 +852,6 @@
 ||wheceelt.net^$dnsrewrite=ad-block.dns.adguard.com
 ||where-to.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||wintrck.com^$dnsrewrite=ad-block.dns.adguard.com
-||woevr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wuujae.com^$dnsrewrite=ad-block.dns.adguard.com
 ||x2tsa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||x3os.com^$dnsrewrite=ad-block.dns.adguard.com
