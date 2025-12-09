@@ -322,7 +322,7 @@
     },
     {
       "name": "AdblockID adservers",
-      "source": "https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl",
+      "source": "https://cdn.jsdelivr.net/gh/realodix/AdBlockID@master/dist/adblockid.adfl.txt",
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]
