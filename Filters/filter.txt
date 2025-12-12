@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-12T14:29:27.325Z
+! Last modified: 2025-12-12T16:07:23.450Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11845,6 +11845,7 @@ vkcdnservice.appspot.com^
 ||bsjxodcvrvgbe.online^
 ||bskakeiotyvge.online^
 ||bskilkkuooeyy.site^
+||bskjsiozlkxmf.online^
 ||bsnwicychhpjy.website^
 ||bsrkglahwmnyp.online^
 ||bsshxdxtfaiis.space^
@@ -13649,6 +13650,7 @@ vkcdnservice.appspot.com^
 ||coggieunwon.shop^
 ||cognatesyringe.com^
 ||cognizancesteepleelevate.com^
+||cogonalhackmenrechase.cfd^
 ||cogrrjdblji.net^
 ||cogzsatyhofvp.online^
 ||coherentchuckled.com^
@@ -14505,6 +14507,7 @@ vkcdnservice.appspot.com^
 ||cuffedpil.cfd^
 ||cughidroulrauno.net^
 ||cugnerteens.net^
+||cuhkfxddpubbl.website^
 ||cuiejosparry.cyou^
 ||cuisineenvoyadvertise.com^
 ||cuizgelbtbdft.site^
@@ -19417,6 +19420,7 @@ vkcdnservice.appspot.com^
 ||frightenedcraft.com^
 ||frighteningrelative.com^
 ||frighteningship.com^
+||frighteningsignal.pro^
 ||frightfulvisitorimportant.com^
 ||frigid-wait.pro^
 ||frillyearth.com^
@@ -19840,6 +19844,7 @@ vkcdnservice.appspot.com^
 ||gagheroinintact.com^
 ||gagjrgkvtsjnj.online^
 ||gagsyock.help^
+||gahffdlhl.com^
 ||gahkoekeybyxv.online^
 ||gahnitemiddes.qpon^
 ||gahypawsppxnz.website^
@@ -20300,6 +20305,7 @@ vkcdnservice.appspot.com^
 ||ghzigitdvmsbb.site^
 ||ghzxqtvqjybuj.online^
 ||gialamebxneob.space^
+||giant-league.pro^
 ||giant-orange.pro^
 ||giantaffiliates.com^
 ||giantlevel.pro^
@@ -24550,6 +24556,7 @@ vkcdnservice.appspot.com^
 ||jidftzbqrjaqr.site^
 ||jidmebotyigqc.com^
 ||jifflebreasts.com^
+||jigaignevedrooh.com^
 ||jighaveesholrer.net^
 ||jigsawharmony.com^
 ||jigsawstitlike.click^
@@ -25601,6 +25608,7 @@ vkcdnservice.appspot.com^
 ||kkmacsqsbf.info^
 ||kkmmusxtdhizn.online^
 ||kkocqcugsa.net^
+||kkofjie7bh9c1ij1umf6lvxw9.cfd^
 ||kkqlcvwqbajec.website^
 ||kksbhdknogzya.website^
 ||kkvfbdabrhmpb.website^
@@ -32978,6 +32986,7 @@ vkcdnservice.appspot.com^
 ||pignorahenwife.qpon^
 ||pigsneyepigene.cyou^
 ||pigtre.com^
+||piileihzsqelg.online^
 ||piiqrmvymwue.world^
 ||pikiblurb.cfd^
 ||piknzkqsmelfm.space^
@@ -33102,6 +33111,7 @@ vkcdnservice.appspot.com^
 ||pjvcbvjfrzniy.site^
 ||pjvnrhgklxcgb.xyz^
 ||pjxfugewuyxrc.store^
+||pjxvqktztdcsz.online^
 ||pjyeklghqt.com^
 ||pjymxkdv.xyz^
 ||pjzftkxmyzuat.space^
@@ -34924,6 +34934,7 @@ vkcdnservice.appspot.com^
 ||qljytcmigkfxc.website^
 ||qlkwfp11222wifeenq.cfd^
 ||qloekmmsuwjlq.website^
+||qlpjlgky.com^
 ||qlpwodpqwzqcc.website^
 ||qlqdpobqnlrsd.store^
 ||qlqdtgamhhnfe.site^
@@ -35385,6 +35396,7 @@ vkcdnservice.appspot.com^
 ||r1g2rygnixoyhioz8e.cfd^
 ||r3c6cb3hkoccwf4zvj22.cfd^
 ||r451y7h7n2rp41cn64ir3o.cfd^
+||r58wf3fmmxgi2ef45fw7796zv.rest^
 ||r66hxu4b7pi7bh.rest^
 ||r66net.com^
 ||r66net.net^
@@ -39589,6 +39601,7 @@ vkcdnservice.appspot.com^
 ||stwwdyowpkzof.website^
 ||stxmumxjxbeud.store^
 ||stxtocrtgkwgb.website^
+||styingriposte.com^
 ||stylish-airport.com^
 ||stylish-knife.com^
 ||stylusanswer.help^
@@ -44075,6 +44088,7 @@ vkcdnservice.appspot.com^
 ||wcpgtxpzhpdgy.website^
 ||wcrulddsnexjz.site^
 ||wcsdacenoyjgy.store^
+||wcsrsrahctbah.space^
 ||wct.link^
 ||wcuggkuxfgutu.today^
 ||wcuxkyjwndqxj.top^
@@ -99945,6 +99959,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||metrics.media-amazon.com^
 ||metis.truecaller.com^
 ||tag.poomang.com^
 ||counter.tldw.me^
