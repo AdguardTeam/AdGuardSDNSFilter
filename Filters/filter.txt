@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-12T14:07:14.645Z
+! Last modified: 2025-12-12T14:29:27.325Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -16878,6 +16878,7 @@ vkcdnservice.appspot.com^
 ||eddfrwjpdijtb.store^
 ||eddymahoe.qpon^
 ||eddyniseis.digital^
+||edeclineryb.org^
 ||edeefuuamkami.site^
 ||edeensiwaftaih.xyz^
 ||edentwithought.org^
@@ -30850,6 +30851,7 @@ vkcdnservice.appspot.com^
 ||oblong-punch.com^
 ||oblongblue.pro^
 ||obmpabheweiku.space^
+||obntmocllssswfs.com^
 ||obolestiver.cfd^
 ||obordtavgkhci.online^
 ||obovksvquemtr.website^
@@ -31193,6 +31195,7 @@ vkcdnservice.appspot.com^
 ||okaysgrange.cyou^
 ||okdigital.me^
 ||okdyvjqdrbguk.online^
+||okedvxsttyjlc.website^
 ||okeezyxflelvs.website^
 ||okiiajtpeyycg.website^
 ||okiyfmhdmtvgs.website^
@@ -31401,6 +31404,7 @@ vkcdnservice.appspot.com^
 ||onvlygijezbvg.online^
 ||onwardperishvaluables.com^
 ||onwgnrgbcozvl.store^
+||onxgvepucicfi.space^
 ||onymebonise.qpon^
 ||onymitydeduce.cfd^
 ||oobaiphughignop.net^
@@ -35188,6 +35192,7 @@ vkcdnservice.appspot.com^
 ||questionable-shoulder.pro^
 ||questionneuroticgrief.com^
 ||questionschildish.com^
+||queuefireball.com^
 ||queuingouvrier.cyou^
 ||qufwiapfhddni.site^
 ||qufzoiycxutsn.website^
@@ -37555,6 +37560,7 @@ vkcdnservice.appspot.com^
 ||screenhurtfuldelicatessen.com^
 ||scripasok.com^
 ||scriptcdn.net^
+||scriptscalumnychirp.com^
 ||scriveshiguero.rest^
 ||scrolarlutes.help^
 ||scrollye.com^
@@ -48538,6 +48544,171 @@ vkcdnservice.appspot.com^
 ! https://github.com/ryanbr/fanboy-adblock/issues/816
 |167.206.10.148^
 !
+! Source name: EasyList specific block
+! Source: https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easylist/easylist_specific_block.txt
+!
+||acs.woolworths.com.au^
+||ad.animehub.ac^
+||ad.imp.joins.com^
+||ad.khan.co.kr^
+||ad.kimcartoon.si^
+||ad.kissanime.co^
+||ad.kissanime.com.ru^
+||ad.kissanime.org.ru^
+||ad.kissanime.sx^
+||ad.kisscartoon.nz^
+||ad.kisscartoon.sh^
+||ad.kisstvshow.ru^
+||ad.l2b.co.za^
+||ad.norfolkbroads.com^
+||ad.ymcdn.org^
+||ads-api.stuff.co.nz^
+||ads-api.videy.co^
+||ads.ipfighter.com^
+||ads.talksport.com^
+||ads.tvmnews.mt^
+||ads.twdcgrid.com^
+||ads2.videy.co^
+||ads3.videy.co^
+||adsmg.fanfox.net^
+||ams.naturalnews.com^
+||ams.naturalnewsblogs.com^
+||api.mumuglobal.com^
+||asgg.ghostbin.me^
+||attr-shift.dotabuff.com^
+||b.w3techs.com^
+||ban.etherscan.com^
+||beap.gemini.yahoo.com^
+||bettingads.365scores.com^
+||bordeaux.futurecdn.net^
+||cdn.manga9.co^
+||creatives.livejasmin.com^
+||dsp.aparat.com^
+||dyn.varsity.co.uk^
+||e.cdngeek.com^
+||earth.cointelegraph.com^
+||eas.etherscan.com^
+||eentent.streampiay.me^
+||engine.fxempire.com^
+||engine.laweekly.com^
+||gamer.mmohuts.com^
+||gentent.stre4mplay.one^
+||hentent.stre4mplay.one^
+||ientent.stre4mplay.one^
+||imp.accesstra.de^
+||imp.pixiv.net^
+||japfg-trending-content.uc.r.appspot.com^
+||keen-eyed.dotabuff.com^
+||kentent.stre4mplay.one^
+||kta.etherscan.com^
+||loader.crosswordsolver.com^
+||loader.the-crossword-solver.com^
+||loader.word-grabber.com^
+||lw.musictarget.com^
+||mafvertizing.crazygames.com^
+||mail-ads.google.com^
+||n.gemini.yahoo.com^
+||outlookads.live.com^
+||pafvertizing.crazygames.com^
+||plutonium.cointelegraph.com^
+||prod-sponsoredads.mkt.zappos.com^
+||products.gobankingrates.com^
+||pubsrv.devhints.io^
+||rafvertizing.crazygames.com^
+||rev.frankspeech.com^
+||sasinator.realestate.com.au^
+||shieldload.neoseeker.com^
+||socket.streamable.com^
+||sponsors.vuejs.org^
+||static.ad.libimseti.cz^
+||store-api.mumuglobal.com^
+||tpc.googlesyndication.com^
+||util-*.simply-hentai.com^
+||wafvertizing.crazygames.com^
+||wall.vgr.com^
+||x.castanet.net^
+||api.fw.tv^
+||cdn.ex.co^
+||dywolfer.de^
+||embed.ex.co^
+||fqtag.com^
+||live.primis.tech^
+||minute.ly^
+||minutemediaservices.com^
+||play.springboardplatform.com^
+||player.avplayer.com^
+||player.ex.co^
+||player.sendtonews.com^
+||playoncenter.com^
+||video-streaming.ezoic.com^
+||vidora.com^
+!
+! Source name: EasyList adult block
+! Source: https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easylist_adult/adult_specific_block.txt
+!
+||a.crazyporn.xxx^
+||adf.uhn.cx^
+||adrotic.girlonthenet.com^
+||affiliates.goodvibes.com^
+||alaska.xhamster.com^
+||alaska.xhamster.desi^
+||alaska.xhamster2.com^
+||alaska.xhamster3.com^
+||banners.cams.com^
+||brick.xhamster.com^
+||brick.xhamster.desi^
+||brick.xhamster2.com^
+||brick.xhamster3.com^
+||cams.imgtaxi.com^
+||cluster.xhspot.com^
+||creative.homejavlive.com^
+||creative.live.missav.com^
+||creative.live.tktube.com^
+||creative.thefaplive.com^
+||creative.upskirtlive.com^
+||creative.yesporn.cam^
+||delivery.porn.com^
+||dl.4kporn.xxx^
+||dl.hoes.tube^
+||dyn.empflix.com^
+||dyn.tnaflix.com^
+||go.celebjihad.live^
+||go.pornav.net^
+||go.stripchat.beeg.com^
+||go.strpjmp.com^
+||madmen2.alastonsuomi.com^
+||marine.xhamster.com^
+||marine.xhamster.desi^
+||marine.xhamster2.com^
+||marine.xhamster3.com^
+||n.hnntube.com^
+||plx.porndig.com^
+||plx.tik.porn^
+||port7.xhamster.com^
+||port7.xhamster.desi^
+||port7.xhamster2.com^
+||port7.xhamster3.com^
+||rambo.xhamster.com^
+||rockpoint.xhaccess.com^
+||rockpoint.xhamster.com^
+||rockpoint.xhamster.desi^
+||rockpoint.xhamster2.com^
+||rockpoint.xhamster3.com^
+||rockpoint.xhamster42.desi^
+||rtb-1.jizzberry.com^
+||rtb-1.mylust.com^
+||rtb-1.xcafe.com^
+||rtb-3.xgroovy.com^
+||sli.crazyporn.xxx^
+||slview.psne.jp^
+||support.streamjav.top^
+||ts.globtube.com^
+||ww.hoes.tube^
+||x.xxxbp.tv^
+||x0r.urlgalleries.net^
+||xis.vipergirls.to^
+||yotta.scrolller.com^
+!
 ! Source name: EasyList ad servers third-party
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
@@ -50320,7 +50491,6 @@ vkcdnservice.appspot.com^
 ||1lzz.com^
 ||1ts11.top^
 ||access-the-website.com^
-||banners.cams.com^
 ||c4tracking01.com^
 ||chokertraffic.com^
 ||cityofsin3d.com^
@@ -52284,7 +52454,6 @@ vkcdnservice.appspot.com^
 ||eltex.co.jp^
 ||catsys.jp^
 ||static-tracking.klaviyo.com^
-||slview.psne.jp^
 ||track.adspire.io^
 ||ucs.betwaygroup.com^
 ||cdn.ddmanager.ru^
@@ -53652,7 +53821,6 @@ vkcdnservice.appspot.com^
 ||foundry42.com^
 ||fout.jp^
 ||fprnt.com^
-||fqtag.com^
 ||free-counter.co.uk^
 ||free-counter.com^
 ||free-counters.co.uk^
@@ -69149,7 +69317,6 @@ vkcdnservice.appspot.com^
 ||y.ksl.com^
 ||aa.diyer.intel-social.com^
 ||abt.nl.bauhaus^
-||acs.woolworths.com.au^
 ||adobe.comex.galicia.ar^
 ||adobe.fondosfima.com.ar^
 ||adobe.hacetecliente.galicia.ar^
@@ -101388,8 +101555,6 @@ prd.api.bleacherreport.com^
 ||applog.zaycev.net^
 ||appsanalytics.appideas.it^
 ||apptracker.gamedock.io^
-||service.minute.ly^
-||apv-launcher.minute.ly^
 ||ariane.abtasty.com^
 ||astat.nikkei.co.jp^
 ||astral.nicovideo.jp^
@@ -104059,7 +104224,6 @@ dlsdk.appsflyer.com^
 ||data.debugbear.com^
 ||data.eetech.com^
 ||data.embeddables.com^
-||data.minute.ly^
 ||data.nexxt.com^
 ||data.queryly.com^
 ||data.replo.app^
@@ -108546,7 +108710,6 @@ dlsdk.appsflyer.com^
 ||cpm.worldoftanks.com^
 ||crackac.com^
 ||creara-media.ru^
-||creatives.livejasmin.com^
 ||creofive.com^
 ||creofun.com^
 ||crutop.nu^
@@ -110073,7 +110236,6 @@ dlsdk.appsflyer.com^
 ||ad.jp.ap.valuecommerce.com^
 ||valuecommerce.ne.jp^
 ||mbadv.nan.co.jp^
-||creative.live.tktube.com^
 ||ads.world-fusigi.net^
 ||ad.eloan.co.jp^
 ||ad.abema.io^
@@ -111216,7 +111378,6 @@ dlsdk.appsflyer.com^
 ||stats.helsingborg.se^
 ||stats.jibber.social^
 ||stats.med.lu.se^
-||stats.playoncenter.com^
 ||stats.poddtoppen.se^
 ||stats.userneeds.com^
 ||stats2.ehandel.se^
@@ -111238,7 +111399,6 @@ dlsdk.appsflyer.com^
 ||toppmarkensverige.com^
 ||tourn.co^
 ||tourn.se^
-||tpc.googlesyndication.com^
 ||tr.apsisforms.com^
 ||track.yetric.net^
 ||tracker.zummycloud.com^
@@ -122350,7 +122510,6 @@ analytics-*.aasaam.com
 # https://github.com/MasterKia/PersianBlocker/issues/210
 ||ads.aftab.cc^
 ||analytics.asiatech.ir^
-||dsp.aparat.com^
 ||ads.asset.aparat.com^
 ||ads.akairan.com^
 ||ads.akaup.com^
@@ -122662,7 +122821,6 @@ analytics-*.aasaam.com
 ||adad.z00.kr^
 ||adreal.dt.co.kr^
 ||ad-api.band.us^
-||live.primis.tech^
 ||pub.tvads.co.kr^
 ||api.linkmine.co.kr^
 ||io.smartmyd.com^
@@ -122736,7 +122894,6 @@ analytics-*.aasaam.com
 ||ads.mobitree.co.kr^
 ||ad.danawa.com^
 ||xconf.cauly.co.kr^
-||ad.khan.co.kr^
 ||adservice.hani.co.kr^
 ||adx.mocoplex.com^
 ||xdsp.snadx.com^
@@ -122769,7 +122926,6 @@ analytics-*.aasaam.com
 ||cyad1.nate.com^
 ||ad-api.enuri.info^
 ||ad.newspim.com^
-||ad.imp.joins.com^
 ||ads.inven.co.kr^
 ||addc.dcinside.com^
 ||adscdn.orbi.kr^
