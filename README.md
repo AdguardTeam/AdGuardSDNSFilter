@@ -84,6 +84,10 @@ The output is written to `Filters/filter.txt`.
 
 * [EasyList — third-party servers](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt)
 
+* [EasyList - specific block](https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easylist/easylist_specific_block.txt)
+
+* [EasyList - adult block](https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easylist_adult/adult_specific_block.txt)
+
 * [EasyList — adult third-party servers](https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt)
 
 * [EasyList — adult popup servers](https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt)
