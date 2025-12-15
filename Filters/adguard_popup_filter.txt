@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-15T00:31:07.661Z
+! Last modified: 2025-12-15T02:44:40.951Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -1046,7 +1046,6 @@
 ||tubecontext.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sharemefiles.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||partners.parimatch.net^$dnsrewrite=ad-block.dns.adguard.com
-||1clic1don.fr^$dnsrewrite=ad-block.dns.adguard.com
 ||2date.club^$dnsrewrite=ad-block.dns.adguard.com
 ||5movies.live^$dnsrewrite=ad-block.dns.adguard.com
 ||741.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -1062,12 +1061,15 @@
 ||ahlefind.com^$dnsrewrite=ad-block.dns.adguard.com
 ||aimportfoliosquid.com^$dnsrewrite=ad-block.dns.adguard.com
 ||airartapt.site^$dnsrewrite=ad-block.dns.adguard.com
+||ajrkm3.com^$dnsrewrite=ad-block.dns.adguard.com
 ||allsports4free.club^$dnsrewrite=ad-block.dns.adguard.com
 ||allsports4free.live^$dnsrewrite=ad-block.dns.adguard.com
 ||allure-ng.net^$dnsrewrite=ad-block.dns.adguard.com
 ||amazing-dates.com^$dnsrewrite=ad-block.dns.adguard.com
 ||angrilyanimatorcuddle.com^$dnsrewrite=ad-block.dns.adguard.com
+||antfa.link^$dnsrewrite=ad-block.dns.adguard.com
 ||antivirusfit.co^$dnsrewrite=ad-block.dns.adguard.com
+||antj.link^$dnsrewrite=ad-block.dns.adguard.com
 ||aozoiekopoaka.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||appendixwarmingauthors.com^$dnsrewrite=ad-block.dns.adguard.com
 ||areantaid.site^$dnsrewrite=ad-block.dns.adguard.com
@@ -1183,6 +1185,7 @@
 ||searchdimension.com^$dnsrewrite=ad-block.dns.adguard.com
 ||shebaasot.com^$dnsrewrite=ad-block.dns.adguard.com
 ||slabshookwasted.com^$dnsrewrite=ad-block.dns.adguard.com
+||slext2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||smapp.work^$dnsrewrite=ad-block.dns.adguard.com
 ||sokrostream.tv^$dnsrewrite=ad-block.dns.adguard.com
 ||sportstreams.xyz^$dnsrewrite=ad-block.dns.adguard.com
