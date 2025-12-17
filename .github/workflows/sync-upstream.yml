@@ -1,0 +1,36 @@
+name: Sync Upstream
+
+on:
+    schedule:
+        - cron: "0 0 * * *" # Runs daily at midnight
+    workflow_dispatch: # Allows manual trigger
+
+jobs:
+    sync:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout target branch
+              uses: actions/checkout@v4
+              with:
+                  ref: master
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Sync and Merge Upstream
+              uses: actions/github-script@v7
+              with:
+                  script: |
+                      const upstream = 'AdguardTeam/AdGuardSDNSFilter';
+                      const upstream_branch = 'master';
+                      const target_branch = 'master';
+
+                      // Configure git
+                      await exec.exec('git config --global user.name "GitHub Action"');
+                      await exec.exec('git config --global user.email "action@github.com"');
+
+                      // Add upstream remote
+                      await exec.exec(`git remote add upstream https://github.com/${upstream}.git`);
+                      await exec.exec('git fetch upstream');
+
+                      // Reset local master to match upstream exactly (force sync)
+                      await exec.exec(`git reset --hard upstream/${upstream_branch}`);
+                      await exec.exec(`git push --force origin ${target_branch}`);
