@@ -1,0 +1,63 @@
+name: Build Ads-Only List
+
+on:
+    schedule:
+        - cron: "0 2 * * *"
+    workflow_dispatch:
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout Code
+              uses: actions/checkout@v4
+              with:
+                  ref: master
+
+            - name: Setup Node
+              uses: actions/setup-node@v4
+              with:
+                  node-version: "20"
+                  cache: "yarn"
+
+            - name: Install Dependencies
+              run: yarn install
+
+            - name: Filter Configuration (Remove Trackers)
+              run: |
+                # Backup original
+                cp configuration.json configuration.json.bak
+                
+                # Use jq to filter the 'sources' array while preserving metadata
+                jq '.sources |= map(select(
+                    (.name | test("Tracking Protection|Social|EasyPrivacy|URL Tracking|Spyware"; "i") | not) and
+                    (.source | test("SpywareFilter|easyprivacy|TrackParam|social"; "i") | not)
+                ))' configuration.json > configuration.filtered.json
+                
+                # Replace original with filtered version
+                mv configuration.filtered.json configuration.json
+                
+                # Show what was removed (for debugging)
+                echo "=== Removed filters ==="
+                jq -r '.sources[] | select(
+                    (.name | test("Tracking Protection|Social|EasyPrivacy|URL Tracking|Spyware"; "i")) or
+                    (.source | test("SpywareFilter|easyprivacy|TrackParam|social"; "i"))
+                ) | .name' configuration.json.bak || echo "None (or all removed)"
+                
+                echo ""
+                echo "=== Remaining filters ($(jq '.sources | length' configuration.json) total) ==="
+                jq -r '.sources[].name' configuration.json
+      
+
+            - name: Build Filter
+              run: yarn run build
+
+            - name: Commit and Push Result
+              run: |
+                  git config --global user.name "Filter Builder"
+                  git config --global user.email "bot@example.com"
+
+                  git checkout -b release-list || git checkout release-list
+                  git add -f Filters/filter.txt
+                  git commit -m "Update ads-only filter: $(date +'%Y-%m-%d %H:%M UTC')"
+                  git push -f origin release-list
