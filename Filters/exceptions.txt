@@ -1,3 +1,6 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/216594
+! Blocked by CNAME ads.viralize.tv
+@@||content.viralize.tv^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/pull/1984
 @@||www.datadoghq-browser-agent.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1985
