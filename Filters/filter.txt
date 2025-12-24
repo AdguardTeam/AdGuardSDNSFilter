@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-24T10:07:17.864Z
+! Last modified: 2025-12-24T11:25:37.352Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -16392,6 +16392,7 @@ vkcdnservice.appspot.com^
 ||disnestjotting.click^
 ||disobeyrecreate.com^
 ||disorderpublishrecords.com^
+||disparagewardenbetrayal.com^
 ||disparityanalogy.com^
 ||disparitydegenerateconstrict.com^
 ||disparkhellen.help^
@@ -18737,6 +18738,7 @@ vkcdnservice.appspot.com^
 ||evnzrsecbioqp.today^
 ||evocatepooly.help^
 ||evoeqbnxitfpa.online^
+||evokeejodso.com^
 ||evokeinexpedientfastened.com^
 ||evolatemyrrh.help^
 ||evolutesaveloy.help^
@@ -27290,6 +27292,7 @@ vkcdnservice.appspot.com^
 ||krpoxpezhuqqx.online^
 ||krrknsakpmpve.online^
 ||krshmqrqvipop.website^
+||krtkjnrtkwt.com^
 ||krtnyognzagow.online^
 ||kruaxite.help^
 ||krudavmbgnwrc.website^
@@ -28206,6 +28209,7 @@ vkcdnservice.appspot.com^
 ||lillkoubvbqu.com^
 ||limaceacellarjumble.cfd^
 ||limatailsaib.net^
+||limbacoaming.cyou^
 ||limited-final.pro^
 ||limitespta.click^
 ||limitesrifer.com^
@@ -30901,6 +30905,7 @@ vkcdnservice.appspot.com^
 ||murrineabaiser.com^
 ||musangdeposit.qpon^
 ||muscattepanec.rest^
+||muscosesoftly.cyou^
 ||muscotmarch.world^
 ||musdfsobpobkm.space^
 ||museumoff.com^
@@ -37925,6 +37930,7 @@ vkcdnservice.appspot.com^
 ||recchestolons.rest^
 ||reccimline.cfd^
 ||recdirectgo.biz^
+||recedefury.com^
 ||recedesphasmid.shop^
 ||receiptcadenceresurrection.com^
 ||receiverbookwormlazy.com^
@@ -43366,6 +43372,7 @@ vkcdnservice.appspot.com^
 ||tjketwpebirwl.net^
 ||tjkkyvtyfjjeu.space^
 ||tjkqgceypcapf.store^
+||tjllfzqkswqjo.site^
 ||tjlsvkucubbgl.space^
 ||tjmsqsemqyshc.website^
 ||tjndsmlcnoweq.space^
@@ -45743,6 +45750,7 @@ vkcdnservice.appspot.com^
 ||vbgacekwq.com^
 ||vbhxtulyqyaxg.com^
 ||vbjibjsftqxkq.site^
+||vbjuqguxmgrhk.site^
 ||vblhskgtetzkp.site^
 ||vblwixpwrrrjh.site^
 ||vbm19x5k96zjjzqwg6xribef.cfd^
@@ -45971,6 +45979,7 @@ vkcdnservice.appspot.com^
 ||vfedymrbwcsmw.net^
 ||vfegfmbcyerbh.space^
 ||vfegqmbcgyndw.today^
+||vfetupuyuwhso.space^
 ||vffncubbivrcm.website^
 ||vfghc.com^
 ||vfghd.com^
@@ -46619,6 +46628,7 @@ vkcdnservice.appspot.com^
 ||vwcyuojicbvab.website^
 ||vwflrpyyazjwy.space^
 ||vwfurlcwpujuz.site^
+||vwfwdxariknxp.website^
 ||vwgnmcwmbolok.online^
 ||vwiyieagwgebdoj.com^
 ||vwjsiywwgynud.online^
@@ -47576,6 +47586,7 @@ vkcdnservice.appspot.com^
 ||wjtdpktsubtui.site^
 ||wjugygvvdouyk.space^
 ||wjvyorryojbrw.top^
+||wjvyorryojvyj.top^
 ||wjw4crqngk5l8tfqg2nku4.cfd^
 ||wjwdlfxtdydci.store^
 ||wjxjomgbxflfc.store^
@@ -47782,6 +47793,7 @@ vkcdnservice.appspot.com^
 ||wordpersonify.com^
 ||wordsdelivery.com^
 ||wordsphonyblacken.com^
+||wordsreceivingdisappointment.com^
 ||wordtradeflank.com^
 ||worgzcdfgkyff.space^
 ||woriusly.com^
@@ -47861,6 +47873,7 @@ vkcdnservice.appspot.com^
 ||wpefeqebvmdzz.website^
 ||wpfly-sbpkrd.icu^
 ||wpfmovniimllu.online^
+||wpgssixwdaby.com^
 ||wphbvtxnitmv.com^
 ||wpjhwhtgcyzep.site^
 ||wpjplnykjopdp.online^
@@ -49175,6 +49188,7 @@ vkcdnservice.appspot.com^
 ||ylx-3.com^
 ||ylx-4.com^
 ||ylxbpzqfqqzuj.store^
+||ylxgpjbrtgbyv.site^
 ||ylyfdkibvejma.store^
 ||ylyjyzoxrhybw.online^
 ||ylzevsnrrwpmm.online^
@@ -123213,6 +123227,9 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/220979
+! Blocked by CNAME moengage.com
+@@||link.nzz.ch^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/216594
 ! Blocked by CNAME ads.viralize.tv
 @@||content.viralize.tv^|
