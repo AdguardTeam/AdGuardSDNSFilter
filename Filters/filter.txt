@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-26T10:07:49.681Z
+! Last modified: 2025-12-26T10:56:21.602Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9953,6 +9953,7 @@ vkcdnservice.appspot.com^
 ||attabalkanaka.cyou^
 ||attacheatableoverlabor.com^
 ||attachedkneel.com^
+||attackastonishment.com^
 ||attacksdecisioncafeteria.com^
 ||attacusfooled.cyou^
 ||attaingeoffrey.com^
@@ -11658,6 +11659,7 @@ vkcdnservice.appspot.com^
 ||bmeagkmxuh.com^
 ||bmervjuef9w2ebqwbc.rest^
 ||bmghokzwmnxhl.website^
+||bmhkzjmymqxnj.online^
 ||bmhyxpwstxgho.site^
 ||bmkz57b79pxk.com^
 ||bmmads.com^
@@ -12143,6 +12145,7 @@ vkcdnservice.appspot.com^
 ||bremiajos.cfd^
 ||brendedankh.qpon^
 ||brene.site^
+||bretncqhxzygz.website^
 ||brevitychestprocess.com^
 ||breweryalevin.cfd^
 ||brewstpreedit.help^
@@ -24100,6 +24103,7 @@ vkcdnservice.appspot.com^
 ||hurtful-message.com^
 ||hurtfullong.pro^
 ||hurtfulmagazine.pro^
+||hurtsbehalf.com^
 ||husbandnights.com^
 ||husfly.com^
 ||hushclosing.com^
@@ -38356,6 +38360,7 @@ vkcdnservice.appspot.com^
 ||reconsiderdoubtlesstravel.com^
 ||reconsideroverweight.com^
 ||reconsiderquestions.com^
+||reconstructnicestain.com^
 ||reconstructsweaty.com^
 ||record.guts.com^
 ||record.rizk.com^
@@ -46739,6 +46744,7 @@ vkcdnservice.appspot.com^
 ||vjuenyeckagkz.site^
 ||vjvgfxzt8bb4x1f611gcfx5.cfd^
 ||vjvvzogfohfqn.space^
+||vjxknipyxdzos.online^
 ||vjybecozboonv.online^
 ||vjycodznmemui.website^
 ||vjyljycvfcfrj.online^
@@ -47443,6 +47449,7 @@ vkcdnservice.appspot.com^
 ||wbidder311072023.com^
 ||wbidder4.com^
 ||wbidr.com^
+||wbihfryznmmkm.space^
 ||wbilvnmool.com^
 ||wbiskyenhrwvx.website^
 ||wbjjeykbznavr.space^
@@ -48138,6 +48145,7 @@ vkcdnservice.appspot.com^
 ||wlipvautfe.com^
 ||wljrvynqkzdvn.site^
 ||wllebozbzjzlj.top^
+||wllebozbzjzvm.top^
 ||wllhjebhtcrjz.space^
 ||wllwdfvaudnhi.space^
 ||wlmghqpmob.com^
@@ -100234,6 +100242,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||spa-tracker*.spapi.io^
 ||apistats.rg.ru^
 ||analytics.t-mobile.com^
 ||raw.vidyard.com^
@@ -123805,6 +123814,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2001
+@@||link.meet5.net^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/220979
 ! Blocked by CNAME moengage.com
 @@||link.nzz.ch^|
