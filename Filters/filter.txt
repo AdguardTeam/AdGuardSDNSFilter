@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-26T12:11:32.135Z
+! Last modified: 2025-12-26T12:26:49.622Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -25833,6 +25833,7 @@ vkcdnservice.appspot.com^
 ||jbazlkbvmyecd.website^
 ||jbbyyryezqqvq.top^
 ||jbbyyryolmlvq.top^
+||jbbyyryolmokb.top^
 ||jbbyyryolmoly.top^
 ||jbbyyryolqvvb.top^
 ||jbcekxybbwsbz.website^
@@ -29025,6 +29026,7 @@ vkcdnservice.appspot.com^
 ||loyalgreen.pro^
 ||loycsuoivghoy.space^
 ||loydleste.com^
+||loylhwrirejyj.website^
 ||loyxjgtmbgirkn.net^
 ||lozengeshould.com^
 ||lozna.xyz^
@@ -55257,6 +55259,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||client-sdk.hackle.io^
 ||t.jibeno.xyz^
 ||ctxcollect.com^
 ||conduit-beacon-usw2.mtvnservices.com^
@@ -117810,6 +117813,7 @@ dlsdk.appsflyer.com^
 ||nvielkaa.com^
 ||ao2doihore.com^
 ||ueaeahze.com^
+||f4h123m89w.com^
 ||1pt7wq8di.com^
 ||4d45i6p0g.com^
 ||5bess6df0.com^
@@ -123834,7 +123838,10 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
-! ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2001
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2003
+! Blocked by CNAME data.adobedc.net
+@@||data.orders.costco.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2001
 @@||link.meet5.net^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/220979
 ! Blocked by CNAME moengage.com
