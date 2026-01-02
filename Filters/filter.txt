@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-02T16:07:46.436Z
+! Last modified: 2026-01-02T16:59:21.689Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -56659,7 +56659,6 @@ vkcdnservice.appspot.com^
 ||ads-config-engine-noneu.truecaller.com^
 ||ad.inston.ltd^
 ||ad.deepthought.industries^
-||ad.bandlab.io^
 ||ads.cocomobi.com^
 ||inmense.site^
 ||dollphoin.site^
@@ -57339,6 +57338,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||rtbuniverse.com^
+||gw-usa-tracker.zmaticoo.com^
 ||data.deep-content.io^
 ||pingpong.us^
 ||protected-api.branch.io^
@@ -126840,6 +126841,9 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2007
+! Blocked by CNAME data.adobedc.net
+@@||sedge.nfl.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2003
 ! Blocked by CNAME data.adobedc.net
 @@||data.orders.costco.com^|
