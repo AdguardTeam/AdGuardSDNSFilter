@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-03T00:28:07.663Z
+! Last modified: 2026-01-03T02:38:51.992Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -3890,7 +3890,6 @@
 ||t.maxtrck.shop^
 ||t.nettrck.store^
 ||t.nextrck.website^
-||t.pathtrck.website^
 ||t.quicktrck.space^
 ||t.securetrck.uno^
 ||t.snaptrck.uno^
@@ -6115,7 +6114,6 @@
 .1.1.1.l80.js^
 .3.n.2.1.l50.js
 .3.n.2.2.l30.js
-!
 ||109.123.233.251^
 ||gulf.moneroocean.stream^
 ||pool.supportxmr.com^
@@ -7424,6 +7422,7 @@ vkcdnservice.appspot.com^
 ||abedwest.com^
 ||abelestheca.com^
 ||abelianlevulin.qpon^
+||aberrcrusca.shop^
 ||abesseslogger.rest^
 ||abethow.com^
 ||abfewghfhssa.net^
@@ -11878,6 +11877,7 @@ vkcdnservice.appspot.com^
 ||browdichu.cyou^
 ||brown-wake.pro^
 ||browndifference.pro^
+||brownrealization.com^
 ||broworker6s.com^
 ||broworkers5s.com^
 ||browse-boost.com^
@@ -13174,6 +13174,7 @@ vkcdnservice.appspot.com^
 ||cholatetapalos.com^
 ||choleicvends.help^
 ||cholicklyceum.qpon^
+||cholieygrs.com^
 ||cholummoxas.help^
 ||chomeshoomsu.net^
 ||chondrejapetus.cyou^
@@ -13453,6 +13454,7 @@ vkcdnservice.appspot.com^
 ||cleverjump.org^
 ||clevernt.com^
 ||cleverwebserver.com^
+||clevismarco.qpon^
 ||clfvrxluadwhar.xyz^
 ||clhxzrqdatxqm.store^
 ||clhywbegooqmd.website^
@@ -14673,6 +14675,7 @@ vkcdnservice.appspot.com^
 ||cursersvarved.qpon^
 ||cursinglucanid.cfd^
 ||curstlyaborterbacks.cfd^
+||curtcoracii.com^
 ||curtcrannyhustle.com^
 ||curteinbesugo.help^
 ||curtsyluffa.rest^
@@ -15195,6 +15198,7 @@ vkcdnservice.appspot.com^
 ||ddrdotdzgzsjz.space^
 ||ddrsemxv.com^
 ||ddrwfhbqrhvaz.space^
+||ddtmdkctxlxep.com^
 ||ddtrjckrzyfjh.space^
 ||ddvdotpyluwzc.website^
 ||ddvpemncgfpft.site^
@@ -19797,6 +19801,7 @@ vkcdnservice.appspot.com^
 ||fulgourlantaka.cfd^
 ||full-copy.com^
 ||fulledmaoism.cyou^
+||fullfoetus.com^
 ||fullletter.com^
 ||fullmworkhovdi.org^
 ||fulltraffic.net^
@@ -19827,6 +19832,7 @@ vkcdnservice.appspot.com^
 ||fungusshapesniff.com^
 ||funiccoypousumen.cyou^
 ||funkingbrowses.cfd^
+||funnilyerenach.qpon^
 ||funninglimpers.com^
 ||funny-dot.pro^
 ||funny-quality.pro^
@@ -20333,6 +20339,7 @@ vkcdnservice.appspot.com^
 ||gecodbchclick.xyz^
 ||gecoqbrhnqrog.online^
 ||gedcucuyo.cyou^
+||gedexpired.shop^
 ||gedoqsylr.xyz^
 ||geelaitoawovoup.net^
 ||geepakoapsohe.net^
@@ -20517,6 +20524,7 @@ vkcdnservice.appspot.com^
 ||ggwwjflrkeabf.space^
 ||ggxdyohdyaomf.space^
 ||ggyjaebzggpkk.store^
+||ggyjoorlqhfdvas.com^
 ||ghabovethecityon.com^
 ||ghaistsnakier.cyou^
 ||ghattislid.cyou^
@@ -21242,6 +21250,7 @@ vkcdnservice.appspot.com^
 ||greeboungeekrog.net^
 ||greedolsaisip.net^
 ||greedsokoackebo.net^
+||greedy-committee.pro^
 ||greedy-reality.pro^
 ||greedyfire.com^
 ||greeghupoalrie.net^
@@ -25393,6 +25402,7 @@ vkcdnservice.appspot.com^
 ||jupteshoofah.net^
 ||juqlfezaqcyrg.online^
 ||jurallylepta.qpon^
+||jurgisoorsaboz.com^
 ||jurisdiction423.fun^
 ||jursp.com^
 ||juryolympicsspookily.com^
@@ -26859,6 +26869,7 @@ vkcdnservice.appspot.com^
 ||lecturnsparm.cfd^
 ||lecubzcgozcgk.one^
 ||lecythipimpish.cyou^
+||ledecatches.qpon^
 ||ledidaeglow.shop^
 ||ledjrkdwieudk.online^
 ||ledrpbwkusvzt.space^
@@ -32200,6 +32211,7 @@ vkcdnservice.appspot.com^
 ||oruxmvyydrvkr.website^
 ||orvgpjjyagvfn.site^
 ||orvietnmqxcgm.online^
+||oryssidovidbabbly.cfd^
 ||orz9yhwq645zc97umomyrv3.cfd^
 ||orzukuzorpxvp.online^
 ||orzunkvpcagtu.space^
@@ -32932,6 +32944,7 @@ vkcdnservice.appspot.com^
 ||patheticbrick.com^
 ||patheticformerly.com^
 ||patheticinteract.com^
+||pathtrck.website^
 ||patiasingle.cfd^
 ||patientconfusedperfectly.com^
 ||patienthercoldness.com^
@@ -33682,6 +33695,7 @@ vkcdnservice.appspot.com^
 ||placiditylever.com^
 ||plackfrowsy.top^
 ||placksslaloms.help^
+||placulapickled.cfd^
 ||plagosedroopy.shop^
 ||plainerrakery.rest^
 ||plainfeelings.com^
@@ -33701,6 +33715,7 @@ vkcdnservice.appspot.com^
 ||plantationexhaust.com^
 ||plantationhick.com^
 ||planxtysamlet.cfd^
+||plasmidjerky.com^
 ||plasmtyramin.cyou^
 ||plasticapplication.com^
 ||plasticfreakmervail.cyou^
@@ -33934,6 +33949,7 @@ vkcdnservice.appspot.com^
 ||pointless-give.pro^
 ||pointroll.com^
 ||pointsanyway.com^
+||pointyalonelatent.com^
 ||pointybibbled.help^
 ||pointyglareproven.com^
 ||pointygrandma.com^
@@ -34439,6 +34455,7 @@ vkcdnservice.appspot.com^
 ||probableregret.com^
 ||probablyusualcontraction.com^
 ||probandchiders.help^
+||probandfleech.qpon^
 ||probationsheer.com^
 ||probedeclipse.cfd^
 ||probedrevolts.cyou^
@@ -35720,6 +35737,7 @@ vkcdnservice.appspot.com^
 ||quaizoa.xyz^
 ||quakedevastatedprinter.com^
 ||quakilyporite.cfd^
+||quakingthereafter.com^
 ||qualeexpendwhoo.cyou^
 ||qualiclicks.com^
 ||qualificationgarland.com^
@@ -40654,6 +40672,7 @@ vkcdnservice.appspot.com^
 ||syjkcdmwgqwrm.top^
 ||sylfaczvioejj.site^
 ||sylloedema.help^
+||sylphlatris.cyou^
 ||sylsiohopvaav.website^
 ||sylvitetortis.qpon^
 ||sylxisys.com^
@@ -40869,6 +40888,7 @@ vkcdnservice.appspot.com^
 ||tatteredboyfriend.pro^
 ||tatteredpassenger.com^
 ||tatteredperception.pro^
+||tatterycreasol.shop^
 ||tattiedretched.cyou^
 ||tatxbrshtjgfs.site^
 ||taughtdefect.com^
@@ -45296,6 +45316,7 @@ vkcdnservice.appspot.com^
 ||whoksocugn.net^
 ||wholecentare.com^
 ||wholecook.pro^
+||wholedisagree.com^
 ||wholeingredient.com^
 ||wholeshopping.pro^
 ||wholituaten.com^
@@ -45313,6 +45334,7 @@ vkcdnservice.appspot.com^
 ||whoringnusfiah.help^
 ||whorishholaclayed.cfd^
 ||whoshovotsaim.net^
+||whosomepresa.cyou^
 ||whoucheehy.net^
 ||whoucortepoo.net^
 ||whoumishatepa.net^
@@ -98291,6 +98313,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||use.hetzner.com^
+||t.jasper.ai^
 ||a.streamed.pk^
 ||corfu.blogvault.net^
 ||analytics.inquirernetwork.net^
@@ -115871,6 +115895,9 @@ dlsdk.appsflyer.com^
 ||ainb01030zh.com^
 ||cgcg01030ht.com^
 ||swaw.cn^
+||cancellation58.top^
+||hluraiwoy.com^
+||ppxqhx.icu^
 ||0hagal2csg.com^
 ||5hu7hee0pt.com^
 ||ainb01020zh.com^
