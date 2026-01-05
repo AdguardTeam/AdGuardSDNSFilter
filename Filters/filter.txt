@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-05T18:10:51.476Z
+! Last modified: 2026-01-05T20:07:40.894Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9952,6 +9952,7 @@ vkcdnservice.appspot.com^
 ||avouerosiest.help^
 ||avpizbldgpfpg.space^
 ||avpqvqfeinahp.space^
+||avpsumox.com^
 ||avroad3431.fun^
 ||avsink3431.fun^
 ||avsqavxk.com^
@@ -11845,6 +11846,7 @@ vkcdnservice.appspot.com^
 ||bridlearctic.com^
 ||briefcasebuoyduster.com^
 ||briefinedibleparson.com^
+||brieflynimbleignition.com^
 ||briefrush.pro^
 ||brieftrouble.com^
 ||brigadedelegatesandbox.com^
@@ -17215,6 +17217,7 @@ vkcdnservice.appspot.com^
 ||eeldamage.com^
 ||eelribouksi.net^
 ||eelsawheedi.net^
+||eelsooptaft.net^
 ||eelwgpubhnjxv.website^
 ||eelxaavhdjttc.site^
 ||eemaibsemtushaz.net^
@@ -24806,6 +24809,7 @@ vkcdnservice.appspot.com^
 ||jacanastruller.cyou^
 ||jacanavesica.cfd^
 ||jacbxfspyctmr.website^
+||jacinthbravishcirrhus.cyou^
 ||jacinthpulpilymispaid.cyou^
 ||jackalclenchedbedside.com^
 ||jackaltimer.com^
@@ -26397,6 +26401,7 @@ vkcdnservice.appspot.com^
 ||kodaodrterxfj.site^
 ||kodbafryxemdz.website^
 ||koeebuetwevng.space^
+||koffbegaudismaili.cyou^
 ||kofxbthodmiia.space^
 ||kohadfzjolyfy.website^
 ||kohiseewhatm.com^
@@ -33390,6 +33395,7 @@ vkcdnservice.appspot.com^
 ||pdjbkuevogfks.online^
 ||pdkiqznelwvdj.site^
 ||pdkxnkjozibbf.website^
+||pdlfjpqbiooic.com^
 ||pdllogging.qpon^
 ||pdn-1.com^
 ||pdn-2.com^
@@ -35877,6 +35883,7 @@ vkcdnservice.appspot.com^
 ||qlqdtgamhhnfe.site^
 ||qlsaqtqd.tattoo^
 ||qlsejdfqiqsvq.space^
+||qlsnflti.xyz^
 ||qlstwuvnfjpry.website^
 ||qltnuvieimllz.website^
 ||qlvbmnesodbob.space^
@@ -39239,6 +39246,7 @@ vkcdnservice.appspot.com^
 ||shrubburlyjaunty.com^
 ||shrubbysecantsfulsome.cfd^
 ||shrubspirate.com^
+||shrupsfuzz.cyou^
 ||shteoddyxckqn.online^
 ||shtetelaloysia.qpon^
 ||shticksyahuna.com^
@@ -45066,6 +45074,7 @@ vkcdnservice.appspot.com^
 ||vvavemweejphd.website^
 ||vvbxyvqcwsl.net^
 ||vvcgowtescmqa.website^
+||vvewkblqoewey.top^
 ||vvhtpupuhcixg.site^
 ||vvkholowfoeku.website^
 ||vvlqbmzjzmowm.top^
@@ -102556,6 +102565,8 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||stats-api.skylum.com^
+||aet.spotify.com^
 ||tc.weszxdrf.com^
 ||log.hotweathers.live^
 ||log.eufylife.com^
