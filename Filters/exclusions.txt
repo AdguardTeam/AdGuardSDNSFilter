@@ -153,6 +153,7 @@
 /(?:^\|\|?|^)(192\.168\.?[\d\.*]+)\|{0,1}$/
 !
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1690
+||api-ao.adison.co^
 ||api-ao-list.adison.co^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1645
 ||tangerine.io^
