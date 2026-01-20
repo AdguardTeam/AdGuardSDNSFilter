@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-20T16:11:27.075Z
+! Last modified: 2026-01-20T16:47:26.938Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -36897,6 +36897,7 @@ vkcdnservice.appspot.com^
 ||possessvampire.com^
 ||possibilityfoundationwallpaper.com^
 ||possiblefinish.pro^
+||possiblehighlight.pro^
 ||postagepantsthereupon.com^
 ||postaoz.xyz^
 ||postback.info^
@@ -41300,6 +41301,7 @@ vkcdnservice.appspot.com^
 ||scarcerpokomoo.com^
 ||scared-piece.pro^
 ||scareshortnovel.com^
+||scarfebual.cyou^
 ||scaridcheths.cfd^
 ||scarierbairnie.cyou^
 ||scarphwaxingsalemana.cyou^
@@ -49079,6 +49081,7 @@ vkcdnservice.appspot.com^
 ||werflaser.click^
 ||wertherqueered.qpon^
 ||wesicuros.com^
+||weskitsdelator.com^
 ||weskitstoiler.help^
 ||westcoa.com^
 ||wet-ambition.pro^
@@ -52879,6 +52882,7 @@ vkcdnservice.appspot.com^
 ||amobee.com^
 ||amxrtb.com^
 ||andbeyond.media^
+||aniview.com^
 ||anyclip-media.com^
 ||anymedia.lv^
 ||anyxp.com^
@@ -139388,6 +139392,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2006
+@@||ssai.aniview.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2007
 ! Blocked by CNAME data.adobedc.net
 @@||sedge.nfl.com^|
