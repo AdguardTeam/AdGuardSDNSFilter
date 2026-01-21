@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-21T06:12:23.120Z
+! Last modified: 2026-01-21T08:10:14.245Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10839,6 +10839,7 @@ vkcdnservice.appspot.com^
 ||baustajomaush.net^
 ||bavbfmokxwqtn.space^
 ||bavdxafbegkvr.space^
+||bawffrvfmmkto.online^
 ||bawhoafeemsik.net^
 ||bawixi.xyz^
 ||baxebejoaglumoa.net^
@@ -12723,6 +12724,7 @@ vkcdnservice.appspot.com^
 ||bvtpk.com^
 ||bvtznvqieofte.website^
 ||bvwmogqvhnsdi.site^
+||bvxcmktqplnet.space^
 ||bvyhpxikzylmn.space^
 ||bvyptevtmkdul.store^
 ||bvzmnmxnyvtkd.site^
@@ -24863,6 +24865,7 @@ vkcdnservice.appspot.com^
 ||hyu4exo2y4o6u5lf4f2v5tkqrkllj7rpb21.cyou^
 ||hyvirttguqnwt.online^
 ||hyvmmxgohrnpc.site^
+||hyxbszlipnfsp.online^
 ||hyxsdrztzlpdu.site^
 ||hyxtexjojub.xyz^
 ||hyxyjqiloewgl.website^
@@ -25111,6 +25114,7 @@ vkcdnservice.appspot.com^
 ||ieyzrxtaxfqpc.website^
 ||ieyzvpelpbnsp.space^
 ||iezxmddndn.com^
+||ifacusijrhiaj.space^
 ||ifadnfhgaozlo.store^
 ||ifaifterdudseey.net^
 ||ifaqirpgjntoc.site^
@@ -26218,6 +26222,7 @@ vkcdnservice.appspot.com^
 ||ivhuajmjwjuru.website^
 ||iviovqxlpvptw.space^
 ||ivlnszjtorszh.website^
+||ivmivrobvoxop.online^
 ||ivovxzyccyrws.online^
 ||ivqkhhsnuhgiu.site^
 ||ivstracker.net^
@@ -28316,6 +28321,7 @@ vkcdnservice.appspot.com^
 ||krfqlrxvmoyrj.online^
 ||krhfaycotsq.com^
 ||krhmtdzuxxmsc.space^
+||krhyrrfwvcx.xyz^
 ||krisydark.com^
 ||krjvcwfudssfx.website^
 ||krjxhvyyzp.com^
@@ -32706,6 +32712,7 @@ vkcdnservice.appspot.com^
 ||netcatx.com^
 ||netguard.mobi^
 ||netlikescalder.cyou^
+||netmenclowereldest.cyou^
 ||netobscenityoverdo.com^
 ||netpatas.com^
 ||netstam.com^
@@ -32806,6 +32813,7 @@ vkcdnservice.appspot.com^
 ||nfdxprxptlubs.buzz^
 ||nfexcdiuvfyuu.online^
 ||nff27oc6ixl7tuycm.cfd^
+||nffbeguvkbxit4hrr.cfd^
 ||nfiosxscjkkyq.space^
 ||nfitekfooeigt.website^
 ||nfliiqxnaadkx.online^
@@ -32904,6 +32912,7 @@ vkcdnservice.appspot.com^
 ||niecesweep.com^
 ||nievesouraris.cfd^
 ||nifebsuksy.net^
+||niftiespenster.qpon^
 ||nifty-pie.com^
 ||niftydistribution.pro^
 ||nigellatorero.qpon^
@@ -35531,6 +35540,7 @@ vkcdnservice.appspot.com^
 ||papeeheeph.net^
 ||paplikeverily.qpon^
 ||papmeatidigbo.com^
+||papouiyyrwxmiva.com^
 ||pappiernobbler.cfd^
 ||pappousmoriori.rest^
 ||papriksstrone.rest^
@@ -42715,6 +42725,7 @@ vkcdnservice.appspot.com^
 ||snailscheepedrinsers.cyou^
 ||snailthreatenedinvited.com^
 ||snajebrxiyiih.website^
+||snakerlauturejects.cfd^
 ||snammar-jumntal.com^
 ||snappedsafetysuccessfully.com^
 ||snappy-resort.com^
@@ -44479,6 +44490,7 @@ vkcdnservice.appspot.com^
 ||tauntstimbal.click^
 ||tauridimprime.help^
 ||taurmanba.qpon^
+||taurukausou.net^
 ||taustivoaglooy.com^
 ||taut-nature.com^
 ||tautingtortes.com^
@@ -48182,6 +48194,7 @@ vkcdnservice.appspot.com^
 ||visitweb.com^
 ||vistaseventhunkind.com^
 ||vistoolr.net^
+||visxgspesgovm.com^
 ||vital-formal.pro^
 ||vitaminendedclearing.com^
 ||vitiqbaajtbmd.site^
@@ -52250,6 +52263,7 @@ vkcdnservice.appspot.com^
 ||znpeduhjhauqz.space^
 ||znpefgbodmgjm.online^
 ||znqpmbfussykx.website^
+||znrakwmcjsvtm.online^
 ||znsebkpnpczim.website^
 ||zntlzwhzzlh.com^
 ||zntyosjbsivry.site^
@@ -56118,6 +56132,8 @@ vkcdnservice.appspot.com^
 !
 ! ||mobileapptracking.com^ - don't block this domain with all subdomains. https://forum.adguard.com/index.php?threads/23917/
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/222820
+||banner.bet365partners.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/221816
 ||playwire.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/221563
@@ -115698,6 +115714,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||stats.insighttimer.com^
 ||trackinglibrary.prodperfect.com^
 ||stats.sirdata.eu^
 ||events-sandbox.data.msn.com^
@@ -127088,7 +127105,6 @@ dlsdk.appsflyer.com^
 ||autoleasedi.bytelab.dk^
 ||ax.idg.se^
 ||backend.qimtek.se^
-||banner.bet365partners.com^
 ||banners.instaforex.com^
 ||banners.jldigital.se^
 ||banners.wsnonline.dk^
@@ -133368,6 +133384,9 @@ dlsdk.appsflyer.com^
 ||ehvkaakviw.com^
 ||kj4gddo30.com^
 ||svhw.cn^
+||u16d4beu5.com^
+||mvt0e2s72.com^
+||bugs01211ko.com^
 ||f92l2orpu3.com^
 ||yah3ph65tc.com^
 ||bugs01200ko.com^
