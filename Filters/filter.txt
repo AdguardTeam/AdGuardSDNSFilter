@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-26T14:12:01.761Z
+! Last modified: 2026-01-26T16:10:49.245Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -823,6 +823,32 @@
 ! https://github.com/AdguardTeam/FiltersRegistry/pull/937
 ! To fix the issue with the CNAME trackers, add problematic domains here:
 ! https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/exclusions.txt
+!
+! Galaksion: beixisys.com disguised advertising networks
+!
+! Company name: Galaksion
+||1x.x7zczyxetfnui36eh1ng.cyou^
+||24bli9y6q3.t3xfoqgb9mtincqxwnww4.cyou^
+||2q.ixfuiirowe8go9qw6z77ff3mz4.cyou^
+||2qg46e973pwz.ef3eu33z8leijf7i.cyou^
+||2u3ggp839i.5xf7eebgmv2j8bxxryc.cyou^
+||2u4qp6x9qnwb.x45ucfyi4zhtwej3m.cyou^
+||3golr.2vgrth1no4e5xwjvv4jte93t5iw9i.cyou^
+||5fthgyr3m.vqrl12rqhthjwl.cyou^
+||94lbhfbqz548hqpurbn3b.eglzh9hj9j62my.cyou^
+||hi6h5r463.tzxjxouw8on8r8rm3pf54.cyou^
+||kucjg5k48iyx4p3j.v6xxkggvzc1wzkk.cyou^
+||ll1j2ce7gq7orkz9olz.wbt9e9egqw6yq86ju2.cfd^
+||m8mu8hkvqg.jxupm8484pk6qx.cyou^
+||qb.5ufjktil58hct6638p8yb.cyou^
+||qogkroxz3.4m5cc9r6j8wqk1mw7.cyou^
+||v5gfu7hgt97r.ty3qlv3kvekfheq9pm3nmbj.cyou^
+||woo2vlcbqoo54nonhhzfgjnwjf.hc1y4vgklee75t.cyou^
+||x9ffnup.15b6ivr9tzt92juqkvq.cyou^
+||xw3hpqol9.t8vi3guzt3rc7o.cyou^
+||y4c71nr9ftptflo5pm.e8l82rej9reu64o.cyou^
+||yv3q5c28j.cxcuzgyhi48i7wurlhgfiv.cyou^
+||yvof4m5mtbbpejj8r.814j8o6piv3gpf.cyou^
 !
 ! RealBig : park.realbig.online disguised advertising networks
 !
@@ -5472,6 +5498,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||hbx.media.net^
 ||paa-reporting-advertising.amazon^
 ||v.tampermonkey.net^
 ||u.tampermonkey.net^
@@ -7039,6 +7066,7 @@ vkcdnservice.appspot.com^
 ||8s32e590un.com^
 ||8sfdladng.xyz^
 ||8tx5c29r928kyt.cfd^
+||8u341rglwjlyt68ro4hwbigmt3.cfd^
 ||8ufnem9bhxbfzqpz9n7.cfd^
 ||8v21z8kly1z4h514u2qp.cfd^
 ||8y83euwehq669vq9.cfd^
@@ -8692,6 +8720,7 @@ vkcdnservice.appspot.com^
 ||alchemymatchesconnections.com^
 ||alchemysocial.com^
 ||alcidaefecials.cyou^
+||alclebcom.xyz^
 ||alcoholcheckoccur.com^
 ||alcoholclavialpalaung.cfd^
 ||alcondevarella.cfd^
@@ -19239,6 +19268,7 @@ vkcdnservice.appspot.com^
 ||every-broad.com^
 ||every-square.pro^
 ||everybodycreeduphill.com^
+||everydayhomeless.com^
 ||everydowered.com^
 ||everyview.info^
 ||everywhererecorded.com^
@@ -20421,6 +20451,7 @@ vkcdnservice.appspot.com^
 ||flaw.cloud^
 ||flawerosion.com^
 ||flawgrandparentsmysterious.com^
+||flawlesscrack.pro^
 ||flawslightestvariability.com^
 ||flawyapio.help^
 ||flaxdescale.com^
@@ -26812,6 +26843,7 @@ vkcdnservice.appspot.com^
 ||jcqwudfidmevr.online^
 ||jcsbdfpddlahn.online^
 ||jcsjeisnswjmp.site^
+||jctgvlyyleexy.com^
 ||jcuaehwyrflch.online^
 ||jcudgbsxoamtt.website^
 ||jcvtdoqmifyzt.site^
@@ -35559,6 +35591,7 @@ vkcdnservice.appspot.com^
 ||oucouksirt.com^
 ||oucpambrmtexm.online^
 ||oudjmuimzsshw.space^
+||oudreedsix.com^
 ||oudsoordonouz.net^
 ||oueubcwstzemc.online^
 ||oufnltqwfhoea.space^
@@ -43134,6 +43167,7 @@ vkcdnservice.appspot.com^
 ||sinecartes.qpon^
 ||sinewyrotates.qpon^
 ||sinful-bad.pro^
+||singedwispierschmoos.cfd^
 ||singingprior.com^
 ||singledatetime.com^
 ||singledrunk.com^
@@ -48408,6 +48442,7 @@ vkcdnservice.appspot.com^
 ||uvtwcxrwiibvy.online^
 ||uvuawvcjpiyzt.online^
 ||uvulacoil.qpon^
+||uvw4n55ynik7z8q7qtjhk8nrj97.rest^
 ||uvwoqkhusxlhqjo.xyz^
 ||uwabrjujpsw.com^
 ||uwahagoyvuccd.website^
@@ -136603,6 +136638,10 @@ dlsdk.appsflyer.com^
 ||o0rnzwzst5.com^
 ||gsk801261hh.com^
 ||3dle4u60y7.com^
+||sqmn4wncty.com^
+||ulny.cn^
+||tluutoido.com^
+||pugzutzi.com^
 ||7ryx7ph5y.com^
 ||acqephvfx.com^
 ||m5uiy5gd1.com^
