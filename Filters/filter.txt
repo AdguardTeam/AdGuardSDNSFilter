@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-26T13:14:57.167Z
+! Last modified: 2026-01-26T14:12:01.761Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -17041,6 +17041,7 @@ vkcdnservice.appspot.com^
 ||dofywkplspqvu.online^
 ||dogeyintro.cyou^
 ||dogfallkeach.qpon^
+||doggishpharaoh.qpon^
 ||doggrelbricken.cyou^
 ||doggycrucis.shop^
 ||doghalf.com^
@@ -18986,6 +18987,7 @@ vkcdnservice.appspot.com^
 ||eriverwasquitefu.com^
 ||eriverwasquitefullo.com^
 ||erjmzyibsksrq.space^
+||erkmgkjqofkacw.com^
 ||erlfaabweilwi.website^
 ||erlxvtdjaotvqii.com^
 ||ermitcleaves.cfd^
@@ -25301,6 +25303,7 @@ vkcdnservice.appspot.com^
 ||idoelwwtfzkzo.website^
 ||idoeschikvwsn.website^
 ||idolinflectiongentlemen.com^
+||idolized-treat.pro^
 ||idolizedestimate.pro^
 ||idopabsapfobi.online^
 ||idopjhlwippgp.website^
@@ -28511,6 +28514,7 @@ vkcdnservice.appspot.com^
 ||kogajgxguzaxk.space^
 ||kohadfzjolyfy.website^
 ||kohempflying.cfd^
+||kohempsquam.cfd^
 ||kohiseewhatm.com^
 ||kohlsburrito.qpon^
 ||koiarikerooxidise.cyou^
@@ -32748,6 +32752,7 @@ vkcdnservice.appspot.com^
 ||myomeretchr.click^
 ||myonememinaway.cfd^
 ||myopiasdunnest.com^
+||myopiasnutteryasem.cfd^
 ||myositentrous.com^
 ||myowvxxsjkwvp.space^
 ||mypdcitiidimv.space^
@@ -42736,6 +42741,7 @@ vkcdnservice.appspot.com^
 ||shadecrafteclipse.co^
 ||shadowjav182.fun^
 ||shadowymonitor.pro^
+||shadowymood.pro^
 ||shadowyproduce.pro^
 ||shady-name.com^
 ||shaglurdoa.net^
@@ -42879,6 +42885,7 @@ vkcdnservice.appspot.com^
 ||shitcustody.com^
 ||shivermarchingchance.com^
 ||shiveyhoers.cfd^
+||shivoosfootway.shop^
 ||shkqlycquqiaf.space^
 ||shlltblnfofey.com^
 ||shlqalgholmyt.site^
@@ -49481,6 +49488,7 @@ vkcdnservice.appspot.com^
 ||vqkyzuhyyswzt.space^
 ||vqlhjhqkfmyou.online^
 ||vqllqlwuvsnwv.online^
+||vqlqsjnxtg.com^
 ||vqoqlebqqakmq.top^
 ||vqoqlebqqzvyq.top^
 ||vqqaelqkkzyry.top^
@@ -50719,6 +50727,7 @@ vkcdnservice.appspot.com^
 ||wjqpyvulryxtg.site^
 ||wjqtqnstdthrb.website^
 ||wjrjaeaaavckh.site^
+||wjssammow.com^
 ||wjtdpktsubtui.site^
 ||wjugygvvdouyk.space^
 ||wjvyorryojvyj.top^
@@ -52098,6 +52107,7 @@ vkcdnservice.appspot.com^
 ||xypfboanhelbs.space^
 ||xyroxqxhjcjzd.store^
 ||xysbvkskxvsyj.online^
+||xystculdee.qpon^
 ||xystersfurmety.cfd^
 ||xysxkzzygujpn.website^
 ||xyubqngzgscfk.website^
@@ -53464,6 +53474,7 @@ vkcdnservice.appspot.com^
 ||zoqvjyoojmyow.top^
 ||zorango.com^
 ||zordoabsolsooph.net^
+||zorseeckoaroa.net^
 ||zotnkataxyscx.online^
 ||zottjlemsnnrj.website^
 ||zoubpogaessse.website^
@@ -118879,6 +118890,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||matomo.eduwill.net^
 ||telemetry.eyeo.com^
 ||analytics.everythingstream.com^
 ||frontier.capcutw.us^
