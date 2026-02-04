@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-04T18:20:13.749Z
+! Last modified: 2026-02-04T20:12:06.186Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||one-new-message.com^
+||qwooxrmixmzi.com^
+||direct-specific.com
+||sacwumsf.com^
 ||irregularglancedyielded.com^
 ||footbathmockerpurse.com^
 ||bd92cdf877.com^
@@ -13271,6 +13275,7 @@ vkcdnservice.appspot.com^
 ||ceopu.com^
 ||cephei-b.com^
 ||cephoupharauts.net^
+||cepthdmcba.com^
 ||ceqgiawfjpxkwg.net^
 ||ceqyuidnlnyib.site^
 ||cerciogees.rest^
@@ -20878,6 +20883,7 @@ vkcdnservice.appspot.com^
 ||frequentjam.com^
 ||frequentlyadulatory.com^
 ||frequentlycharmsincomplete.com^
+||frequentlyvaried.com^
 ||frequentrequirement.com^
 ||frequentwhite.pro^
 ||frescozoilean.cfd^
@@ -21758,6 +21764,7 @@ vkcdnservice.appspot.com^
 ||genbalar.com^
 ||gendbkamiggxs.site^
 ||genderorganiccensus.com^
+||genepiavernal.shop^
 ||generalizebusinessman.com^
 ||generalwrap.pro^
 ||generationdissolvedplease.com^
@@ -41515,6 +41522,7 @@ vkcdnservice.appspot.com^
 ||ryepcqrlebdxd.website^
 ||ryevvglciwjxz.site^
 ||ryeweaver.com^
+||ryfssved.com^
 ||rygdzlvrladuc.store^
 ||ryhiuxqxohoiv.website^
 ||ryhkfuhxqbq8n27ix5wlwpm53n2jmt7.cfd^
@@ -45294,6 +45302,7 @@ vkcdnservice.appspot.com^
 ||telegraphfamouscucumbers.com^
 ||teleiafleshes.qpon^
 ||teleishlocks.qpon^
+||telesiskhakhamboonies.cyou^
 ||telesmdhal.help^
 ||televisiongrownupcrowd.com^
 ||telfordlula.rest^
@@ -50159,6 +50168,7 @@ vkcdnservice.appspot.com^
 ||wheyishbuckoes.cyou^
 ||whgcbgdsrqixx.rocks^
 ||whgugqkhydhg.net^
+||whhwcardntdge.com^
 ||whiboujaix.net^
 ||which-impact.pro^
 ||whichmeu.com^
@@ -121978,6 +121988,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ins.connatix.com^
+||lit.connatix.com^
 ||tracking.shopee.com.br^
 ||iv-datatracker.spx.shopee.sg^
 ||livetech.shopee.com.br^
@@ -126578,7 +126590,6 @@ dlsdk.appsflyer.com^
 ||in.treasuredata.com^
 ||ingest.make.rvapps.io^
 ||ingesteer.services-prod.nsvcs.net^
-||ins.connatix.com^
 ||insight.mintel.com^
 ||insights.sitesearch360.com^
 ||insitez.blob.core.windows.net^
@@ -126605,7 +126616,6 @@ dlsdk.appsflyer.com^
 ||lh.bigcrunch.com^
 ||link.informer.com^
 ||links.voyeurweb.com^
-||lit.connatix.com^
 ||literally-analytics.appspot.com^
 ||live.exchangesolutions.com^
 ||livestats.kaltura.com^
