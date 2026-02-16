@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-16T09:35:48.681Z
+! Last modified: 2026-02-16T09:49:21.082Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -14770,6 +14770,7 @@ vkcdnservice.appspot.com^
 ||coebvtnezjihq.online^
 ||coedmediagroup.com^
 ||coeinilcucb.net^
+||coelarcrypto.qpon^
 ||coeliabumpee.com^
 ||coeliacii.cyou^
 ||coelomescalae.cfd^
@@ -42959,6 +42960,7 @@ vkcdnservice.appspot.com^
 ||rimpirotunda.cyou^
 ||rimymeles.cfd^
 ||rindebackers.qpon^
+||rindleprotone.qpon^
 ||ringaunsoordoo.net^
 ||ringdisgustpostman.com^
 ||ringeddrama.com^
@@ -53486,6 +53488,7 @@ vkcdnservice.appspot.com^
 ||wkbkgxkjopxfc.space^
 ||wkbyglkyywtez.space^
 ||wkcbjznvitshu.online^
+||wkcguybdauzmm.site^
 ||wkcipnrwggdht.store^
 ||wkcnsrhvud.com^
 ||wkcopltrwchxf.space^
@@ -61168,7 +61171,6 @@ vkcdnservice.appspot.com^
 ||measureadv.com^
 ||at.artistchai.co.kr^
 ||data.artistchai.co.kr^
-||lighthouselabs.eu^
 ||adgeek.net^
 ||lgrckt-in.com^
 ||snssdk.gatedata.org^
@@ -143040,6 +143042,11 @@ dlsdk.appsflyer.com^
 ||xv62yli8iz.com^
 ||x35ehot6mu.com^
 ||gjqtsjmz1f.com^
+||i14laze0.xyz^
+||gohgn02161la.com^
+||vhdvjc.com^
+||dehudoz.com^
+||vkeqoidm.com^
 ||heuristic95.top^
 ||80753325p.com^
 ||f9bnlbgjf.com^
@@ -149288,9 +149295,6 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
-! https://github.com/AdguardTeam/AdguardFilters/issues/225035
-! Blocked by ||lighthouselabs.eu^
-@@||volkswagen.pl^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2006
 @@||ssai.aniview.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2007
