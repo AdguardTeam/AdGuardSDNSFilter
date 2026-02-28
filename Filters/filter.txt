@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-02-28T12:12:26.435Z
+! Last modified: 2026-02-28T14:07:27.362Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6695,6 +6695,7 @@ vkcdnservice.appspot.com^
 ||3pk9un9ftz3x72.cfd^
 ||3pkf5m0gd.com^
 ||3qfe1gfa.de^
+||3r5p51112ggm7ww1q4w.rest^
 ||3tn9czz7qmog33whf5.cfd^
 ||3vpb62tkymq85jj4fpw8yt7mnk.cfd^
 ||3wr110.net^
@@ -11299,6 +11300,7 @@ vkcdnservice.appspot.com^
 ||bdtarreitxmbb.website^
 ||bdthimglwawkb.site^
 ||bducfhglyadgr.website^
+||bduwesnxbmmjq.site^
 ||bdxhujrned.buzz^
 ||bdxiunxmokfdt.site^
 ||bdyfvkssumupj.website^
@@ -16626,6 +16628,7 @@ vkcdnservice.appspot.com^
 ||cyosekggqbrqw.space^
 ||cyphershaskard.qpon^
 ||cypresscaquet.qpon^
+||cyrygmwcekmath.com^
 ||cysclatowtdxq.website^
 ||cysodwprdoejs.online^
 ||cystousbuttery.cfd^
@@ -21304,6 +21307,7 @@ vkcdnservice.appspot.com^
 ||fartsoat.shop^
 ||fascespro.com^
 ||fascialbel.shop^
+||fascinegrudges.cfd^
 ||fascistcleomes.qpon^
 ||fasfsv-sli.love^
 ||fashercartop.cfd^
@@ -24638,6 +24642,7 @@ vkcdnservice.appspot.com^
 ||gplovaumydkv.com^
 ||gplywfirosiwd.one^
 ||gpmodmpdrwbrx.space^
+||gpprmgtpyzdlh.com^
 ||gppslmcuwg.net^
 ||gppxchiueswud.online^
 ||gpsecureads.com^
@@ -24911,6 +24916,7 @@ vkcdnservice.appspot.com^
 ||grmciysmhnyaj.site^
 ||grmtas.com^
 ||grnddeqgxnmyoa.net^
+||grnezkzjgcwvs.space^
 ||grnfwylvabmbb.website^
 ||grnvvxcjpbokg.site^
 ||groajodsaursie.net^
@@ -28680,6 +28686,7 @@ vkcdnservice.appspot.com^
 ||irymountain.org^
 ||irymqsskczira.website^
 ||irz6b9u5uux67jpgg9qj51j5878if1.rest^
+||irzebpsbojrbp.space^
 ||isabellaentire.com^
 ||isabellalive.cfd^
 ||isagogeidyler.cyou^
@@ -32902,6 +32909,7 @@ vkcdnservice.appspot.com^
 ||loaptaijuw.com^
 ||loastees.net^
 ||loathesparkledisperse.com^
+||loathsome-world.pro^
 ||loathsomeboy.com^
 ||loathsomechart.pro^
 ||loathsomecrack.com^
@@ -35609,6 +35617,7 @@ vkcdnservice.appspot.com^
 ||mtosefglxyxqr.website^
 ||mtowxcwnvhrnr.store^
 ||mtpjypfslr.com^
+||mtpwxvhl.xyz^
 ||mtqheoanjynwv.online^
 ||mtsgodwfzrvkn.site^
 ||mtssv.club^
@@ -44832,6 +44841,7 @@ vkcdnservice.appspot.com^
 ||rgcgjmruqf.com^
 ||rgemgnxejsmrt.online^
 ||rgezwfnbpigkd.site^
+||rgfxpnsqnrmeq.com^
 ||rggbgduyvylx.com^
 ||rggbguxuonpaqu.xyz^
 ||rggeolibxevzn.website^
@@ -50069,6 +50079,7 @@ vkcdnservice.appspot.com^
 ||tbgwyrxwtmfrh.site^
 ||tbimsmdlxsiam.website^
 ||tbjrtcoqldf.site^
+||tblsbzfxvamuk.website^
 ||tbnunoenoxnyi.site^
 ||tbogujbgj.net^
 ||tbomrnjwazblx.website^
@@ -50810,6 +50821,7 @@ vkcdnservice.appspot.com^
 ||tirmebbyynmip.website^
 ||tirrdoucker.qpon^
 ||tirtoukricmaje.net^
+||tirveintrap.qpon^
 ||tirwitrelents.cfd^
 ||tisaneata.com^
 ||tissoukrookrag.net^
@@ -57010,6 +57022,7 @@ vkcdnservice.appspot.com^
 ||xdlechibkgb.xyz^
 ||xdmamkqxatzrh.website^
 ||xdmanage.com^
+||xdmwyecqmbykn.website^
 ||xdmycvwgynylh.store^
 ||xdnfqnqucotpm.site^
 ||xdnklhggcsyll.online^
@@ -57019,6 +57032,7 @@ vkcdnservice.appspot.com^
 ||xdpnhlwixwdop.site^
 ||xdpnnqurquvuc.online^
 ||xdrelbgbndfnl.site^
+||xdspoexdjeaab.site^
 ||xdwstcvtdyyfg.website^
 ||xdyxzdkconsev.site^
 ||xebfomhenqxin.online^
@@ -58057,6 +58071,7 @@ vkcdnservice.appspot.com^
 ||yhqebnyrxckhp.online^
 ||yhsegbkmhvrgx.space^
 ||yhthfwhuecsil.website^
+||yhthngwzlwyot.online^
 ||yhtqjsomvhod.com^
 ||yhumgukqhfplw.site^
 ||yhveurptdou.com^
@@ -58209,6 +58224,7 @@ vkcdnservice.appspot.com^
 ||ymcflloytltvc.online^
 ||ymdqjgiecsdds.website^
 ||ymehnthakutyfor.com^
+||ymesagmvlgiuo.website^
 ||ymesowpfpcyao.site^
 ||ymfhftcrt.com^
 ||ymghkfnajwmpk.space^
@@ -58474,6 +58490,7 @@ vkcdnservice.appspot.com^
 ||ytccvtdtsfocf.online^
 ||ytdut.online^
 ||yteinseetlxto.website^
+||ytekaafvvgkji.online^
 ||yterxv.com^
 ||ytfzbogyvxjdd.online^
 ||ytgqjqpymyjvp.online^
