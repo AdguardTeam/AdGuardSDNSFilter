@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-03T00:36:52.169Z
+! Last modified: 2026-03-03T03:06:01.880Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -281,7 +281,6 @@
 ||bbmoe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bboy1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bclogin-check.com^$dnsrewrite=ad-block.dns.adguard.com
-||behim.click^$dnsrewrite=ad-block.dns.adguard.com
 ||bemobtrcks.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bemobtrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bestchainconnection.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -447,7 +446,6 @@
 ||gomsop.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gorclck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gotrackier.com^$dnsrewrite=ad-block.dns.adguard.com
-||graitsie.com^$dnsrewrite=ad-block.dns.adguard.com
 ||grfpr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gtbdhr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gys5.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -608,7 +606,6 @@
 ||offergate-software11.com^$dnsrewrite=ad-block.dns.adguard.com
 ||offergate-software20.com^$dnsrewrite=ad-block.dns.adguard.com
 ||offergate-software6.com^$dnsrewrite=ad-block.dns.adguard.com
-||oglalavoodoo.world^$dnsrewrite=ad-block.dns.adguard.com
 ||olopruy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||omegaadblock.net^$dnsrewrite=ad-block.dns.adguard.com
 ||omgt3.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -759,7 +756,6 @@
 ||srvqck11.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srvqck15.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srvqck3.com^$dnsrewrite=ad-block.dns.adguard.com
-||srvqck5.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srvtrck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stableflowconnection.co.in^$dnsrewrite=ad-block.dns.adguard.com
 ||staysafeonlinetoday.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -843,7 +839,6 @@
 ||viralnewsbd.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||viralvideoclip.info^$dnsrewrite=ad-block.dns.adguard.com
 ||virelon.com^$dnsrewrite=ad-block.dns.adguard.com
-||visitarkqr.click^$dnsrewrite=ad-block.dns.adguard.com
 ||visualmirage.co^$dnsrewrite=ad-block.dns.adguard.com
 ||vizoalygrenn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vmgjt.click^$dnsrewrite=ad-block.dns.adguard.com
@@ -854,7 +849,6 @@
 ||vstwerxerbc.top^$dnsrewrite=ad-block.dns.adguard.com
 ||vulnerableimmigrateaboveaverage.com^$dnsrewrite=ad-block.dns.adguard.com
 ||w0we.com^$dnsrewrite=ad-block.dns.adguard.com
-||waisheph.com^$dnsrewrite=ad-block.dns.adguard.com
 ||want-some-psh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wasanasosettoou.org^$dnsrewrite=ad-block.dns.adguard.com
 ||wbidder.online^$dnsrewrite=ad-block.dns.adguard.com
@@ -862,7 +856,6 @@
 ||webfanclub.com^$dnsrewrite=ad-block.dns.adguard.com
 ||webmedrtb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wetrackgames.com^$dnsrewrite=ad-block.dns.adguard.com
-||wettigo136.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wewearegogogo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wheceelt.net^$dnsrewrite=ad-block.dns.adguard.com
 ||wintrck.com^$dnsrewrite=ad-block.dns.adguard.com
