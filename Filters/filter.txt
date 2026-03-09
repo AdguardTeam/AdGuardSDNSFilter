@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-09T18:21:45.323Z
+! Last modified: 2026-03-09T18:29:18.765Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22292,6 +22292,7 @@ vkcdnservice.appspot.com^
 ||frap.site^
 ||fraplepintano.cfd^
 ||fraudcapable.com^
+||fraudulentquarter.com^
 ||frautkgibbbwj.space^
 ||frayed-coat.pro^
 ||frayhalfyear.com^
@@ -62900,7 +62901,7 @@ vkcdnservice.appspot.com^
 ||adsximg.com^
 ||static.terratraf.io^
 ||matomo.stackvaults.com^
-||moengage.com^
+||cdn.moengage.com^
 ||rapid-cdn.yottaa.com^
 ||rum-ingress-coralogix.com^
 ||elitebidder.com^
@@ -122092,6 +122093,7 @@ vkcdnservice.appspot.com^
 ||load.gtm.mikonomi.dk^
 ||load.gtm.mitchellandness.mx^
 ||load.gtm.modernageskin.com^
+||load.gtm.moengage.com^
 ||load.gtm.moncreditparfait.fr^
 ||load.gtm.moneybanker.dk^
 ||load.gtm.moneybanker.fr^
