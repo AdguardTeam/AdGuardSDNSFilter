@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-09T22:10:08.140Z
+! Last modified: 2026-03-10T00:33:09.489Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2577,7 +2577,6 @@
 ||fd01ce9a02.0012e30263.com^
 ||1c320d9ea6.43982bf480.com^
 ||37126f49b1.453f8e0630.com^
-||4b6e658780.900f44159b.com^
 ||ajs.allnestinfinite.com^
 ||ajs.bowintelligence.com^
 ||ajs.laketrend.com^
@@ -7036,6 +7035,7 @@ vkcdnservice.appspot.com^
 ||5ivtbbyp88eqrl.cfd^
 ||5ivy3ikkt.com^
 ||5l7f99wk28q8n2.cfd^
+||5l8i5yppjemm7xl9mxcw96vz.rest^
 ||5lt4bwv2fz9vhy.cfd^
 ||5mh7wp1gl3nvkx.cyou^
 ||5n6mbfgbw89w3iltb.cfd^
@@ -7396,6 +7396,7 @@ vkcdnservice.appspot.com^
 ||8z7u9hp771g4copqel.cfd^
 ||8z7wm6jwp29mvyzypp7oyok4obpw9k.cfd^
 ||8zf8lic5x4intf2.cfd^
+||900f44159b.com^
 ||903e9c75f6.com^
 ||905trk.com^
 ||9075bcc610.com^
@@ -8212,6 +8213,7 @@ vkcdnservice.appspot.com^
 ||adotone.com^
 ||adotube.com^
 ||adpacks.com^
+||adpahqji.in^
 ||adpass.co.uk^
 ||adpatrof.com^
 ||adperium.com^
@@ -19485,6 +19487,7 @@ vkcdnservice.appspot.com^
 ||electricalglimmerexasperate.com^
 ||electricalsedate.com^
 ||electricruin.pro^
+||electsauna.com^
 ||electthirteenth.com^
 ||elegancecharacter.com^
 ||elegant-plate.pro^
@@ -20626,6 +20629,7 @@ vkcdnservice.appspot.com^
 ||exposeunspeakabledynamite.com^
 ||exposuretigerphilip.com^
 ||expreme.cfd^
+||expremelatigos.qpon^
 ||expressjustifierlent.com^
 ||exptlgooney.com^
 ||exptrncaaidhs.site^
@@ -24029,9 +24033,11 @@ vkcdnservice.appspot.com^
 ||goesduck.com^
 ||goetybesort.qpon^
 ||gofouzmzhiuib.online^
+||gogeawrbp.com^
 ||gogglechivari.cfd^
 ||gogglednaps.help^
 ||gogglescoagentlaz.cfd^
+||gogkuvawtq.xyz^
 ||gogoga.xyz^
 ||gogrexarse.net^
 ||gohotygirl.com^
@@ -28553,6 +28559,7 @@ vkcdnservice.appspot.com^
 ||jaimirozadair.net^
 ||jaiphaugaw.net^
 ||jaiphoudidaust.net^
+||jakebizarreexclusively.com^
 ||jakeconventconcerned.com^
 ||jakedefy.com^
 ||jakobincide.help^
@@ -28723,6 +28730,7 @@ vkcdnservice.appspot.com^
 ||jdt8.net^
 ||jdtqbvirzetyc.website^
 ||jdvncnlwf.net^
+||jdvrlaqnp.com^
 ||jdwqsewrbvnnt.website^
 ||jdxnelgnhtfyq.space^
 ||jdxxuvnrpdmit.space^
@@ -33192,6 +33200,7 @@ vkcdnservice.appspot.com^
 ||managementgrandpa.com^
 ||manageshalfmoonaccess.com^
 ||managespassengerpresent.com^
+||mananabumpingbf.cyou^
 ||manateeacyloin.com^
 ||manatusintrofy.cyou^
 ||manbriaunneathbrashes.cyou^
@@ -34212,6 +34221,7 @@ vkcdnservice.appspot.com^
 ||mkfbgiwbkaslj.online^
 ||mkftlmoknwjao.space^
 ||mkgbfykqrmwti.site^
+||mkginjpl72i7flu.cfd^
 ||mkheimtslhtge.online^
 ||mkhoj.com^
 ||mkhqbrpssjuzg.website^
@@ -44756,6 +44766,7 @@ vkcdnservice.appspot.com^
 ||rubensfleur.cfd^
 ||rubereroot.qpon^
 ||rubestdealfinder.com^
+||rubidicflexiveharking.cfd^
 ||rubyblu.com^
 ||rucecnegkrxul.site^
 ||ruchingtooled.cyou^
@@ -46182,6 +46193,7 @@ vkcdnservice.appspot.com^
 ||shinebliss.com^
 ||shinedaffiedsirees.cyou^
 ||shinglerid.com^
+||shingonpuggry.cyou^
 ||shiningleafpath.com^
 ||shiny-toe.com^
 ||shinybarvelepigone.cfd^
@@ -48989,6 +49001,7 @@ vkcdnservice.appspot.com^
 ||tbimsmdlxsiam.website^
 ||tbjrtcoqldf.site^
 ||tblsbzfxvamuk.website^
+||tbmithra.com^
 ||tbnunoenoxnyi.site^
 ||tbogujbgj.net^
 ||tbomrnjwazblx.website^
@@ -52909,6 +52922,7 @@ vkcdnservice.appspot.com^
 ||veyjefplvkdjm.online^
 ||veymqlpxnqbih.website^
 ||vfamnpvtqmhpw.site^
+||vfaorhgal.in^
 ||vfcxsogc.com^
 ||vfdsfnvcaqyjd.space^
 ||vfedymrbwcsmw.net^
@@ -53064,6 +53078,7 @@ vkcdnservice.appspot.com^
 ||videocdnshop.com^
 ||videosprofitnetwork.com^
 ||videotapewagon.com^
+||vidjebudnvlyuqd.com^
 ||vidrugnirtop.net^
 ||vidryfanglet.qpon^
 ||vidscriptshark.com^
@@ -141849,6 +141864,7 @@ dlsdk.appsflyer.com^
 ||calmstudent.com^
 ||calvarycards.com^
 ||calypsocapsule.com^
+||camelsfestival.com^
 ||cannonborough.com^
 ||cannonchange.com^
 ||canvasandsocks.com^
@@ -154194,6 +154210,15 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||0wk6gdkg8r.com^
+||j5sgdum5n4.com^
+||lzdjxp.icu^
+||xdyn03100jy.com^
+||mediocre38.com^
+||vfcv.cn^
+||bhiohollun.com^
+||xscp03100xq.com^
+||jnlenb.icu^
 ||3hg6yh6h0.com^
 ||nb5a7g5r1.com^
 ||pztnzqwz.icu^
@@ -154214,6 +154239,7 @@ dlsdk.appsflyer.com^
 ||6k2fehacp.com^
 ||iremnazae.com^
 ||xscp03091xq.com^
+||op1z5h5171.com^
 ||drudgery89.com^
 ||wkjwumtex3.com^
 ||n1yy6blznk.com^
