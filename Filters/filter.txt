@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-12T06:23:32.295Z
+! Last modified: 2026-03-12T08:17:56.681Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6781,6 +6781,7 @@ vkcdnservice.appspot.com^
 ||33e70fcb8e.com^
 ||34-new-lambda.net^
 ||342ef7c20e.com^
+||342imaging.com^
 ||3434849c2e.com^
 ||34634rutx7l38xxob.cfd^
 ||34c2f9c751.com^
@@ -14375,6 +14376,7 @@ vkcdnservice.appspot.com^
 ||cheeksognoura.net^
 ||cheelteshed.net^
 ||cheemtutso.net^
+||cheeperinliersfeign.cfd^
 ||cheephaimaihakr.net^
 ||cheepswoibe.qpon^
 ||cheerfulcheckbookmason.com^
@@ -31544,6 +31546,7 @@ vkcdnservice.appspot.com^
 ||laolcwsd.tech^
 ||laoslloydskeeg.cfd^
 ||laoxkzqexiduv.website^
+||lapdmotmslqps.space^
 ||lapelmanbot.help^
 ||laphagrito.com^
 ||lapillitigre.qpon^
@@ -31715,6 +31718,7 @@ vkcdnservice.appspot.com^
 ||lcfamqtgupf.xyz^
 ||lcfauizghtxzb.website^
 ||lcfegzfnnayrz.website^
+||lcfzdtilsbpiu.site^
 ||lcgvdkaclfzft.website^
 ||lcgwkdjniixjb.store^
 ||lch9v39rrim7p4ogmwbzzj.rest^
@@ -34873,6 +34877,7 @@ vkcdnservice.appspot.com^
 ||moninas.store^
 ||monkeyarmiesdisturbing.com^
 ||monkeybroker.net^
+||monkeygerman.com^
 ||monkeyhundredsarmed.com^
 ||monkeysloveyou.com^
 ||monkishkecked.com^
@@ -36303,6 +36308,7 @@ vkcdnservice.appspot.com^
 ||nibbysherpasotol.cyou^
 ||niblicchimb.cfd^
 ||niblikekabob.cfd^
+||nibllvnmlrncf.website^
 ||nibungaminsinbowed.qpon^
 ||nibyobhikhaiu.online^
 ||nicatethebene.info^
@@ -41086,6 +41092,7 @@ vkcdnservice.appspot.com^
 ||pqetjycqquoet.space^
 ||pqexpfqppdfqe.site^
 ||pqfdfzjajlqhk.website^
+||pqhdiyvlkeg.com^
 ||pqhxqktq.xyz^
 ||pqidnaconivjv.site^
 ||pqkdmziebfiul.online^
@@ -42704,6 +42711,7 @@ vkcdnservice.appspot.com^
 ||qmqftdljsqqit.website^
 ||qmrelvevwlwlw.top^
 ||qmryzbpwvcodw.website^
+||qmslxhbiksdzi.site^
 ||qmvujqpcnwkma.website^
 ||qmvwjbawxsese.site^
 ||qmwkcavnwiibm.online^
@@ -42983,6 +42991,7 @@ vkcdnservice.appspot.com^
 ||qudbmtsluirkx.site^
 ||queachhewing.qpon^
 ||queachycorer.com^
+||queasommalignerecter.qpon^
 ||queasy-regular.pro^
 ||queasydashed.top^
 ||queasytonight.com^
@@ -44660,6 +44669,7 @@ vkcdnservice.appspot.com^
 ||rkfhmcdvprsbz.website^
 ||rkgwzfwjgk.com^
 ||rkhovdiminatedmo.org^
+||rkjamgshqcip.com^
 ||rkjtlnfhsocoz.store^
 ||rklghovcdg.com^
 ||rkndaxwnmlcwn.space^
@@ -44991,6 +45001,7 @@ vkcdnservice.appspot.com^
 ||rougthatsidhe.org^
 ||rouilleunswung.cyou^
 ||roujonoa.net^
+||round-extension.pro^
 ||roundaboutgnatuniversal.com^
 ||roundaboutpoisonousglobe.com^
 ||rounddescribe.com^
@@ -53520,6 +53531,7 @@ vkcdnservice.appspot.com^
 ||vfedymrbwcsmw.net^
 ||vfegfmbcyerbh.space^
 ||vfegqmbcgyndw.today^
+||vfeissowmnvyu.website^
 ||vfetupuyuwhso.space^
 ||vffncubbivrcm.website^
 ||vffottxgcmtyy.site^
@@ -55847,6 +55859,7 @@ vkcdnservice.appspot.com^
 ||wpnsrv.com^
 ||wpnxiswpuyrfn.icu^
 ||wpr9qgbvf8vn3v4nqofet6mwvl2hz.cfd^
+||wprdyqsmmmp.com^
 ||wpshsdk.com^
 ||wptcd.com^
 ||wptzryotgvxkk.space^
@@ -56387,6 +56400,7 @@ vkcdnservice.appspot.com^
 ||xdpnnqurquvuc.online^
 ||xdrelbgbndfnl.site^
 ||xdspoexdjeaab.site^
+||xdstszdlgjsda.website^
 ||xdwstcvtdyyfg.website^
 ||xdyxzdkconsev.site^
 ||xebfomhenqxin.online^
@@ -58046,6 +58060,7 @@ vkcdnservice.appspot.com^
 ||yztrxgyjcxcte.online^
 ||yzuflrxgejd.com^
 ||yzusmqxulljzm.website^
+||yzvbuuyrwpgqch.com^
 ||yzxbdzrnsyscx.rocks^
 ||yzyjcjmsylgbv.site^
 ||yzzakfgemqbsj.site^
