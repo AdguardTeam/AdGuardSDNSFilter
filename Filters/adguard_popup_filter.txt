@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-15T22:08:42.910Z
+! Last modified: 2026-03-16T00:41:14.045Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -206,7 +206,6 @@
 ||5wzgtq8dpk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||65spy7rgcu.com^$dnsrewrite=ad-block.dns.adguard.com
 ||6by30.com^$dnsrewrite=ad-block.dns.adguard.com
-||7flies12.de^$dnsrewrite=ad-block.dns.adguard.com
 ||8jfbt5va3r.com^$dnsrewrite=ad-block.dns.adguard.com
 ||905trk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||a-ads.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -342,7 +341,6 @@
 ||cntrealize.com^$dnsrewrite=ad-block.dns.adguard.com
 ||coastalbloom.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||colleem.com^$dnsrewrite=ad-block.dns.adguard.com
-||colorsealprosper.co^$dnsrewrite=ad-block.dns.adguard.com
 ||colossal-pathway.life^$dnsrewrite=ad-block.dns.adguard.com
 ||conestreshow.com^$dnsrewrite=ad-block.dns.adguard.com
 ||controlclickflow.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -671,7 +669,6 @@
 ||psockapa.net^$dnsrewrite=ad-block.dns.adguard.com
 ||pubadx.one^$dnsrewrite=ad-block.dns.adguard.com
 ||pubtrky.com^$dnsrewrite=ad-block.dns.adguard.com
-||pulsivecerebra.top^$dnsrewrite=ad-block.dns.adguard.com
 ||pupspu.com^$dnsrewrite=ad-block.dns.adguard.com
 ||push-sense.com^$dnsrewrite=ad-block.dns.adguard.com
 ||push1000.top^$dnsrewrite=ad-block.dns.adguard.com
@@ -695,7 +692,6 @@
 ||reebr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rel-s.com^$dnsrewrite=ad-block.dns.adguard.com
 ||resentreaccotia.com^$dnsrewrite=ad-block.dns.adguard.com
-||revertsskimmia.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||rexsrv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rhinoaffiliates.com^$dnsrewrite=ad-block.dns.adguard.com
 ||riflesurfing.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -744,7 +740,6 @@
 ||singledatetime.com^$dnsrewrite=ad-block.dns.adguard.com
 ||skated.co^$dnsrewrite=ad-block.dns.adguard.com
 ||skylindo.com^$dnsrewrite=ad-block.dns.adguard.com
-||skywardjourneys.co^$dnsrewrite=ad-block.dns.adguard.com
 ||slcuse.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sloto.live^$dnsrewrite=ad-block.dns.adguard.com
 ||smrtmnk2.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -850,7 +845,6 @@
 ||vmmcdn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||volleyballachiever.site^$dnsrewrite=ad-block.dns.adguard.com
 ||voluumtrk.com^$dnsrewrite=ad-block.dns.adguard.com
-||vpn-offers.org^$dnsrewrite=ad-block.dns.adguard.com
 ||vstwerxerbc.top^$dnsrewrite=ad-block.dns.adguard.com
 ||vulnerableimmigrateaboveaverage.com^$dnsrewrite=ad-block.dns.adguard.com
 ||w0we.com^$dnsrewrite=ad-block.dns.adguard.com
