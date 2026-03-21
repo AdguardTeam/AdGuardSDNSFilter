@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-03-21T06:18:05.158Z
+! Last modified: 2026-03-21T08:11:02.786Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -21161,6 +21161,7 @@ vkcdnservice.appspot.com^
 ||euvjyahxjdbgt.site^
 ||euwaqndyjyp.xyz^
 ||euwdsqkrxwhwu.online^
+||euwwoleald.com^
 ||euxwrrtbbo.xyz^
 ||euypkxfcy.com^
 ||euz.net^
@@ -23593,6 +23594,7 @@ vkcdnservice.appspot.com^
 ||fvahbwnlcqvaf.site^
 ||fvainjetmzyqi.online^
 ||fvaslplblqgzc.online^
+||fvawdzlobdrrv.online^
 ||fvcccifbvygvb.space^
 ||fvcm.net^
 ||fvcwqkkqmuv.com^
@@ -23618,6 +23620,7 @@ vkcdnservice.appspot.com^
 ||fvrttpyfqaigo.website^
 ||fvssmssxn.net^
 ||fvssmssxn.xyz^
+||fvtbmozgyaasj.website^
 ||fvtfjovvilyvu.online^
 ||fvtlqmpcmgcxe.online^
 ||fvtyvvrrzpmep.website^
@@ -27577,6 +27580,7 @@ vkcdnservice.appspot.com^
 ||huarkfwxdbvpz.online^
 ||huashiaspire.com^
 ||huawoyjmdtyag.love^
+||hubblyaltsdrink.qpon^
 ||hubbobshawny.qpon^
 ||hubbubmaneges.cfd^
 ||hubbytelephonedetermine.com^
@@ -28263,6 +28267,7 @@ vkcdnservice.appspot.com^
 ||igogofidvjas.xyz^
 ||igokedropit.net^
 ||igorotscind.qpon^
+||igozxvjvaehwt.site^
 ||igpnpnmbommga.website^
 ||igraard.xyz^
 ||igszvdjpvxqdt.online^
@@ -30381,6 +30386,7 @@ vkcdnservice.appspot.com^
 ||jncqlqqy.xyz^
 ||jndcdxcoqjroj.store^
 ||jndgnfrypjtsy.site^
+||jndmcjfjglkbe.site^
 ||jnelzpebcmtuu.space^
 ||jnfizwhqiowvz.space^
 ||jnhqfeejekruh.website^
@@ -30431,6 +30437,7 @@ vkcdnservice.appspot.com^
 ||johbxcfsjjumk.online^
 ||johnianthoman.qpon^
 ||johnsguzeratchicot.cyou^
+||johotuehxbdmo.site^
 ||johtrptx.com^
 ||joinhitched.cyou^
 ||joinmedianow.com^
@@ -31428,6 +31435,7 @@ vkcdnservice.appspot.com^
 ||kgcqegbyqnrnj.space^
 ||kgdvs9ov3l2aasw4nuts.com^
 ||kgdysfsmiepmp.online^
+||kgejrwflam.com^
 ||kgemxbnquuvhp.website^
 ||kgfjrb711.com^
 ||kggnwgbrbawfg.space^
@@ -31858,6 +31866,7 @@ vkcdnservice.appspot.com^
 ||knucklemonthsedifice.com^
 ||knurrymeaconafghani.cfd^
 ||knutenegros.pro^
+||knvhtkrrebdcv.space^
 ||knxcyvvibuvde.website^
 ||knyhnvzqbsqdc.website^
 ||knzsqrnnoagck.website^
@@ -39431,6 +39440,7 @@ vkcdnservice.appspot.com^
 ||onlyvpn.site^
 ||onlyyourbiglove.com^
 ||onmanectrictor.com^
+||onmovwpu.in^
 ||onmxgnsddjrrx.website^
 ||onmxrrvzhikqu.website^
 ||onpetropica.com^
@@ -39640,6 +39650,7 @@ vkcdnservice.appspot.com^
 ||optimal730.com^
 ||optimeagast.cyou^
 ||optimesiredon.cfd^
+||optimistic-inspection.com^
 ||optimisticirresponsibility.com^
 ||optimisticsort.pro^
 ||optimizepro.online^
@@ -53544,6 +53555,7 @@ vkcdnservice.appspot.com^
 ||ucwkvipzetzxc.space^
 ||ucwtbcluvjjivfn.net^
 ||ucwypnemwclwd.online^
+||ucxuxkiuixnye.space^
 ||ucyierazwsrpa.store^
 ||udbaa.com^
 ||udcoogwabmyta.online^
@@ -55695,6 +55707,7 @@ vkcdnservice.appspot.com^
 ||violet-attitude.pro^
 ||violet-space.pro^
 ||violet-throat.pro^
+||violetcommercial.com^
 ||violetsdentals.qpon^
 ||violistexla.qpon^
 ||violsvelella.qpon^
@@ -55899,6 +55912,7 @@ vkcdnservice.appspot.com^
 ||vmenlgdowysab.website^
 ||vmeukpzalflab.space^
 ||vmhkmzncyuxik.space^
+||vmhnqqckpajxv.space^
 ||vmhrqjvddhnwp.site^
 ||vmhvdavztzysp.online^
 ||vmicdkmpvgbqt.online^
@@ -151397,8 +151411,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-03-13 10:01:18 CET
-# entries:        1152
+# last updated:   2026-03-21 07:41:47 CET
+# entries:        1155
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||a.zxcvads.com^
@@ -151820,6 +151834,7 @@ dlsdk.appsflyer.com^
 ||tourn.co^
 ||tourn.se^
 ||tr.apsisforms.com^
+||track.mediaintelliview.com^
 ||track.yetric.net^
 ||tracker.zummycloud.com^
 ||tracker.kollega.open-analytics.se^
