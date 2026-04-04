@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-04T20:09:57.197Z
+! Last modified: 2026-04-04T22:09:37.857Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -314,8 +314,6 @@
 ||cddtsecure.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ceramicturtleremnant.com^$dnsrewrite=ad-block.dns.adguard.com
 ||checkcdn.net^$dnsrewrite=ad-block.dns.adguard.com
-||choogeet.net^$dnsrewrite=ad-block.dns.adguard.com
-||choosingoffer.lol^$dnsrewrite=ad-block.dns.adguard.com
 ||chpadblock.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ciencia.ao^$dnsrewrite=ad-block.dns.adguard.com
 ||clearwatch.tv^$dnsrewrite=ad-block.dns.adguard.com
@@ -338,7 +336,6 @@
 ||coolserving.com^$dnsrewrite=ad-block.dns.adguard.com
 ||coosync.com^$dnsrewrite=ad-block.dns.adguard.com
 ||coticoffee.com^$dnsrewrite=ad-block.dns.adguard.com
-||countertrck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cpacrack.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cradaygo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crockadilla.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -351,27 +348,21 @@
 ||date2024.com^$dnsrewrite=ad-block.dns.adguard.com
 ||date4sex.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||datedeskads.com^$dnsrewrite=ad-block.dns.adguard.com
-||datesassistant.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dateyou2024.com^$dnsrewrite=ad-block.dns.adguard.com
 ||datingforyour4.site^$dnsrewrite=ad-block.dns.adguard.com
 ||debaucky.com^$dnsrewrite=ad-block.dns.adguard.com
 ||deepsathegoh.com^$dnsrewrite=ad-block.dns.adguard.com
-||degg.site^$dnsrewrite=ad-block.dns.adguard.com
 ||degreedistance.cfd^$dnsrewrite=ad-block.dns.adguard.com
-||deluxe-download.com^$dnsrewrite=ad-block.dns.adguard.com
 ||demowebcode.online^$dnsrewrite=ad-block.dns.adguard.com
 ||di7stero.com^$dnsrewrite=ad-block.dns.adguard.com
 ||diagramjawlineunhappy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dianomi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||directdexchange.com^$dnsrewrite=ad-block.dns.adguard.com
-||disable-adverts.com^$dnsrewrite=ad-block.dns.adguard.com
 ||displayvertising.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dithodackee.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dlrectdates.com^$dnsrewrite=ad-block.dns.adguard.com
 ||domainparkingmanager.it^$dnsrewrite=ad-block.dns.adguard.com
 ||donkeyflower.xyz^$dnsrewrite=ad-block.dns.adguard.com
-||doostozoa.net^$dnsrewrite=ad-block.dns.adguard.com
-||downloading-addon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dpuppers.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dreamteamaffiliates.com^$dnsrewrite=ad-block.dns.adguard.com
 ||drsmediaexchange.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -382,11 +373,9 @@
 ||easelegbike.com^$dnsrewrite=ad-block.dns.adguard.com
 ||easyconverts.com^$dnsrewrite=ad-block.dns.adguard.com
 ||eeco.xyz^$dnsrewrite=ad-block.dns.adguard.com
-||eetognauy.net^$dnsrewrite=ad-block.dns.adguard.com
 ||efficientorbit.co^$dnsrewrite=ad-block.dns.adguard.com
 ||emancytal.com^$dnsrewrite=ad-block.dns.adguard.com
 ||endlessloveonline.online^$dnsrewrite=ad-block.dns.adguard.com
-||enframement.pics^$dnsrewrite=ad-block.dns.adguard.com
 ||enrtx.com^$dnsrewrite=ad-block.dns.adguard.com
 ||escortlist.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||evil-candle.pro^$dnsrewrite=ad-block.dns.adguard.com
