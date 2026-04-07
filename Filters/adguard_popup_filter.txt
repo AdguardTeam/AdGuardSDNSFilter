@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-07T04:52:51.429Z
+! Last modified: 2026-04-07T06:37:49.430Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -383,25 +383,20 @@
 ||exclkplat.com^$dnsrewrite=ad-block.dns.adguard.com
 ||exclplatmain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||expdirclk.com^$dnsrewrite=ad-block.dns.adguard.com
-||extension-ad-stopper.com^$dnsrewrite=ad-block.dns.adguard.com
 ||extsoft.info^$dnsrewrite=ad-block.dns.adguard.com
 ||exxtended-access.com^$dnsrewrite=ad-block.dns.adguard.com
 ||eyewondermedia.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fantabro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fascespro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fastdntrk.com^$dnsrewrite=ad-block.dns.adguard.com
-||fbpqvs.com^$dnsrewrite=ad-block.dns.adguard.com
 ||finanvideos.com^$dnsrewrite=ad-block.dns.adguard.com
 ||finder2024.com^$dnsrewrite=ad-block.dns.adguard.com
-||flowldsb.online^$dnsrewrite=ad-block.dns.adguard.com
 ||flowldsf.online^$dnsrewrite=ad-block.dns.adguard.com
 ||flyingadvert.com^$dnsrewrite=ad-block.dns.adguard.com
 ||foerpo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||foflf.com^$dnsrewrite=ad-block.dns.adguard.com
-||forooqso.tv^$dnsrewrite=ad-block.dns.adguard.com
 ||freetrckr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||frequentjam.com^$dnsrewrite=ad-block.dns.adguard.com
-||freshpops.net^$dnsrewrite=ad-block.dns.adguard.com
 ||fstsrv9.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fuck-ads.vercel.app^$dnsrewrite=ad-block.dns.adguard.com
 ||fuse-cloud.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -412,7 +407,6 @@
 ||gb1aff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gemfowls.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gensonal.com^$dnsrewrite=ad-block.dns.adguard.com
-||gentwoleads.top^$dnsrewrite=ad-block.dns.adguard.com
 ||get-gx.net^$dnsrewrite=ad-block.dns.adguard.com
 ||getsthis.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gkrtmc.com^$dnsrewrite=ad-block.dns.adguard.com
