@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-08T22:18:10.953Z
+! Last modified: 2026-04-09T00:35:07.036Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2830,7 +2830,6 @@
 ||281dcaa0de.aca4f6c07c.com^
 ||2f7cae6ec9.a41ffeba4a.com^
 ||35fb78fd0a.c1068112e7.com^
-||3678303e7a.73e3c9d09d.com^
 ||375ba732b4.e3a9997095.com^
 ||468a72fe3d.5534a1fe5d.com^
 ||4fc2d0c0e2.abb030d6a7.com^
@@ -7128,6 +7127,7 @@ vkcdnservice.appspot.com^
 ||3nv8w7p84tlxm1nugjpwi5eyy.rest^
 ||3pkf5m0gd.com^
 ||3qfe1gfa.de^
+||3ve8tk6lpz1k5fz4z.cfd^
 ||3vmv6fcl3olf8y5ocm.cfd^
 ||3vynh4rw9vnr8z.cfd^
 ||3wr110.net^
@@ -7395,6 +7395,7 @@ vkcdnservice.appspot.com^
 ||735pwa.com^
 ||73660f6efb.com^
 ||73a435bfaf.com^
+||73e3c9d09d.com^
 ||73ed366d3137ec936bd60b1184467776.com^
 ||73fbab0eb4.com^
 ||73gpv6um94owqo1vwjc.rest^
@@ -13327,6 +13328,7 @@ vkcdnservice.appspot.com^
 ||cluinglwo.qpon^
 ||clumberpalsies.cyou^
 ||clumperrucksey.life^
+||clumsy-concern.pro^
 ||clumsybuttonbristle.com^
 ||clunkyentirelinked.com^
 ||clupienreliefs.com^
@@ -19443,6 +19445,7 @@ vkcdnservice.appspot.com^
 ||galybgqqxjhil.space^
 ||gam3ah.com^
 ||gambar123.com^
+||gambianvanirgeikia.cfd^
 ||gamblescripee.qpon^
 ||gamdiamistify.cyou^
 ||gameads.io^
@@ -22401,6 +22404,7 @@ vkcdnservice.appspot.com^
 ||humblerenamour.com^
 ||humblietucanonife.cfd^
 ||humflingenmity.com^
+||humhpdxpqau.com^
 ||humiliatedbreeches.com^
 ||humiliatemoot.com^
 ||humiliating-feature.pro^
@@ -26153,6 +26157,7 @@ vkcdnservice.appspot.com^
 ||k62ey3mkjxq5xoxo55nyuz9vwztj.cfd^
 ||k658wboqe53ffqxn.cfd^
 ||k68tkg.com^
+||k68y9fb6o7rvuzzvbmh2c.rest^
 ||k6mfhwqkcvthzrmm2jwfbt.cfd^
 ||k6w3mnr6b8gq7jrl7rhlg829.cfd^
 ||k75h6wizey9n2iy7.cfd^
@@ -31882,6 +31887,7 @@ vkcdnservice.appspot.com^
 ||mqaltftzmrezi.space^
 ||mqblrvvnppqxw.online^
 ||mqbwqsvxfwzos.site^
+||mqcbifspfrpn.com^
 ||mqdownload.com^
 ||mqedledjjjdad.website^
 ||mqfkcfvpmiiem.website^
@@ -40659,6 +40665,7 @@ vkcdnservice.appspot.com^
 ||quackoutsee.cyou^
 ||quackupsilon.com^
 ||quagfa.com^
+||quaggyopeluoxter.qpon^
 ||quahaugpflag.cfd^
 ||quailsspoony.cyou^
 ||quaintbitter.com^
@@ -52430,6 +52437,7 @@ vkcdnservice.appspot.com^
 ||vappasurfier.qpon^
 ||vaprimate.cfd^
 ||vaqjgbsmdrqzp.website^
+||vaqsanopm.in^
 ||vaqyiofszrvet.online^
 ||vaqykqyvvazbz.top^
 ||varangigou.com^
@@ -53475,6 +53483,7 @@ vkcdnservice.appspot.com^
 ||vowlvgdgbkqmv.online^
 ||vowsavageskim.com^
 ||vowthreehilarious.com^
+||vowwyaqxc.com^
 ||voxar.xyz^
 ||voxozvccofzwc.website^
 ||voyagedearanatomy.com^
@@ -146476,6 +146485,7 @@ dlsdk.appsflyer.com^
 ||abstractedauthority.com^
 ||absurdapple.com^
 ||abundantcoin.com^
+||accountgram.com^
 ||accountsdoor.com^
 ||accurateanimal.com^
 ||acebunny.com^
@@ -146528,6 +146538,7 @@ dlsdk.appsflyer.com^
 ||ambiguousincome.com^
 ||ambrosialsummit.com^
 ||amethystzenith.com^
+||amidsttruly.com^
 ||amuckafternoon.com^
 ||amusedbucket.com^
 ||amusementmorning.com^
@@ -159081,6 +159092,14 @@ dlsdk.appsflyer.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||rf23ecvf4.com^
+||zwbngpnpa.com^
+||wubizigeng.com^
+||zlbnjb.icu^
+||txtvrp.icu^
+||jwt18trhq.com^
+||overflow33.com^
+||vtrelphail.com^
 ||ry7icaih0p.com^
 ||ylr1xn2b4i.com^
 ||tvfvxr.icu^
@@ -163277,7 +163296,6 @@ dlsdk.appsflyer.com^
 ||qpqp05100oki.com^
 ||rdut.cn^
 ||sdwrghcv.top^
-||wubizigeng.com^
 ||fktaxk.top^
 ||mppanittie.com^
 ||unwucnt.top^
