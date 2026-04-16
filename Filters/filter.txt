@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-16T18:31:08.592Z
+! Last modified: 2026-04-16T20:20:18.609Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||bigcrunch.com^
 ||go.gsrv.dev^
 ||gatheringtypes.com^
 ||hoerenjs.b-cdn.net^
@@ -9977,6 +9978,7 @@ vkcdnservice.appspot.com^
 ||asukedrevenfe.com^
 ||asukedrevenue.org^
 ||asunderfacilitydealt.com^
+||asuzkfratdmng.space^
 ||asvavjlpiwpa.in^
 ||aswailwameful.qpon^
 ||asxtutrchzxpw.com^
@@ -12378,6 +12380,7 @@ vkcdnservice.appspot.com^
 ||bvewsgtwrbnaw.space^
 ||bvhxiysrndwbg.site^
 ||bvjtlavxjzbwe.site^
+||bvkviwotugqlq.com^
 ||bvmcdn.com^
 ||bvmcdn.net^
 ||bvpkcbprgbsrd.online^
@@ -14701,6 +14704,7 @@ vkcdnservice.appspot.com^
 ||ct11.biz^
 ||ctasnet.com^
 ||ctbfleegqpvkx.online^
+||ctbgqwntsjqvg.online^
 ||ctbospityczgj.website^
 ||ctbucqcndifdt.online^
 ||ctcdwm.com^
@@ -16430,6 +16434,7 @@ vkcdnservice.appspot.com^
 ||dpfhmglkprqrrqk.com^
 ||dphheyqbwgaau.online^
 ||dpiixydxabnkh.site^
+||dpjvhxvtazczc.com^
 ||dpkpnzbtbkqmg.buzz^
 ||dpkscisydbyzp.space^
 ||dpmsrv.com^
@@ -25911,6 +25916,7 @@ vkcdnservice.appspot.com^
 ||jdraskbpyqgpi.site^
 ||jdropaegdvook.website^
 ||jdrqynzqulyjz.website^
+||jdsqdftmzvwch.site^
 ||jdssykdlwygwj.site^
 ||jdt8.net^
 ||jdtqbvirzetyc.website^
@@ -26004,6 +26010,7 @@ vkcdnservice.appspot.com^
 ||jespekvtcgfuu.website^
 ||jesperuphoard.qpon^
 ||jessamyclink.com^
+||jessantwowedstoled.qpon^
 ||jesseanchufa.cyou^
 ||jessurcleamer.shop^
 ||jestbiases.com^
@@ -29850,6 +29857,7 @@ vkcdnservice.appspot.com^
 ||lithogsld.shop^
 ||litholprehaps.cyou^
 ||liticismoverneme.org^
+||litmuswungee.cyou^
 ||litowlzmav.in^
 ||litteracywing.pro^
 ||litterarenadisembroildisembroil.com^
@@ -32348,6 +32356,7 @@ vkcdnservice.appspot.com^
 ||missherself.com^
 ||misshipguilds.qpon^
 ||missilemargin.com^
+||missimqalmviy.website^
 ||missingsupervisetwins.com^
 ||missiondues.com^
 ||missionsalinas.cyou^
@@ -38743,6 +38752,7 @@ vkcdnservice.appspot.com^
 ||pfmmzmdba.com^
 ||pfmysfni.xyz^
 ||pfncqrfxcxzmn.site^
+||pfoaclkupfhu.in^
 ||pfokxvbijybwy.space^
 ||pfosuclihgjxi.space^
 ||pfpmdbyighkrn.online^
@@ -40438,6 +40448,7 @@ vkcdnservice.appspot.com^
 ||profitsence.com^
 ||profitssulfowiner.cyou^
 ||profoundshaken.com^
+||profuse-housing.pro^
 ||profusegain.pro^
 ||progenyaimless.com^
 ||progenybanquet.com^
@@ -42243,6 +42254,7 @@ vkcdnservice.appspot.com^
 ||quaybeware.com^
 ||qubakqrsnvr.com^
 ||qubbitkwznett.space^
+||qubdlpfoducag.website^
 ||qubhjnodheizn.site^
 ||qubisticss.com^
 ||quctpaza.in^
@@ -50475,6 +50487,7 @@ vkcdnservice.appspot.com^
 ||thebestgame2020.com^
 ||thebetterdealz.com^
 ||thecarconnections.com^
+||thecialoktaanidian.cyou^
 ||thecialuptake.cyou^
 ||theciumspale.qpon^
 ||thecmaixoupis.net^
@@ -59557,6 +59570,7 @@ vkcdnservice.appspot.com^
 ||yiv4fpzy3r1nwwl.cfd^
 ||yivtsnnmutzkb.site^
 ||yiwqcxwajqouq.website^
+||yixxmqfcyjmbi.website^
 ||yiydsygynhskw.space^
 ||yizghfwqrbhgy.space^
 ||yizjfsgpdtkpq.space^
@@ -66549,8 +66563,6 @@ vkcdnservice.appspot.com^
 ||citrusad.net^
 ||pubperf.com^
 ||stats.getaim.org^
-||dev-analytics-cf.bigcrunch.com^
-||analytics-cf.bigcrunch.com^
 ||tongjiniao.com^
 ||first-id.fr^
 ||pixad.com.tr^
@@ -147892,7 +147904,6 @@ dlsdk.appsflyer.com^
 ||leads.whatboxdigital.com^
 ||leadtracking.plumvoice.com^
 ||leadvision.dotmailer.co.uk^
-||lh.bigcrunch.com^
 ||link.bhvr.com^
 ||link.informer.com^
 ||links.voyeurweb.com^
