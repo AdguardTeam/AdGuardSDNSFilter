@@ -1,11 +1,9 @@
 #!/bin/bash
+set -euo pipefail
 
 # Log file
 LOG_FILE="build.log"
-echo "" > "$LOG_FILE"
-
-# Exit immediately if a command exits with a non-zero status
-set -e
+: > "$LOG_FILE"
 
 # Compiling AdGuard DNS filter
 echo "=== Compiling AdGuard DNS filter ===" | tee -a "$LOG_FILE"
