@@ -3,9 +3,9 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-20T06:53:57.304Z
+! Last modified: 2026-04-20T08:38:00.283Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.38
+! Compiled by @adguard/hostlist-compiler v2.1.0
 !
 !
 ! Source name: AdGuard Base filter ad servers
@@ -205,6 +205,7 @@
 ||arrasinutile.com^
 ||adtscriptshark.com^
 ||protect-myphone.com^
+||107.148.45.21^
 ||sosalkebab.com^
 ||droplink.digital^
 ||openads.aira.cz^
@@ -876,7 +877,6 @@
 ! Frequently changed domains with the same IP
 ! For example: https://pornxp.com/videos/77778518360
 ||188.72.219.36^
-188.72.219.36^
 !
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/142
 ||stripe.rs-1028-a.com^
@@ -6242,6 +6242,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ads.starzd.pro^
 ||advertising.civitai.
 ||iwad.cachefly.net^
 ||ad-server.linkvertise.com^
@@ -7932,6 +7933,7 @@ vkcdnservice.appspot.com^
 ||aboutpersonify.com^
 ||abouttill.com^
 ||aboveaverageguidancecarter.com^
+||aboveaverageheavenly.com^
 ||abovemyselfsadness.com^
 ||aboveredirect.top^
 ||abpicsrc.com^
@@ -13395,6 +13397,7 @@ vkcdnservice.appspot.com^
 ||cheungtreron.qpon^
 ||chezoams.com^
 ||chfpgcbe.com^
+||chfqcsadfkkqw.space^
 ||chganwddpxhmw.online^
 ||chgoakspitied.cfd^
 ||chhencmmgwogk.space^
@@ -13727,6 +13730,7 @@ vkcdnservice.appspot.com^
 ||clevernt.com^
 ||cleverunjuicysolein.cyou^
 ||cleverwebserver.com^
+||clfctybv.com^
 ||clhxzrqdatxqm.store^
 ||clicadu.com^
 ||click-cdn.com^
@@ -15350,6 +15354,7 @@ vkcdnservice.appspot.com^
 ||daoxwweomcsvt.site^
 ||daphnews.com^
 ||dapper.net^
+||darbhatahakinkier.qpon^
 ||dardzeglhpsqv.tech^
 ||daredjadedormitory.com^
 ||daring-street.pro^
@@ -24747,6 +24752,7 @@ vkcdnservice.appspot.com^
 ||iykrqkfbduoxn.site^
 ||iylmylijdicmv.site^
 ||iylwnmnnchzkq.website^
+||iymihwrynzdwx.online^
 ||iymvmpyfsqnui.site^
 ||iyodewlrk.com^
 ||iypxxhjdiwggg.website^
@@ -26336,6 +26342,7 @@ vkcdnservice.appspot.com^
 ||knudsengrillee.cyou^
 ||knutenegros.pro^
 ||knvhtkrrebdcv.space^
+||knwaiimhcziae.website^
 ||knwjmjujhadoo.site^
 ||knxcyvvibuvde.website^
 ||knxnrqidbmlen.site^
@@ -28019,6 +28026,7 @@ vkcdnservice.appspot.com^
 ||lullfork.com^
 ||lullprivacyheater.com^
 ||lumaktoys.com^
+||lumbering-form.com^
 ||lumberingtomorrow.pro^
 ||luminosoocchio.com^
 ||luminousrev.com^
@@ -28089,6 +28097,7 @@ vkcdnservice.appspot.com^
 ||lvizjwwjbnhuh.space^
 ||lvjczzaojopzc.website^
 ||lvksiviwpenew.website^
+||lvlzdktkhjxsz.online^
 ||lvqcfuwngsaxmp.com^
 ||lvuafqlps.com^
 ||lvubwrnhxktlo.online^
@@ -29214,6 +29223,7 @@ vkcdnservice.appspot.com^
 ||mkheimtslhtge.online^
 ||mkhoj.com^
 ||mkingffpvupjd.space^
+||mkipphpyiymso.site^
 ||mkjsqrpmxqdf.com^
 ||mklygiferedme.site^
 ||mkodhnvnhpmlw.online^
@@ -34291,6 +34301,7 @@ vkcdnservice.appspot.com^
 ||pjtlsfmqzytrh.website^
 ||pjvcbvjfrzniy.site^
 ||pjvnrhgklxcgb.xyz^
+||pjxsszmrubqjb.site^
 ||pjxvqktztdcsz.online^
 ||pjymxkdv.xyz^
 ||pjzftkxmyzuat.space^
@@ -35861,6 +35872,7 @@ vkcdnservice.appspot.com^
 ||ptelastaxo.com^
 ||pteleaspiring.top^
 ||ptemsoaksol.net^
+||ptemzxprbpjpl.site^
 ||ptengaitchu.net^
 ||ptephatauss.net^
 ||pterianrashti.cyou^
@@ -39011,6 +39023,7 @@ vkcdnservice.appspot.com^
 ||rgmhynhrzzsao.site^
 ||rgmuksfuciowy.online^
 ||rgmuvspukfmfo.site^
+||rgniasgdctjrv.site^
 ||rgobrulzyjxyt.site^
 ||rgp6pzvvrpkf2jc.rest^
 ||rgpvxqajmerex.website^
@@ -45724,6 +45737,7 @@ vkcdnservice.appspot.com^
 ||thereafterblazingclass.com^
 ||thereare.cfd^
 ||thereforeprisoniso.com^
+||theresehoodingalcippe.qpon^
 ||theretenoned.com^
 ||theretounstuff.cyou^
 ||thermalcustom.com^
@@ -51787,6 +51801,7 @@ vkcdnservice.appspot.com^
 ||weirdopt.com^
 ||weirdostaskeddugout.cfd^
 ||weirdsentence.com^
+||weitrtlsbs.com^
 ||weje47upli2mmhxmqvmygox3.cfd^
 ||wejiwbdmshwoq.online^
 ||wejqzsufiutaa.site^
@@ -58233,12 +58248,6 @@ vkcdnservice.appspot.com^
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
 /(https?:\/\/)51\.195\.31\..{100,}/
-||158.247.208.
-||23.109.82.
-||23.109.87.
-! Altice / Optimum / CableVision injects ads
-! https://github.com/ryanbr/fanboy-adblock/issues/816
-|167.206.10.148^
 !
 ! Source name: EasyList specific block
 ! Source: https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easylist/easylist_specific_block.txt
@@ -148616,19 +148625,17 @@ dlsdk.appsflyer.com^
 ||206.54.181.250^
 !
 ||popvalk.com^
-193.200.65.61^
 !
 ||bjiuck.com^
-62.76.25.27^
-62.76.25.28^
+||62.76.25.27^
+||62.76.25.28^
 !
 ! This IP hosts advertising domains that promote yandex.
-45.82.68.79^
+||45.82.68.79^
 !
 !
 ! Ads reinjection (For apps only)
 !
-||greencuttlefish.com^
 !
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 ||adbetnet.com^
@@ -150924,8 +150931,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Apr 2026 09:58 UTC+7
-! Version: 2604090958
+! Last modified: 20 Apr 2026 14:38 UTC+7
+! Version: 2604201438
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -151716,9 +151723,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 09 Apr 2026 09:58 UTC+7
-! Version: 2604090958
-! Blocked: 4.861 rules
+! Last modified: 20 Apr 2026 14:37 UTC+7
+! Version: 2604201437
+! Blocked: 4.862 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -152294,6 +152301,7 @@ dlsdk.appsflyer.com^
 ||dangkyvay-bank247.net^
 ||dangkyvaybidv.com^
 ||dangnhaphoso.com^
+||danntri.com^
 ||dantri.live^
 ||dantrii.info^
 ||daohannganhang.click^
@@ -152521,6 +152529,7 @@ dlsdk.appsflyer.com^
 ||facebook.c0m.ltd^
 ||facebook10002158.blogspot.com^
 ||facebook111258.blogspot.com^
+||facebook111829.blogspot.com^
 ||facebook4288062.blogspot.com^
 ||facebook60118.blogspot.com^
 ||facebook62747.blogspot.com^
@@ -155792,7 +155801,6 @@ dlsdk.appsflyer.com^
 ||vietcombank.fund^
 ||vietcombank.money^
 ||vietcombank.one^
-||vietcombank.top.com.vn^
 ||vietcombank.top^
 ||vietcombank2022.com^
 ||vietcombankd.tk^
@@ -156549,6 +156557,10 @@ dlsdk.appsflyer.com^
 ||tfgfgtm.com^
 ||treatment11.top^
 ||veldpj.icu^
+||hygiene86.com^
+||44ipavmq2n.com^
+||6b9wbbjf5s.com^
+||3f6e7oacgi.com^
 ||0jghm60qg.com^
 ||26io4qnxz.com^
 ||relapse37.com^
