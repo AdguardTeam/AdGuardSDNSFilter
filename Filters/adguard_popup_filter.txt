@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-20T00:46:02.315Z
+! Last modified: 2026-04-20T03:11:34.402Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -556,7 +556,6 @@
 ||noohapou.com^$dnsrewrite=ad-block.dns.adguard.com
 ||noolt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||northauthority.xyz^$dnsrewrite=ad-block.dns.adguard.com
-||northrtbads.top^$dnsrewrite=ad-block.dns.adguard.com
 ||novibet.partners^$dnsrewrite=ad-block.dns.adguard.com
 ||nrs6ffl9w.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ntrftrksec.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -565,7 +564,6 @@
 ||nwwrtbbit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nxt-psh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nylonnickel.xyz^$dnsrewrite=ad-block.dns.adguard.com
-||oamsedsaiph.net^$dnsrewrite=ad-block.dns.adguard.com
 ||obtaintrout.com^$dnsrewrite=ad-block.dns.adguard.com
 ||occasional-flow.com^$dnsrewrite=ad-block.dns.adguard.com
 ||offergate-ecommerce-cdn5.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -579,7 +577,6 @@
 ||onclckpop.com^$dnsrewrite=ad-block.dns.adguard.com
 ||onclickperformance.com^$dnsrewrite=ad-block.dns.adguard.com
 ||onlidex.com^$dnsrewrite=ad-block.dns.adguard.com
-||opengalaxyapps.monster^$dnsrewrite=ad-block.dns.adguard.com
 ||openrtb-banner.com^$dnsrewrite=ad-block.dns.adguard.com
 ||optnx.com^$dnsrewrite=ad-block.dns.adguard.com
 ||optvz.com^$dnsrewrite=ad-block.dns.adguard.com
