@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-04-30T03:13:06.158Z
+! Last modified: 2026-04-30T05:12:40.324Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -12535,6 +12535,7 @@ vkcdnservice.appspot.com^
 ||bruisedtell.pro^
 ||bruiseentrustcarbonate.com^
 ||bruisesacopic.shop^
+||bruitedaglaoswhelked.cyou^
 ||bruitsmuchlyfumous.qpon^
 ||brukqriyjmdupq.com^
 ||brulotszonoid.cyou^
@@ -21914,6 +21915,7 @@ vkcdnservice.appspot.com^
 ||gmaringpoliticism.org^
 ||gmdztiffhihsf.online^
 ||gmfcfejaqmkma.online^
+||gmfrdnovhdnyuve.com^
 ||gmhpjreadalkb.site^
 ||gmhzabvldunlu.space^
 ||gmjzmwcxhonly.rocks^
@@ -21952,6 +21954,7 @@ vkcdnservice.appspot.com^
 ||gnfhoorp.com^
 ||gnfwcrhdmmlku.store^
 ||gngl1hzb4pxxv7x.rest^
+||gnivhgibkly.com^
 ||gnjjeoxgntzki.website^
 ||gnkmmzzfyjtaq.website^
 ||gnkyjrriwbbde.site^
@@ -25721,6 +25724,7 @@ vkcdnservice.appspot.com^
 ||iybwitllknbmq.site^
 ||iycljnpwjyvyk.website^
 ||iycxcmlzanbmk.website^
+||iydajmurtjjfdb.com^
 ||iydebixkwysyd.site^
 ||iyejvafallcotob.com^
 ||iyexlhpephrif.site^
@@ -42665,6 +42669,7 @@ vkcdnservice.appspot.com^
 ||scalerjangly.help^
 ||scalesassign.com^
 ||scalfwithsaywhileas.cfd^
+||scalibur.io^
 ||scallopafford.com^
 ||scallopfulsome.help^
 ||scaloniclammer.com^
@@ -62724,6 +62729,8 @@ vkcdnservice.appspot.com^
 !
 ! ||mobileapptracking.com^ - don't block this domain with all subdomains. https://forum.adguard.com/index.php?threads/23917/
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/229939
+||yodo1.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/222820
 ||banner.bet365partners.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/221816
