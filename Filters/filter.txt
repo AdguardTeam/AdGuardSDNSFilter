@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-07T05:13:11.393Z
+! Last modified: 2026-05-07T06:31:41.302Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -17044,6 +17044,7 @@ vkcdnservice.appspot.com^
 ||dismisscomplicatedfoolproof.com^
 ||dismissportraypioneer.com^
 ||disobeyrecreate.com^
+||disodxvwala.in^
 ||disorderchannel.com^
 ||disorderpublishrecords.com^
 ||disparagewardenbetrayal.com^
@@ -19839,6 +19840,7 @@ vkcdnservice.appspot.com^
 ||faggrim.com^
 ||faggyshopped.shop^
 ||fagotaucan.shop^
+||fahdywiddt.com^
 ||fahfhyppgdhdh.online^
 ||fahkzipuflif.in^
 ||fahrenheitpastesocket.com^
@@ -25605,6 +25607,7 @@ vkcdnservice.appspot.com^
 ||industriesincurvature.com^
 ||indyadvertising.com^
 ||inefficientinherent.com^
+||ineloduvmir.com^
 ||inertscaratescamanay.qpon^
 ||inestimablereddencloset.com^
 ||inevitablyflop.com^
@@ -26647,6 +26650,7 @@ vkcdnservice.appspot.com^
 ||jehqreubicoagss.com^
 ||jehxfphxnbeze.online^
 ||jejlaueaxfsjt.website^
+||jejunanieves.qpon^
 ||jellabaegestswuther.cfd^
 ||jelliedmall.cfd^
 ||jellokendir.cyou^
@@ -167385,6 +167389,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/230786
+@@||unsubscribe.lhinsights.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227852
 ! Blocked by CNAME s1364398973.hs.eloqua.com
 @@||belgium.wolterskluwer.com^|
