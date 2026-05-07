@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-07T07:08:30.377Z
+! Last modified: 2026-05-07T09:00:19.443Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -594,7 +594,6 @@
 ||paulastroid.com^$dnsrewrite=ad-block.dns.adguard.com
 ||peaktrck.uno^$dnsrewrite=ad-block.dns.adguard.com
 ||pemsrv.com^$dnsrewrite=ad-block.dns.adguard.com
-||permanentillnessclever.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pexorise.com^$dnsrewrite=ad-block.dns.adguard.com
 ||phazashabu.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||phgotof2.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -613,7 +612,6 @@
 ||popmyads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||popupblockermax.app^$dnsrewrite=ad-block.dns.adguard.com
 ||popupsblocker.org^$dnsrewrite=ad-block.dns.adguard.com
-||potsaglu.net^$dnsrewrite=ad-block.dns.adguard.com
 ||ppcmate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pretrackings.com^$dnsrewrite=ad-block.dns.adguard.com
 ||prfwhite.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -629,7 +627,6 @@
 ||protection-suggestion.com^$dnsrewrite=ad-block.dns.adguard.com
 ||provenpixel.com^$dnsrewrite=ad-block.dns.adguard.com
 ||prwave.info^$dnsrewrite=ad-block.dns.adguard.com
-||psockapa.net^$dnsrewrite=ad-block.dns.adguard.com
 ||pubadx.one^$dnsrewrite=ad-block.dns.adguard.com
 ||pubtrky.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pupspu.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -651,7 +648,6 @@
 ||realsh.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||realtime-bid.com^$dnsrewrite=ad-block.dns.adguard.com
 ||recesstransport.icu^$dnsrewrite=ad-block.dns.adguard.com
-||redirecting.online^$dnsrewrite=ad-block.dns.adguard.com
 ||reebr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rel-s.com^$dnsrewrite=ad-block.dns.adguard.com
 ||resentreaccotia.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -671,7 +667,6 @@
 ||roots.baby^$dnsrewrite=ad-block.dns.adguard.com
 ||roundflow.net^$dnsrewrite=ad-block.dns.adguard.com
 ||roupitpompier.cfd^$dnsrewrite=ad-block.dns.adguard.com
-||routes.name^$dnsrewrite=ad-block.dns.adguard.com
 ||rovno.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||rtbbhub.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rtbbpowaq.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -682,7 +677,6 @@
 ||sabasadara.com^$dnsrewrite=ad-block.dns.adguard.com
 ||safeonlinetips.com^$dnsrewrite=ad-block.dns.adguard.com
 ||savinist.com^$dnsrewrite=ad-block.dns.adguard.com
-||sawd.cloud^$dnsrewrite=ad-block.dns.adguard.com
 ||schedulerationally.com^$dnsrewrite=ad-block.dns.adguard.com
 ||searchresultsadblocker.com^$dnsrewrite=ad-block.dns.adguard.com
 ||secretarypleasure.xyz^$dnsrewrite=ad-block.dns.adguard.com
