@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-12T03:13:39.249Z
+! Last modified: 2026-05-12T05:18:55.625Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -13203,6 +13203,7 @@ vkcdnservice.appspot.com^
 ||bwhhcuikrgvhs.online^
 ||bwkfevvdrwevl.website^
 ||bwknpebhbfyvv.online^
+||bwlfhhnlsvljs.online^
 ||bwlmgcvlifbuhb.com^
 ||bwnddkpcoavas.website^
 ||bwofuzfzhgqnp.website^
@@ -14815,6 +14816,7 @@ vkcdnservice.appspot.com^
 ||coderformylife.info^
 ||codillehyphen.cyou^
 ||codwormtallied.com^
+||coeditenternat.qpon^
 ||coedmediagroup.com^
 ||coehornsenile.cyou^
 ||coelarcrypto.qpon^
@@ -15010,6 +15012,7 @@ vkcdnservice.appspot.com^
 ||comprehensiveunconsciousblast.com^
 ||compresssavvydetected.com^
 ||compromisegraintickets.com^
+||comptakene.shop^
 ||compttracing.cyou^
 ||comtesquaedam.cyou^
 ||comuslimply.qpon^
@@ -18466,6 +18469,7 @@ vkcdnservice.appspot.com^
 ||ectsofcukorpor.com^
 ||ectuklyeconen.com^
 ||ecuryrentattribut.org^
+||ecvvvkancbxjt.online^
 ||ecxtjijbl.com^
 ||ecxufxavldnpd.site^
 ||ecxwilwie.com^
@@ -22202,6 +22206,7 @@ vkcdnservice.appspot.com^
 ||gebebrfkdqsci.store^
 ||gebir.xyz^
 ||geckad.com^
+||geckedfalus.qpon^
 ||geckosantu.com^
 ||geckossicsac.shop^
 ||geckxmcccnhbc.space^
@@ -24131,6 +24136,7 @@ vkcdnservice.appspot.com^
 ||helvellreest.com^
 ||helvesknaw.cyou^
 ||hem41xm47.com^
+||hemalanti.cyou^
 ||hemapodfubberyvoilier.cyou^
 ||hemathematica.org^
 ||hemineedunks.com^
@@ -24846,6 +24852,7 @@ vkcdnservice.appspot.com^
 ||hqagmyjrm.com^
 ||hqazaazwdnxle.site^
 ||hqbaanqvcscwl.space^
+||hqbqp46cl99yeh8.rest^
 ||hqerddmneojvl.online^
 ||hqgkgvxhdlzba.store^
 ||hqieltkpcifyb.com^
@@ -28656,6 +28663,7 @@ vkcdnservice.appspot.com^
 ||kotokot.com^
 ||kotostream.online^
 ||kotwalibanyai.cyou^
+||kotylosjambosa.cyou^
 ||koushauwhie.xyz^
 ||kowbrvtqzyqkk.space^
 ||kownxhruhryeh.site^
@@ -29650,6 +29658,7 @@ vkcdnservice.appspot.com^
 ||licluumkehiwi.store^
 ||lidburger.com^
 ||liddenlywilli.org^
+||lidiawindup.qpon^
 ||lidsaich.net^
 ||lidtcctobkneu.website^
 ||liduvxoyivocr.space^
@@ -30085,6 +30094,7 @@ vkcdnservice.appspot.com^
 ||loggatcue.cyou^
 ||loggatmowing.cfd^
 ||loggeraevumcourge.cyou^
+||loggiacsgj.com^
 ||loggiazamousecarve.cfd^
 ||loggieilot.cyou^
 ||loggishthung.shop^
@@ -37647,6 +37657,7 @@ vkcdnservice.appspot.com^
 ||principlespite.com^
 ||principleunitsweighty.com^
 ||pringed.space^
+||pringlecymule.cfd^
 ||prinkfag.cyou^
 ||prinkitonama.com^
 ||printergrandchildrencanteen.com^
@@ -39479,6 +39490,7 @@ vkcdnservice.appspot.com^
 ||rbycczculjquv.site^
 ||rbzqarqzoveqy.top^
 ||rbzwxevjjkjjc.site^
+||rcbnqkcoofllll.com^
 ||rcdn-web.com^
 ||rcevwjumlnknn.website^
 ||rcf3occ8.de^
@@ -42047,6 +42059,7 @@ vkcdnservice.appspot.com^
 ||seggarsbeachy.shop^
 ||seggiobarrack.shop^
 ||seggiosharia.shop^
+||seggromcoombealophas.qpon^
 ||seggromwy.cfd^
 ||seggzpwzesnxh.website^
 ||segmentunderstandable.com^
@@ -46044,6 +46057,7 @@ vkcdnservice.appspot.com^
 ||tamotslhzbewf.site^
 ||tampionsley.com^
 ||tamponsischialhoggie.cfd^
+||tamurepiercedcuracoa.cfd^
 ||tamxlmwxtizil.website^
 ||tanaunsaish.net^
 ||tanbarkpapains.cfd^
@@ -140521,6 +140535,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||fm-analytics.cloudbees.io^
 ||mlm-tracking.meinestadt.de^
 ||stats.temptcdn.com^
 ||opt.mocortech.com^
@@ -146552,6 +146567,7 @@ dlsdk.appsflyer.com^
 ||epicoldschool.com^
 ||epicswimming.com^
 ||equablekettle.com^
+||esoterictools.com^
 ||essaygiants.com^
 ||essayspin.com^
 ||etherealbamboo.com^
@@ -146576,6 +146592,7 @@ dlsdk.appsflyer.com^
 ||exuberantedge.com^
 ||fabcharting.com^
 ||fabledsoul.com^
+||fabulousbooking.com^
 ||facilitatebreakfast.com^
 ||factorybarbell.com^
 ||fadedsnow.com^
@@ -147271,6 +147288,7 @@ dlsdk.appsflyer.com^
 ||pastoralroad.com^
 ||pawsnug.com^
 ||peacefullimit.com^
+||peakcreator.com^
 ||pearpouch.com^
 ||pedropanther.com^
 ||peeringhost.net^
@@ -158648,6 +158666,9 @@ dlsdk.appsflyer.com^
 ||zrjr81na94.com^
 ||sounding72.com^
 ||lmhrchi.com^
+||ofmxtlbgqp.com^
+||giaumusnsj.com^
+||n2bqyqg5u3.com^
 ||9ge9rc85r.com^
 ||ebsqxaj8u.com^
 ||trepanation07.top^
