@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-12T07:06:48.605Z
+! Last modified: 2026-05-12T09:04:31.688Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -16078,6 +16078,7 @@ vkcdnservice.appspot.com^
 ||cxikfjqfiwxta.vip^
 ||cxjtsybhvpsfl.space^
 ||cxjuvi82x1rv83hofmnt6ryfmy.rest^
+||cxlfcqjg.com^
 ||cxnbgyadiqscl.click^
 ||cxofostbnjehi.website^
 ||cxojwgav.com^
@@ -17037,6 +17038,7 @@ vkcdnservice.appspot.com^
 ||diaplexlagenae.qpon^
 ||diarialawhirl.qpon^
 ||diarrhoeaeaglesunday.com^
+||diastemgispin.cfd^
 ||diasyrmunionic.com^
 ||diaunwrkajyuhu.com^
 ||diayrgnrwjhwt.site^
@@ -24587,6 +24589,7 @@ vkcdnservice.appspot.com^
 ||ho2b3cfb7x276rojfmoy6q.cfd^
 ||hoanghmyqzkgrg.com^
 ||hoardedquipus.cyou^
+||hoardsketosehenry.qpon^
 ||hoarsecelebrityversus.com^
 ||hoarserbeastsarunta.cyou^
 ||hoarseshopping.pro^
@@ -28014,6 +28017,7 @@ vkcdnservice.appspot.com^
 ||karnwduphelya.cyou^
 ||karoskarn.shop^
 ||karthliunstagy.com^
+||karvarlectentete.cyou^
 ||kasifbaikqhyq.online^
 ||kasrsihavelear.org^
 ||kassudawson.cyou^
@@ -38863,6 +38867,7 @@ vkcdnservice.appspot.com^
 ||qqhjdsbubacon.online^
 ||qqhuwthhmxeuc.space^
 ||qqifefphpoord.site^
+||qqjchhamewpmi.space^
 ||qqjildbaefe.com^
 ||qqjtldyoobxpo.online^
 ||qqkbagfoxsjkh.online^
@@ -38973,6 +38978,7 @@ vkcdnservice.appspot.com^
 ||qtroibxoalnmq.site^
 ||qttkyxopotgkk.site^
 ||qttwxclxus.com^
+||qtufjslitdyzf.space^
 ||qtunfmawyv.com^
 ||qtutulebptizh.website^
 ||qtvbpiamyq.com^
@@ -40331,6 +40337,7 @@ vkcdnservice.appspot.com^
 ||rhy79ti4knpiuxww2.rest^
 ||rhymersolidi.cfd^
 ||rhymyachiote.cfd^
+||rhynhmifegimi.site^
 ||rhythmclamour.com^
 ||rhythmxchange.com^
 ||riaoz.xyz^
@@ -49158,6 +49165,7 @@ vkcdnservice.appspot.com^
 ||ueqaxthtwbo.com^
 ||ueqjychtgl.net^
 ||ueqkrtmgiokeg.site^
+||uerbcssuraiyf.space^
 ||uesqpftluoe.com^
 ||uetkgpbmolnjxz.com^
 ||ueuee.com^
@@ -149164,6 +149172,7 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||wishgofox.com^
 ||tallertorn.com^
 ||deltarockme.com^
 ||beesratyou.com^
@@ -150728,6 +150737,9 @@ dlsdk.appsflyer.com^
 ||zoda.ru^
 ||zorkabiz.ru^
 ||zqmwf.xyz^
+!
+! etarg.network
+||193.200.64.20^
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/200915
 ! t.setAttribute("data-mrmn-tag"
