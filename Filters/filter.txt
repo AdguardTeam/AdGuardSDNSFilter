@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-13T03:14:23.456Z
+! Last modified: 2026-05-13T05:22:27.073Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -6261,6 +6261,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||a.hentaiocean.com^
 ||adradar.io^
 ||ads.starzd.pro^
 ||advertising.civitai.
@@ -9437,6 +9438,7 @@ vkcdnservice.appspot.com^
 ||alfettolstoy.qpon^
 ||alfredtrimfaith.com^
 ||algatepalming.cfd^
+||algesismesse.cyou^
 ||algiersreests.com^
 ||algomantonneaucortina.cfd^
 ||algorstaxinept.cfd^
@@ -16284,6 +16286,7 @@ vkcdnservice.appspot.com^
 ||dakotasinseamaskers.cyou^
 ||dalbfocvqrmnn.space^
 ||dalecta.com^
+||daleelerah.info
 ||daleelerah.info^
 ||dalemanheroize.qpon^
 ||dalestretching.com^
@@ -19880,6 +19883,7 @@ vkcdnservice.appspot.com^
 ||excuselift.com^
 ||exdksksjfnn.com^
 ||exdynsrv.com^
+||execbeggar.com^
 ||exectbairns.qpon^
 ||executivehoroscope.com^
 ||executors2550.com^
@@ -22065,6 +22069,7 @@ vkcdnservice.appspot.com^
 ||galaksion.com^
 ||galaxyearningsfly.com^
 ||galaxypush.com^
+||galchatruces.cfd^
 ||galeaedifformpapaio.qpon^
 ||galeaeevovae.com^
 ||galeateinocyte.cfd^
@@ -26952,6 +26957,7 @@ vkcdnservice.appspot.com^
 ||jaegervitallydele.cyou^
 ||jaforvsuneysw.website^
 ||jafsuasulxeoh.online^
+||jagatpastils.cfd^
 ||jagged-friendship.pro^
 ||jaggedsink.pro^
 ||jaghiremilton.qpon^
@@ -27425,6 +27431,7 @@ vkcdnservice.appspot.com^
 ||jlmgzsrxtmuce.online^
 ||jlnpyknykucwd.site^
 ||jloymapbukmdc.space^
+||jlpbymrzollix.space^
 ||jlserfxsixd.com^
 ||jltczmewqabda.online^
 ||jlvpcdhaytbbn.online^
@@ -27526,6 +27533,7 @@ vkcdnservice.appspot.com^
 ||jolugubqlnjce.site^
 ||jombfyktowaqp.space^
 ||jomistress.com^
+||jomonovicide.qpon^
 ||jomphoelubekg.site^
 ||jompvyezxmsly.website^
 ||jomtingi.net^
@@ -27549,6 +27557,7 @@ vkcdnservice.appspot.com^
 ||joshuaam.qpon^
 ||jostledsibsmalmed.cfd^
 ||josulhtyxgarv.space^
+||jottiercedserail.cyou^
 ||joubarbspurlet.shop^
 ||joudauhee.com^
 ||jouksster.cyou^
@@ -28279,6 +28288,7 @@ vkcdnservice.appspot.com^
 ||keyallocationscientific.com^
 ||keyhamates.com^
 ||keyholedingy.com^
+||keyletmutage.cfd^
 ||keymanfossula.cyou^
 ||keywordblocks.com^
 ||keywordsconnect.com^
@@ -30352,6 +30362,7 @@ vkcdnservice.appspot.com^
 ||lowseelor.com^
 ||lowtrainer.com^
 ||loxitdat.com^
+||loy356.site^
 ||loyal-mother.pro^
 ||loyalgreen.pro^
 ||loyalpalpatelair.com^
@@ -38742,6 +38753,7 @@ vkcdnservice.appspot.com^
 ||qgtlndbjewjxa.website^
 ||qgtyiikopjaiy.space^
 ||qguusmmvndeor.website^
+||qguwsuivlnmxr.site^
 ||qgvbpbsqdxnni.store^
 ||qgvgqhfuessel.com^
 ||qgvjykjmhtnxz.store^
@@ -39413,6 +39425,7 @@ vkcdnservice.appspot.com^
 ||racialregister.com^
 ||racierlithous.com^
 ||racingorchestra.com^
+||rackadspresent.com^
 ||racketcredit.com^
 ||racketwoo.com^
 ||rackmanjoukscuteys.cyou^
@@ -40420,6 +40433,7 @@ vkcdnservice.appspot.com^
 ||rh57iux7o2jm93ooxc2plbkf8r7g2oc.cfd^
 ||rhaeticcartful.com^
 ||rhagiteteeing.cyou^
+||rhamnalemeryjoshi.qpon^
 ||rhaphaedottelhumans.cfd^
 ||rhbfdazisufvw.site^
 ||rhbgsycloyttn.website^
@@ -41271,6 +41285,7 @@ vkcdnservice.appspot.com^
 ||rusedangerous.com^
 ||rusenov.com^
 ||rushjotted.cfd^
+||rusinnexus.cyou^
 ||rusinsawbill.com^
 ||ruskindislockunifies.qpon^
 ||russellminorpresumptuous.com^
@@ -43748,6 +43763,7 @@ vkcdnservice.appspot.com^
 ||snaredhailer.cfd^
 ||snarescientific.com^
 ||snaringbanque.cyou^
+||snaringchuet.com^
 ||snarlingrequirement.com^
 ||snarlingvisual.pro^
 ||snarlsfuzzes.com^
@@ -44908,6 +44924,7 @@ vkcdnservice.appspot.com^
 ||stella-nova.click^
 ||stellaabesse.qpon^
 ||stelsarg.net^
+||stemalbian.com^
 ||stemboastfulrattle.com^
 ||stemmagrane.help^
 ||stenchrha.shop^
@@ -47247,6 +47264,7 @@ vkcdnservice.appspot.com^
 ||tiklvzlclrxhf.store^
 ||tikoorkidnaps.cyou^
 ||tiktakz.xyz^
+||tiktok-fly.com^
 ||tiktokcdn1.xyz^
 ||tikva-1.com^
 ||tilapfnnjimqb.online^
@@ -48038,6 +48056,7 @@ vkcdnservice.appspot.com^
 ||track.totalav.com^
 ||track4ref.com^
 ||trackad.cz^
+||trackadspresent.com^
 ||trackcherry.com^
 ||trackcitg.com^
 ||tracker-2.com^
@@ -48218,6 +48237,7 @@ vkcdnservice.appspot.com^
 ||trendsrescuer.shop^
 ||trendysleets.cyou^
 ||trenpyle.com^
+||trentbereal.com^
 ||tressedtwalt.cfd^
 ||tresselwelsiumorejon.qpon^
 ||tressonchirataincas.cyou^
@@ -48950,6 +48970,7 @@ vkcdnservice.appspot.com^
 ||txuqrrcpnnsye.online^
 ||txvkffuc.net^
 ||txwkjktfojloy.online^
+||txwonfqyncajg.site^
 ||txwvjdsh.com^
 ||txxqrzwdymmhg.online^
 ||txykmuqzxjitf.space^
@@ -50817,6 +50838,7 @@ vkcdnservice.appspot.com^
 ||utysolomonaut.com^
 ||utzimatzbld.com^
 ||utzzytfmbfekv.website^
+||uuavrrhkfxddolr.com^
 ||uublkdxalqhhd.website^
 ||uubvkadmkvnys.space^
 ||uucfcpcdqtzpm.site^
@@ -51816,6 +51838,7 @@ vkcdnservice.appspot.com^
 ||vibistsdragmanmokes.cfd^
 ||vibnpoar.com^
 ||vibrantscale.com^
+||vibtrvfiegdpi.site^
 ||vibykqpidgxwj.website^
 ||vic-m.co^
 ||vicaireuniaxal.cfd^
@@ -54961,6 +54984,7 @@ vkcdnservice.appspot.com^
 ||wuaafacwszsqh.store^
 ||wubbmfsxhjtyber.com^
 ||wubmakoxasckf.com^
+||wucdrynukof.in^
 ||wucnmyrcici.com^
 ||wudidaxheqblk.site^
 ||wudtxrhdjnthdw.com^
@@ -55991,6 +56015,7 @@ vkcdnservice.appspot.com^
 ||xqqsfeipxeefv.store^
 ||xqrbcwhbwpncl.space^
 ||xqsfsvngpzsns.store^
+||xqsqczzswxwlr.website^
 ||xqsvsdvvypnij.website^
 ||xqsxkqbgwoyal.space^
 ||xqteessqgcens.website^
@@ -56935,6 +56960,7 @@ vkcdnservice.appspot.com^
 ||yizjfsgpdtkpq.space^
 ||yizmiendokirl.website^
 ||yj7nlo8n7ll8xe49bo2w6wjexl7129zf.cfd^
+||yjaislop.com^
 ||yjateinmgbrhjt.com^
 ||yjcckvcaln.net^
 ||yjcelklgbpqxr.com^
@@ -140728,6 +140754,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||t.stereogum.com^
 ||data-api.fenbi.com^
 ||mpecom-analyticevents-prod.boyner.com.tr^
 ||dlso-ap96.macgamingdb.app^
@@ -152002,6 +152029,7 @@ dlsdk.appsflyer.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||pc-util.gamersky.com^
 ||s3-nl-01.mangabuddy.in^
 ||wap.qqbiquge.net^
 ||fc.3dmgame.com^
@@ -153246,8 +153274,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 May 2026 09:24 UTC+7
-! Version: 2605070924
+! Last modified: 13 May 2026 11:10 UTC+7
+! Version: 2605131110
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -154038,8 +154066,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 May 2026 14:51 UTC+7
-! Version: 2605051451
+! Last modified: 13 May 2026 11:10 UTC+7
+! Version: 2605131110
 ! Blocked: 4.862 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
