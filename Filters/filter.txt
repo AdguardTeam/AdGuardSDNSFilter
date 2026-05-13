@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-13T12:52:04.094Z
+! Last modified: 2026-05-13T13:57:49.109Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -9610,6 +9610,7 @@ vkcdnservice.appspot.com^
 ||amdahlbr.com^
 ||amdbughamr.in^
 ||amebassamshoo.cyou^
+||ameenoxidant.shop^
 ||amelatrina.com^
 ||amellusslangs.cfd^
 ||amendmentbutterfly.com^
@@ -13570,6 +13571,7 @@ vkcdnservice.appspot.com^
 ||capettepompey.qpon^
 ||caphitetaroc.qpon^
 ||capitalistsplitting.com^
+||capkinaculeus.cfd^
 ||caplanameluyephede.cfd^
 ||caplesscotinggoobers.cyou^
 ||capletsammergilgul.qpon^
@@ -16284,6 +16286,7 @@ vkcdnservice.appspot.com^
 ||dailyhealthvita.com^
 ||daimiostogeys.shop^
 ||daimonwrithenuphill.cyou^
+||daimyostenchy.cfd^
 ||dainchakharwarhonda.qpon^
 ||daintynotice.com^
 ||dairiathold.cfd^
@@ -22675,6 +22678,7 @@ vkcdnservice.appspot.com^
 ||gkbpmrtixkzui.one^
 ||gkbzsbhfh.com^
 ||gkdfpquua.com^
+||gkdfqaetgjufu.site^
 ||gkeaaauospljg.site^
 ||gkefuqdfaqm.in^
 ||gkhgeopbukphq.com^
@@ -25212,6 +25216,7 @@ vkcdnservice.appspot.com^
 ||hvcjbpkakkeng.site^
 ||hvdzdrovccwom.site^
 ||hvefnbufkpxou.website^
+||hveorgkeosg.com^
 ||hvert.site^
 ||hvfaoamqptecc.site^
 ||hvfbadvwihklc.com^
@@ -27652,6 +27657,7 @@ vkcdnservice.appspot.com^
 ||jptobfdvxtady.online^
 ||jpuiehmiadfly.com^
 ||jpunmcrmynqjr.online^
+||jpvijgojgkgyk.online^
 ||jpwcijkiobukr.site^
 ||jpwjtgvtqfnkubk.com^
 ||jpwwqujvnoskd.site^
@@ -41618,6 +41624,7 @@ vkcdnservice.appspot.com^
 ||salepbeblotanoraks.cfd^
 ||salesmanrespectivedenunciation.com^
 ||salestingoner.org^
+||salfernclaiver.qpon^
 ||salicyldefames.com^
 ||saligoteatche.cyou^
 ||salinatuisgooier.cyou^
@@ -50582,6 +50589,7 @@ vkcdnservice.appspot.com^
 ||uptubefargood.shop^
 ||upturnsphyla.cfd^
 ||uptyzxegbsprx.space^
+||upupagummite.shop^
 ||upuplet.net^
 ||upush.co^
 ||upvctbapwpghmq.net^
@@ -52069,6 +52077,7 @@ vkcdnservice.appspot.com^
 ||virelairushiercurf.cfd^
 ||virelon.com^
 ||viremiacomourn.cfd^
+||virentcamused.qpon^
 ||vireodancy.cfd^
 ||vireosfour.help^
 ||viresanagua.cyou^
@@ -54541,6 +54550,7 @@ vkcdnservice.appspot.com^
 ||woacoaglastaim.net^
 ||woafoame.net^
 ||woagevaibi.net^
+||woakaithfence.cfd^
 ||woayhhildjge.com^
 ||wobblesdisorbneper.cfd^
 ||wobblyfudged.com^
@@ -66895,8 +66905,6 @@ vkcdnservice.appspot.com^
 ||synthasite.net^
 ||sysomos.com^
 ||t4ft.de^
-||taboola.com.cn^
-||taboola.com^
 ||tag4arm.com^
 ||tagsrvcs.com^
 ||tagtray.com^
@@ -67184,6 +67192,11 @@ vkcdnservice.appspot.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zqtk.net^
+!
+! Taboola
+||taboola.com.cn^
+||taboola.com^
+! These domains redundant, but saved in case the wide blocking rule is revised
 !
 ! Bright Data
 ||bright-sdk.com^
@@ -165869,6 +165882,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! taboolanews.com
+@@|cdn.taboola.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230786
 @@||unsubscribe.lhinsights.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227852
