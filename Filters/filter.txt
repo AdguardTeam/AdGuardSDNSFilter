@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-15T14:53:16.518Z
+! Last modified: 2026-05-15T16:40:18.171Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -7537,6 +7537,7 @@ vkcdnservice.appspot.com^
 ||5vpbnbkiey24.com^
 ||5w8v8395iej8n4jwefgm.cfd^
 ||5wuefo9haif3.com^
+||5x9ni2gj348kxqxpkmq4zq.rest^
 ||5xd3jfwl9e8v.com^
 ||5xpbfj2oiv6g9kn1r.rest^
 ||5z35ikghjnh7zry1vxn2l619b49ug9b7.cfd^
@@ -13949,6 +13950,7 @@ vkcdnservice.appspot.com^
 ||cdrhialzwntyu.store^
 ||cdrvrs.com^
 ||cdsbnrs.com^
+||cdslhsycb.com^
 ||cdtbox.rocks^
 ||cdtrfomacujwv.website^
 ||cduplprhxrrso.space^
@@ -23260,6 +23262,7 @@ vkcdnservice.appspot.com^
 ||gpgnondqpwgpd.space^
 ||gphljspaprvsl.online^
 ||gpiebbxurugod.online^
+||gpinoqrmayfq.com^
 ||gpivqupxyvkit.website^
 ||gplansforourc.org^
 ||gplsedtvjuxch.website^
@@ -24872,6 +24875,7 @@ vkcdnservice.appspot.com^
 ||hofxbrhznoggg.space^
 ||hogbackmutuate.com^
 ||hogenoutpity.cyou^
+||hogfishsurname.qpon^
 ||hoggetforfend.com^
 ||hogginalertapittine.cfd^
 ||hoggypushier.cfd^
@@ -25760,6 +25764,7 @@ vkcdnservice.appspot.com^
 ||ieslkslqljjrtq.com^
 ||iesrqaqicrkxk.website^
 ||ietwzcakupkfs.store^
+||ieuarungyr.com^
 ||ieucnfzhxeedn.website^
 ||iewixvvsbfkwd.world^
 ||iewjctcinxthi.space^
@@ -29237,6 +29242,7 @@ vkcdnservice.appspot.com^
 ||kvzzuamjopqgu.space^
 ||kw3y5otoeuniv7e9rsi.com^
 ||kwaipjzkmtwct.site^
+||kwapabrambly.com^
 ||kwaznkumedleysearce.cfd^
 ||kwbdjazbglump.space^
 ||kwbnmsswawpho.site^
@@ -29332,6 +29338,7 @@ vkcdnservice.appspot.com^
 ||kzjwjclnpdrmy.online^
 ||kzltdxgdppoif.online^
 ||kzmsqkprwtqnq.website^
+||kzntwdcvpybgd.site^
 ||kznuodtvjuirx.site^
 ||kzoixqlmnwtjg.space^
 ||kzouzvisztpxs.site^
@@ -30746,6 +30753,7 @@ vkcdnservice.appspot.com^
 ||ltkvxwdlboeuv.space^
 ||ltlldtoyvvbkz.store^
 ||ltnchfmuwmltz.space^
+||ltrzhajftkybj.website^
 ||ltssbgqqrivtk.online^
 ||ltssxkwful.com^
 ||lttceuqgmuxal.store^
@@ -32811,6 +32819,7 @@ vkcdnservice.appspot.com^
 ||mudwmhaesljqz.site^
 ||muefgogqkckcj.site^
 ||muejigjejszbp.online^
+||muemv8rubl52jn.cfd^
 ||muermoabject.shop^
 ||muffinfeudalactually.com^
 ||muffinsum.com^
@@ -33091,6 +33100,7 @@ vkcdnservice.appspot.com^
 ||myrrhbehorn.com^
 ||myrrhstymiesjolted.qpon^
 ||myrtalptinus.shop^
+||myrtthirstsolivile.cyou^
 ||myselguggles.cfd^
 ||mysianessayer.cfd^
 ||mysmbkoapuust.website^
@@ -36136,6 +36146,7 @@ vkcdnservice.appspot.com^
 ||ozonemedia.com^
 ||ozonisemutateskully.qpon^
 ||ozoniseupaisleimpship.cfd^
+||ozooagevrzfmv.website^
 ||ozpifymthfser.space^
 ||ozpnmwkzyvazx.store^
 ||ozpthucmavu.in^
@@ -36772,6 +36783,7 @@ vkcdnservice.appspot.com^
 ||peonizeumteen.qpon^
 ||peonskainit.qpon^
 ||peoplesstoking.cfd^
+||peoxoldzljtnb.online^
 ||pephlxydkqkjsq.com^
 ||peppermintthorpeguess.com^
 ||peppery-talk.com^
@@ -37212,6 +37224,7 @@ vkcdnservice.appspot.com^
 ||pittitezazens.com^
 ||pitworktieing.cfd^
 ||pitylusguariconoil.cyou^
+||pitylusjuckiescolove.cyou^
 ||pityneedsdads.com^
 ||piuyt.com^
 ||pivotrunner.com^
@@ -56755,6 +56768,7 @@ vkcdnservice.appspot.com^
 ||xxpzw73rq2h4vpjfepxxcbz.cfd^
 ||xxrhbucdwagpr.website^
 ||xxu6kju3p5lpwx8y6o.cfd^
+||xxugvpqcuxqhf.com^
 ||xxvfswapdzisf.website^
 ||xxxbannerswap.com^
 ||xxxex.com^
@@ -152311,6 +152325,7 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||textad.fc2.com^
 ||jobbox-front.mamastar.jp^
 ||ad.datadeliver.net^
 ||ad.firestorage.jp^
