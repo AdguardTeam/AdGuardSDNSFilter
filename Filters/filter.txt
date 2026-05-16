@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-16T03:12:14.473Z
+! Last modified: 2026-05-16T05:10:15.190Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -7342,6 +7342,7 @@ vkcdnservice.appspot.com^
 ||4446k.com^
 ||4498a6bb1e.com^
 ||44cd912290.com^
+||44d3bd20fb.com^
 ||44k57nrqbqrlgq8mgqqhrux4c3m.cfd^
 ||45151e7d7c.com^
 ||452tapgn.de^
@@ -10750,6 +10751,7 @@ vkcdnservice.appspot.com^
 ||aversionrestore.com^
 ||avesmutuspschent.cyou^
 ||aveuglecoaita.shop^
+||avfqnukognsfd.site^
 ||avglvolxsgfkp.site^
 ||avhbbdkhtxvxb.site^
 ||avhhcudtiqk.in^
@@ -13099,6 +13101,7 @@ vkcdnservice.appspot.com^
 ||buckumoore.com^
 ||buckweeklyrecording.com^
 ||buddedchaosoreodon.cyou^
+||buddlesnomial.cfd^
 ||budgeencodeunions.com^
 ||budhoes.cfd^
 ||budsminepatent.com^
@@ -13823,6 +13826,7 @@ vkcdnservice.appspot.com^
 ||cautommityring.com^
 ||cavallahoggs.shop^
 ||cavcorallatons.cfd^
+||cavederasionantired.cfd^
 ||cavernous-mess.com^
 ||cavernsinaite.com^
 ||cavettotethers.cyou^
@@ -18977,6 +18981,7 @@ vkcdnservice.appspot.com^
 ||ejibgrotomytx.site^
 ||ejihhtgvjeglq.online^
 ||ejlqdcyrjsakh.site^
+||ejmidntfgqwfh.site^
 ||ejnhzgcgazhjl.site^
 ||ejnrlecwlkoklw.com^
 ||ejoanpaklnyrg.space^
@@ -21706,6 +21711,7 @@ vkcdnservice.appspot.com^
 ||frautkgibbbwj.space^
 ||frayed-coat.pro^
 ||frayhalfyear.com^
+||frayingfilmize.cyou^
 ||fraypglkohhdf.website^
 ||frazergraces.rest^
 ||frblernpdqkdq.space^
@@ -26355,6 +26361,7 @@ vkcdnservice.appspot.com^
 ||indulinrayful.com^
 ||industriesincurvature.com^
 ||indyadvertising.com^
+||inedstylmxhwk.com^
 ||inefficientinherent.com^
 ||ineloduvmir.com^
 ||inertscaratescamanay.qpon^
@@ -32569,6 +32576,7 @@ vkcdnservice.appspot.com^
 ||mopy.cloud^
 ||moqivsgwxyoqc.space^
 ||moqtnysownefx.site^
+||moralealanyl.cfd^
 ||moralgetups.qpon^
 ||morallyfitful.com^
 ||moraythurt.shop^
@@ -35291,6 +35299,7 @@ vkcdnservice.appspot.com^
 ||omckeksvvawxv.com^
 ||omcrobata.com^
 ||omcusrmpkvi.com^
+||omcyfmoxyn.com^
 ||omefukmendationfo.com^
 ||omegaadblock.net^
 ||omegatrak.com^
@@ -49067,6 +49076,7 @@ vkcdnservice.appspot.com^
 ||ttonyfiiyajkh.space^
 ||ttowpvjpfrwyos.com^
 ||ttoyfmexbpwhj.online^
+||ttpbpjxcpdcep.website^
 ||ttqqfdfciylbv.site^
 ||ttqsviobdshlu.space^
 ||ttrk.io^
@@ -52185,6 +52195,7 @@ vkcdnservice.appspot.com^
 ||veyjefplvkdjm.online^
 ||veymqlpxnqbih.website^
 ||vezjyiawdpwjq.online^
+||vezouskvupso.com^
 ||vf49j2yzhun24gg776.cfd^
 ||vfamnpvtqmhpw.site^
 ||vfaorhgal.in^
@@ -56726,6 +56737,7 @@ vkcdnservice.appspot.com^
 ||xudhsoctwc.com^
 ||xudpitdpaa.com^
 ||xudpnwjiprcmy.site^
+||xuehjpsirhyol.space^
 ||xuenpasqvdt.net^
 ||xueobaedyoudcfe.com^
 ||xueohxfouttmn.website^
@@ -153206,8 +153218,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-05-01 08:06:05 CEST
-# entries:        1152
+# last updated:   2026-05-16 05:49:52 CEST
+# entries:        1153
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||a.zxcvads.com^
@@ -153274,6 +153286,7 @@ dlsdk.appsflyer.com^
 ||analytics.nikkasystems.com^
 ||analytics.recept.se^
 ||analytics.residencemagazine.se^
+||analytics.samnytt.se^
 ||analytics.sjf.se^
 ||analytics.svenskdam.se^
 ||analytics.svt.se^
