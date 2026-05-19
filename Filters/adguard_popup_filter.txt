@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-19T07:22:34.589Z
+! Last modified: 2026-05-19T09:17:56.133Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -700,7 +700,6 @@
 ||securitycheckonline.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sentimentalflight.com^$dnsrewrite=ad-block.dns.adguard.com
 ||servsserverz.com^$dnsrewrite=ad-block.dns.adguard.com
-||sessfetchio.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sexemulator.tube-sexs.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sgben.com^$dnsrewrite=ad-block.dns.adguard.com
 ||shakingtacklingunpeeled.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -708,7 +707,6 @@
 ||sheitelhamatum.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||shoppinglifestyle.biz^$dnsrewrite=ad-block.dns.adguard.com
 ||shotgunchancecruel.com^$dnsrewrite=ad-block.dns.adguard.com
-||shulugoo.net^$dnsrewrite=ad-block.dns.adguard.com
 ||signamentswithd.com^$dnsrewrite=ad-block.dns.adguard.com
 ||singledatetime.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sitepageflow.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -723,18 +721,14 @@
 ||spareforads.top^$dnsrewrite=ad-block.dns.adguard.com
 ||spin83qr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sprinlof.com^$dnsrewrite=ad-block.dns.adguard.com
-||spuppeh.net^$dnsrewrite=ad-block.dns.adguard.com
 ||spygenix.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||srowox.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srvpcn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srvqck11.com^$dnsrewrite=ad-block.dns.adguard.com
-||srvqck15.com^$dnsrewrite=ad-block.dns.adguard.com
-||srvqck3.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srvtrck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stableflowconnection.co.in^$dnsrewrite=ad-block.dns.adguard.com
 ||staysafeonlinetoday.com^$dnsrewrite=ad-block.dns.adguard.com
 ||steerensout.net^$dnsrewrite=ad-block.dns.adguard.com
-||stikroltiltoowi.net^$dnsrewrite=ad-block.dns.adguard.com
 ||streamereasy.click^$dnsrewrite=ad-block.dns.adguard.com
 ||strtgic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stsbih.com.ba^$dnsrewrite=ad-block.dns.adguard.com
@@ -771,7 +765,6 @@
 ||tracking-zy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tracking.gusclicks.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trackingtraffo.com^$dnsrewrite=ad-block.dns.adguard.com
-||trakit20.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trakzon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trasupr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trckqq.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -805,8 +798,6 @@
 ||viiadaof.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viibslav.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viiczfvm.com^$dnsrewrite=ad-block.dns.adguard.com
-||viidccdn.com^$dnsrewrite=ad-block.dns.adguard.com
-||viifwfyo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viigetxc.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viikuhhs.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viiyutty.com^$dnsrewrite=ad-block.dns.adguard.com
