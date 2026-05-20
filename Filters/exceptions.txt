@@ -169,10 +169,12 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150038
 ! Blocked by CNAME getblueshift.com
 @@||clickattr.wayup.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/231294
 ! https://github.com/AdguardTeam/AdguardFilters/issues/213677
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1393
 ! Blocked by CNAME adperfect.com
 @@||remembering.ca^|
+@@||obituaries.toacorn.com^|
 @@||obituaries.thestar.com^|
 @@||obituaries.therecord.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1265
