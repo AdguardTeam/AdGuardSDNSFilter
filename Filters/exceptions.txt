@@ -1,6 +1,8 @@
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/
 ! Blocked by CNAME omtrdc.net
 @@||om-ssl.consorsbank.de^|
+! taboolanews.com
+@@|cdn.taboola.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230786
 @@||unsubscribe.lhinsights.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227852
