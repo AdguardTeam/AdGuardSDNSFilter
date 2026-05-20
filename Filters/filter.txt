@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-20T01:00:14.010Z
+! Last modified: 2026-05-20T03:15:08.088Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14108,6 +14108,7 @@ vkcdnservice.appspot.com^
 ||ceaslessivorygoats.com^
 ||ceaslesswisely.com^
 ||ceasmicdistn.cyou^
+||cebgxrngdchnn.site^
 ||cebiansmiting.cyou^
 ||cebilfares.cyou^
 ||cebinecorncynical.cyou^
@@ -17997,6 +17998,7 @@ vkcdnservice.appspot.com^
 ||dorlachdolos.cyou^
 ||dorlotbuttle.cyou^
 ||dorothyeltrot.qpon^
+||dorrwgmzzpsix.website^
 ||dorsalatake.com^
 ||dorsalaworrymaroons.qpon^
 ||dorsaldazing.cfd^
@@ -20435,6 +20437,7 @@ vkcdnservice.appspot.com^
 ||eynebrugeseluvium.cfd^
 ||eynol.xyz^
 ||eynuuvhwmnrpr.website^
+||eypcchne.com^
 ||eypdmolqdpeet.online^
 ||eyqsrrwmvhavp.website^
 ||eyrewxoejzwer.website^
@@ -23070,6 +23073,7 @@ vkcdnservice.appspot.com^
 ||gjamwaoovidgc.online^
 ||gjbczbgjon3v3mnql6l5t5f.cfd^
 ||gjfyeghpsuxmx.space^
+||gjhbkamjwfznod.com^
 ||gjigle.com^
 ||gjihsyopchpdlp.com^
 ||gjiruqrsnzrsi.store^
@@ -24515,6 +24519,7 @@ vkcdnservice.appspot.com^
 ||hbidfirrysrvw.global^
 ||hbivjakgfdeur.online^
 ||hbjl23w8.xyz^
+||hbklepht.qpon^
 ||hbknvlliozttz.space^
 ||hbloveinfo.com^
 ||hblsqhwlsfuax.space^
@@ -27354,6 +27359,7 @@ vkcdnservice.appspot.com^
 ||iwjbodkdwgaxq.website^
 ||iwkdgieptmede.site^
 ||iwkztnbnguswe.space^
+||iwnckvfcoozwk.space^
 ||iwnjfdbnejbah.site^
 ||iwpuegtgwmxon.space^
 ||iwqgwgcbrwukf.site^
@@ -28028,6 +28034,7 @@ vkcdnservice.appspot.com^
 ||jmcdbudkmtxchs.com^
 ||jmdreenduebqz.site^
 ||jmebwpbpvofcx.online^
+||jmeyvypsjeoap.website^
 ||jmhbjiyeren.com^
 ||jmhrmhgjkdgvd.store^
 ||jmipmxwkol.com^
@@ -29120,6 +29127,7 @@ vkcdnservice.appspot.com^
 ||kjtinecdhfmstb.com^
 ||kjtipyiisrgig.site^
 ||kjvyoirbfeivs.store^
+||kjxymjxw.com^
 ||kjxzkzulgoipl.fun^
 ||kjyytxyetnueu.club^
 ||kk7rfk5wth8yh7f.rest^
@@ -33509,6 +33517,7 @@ vkcdnservice.appspot.com^
 ||my-romanceharmony.com^
 ||my-sweetflirt.com^
 ||my1elitclub.com^
+||my96eg8fhwnjgchp1zl3qkb476l1.cfd^
 ||myadcash.com^
 ||myafriend.com^
 ||myaudioads.com^
@@ -33647,6 +33656,7 @@ vkcdnservice.appspot.com^
 ||nababroadbirch.com^
 ||nabbr.com^
 ||nabjewthoknxr.space^
+||nabluscrack.cfd^
 ||nablusloyd.cfd^
 ||nabuasbobiype.site^
 ||nachcogit.cfd^
@@ -41361,6 +41371,7 @@ vkcdnservice.appspot.com^
 ||rgezwfnbpigkd.site^
 ||rgfawwiupzdho.site^
 ||rggeolibxevzn.website^
+||rgh2tb2wowgtkok.rest^
 ||rghvyucdd.com^
 ||rgjkhlfcsntrw.website^
 ||rgjpcezrdyhuq.website^
@@ -42306,6 +42317,7 @@ vkcdnservice.appspot.com^
 ||rvlcabsakhoog.space^
 ||rvmhvgrtdzjof.space^
 ||rvolkknctgbvy.site^
+||rvqrnbxzdrasb.com^
 ||rvrpushserv.com^
 ||rvrvqzbxqtmtz.online^
 ||rvsiidddallwz.online^
@@ -46422,6 +46434,7 @@ vkcdnservice.appspot.com^
 ||teleostabsupflows.qpon^
 ||telesiskhakhamboonies.cyou^
 ||televisiongrownupcrowd.com^
+||telferrukh.cyou^
 ||telicsagummilkers.cfd^
 ||telliesmawks.com^
 ||telllwrite.com^
@@ -46977,6 +46990,7 @@ vkcdnservice.appspot.com^
 ||tjsycxwnxpqmu.online^
 ||tjtawartfkjpb.site^
 ||tjtsctymepnds.space^
+||tjtslxcwyqqy.com^
 ||tjwpnilpjtxiz.site^
 ||tjwsg.com^
 ||tjwveazohmjzd.online^
@@ -163436,6 +163450,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter ad servers
 ! Source: https://raw.githubusercontent.com/List-KR/List-KR/refs/heads/master/filterslists/adblocking/filters-share/1st_domains.txt
 !
+||serv.ds.kakao.com^
 ||cafe-ads-api.daum.net^
 ||worker.gsr-ads.co.kr^
 ||get*bannerads-6egeg2u34q-du.a.run.app^
@@ -163551,7 +163566,6 @@ analytics-*.aasaam.com
 ||displayad.lotteon.com^
 ||ad-script.viewus.co.kr^
 ||ad-insight.sellermill.com^
-||serv.ds.kakao.com^
 ||ad.auction.co.kr^
 ||dadispapi.auction.co.kr^
 ||aduniv.nesin.com^
