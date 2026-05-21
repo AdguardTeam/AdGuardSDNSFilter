@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-21T15:12:25.508Z
+! Last modified: 2026-05-21T16:58:53.807Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||tl7x928g7l3ppnqnc7ngy8wue3qgkvnb.cfd^
 ||frhiys.com^
 ||player.target-video.com^
 ||trafficoza.com^
@@ -9396,6 +9397,7 @@ vkcdnservice.appspot.com^
 ||ajfzgzbkcvsdz.space^
 ||ajggnilcptlgz.site^
 ||ajgsadialtyzq.store^
+||ajifvfpngvdd.com^
 ||ajjfmuwuxn.in^
 ||ajjlasruwwrlt.store^
 ||ajjwutdytigzg.rocks^
@@ -10460,6 +10462,7 @@ vkcdnservice.appspot.com^
 ||asiangfsex.com^
 ||asianxhub.com^
 ||asiarchnighs.qpon^
+||asifhclod.com^
 ||asilusdeploys.cyou^
 ||asilusspirket.cfd^
 ||asinlovewiththem.org^
@@ -20529,6 +20532,7 @@ vkcdnservice.appspot.com^
 ||f270fefbd3.com^
 ||f279jmh5vqkkzpylluzx3y.rest^
 ||f2a31b0912.com^
+||f2xmkjnoke4klxw9tz833.rest^
 ||f308e80f54.com^
 ||f30fpad7.xyz^
 ||f34aabcc0e.com^
@@ -38130,6 +38134,7 @@ vkcdnservice.appspot.com^
 ||plujdydfegzxm.online^
 ||plumatepullockklans.cfd^
 ||plumbertowards.com^
+||plumbicsenhorodorous.qpon^
 ||plump-chapter.pro^
 ||plump-message.pro^
 ||plumpfile.pro^
@@ -47185,7 +47190,6 @@ vkcdnservice.appspot.com^
 ||tkwthyzczevmy.website^
 ||tkyjmfwjnzyov.site^
 ||tl2go.com^
-||tl7x928g7l3ppnqnc7ngy8wue3qgkvnb.cfd^
 ||tl8wmm46yqhyiunbq4egwzkutfmpw.rest^
 ||tlcfhttbxdbhc.site^
 ||tlcpkidysoqqf.space^
@@ -48066,6 +48070,7 @@ vkcdnservice.appspot.com^
 ||tuckerclassesjackal.com^
 ||tuckergrass.com^
 ||tuckytalefulclauber.cyou^
+||tueborpercurmargot.cfd^
 ||tuedianclients.qpon^
 ||tueqwaij.com^
 ||tuesdayfetidlit.com^
@@ -150097,7 +150102,6 @@ dlsdk.appsflyer.com^
 ||js.mulan.cloud^
 ||av-mov.com^
 ||click-count.info^
-||andhub.jp^
 ||cross-a.net^
 ||tracer.jp^
 ||addlv.smt.docomo.ne.jp^
@@ -150288,6 +150292,7 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||creative.5ch.fun^
 ||textad.fc2.com^
 ||jobbox-front.mamastar.jp^
 ||ad.datadeliver.net^
