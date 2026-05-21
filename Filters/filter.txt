@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-21T07:26:05.287Z
+! Last modified: 2026-05-21T09:10:57.296Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||player.target-video.com^
 ||trafficoza.com^
 ||cdn.xclick.app^
 ||pkoapbafhgaf.in^
@@ -13592,6 +13593,7 @@ vkcdnservice.appspot.com^
 ||cabccumqxzevy.space^
 ||cabctdhsvdcye.space^
 ||cabhwq.com^
+||cabiaiquidam.qpon^
 ||cabininestimable.com^
 ||cabinpews.shop^
 ||cabinzenith.com^
@@ -29831,6 +29833,7 @@ vkcdnservice.appspot.com^
 ||kzxnxwznjezmq.website^
 ||kzzxfwvwxbfuu.website^
 ||l-iw.de^
+||l0cpto94.xyz^
 ||l1h6k1g8tfq4gu.rest^
 ||l1le6x3v87bjn3b.cfd^
 ||l1native.com^
@@ -29944,6 +29947,7 @@ vkcdnservice.appspot.com^
 ||lancasternh.com^
 ||lancbcdncmphy.online^
 ||lancerrammage.cfd^
+||lanceyatigan.com^
 ||land.pixelsee.app^
 ||landelcut.com^
 ||landerhq.com^
@@ -30970,6 +30974,7 @@ vkcdnservice.appspot.com^
 ||loliumlaceier.cfd^
 ||lollylenobhut.qpon^
 ||lolsefti.com^
+||lolvfndt.com^
 ||lominglaes.com^
 ||loneinner.com^
 ||lonelyerror.com^
@@ -31866,6 +31871,7 @@ vkcdnservice.appspot.com^
 ||marmaladestrikingcolourless.com^
 ||marphezis.com^
 ||married-divide.pro^
+||married-ring.com^
 ||marrierzizany.cyou^
 ||marrowobolet.com^
 ||marshalcurve.com^
@@ -53185,6 +53191,7 @@ vkcdnservice.appspot.com^
 ||wryabmekmukxp.site^
 ||wrybillcaban.qpon^
 ||wryentrance.pro^
+||wryspiqywpe.com^
 ||wrytailfilcherostrea.cfd^
 ||wrywcoocbugen.online^
 ||wrzkmjrbjvoae.website^
@@ -57218,6 +57225,7 @@ vkcdnservice.appspot.com^
 ||zygalbestuurgagee.cfd^
 ||zygnemalorissixteen.cyou^
 ||zygoidinvileredness.cyou^
+||zygotesoutlerbranch.cfd^
 ||zygoticlatched.cfd^
 ||zygtaxiognrri.website^
 ||zyguhojdymzqx.site^
@@ -61019,6 +61027,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||shiyifacaisalzc.com^
 ||kw0xlh4wig.com^
 ||h-adashx.ut.taobao.com^
 ||p3-ad-sign.byteimg.com^
@@ -61840,6 +61849,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||vm.target-video.com^
 ||tagmanager.andata.ru^
 ||statlytic.net^
 ||ezoicanalytics.com^
@@ -139436,7 +139446,6 @@ vkcdnservice.appspot.com^
 ||clogger.nocutnews.co.kr^
 ||reports.omegacommerce.com^
 ||pvdpix.com^
-||collector-sbanking.shb-pelib.com^
 ||uac.etnews.com^
 ||fuse.ubs.com^
 ||cdn.kmalgo.com^
@@ -150786,7 +150795,6 @@ dlsdk.appsflyer.com^
 ||superclix.de^
 ||superpromo24.de^
 ||tagrpd.de^
-||target-video.com^
 ||textklicks.de^
 ||tip-ads.de^
 ||trabro.com^
@@ -157396,6 +157404,8 @@ dlsdk.appsflyer.com^
 ||w2q5p09n8.com^
 ||oj95rctd5.com^
 ||apricot48.com^
+||6iejd9pk0.com^
+||2fhn1qmca.com^
 ||9613gwqee.com^
 ||pl7ncaj0b.com^
 ||invalidation93.com^
