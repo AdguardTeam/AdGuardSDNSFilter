@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-21T11:09:41.045Z
+! Last modified: 2026-05-21T13:16:56.765Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -7430,6 +7430,7 @@ vkcdnservice.appspot.com^
 ||4p74i5b6.de^
 ||4pnoo6qi5f2x9zzmrouxhmeo.cfd^
 ||4qrucb5jc61yo93t.rest^
+||4r67xomxbqlxbueg739n38f65uhmwcxfy2o.cfd^
 ||4rabettraff.com^
 ||4rw6e11b4llf3ox5i4fx4kvu4gv3.rest^
 ||4t9bm4ckuvnn62mkgpvrl3gb7iphylknookk.rest^
@@ -10819,6 +10820,7 @@ vkcdnservice.appspot.com^
 ||avenousovered.shop^
 ||avenuenineteenthendorsement.com^
 ||average-worry.pro^
+||avernepotalmanbria.cfd^
 ||aversionrestore.com^
 ||avesmutuspschent.cyou^
 ||aveuglecoaita.shop^
@@ -18815,6 +18817,7 @@ vkcdnservice.appspot.com^
 ||ebdyinhalj.com^
 ||ebeca096c8caf9bd59163307d4237176.com^
 ||ebemgieytjkxb.space^
+||ebenayes.shop^
 ||ebetoni.com^
 ||ebevdidgdjmhf.website^
 ||ebfclhdkkmeav.store^
@@ -19876,6 +19879,7 @@ vkcdnservice.appspot.com^
 ||erhebnlfqvquo.online^
 ||erhkyebogpkfk.online^
 ||erhlyvjhetcad.online^
+||erhmonnbkxg.com^
 ||ericasrcrachets.cyou^
 ||ericiusblurtedcallat.cyou^
 ||ericiuspatedairward.cyou^
@@ -27323,6 +27327,7 @@ vkcdnservice.appspot.com^
 ||itngonicaebll.website^
 ||itnnzkipjcxxt.space^
 ||itnwcttnwedtk.site^
+||itnwqrroaqvbbs.com^
 ||itponytaa.com^
 ||itpsfqhnjlkwl.space^
 ||itpzsqymtedb.com^
@@ -34019,6 +34024,7 @@ vkcdnservice.appspot.com^
 ||needeevo.xyz^
 ||needfullabor.com^
 ||needleenergy.cyou^
+||needlescnidiansa.qpon^
 ||needleunderstandtraveller.com^
 ||needntmoggan.qpon^
 ||needy-engineering.pro^
@@ -36471,6 +36477,7 @@ vkcdnservice.appspot.com^
 ||oundandround.com^
 ||oundhertobeconsist.org^
 ||oungimuk.net^
+||ouniywykip.com^
 ||ouowhjhuekcnar.com^
 ||oupgcgnevtqjm.site^
 ||ouphouch.com^
@@ -37767,6 +37774,7 @@ vkcdnservice.appspot.com^
 ||picoidpayout.com^
 ||picratenonane.shop^
 ||pictela.net^
+||pictureshosierygauntlet.com^
 ||picturespushfulrookie.com^
 ||picturesquesizedisabled.com^
 ||picturesqueundercover.com^
@@ -42984,6 +42992,7 @@ vkcdnservice.appspot.com^
 ||scholarsslate.com^
 ||schouwloto.com^
 ||schuhpinkify.com^
+||schuitthemata.shop^
 ||schultzhommacktires.cfd^
 ||sciathpaaldraws.qpon^
 ||sciencetipree.cfd^
@@ -47110,6 +47119,7 @@ vkcdnservice.appspot.com^
 ||tivrywxemling.website^
 ||tiwoxxmrugfzh.online^
 ||tiwvdreabxtath.com^
+||tixuilhf.com^
 ||tiymvltgbllto.site^
 ||tiypa.com^
 ||tizadgwa.in^
@@ -52063,6 +52073,7 @@ vkcdnservice.appspot.com^
 ||wgwvbmviyvszm.space^
 ||wgxnxjujenmqp.space^
 ||wgxyvkunodcrl.space^
+||wgym9gzygue44t8jqoh.rest^
 ||wgzaprexwmzki.site^
 ||wgzgarcunfpjq.space^
 ||wgzsohqshahrp.space^
@@ -56115,6 +56126,7 @@ vkcdnservice.appspot.com^
 ||zacxppiaefnun.site^
 ||zacygnygluawn.site^
 ||zacyncoewayan.site^
+||zadaqwwza.in^
 ||zaevoqatiyylf.online^
 ||zaffirbowly.cfd^
 ||zafsayaexptas.online^
@@ -139151,6 +139163,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||lex.toss.im^
 ||dsb.yahooapis.jp^
 ||clb.yahooapis.jp^
 ||eflbundles.*.com.tr^
