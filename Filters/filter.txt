@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-21T01:00:13.845Z
+! Last modified: 2026-05-21T03:15:27.000Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -6609,7 +6609,6 @@
 ||banner.tp24.it^
 ||ad.citynews.it^
 ||planner.tiscali.it^
-||adc.indextops.com^
 !
 !---------------------------------------------------------------------
 !--------------------------- Luxembourgish ---------------------------
@@ -7261,6 +7260,7 @@ vkcdnservice.appspot.com^
 ||3696a16444.com^
 ||36a7b00c00.com^
 ||36ilrz9efkib6equz.rest^
+||371pqx75ljkp8rn4g9ycyj97p2pr676u39xxi.cfd^
 ||37b3eaaf9a.com^
 ||381a8b362e.com^
 ||382be190f4.com^
@@ -8379,6 +8379,7 @@ vkcdnservice.appspot.com^
 ||acnelarick.cfd^
 ||acnesmagmata.shop^
 ||acnnuslac.in^
+||acnodalragee.cyou^
 ||acnodeszebus.cyou^
 ||acnodewaunsdefiner.qpon^
 ||acolhuaoutchidorlops.cfd^
@@ -10226,6 +10227,7 @@ vkcdnservice.appspot.com^
 ||araneaegave.qpon^
 ||araneidboruca.com^
 ||arankfascism.cfd^
+||araoyljo.com^
 ||aravynlbydwiq.site^
 ||arbaalette.cfd^
 ||arbacindawpate.cyou^
@@ -21568,6 +21570,7 @@ vkcdnservice.appspot.com^
 ||flymob.com^
 ||flysfycwdazfb.website^
 ||flytechb.com^
+||flyteinfile.qpon^
 ||fmaiyleoxlfbm.online^
 ||fmazwqtzwcfym.website^
 ||fmcnbmrafxjwq.website^
@@ -28381,6 +28384,7 @@ vkcdnservice.appspot.com^
 ||jsnryngvalfji.site^
 ||jsoggeqfmzzqi.website^
 ||jsotpyjprlcaz.website^
+||jsqykbqsmgtoxc.com^
 ||jsretra.com^
 ||jssckcpqylmzc.site^
 ||jssearch.net^
@@ -34419,6 +34423,7 @@ vkcdnservice.appspot.com^
 ||njufaubstlpar.space^
 ||njujzrcqgdtkz.online^
 ||njunyihalsdvb.site^
+||njusaobixciko.com^
 ||njxcbzvxmmdgk.website^
 ||njxrpzdwiduhs.online^
 ||njyjqkggyxjplm.com^
@@ -40026,6 +40031,7 @@ vkcdnservice.appspot.com^
 ||qquhzi4f3.com^
 ||qquxahyfqinua.site^
 ||qqxganfj.com^
+||qqyvehqdjjgygg.com^
 ||qqznesheignkm.site^
 ||qr-player-new.com^
 ||qramxcijceyve.online^
@@ -40409,6 +40415,7 @@ vkcdnservice.appspot.com^
 ||r-tb.com^
 ||r023m83skv5v.com^
 ||r1rk8fph952ozx68.rest^
+||r5punx29pi72k7q.rest^
 ||r63engo6xw8jtkpze.cfd^
 ||r66net.com^
 ||r66net.net^
@@ -41459,6 +41466,7 @@ vkcdnservice.appspot.com^
 ||rgsoxfrxdalom.website^
 ||rgsqnlcimzekb.space^
 ||rgstispqfesdl.website^
+||rgswxxrpbhvqb.com^
 ||rgtirdhtvixql.online^
 ||rgubidzwowcpf.space^
 ||rgv6pbmrvxo2ii68ylz5.rest^
@@ -163625,6 +163633,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter third-party ad servers
 ! Source: https://raw.githubusercontent.com/List-KR/List-KR/refs/heads/master/filterslists/adblocking/filters-share/3rd_domains.txt
 !
+||adv.imadrep.co.kr^
 ||delivery.pryzmads.com^
 ||barohere.xyz^
 ||ad.adwiser.kr^
@@ -163783,7 +163792,6 @@ analytics-*.aasaam.com
 ||adx.turl.co.kr^
 ||adservice.google.co.*
 ||tvetamovie.pstatic.net^
-||adv.imadrep.co.kr^
 ||ads-*.v.ssp.yahoo.com^
 ||safeframe.googlesyndication.com^
 ||adservice.google.com^
