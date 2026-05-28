@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-05-28T11:18:27.767Z
+! Last modified: 2026-05-28T13:23:42.963Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -6289,7 +6289,8 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
-!
+||ads-banner.s3.ap-south-1.amazonaws.com^
+||widget.revtrixjs.com^
 ||dump.mewcdn.online^
 ||a.hentaiocean.com^
 ||adradar.io^
@@ -10417,6 +10418,7 @@ vkcdnservice.appspot.com^
 ||areekwiney.com^
 ||areelwefteddwined.cyou^
 ||aretfleechprotura.cyou^
+||argasthuya.cyou^
 ||argelchanger.com^
 ||arglingpistole.com^
 ||argoangivenssensed.qpon^
@@ -12318,6 +12320,7 @@ vkcdnservice.appspot.com^
 ||birchsottagejacksaw.cfd^
 ||birdseyewings.co^
 ||birkieserwiniababied.cyou^
+||birkssynfuel.qpon^
 ||birmadonzellittles.cyou^
 ||birsleunhired.com^
 ||birthjeans.icu^
@@ -13494,6 +13497,7 @@ vkcdnservice.appspot.com^
 ||bulrev.com^
 ||bulserv.com^
 ||bultenbrings.cyou^
+||bultensettima.cyou^
 ||bulterbeavers.cfd^
 ||bulyiel.com^
 ||bumblerkondevihuela.qpon^
@@ -20067,6 +20071,7 @@ vkcdnservice.appspot.com^
 ||entaspectsofc.org^
 ||enteraessoign.cfd^
 ||enteringlacquergiant.com^
+||enterpriseswithmetric.net^
 ||entertainenslave.com^
 ||entertainlavish.com^
 ||entertainment3x.fun^
@@ -20504,6 +20509,7 @@ vkcdnservice.appspot.com^
 ||ettledaily.qpon^
 ||ettlingaminize.cfd^
 ||etudehamotzi.cyou^
+||etuiplucktuchit.qpon^
 ||etuiscowheel.cfd^
 ||etukuqstzpkzz.space^
 ||etvfomflpnciy.site^
@@ -20521,6 +20527,7 @@ vkcdnservice.appspot.com^
 ||etymonsibycter.com^
 ||etyxnwwdelabh.site^
 ||eu8759jwcy6q6nw.rest^
+||euamsyybdrutu.online^
 ||euastereustele.cyou^
 ||euavmxvgeqrlz.website^
 ||eubobpzucyagl.online^
@@ -20957,6 +20964,7 @@ vkcdnservice.appspot.com^
 ||eztomplopxvqp.site^
 ||ezvijslewvvhu.store^
 ||ezvtaxxurcgdi.website^
+||ezvtbdbetfadd.online^
 ||ezvtfyjvrdbzx.site^
 ||ezvthdrknbfad.space^
 ||ezxkarybihqoo.space^
@@ -22076,6 +22084,7 @@ vkcdnservice.appspot.com^
 ||fmkuhozxqvwro.site^
 ||fmlabsonline.com^
 ||fmlpbnbnipdon.website^
+||fmlyrtrltvkog.site^
 ||fmmdeedxwmurs.space^
 ||fmmxfomnbpisz.space^
 ||fmogafttanac.in^
@@ -22891,6 +22900,7 @@ vkcdnservice.appspot.com^
 ||fwmknvveyfahw.site^
 ||fwnezrrjmbjjl.space^
 ||fwqasyuebarqa.space^
+||fwqszfazgzsni.website^
 ||fwrtzdlspzybl.space^
 ||fwsigpacfqznc.site^
 ||fwtlvkgbmqqme.space^
@@ -24178,6 +24188,7 @@ vkcdnservice.appspot.com^
 ||gqiikkuqzsxrt.store^
 ||gqiqpebzsgcrc.website^
 ||gqkrkcicjfzwi.website^
+||gqlfryiiowcxl.online^
 ||gqljjqqvrdfqe.online^
 ||gqmtibuirhtld.website^
 ||gqnfkfrunjxdw.world^
@@ -25681,6 +25692,7 @@ vkcdnservice.appspot.com^
 ||hkhybjktdvdwt.space^
 ||hkihkoxqjcmmu.online^
 ||hkjfukkhwfepo.club^
+||hkjjdovnjipgd.space^
 ||hkjwazawuwxiy.online^
 ||hkkfbxwzlbjgt.space^
 ||hkkhsppnknkoy.space^
@@ -25729,6 +25741,7 @@ vkcdnservice.appspot.com^
 ||hlumreexivler.space^
 ||hlxyidqacaivu.site^
 ||hlzz3qt35ko683.rest^
+||hm21c417mxqzl1xqu.rest^
 ||hm5kvflwlh3kcwy6zoro.rest^
 ||hmacucmc.in^
 ||hmbcfccmdpcmg.space^
@@ -26214,6 +26227,7 @@ vkcdnservice.appspot.com^
 ||htvwdruzmaqlb.site^
 ||htxewqjuhqtpe.site^
 ||htytwwkdgqxyd.space^
+||huacdyxdftxzz.website^
 ||huashiaspire.com^
 ||huawoyjmdtyag.love^
 ||hubailinks.com^
@@ -26304,6 +26318,7 @@ vkcdnservice.appspot.com^
 ||hunter-hub.com^
 ||hunterheroiccompassion.com^
 ||hunterlead.com^
+||huowamtxlunei.online^
 ||hupdeeno.com^
 ||hupxbntreuoieemcubt.cfd^
 ||hupysrriepvxy.online^
@@ -27522,6 +27537,7 @@ vkcdnservice.appspot.com^
 ||instanceimprovedhew.com^
 ||instancejuxtaposeteaspoon.com^
 ||instances228.com^
+||instances360.net^
 ||instanceswith790.com^
 ||instant4ck.com^
 ||instantconservativedetect.com^
@@ -30337,6 +30353,7 @@ vkcdnservice.appspot.com^
 ||ksvnwdhtvndeq.site^
 ||ksyizuzdhiqsw.website^
 ||kszrmrhuwgrsy.website^
+||kt2gl4cqj7mj2b9o2b4glj59.cfd^
 ||kt81r6fbpevjr867571juq7p.cfd^
 ||ktceuakfbblrx.store^
 ||kteawsjm.com^
@@ -30390,6 +30407,7 @@ vkcdnservice.appspot.com^
 ||kukemyfueuktur.com^
 ||kukrosti.com^
 ||kukyzzgcbrwdl.online^
+||kulakswindows.com^
 ||kulgiscpimw.in^
 ||kulmetbepart.shop^
 ||kulqdzhpmvokp.online^
@@ -30745,6 +30763,7 @@ vkcdnservice.appspot.com^
 ||laptopchoose.com^
 ||laptopprivacyado.com^
 ||laquyeoxkzrfv.website^
+||larajtfzeb.in^
 ||larchesrotates.com^
 ||larditeephelismomes.qpon^
 ||larditetahsincineast.cfd^
@@ -38863,6 +38882,7 @@ vkcdnservice.appspot.com^
 ||pipeagemowhaflorid.cyou^
 ||pipeaota.com^
 ||pipedbrassesixodic.cfd^
+||pipemanslypes.shop^
 ||pipeofferear.com^
 ||piperharmfuldeclaration.com^
 ||pipetmosette.com^
@@ -40051,6 +40071,7 @@ vkcdnservice.appspot.com^
 ||protrckit.com^
 ||proudlyfunkywanderer.com^
 ||proudlyhint.com^
+||proudpanayanhulster.cfd^
 ||provenperch.com^
 ||provenpixel.com^
 ||provewaky.cyou^
@@ -42859,6 +42880,7 @@ vkcdnservice.appspot.com^
 ||rjlusqndupefgd.com^
 ||rjmagdairzath.website^
 ||rjmjflkndiqxw.site^
+||rjqrgqrdeykimk.com^
 ||rjquorhm.xyz^
 ||rjqwkmcvxsouz.space^
 ||rjqxnscfpzsau.website^
@@ -48832,6 +48854,7 @@ vkcdnservice.appspot.com^
 ||tppzhzfi3616lo4vri7z8pzc7kck461.rest^
 ||tpqlkcltn.com^
 ||tpubwzwrhdcst.store^
+||tpvbcudkld.com^
 ||tpvmdlxpvcenz.vip^
 ||tpxhrwevqwdft.site^
 ||tpxludqpybpkx.store^
@@ -50078,6 +50101,7 @@ vkcdnservice.appspot.com^
 ||ukmtendationfo.org^
 ||uknagosdkxakmo.com^
 ||ukojrtbssuvae.space^
+||ukqkoxjaiccovu.com^
 ||ukrkskillsombine.com^
 ||ukuleletruong.cyou^
 ||ukvlnjcpnxsly.website^
@@ -58200,6 +58224,7 @@ vkcdnservice.appspot.com^
 ||zkoutcrnsylxf.website^
 ||zksgjpokbsfle.online^
 ||zktpzpvozjuim.site^
+||zkudhohty.in^
 ||zkutisahd.in^
 ||zkvovu2lj97q8o7773gig8wluuttop.cfd^
 ||zkwaefehqtlx.com^
@@ -158755,6 +158780,8 @@ dlsdk.appsflyer.com^
 ||y55lspa2v6.com^
 ||ydxgph.top^
 ||8eo93qj18r.com^
+||fwjtfo8f4z.com^
+||35lnvz97cg.com^
 ||qsjdi1vyq.com^
 ||jcyy3wifq.com^
 ||r1jprcr42.com^
