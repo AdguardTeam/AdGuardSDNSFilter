@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-01T07:57:25.997Z
+! Last modified: 2026-06-01T08:27:33.091Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -7393,6 +7393,7 @@ vkcdnservice.appspot.com^
 ||3nv8w7p84tlxm1nugjpwi5eyy.rest^
 ||3pkf5m0gd.com^
 ||3qfe1gfa.de^
+||3rw0usds.xyz^
 ||3tcrzmb1pvwo86m.cfd^
 ||3uhg1kxxf4x88z.rest^
 ||3uu168bhcc3e4c4u3ztv3.rest^
@@ -19866,6 +19867,7 @@ vkcdnservice.appspot.com^
 ||eiugequvqnhjw.online^
 ||eiul28e6jn8vu5r4u4btzy52vmtnj5z8.cfd^
 ||eiwouldlikukemyf.com^
+||eiwwvprgpeidlsa.com^
 ||eixgdeonnumrp.site^
 ||eiyqffkwnorae.space^
 ||eiyyjstblubzo.website^
@@ -32223,6 +32225,7 @@ vkcdnservice.appspot.com^
 ||loathsomeboy.com^
 ||lobbecalm.com^
 ||lobby-x.eu^
+||lobefinrewires.com^
 ||loboamoke.cyou^
 ||loboclick.com^
 ||lobparde.qpon^
@@ -39004,6 +39007,7 @@ vkcdnservice.appspot.com^
 ||peccantdhurna.com^
 ||peccantstuck.cfd^
 ||pechaycorbels.shop^
+||pechspemphix.cyou^
 ||pecialukizeias.info^
 ||pecialukizeias.org^
 ||pecifyspacing.com^
@@ -55903,6 +55907,7 @@ vkcdnservice.appspot.com^
 ||wxkvfxvujdpwl.site^
 ||wxlatgcemmkkv.site^
 ||wxlgtwrcruaui.online^
+||wxmn-defender.pro^
 ||wxmxrg3551onwl2wq.cfd^
 ||wxnbmpishocym.online^
 ||wxngociwgiqin.online^
@@ -154178,13 +154183,8 @@ dlsdk.appsflyer.com^
 -728-x-90.
 -728x90a.
 .1080.x.90.
-||aurum.tirto.id^
 @@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
 ||ads.gmbr.pro^
-||getandplay.web.id^
-||bondeddarkenedswerve.com^
-||shopnoit.com^
-||wonderfulyesterday.com^
 -bandarkiu.
 -tototix.gif
 !
@@ -166546,6 +166546,9 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2058
+! Blocked by CNAME data.adobedc.net
+@@||data.notify.macys.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/
 @@||om-ssl.consorsbank.de^|
 ! taboolanews.com
