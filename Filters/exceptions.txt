@@ -1,3 +1,6 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2058
+! Blocked by CNAME data.adobedc.net
+@@||data.notify.macys.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/
 ! Blocked by CNAME omtrdc.net
 @@||om-ssl.consorsbank.de^|
