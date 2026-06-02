@@ -35,7 +35,7 @@ The output is written to `Filters/filter.txt`.
 
 * [AdGuard Spanish/Portuguese filter](https://adguardteam.github.io/AdguardFilters/SpanishFilter/sections/adservers.txt)
 
-* [AdGuard Spanish/Portuguese filter — first-party servers](https://adguardteam.github.io/AdguardFilters/FrenchFilter/sections/adservers_firstparty.txt)
+* [AdGuard Spanish/Portuguese filter — first-party servers](https://adguardteam.github.io/AdguardFilters/SpanishFilter/sections/adservers_firstparty.txt)
 
 * [AdGuard common Cyrillic filters ad servers](https://adguardteam.github.io/AdguardFilters/CyrillicFilters/common-sections/adservers.txt)
 
