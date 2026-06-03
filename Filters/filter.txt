@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-03T17:46:19.070Z
+! Last modified: 2026-06-03T19:26:58.896Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||aboveboardcomplicate.com^
 ||as-pet.ams3.cdn.digitaloceanspaces.com^
 ||cdclub.net^
 ||lib-wp.dev^
@@ -7605,6 +7606,7 @@ vkcdnservice.appspot.com^
 ||5x9ni2gj348kxqxpkmq4zq.rest^
 ||5z35ikghjnh7zry1vxn2l619b49ug9b7.cfd^
 ||6-partner.com^
+||6000nexeo.com^
 ||600977f9ec.com^
 ||600network.com^
 ||600z.com^
@@ -8139,6 +8141,7 @@ vkcdnservice.appspot.com^
 ||abhmancnvqweb.site^
 ||abidebrokestow.com^
 ||abidersawkly.cfd^
+||abigeatfabular.cfd^
 ||abixvrdblyakx.website^
 ||abjmkkoavoaor.top^
 ||abjmkkoavooow.top^
@@ -14531,6 +14534,7 @@ vkcdnservice.appspot.com^
 ||coqyrewjv.com^
 ||cor8ni3shwerex.com^
 ||coralcanarydepend.com^
+||corbinaborinekalium.qpon^
 ||cordbraghare.com^
 ||cordclck.cc^
 ||cordialbail.com^
@@ -15660,6 +15664,7 @@ vkcdnservice.appspot.com^
 ||debriefdollopsiccity.cyou^
 ||debristopmeanwhile.com^
 ||debtdispleaseboss.com^
+||debugger55.com^
 ||debutknee.com^
 ||decagoncorrida.com^
 ||deccsvyxcvhfe.website^
@@ -19923,6 +19928,7 @@ vkcdnservice.appspot.com^
 ||forbearsnob.com^
 ||forbesresistread.com^
 ||forbidcrenels.com^
+||forbstempobrawly.qpon^
 ||forcefulbeginning.com^
 ||forcefulpacehauled.com^
 ||forcefulwest.com^
@@ -20011,6 +20017,7 @@ vkcdnservice.appspot.com^
 ||forworksyconus.com^
 ||forwornahurewa.com^
 ||forzubatr.com^
+||fosfrgpcqy.com^
 ||fossealible.cfd^
 ||fosvicfniswpan.com^
 ||fotmrrwfgprar.fun^
@@ -21895,6 +21902,7 @@ vkcdnservice.appspot.com^
 ||gttmehelya.cyou^
 ||gtuetxpyzuaeg.website^
 ||gtuxvjpwgyzob.online^
+||gtymujomz.in^
 ||gtzlkagsbdukg.site^
 ||guaiacrinka.qpon^
 ||guarapototes.com^
@@ -27992,6 +28000,7 @@ vkcdnservice.appspot.com^
 ||lnsiurd.com^
 ||lntxkgrcy.com^
 ||lnwfcptfhvojt.site^
+||lnwinvvctx.com^
 ||lnxiaotrtdsrx.site^
 ||lnzitobjnmskk.space^
 ||lnzsinagpafgv.website^
@@ -30914,6 +30923,7 @@ vkcdnservice.appspot.com^
 ||ngy1fklz2jm9jx1.rest^
 ||nhatsadwafljs.site^
 ||nhcgucgrsnupg.online^
+||nhdalwapuz.com^
 ||nhelzh785g5o8j.cfd^
 ||nheopaobzlrqc.site^
 ||nhfaikgbjpfyp.online^
@@ -32218,9 +32228,11 @@ vkcdnservice.appspot.com^
 ||oidgctozcfsrr.site^
 ||oiestalepistons.qpon^
 ||oifeqfiurelhe.site^
+||oifthjnpbzycw.online^
 ||oifyyeiuwnpzc.space^
 ||oihjkobiyortd.space^
 ||oihqicgerrfoo.site^
+||oiismyzivtine.website^
 ||oijcphjwiabsg.online^
 ||oilcasekareeta.qpon^
 ||oilcontainsdisaster.com^
@@ -32896,6 +32908,7 @@ vkcdnservice.appspot.com^
 ||oubjioinzrpre.space^
 ||oubqwkmhrcpat.fun^
 ||oubsyeanqzytl.online^
+||oucdafmfbalfh.space^
 ||ouchruse.com^
 ||oucouksirt.com^
 ||oucpambrmtexm.online^
@@ -36679,6 +36692,7 @@ vkcdnservice.appspot.com^
 ||qqkbagfoxsjkh.online^
 ||qqkedfhbdpgos.space^
 ||qqkfxyzjdfqfz.online^
+||qqkwyhcvxntow.website^
 ||qqlbvxkyyvpec.com^
 ||qqmcsrexbarfk.site^
 ||qqnqbtmfruuea.space^
@@ -37128,6 +37142,7 @@ vkcdnservice.appspot.com^
 ||racesmoulderstamp.com^
 ||racespreachersupper.com^
 ||raceusid.com^
+||racgpoclwvdub.space^
 ||rachialreautetubik.cfd^
 ||rachkoorka.shop^
 ||racialboats.com^
@@ -45582,6 +45597,7 @@ vkcdnservice.appspot.com^
 ||u6l8wz25k14tiw14fkr36jk4y.rest^
 ||u6nzocj8yhztopr.rest^
 ||u6qvhj9ogrvwm2w9rfy2xx2yln41.rest^
+||u6ri3pl25937yvqv.rest^
 ||u6yw73p22inqj8bc.rest^
 ||u8jcqi64vy6yq54vmncxt9.cfd^
 ||u8uuf485yg58huj97bl.cfd^
@@ -48386,6 +48402,7 @@ vkcdnservice.appspot.com^
 ||vvklvhpx.com^
 ||vvlplnkzympin.online^
 ||vvltexsrdpmas.website^
+||vvmtotjtg3cwm3kout9h.cfd^
 ||vvnbeszocfcfs.site^
 ||vvobyordqyq.com^
 ||vvolnzdglprvf.store^
