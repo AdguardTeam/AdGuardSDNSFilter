@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-04T11:08:42.541Z
+! Last modified: 2026-06-04T13:15:00.236Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -278,6 +278,7 @@
 ||atp.revistamuchomas.com^$dnsrewrite=ad-block.dns.adguard.com
 ||atsg.me^$dnsrewrite=ad-block.dns.adguard.com
 ||atthhnv.com^$dnsrewrite=ad-block.dns.adguard.com
+||atzonebd.com^$dnsrewrite=ad-block.dns.adguard.com
 ||auroraveil.bid^$dnsrewrite=ad-block.dns.adguard.com
 ||auto-ads6.site^$dnsrewrite=ad-block.dns.adguard.com
 ||avlmy.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -460,6 +461,7 @@
 ||imkirh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||inbrowserplay.com^$dnsrewrite=ad-block.dns.adguard.com
 ||indlyment-stuador.com^$dnsrewrite=ad-block.dns.adguard.com
+||inspoloji.com^$dnsrewrite=ad-block.dns.adguard.com
 ||installupdate.online^$dnsrewrite=ad-block.dns.adguard.com
 ||intellipopup.com^$dnsrewrite=ad-block.dns.adguard.com
 ||internodeid.com^$dnsrewrite=ad-block.dns.adguard.com
