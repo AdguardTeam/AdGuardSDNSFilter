@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-04T22:35:12.357Z
+! Last modified: 2026-06-05T01:02:27.675Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -7575,6 +7575,7 @@ vkcdnservice.appspot.com^
 ||5d1c052a11.com^
 ||5d32q.com^
 ||5d4d1bb29b.com^
+||5d5e0ea8b7.com^
 ||5e14ab617d.com^
 ||5e1jng5u4lfi5i9qqi.rest^
 ||5e80d21184.com^
@@ -7831,6 +7832,7 @@ vkcdnservice.appspot.com^
 ||7w4f7nvo9j29zl6ptzqn2ft.cfd^
 ||7wqnxuznr1zm15.cfd^
 ||7xylvi8v9up5pbxbj.cfd^
+||8000inpulse.com^
 ||8000trexon.com^
 ||800482112b.com^
 ||8088vector.com^
@@ -8013,6 +8015,7 @@ vkcdnservice.appspot.com^
 ||9f91b59591.com^
 ||9fcd0e3ecc.com^
 ||9fe32291ce.com^
+||9ff1a25009.com^
 ||9flq9e2q5bgjn5u9m2.cfd^
 ||9h6wuyen6kmm6rptqujjm2mkuij3bbpo6.cfd^
 ||9ifg7ogelxyci71ll6vph4upe.rest^
@@ -8070,6 +8073,7 @@ vkcdnservice.appspot.com^
 ||a65d5614b2.com^
 ||a69cc901e9.com^
 ||a6d8f8172f.com^
+||a883950043.com^
 ||a8aebc73ca.com^
 ||a8bea9eb5d.com^
 ||a9562f872f.com^
@@ -9330,6 +9334,7 @@ vkcdnservice.appspot.com^
 ||ajymcnmtnmqwq.website^
 ||ajyuwkiddocui.website^
 ||ajzaqzrfi.in^
+||ajzhdwawvxsqw.site^
 ||ajzupjfxoddqz.love^
 ||ak-is2.net^
 ||akahpvdbdmwdu.website^
@@ -11661,6 +11666,7 @@ vkcdnservice.appspot.com^
 ||bjdgzffnutlqs.site^
 ||bjdsmnjybmjdl.site^
 ||bjgjunljwykym.space^
+||bjhgmnodswcdr.space^
 ||bjhpulhgqfq.com^
 ||bjifvwduqly.com^
 ||bjiqmvkhrsa.com^
@@ -12870,6 +12876,7 @@ vkcdnservice.appspot.com^
 ||c607b31b1a.com^
 ||c635e33b2e.com^
 ||c6f63c450a.com^
+||c6fuo6cx2rz5ywyh.cfd^
 ||c6qjz3jojnt43ntol4v7zbq7q.rest^
 ||c74l4kr3f2fjv8j.rest^
 ||c7f4d1276e.com^
@@ -16580,6 +16587,7 @@ vkcdnservice.appspot.com^
 ||dmvrsoswhzthb.online^
 ||dmwbspizchjlu.website^
 ||dmxtdltgndcco.site^
+||dmygufgyluhqf.online^
 ||dmytamepgcifk.store^
 ||dmytmtarhxret.online^
 ||dmzadtwonmlfn.online^
@@ -16990,6 +16998,7 @@ vkcdnservice.appspot.com^
 ||dsdbdt.com^
 ||dsderq.com^
 ||dsdwlk.com^
+||dsdxgl.com^
 ||dsectslimy.cyou^
 ||dseel9.com^
 ||dsetx3.com^
@@ -19083,6 +19092,7 @@ vkcdnservice.appspot.com^
 ||fancyresponse.com^
 ||fancytravelingrid.com^
 ||fancywhim.com^
+||fandomsalauntapathic.cyou^
 ||fandomsnidely.com^
 ||fangmoonlight.com^
 ||fantabro.com^
@@ -20403,6 +20413,7 @@ vkcdnservice.appspot.com^
 ||frztpfjmnuexn.space^
 ||fsaidkuqxrbu.com^
 ||fsalfrwdr.com^
+||fsbbtdtxzswq.com^
 ||fscxctfrt.com^
 ||fsdxhpfpkccrk.site^
 ||fsdzafmzbdyan.store^
@@ -22063,6 +22074,7 @@ vkcdnservice.appspot.com^
 ||gulesarable.qpon^
 ||gulioamsivgik.site^
 ||gulistyiddish.cfd^
+||gulleystarnie.qpon^
 ||gullstheasum.cfd^
 ||gulpermoloid.qpon^
 ||gulsyangtao.guru^
@@ -23354,6 +23366,7 @@ vkcdnservice.appspot.com^
 ||hrawfoyklhfmg.website^
 ||hrcswcfxhqdff.website^
 ||hrfokuusjun.com^
+||hrfvjmmvlevt.com^
 ||hrheke2bjuc818n7tkvbpczui9b.cfd^
 ||hridjrvfzh.com^
 ||hrient.xyz^
@@ -23598,6 +23611,7 @@ vkcdnservice.appspot.com^
 ||hwnsopghuafi.com^
 ||hwntbehufghtb.online^
 ||hwocwionv.com^
+||hwouarlltsgmo.website^
 ||hwpnocpctu.com^
 ||hwsyicaxuuwyl.online^
 ||hwtryxoyqoskua.com^
@@ -24128,6 +24142,7 @@ vkcdnservice.appspot.com^
 ||illuminous.xyz^
 ||illusionpool.com^
 ||illusivecleavepsychopath.com^
+||illusorrayat.shop^
 ||illustrious-whereas.com^
 ||illustriousarrival.com^
 ||ilmat-deo.com^
@@ -28498,6 +28513,7 @@ vkcdnservice.appspot.com^
 ||ltssxkwful.com^
 ||lttceuqgmuxal.store^
 ||ltwicopymopsey.cyou^
+||ltwinanrnmpou.online^
 ||ltxjxhrvpqpxp.site^
 ||ltymvdqtbywss.site^
 ||ltywmialhmhcgr.com^
@@ -29196,6 +29212,7 @@ vkcdnservice.appspot.com^
 ||mcyvlhru.com^
 ||mczbf.com^
 ||mdbsmkponfsof.site^
+||mdbwmuxcnbyir.online^
 ||mdcmwrxomkirb.space^
 ||mdd18ho6.xyz^
 ||mddbdmylgchjx.space^
@@ -29227,6 +29244,7 @@ vkcdnservice.appspot.com^
 ||meager-conclusion.com^
 ||mealdisparitydrip.com^
 ||mealockcoucher.shop^
+||meamdntykavo.com^
 ||meaninglessoccasionalrevision.com^
 ||meantimenourishclothes.com^
 ||meantimesubside.com^
@@ -29645,6 +29663,7 @@ vkcdnservice.appspot.com^
 ||miogjhwfpg.com^
 ||miorokkyhdjna.store^
 ||mioymlvrhmlsk.online^
+||miqanfobx.in^
 ||miraclethisaddicted.com^
 ||mirazu-denhaag.nl^
 ||mircctme29hgbjny.cfd^
@@ -32935,6 +32954,7 @@ vkcdnservice.appspot.com^
 ||organizerprocedure.com^
 ||organsblond.com^
 ||orgassme.com^
+||orgieslostorage.qpon^
 ||orguxptcjchuj.website^
 ||oricrpswujpuw.website^
 ||orientaldumbest.com^
@@ -35642,6 +35662,7 @@ vkcdnservice.appspot.com^
 ||processingcontinuediligence.com^
 ||processingnettleremiss.com^
 ||processors7070.com^
+||processors801.net^
 ||processors911.com^
 ||proclaimsaneconviction.com^
 ||proclamationnimble.com^
@@ -36841,6 +36862,7 @@ vkcdnservice.appspot.com^
 ||qoclick.com^
 ||qodsrphkv.com^
 ||qoebdgzpnonpu.online^
+||qoeoqslqczksq.website^
 ||qoewovfmkn4rw3u.rest^
 ||qofzpsdexjmbw.site^
 ||qogalkrrlekvgt.com^
@@ -39593,6 +39615,7 @@ vkcdnservice.appspot.com^
 ||rzeso.com^
 ||rzeuizwtvteer.online^
 ||rzewgczctigqx.online^
+||rzixhrjxkalva.online^
 ||rzlrufrrgqzgo.space^
 ||rzlszgljghrwq.site^
 ||rzndvgmnmjqqd.online^
@@ -44249,6 +44272,7 @@ vkcdnservice.appspot.com^
 ||thrbeimqnkiql.com^
 ||threadbareforever.pro^
 ||threatdetect.org^
+||threatenletters.com^
 ||threavedouceur.cyou^
 ||threefortressfork.com^
 ||threepdefleazillah.cfd^
@@ -45834,6 +45858,7 @@ vkcdnservice.appspot.com^
 ||tzahvkqybkdrx.store^
 ||tzarangevinmistico.qpon^
 ||tzarswodgerattus.cfd^
+||tzb8wp7pobwzynk6cey2omrpxtmu1.rest^
 ||tzdgpmdrcoenq.space^
 ||tzegilo.com^
 ||tzepbopyvsdav.site^
@@ -45882,6 +45907,7 @@ vkcdnservice.appspot.com^
 ||u9nt4b44w8itex.rest^
 ||uabkqdfvtguvj.online^
 ||uabvpjljbbaqa.website^
+||uacopcyogxrqni.com^
 ||uactszpkkulbv.space^
 ||uacugnyezgqvp.site^
 ||uacvdinzsjqbv.site^
@@ -55047,6 +55073,7 @@ vkcdnservice.appspot.com^
 ||zubivu.com^
 ||zubniivgigntj.website^
 ||zubtvnuahsszj.site^
+||zubvdghmyhajk.website^
 ||zubxulmxdrtxy.website^
 ||zucany.click^
 ||zucks.net^
