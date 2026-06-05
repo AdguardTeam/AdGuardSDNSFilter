@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-05T11:11:44.004Z
+! Last modified: 2026-06-05T13:10:30.770Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -320,6 +320,7 @@
 ||camliveshow.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||candellume.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||candyai.love^$dnsrewrite=ad-block.dns.adguard.com
+||career-mesh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cashgzb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||casinobonusdeals.io^$dnsrewrite=ad-block.dns.adguard.com
 ||cauditcommernal.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -399,6 +400,7 @@
 ||fantabro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fascespro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fastdntrk.com^$dnsrewrite=ad-block.dns.adguard.com
+||fhvfd.com^$dnsrewrite=ad-block.dns.adguard.com
 ||finanvideos.com^$dnsrewrite=ad-block.dns.adguard.com
 ||flowldsf.online^$dnsrewrite=ad-block.dns.adguard.com
 ||flyingadvert.com^$dnsrewrite=ad-block.dns.adguard.com
