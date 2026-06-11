@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-11T13:29:09.323Z
+! Last modified: 2026-06-11T15:15:31.693Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||103.179.189.35^
+||twimg.cash^
 ||dclsrv.com^
 ||dtasrvr.com^
 ||gresrv.com^
@@ -7700,6 +7702,7 @@ vkcdnservice.appspot.com^
 ||4f9owkfrreiey78.cfd^
 ||4fee6d013f.com^
 ||4g0b1inr.de^
+||4go9fyj9lq2echn47b2wbz9.rest^
 ||4hjiic33j1ovqvz1.cfd^
 ||4htpt287i7xmceyy7fffqligkptwk.cfd^
 ||4i3u8ncfz7ygmew8.cfd^
@@ -17216,6 +17219,7 @@ vkcdnservice.appspot.com^
 ||docbahgcmhoxc.site^
 ||docentcliquybepen.cyou^
 ||docilemolies.qpon^
+||dociousaggryoutrang.cyou^
 ||dockoutinteract.com^
 ||docpicvggkfcp.site^
 ||doctrinekettleworsening.com^
@@ -18297,6 +18301,7 @@ vkcdnservice.appspot.com^
 ||edua29146y.com^
 ||edubhsffaoqcw.site^
 ||educated-chip.pro^
+||educatedanswer.pro^
 ||educatedmonitor.pro^
 ||edukicationandasm.com^
 ||edulsmxrwtwup.space^
@@ -18655,6 +18660,7 @@ vkcdnservice.appspot.com^
 ||elizei.xyz^
 ||eljclnqgctqng.online^
 ||eljeunmkjiamm.space^
+||elkintwsgtmnabu.com^
 ||elkony.xyz^
 ||elkunbalanceunfounded.com^
 ||elkwbjoihltxayn.com^
@@ -19302,6 +19308,7 @@ vkcdnservice.appspot.com^
 ||ethogwmtg.com^
 ||etiolinedwardstoons.qpon^
 ||etivbuvltde.com^
+||etizxmcerpddd.com^
 ||etjoeybjppksy.site^
 ||etjrkgaqrkfad.space^
 ||etkybhmigxoyt.site^
@@ -19442,6 +19449,7 @@ vkcdnservice.appspot.com^
 ||ewbvurkrbxspe.vip^
 ||ewcrmziovfmfm.website^
 ||ewdegomme.com^
+||ewdhzytwfkpq.com^
 ||eweconciliate.com^
 ||eweictecqjawcv.com^
 ||ewerertalpid.com^
@@ -33436,6 +33444,7 @@ vkcdnservice.appspot.com^
 ||oblongstick.pro^
 ||obmpabheweiku.space^
 ||oboesunseremirrory.qpon^
+||obpixdxirrqyp.website^
 ||obqj2.com^
 ||obqj5.com^
 ||obqofgohro.in^
@@ -34687,6 +34696,7 @@ vkcdnservice.appspot.com^
 ||oviyhrfxhwm.com^
 ||ovjprmmgkbqu.com^
 ||ovjsarsipbah.in^
+||ovl3h4oo1vw7xxc.cfd^
 ||ovngwowapygbl.site^
 ||ovnudogmtcypg.online^
 ||ovnwwuohwxis.in^
@@ -34816,6 +34826,7 @@ vkcdnservice.appspot.com^
 ||oyo4d.com^
 ||oypsbshislmqf.com^
 ||oypyfyhkem.com^
+||oyrsdqzzdfmjy.website^
 ||oysterbywordwishful.com^
 ||oysterspottery.com^
 ||oytudnrubcwqp.online^
@@ -36987,6 +36998,7 @@ vkcdnservice.appspot.com^
 ||ptckdrakgycat.store^
 ||ptcpprwobiwgx.online^
 ||ptctmvbodxcsm.store^
+||ptcvcxjesgkqx.site^
 ||ptekuwiny.pro^
 ||ptelastaxo.com^
 ||pteleaspiring.top^
@@ -37371,6 +37383,7 @@ vkcdnservice.appspot.com^
 ||pythicquinols.cfd^
 ||pytkdwpsaghfp.site^
 ||pytnufizhslky.space^
+||pytswepoazpej.website^
 ||pyudirsgzbzbq.site^
 ||pyuzvhrkqfwdg.online^
 ||pyvanqnmywiop.website^
@@ -37583,6 +37596,7 @@ vkcdnservice.appspot.com^
 ||qgitfyktwfhba.website^
 ||qgkbveukreear.site^
 ||qgkmvbxkskdeb.space^
+||qgkqbffrjxrqc.website^
 ||qgkwnmyiwalgh.site^
 ||qgmoslspensxh.buzz^
 ||qgnjagnvbajux.online^
@@ -38135,6 +38149,7 @@ vkcdnservice.appspot.com^
 ||qwfmqkysepqin.online^
 ||qwgruwrtcyxft.store^
 ||qwikln.com^
+||qwiqbppovqbpq.com^
 ||qwkqmrjte.com^
 ||qwlmacbmwmtum.online^
 ||qwnizqblmkevc.space^
@@ -39393,6 +39408,7 @@ vkcdnservice.appspot.com^
 ||rjg4ojoohzj847jjfx2crv.cfd^
 ||rjguonqztwmgs.store^
 ||rjhfdigsyzfgt.website^
+||rjiabaqzpzndn.website^
 ||rjjkvbxmrqrjqka.com^
 ||rjlbuhirag.com^
 ||rjlfacjephuqy.website^
@@ -40294,6 +40310,7 @@ vkcdnservice.appspot.com^
 ||salleamebean.com^
 ||salmoncontroversy.com^
 ||salseprudely.com^
+||saltantcactusaitches.cyou^
 ||saltcooee.cfd^
 ||salterpothole.com^
 ||saltestinwraps.cyou^
@@ -40542,6 +40559,7 @@ vkcdnservice.appspot.com^
 ||sciurussunday.cyou^
 ||scjlfpfzmuqjzj.com^
 ||scjylqtrugste.space^
+||sckolyzbykufh.website^
 ||scl6gc5l.site^
 ||sclatelygeummaffias.cfd^
 ||sclerbaboot.qpon^
@@ -44098,6 +44116,7 @@ vkcdnservice.appspot.com^
 ||thugincompatibleme.com^
 ||thujashardly.cyou^
 ||thuliasbangos.cyou^
+||thuliasseck.qpon^
 ||thulrnephews.qpon^
 ||thumbsakund.cfd^
 ||thump-night-stand.com^
@@ -140365,6 +140384,7 @@ dlsdk.appsflyer.com^
 ||juicebard.com^
 ||juiceblocks.com^
 ||juicingoasis.com^
+||jumbochalk.com^
 ||justconfig.com^
 ||justicejudo.com^
 ||justlagoon.com^
@@ -144274,6 +144294,7 @@ dlsdk.appsflyer.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||adv.ukrinform.com^
 ||a4.censor.net^
 ||safeview.ukr.net^
 ||api.moonanime.art^
@@ -152056,6 +152077,7 @@ dlsdk.appsflyer.com^
 ||g8nwdolod.com^
 ||pv7ezc6as.com^
 ||9mdg9cu59.com^
+||mliyokonw.com^
 ||whkhct2lnf.com^
 ||5ipifco2tf.com^
 ||4uitrrt700.com^
