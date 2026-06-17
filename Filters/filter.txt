@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-17T08:00:52.286Z
+! Last modified: 2026-06-17T08:35:54.812Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -12544,6 +12544,7 @@ vkcdnservice.appspot.com^
 ||boringherbalprewashed.com^
 ||boringlength.com^
 ||borishagamas.qpon^
+||borlnobuksicqh.com^
 ||bornkaejpngkp.website^
 ||bororountieddampish.cfd^
 ||borosproty.com^
@@ -14019,6 +14020,7 @@ vkcdnservice.appspot.com^
 ||chalahsturkess.cyou^
 ||chaliceguzzlerlandlord.com^
 ||chalkedretrieval.com^
+||challaspajamas.qpon^
 ||challengingdevaluationperiods.com^
 ||chamberscrisiswalnut.com^
 ||chamberssnorted.com^
@@ -20640,6 +20642,7 @@ vkcdnservice.appspot.com^
 ||floozybalkish.com^
 ||floppybyes.com^
 ||floralrichardapprentice.com^
+||florlatticetunable.qpon^
 ||florulaplumose.cfd^
 ||flossiegorcrow.com^
 ||flossyethanol.com^
@@ -44917,6 +44920,7 @@ vkcdnservice.appspot.com^
 ||txgpgszrhedyl.online^
 ||txgtadnmmwwte.space^
 ||txgupjxzbxvsx.online^
+||txhwoqrtjbfer.online^
 ||txjgnbljkekft.space^
 ||txjjuoxttdlhl.store^
 ||txljgipkkispw.space^
@@ -47081,6 +47085,7 @@ vkcdnservice.appspot.com^
 ||vmxckyomhbtcz.space^
 ||vmxneqttwxhcv.site^
 ||vnaeqsorsffzh.online^
+||vnakjojlazcpm.online^
 ||vnbbfvgbeklnf.store^
 ||vndhbthmtxgzo.space^
 ||vndrosaaypjvu.website^
@@ -48730,6 +48735,7 @@ vkcdnservice.appspot.com^
 ||worried-part.com^
 ||worried-sample.com^
 ||worriedcup.com^
+||worrisome-republic.com^
 ||worrisome-sea.com^
 ||worrisomeshop.pro^
 ||worrycuriositymafia.com^
@@ -48762,6 +48768,7 @@ vkcdnservice.appspot.com^
 ||woulukdliketob.org^
 ||woundmarkaching.com^
 ||wovufaobxkzie.online^
+||wowgwmezvkuav.site^
 ||wowrapidly.com^
 ||wowserymala.qpon^
 ||woxbnkonxwvrk.site^
@@ -56027,7 +56034,6 @@ vkcdnservice.appspot.com^
 ||analytics.ekonsilio.io^
 ||insights.xyba.dev^
 ||sts.marketingsuite.jp^
-||image-sap.sfmc-content.com^
 ||umami.vidup.to^
 ||umami.vidfast.pro^
 ||umami.vidcore.net^
@@ -158343,9 +158349,6 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
-! https://github.com/AdguardTeam/AdguardFilters/issues/233756
-! Blocked by CNAME image-sap.sfmc-content.com
-@@||image.edm.cba.com.au^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2058
 ! Blocked by CNAME data.adobedc.net
 @@||data.notify.macys.com^|
