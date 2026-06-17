@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-17T05:45:54.721Z
+! Last modified: 2026-06-17T06:39:01.157Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -12131,6 +12131,7 @@ vkcdnservice.appspot.com^
 ||bkgzynoggdslv.website^
 ||bkhhmyjvmfgxg.online^
 ||bkhxwqbelpzhs.website^
+||bkibtbefjo.com^
 ||bkijujawkswpp.online^
 ||bkjblyuukoavf.site^
 ||bkjcspqtrlafh.online^
@@ -19112,6 +19113,7 @@ vkcdnservice.appspot.com^
 ||eqpmzcorwgnda.store^
 ||eqpuvcjjipmjn.space^
 ||eqrhjwucwwf.com^
+||eqtwpbcssbyps.space^
 ||equal-foundation.pro^
 ||equalfall.pro^
 ||equarm.click^
@@ -23000,6 +23002,7 @@ vkcdnservice.appspot.com^
 ||gvsbtyngvsmoe.online^
 ||gvsevgkqvgixo.site^
 ||gvt2.com^
+||gvtn15ptwzuqunki3ph7ouw3.cfd^
 ||gvvjxpto.com^
 ||gvvoeniecnqyj.online^
 ||gvwzokdttbsnj.online^
@@ -23989,6 +23992,7 @@ vkcdnservice.appspot.com^
 ||hnzjwtcajadzi.space^
 ||ho2b3cfb7x276rojfmoy6q.cfd^
 ||hoanghmyqzkgrg.com^
+||hoanxhazxowrv.site^
 ||hoardsketosehenry.qpon^
 ||hoarsecelebrityversus.com^
 ||hoarsenhardish.shop^
@@ -37050,6 +37054,7 @@ vkcdnservice.appspot.com^
 ||q5n5kpn155jni6nympw621.cfd^
 ||q5ne9bqjw3ku5n8.rest^
 ||q5u4e9tlejr3jwk7ppbjvlm1qev7bqzv9.cfd^
+||q6y1kqc4p2v7ozj2p2zokx.rest^
 ||q7595ocypu5y4j.rest^
 ||q7lenkjtrejknx9c8wwo4vo.cfd^
 ||q7t47k27l7xhl41nk2upiq4y.cfd^
@@ -44558,6 +44563,7 @@ vkcdnservice.appspot.com^
 ||truigugrwqguh.store^
 ||trulysuitedcharges.com^
 ||trumpgorry.com^
+||trumpshydroxy.cfd^
 ||trunkedhede.qpon^
 ||truoptik.com^
 ||trusa.xyz^
@@ -45304,6 +45310,7 @@ vkcdnservice.appspot.com^
 ||ukegpnsbemegy.store^
 ||ukentaspectsofc.org^
 ||ukeovxygndoxt.site^
+||ukesmuskiejudaist.qpon^
 ||ukftnxfewriwl.store^
 ||ukhuxahqxswax.store^
 ||ukjrlefiioqmn.online^
@@ -48222,6 +48229,7 @@ vkcdnservice.appspot.com^
 ||whouseem.com^
 ||whpgbplalfntt.site^
 ||whpjtwxolfmtkf.com^
+||whqastntsfcpwya.com^
 ||whqpeeiwrex.com^
 ||whqtuypvdxzdk.website^
 ||whriwifnxuvmg.website^
@@ -49748,6 +49756,7 @@ vkcdnservice.appspot.com^
 ||xtzpesixgcobs.website^
 ||xuajhybskerxo.space^
 ||xubarcastn.in^
+||xubchynamm.in^
 ||xubjwrbzpapoc.website^
 ||xucylxthpajss.site^
 ||xudhsoctwc.com^
@@ -158322,6 +158331,9 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/233756
+! Blocked by CNAME image-sap.sfmc-content.com
+@@||image.edm.cba.com.au^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2058
 ! Blocked by CNAME data.adobedc.net
 @@||data.notify.macys.com^|
