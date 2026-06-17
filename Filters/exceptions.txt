@@ -1,7 +1,3 @@
-! https://github.com/AdguardTeam/AdguardFilters/issues/233756
-! Blocked by CNAME image-sap.sfmc-content.com
-@@||image.marketing.medibank.com.au^|
-@@||image.edm.cba.com.au^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2058
 ! Blocked by CNAME data.adobedc.net
 @@||data.notify.macys.com^|
