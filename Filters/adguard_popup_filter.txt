@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-22T03:17:52.902Z
+! Last modified: 2026-06-22T05:56:44.324Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -379,7 +379,6 @@
 ||dithodackee.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dlrectdates.com^$dnsrewrite=ad-block.dns.adguard.com
 ||domainparkingmanager.it^$dnsrewrite=ad-block.dns.adguard.com
-||donkeyflower.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||dpuppers.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dreamteamaffiliates.com^$dnsrewrite=ad-block.dns.adguard.com
 ||drsmediaexchange.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -548,7 +547,6 @@
 ||momotrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||moontrkr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mosved.com^$dnsrewrite=ad-block.dns.adguard.com
-||movie-tv-free.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mylot.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mynutraresearch.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mytdsnet.com^$dnsrewrite=ad-block.dns.adguard.com
