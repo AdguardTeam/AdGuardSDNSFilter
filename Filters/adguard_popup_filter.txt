@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-06-25T05:26:59.148Z
+! Last modified: 2026-06-25T07:20:44.538Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -478,7 +478,6 @@
 ||jegiopad.top^$dnsrewrite=ad-block.dns.adguard.com
 ||jeroud.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jiuwert.online^$dnsrewrite=ad-block.dns.adguard.com
-||jnbhi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||js-check.com^$dnsrewrite=ad-block.dns.adguard.com
 ||junkyadexchange.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jwalkin.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -1017,6 +1016,7 @@
 ||islamiclyricallyvariable.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jetm-tech.net^$dnsrewrite=ad-block.dns.adguard.com
 ||jewhouca.net^$dnsrewrite=ad-block.dns.adguard.com
+||jnbhi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||karissavip.com^$dnsrewrite=ad-block.dns.adguard.com
 ||laserveradedomaina.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lenzmx.com^$dnsrewrite=ad-block.dns.adguard.com
