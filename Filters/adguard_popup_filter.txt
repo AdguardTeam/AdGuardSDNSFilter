@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-04T12:30:29.362Z
+! Last modified: 2026-07-04T14:34:00.266Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -244,6 +244,7 @@
 ||ads-blocker.app^$dnsrewrite=ad-block.dns.adguard.com
 ||ads4trk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adsco.re^$dnsrewrite=ad-block.dns.adguard.com
+||adsgateway.net^$dnsrewrite=ad-block.dns.adguard.com
 ||adskeeper.co.uk^$dnsrewrite=ad-block.dns.adguard.com
 ||adspredictiv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adsquasher.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -315,6 +316,7 @@
 ||bunth.net^$dnsrewrite=ad-block.dns.adguard.com
 ||byethost41.net^$dnsrewrite=ad-block.dns.adguard.com
 ||c3j7rk-rtbix.top^$dnsrewrite=ad-block.dns.adguard.com
+||camads.workers.dev^$dnsrewrite=ad-block.dns.adguard.com
 ||camliveshow.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||candellume.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||candyai.love^$dnsrewrite=ad-block.dns.adguard.com
@@ -474,6 +476,7 @@
 ||land.pixelsee.app^$dnsrewrite=ad-block.dns.adguard.com
 ||landerhq.com^$dnsrewrite=ad-block.dns.adguard.com
 ||leadgainz.com^$dnsrewrite=ad-block.dns.adguard.com
+||leadimmensely.com^$dnsrewrite=ad-block.dns.adguard.com
 ||leakvideos.live^$dnsrewrite=ad-block.dns.adguard.com
 ||leoyard.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lindychat.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -483,6 +486,7 @@
 ||locooler-ageneral.com^$dnsrewrite=ad-block.dns.adguard.com
 ||locopar.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lorymo.online^$dnsrewrite=ad-block.dns.adguard.com
+||lstgddss.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lwnbts.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lylufhuxqwi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||madeupice.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -623,6 +627,7 @@
 ||r8bz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||racunn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||radiancerelaysacred.com^$dnsrewrite=ad-block.dns.adguard.com
+||ragan-qdr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rbtfit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rcdn-web.com^$dnsrewrite=ad-block.dns.adguard.com
 ||realsh.xyz^$dnsrewrite=ad-block.dns.adguard.com
