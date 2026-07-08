@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-08T12:39:41.973Z
+! Last modified: 2026-07-08T14:50:47.523Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -447,6 +447,7 @@
 ||icubeswire.co^$dnsrewrite=ad-block.dns.adguard.com
 ||imkirh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||indlyment-stuador.com^$dnsrewrite=ad-block.dns.adguard.com
+||inseparalled.com^$dnsrewrite=ad-block.dns.adguard.com
 ||inspoloji.com^$dnsrewrite=ad-block.dns.adguard.com
 ||installupdate.online^$dnsrewrite=ad-block.dns.adguard.com
 ||intellipopup.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -691,6 +692,7 @@
 ||stortla.com^$dnsrewrite=ad-block.dns.adguard.com
 ||strtgic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stsbih.com.ba^$dnsrewrite=ad-block.dns.adguard.com
+||studiotrackmusic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||superfasti.co^$dnsrewrite=ad-block.dns.adguard.com
 ||suptraf.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sxlflt.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -729,6 +731,7 @@
 ||trknovi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trkpostback.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trksmorestreacking.com^$dnsrewrite=ad-block.dns.adguard.com
+||tropixel.online^$dnsrewrite=ad-block.dns.adguard.com
 ||trpool.org^$dnsrewrite=ad-block.dns.adguard.com
 ||try.opera.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tsyndicate.com^$dnsrewrite=ad-block.dns.adguard.com
