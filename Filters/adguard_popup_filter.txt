@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-14T22:23:30.987Z
+! Last modified: 2026-07-15T00:36:06.933Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -329,6 +329,7 @@
 ||casinobonusdeals.io^$dnsrewrite=ad-block.dns.adguard.com
 ||cauditcommernal.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cautommityring.com^$dnsrewrite=ad-block.dns.adguard.com
+||cawsg.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cddtsecure.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ceramicturtleremnant.com^$dnsrewrite=ad-block.dns.adguard.com
 ||checkcdn.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -339,6 +340,7 @@
 ||clickblitzo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clickmintads.site^$dnsrewrite=ad-block.dns.adguard.com
 ||clickpunch.icu^$dnsrewrite=ad-block.dns.adguard.com
+||cliphotbokep.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||clixwells.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clladss.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cloudvideosa.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -500,6 +502,7 @@
 ||making.party^$dnsrewrite=ad-block.dns.adguard.com
 ||maredpt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||marketingthing.click^$dnsrewrite=ad-block.dns.adguard.com
+||marovia.cc^$dnsrewrite=ad-block.dns.adguard.com
 ||masterreviews.org^$dnsrewrite=ad-block.dns.adguard.com
 ||maxconvtrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||maxickedpantents.com^$dnsrewrite=ad-block.dns.adguard.com
