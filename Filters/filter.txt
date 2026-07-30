@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-07-30T10:45:59.847Z
+! Last modified: 2026-07-30T12:39:21.002Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||warkedmalie.com^
 ||tubexazimebeze.com^
 ||traffinity.pro^
 ||nhgmymxth.com^
@@ -8344,6 +8345,7 @@ vkcdnservice.appspot.com^
 ||6umn37i4z1fhe47ljkzb1wr.cfd^
 ||6v41p4bsq.com^
 ||6v5lljx5tj283h.rest^
+||6wiv9qrwyqb4o2t4p4.cfd^
 ||6wrmchzzrcfff2zp.cfd^
 ||6wtznnfc58nofw166.cfd^
 ||6x5zcncbhiufy4jy7nnh.rest^
@@ -13541,6 +13543,7 @@ vkcdnservice.appspot.com^
 ||bprsvoikehhdr.space^
 ||bpstramcar.cfd^
 ||bptibdkuxvrxg.space^
+||bpuvhttysbcjj.online^
 ||bpvoctpvauvyv.website^
 ||bpxly1rnlywuc1.cfd^
 ||bpydkiqi.com^
@@ -16721,6 +16724,7 @@ vkcdnservice.appspot.com^
 ||crustdisagreeable.com^
 ||crustedmailbag.qpon^
 ||crutchstubbornultimatum.com^
+||crutterlaughychulpa.cfd^
 ||cruxgpnyrvvur.website^
 ||crwdcntrl.net^
 ||crwlmdpzabosr.online^
@@ -17845,6 +17849,7 @@ vkcdnservice.appspot.com^
 ||descz.ovh^
 ||desekansr.com^
 ||desenteir.com^
+||desequalsduplexs.qpon^
 ||deserteddealsuperstitious.com^
 ||desertedtransition.com^
 ||desertercommitment.com^
@@ -20918,6 +20923,7 @@ vkcdnservice.appspot.com^
 ||etnxtlqhknmmb.space^
 ||etpczpxzzjnsj.space^
 ||etphoneme.com^
+||etqkkwmmjcvtp.website^
 ||etqyveeihyh7uu.rest^
 ||ettaletted.cfd^
 ||etuiplucktuchit.qpon^
@@ -21492,6 +21498,7 @@ vkcdnservice.appspot.com^
 ||fantomravioli.shop^
 ||fanza.cc^
 ||faobdrpumevmc.website^
+||faorluljvlhmx.online^
 ||faozkbjgxvdjh.online^
 ||fapesmopeage.qpon^
 ||faptdsway.ru^
@@ -22449,6 +22456,7 @@ vkcdnservice.appspot.com^
 ||fneseravined.qpon^
 ||fnfbjhfwumxnmg.com^
 ||fnfprkylegylz.online^
+||fngffbtwxfacn.website^
 ||fngjuhuiommfv.online^
 ||fngvepnjonsdl.online^
 ||fnieftbduxjdr.online^
@@ -23637,6 +23645,7 @@ vkcdnservice.appspot.com^
 ||gekpjfmuzimlg.online^
 ||gekpsivjequd.com^
 ||gekwhplfmbvuz.online^
+||gelatiainvars.qpon^
 ||geldanteructs.shop^
 ||gelhp.com^
 ||gellynocketescalan.qpon^
@@ -24650,6 +24659,7 @@ vkcdnservice.appspot.com^
 ||gripspigyard.com^
 ||grisbetspoons.cyou^
 ||grixix.com^
+||grizaqtzuwaz.in^
 ||grkchngbqikeg.site^
 ||grkhxqiwpic.com^
 ||grmpxwtgdspjk.online^
@@ -26791,6 +26801,7 @@ vkcdnservice.appspot.com^
 ||iavjpgaexobcc.website^
 ||iavlxljzdclmz.space^
 ||iavzanqufopsk.site^
+||iawlfvexumomn.online^
 ||iaxitnxmakuso.store^
 ||iaxlwgtgcotvb.space^
 ||iazcpoptkwapp.store^
@@ -27982,6 +27993,7 @@ vkcdnservice.appspot.com^
 ||irpexory.cfd^
 ||irpfhsfkfwgon.website^
 ||irpiqgeapqxrv.website^
+||irqasftfs.com^
 ||irradiatestartle.com^
 ||irrealslushessumbal.cyou^
 ||irresponsibilitystealdestroyer.com^
@@ -48926,6 +48938,7 @@ vkcdnservice.appspot.com^
 ||typobonaghtorphize.cyou^
 ||typwcoroner.cfd^
 ||tyrannipokier.cfd^
+||tyringyar.cyou^
 ||tyrotation.com^
 ||tyserving.com^
 ||tysigpzjxjegb.space^
@@ -54370,6 +54383,7 @@ vkcdnservice.appspot.com^
 ||yieldsrearerstacana.qpon^
 ||yieldtraffic.com^
 ||yigrwlisuduca.website^
+||yihknpvsjhstu.site^
 ||yiizjiqqknoyp.site^
 ||yijorkvmvbpkq.online^
 ||yiloaguwoauyd.site^
@@ -60209,7 +60223,6 @@ vkcdnservice.appspot.com^
 !
 !
 ||analytics.xxcontent.lol^
-||aladinia.app^
 ||cdp.customer.io^
 ||cloud.monolytics.app^
 ||acv.mira-dsp.com^
@@ -137521,6 +137534,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||dap.hindustantimes.com^
 ||faro.civitai.
 ||analyticsehnwe.servicebus.windows.net^
 ||flow-control.profitroom.net^
