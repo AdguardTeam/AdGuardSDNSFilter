@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-04T16:39:50.150Z
+! Last modified: 2026-08-04T17:15:30.231Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -13444,6 +13444,7 @@ vkcdnservice.appspot.com^
 ||bold-potential.com^
 ||boldestedifierfijian.cfd^
 ||boletetimers.cfd^
+||bolichejerl.cyou^
 ||bolidedecided.cyou^
 ||bolkdoutous.qpon^
 ||bollixpapula.com^
@@ -17215,6 +17216,7 @@ vkcdnservice.appspot.com^
 ||cuteab.com^
 ||cuterbond.com^
 ||cutescale.online^
+||cuteysdefang.qpon^
 ||cutinseats.qpon^
 ||cutiplpknfpbn.online^
 ||cuttagetibiale.qpon^
@@ -18449,6 +18451,7 @@ vkcdnservice.appspot.com^
 ||diqartxheos.com^
 ||diqbgqeteua.com^
 ||diqjitlusjki.com^
+||diquatfulani.cyou^
 ||dirbvattydams.site^
 ||direcompulsion.com^
 ||direct-specific.com^
@@ -18895,6 +18898,7 @@ vkcdnservice.appspot.com^
 ||dominionclatterrounded.com^
 ||dominioneastern.com^
 ||domipush.com^
+||domnsooky.cyou^
 ||dompeterapp.com^
 ||domslc.com^
 ||donarrabblerdegener.cyou^
@@ -21760,6 +21764,7 @@ vkcdnservice.appspot.com^
 ||factsheetgrievancekeg.com^
 ||facultativethus.com^
 ||facultycoffeehouseharp.com^
+||facundapogenylandmen.cyou^
 ||facxqniewyxym.site^
 ||facxsfbnusxhn.online^
 ||fadegranted.com^
@@ -34089,6 +34094,7 @@ vkcdnservice.appspot.com^
 ||mitblcskeqhxr.site^
 ||mitellaimponewoilie.cyou^
 ||mitherhugsrantism.cyou^
+||mitomedrabbed.shop^
 ||mitopamosal.com^
 ||mitresaxillae.com^
 ||mittenagregelatania.cfd^
@@ -40473,6 +40479,7 @@ vkcdnservice.appspot.com^
 ||promdidna.com^
 ||promerycergerful.com^
 ||prominentpray.com^
+||promisecresyls.qpon^
 ||promiseoncomestey.qpon^
 ||promisespreepanic.com^
 ||promo-bc.com^
@@ -42630,6 +42637,7 @@ vkcdnservice.appspot.com^
 ||reflamebilosotogyps.qpon^
 ||reflectingbunaloud.com^
 ||reflectinglouiseera.com^
+||refletsimpala.cyou^
 ||reflowsamchoor.cfd^
 ||reflushcabook.qpon^
 ||refluxvenous.cfd^
@@ -44912,6 +44920,7 @@ vkcdnservice.appspot.com^
 ||semaisebriseisrereel.cyou^
 ||semeel.click^
 ||semeiashesha.cyou^
+||sementunpower.qpon^
 ||semestersets.com^
 ||semiansyllab.cfd^
 ||semicjubiles.cyou^
@@ -51690,6 +51699,7 @@ vkcdnservice.appspot.com^
 ||vdukpbmavzcne.store^
 ||vdulz.org^
 ||vdunprmzgffmf.site^
+||vdvefaheagcdd.space^
 ||vdvqtappes.com^
 ||vdwgagjfqoreu.site^
 ||vdxagufwubpfb.space^
@@ -52712,6 +52722,7 @@ vkcdnservice.appspot.com^
 ||vypddqizgpkpo.store^
 ||vypmgvwjvgztv.space^
 ||vyragdxymcqtw.online^
+||vysdevmiatwcx.website^
 ||vyshuddphvxka.store^
 ||vyspfyimbwvls.site^
 ||vytix.net^
@@ -53622,6 +53633,7 @@ vkcdnservice.appspot.com^
 ||wildxxxparties.com^
 ||wilechacmas.cyou^
 ||wilecrrlefaxq.space^
+||wiledatomity.qpon^
 ||willierdeacon.cyou^
 ||willingcease.com^
 ||willinglybasketball.com^
@@ -54030,6 +54042,7 @@ vkcdnservice.appspot.com^
 ||wormlaboratoryspeeding.com^
 ||wornoutquica.qpon^
 ||wornpichi.shop^
+||worqzcrxiwuob.online^
 ||worried-advantage.com^
 ||worried-difference.pro^
 ||worried-sample.com^
@@ -163971,6 +163984,9 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/237216
+! Blocked by CNAME nonstoppartner.net
+@@||partner.o2online.de^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2058
 ! Blocked by CNAME data.adobedc.net
 @@||data.notify.macys.com^|
