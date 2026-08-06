@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-06T06:59:53.116Z
+! Last modified: 2026-08-06T08:59:39.078Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -14386,6 +14386,7 @@ vkcdnservice.appspot.com^
 ||bxekozqvwcqeg.space^
 ||bxerfbkaoasof.space^
 ||bxeudxdfgadgu.website^
+||bxfgfcmeltucf.site^
 ||bxfvaugytecwq.online^
 ||bxhnfmijbikzg.space^
 ||bxjbczzwzwwwqb.rest^
@@ -18467,6 +18468,7 @@ vkcdnservice.appspot.com^
 ||digubpgjkdmsl.website^
 ||digzjnuguwwxr.online^
 ||diiazyhybjtmj.online^
+||diiurvdpkowra.site^
 ||diiwesvtjlvmq.com^
 ||dijhqtrrbgn.com^
 ||dijqktxogljjz.site^
@@ -18838,6 +18840,7 @@ vkcdnservice.appspot.com^
 ||dlqbioenjjwsv.store^
 ||dlrectdates.com^
 ||dlvakopvbuiwi.website^
+||dlvtovzizpsie.online^
 ||dlwhtkiilipxk.site^
 ||dlwmkldaebzds.website^
 ||dlxmifugldvqe.website^
@@ -31226,6 +31229,7 @@ vkcdnservice.appspot.com^
 ||ksknhvggsizbu.store^
 ||kskruypohtmpa.website^
 ||kslchomhajbop.website^
+||kslfjvhhmbrgg.online^
 ||kslfqcxumewry.store^
 ||ksnhwtjoaoeim.space^
 ||ksprjvv.com^
@@ -39066,6 +39070,7 @@ vkcdnservice.appspot.com^
 ||pctv.xyz^
 ||pcxpmbmuialjb.space^
 ||pcyqadvwrqsmc.online^
+||pczpmmuhpxlgv.com^
 ||pdainpzfelpch.site^
 ||pdebfoicutkdt.site^
 ||pdfsearchhq.com^
@@ -40179,6 +40184,7 @@ vkcdnservice.appspot.com^
 ||polymnymoriscocrible.qpon^
 ||polypsburrer.cyou^
 ||polyzoaalkenna.cfd^
+||pomatoapheticfindal.cfd^
 ||pomdjvfzinqft.website^
 ||pomegranatestaff.com^
 ||pomeloglinse.cfd^
@@ -44498,6 +44504,7 @@ vkcdnservice.appspot.com^
 ||rxvm745j7enijf6tup7e.rest^
 ||rxvyaqqvdnblc.space^
 ||rxwjetugafkwt.online^
+||rxwnarkzmm.com^
 ||rxwudmurgnloh.com^
 ||ryapalta.com^
 ||rybbhembyqtm.com^
@@ -45098,6 +45105,7 @@ vkcdnservice.appspot.com^
 ||sczsjiyrfjgcv.website^
 ||sda.seesaa.jp^
 ||sdadarotfnhoy.website^
+||sdbobiolgvewi.site^
 ||sdcgnlnlnlayq.store^
 ||sddan.com^
 ||sddmtfxmpwcntr.com^
@@ -47849,6 +47857,7 @@ vkcdnservice.appspot.com^
 ||surahsbimas.com^
 ||suralbolty.cyou^
 ||surancetowns.com^
+||surbasedetergepians.cfd^
 ||surbasestaling.cyou^
 ||surbedchubbed.cyou^
 ||surecheapermoisture.com^
@@ -55670,6 +55679,7 @@ vkcdnservice.appspot.com^
 ||xwreckontur.com^
 ||xwskxrfsvcooqt.com^
 ||xwtpdmsgkfbrz.online^
+||xwtxqjtsrxoop.website^
 ||xwvtqtsrlgedu.space^
 ||xwwnlmicmcmly.website^
 ||xwxgjtxsrnkrh.space^
@@ -142624,6 +142634,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.qoqa.com^
 !
 ! Appsflyer
+||tfpodf.ars.appsflyersdk.com^
 ||inapps.appsflyersdk.com^
 ||skadsdk.appsflyersdk.com^
 ||attr.appsflyersdk.com^
@@ -142639,6 +142650,7 @@ dlsdk.appsflyersdk.com^
 ||*launches.appsflyersdk.com^
 ||*conversions.appsflyersdk.com^
 ||*register.appsflyersdk.com^
+||lklfwu-inapps.appsflyersdk.com^
 ||adrevenue.appsflyer.com^
 ||api.appsflyer.com^
 ||api2.appsflyer.com^
@@ -142826,7 +142838,6 @@ dlsdk.appsflyer.com^
 ||weblogger-wss.cool*cloud.com^
 ||mebed.dm-event.net^
 ||bstream.kzhi.tech^
-||lklfwu-inapps.appsflyersdk.com^
 ||mob2.welltastic-app.com^
 ||amplitude.thepure.app^
 ||amplilab.thepure.app^
@@ -148045,6 +148056,7 @@ dlsdk.appsflyer.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||chernomaza.link^
 ||getter.cfd^
 ||svetoborka.link^
 ||kudlavasta.link^
@@ -152063,8 +152075,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Aug 2026 13:49 UTC+7
-! Version: 2608051349
+! Last modified: 06 Aug 2026 15:33 UTC+7
+! Version: 2608061533
 ! Blocked: 847 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -152858,8 +152870,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Aug 2026 13:48 UTC+7
-! Version: 2608051348
+! Last modified: 06 Aug 2026 15:33 UTC+7
+! Version: 2608061533
 ! Blocked: 4.891 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
