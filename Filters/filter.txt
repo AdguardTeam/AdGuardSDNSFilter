@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-06T22:03:00.031Z
+! Last modified: 2026-08-07T00:02:33.103Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -6753,6 +6753,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||launcher.disconetwork.com^
 ||serve.affiliate.heurekashopping.sk^
 ||ad.sexplex.com^
 ||rtb-*.anysex.com^
@@ -11745,6 +11746,7 @@ vkcdnservice.appspot.com^
 ||awbrwrywkwqwj.top^
 ||awcdwdfygrroo.store^
 ||awcrpu.com^
+||awcrtwixcknps.space^
 ||awcudwyjwypzu.space^
 ||awdeliverynet.com^
 ||awdfkryyfgmqd.website^
@@ -22123,6 +22125,7 @@ vkcdnservice.appspot.com^
 ||favorite-mine.com^
 ||favourableafter.com^
 ||favourfeeble.shop^
+||favusraband.com^
 ||fawgsjeeidnjp.space^
 ||faxbfxhkdjoma.icu^
 ||faxesresever.cfd^
@@ -23394,6 +23397,7 @@ vkcdnservice.appspot.com^
 ||frautkgibbbwj.space^
 ||frawnshaves.shop^
 ||frayed-coat.pro^
+||frayed-total.pro^
 ||frayingfilmize.cyou^
 ||fraynchasty.cyou^
 ||fraynrills.cyou^
@@ -26548,6 +26552,7 @@ vkcdnservice.appspot.com^
 ||highwayearningsexpand.com^
 ||hignflrwzlwhw.online^
 ||higpcebtahfsg.online^
+||hihzzviwzfizx.website^
 ||hiinscgrshtbh.space^
 ||hiiona.com^
 ||hijackprolans.cfd^
@@ -27975,6 +27980,7 @@ vkcdnservice.appspot.com^
 ||ilmwkysdrigqa.online^
 ||ilndjlsjkyjmc.website^
 ||ilnoogrbnajuo.space^
+||ilnpvmilsryyt.site^
 ||ilolvlalbyqfm.space^
 ||iloptrex.com^
 ||ilotgust.cyou^
@@ -29435,6 +29441,7 @@ vkcdnservice.appspot.com^
 ||jejtyepybvjoc.website^
 ||jejunanieves.qpon^
 ||jeknoeqcgedl.com^
+||jelskefrankspt.cyou^
 ||jemadebvhndzn.space^
 ||jen8hf15cfe82cg12g21nnfiy.cfd^
 ||jenaxin.cfd^
@@ -34558,6 +34565,7 @@ vkcdnservice.appspot.com^
 ||mladedda.net^
 ||mlatrmae.net^
 ||mlbqkzrsjsyny.space^
+||mlcuqrxnehjdk.space^
 ||mlcvibxhsegss.online^
 ||mlcwydddevumu.space^
 ||mlczxpuognpxe.store^
@@ -40563,6 +40571,7 @@ vkcdnservice.appspot.com^
 ||pqrecast.cyou^
 ||pqrpqzhcsyihr.website^
 ||pqsjujuhicwrx.online^
+||pqswknirvnotz.space^
 ||pqthctoaotsik.online^
 ||pqtrzqahglzco.website^
 ||pqudnqrlwleqr.site^
@@ -43558,6 +43567,7 @@ vkcdnservice.appspot.com^
 ||rftxmwcivenzn.space^
 ||rfuglkuve.com^
 ||rfwmfadnncajl.site^
+||rfxzfkxwcbjqu.site^
 ||rfy9tfr8ucpnlvphcq.cfd^
 ||rfytbwblzrznd.website^
 ||rfzjyoayftjgb.website^
@@ -46172,6 +46182,7 @@ vkcdnservice.appspot.com^
 ||sjgvokmmsgudn.space^
 ||sjiuevumbyiir.website^
 ||sjkigukddtknz.store^
+||sjmecmkwfcask.site^
 ||sjnsiuqhjmugz.store^
 ||sjobmfxcchbad.online^
 ||sjowkktmatgny.site^
@@ -50759,6 +50770,7 @@ vkcdnservice.appspot.com^
 ||uddougqbgbhmg.website^
 ||udfaguykrfeur.site^
 ||udggmzfrdhxcs.site^
+||udgzgdb.com^
 ||udickegdvorrn.website^
 ||udjolmaphsyfo.online^
 ||udjvwsvv.com^
@@ -56472,6 +56484,7 @@ vkcdnservice.appspot.com^
 ||yogapersuasive.com^
 ||yogbucxeeigvs.space^
 ||yoghburglesmuskier.cyou^
+||yoghssylphid.qpon^
 ||yogictullianmesodic.cfd^
 ||yogismsemilor.qpon^
 ||yogjylemldvjb.online^
@@ -56664,6 +56677,7 @@ vkcdnservice.appspot.com^
 ||yt7ztgi0.xyz^
 ||ytccvtdtsfocf.online^
 ||ytcevwvxsghwdg.com^
+||ytdbdzzveus.com^
 ||ytdhpuhlbqyor.website^
 ||yte287lwbwp18priio.cfd^
 ||yterxv.com^
