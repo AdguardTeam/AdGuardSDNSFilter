@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-07T22:13:38.860Z
+! Last modified: 2026-08-08T00:22:44.757Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -7916,6 +7916,7 @@ vkcdnservice.appspot.com^
 ||38458bd578.com^
 ||384b0a562f.com^
 ||38716dc244.com^
+||38d940fee0.com^
 ||38ds89f8.de^
 ||38ingress.com^
 ||38zho9oz9zpfrclr8pbkpl57vj9fy56.cfd^
@@ -7932,6 +7933,7 @@ vkcdnservice.appspot.com^
 ||3b9it19c3yolijmetlj5vh9bqg.cfd^
 ||3ba1e5d478.com^
 ||3bfe089386.com^
+||3bi2wqfe6qvn9v5.rest^
 ||3bx67ftc79c374r1.cfd^
 ||3c1d2ad9d8.com^
 ||3c33f02ab7.com^
@@ -7941,6 +7943,7 @@ vkcdnservice.appspot.com^
 ||3d7b481b4d.com^
 ||3d81a14f6e.com^
 ||3e38p3z93rwiun.rest^
+||3eb3f81b36.com^
 ||3ee925749f.com^
 ||3eumf3hoymrlw5ocmobw1g5gxch7m3uk46o3.cfd^
 ||3f47f5f38f.com^
@@ -8778,6 +8781,7 @@ vkcdnservice.appspot.com^
 ||9ab8ff816c.com^
 ||9bce82ca1a.com^
 ||9be5ft9obvn2ig.cfd^
+||9c69fe7c20.com^
 ||9c786ff5cd.com^
 ||9c867e2056.com^
 ||9c8b7403e9.com^
@@ -11091,6 +11095,7 @@ vkcdnservice.appspot.com^
 ||aqkvvkwriwqzm.space^
 ||aqle3.com^
 ||aqlphayjxwevf.site^
+||aqlwabon.in^
 ||aqoifpujbbptd.space^
 ||aqpmljbvacbpi.space^
 ||aqqaqhcoxgjaw.site^
@@ -13409,6 +13414,7 @@ vkcdnservice.appspot.com^
 ||bmfnopvd.com^
 ||bmgzspzuahkgq.online^
 ||bmhdfmjvtu.com^
+||bmhoimdrvdsmj.site^
 ||bmicmpktyo.com^
 ||bmiiwcynpnses.website^
 ||bmjmtewumbiqx.website^
@@ -17583,6 +17589,7 @@ vkcdnservice.appspot.com^
 ||czhtvbrrnqpwq.site^
 ||cziganyravener.qpon^
 ||czjjdgbytiqsk.space^
+||czjsxim.com^
 ||cznbqd.com^
 ||cznjfnlosgkob.online^
 ||cznratophrtou.website^
@@ -17696,6 +17703,7 @@ vkcdnservice.appspot.com^
 ||daimyostenchy.cfd^
 ||dainchakharwarhonda.qpon^
 ||daintynotice.com^
+||dairouswode.qpon^
 ||dairyakasa.cyou^
 ||daisiedveritecabda.cfd^
 ||daivendtzsbws.space^
@@ -23231,6 +23239,7 @@ vkcdnservice.appspot.com^
 ||footerfont.com^
 ||footfulsprier.qpon^
 ||footholdmummifytwig.com^
+||foothotsluiced.cyou^
 ||footiermeu.qpon^
 ||footleslythrum.shop^
 ||footnote.com^
@@ -29061,6 +29070,7 @@ vkcdnservice.appspot.com^
 ||itrigra.ru^
 ||itrkgouhlbqlnk.com^
 ||itrnfhysprzpl.space^
+||itrtxppdamlez.space^
 ||itrustzone.site^
 ||itsaqxtw.com^
 ||itseagleswig.com^
@@ -37505,6 +37515,7 @@ vkcdnservice.appspot.com^
 ||odyvcahzbdmlx.website^
 ||odzzperikpir.com^
 ||oe1poh8t2c9utc5p.cfd^
+||oe6fyhljyu66819umuzwxplqrg.cfd^
 ||oeafttumojrto.site^
 ||oeamsmfhctyfk.site^
 ||oecusbotfly.shop^
@@ -38467,6 +38478,7 @@ vkcdnservice.appspot.com^
 ||otvojqdrozce.com^
 ||otvqtoatjgt.in^
 ||otwlfwmuubeue.space^
+||otwxrrncagpdp.space^
 ||otxiytrhjrarw.website^
 ||otzemeism.qpon^
 ||ouangacunziejollop.cfd^
@@ -41920,6 +41932,7 @@ vkcdnservice.appspot.com^
 ||qepeerkeskxhn.site^
 ||qeqxpaqpsiwsq.space^
 ||qeqyswhipqrgu.space^
+||qeqzktzwzqcyh.space^
 ||qerelink.qpon^
 ||qernnbahzjdjf.online^
 ||qesrnpogpignd.store^
@@ -44842,6 +44855,7 @@ vkcdnservice.appspot.com^
 ||rydresa.info^
 ||rydtkrsegqpze.website^
 ||rydtyitkzhgzw.space^
+||rydwbtjetdesf.site^
 ||ryecypress.com^
 ||ryeincrediblerepresentation.com^
 ||ryejjjwmueenz.website^
@@ -45813,6 +45827,7 @@ vkcdnservice.appspot.com^
 ||setupmonarchyconnections.com^
 ||setupproficientscrambled.com^
 ||setyourtape.com^
+||seuboseevrnop.com^
 ||seuhtkskudvkf.site^
 ||seuszqckmixng.website^
 ||seveelumus.com^
@@ -49187,6 +49202,7 @@ vkcdnservice.appspot.com^
 ||tgnoppvxz.com^
 ||tgowvecdkon.com^
 ||tgpfyjvaaijan.site^
+||tgqsmsduaocwx.site^
 ||tgrhjblmlpjcp.website^
 ||tguyxzkrxgzqt.online^
 ||thackedmacaca.cyou^
@@ -51668,6 +51684,7 @@ vkcdnservice.appspot.com^
 ||unslingrancors.shop^
 ||unsmartbatteau.cfd^
 ||unsmokyhashing.cfd^
+||unsnugdioritekinks.qpon^
 ||unsolarinclavefazed.cyou^
 ||unsolidhamaul.cfd^
 ||unsoreferr.qpon^
@@ -52551,6 +52568,7 @@ vkcdnservice.appspot.com^
 ||vegetablechickendisqualify.com^
 ||vegetableimpressive.com^
 ||vegetaloutrock.cyou^
+||vegetalposedpetaly.cfd^
 ||vegetarianrotperpetrator.com^
 ||vehemenceoccupied.com^
 ||vehemencepoint.com^
@@ -54623,6 +54641,7 @@ vkcdnservice.appspot.com^
 ||wjdgtcuulylbi.website^
 ||wjebboljovkwr.top^
 ||wjefqoj3i8t9zi.rest^
+||wjeyvgrohtkhl.site^
 ||wjhanonquilpp.store^
 ||wjhbmpzfsrdxj.space^
 ||wjibjvgebkolf.space^
@@ -55944,6 +55963,7 @@ vkcdnservice.appspot.com^
 ||xrznrtxbswpuk.space^
 ||xsapykbbsdm.net^
 ||xsbjtmzcpqlst.space^
+||xsbkjptoev.com^
 ||xsbsfifapiemx.site^
 ||xsdsemgyxukwx.space^
 ||xsepmeerroahk.website^
@@ -57203,6 +57223,7 @@ vkcdnservice.appspot.com^
 ||zantefengite.cfd^
 ||zanyestablishment.pro^
 ||zanypotential.com^
+||zanytower.pro^
 ||zanyunlook.qpon^
 ||zanzepicenebloated.cfd^
 ||zaoymyowyehjk.online^
@@ -145858,6 +145879,7 @@ dlsdk.appsflyer.com^
 ||discopond.com^
 ||discreetfield.com^
 ||discreetquarter.com^
+||dispeldesign.com^
 ||distantflame.com^
 ||distilltable.com^
 ||distributionpocket.com^
@@ -152516,6 +152538,7 @@ dlsdk.appsflyer.com^
 -728-x-90-
 -728-x-90.
 -728x90a.
+-970x90-
 .1080.x.90.
 ||aurum.tirto.id^
 ||colorfulculture.click^
