@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-10T00:24:56.547Z
+! Last modified: 2026-08-10T02:50:05.871Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -225,6 +225,7 @@
 ||d3t3bxixsojwre.cloudfront.net^$dnsrewrite=ad-block.dns.adguard.com
 ||0i0i0i0.com^$dnsrewrite=ad-block.dns.adguard.com
 ||1asb.com^$dnsrewrite=ad-block.dns.adguard.com
+||2osb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||30dcf.com^$dnsrewrite=ad-block.dns.adguard.com
 ||367p.com^$dnsrewrite=ad-block.dns.adguard.com
 ||3ckz.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -623,6 +624,7 @@
 ||protected-redirect.click^$dnsrewrite=ad-block.dns.adguard.com
 ||protection-suggestion.com^$dnsrewrite=ad-block.dns.adguard.com
 ||provenpixel.com^$dnsrewrite=ad-block.dns.adguard.com
+||proxy4mmo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pubadx.one^$dnsrewrite=ad-block.dns.adguard.com
 ||pubtrky.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pupspu.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -639,6 +641,7 @@
 ||quixoticzest.com^$dnsrewrite=ad-block.dns.adguard.com
 ||qwikln.com^$dnsrewrite=ad-block.dns.adguard.com
 ||r8bz.com^$dnsrewrite=ad-block.dns.adguard.com
+||raceamen.com^$dnsrewrite=ad-block.dns.adguard.com
 ||racunn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||radiancerelaysacred.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ragan-qdr.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -792,6 +795,7 @@
 ||wbidder3.com^$dnsrewrite=ad-block.dns.adguard.com
 ||we-offer.com^$dnsrewrite=ad-block.dns.adguard.com
 ||webfanclub.com^$dnsrewrite=ad-block.dns.adguard.com
+||webls.net^$dnsrewrite=ad-block.dns.adguard.com
 ||webmedrtb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wetrackgames.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wewearegogogo.com^$dnsrewrite=ad-block.dns.adguard.com
