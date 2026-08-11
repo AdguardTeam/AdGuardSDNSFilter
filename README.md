@@ -99,7 +99,7 @@ The output is written to `Filters/filter.txt`.
 
 * [ABPindo — third-party servers](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/thirdparty.txt)
 
-* [AdblockID](https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl)
+* [AdblockID](https://cdn.jsdelivr.net/gh/realodix/AdBlockID@master/dist/adblockid.adfl.txt)
 
 * [hostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt)
 
