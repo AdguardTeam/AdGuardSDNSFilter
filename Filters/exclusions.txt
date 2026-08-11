@@ -1,3 +1,8 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2084
+! Blocked by CNAME data.adobedc.net
+||data.email.tangerine.ca^
+! https://github.com/AdguardTeam/AdguardFilters/issues/233722
+||aurorabrand.co.il^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/231337
 ||target-video.com^
 ! https://x.com/Quarters8699/status/2052215338989953157
