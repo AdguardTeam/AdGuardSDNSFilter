@@ -1,3 +1,6 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2081
+! Blocked by CNAME data.adobedc.net
+@@||data.promo.timhortons.ca^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/237216
 ! Blocked by CNAME nonstoppartner.net
 @@||partner.o2online.de^|

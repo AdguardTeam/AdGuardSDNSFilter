@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-11T16:20:25.161Z
+! Last modified: 2026-08-11T16:56:27.889Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -26480,6 +26480,7 @@ vkcdnservice.appspot.com^
 ||kaminari.systems^
 ||kamiyatabinet.cyou^
 ||kamoiimclmryu.space^
+||kamseenkophs.com^
 ||kamsinsrhagon.cfd^
 ||kanaetorseldukker.cfd^
 ||kanasbasso.cfd^
@@ -44346,6 +44347,7 @@ vkcdnservice.appspot.com^
 ||vbtrbulabutew.site^
 ||vbtwegnwgvhpr.site^
 ||vbudetbyofg.com^
+||vbuozxgkfajcr.space^
 ||vbvwcpowriyyo.space^
 ||vbwglrdlxyqwt.online^
 ||vbxflfolp.com^
@@ -46767,6 +46769,7 @@ vkcdnservice.appspot.com^
 ||wzcmdnxvmwxbq.site^
 ||wzelipmfuva.com^
 ||wzeocharram.com^
+||wzfbttjqtjygc.website^
 ||wzobwendrydoi.website^
 ||wzqotpvpbyqhc.store^
 ||wzqpvfcijrjlv.online^
@@ -155969,6 +155972,9 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2081
+! Blocked by CNAME data.adobedc.net
+@@||data.promo.timhortons.ca^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/237216
 ! Blocked by CNAME nonstoppartner.net
 @@||partner.o2online.de^|
