@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-17T02:30:19.270Z
+! Last modified: 2026-08-17T06:15:40.065Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -331,7 +331,6 @@
 ||cashgzb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||casinobonusdeals.io^$dnsrewrite=ad-block.dns.adguard.com
 ||cauditcommernal.com^$dnsrewrite=ad-block.dns.adguard.com
-||cautommityring.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cawsg.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cddtsecure.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ceramicturtleremnant.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -351,7 +350,6 @@
 ||cm65.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cntrealize.com^$dnsrewrite=ad-block.dns.adguard.com
 ||coastalbloom.xyz^$dnsrewrite=ad-block.dns.adguard.com
-||conestreshow.com^$dnsrewrite=ad-block.dns.adguard.com
 ||consultflow.click^$dnsrewrite=ad-block.dns.adguard.com
 ||coolserving.com^$dnsrewrite=ad-block.dns.adguard.com
 ||coosync.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -414,7 +412,6 @@
 ||galaxypush.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gamazi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gamerhit.co^$dnsrewrite=ad-block.dns.adguard.com
-||gamonalsmadevel.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gb1aff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gensonal.com^$dnsrewrite=ad-block.dns.adguard.com
 ||get-gx.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -519,7 +516,6 @@
 ||mediahell.world^$dnsrewrite=ad-block.dns.adguard.com
 ||meetflirtmatch.com^$dnsrewrite=ad-block.dns.adguard.com
 ||meetwebclub.com^$dnsrewrite=ad-block.dns.adguard.com
-||metabatted.com^$dnsrewrite=ad-block.dns.adguard.com
 ||metatrckpixel.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mettend-hamous.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||mgid.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -750,7 +746,6 @@
 ||unlocky.org^$dnsrewrite=ad-block.dns.adguard.com
 ||unlocky.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||upodaitie.net^$dnsrewrite=ad-block.dns.adguard.com
-||usedownloads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||utm-campaign.com^$dnsrewrite=ad-block.dns.adguard.com
 ||validcombine.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vasstycom.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -772,7 +767,6 @@
 ||voluumtrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vulnerableimmigrateaboveaverage.com^$dnsrewrite=ad-block.dns.adguard.com
 ||w0we.com^$dnsrewrite=ad-block.dns.adguard.com
-||want-some-psh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wbidder.online^$dnsrewrite=ad-block.dns.adguard.com
 ||wbidder3.com^$dnsrewrite=ad-block.dns.adguard.com
 ||we-offer.com^$dnsrewrite=ad-block.dns.adguard.com
