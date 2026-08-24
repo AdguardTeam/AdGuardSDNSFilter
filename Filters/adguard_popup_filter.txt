@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-23T22:06:09.016Z
+! Last modified: 2026-08-24T02:32:25.265Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -798,7 +798,6 @@
 ||adextrem.com^$dnsrewrite=ad-block.dns.adguard.com
 ||banners.cams.com^$dnsrewrite=ad-block.dns.adguard.com
 ||c4tracking01.com^$dnsrewrite=ad-block.dns.adguard.com
-||chokertraffic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cityofsin3d.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ckrf1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crdefault2.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -820,9 +819,7 @@
 ||friendfinder.com^$dnsrewrite=ad-block.dns.adguard.com
 ||frtyi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||funkydaters.com^$dnsrewrite=ad-block.dns.adguard.com
-||get-partner.life^$dnsrewrite=ad-block.dns.adguard.com
 ||girls.xyz^$dnsrewrite=ad-block.dns.adguard.com
-||global-trk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||go.nsfwlivechat.com^$dnsrewrite=ad-block.dns.adguard.com
 ||grtyv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hkl4h1trk.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -834,7 +831,6 @@
 ||mptentry.com^$dnsrewrite=ad-block.dns.adguard.com
 ||needlive.com^$dnsrewrite=ad-block.dns.adguard.com
 ||notimoti.com^$dnsrewrite=ad-block.dns.adguard.com
-||nyetm2mkch.com^$dnsrewrite=ad-block.dns.adguard.com
 ||otieu.com^$dnsrewrite=ad-block.dns.adguard.com
 ||passtechusa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||playgirl.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -843,7 +839,6 @@
 ||quadrinhoseroticos.net^$dnsrewrite=ad-block.dns.adguard.com
 ||rdvinfidele.club^$dnsrewrite=ad-block.dns.adguard.com
 ||reporo.net^$dnsrewrite=ad-block.dns.adguard.com
-||restions-planted.com^$dnsrewrite=ad-block.dns.adguard.com
 ||reviewdollars.com^$dnsrewrite=ad-block.dns.adguard.com
 ||setravieso.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sexad.net^$dnsrewrite=ad-block.dns.adguard.com
