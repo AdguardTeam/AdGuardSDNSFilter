@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-29T00:35:54.634Z
+! Last modified: 2026-08-29T02:17:43.833Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -562,6 +562,7 @@
 ||offergate-software20.com^$dnsrewrite=ad-block.dns.adguard.com
 ||offergate-software6.com^$dnsrewrite=ad-block.dns.adguard.com
 ||olopruy.com^$dnsrewrite=ad-block.dns.adguard.com
+||omaaz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||omegaadblock.net^$dnsrewrite=ad-block.dns.adguard.com
 ||omg10.com^$dnsrewrite=ad-block.dns.adguard.com
 ||omgt3.com^$dnsrewrite=ad-block.dns.adguard.com
