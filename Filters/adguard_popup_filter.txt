@@ -3,10 +3,11 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-08-31T02:22:13.148Z
+! Last modified: 2026-08-31T04:18:58.399Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||greekexternal.com^$dnsrewrite=ad-block.dns.adguard.com
 ||emgthroposit.org^$dnsrewrite=ad-block.dns.adguard.com
 ||degreeeruptionpredator.com^$dnsrewrite=ad-block.dns.adguard.com
 ||supersedeaccolade.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -372,7 +373,6 @@
 ||dateyou2024.com^$dnsrewrite=ad-block.dns.adguard.com
 ||degreedistance.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||demowebcode.online^$dnsrewrite=ad-block.dns.adguard.com
-||di7stero.com^$dnsrewrite=ad-block.dns.adguard.com
 ||diagramjawlineunhappy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dianomi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||directdexchange.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -760,7 +760,6 @@
 ||viiyutty.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viiyxefb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vilytaku.com^$dnsrewrite=ad-block.dns.adguard.com
-||vinstigo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viralnewsbd.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||viralvideoclip.info^$dnsrewrite=ad-block.dns.adguard.com
 ||virelon.com^$dnsrewrite=ad-block.dns.adguard.com
