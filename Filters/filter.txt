@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-09-02T14:14:48.078Z
+! Last modified: 2026-09-02T16:17:03.369Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -11,17 +11,7 @@
 ! Source name: AdGuard Base filter ad servers
 ! Source: https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/adservers.txt
 !
-!
-! This section contains the list of third-party advertising networks domains.
-! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
-! The rules with hints are at the end of file.
-!
-! Good: ||doubleclick.net^$third-party
-! Bad: /banner.jpg (should be in general_url.txt)
-! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
-!
-!
-!
+||bycsg.oii.la^
 ||masculine-employment.com^
 ||antiadblockcore.com^
 ||pteknvcm.com^
@@ -15958,6 +15948,7 @@ vkcdnservice.appspot.com^
 ||cpdliftbamsxxo.com^
 ||cpdqvdvmwlnyq.site^
 ||cpdvillousreyoke.qpon^
+||cpg-cdn.com^
 ||cpgkivogfu.com^
 ||cphatlpirvbfikd.com^
 ||cpiutdrcihvim.space^
@@ -19396,6 +19387,7 @@ vkcdnservice.appspot.com^
 ||ejnjjqepwavf.com^
 ||ejoanpaklnyrg.space^
 ||ejozbzeymccax.website^
+||ejpedeyj.com^
 ||ejpypnxslomgz.site^
 ||ejqmzpbhebimq.website^
 ||ejroldixhjqnu.online^
@@ -22568,6 +22560,7 @@ vkcdnservice.appspot.com^
 ||gcfubeywqiffq.website^
 ||gcgrabxewyxwe.website^
 ||gcigziwma.in^
+||gclvy39hhyzqxn151ojq.rest^
 ||gcmwodwqcaqjw.space^
 ||gcommyuhgnk.com^
 ||gcotjvflmlxkw.space^
@@ -30188,6 +30181,7 @@ vkcdnservice.appspot.com^
 ||lpyfevipheebj.website^
 ||lqbvjmkewzwjk.top^
 ||lqbvjmkoozmry.top^
+||lqbzvmvwjyor.top^
 ||lqcldweyteatn.site^
 ||lqdimcpwev.com^
 ||lqdkqbmfabavz.site^
@@ -39492,6 +39486,7 @@ vkcdnservice.appspot.com^
 ||reverseuntidy.com^
 ||reversionprunesterrific.com^
 ||revfusion.net^
+||reviledmakers.com^
 ||revillusiveheavily.com^
 ||revimedia.com^
 ||revmob.com^
@@ -42578,6 +42573,7 @@ vkcdnservice.appspot.com^
 ||sovietsite.com^
 ||sovuyibacinnb.space^
 ||sowftoxic.cyou^
+||sowlbrumeswoodlot.qpon^
 ||sowpoint.com^
 ||sowtcrcheshiner.cyou^
 ||soxfokwppwqpm.website^
@@ -48331,6 +48327,7 @@ vkcdnservice.appspot.com^
 ||w6ecevvubhmntx.rest^
 ||w6f5f8r9.fun^
 ||w6xwt2ygfq2o5z95.cfd^
+||w7p7mb2zt52xrl7yxokc.cfd^
 ||waacglost.qpon^
 ||wabewxwoytqpi.website^
 ||wabifuzzily.qpon^
@@ -155185,6 +155182,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||clientlog.wanmei.com^
+||jnt.welt.de^
 ||emergency.zeta-ai.io^
 ||carmen2.golem.de^
 ||ue.a-bly.com^
@@ -162459,6 +162458,7 @@ dlsdk.appsflyer.com^
 ||remixbistro.com^
 ||remixslot.com^
 ||rentinfinity.com^
+||rentinfrared.com^
 ||rentpenny.com^
 ||repeatsweater.com^
 ||replaceroute.com^
@@ -167045,7 +167045,6 @@ dlsdk.appsflyer.com^
 !
 ||adnx.de^
 ||bd742.com^
-||cpg-cdn.com^
 ||fantecio.com^
 ||gayads.biz^
 ||swissadserver.ch^
