@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-09-07T04:18:45.032Z
+! Last modified: 2026-09-07T06:32:28.208Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -361,7 +361,6 @@
 ||cradaygo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crn77.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crockadilla.com^$dnsrewrite=ad-block.dns.adguard.com
-||cryptomcw.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ctosrd.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cybkit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||daleelerah.info^$dnsrewrite=ad-block.dns.adguard.com
@@ -510,7 +509,6 @@
 ||mbcm2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mbjrkm2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mbreviewer.com^$dnsrewrite=ad-block.dns.adguard.com
-||mbreviews.info^$dnsrewrite=ad-block.dns.adguard.com
 ||mbvlmz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mcfstats.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mddsp.info^$dnsrewrite=ad-block.dns.adguard.com
@@ -743,7 +741,6 @@
 ||tsyndicate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tubecup.net^$dnsrewrite=ad-block.dns.adguard.com
 ||twigwisp.com^$dnsrewrite=ad-block.dns.adguard.com
-||twinrdsyte.com^$dnsrewrite=ad-block.dns.adguard.com
 ||typical-hub.com^$dnsrewrite=ad-block.dns.adguard.com
 ||unlocky.org^$dnsrewrite=ad-block.dns.adguard.com
 ||unlocky.xyz^$dnsrewrite=ad-block.dns.adguard.com
