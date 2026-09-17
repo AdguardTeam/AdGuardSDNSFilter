@@ -279,6 +279,34 @@
       "transformations": ["RemoveModifiers", "ValidateAllowIp"]
     },
     {
+      "name": "AdGuard Italian filter ad servers first-party",
+      "source": "https://adguardteam.github.io/AdguardFilters/ItalianFilter/sections/adservers_firstparty.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "ValidateAllowIp"]
+    },
+    {
+      "name": "AdGuard Italian filter ad servers",
+      "source": "https://adguardteam.github.io/AdguardFilters/ItalianFilter/sections/adservers.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "ValidateAllowIp"]
+    },
+    {
+      "name": "AdGuard Polish filter ad servers first-party",
+      "source": "https://adguardteam.github.io/AdguardFilters/PolishFilter/sections/adservers_firstparty.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "ValidateAllowIp"]
+    },
+    {
+      "name": "AdGuard Polish filter ad servers",
+      "source": "https://adguardteam.github.io/AdguardFilters/PolishFilter/sections/adservers.txt",
+      "type": "adblock",
+      "exclusions_sources": ["Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "ValidateAllowIp"]
+    },
+    {
       "name": "AdGuard Dutch filter ad servers first-party",
       "source": "https://adguardteam.github.io/AdguardFilters/DutchFilter/sections/adservers_firstparty.txt",
       "type": "adblock",

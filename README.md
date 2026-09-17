@@ -73,6 +73,14 @@ The output is written to `Filters/filter.txt`.
 
 * [AdGuard Dutch filter — first-party servers](https://adguardteam.github.io/AdguardFilters/DutchFilter/sections/adservers_firstparty.txt)
 
+* [AdGuard Italian filter](https://adguardteam.github.io/AdguardFilters/ItalianFilter/sections/adservers.txt)
+
+* [AdGuard Italian filter — first-party servers](https://adguardteam.github.io/AdguardFilters/ItalianFilter/sections/adservers_firstparty.txt)
+
+* [AdGuard Polish filter](https://adguardteam.github.io/AdguardFilters/PolishFilter/sections/adservers.txt)
+
+* [AdGuard Polish filter — first-party servers](https://adguardteam.github.io/AdguardFilters/PolishFilter/sections/adservers_firstparty.txt)
+
 * [EasyList](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt)
 
 * [EasyList — third-party servers](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt)
