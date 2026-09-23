@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-09-23T16:17:16.570Z
+! Last modified: 2026-09-23T16:57:57.796Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -15755,6 +15755,7 @@ vkcdnservice.appspot.com^
 ||cltdabpjiaqlw.space^
 ||cltnopjcmaxkj.website^
 ||clubbytentory.qpon^
+||clubdombyssus.qpon^
 ||cluckedzion.com^
 ||cluelessbrain.pro^
 ||clueostensiblebureaucracy.com^
@@ -22209,6 +22210,7 @@ vkcdnservice.appspot.com^
 ||flixtrial.com^
 ||flkaollpxdilc.online^
 ||flkycyeewfoea.space^
+||fllcxbdrxkzgc.online^
 ||fllmnnjbyvylf.website^
 ||flmarqxamvoyq.website^
 ||flmpufjijzyua.store^
@@ -50664,6 +50666,7 @@ vkcdnservice.appspot.com^
 ||vudequyangktk.site^
 ||vudfewdchrhnj.online^
 ||vudkqmlfrfrtf.site^
+||vueffikzsjewx.online^
 ||vuevgiavjbplr.space^
 ||vufskqjnnhnjt.site^
 ||vugqkeanmhm.com^
@@ -53617,6 +53620,7 @@ vkcdnservice.appspot.com^
 ||yfrxjeickksim.site^
 ||yfsisdewaeush.site^
 ||yfskbgbjqfxgf.online^
+||yfsnorpbhiejq.website^
 ||yfswcwcrmslwb.website^
 ||yftqgqghetlts.online^
 ||yftvhcaxtaewh.online^
@@ -183434,6 +183438,9 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/241940
+! Blocked by CNAME amazon-adsystem.com
+@@||aax-fe.amazon.co.jp^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/241869
 @@||swasc.homedepot.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2095
