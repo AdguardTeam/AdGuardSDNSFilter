@@ -1,3 +1,6 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/241940
+! Blocked by CNAME amazon-adsystem.com
+@@||aax-fe.amazon.co.jp^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/241869
 ! Blocked by CNAME omtrdc.net
 @@||swasc.homedepot.com^|
