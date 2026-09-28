@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-09-28T04:20:09.688Z
+! Last modified: 2026-09-28T06:36:23.438Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -318,7 +318,6 @@
 ||bincatracs.com^$dnsrewrite=ad-block.dns.adguard.com
 ||blcdog.com^$dnsrewrite=ad-block.dns.adguard.com
 ||blehcourt.com^$dnsrewrite=ad-block.dns.adguard.com
-||block-ad.com^$dnsrewrite=ad-block.dns.adguard.com
 ||blockadsnot.com^$dnsrewrite=ad-block.dns.adguard.com
 ||blurbreimbursetrombone.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bmmads.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -332,7 +331,6 @@
 ||bucksmein.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bunth.net^$dnsrewrite=ad-block.dns.adguard.com
 ||byethost41.net^$dnsrewrite=ad-block.dns.adguard.com
-||c3j7rk-rtbix.top^$dnsrewrite=ad-block.dns.adguard.com
 ||camads.workers.dev^$dnsrewrite=ad-block.dns.adguard.com
 ||camliveshow.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||candellume.shop^$dnsrewrite=ad-block.dns.adguard.com
@@ -350,7 +348,6 @@
 ||clearwatch.tv^$dnsrewrite=ad-block.dns.adguard.com
 ||click-for-preview.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clickblitzo.com^$dnsrewrite=ad-block.dns.adguard.com
-||clickmintads.site^$dnsrewrite=ad-block.dns.adguard.com
 ||clickpunch.icu^$dnsrewrite=ad-block.dns.adguard.com
 ||cliphotbokep.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||clixwells.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -477,7 +474,6 @@
 ||jeroud.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jiuwert.online^$dnsrewrite=ad-block.dns.adguard.com
 ||js-check.com^$dnsrewrite=ad-block.dns.adguard.com
-||junkyadexchange.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jwalkin.com^$dnsrewrite=ad-block.dns.adguard.com
 ||k3on.com^$dnsrewrite=ad-block.dns.adguard.com
 ||kagonst.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -679,7 +675,6 @@
 ||sexemulator.tube-sexs.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sgben.com^$dnsrewrite=ad-block.dns.adguard.com
 ||shakingtacklingunpeeled.com^$dnsrewrite=ad-block.dns.adguard.com
-||shauladubhe.top^$dnsrewrite=ad-block.dns.adguard.com
 ||shoppinglifestyle.biz^$dnsrewrite=ad-block.dns.adguard.com
 ||shotgunchancecruel.com^$dnsrewrite=ad-block.dns.adguard.com
 ||signamentswithd.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -691,7 +686,6 @@
 ||smrtmnk2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||socialdate.me^$dnsrewrite=ad-block.dns.adguard.com
 ||souszhi.com^$dnsrewrite=ad-block.dns.adguard.com
-||sp03k.sbs^$dnsrewrite=ad-block.dns.adguard.com
 ||sparkpcgames.com^$dnsrewrite=ad-block.dns.adguard.com
 ||spin83qr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sprinlof.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -707,7 +701,6 @@
 ||stsbih.com.ba^$dnsrewrite=ad-block.dns.adguard.com
 ||studiotrackmusic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||superfasti.co^$dnsrewrite=ad-block.dns.adguard.com
-||suptraf.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sxlflt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||synccora.com^$dnsrewrite=ad-block.dns.adguard.com
 ||targeta41.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -736,7 +729,6 @@
 ||tracking-aws-5.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tracking-zy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trackingtraffo.com^$dnsrewrite=ad-block.dns.adguard.com
-||trasupr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trckqq.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trentbereal.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trknovi.com^$dnsrewrite=ad-block.dns.adguard.com
