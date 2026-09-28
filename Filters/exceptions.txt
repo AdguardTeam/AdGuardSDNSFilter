@@ -1,3 +1,6 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2112
+! Blocked by CNAME slgnt.us
+@@||emails.educause.edu^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/241940
 ! Blocked by CNAME amazon-adsystem.com
 @@||aax-fe.amazon.co.jp^|
