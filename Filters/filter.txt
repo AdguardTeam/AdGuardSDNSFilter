@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-10-01T10:16:19.847Z
+! Last modified: 2026-10-01T12:24:19.943Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -15411,6 +15411,8 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||api-sdk.beaconbank.jp^
+||stream-log.profilepassport.jp^
 ||metrics.li^
 ||bid.ctv.house^
 ||log.calomeal.com^
@@ -116375,6 +116377,7 @@ dlsdk.appsflyer.com^
 ||6j296m8k.de^
 ||6jypv36yyh2jj54jg.cfd^
 ||6lmcqj7d.xyz^
+||6mcw92wirhxnnqcw2.rest^
 ||6nmlkpk6irguvekw5.cfd^
 ||6opo.com^
 ||6ped2nd3yp.com^
@@ -118902,6 +118905,7 @@ dlsdk.appsflyer.com^
 ||astoopolitet.org^
 ||astrierunbusk.cyou^
 ||astrokompas.com^
+||astroldisrulyspecs.cfd^
 ||astrologybacklightsinless.com^
 ||astrologyflyabletruth.com^
 ||astronautlividlyreformer.com^
@@ -120337,6 +120341,7 @@ dlsdk.appsflyer.com^
 ||bkvxjygccpkwk.space^
 ||bkxnutagaejor.online^
 ||bkxsdhfljwjlc.online^
+||bkxutiwjgalqx.site^
 ||bl230126pb.com^
 ||blackandwhite-temporary.com^
 ||blackandwhitememory.com^
@@ -121552,6 +121557,7 @@ dlsdk.appsflyer.com^
 ||calmbytedishwater.com^
 ||calmestbowery.qpon^
 ||calmyfife.com^
+||calombotubelet.com^
 ||calpsalminenunting.qpon^
 ||calrlpvdqocgb.website^
 ||calthagleaner.cyou^
@@ -123176,6 +123182,7 @@ dlsdk.appsflyer.com^
 ||corylsecluse.qpon^
 ||corylseculum.qpon^
 ||coryphstoma.com^
+||cosedcost.com^
 ||cosetengarb.com^
 ||cosherslattens.qpon^
 ||coshesiolite.cyou^
@@ -123842,6 +123849,7 @@ dlsdk.appsflyer.com^
 ||cyachalbbofrw.online^
 ||cyaijllypnzgl.online^
 ||cyan92010.com^
+||cybelepipra.com^
 ||cyberfluxer.com^
 ||cybkit.com^
 ||cyclejill.cfd^
@@ -124425,6 +124433,7 @@ dlsdk.appsflyer.com^
 ||delightpowerful.com^
 ||delilahlocklet.com^
 ||deliman.net^
+||delimaranha.com^
 ||delirious-year.com^
 ||deliriousglowing.com^
 ||delistmibs.com^
@@ -127381,6 +127390,7 @@ dlsdk.appsflyer.com^
 ||excruciationaccident.com^
 ||excuseduchess.com^
 ||excuselift.com^
+||excystaccerse.qpon^
 ||exdxgjgqdmfrw.online^
 ||exdynsrv.com^
 ||execbeggar.com^
@@ -127488,6 +127498,7 @@ dlsdk.appsflyer.com^
 ||exzumzcaqqdny.site^
 ||ey3hqkkutuptct.rest^
 ||ey43.com^
+||eyaemmcomjbil.site^
 ||eycfdxhanqord.site^
 ||eycjmecjjdo.com^
 ||eyebrowbanisterspainkiller.com^
@@ -130527,6 +130538,7 @@ dlsdk.appsflyer.com^
 ||gvfbasfpatxkw.site^
 ||gvfvguhuwunrb.site^
 ||gvgotlyefgqek.site^
+||gvhyaeykmubxs.space^
 ||gvintwtnastmd.space^
 ||gvjhwvhmvidfh.website^
 ||gvmwjancrvduk.site^
@@ -130657,6 +130669,7 @@ dlsdk.appsflyer.com^
 ||gzoznnypuhodq.site^
 ||gzrlncudpybtf.site^
 ||gzugqzgsfr.com^
+||gzuibprpbazla.site^
 ||gzvknriwrcwtt.website^
 ||gzynllfiy.com^
 ||h12-media.com^
@@ -133222,6 +133235,7 @@ dlsdk.appsflyer.com^
 ||iuzeyszmapeax.space^
 ||iuzvusqotkhad.online^
 ||ivauzgjroeskz.site^
+||ivbcgjbhsmzea.site^
 ||ivbszagxehfbi.site^
 ||ivcsmrt.com^
 ||ivcymdknugpjt.site^
@@ -135098,6 +135112,7 @@ dlsdk.appsflyer.com^
 ||kpfbksehrvell.space^
 ||kphjjanyryoih.site^
 ||kphsqtglfxqim.space^
+||kpjpu8m6p9bj685b7ijlewh7bb4o4q2v.cfd^
 ||kpkhqxvshdozq.online^
 ||kpkqvqjvypgog.site^
 ||kpnacrabkhcbq.site^
@@ -137149,6 +137164,7 @@ dlsdk.appsflyer.com^
 ||marrysschoche.cyou^
 ||marshalcurve.com^
 ||marshcooperative.com^
+||marsiancliqueevovae.cyou^
 ||martencrippled.com^
 ||martenforthwith.com^
 ||martialrecessioninformant.com^
@@ -139041,6 +139057,7 @@ dlsdk.appsflyer.com^
 ||neterbarit.com^
 ||netguard.mobi^
 ||netobscenityoverdo.com^
+||netspox.com^
 ||netstam.com^
 ||netwisehirst.cfd^
 ||networkhubcontrol.com^
@@ -140273,6 +140290,7 @@ dlsdk.appsflyer.com^
 ||ogcmfzvcicpon.site^
 ||ogdauedbftzmt.online^
 ||ogdbgitofqmxv.space^
+||ogebpkvccukilul.com^
 ||ogekhugcnbvga.online^
 ||ogfbb.net^
 ||ogffa.net^
@@ -140923,6 +140941,7 @@ dlsdk.appsflyer.com^
 ||oswjdbchjbtpq.website^
 ||osxerqkntyws.com^
 ||osynbfqucxqdv.site^
+||oszkgppdzewuc.online^
 ||otaavlxnmqwyi.online^
 ||otakusphere.online^
 ||otalgyfab.qpon^
@@ -147694,6 +147713,7 @@ dlsdk.appsflyer.com^
 ||smallbruisedfollowing.com^
 ||smallestpawsmention.com^
 ||smallfunnybears.com^
+||smalmausones.com^
 ||smanpeaxwkgln.space^
 ||smart1adserver.com^
 ||smart2cnjuh34jb.com^
@@ -148210,6 +148230,7 @@ dlsdk.appsflyer.com^
 ||splittingpick.com^
 ||splorelouies.cyou^
 ||splxrurfrajhs.site^
+||spmfrncawaaey.site^
 ||spmqfymfgbfha.space^
 ||spmqkfodtwzit.site^
 ||spnfvzpjcihlo.site^
@@ -151923,6 +151944,7 @@ dlsdk.appsflyer.com^
 ||uoouxqwqcgcmi.online^
 ||uorfbphtqebtu.site^
 ||uosvpkrplvxlr.online^
+||uotfiotf.com^
 ||uoupnsykwtbzn.space^
 ||uovveljjaoxfe.store^
 ||uovvobtfxeekw.site^
@@ -152832,6 +152854,7 @@ dlsdk.appsflyer.com^
 ||vigilancebreaking.com^
 ||vigorous-average.com^
 ||vigtwjvdkhvpr.space^
+||vihfamofxa.in^
 ||vihmqpamywaso.space^
 ||viiadaof.com^
 ||viibslav.com^
@@ -158495,6 +158518,7 @@ dlsdk.appsflyer.com^
 ||amongstbirdbath.com^
 ||amongstgahboo.com^
 ||annualrallybran.com^
+||aridround.com^
 ||aroundwhoever.com^
 ||artisticsway.com^
 ||bahpartridge.com^
@@ -158508,6 +158532,7 @@ dlsdk.appsflyer.com^
 ||correctlynow.com^
 ||decryptionjunior.com^
 ||degeneratebasket.com^
+||deployfondly.com^
 ||downknottily.com^
 ||ea6c0ac4.xyz^
 ||eekknightsoon.com^
