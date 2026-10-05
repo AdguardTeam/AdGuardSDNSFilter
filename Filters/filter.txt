@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-10-05T08:30:08.178Z
+! Last modified: 2026-10-05T10:19:12.093Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -11834,6 +11834,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||apm.volccdn.com^
+||apmplus.volces.com^
 ||evs.segwww.incident.io^
 ||scout.data.funkedigital.de^
 ||sp.data.funkedigital.de^
@@ -118884,6 +118886,7 @@ dlsdk.appsflyer.com^
 ||ascertainowlbookkeeper.com^
 ||ascfdqggihvrg.space^
 ||ascohral.in^
+||asculaefanniesrooses.cfd^
 ||asdasdad.net^
 ||asdccxpbkxzme.space^
 ||asdnow.xyz^
@@ -119249,6 +119252,7 @@ dlsdk.appsflyer.com^
 ||avjecheybdtqj.space^
 ||avjlllfpqvloi.website^
 ||avkauywgzdxlx.online^
+||avklgvgvwpwha.website^
 ||avkszbsmzamaj.site^
 ||avlmy.com^
 ||avmakravzqfvj.space^
@@ -120167,6 +120171,7 @@ dlsdk.appsflyer.com^
 ||betmenaff.com^
 ||betotodilea.com^
 ||betr-for-tod.com^
+||betrapgullah.cfd^
 ||betrapomen.shop^
 ||betrayalbadger.com^
 ||bettentacruela.com^
@@ -123352,6 +123357,7 @@ dlsdk.appsflyer.com^
 ||core.dimatter.ai^
 ||coreadness.com^
 ||coreboxbixin.cyou^
+||coreywendish.cyou^
 ||corialwhidahs.cyou^
 ||corinthlumuthiking.cfd^
 ||corixapardie.qpon^
@@ -126213,6 +126219,7 @@ dlsdk.appsflyer.com^
 ||duopodbanshee.cfd^
 ||duopolyfresher.qpon^
 ||duotypesleeted.com^
+||dupattarummage.com^
 ||dupebrimmer.cfd^
 ||dupesupways.cfd^
 ||dupionignetums.qpon^
@@ -129597,6 +129604,7 @@ dlsdk.appsflyer.com^
 ||galeaeevovae.com^
 ||galeindelicatedrove.com^
 ||galidiawiriestxr.cyou^
+||galileiberther.cfd^
 ||galjagersmelitis.cfd^
 ||gallantfamineana.com^
 ||galleonentopic.com^
@@ -132099,6 +132107,7 @@ dlsdk.appsflyer.com^
 ||housejomadkc.com^
 ||housemaiddevolution.com^
 ||housingjournalisminformal.com^
+||housingkisaneponymy.cyou^
 ||housingtrap.com^
 ||housycimelia.com^
 ||houvariquill.com^
@@ -132776,6 +132785,7 @@ dlsdk.appsflyer.com^
 ||igthvafyjttys.online^
 ||igtjqemgdlibm.site^
 ||igvkixoxvsvih.space^
+||igvmnematsmrj.site^
 ||igvnfhtdjqkqx.website^
 ||igyswjdwkppmo.online^
 ||igzhfupdpsk.com^
@@ -133124,6 +133134,7 @@ dlsdk.appsflyer.com^
 ||indentsrondels.com^
 ||indexervetteddefoil.cfd^
 ||indexeseconomicsenrage.com^
+||indexesscurril.cfd^
 ||indictmentbreatheeastern.com^
 ||indictpuker.qpon^
 ||indictsbebathe.shop^
@@ -134087,6 +134098,7 @@ dlsdk.appsflyer.com^
 ||jeiuukvjmedjs.space^
 ||jeiwumcsw.com^
 ||jejlaueaxfsjt.website^
+||jekivk9hkrchbjf4.rest^
 ||jekzyyyzbvvkz.top^
 ||jellicaverine.cyou^
 ||jelliesfabula.cyou^
@@ -134247,6 +134259,7 @@ dlsdk.appsflyer.com^
 ||jimjampatted.com^
 ||jimjamsfogmenmaunna.qpon^
 ||jimmersoaks.qpon^
+||jimminygrundy.com^
 ||jimsonamabel.cfd^
 ||jimsonthous.qpon^
 ||jinasyces.cyou^
@@ -135685,6 +135698,7 @@ dlsdk.appsflyer.com^
 ||kqdkkvvtjkmma.website^
 ||kqdzzzaqvbgot.site^
 ||kqeqjrckhdke.com^
+||kqezisqnvieqr.site^
 ||kqftc.com^
 ||kqgohxbrqclyo.online^
 ||kqhfuovkrmhkz.online^
@@ -136074,6 +136088,7 @@ dlsdk.appsflyer.com^
 ||lamestsandalsspoffy.cfd^
 ||lamiidrasceta.qpon^
 ||lammasbananas.com^
+||lammieswarmer.cyou^
 ||lammockdanite.com^
 ||lampedburbush.shop^
 ||lampedguilts.cfd^
@@ -142799,6 +142814,7 @@ dlsdk.appsflyer.com^
 ||phuakravmo.in^
 ||phudsumipakr.net^
 ||phukienthoitranggiare.com^
+||phunidxuulouh.space^
 ||phuolhogmxin.com^
 ||phvmkaodyuyrr.site^
 ||phwcpbuhrfheb.online^
@@ -143056,6 +143072,7 @@ dlsdk.appsflyer.com^
 ||plagaethulr.cyou^
 ||plageslegcamber.cyou^
 ||plagiumdossman.cyou^
+||plagoselienor.cfd^
 ||plagueyglub.shop^
 ||plain-plane.com^
 ||plainsuburbtoilet.com^
@@ -145475,6 +145492,7 @@ dlsdk.appsflyer.com^
 ||rbjbghvkbywgnl.com^
 ||rbjixtnbjdcnd.online^
 ||rbjrfofcbpapw.website^
+||rbjupwodwybnv.website^
 ||rblezsuhrvhor.space^
 ||rbnfyqwhkwffg.website^
 ||rboyqkylqrlbk.top^
@@ -146372,6 +146390,7 @@ dlsdk.appsflyer.com^
 ||rjzbvmbkemqzj.top^
 ||rjzbvmbybvokw.top^
 ||rjzkulworyqil.space^
+||rkdneykkvvfar.space^
 ||rkdugrpg.com^
 ||rkexjrw6mcv4v978ri3xivgxgl.cfd^
 ||rkezuvqtxgltl.online^
@@ -146805,6 +146824,7 @@ dlsdk.appsflyer.com^
 ||rtty.in^
 ||rtudgresrsudg.online^
 ||rtutccflgcwyr.website^
+||rtvcuppnvtm.com^
 ||rtveukrjijjve.site^
 ||rtvhdwqstuwat.site^
 ||rtwgvkozpvicu.website^
@@ -146845,6 +146865,7 @@ dlsdk.appsflyer.com^
 ||rudolfmiscue.cyou^
 ||rudousgillied.com^
 ||ruecaeeedvyel.online^
+||ruefujqlinmem.online^
 ||ruelgxkvkxbra.site^
 ||rufcdstpjdcrd.site^
 ||rufdbymsjiwsg.website^
@@ -149079,6 +149100,7 @@ dlsdk.appsflyer.com^
 ||spherepsoai.com^
 ||spherical-brilliant.com^
 ||sphidaphyps.com^
+||spicaealbas.qpon^
 ||spicasamuchco.com^
 ||spice-sugar.net^
 ||spiceforthjobless.com^
@@ -152311,6 +152333,7 @@ dlsdk.appsflyer.com^
 ||ufaexpert.com^
 ||ufbpqmryrrctn.site^
 ||ufbxokkiootk6zpi.rest^
+||ufcttivbsu.com^
 ||ufcxoaidboqxt.site^
 ||ufdnysonfvwnj.space^
 ||ufevkhzatjnfa.online^
@@ -154075,6 +154098,7 @@ dlsdk.appsflyer.com^
 ||vlflbbqnagpac.store^
 ||vlhpssfra.com^
 ||vlitag.com^
+||vljhkfzqhmjqo.website^
 ||vlkvviufipfsw.website^
 ||vllyuoioyabfw.site^
 ||vlmjm1.com^
@@ -154260,6 +154284,7 @@ dlsdk.appsflyer.com^
 ||vqkusfxadcdll.website^
 ||vqkyzuhyyswzt.space^
 ||vqlpduejkboak.site^
+||vqnkmosjemdjyq.com^
 ||vqooisjexmusf.space^
 ||vqoqlebzyzbkz.top^
 ||vqoqlebzyzbyq.top^
@@ -154926,6 +154951,7 @@ dlsdk.appsflyer.com^
 ||weekendpolitely.com^
 ||weekendwungee.com^
 ||weekheadlong.com^
+||weelbrasero.qpon^
 ||weemenmilpas.qpon^
 ||weeoffer.com^
 ||weepfultunican.qpon^
@@ -156711,6 +156737,7 @@ dlsdk.appsflyer.com^
 ||xusqqicassjoh.website^
 ||xutpiayukwxsl.online^
 ||xutwjkyhpmayq.space^
+||xuudoiddtdfzr.website^
 ||xuuy19fiyvw4nj.rest^
 ||xuvxaknemnska.site^
 ||xuxtzbczsxcrs.website^
@@ -157254,6 +157281,7 @@ dlsdk.appsflyer.com^
 ||ykyilollgkexy.website^
 ||ykywmnqnokgck.site^
 ||ykzzjyyshqniz.space^
+||yl5j7o2wwezxlipbbmbt3b3t9.cfd^
 ||ylbcwkazxnmjp.online^
 ||ylblrqhpurxxo.website^
 ||ylcajkhefghaf.online^
