@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-10-06T12:23:07.160Z
+! Last modified: 2026-10-06T14:16:25.318Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -297,6 +297,7 @@
 ||atsg.me^$dnsrewrite=ad-block.dns.adguard.com
 ||atthhnv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||atzonebd.com^$dnsrewrite=ad-block.dns.adguard.com
+||auctionr.org^$dnsrewrite=ad-block.dns.adguard.com
 ||auroraveil.bid^$dnsrewrite=ad-block.dns.adguard.com
 ||auto-ads6.site^$dnsrewrite=ad-block.dns.adguard.com
 ||avlmy.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -363,6 +364,7 @@
 ||coticoffee.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cpacrack.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cradaygo.com^$dnsrewrite=ad-block.dns.adguard.com
+||crdema.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crn77.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crockadilla.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ctosrd.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -375,6 +377,7 @@
 ||datedeskads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dateyou2024.com^$dnsrewrite=ad-block.dns.adguard.com
 ||degreedistance.cfd^$dnsrewrite=ad-block.dns.adguard.com
+||delvefencescrewdriver.com^$dnsrewrite=ad-block.dns.adguard.com
 ||demowebcode.online^$dnsrewrite=ad-block.dns.adguard.com
 ||diagramjawlineunhappy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dianomi.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -436,6 +439,7 @@
 ||gtbdhr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gys5.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hagech.com^$dnsrewrite=ad-block.dns.adguard.com
+||hai8g.com^$dnsrewrite=ad-block.dns.adguard.com
 ||haveameet.com^$dnsrewrite=ad-block.dns.adguard.com
 ||helicient.com^$dnsrewrite=ad-block.dns.adguard.com
 ||heptix.net^$dnsrewrite=ad-block.dns.adguard.com
