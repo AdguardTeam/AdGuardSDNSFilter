@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-10-16T10:14:45.548Z
+! Last modified: 2026-10-16T12:22:12.382Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||untilhmph.com^
+||lordhq.biz^
 ||rodexchange.com^
 ||libelintent.com^
 ||textads.lv^
@@ -9994,7 +9996,6 @@ vkcdnservice.appspot.com^
 ||zoda.ru^
 ||zorkabiz.ru^
 ||zqmwf.xyz^
-/^2.59.219.121/
 !
 ! etarg.network
 ||193.200.64.20^
@@ -123354,6 +123355,7 @@ dlsdk.appsflyer.com^
 ||avnwqayeafuve.website^
 ||avouchuramil.com^
 ||avourchandu.cyou^
+||avowdanielungrave.cyou^
 ||avoweddehorns.cfd^
 ||avowingoxaliteglancer.qpon^
 ||avpjihtkjsnfe.space^
@@ -133887,6 +133889,7 @@ dlsdk.appsflyer.com^
 ||fphipexqhwmwt.space^
 ||fphzedckwhuab.website^
 ||fpiqxdyxxouwy.space^
+||fpjgdacsnviyc.site^
 ||fpjkarweguqyo.online^
 ||fpjviyeeolrpi.space^
 ||fplaqxdydhluw.site^
@@ -134351,6 +134354,7 @@ dlsdk.appsflyer.com^
 ||fxihzcmnuktrm.online^
 ||fxjllndtgqsaf.site^
 ||fxjvakbsprxyl.space^
+||fxlskwhqjtzym.website^
 ||fxmnba.com^
 ||fxmqcaqliainn.site^
 ||fxmrkvkeskzgh.online^
@@ -135563,6 +135567,7 @@ dlsdk.appsflyer.com^
 ||gqqynxixjotce.site^
 ||gqtdckecwvjym.site^
 ||gqtvkxhycjthdx.com^
+||gquokhopgpfwl.space^
 ||gqxgrffjsyviu.space^
 ||grabberaramis.com^
 ||grabojnqdbkcn.online^
@@ -137161,6 +137166,7 @@ dlsdk.appsflyer.com^
 ||hospitableposition.com^
 ||hospitalforgery.com^
 ||hospitapollen.cfd^
+||hosrqzpxezdou.online^
 ||hostadsmarkets.com^
 ||hostageyourn.cfd^
 ||hostave.net^
@@ -137589,6 +137595,7 @@ dlsdk.appsflyer.com^
 ||hyaccgrjkbsoz.online^
 ||hyalitehydrol.cfd^
 ||hyalyyeiegmak.online^
+||hybridaazon.cyou^
 ||hycantyoubelik.com^
 ||hycpllawmosiu.online^
 ||hydagepedicle.com^
@@ -139411,6 +139418,7 @@ dlsdk.appsflyer.com^
 ||jfectaltat.in^
 ||jfetzejqujact.space^
 ||jfezwogpa.com^
+||jfiklgnbjnapo.site^
 ||jfjjkyifclsve.site^
 ||jfjle4g5l.com^
 ||jfk2kjxlh3mn3lbuyj1xf2l4k8x78gycrbn.cfd^
@@ -139904,6 +139912,7 @@ dlsdk.appsflyer.com^
 ||jrbbavkejwlqy.top^
 ||jrcmlyfezriii.online^
 ||jrhameobeihmv.space^
+||jrhyptikfbqls.site^
 ||jrjexx.com^
 ||jrjmgjfefawpy.site^
 ||jrkihvllezsla.space^
@@ -141275,6 +141284,7 @@ dlsdk.appsflyer.com^
 ||kvarcureeny.com^
 ||kvarnerfeast.qpon^
 ||kvavkvcohyxxe.site^
+||kvbpagwregvbi.website^
 ||kvbrzbxhqizoq.site^
 ||kvcmgvhnbadzq.online^
 ||kvcqvfgpvxdzy.site^
@@ -143248,6 +143258,7 @@ dlsdk.appsflyer.com^
 ||malewait.com^
 ||maliciousdemonic.com^
 ||malijolting.cfd^
+||malisonrepope.com^
 ||malkitekoft.qpon^
 ||mallamabrim.cyou^
 ||malletthingluxury.com^
@@ -143641,6 +143652,7 @@ dlsdk.appsflyer.com^
 ||meets-love-connection.com^
 ||meetstorages.com^
 ||meetwebclub.com^
+||mefjguihmoelv.site^
 ||mefkkezojxnzn.website^
 ||megaad.nz^
 ||megarafiddly.com^
@@ -144240,6 +144252,7 @@ dlsdk.appsflyer.com^
 ||mnmdlcplekvvm.space^
 ||mnmifigkgycsu.online^
 ||mnmsvtqnvtbbf.online^
+||mnmszbxvzjrcz.site^
 ||mnonhcqwtgggd.site^
 ||mnooaodzcwfxu.space^
 ||mnoyhgqy9mjzib4go95mb.cfd^
@@ -145597,6 +145610,7 @@ dlsdk.appsflyer.com^
 ||nhwlkqoodhlar.online^
 ||nhzczuzvmmcfh.website^
 ||nhzokhbzxbdqx.website^
+||nhzoldfdnzhjt.site^
 ||nhzylwcpmcchb.space^
 ||niagaraswails.com^
 ||niaisgonzalopaster.cyou^
@@ -147896,6 +147910,7 @@ dlsdk.appsflyer.com^
 ||oyuluswjqnpzr.site^
 ||oyupyeptsifnl.space^
 ||oyvczwsohpzqw.online^
+||oyvxypcmoqhub.site^
 ||oywmcoplfbsao.site^
 ||oyxfysqkddwyh.space^
 ||oyxuwtmaggodi.site^
@@ -148349,6 +148364,7 @@ dlsdk.appsflyer.com^
 ||pcu1x1o8cli5tyn7pz5y135.cfd^
 ||pcxpmbmuialjb.space^
 ||pcyqadvwrqsmc.online^
+||pdbqrejamdktv.website^
 ||pdcqkazovygxp.online^
 ||pdebfoicutkdt.site^
 ||pdeedlkcbdqxbi.com^
@@ -155691,6 +155707,7 @@ dlsdk.appsflyer.com^
 ||sqlcbvoesbeut.online^
 ||sqlhbcmfvtsrz.space^
 ||sqnffqhbkkqgw.space^
+||sqnqbrpbrfowa.space^
 ||sqovyrwommzik.online^
 ||sqpvnivabieye.site^
 ||sqpwzuvlvxpkn.site^
@@ -159958,6 +159975,7 @@ dlsdk.appsflyer.com^
 ||uubvkadmkvnys.space^
 ||uucfcpcdqtzpm.site^
 ||uucmclhuqdszr.site^
+||uucqczieqvshj.website^
 ||uudzibtuheqtq.online^
 ||uuejoxtufssdg.site^
 ||uuezzqtwvrikp.site^
@@ -160564,6 +160582,7 @@ dlsdk.appsflyer.com^
 ||vgpjkpqwiqgie.space^
 ||vgpoksyniegaz.site^
 ||vgrmgnzkbcpjj.site^
+||vgsysjilsolts.site^
 ||vgtafcduuqbii.site^
 ||vgujbafemwklg.site^
 ||vgukgvtglfjnp.space^
@@ -160593,6 +160612,7 @@ dlsdk.appsflyer.com^
 ||vhova.com^
 ||vhrubgqfopfgw.space^
 ||vhwiuwrnrpvp.com^
+||vhyobxarqz.in^
 ||vhyquynrgsvbd.website^
 ||vhzcewosjxcxe.website^
 ||vi1te6179xfj7bh5gx65jqopcjy.rest^
@@ -162543,6 +162563,7 @@ dlsdk.appsflyer.com^
 ||wootmedia.net^
 ||woozilyascula.qpon^
 ||woozilyotalgictheir.cyou^
+||wopsopnenix.com^
 ||wopsstocker.shop^
 ||wordamazinglylamb.com^
 ||wordfence.me^
@@ -162986,6 +163007,7 @@ dlsdk.appsflyer.com^
 ||wyuaxwofqyyzd.space^
 ||wyujsbwlvzhqp.website^
 ||wyvcioftcidpi.space^
+||wyvercasus.com^
 ||wyvllloeqlamw.top^
 ||wyvllloeqlaok.top^
 ||wyvlllooalwlj.top^
@@ -163127,6 +163149,7 @@ dlsdk.appsflyer.com^
 ||xcswmntemfqmh.site^
 ||xctijlhnpycxg.space^
 ||xctoaoiwgd.com^
+||xcuvjyvdo.com^
 ||xcvfqnxr.net^
 ||xcwbphwkkkfmmwk.com^
 ||xcxmfcqehr.net^
@@ -163136,6 +163159,7 @@ dlsdk.appsflyer.com^
 ||xdbofzoobrmgu.site^
 ||xdhdubnhaymal.site^
 ||xdiccukqbviiz.online^
+||xdikclffnvgmz.website^
 ||xdirectx.com^
 ||xdisplay.site^
 ||xdiwbc.com^
@@ -165055,6 +165079,7 @@ dlsdk.appsflyer.com^
 ||zfgvoltwlszda.site^
 ||zfgvxstfdxdlj.website^
 ||zfklupupe.com^
+||zfoo2relcykev7olu9okic9kq34pbye.cfd^
 ||zfptshtslxuxw.online^
 ||zfq7o819tlkclv.cfd^
 ||zfsdnkzmheyg.com^
@@ -165179,6 +165204,7 @@ dlsdk.appsflyer.com^
 ||zirkitedraco.cyou^
 ||zirxajjgiolaj.online^
 ||zitdither.com^
+||zitigammondhooti.cyou^
 ||zitternborghi.com^
 ||zitzitsora.cfd^
 ||ziupljvisonem.space^
@@ -178395,6 +178421,7 @@ dlsdk.appsflyer.com^
 ||analytics.tsoftapps.com^
 ||c.keltis.com^
 ||sayac.kapital.com.tr^
+||tp.myikas.com^
 ||track.livasoft.com.tr^
 ||trafik.koopit.ist^
 ! Ukranian
@@ -179195,6 +179222,7 @@ dlsdk.appsflyer.com^
 ||tk.pathmonk.com^
 ||tm.vendemore.com^
 ||tms.fmm.io^
+||tonanalytics.mugiwarattagentai.agency^
 ||tr-op.datatrics.com^
 ||tr.attribuly.com^
 ||tr.cloud-media.fr^
