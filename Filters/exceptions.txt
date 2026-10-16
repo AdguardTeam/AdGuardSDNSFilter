@@ -1,3 +1,6 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/244346
+! Blocked by the rule /^2.59.219.121/
+@@||kurolesya.link^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/243444
 ! Blocked by CNAME protecmedia.com
 @@||spartaindependent.com^|
