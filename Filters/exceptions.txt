@@ -198,6 +198,7 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150038
 ! Blocked by CNAME getblueshift.com
 @@||clickattr.wayup.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/244587
 ! https://github.com/AdguardTeam/AdguardFilters/issues/240956
 ! https://github.com/AdguardTeam/AdguardFilters/issues/231294
 ! https://github.com/AdguardTeam/AdguardFilters/issues/213677
@@ -205,6 +206,7 @@
 ! Blocked by CNAME adperfect.com
 @@||used.ca^|
 @@||remembering.ca^|
+@@||obituaries.startribune.com^|
 @@||obituaries.toacorn.com^|
 @@||obituaries.thestar.com^|
 @@||obituaries.therecord.com^|
