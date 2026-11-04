@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-11-04T18:11:10.147Z
+! Last modified: 2026-11-04T20:09:38.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -13863,7 +13863,6 @@ vkcdnservice.appspot.com^
 ||adobecorp.data.adobedc.net^
 ||log-gateway.zoom.us^
 ||orderana*.spankbang.com^
-||upsell.alphwidget.com^
 ||4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com^
 ||error-analytics-sessions-production.shopifysvc.com^
 ||analytics.pesktop.com^
@@ -131117,6 +131116,7 @@ dlsdk.appsflyer.com^
 ||axswhgkytfd.com^
 ||axtglbfykxrew.online^
 ||axupfpniadauk.site^
+||axuzesiruriiv.site^
 ||axvepvjfdoefp.online^
 ||axvhirojna.in^
 ||axvjfzbwezssw.site^
@@ -134212,6 +134212,7 @@ dlsdk.appsflyer.com^
 ||click.scour.com^
 ||click4.pro^
 ||clickadsource.com^
+||clickadu.io^
 ||clickadu.net^
 ||clickagy.com^
 ||clickallow.net^
@@ -139462,6 +139463,7 @@ dlsdk.appsflyer.com^
 ||ferularfirmerauncel.qpon^
 ||feruleucoid.com^
 ||fervorsixtiesveteran.com^
+||fervvqxoshqfa.space^
 ||ferziendfljud.site^
 ||fescuesbracky.cyou^
 ||fesecrxmwowzq.site^
@@ -143926,6 +143928,7 @@ dlsdk.appsflyer.com^
 ||ijmkxepceoabo.site^
 ||ijmrqatwfuemc.website^
 ||ijnthmutgkrvp.online^
+||ijoxegkxbrrqr.site^
 ||ijpopvca.com^
 ||ijptdajxzkxsa.space^
 ||ijrjvfnswmjuz.online^
@@ -148162,6 +148165,7 @@ dlsdk.appsflyer.com^
 ||lrldmqtslbish.site^
 ||lrlqiohtorwwl.website^
 ||lrnumdzqvryvw.online^
+||lrnxjrqvhczjx.space^
 ||lrorwzpayomsy.space^
 ||lrpcqarwprvdy.site^
 ||lrqqsseldxksb.online^
@@ -151078,6 +151082,7 @@ dlsdk.appsflyer.com^
 ||nqeytxdajruxt.space^
 ||nqhjplxwjhqps.site^
 ||nqhtwgphsgujn.space^
+||nqidrahwexcqd.site^
 ||nqifvntxhqpxx.store^
 ||nqkgcjhosjdjl.space^
 ||nqledtidlheid.space^
@@ -155359,6 +155364,7 @@ dlsdk.appsflyer.com^
 ||qieifcyscntul.space^
 ||qigkvucouqnjs.space^
 ||qihegkxiytaah.online^
+||qiikrofqerfbu.site^
 ||qiix78.net^
 ||qimagnauebhcq.online^
 ||qimqebsonbvvy.space^
@@ -162581,6 +162587,7 @@ dlsdk.appsflyer.com^
 ||ulakmnnxbithg.online^
 ||ulamafluxive.com^
 ||ulaodqkxrgard.website^
+||ulayieklcdyas.site^
 ||ulbruiqadlmaa.online^
 ||ulbsqeyjjthea.site^
 ||ulcgleqeazcuo.site^
@@ -163301,6 +163308,7 @@ dlsdk.appsflyer.com^
 ||uuqfsvairtiib.site^
 ||uurufnyiiriee.online^
 ||uuswphqtty.com^
+||uutgblvypeoss.site^
 ||uuuwxykgcvcgp.website^
 ||uuvmpwgygwuag.space^
 ||uuwjrmvavkgrs.site^
@@ -180999,6 +181007,7 @@ dlsdk.appsflyer.com^
 ||adpick.co.kr^
 ||adtive.com^
 ||aicontents.net^
+||alphwidget.com^
 ||dawin.tv^
 ||oevery.com^
 ||rainbownine.net^
@@ -181397,6 +181406,7 @@ dlsdk.appsflyer.com^
 ||tracker.520call.me^
 ||userdive.com^
 ! Korean
+||js-error-tracer-api.cafe24.com^
 ||log.mofa.go.kr^
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
