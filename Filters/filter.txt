@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-11-05T16:11:13.769Z
+! Last modified: 2026-11-05T18:12:17.380Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -22460,10 +22460,6 @@ dlsdk.appsflyer.com^
 ||ws-goguardian.pusher.com^
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
-!
-! eyepin.com
-||post.eyepinnews.com^
-||news.post.at^
 !
 ||jp-axia.m0mentum.net^
 !
@@ -60599,6 +60595,13 @@ dlsdk.appsflyer.com^
 !
 ! Extole : extole.com disguised trackers
 ! not included
+!
+! Eyepin : post.eyepinnews.com disguised trackers
+||post.eyepinnews.com^
+||news.post.at^
+!
+! Company name: Eyepin
+||news.vorteilspost.at^
 !
 ! Fathom : fathomdns.com disguised trackers
 !
@@ -134268,6 +134271,7 @@ dlsdk.appsflyer.com^
 ||byehd3.life^
 ||byelawananke.cfd^
 ||byemanrapinic.qpon^
+||byemyjhxatgbx.site^
 ||byffsmkoopafnf.com^
 ||byflcjyrqcqvd.site^
 ||byghhjtggb.com^
@@ -139592,6 +139596,7 @@ dlsdk.appsflyer.com^
 ||envvxffzamteq.space^
 ||enwawvap.com^
 ||enwombssighing.com^
+||enxfvxzzowhql.website^
 ||enylhpdbexguq.website^
 ||enylukombwf.com^
 ||enzonewarstle.com^
@@ -140144,6 +140149,7 @@ dlsdk.appsflyer.com^
 ||exptrncaaidhs.site^
 ||expulsionelinorcorruption.com^
 ||expwycheapie.com^
+||exqqzcjtdrkhv.website^
 ||exqubzkygkntn.space^
 ||exrcfdbcqiddp.space^
 ||exrtbsrv.com^
@@ -146447,6 +146453,7 @@ dlsdk.appsflyer.com^
 ||jhowmeres.qpon^
 ||jhpmmffqajjcz.site^
 ||jhqieljrzibnr.store^
+||jhqrmzsnjxlgj.website^
 ||jhqumvnlupihm.site^
 ||jhrpdcb.com^
 ||jhrwxnyphhelu.site^
@@ -150952,6 +150959,7 @@ dlsdk.appsflyer.com^
 ||mpyrwiatobzzu.space^
 ||mpzcpexsezuzp.space^
 ||mpzlxmpszhiot.online^
+||mqabxsjlarnap.online^
 ||mqblrvvnppqxw.online^
 ||mqdmupawljale.site^
 ||mqdownload.com^
@@ -152680,6 +152688,7 @@ dlsdk.appsflyer.com^
 ||oavyctdvbrlpz.space^
 ||oawkaajvnfkcu.site^
 ||oaxcyzqojnyxy.online^
+||oayxuyvcihpqa.site^
 ||oazfmcblopdje.online^
 ||obafigsydginf.space^
 ||obbmjwrjwqyrx.online^
@@ -152887,6 +152896,7 @@ dlsdk.appsflyer.com^
 ||oeguaxuwhizbr.site^
 ||oeheupxifmgtq.website^
 ||oeibagiwhfltb.site^
+||oeiyqsbbenvvb.site^
 ||oejpvjjsgibdz.online^
 ||oeknzzjvrsjia.site^
 ||oelctjbbdajev.site^
@@ -155017,6 +155027,7 @@ dlsdk.appsflyer.com^
 ||pkcqlfxxbbobu.online^
 ||pkdanfftxztum.space^
 ||pkfvfrnzcposg.online^
+||pkgmkwszinnhg.online^
 ||pkiagqasgbgqx.online^
 ||pkiigvaxvcsqe.online^
 ||pkjevvtqkxuqe.space^
@@ -169072,6 +169083,7 @@ dlsdk.appsflyer.com^
 ||zaritxkltkkmm.online^
 ||zarpop.com^
 ||zasitzzpxecon.site^
+||zasqpmhvxuikt.space^
 ||zaswcaapdwzi.in^
 ||zatnoh.com^
 ||zaunenurjcmin.site^
