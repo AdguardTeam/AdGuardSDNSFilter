@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-11-05T11:31:26.649Z
+! Last modified: 2026-11-05T12:13:54.894Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||insightjs.com^
+||insightjs.org^
+||89.127.233.127^
+||89.126.250.172^
 ||zowiedead.com^
 ||inyourpocket.co.uk^
 ||lzopmoas.in^
@@ -134421,6 +134425,7 @@ dlsdk.appsflyer.com^
 ||cniaautrk.com^
 ||cnjikkiehkpea.site^
 ||cnkbiotmdnegp.space^
+||cnkhbmbdmoxpj.online^
 ||cnkjtpqtqedzo.space^
 ||cnmwoxnyxyzhs.website^
 ||cnnected.org^
@@ -144073,6 +144078,7 @@ dlsdk.appsflyer.com^
 ||ilolvlalbyqfm.space^
 ||ilonte.xyz^
 ||iloptrex.com^
+||ilpftaaojbbsf.site^
 ||ilpuojxvpvjkr.space^
 ||ilrkcyoqtybaf.website^
 ||ilseyyrqjcewm.site^
@@ -168444,6 +168450,7 @@ dlsdk.appsflyer.com^
 ||zojwwxndxltnd.website^
 ||zokapwppblsly.website^
 ||zokfgnvzcdimh.website^
+||zolyhfauqqitj.site^
 ||zomhfzodazcnz.space^
 ||zonalcalculate.net^
 ||zonariabema.cyou^
@@ -171942,6 +171949,7 @@ dlsdk.appsflyer.com^
 ||alhgxftiz.com^
 ||qh7ptb6mc.com^
 ||3r6fs2855.com^
+||06f2egypr.com^
 ||inequation23.com^
 ||mzzueflt.com^
 ||o9m5znv8ta.com^
