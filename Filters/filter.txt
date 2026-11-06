@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-11-06T02:13:23.232Z
+! Last modified: 2026-11-06T04:11:04.192Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||dvwztnx4ab3fl.cloudfront.net^
 ||insightjs.com^
 ||insightjs.org^
 ||89.127.233.127^
@@ -10798,6 +10799,7 @@ vkcdnservice.appspot.com^
 ! Source: https://adguardteam.github.io/AdguardFilters/JapaneseFilter/sections/adservers.txt
 !
 !
+||re-n-ai.com^
 ||kdrvs.online^
 ||hfgaw.online^
 ||jpvire.com^
@@ -128948,6 +128950,7 @@ dlsdk.appsflyer.com^
 ||2b178ee32a.com^
 ||2b91f59493.com^
 ||2bestoffer.com^
+||2bj4iy5kc83bk13x33w8ez.cfd^
 ||2c0c53f608.com^
 ||2c0fe270d2.com^
 ||2c3883cf63.com^
@@ -132217,6 +132220,7 @@ dlsdk.appsflyer.com^
 ||awxdlwbxqjnoi.online^
 ||awzpvorsyltel.website^
 ||axabpelvjfqav.site^
+||axbhjugezguyh.space^
 ||axdzmrruiattf.website^
 ||axeldivision.com^
 ||axepsazc.com^
@@ -137306,6 +137310,7 @@ dlsdk.appsflyer.com^
 ||detour.click^
 ||detoxifylagoonsnugness.com^
 ||detrucksolod.com^
+||detunedverbssublet.cfd^
 ||deturbcordies.com^
 ||deuxseethe.com^
 ||devaluequalmrelative.com^
@@ -139923,6 +139928,7 @@ dlsdk.appsflyer.com^
 ||etmjplnjgc.com^
 ||etmurmcxyfsvg.online^
 ||etnxtlqhknmmb.space^
+||etocylfywdukk.online^
 ||etphoneme.com^
 ||etrownlnplynt.website^
 ||etrziksdiztxr.site^
@@ -146792,6 +146798,7 @@ dlsdk.appsflyer.com^
 ||jpavgtzkbjpwi.site^
 ||jpbphraoemadf.online^
 ||jpbsggqehlopl.online^
+||jpcbwgndalsqk.online^
 ||jpcjzcrkrugie.online^
 ||jpcondmntznwm.site^
 ||jpedfaatfb.in^
@@ -147133,6 +147140,7 @@ dlsdk.appsflyer.com^
 ||jwuxryzdclpzp.site^
 ||jwwuouceapxwn.site^
 ||jwxlupfcsmlkb.online^
+||jx293unqibl1xw72v.rest^
 ||jx7oe5niq74brhowblwvxmq1.cfd^
 ||jxaoqoledelht.online^
 ||jxavjloeqgrbz.space^
@@ -149433,6 +149441,7 @@ dlsdk.appsflyer.com^
 ||lsbeoapffxuaz.site^
 ||lsburely.com^
 ||lscsexsnjacwr.site^
+||lsctcyzhpdcsg.site^
 ||lscudygcxiqnn.online^
 ||lsdcqjesvxgbw.space^
 ||lsdqpgmlyalfh.website^
@@ -150357,6 +150366,7 @@ dlsdk.appsflyer.com^
 ||mgvwgoceyvtpv.space^
 ||mgwawoyupykxh.online^
 ||mgwxgxnpmzcqa.website^
+||mhaafduliizbe.site^
 ||mhabpggbogdps.site^
 ||mharavczumra.in^
 ||mhcqmxiljmbcn.space^
@@ -152322,6 +152332,7 @@ dlsdk.appsflyer.com^
 ||npdysftocspic.online^
 ||npfbhhacnbios.space^
 ||npfnnmbcuotel.website^
+||npfxfpejvarjn.online^
 ||nphpfgdf.com^
 ||nphxtgyzxotgf.online^
 ||npilkasacdu.in^
@@ -152656,6 +152667,7 @@ dlsdk.appsflyer.com^
 ||nyevxusngwyzu.online^
 ||nyfoaqkevjoaw.online^
 ||nyfoipsucicjm.site^
+||nyfthpwfvqvhn.site^
 ||nyfwoxdfhgufr.online^
 ||nygidnqwvcmeu.space^
 ||nyhdmzoocskr.com^
@@ -154155,6 +154167,7 @@ dlsdk.appsflyer.com^
 ||packsofgood.com^
 ||pacvrvuworosd.website^
 ||paddleweekendnudge.com^
+||padgntohmxigt.site^
 ||padgzdbyelrca.online^
 ||padinventoryvile.com^
 ||padlockmanners.com^
@@ -160115,6 +160128,7 @@ dlsdk.appsflyer.com^
 ||sjvbijdpdkxzd.website^
 ||sjxctpzzjoxdw.website^
 ||sjxhfptdoqkvo.site^
+||sjzieadynfqtl.online^
 ||skairsordini.cyou^
 ||skaldsgils.com^
 ||skanceharshly.com^
@@ -162170,6 +162184,7 @@ dlsdk.appsflyer.com^
 ||tfamwgkiacqwb.space^
 ||tfb7jc.de^
 ||tfbwbzmzisbif.online^
+||tfcjednruptmp.site^
 ||tfepsjmtyqaln.website^
 ||tfflrmlygarjj.online^
 ||tfhfrwaiwjbrb.space^
@@ -165874,6 +165889,7 @@ dlsdk.appsflyer.com^
 ||vyeqerkexpebzd.com^
 ||vyeuqdytjkjt.com^
 ||vyhcybggesktf.website^
+||vyhvdpjjgxqup.site^
 ||vyilmellyqbfs.online^
 ||vyis.net^
 ||vylrhxnitzghi.website^
@@ -168208,6 +168224,7 @@ dlsdk.appsflyer.com^
 ||xysterrevulse.cyou^
 ||xyuqvvrvdmelc.space^
 ||xyxiqtwkjqflt.site^
+||xyxrhrnppvbxi.site^
 ||xz0wefju.fun^
 ||xzbyhyxkzfbpa.space^
 ||xzcjkomnnjseu.space^
@@ -168530,6 +168547,7 @@ dlsdk.appsflyer.com^
 ||yhddxxitbqxci.online^
 ||yhettexs.net^
 ||yhgtgwewtwmka.site^
+||yhhdxlmzwelwq.site^
 ||yhhkrndlxhksx.online^
 ||yhhqalanfrdyo.space^
 ||yhiotiihvrrlg.space^
@@ -169743,6 +169761,7 @@ dlsdk.appsflyer.com^
 ||zpmugwz27bcwo9m1w26r1rvtm.rest^
 ||zpmuyjqwbxidg.online^
 ||zpnfabznyzmuc.site^
+||zpptusrwzaapg.site^
 ||zppvjakzlptsd.site^
 ||zpqdgwcusmklx.site^
 ||zpqexwvudjqmb.space^
@@ -169946,6 +169965,7 @@ dlsdk.appsflyer.com^
 ||zvetokr2hr8pcng09.com^
 ||zvfrawshgpecg.website^
 ||zvglmqsgwbfhe.website^
+||zvhyujtycswmj.website^
 ||zvjbgsqpcnlku.site^
 ||zvjinchjnsjje.site^
 ||zvjsiihwctudv.online^
@@ -178044,7 +178064,6 @@ dlsdk.appsflyer.com^
 ||de.as.pptv.com^
 ||dehua.ixinfan.com^
 ||deliver.ifeng.com^
-||delivery.playallvideos.com^
 ||delivery.wasu.cn^
 ||djs.baomihua.com^
 ||dms.fx678.com^
@@ -178108,7 +178127,6 @@ dlsdk.appsflyer.com^
 ||ivy.pconline.com.cn^
 ||iwanad.baidu.com^
 ||ja*.gamersky.com^
-||js*.abolezi.com^
 ||js.bju888.com^
 ||js.duotegame.com^
 ||jxad.jx163.com^
@@ -178179,7 +178197,6 @@ dlsdk.appsflyer.com^
 ||wuliao.epro.sogou.com^
 ||xc.macd.cn^
 ||xc.mydrivers.com^
-||xdyjt.com^
 ||xs.houyi.baofeng.net^
 ||ya*.dwstatic.com^
 ||yktj.yzz.cn^
