@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-11-09T02:14:05.102Z
+! Last modified: 2026-11-09T04:12:18.299Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -406,7 +406,6 @@
 ||fastdntrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||finanvideos.com^$dnsrewrite=ad-block.dns.adguard.com
 ||flyingadvert.com^$dnsrewrite=ad-block.dns.adguard.com
-||foerpo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||foflf.com^$dnsrewrite=ad-block.dns.adguard.com
 ||forgetnet.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||foruftuiov.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -446,10 +445,8 @@
 ||hiiona.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hilltopads.net^$dnsrewrite=ad-block.dns.adguard.com
 ||hnrgmc.com^$dnsrewrite=ad-block.dns.adguard.com
-||hoktrips.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hooligs.app^$dnsrewrite=ad-block.dns.adguard.com
 ||hooliredir.com^$dnsrewrite=ad-block.dns.adguard.com
-||horonstogly.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hoveltran.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||hubrisone.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hugeedate.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -537,7 +534,6 @@
 ||myafriend.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mylot.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mynutraresearch.com^$dnsrewrite=ad-block.dns.adguard.com
-||mytdsnet.com^$dnsrewrite=ad-block.dns.adguard.com
 ||n91hg.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nan0cns.com^$dnsrewrite=ad-block.dns.adguard.com
 ||navigatingnautical.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -557,7 +553,6 @@
 ||nwwrtbbit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nxt-psh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||obtaintrout.com^$dnsrewrite=ad-block.dns.adguard.com
-||offergate-ecommerce-cdn5.com^$dnsrewrite=ad-block.dns.adguard.com
 ||offergate-software11.com^$dnsrewrite=ad-block.dns.adguard.com
 ||offergate-software20.com^$dnsrewrite=ad-block.dns.adguard.com
 ||offergate-software6.com^$dnsrewrite=ad-block.dns.adguard.com
