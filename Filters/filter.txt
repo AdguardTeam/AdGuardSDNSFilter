@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-11-11T12:13:37.871Z
+! Last modified: 2026-11-11T12:47:31.779Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -134472,6 +134472,7 @@ dlsdk.appsflyer.com^
 ||binioumusales.rest^
 ||binomlink.com^
 ||binomnet3.com^
+||binwfyodpaq.in^
 ||binxafdgelqxx.online^
 ||biodegradablegrand.com^
 ||biographygridetelegram.com^
@@ -136785,6 +136786,7 @@ dlsdk.appsflyer.com^
 ||cmmwpkihpyefy.website^
 ||cmolkehwqwiur.online^
 ||cmorautniwdao.space^
+||cmosdznhcybkr.site^
 ||cmpgns.net^
 ||cmptphyupeflf.site^
 ||cmrdr.com^
@@ -140111,6 +140113,7 @@ dlsdk.appsflyer.com^
 ||ebxueustknziw.site^
 ||ebz.io^
 ||ebzgdypzgm.com^
+||ebzzilrmoithf.space^
 ||ec0d919893.com^
 ||ec375309c1.com^
 ||ec37d6572b.com^
@@ -154784,6 +154787,7 @@ dlsdk.appsflyer.com^
 ||owmvwuaeledta.space^
 ||owndangle.com^
 ||owndata.network^
+||ownwdfdghpxyk.website^
 ||owonchghcurdw.website^
 ||owouqmotnfwan.space^
 ||owqjomwvssfdx.space^
@@ -157449,6 +157453,7 @@ dlsdk.appsflyer.com^
 ||qlnwhkkvpnfpn.website^
 ||qloekmmsuwjlq.website^
 ||qlpqyeiodksjq.online^
+||qlpvssymowjat.site^
 ||qltkzqox.com^
 ||qltyhgluwdchv.site^
 ||qlucmyomqatcz.online^
@@ -161456,6 +161461,7 @@ dlsdk.appsflyer.com^
 ||spurtvastsummer.com^
 ||spvtwiiyefosr.online^
 ||spyabstuubnat.space^
+||spyzdindnauks.site^
 ||spzsynbvnudov.site^
 ||sqanziqmyedau.online^
 ||sqbcgfrjznaao.space^
@@ -164926,6 +164932,7 @@ dlsdk.appsflyer.com^
 ||uqqgmvetpuzrs.online^
 ||uqqmj868.xyz^
 ||uqqypanepjrlw.site^
+||uqrgdfwafkazi.space^
 ||uqrnrywr.com^
 ||uqrtfsfrawfgn.website^
 ||uqrvnzrdldmay.space^
@@ -167799,6 +167806,7 @@ dlsdk.appsflyer.com^
 ||xajyvcqiqpzmk.site^
 ||xakhgpksmptdm.website^
 ||xakthbllanwtn.space^
+||xamarlwmbpylo.website^
 ||xamotrvpgkapn.site^
 ||xamxcaiizwbhu.space^
 ||xaniueikmujyp.online^
@@ -170051,6 +170059,7 @@ dlsdk.appsflyer.com^
 ||zpyxbftwhanbj.space^
 ||zpzcahumfmsyi.website^
 ||zpzocdawngoct.website^
+||zqbpgojxnbvzt.space^
 ||zqbxmcyztwdju.online^
 ||zqesidsufeygf.website^
 ||zqethqturvqgc.online^
@@ -180250,6 +180259,7 @@ dlsdk.appsflyer.com^
 ||clumsycar.com^
 ||clutchcourses.com^
 ||coalkitchen.com^
+||coalmerchants.com^
 ||coastersim.com^
 ||coatfood.com^
 ||cobaltoverture.com^
@@ -191559,6 +191569,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2134
+@@||analytics.cibc.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2128
 ! Blocked by CNAME data.adobedc.net
 @@||unsubscribe.email.premierleague.com^|
