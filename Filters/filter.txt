@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-11-15T20:09:09.101Z
+! Last modified: 2026-11-15T20:59:38.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -12527,6 +12527,7 @@ vkcdnservice.appspot.com^
 !
 ! NOTE: Regular rules
 !
+||beacon.viafoura.io^
 ||events.plus.yandex.net^
 ||20251117mix.zgstongji.vip^
 ||2702.anglicanledger.org^
@@ -134522,6 +134523,7 @@ dlsdk.appsflyer.com^
 ||bhszasnoamoro.space^
 ||bhwgdvpavsfzw.site^
 ||bhwkyiddqyole.space^
+||bhzlnqdgqg.com^
 ||bi2oc18ujgnhfffjm1c.cfd^
 ||biadglomdzyys.online^
 ||biancasunlit.com^
@@ -140641,6 +140643,7 @@ dlsdk.appsflyer.com^
 ||egaxybiqeramc.space^
 ||egbggijlkjwoo.space^
 ||egczoevqyffdo.site^
+||egemetembunbv.space^
 ||egencesilker.qpon^
 ||egfopffnqvsxs.website^
 ||egfqzlqcynxif.online^
@@ -141333,6 +141336,7 @@ dlsdk.appsflyer.com^
 ||erjhdkjpobgzv.online^
 ||erjmzyibsksrq.space^
 ||erjw7px373983fgovelfjpnnnu6.cfd^
+||erkebopmeaner.cyou^
 ||erlnbioeizfsc.online^
 ||ermittouters.shop^
 ||ermowffamrahw.website^
@@ -141503,6 +141507,7 @@ dlsdk.appsflyer.com^
 ||euiyudfbgdkdd.space^
 ||eujgdrvqhgrpv.site^
 ||eukova.com^
+||eumihjtdyfydm.online^
 ||eumqihayfiail.site^
 ||eumvaoqnrynhi.space^
 ||eunow4u.com^
@@ -143453,6 +143458,7 @@ dlsdk.appsflyer.com^
 ||gainingpartyyoga.com^
 ||gainsscarceshiny.com^
 ||gaiterscomics.com^
+||gaiulfxwfsccl.website^
 ||gaixbgrvlxzil.space^
 ||gajjbsoorzpux.space^
 ||gajyhhatyhace.site^
@@ -146070,6 +146076,7 @@ dlsdk.appsflyer.com^
 ||hsefhnuodtav.com^
 ||hsektnmjyvshw.online^
 ||hsfcuorcijlne.website^
+||hsiyrghptxjyd.site^
 ||hsjjoaotgdfzw.online^
 ||hsjpqusfppyjf.site^
 ||hskdsrrhfeyqp.website^
@@ -154832,6 +154839,7 @@ dlsdk.appsflyer.com^
 ||ogmslkksd.com^
 ||ognuhmzyfudyd.site^
 ||ogopsmaoxxnfl.website^
+||ogopuwzzklqde.site^
 ||ogorwaste.com^
 ||ogpbiyasujelr.website^
 ||ogqlccnoxzvum.space^
@@ -159132,6 +159140,7 @@ dlsdk.appsflyer.com^
 ||rallytrck.website^
 ||ralphrostral.com^
 ||ralsspass.com^
+||ramblabulged.cyou^
 ||ramismguarabu.qpon^
 ||ramlvunszdcxt.website^
 ||rammishruinous.com^
@@ -169626,6 +169635,7 @@ dlsdk.appsflyer.com^
 ||xkkevlweemcty.site^
 ||xkkiyatdjqjkq.space^
 ||xklierukbx7yzbq7ev7.cfd^
+||xklxywanhkjnm.website^
 ||xkmhnekbfoibx.website^
 ||xkmtxaybwpbnj.space^
 ||xkmxxgroronzy.online^
@@ -184417,7 +184427,6 @@ dlsdk.appsflyer.com^
 ! Hebrew
 ||fortvision.com^
 ||lead.im^
-||memcyco.com^
 ! Hungarian
 ||gpr.hu^
 ||p24.hu^
@@ -185208,7 +185217,6 @@ dlsdk.appsflyer.com^
 ||beacon.s.llnwi.net^
 ||beacon.searchspring.io^
 ||beacon.sftoaa.com^
-||beacon.viafoura.io^
 ||beacon.webpresence.work^
 ||beam.mjhlifesciences.com^
 ||beamanalytics.b-cdn.net^
