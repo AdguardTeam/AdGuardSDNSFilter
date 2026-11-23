@@ -3,7 +3,7 @@
 ! Description: Filter includes rules for sites that open in a new window, composed from AdGuard, EasyList, ABPindo filters and improved for compatibility with DNS-level pop-up blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-11-23T02:14:50.784Z
+! Last modified: 2026-11-23T04:12:30.620Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -348,7 +348,6 @@
 ||clearwatch.tv^$dnsrewrite=ad-block.dns.adguard.com
 ||click-for-preview.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clickblitzo.com^$dnsrewrite=ad-block.dns.adguard.com
-||clickpunch.icu^$dnsrewrite=ad-block.dns.adguard.com
 ||cliphotbokep.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||clixwells.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clladss.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -686,7 +685,6 @@
 ||stortla.com^$dnsrewrite=ad-block.dns.adguard.com
 ||strtgic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stsbih.com.ba^$dnsrewrite=ad-block.dns.adguard.com
-||studiotrackmusic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||superfasti.co^$dnsrewrite=ad-block.dns.adguard.com
 ||sxlflt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||synccora.com^$dnsrewrite=ad-block.dns.adguard.com
