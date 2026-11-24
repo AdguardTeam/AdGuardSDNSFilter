@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-11-24T16:11:16.716Z
+! Last modified: 2026-11-24T16:22:45.086Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -20354,7 +20354,6 @@ dlsdk.appsflyer.com^
 ||mushroomgods.com^
 ||t-dsp.pinduoduo.com^
 ||elmasistatistik.com.tr^
-||bapi-*.moengage.com^
 ||analystic.365av.net^
 ||mollyflow.com^
 ||citiservi.es^
@@ -145357,6 +145356,7 @@ dlsdk.appsflyer.com^
 ||fhoegaomuumuz.online^
 ||fhoodmdcbyqxt.online^
 ||fhphtzpznhgen.website^
+||fhqgblsehmaga.site^
 ||fhrhakpangapt.space^
 ||fhsgntrgjtioc.online^
 ||fhslwakwmubsi.space^
@@ -146957,6 +146957,7 @@ dlsdk.appsflyer.com^
 ||giftedbelt.com^
 ||giftedbuffet.info^
 ||gifteddonut.com^
+||giftedflax.info^
 ||giftedimplacablefacile.com^
 ||giftedlemon.com^
 ||giganticnimblealways.com^
@@ -174506,6 +174507,7 @@ dlsdk.appsflyer.com^
 ||zwkfzyjtadeuz.space^
 ||zwkpevnhhfjpt.online^
 ||zwkzzudxeaoos.space^
+||zwlhvuires.com^
 ||zwlujcfwmuysf.website^
 ||zwmkmbnmsrrks.site^
 ||zwnoeqzsuz.com^
@@ -195759,9 +195761,6 @@ analytics-*.aasaam.com
 @@||data.orders.costco.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2001
 @@||link.meet5.net^|
-! https://github.com/AdguardTeam/AdguardFilters/issues/220979
-! Blocked by CNAME moengage.com
-@@||link.nzz.ch^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/216594
 ! Blocked by CNAME ads.viralize.tv
 @@||content.viralize.tv^|
