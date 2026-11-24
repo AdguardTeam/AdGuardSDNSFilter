@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-11-24T18:11:49.924Z
+! Last modified: 2026-11-24T20:09:01.998Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -8641,6 +8641,8 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||ry6wy3dr62usd0fnicfk.com^
+||hxgnwrwslhzgrmjsfvdevrjpn.com^
 ||artjnley.com^
 ||ezze0ct.com^
 ||hokkid5.com^
@@ -134151,6 +134153,7 @@ dlsdk.appsflyer.com^
 ||9ff1a25009.com^
 ||9fqqxlhki9wz7ej3.cfd^
 ||9hkv3j6ql4n2ego4f1npgj1lng2oh3php.cfd^
+||9ip7few3b4jif4th2f936e1uy4.rest^
 ||9kcut8werch6hbker1yub.cfd^
 ||9l3s3fnhl.com^
 ||9l5ss9l.de^
@@ -134509,6 +134512,7 @@ dlsdk.appsflyer.com^
 ||actingturk.com^
 ||actinondistent.cyou^
 ||actionfurmap.com^
+||actiumfug.com^
 ||activategrowconserve.com^
 ||activatormanorplausible.com^
 ||active-bat.com^
@@ -136976,6 +136980,7 @@ dlsdk.appsflyer.com^
 ||baqczoryagbvi.online^
 ||barabrabronzy.com^
 ||barattehairpin.qpon^
+||barbafvgixbsa.website^
 ||barbatehabeas.rest^
 ||barbecueasleeprealistic.com^
 ||barbitabackupslexemic.cfd^
@@ -137937,6 +137942,7 @@ dlsdk.appsflyer.com^
 ||bmvdqqwslbvyo.online^
 ||bmwjdcvvlhbrb.space^
 ||bmxpsxdqliuhj.space^
+||bmxvcbvmigvrp.site^
 ||bn5x.net^
 ||bnakoeekmxmyl.website^
 ||bnbgdqjurxsoo.site^
@@ -139597,6 +139603,7 @@ dlsdk.appsflyer.com^
 ||cheetieaha.com^
 ||cheetintake.cfd^
 ||cheftoondiligord.site^
+||chekistirredcotman.cfd^
 ||chemicalssmuglyuntying.com^
 ||chemicsheathy.qpon^
 ||chenfbdjnlypd.site^
@@ -140900,6 +140907,7 @@ dlsdk.appsflyer.com^
 ||cswzdujrpvyra.site^
 ||csxbezadpeazu.site^
 ||csygdrdbwobsh.space^
+||csykvhl.com^
 ||ct11.biz^
 ||ctailhmpxgzlr.online^
 ||ctaopbfpep.in^
@@ -141127,6 +141135,7 @@ dlsdk.appsflyer.com^
 ||cwpnsfapies.com^
 ||cwqtqpxudxicq.space^
 ||cwrlsjkvjdgff.site^
+||cwsxeyiooubjg.space^
 ||cwtervpgcjuqa.website^
 ||cwtihirfcakbp.site^
 ||cwtjduacwhhtj.site^
@@ -142020,6 +142029,7 @@ dlsdk.appsflyer.com^
 ||dialswhaudevolve.cyou^
 ||dianomioffers.co.uk^
 ||diaperstackies.cfd^
+||diarchgullynephric.cyou^
 ||diarrhoeaeaglesunday.com^
 ||diatomacranes.cyou^
 ||diaxialseguingeyrant.cyou^
@@ -147082,6 +147092,7 @@ dlsdk.appsflyer.com^
 ||gkmwjxiv.com^
 ||gknnuqpmvgjrh.online^
 ||gkqbchithqwh.com^
+||gkretspkgsctm.online^
 ||gkrtmc.com^
 ||gkszvanzrueuf.space^
 ||gkvfndkdzavrv.online^
@@ -147883,6 +147894,7 @@ dlsdk.appsflyer.com^
 ||gwl9bov9fn1hvpyrbio9ii.cfd^
 ||gwlhzzfzmkzxu.online^
 ||gwngokhbfqybo.space^
+||gwpbffhjdemva.site^
 ||gwrqslmseajux.site^
 ||gwrsyyrghwnuo.space^
 ||gwvdcsktrvzjc.site^
@@ -149665,6 +149677,7 @@ dlsdk.appsflyer.com^
 ||ifquayfkshevq.online^
 ||ifqurqkzqnupr.site^
 ||iftuzvnyudfus.online^
+||ifverjmhgjpzq.online^
 ||ifvkcwzhysyia.site^
 ||ifvrcwxxbmvoo.website^
 ||ifxijbhztrtvp.site^
@@ -149826,6 +149839,7 @@ dlsdk.appsflyer.com^
 ||ileuadlrdnpow.space^
 ||ileumoctant.com^
 ||ilexeslapeler.com^
+||ilezkybigxjqu.site^
 ||ilggukzdomyuy.site^
 ||ilgosajlubqdg.space^
 ||ilgpscfvwohwr.space^
@@ -151403,6 +151417,7 @@ dlsdk.appsflyer.com^
 ||josephclassics.com^
 ||jotanngycjvxw.online^
 ||jothupdftjxhv.site^
+||jotmlpvassasq.site^
 ||jottyashkoko.qpon^
 ||joualsfelafelheroine.cyou^
 ||joudauhee.com^
@@ -154076,6 +154091,7 @@ dlsdk.appsflyer.com^
 ||lpgouuzcqcfjz.site^
 ||lphzghnxjvujh.online^
 ||lpiclzjsiwsaw.online^
+||lpjesrjwmfdwb.online^
 ||lpjnugxqeofzm.site^
 ||lpjxlnldaryvk.online^
 ||lpklqoaezptbr.space^
@@ -155409,6 +155425,7 @@ dlsdk.appsflyer.com^
 ||mmmlwhgoylgwm.online^
 ||mmmporlalokma.space^
 ||mmmubvcsmkjcz.online^
+||mmmumubktklfhl.com^
 ||mmnzwpegsihfr.site^
 ||mmondi.com^
 ||mmoplayerz.com^
@@ -157495,6 +157512,7 @@ dlsdk.appsflyer.com^
 ||obliquecensortend.com^
 ||obliquescallionexcavator.com^
 ||oblivionplaysaltered.com^
+||obljulpi.in^
 ||oblong-punch.com^
 ||oblong-recover.pro^
 ||obnzriaaldxfc.site^
@@ -163291,6 +163309,7 @@ dlsdk.appsflyer.com^
 ||rpxrrkmujxbhr.website^
 ||rpyfymluiytke.website^
 ||rpygulnnitaeg.space^
+||rpynajomkrwgq.website^
 ||rpyplk.com^
 ||rpyztjadsbonh.store^
 ||rpzlvdgceixjx.online^
@@ -163333,6 +163352,7 @@ dlsdk.appsflyer.com^
 ||rrijuekqotlri.site^
 ||rrkvgegrywbkf.site^
 ||rrlpfsdammzii.site^
+||rrmxaipuvpfbe.space^
 ||rrnkmzaflln.com^
 ||rrpbdjwpvqovf.online^
 ||rrpbonj6pfzv2b6z.cfd^
@@ -166409,6 +166429,7 @@ dlsdk.appsflyer.com^
 ||syinga.com^
 ||syjdybprospmg.site^
 ||syjpyfglqztin.space^
+||sykqfitqdiwbo.online^
 ||sylvanpestful.rest^
 ||sylxisys.com^
 ||symboldense.com^
@@ -166468,6 +166489,7 @@ dlsdk.appsflyer.com^
 ||szgezbisdrqbf.website^
 ||szgistaexaeaj.space^
 ||szhbxgrzzsiw.com^
+||szjtgitvjaxty.website^
 ||szkngudpzkgan.website^
 ||szlcgeoxvoqzs.online^
 ||szluwimnygffe.site^
@@ -168560,6 +168582,7 @@ dlsdk.appsflyer.com^
 ||ui02.com^
 ||uiapoozgbrnyy.site^
 ||uibcqpgbxhsjt.site^
+||uibnyreijcmyc.space^
 ||uiddjbqqqjfku.online^
 ||uidsync.net^
 ||uidvuwfpybvnp.online^
@@ -168881,6 +168904,7 @@ dlsdk.appsflyer.com^
 ||uniquebranch.com^
 ||uniqueproceedingincurable.com^
 ||uniquetrowman.com^
+||uniquewave.info^
 ||unirsweqilejf.website^
 ||unitedjetinclusion.com^
 ||unitersetboltiambics.cyou^
@@ -171554,6 +171578,7 @@ dlsdk.appsflyer.com^
 ||wonderconqueriris.com^
 ||wonderingaffront.com^
 ||wonderingtipmortify.com^
+||wonguprisen.click^
 ||wonkierboca.com^
 ||wonnotscroganisoin.cyou^
 ||wonvlbctthsve.online^
@@ -171960,6 +171985,7 @@ dlsdk.appsflyer.com^
 ||wxwjidcqfsakq.space^
 ||wxxpwlalzbagk.space^
 ||wxynsnaplyrio.online^
+||wxzpeizldnupa.website^
 ||wy7zi79ri3vbkz63zeegr.cfd^
 ||wyaiuzyqwbuvt.site^
 ||wyaustogc.com^
@@ -172164,6 +172190,7 @@ dlsdk.appsflyer.com^
 ||xebmcayqpzmlf.site^
 ||xecdcjxhuefhg.space^
 ||xecetvzlrqphx.site^
+||xecnfeepzokjx.online^
 ||xedvuqcniuwth.website^
 ||xeeoeaoxudhxh.online^
 ||xefhktqktlwar.space^
